@@ -13565,3 +13565,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0366. 🔧 refactor: remove redundant code blocks
 0088. 📚 docs: add API usage examples
+0871. ✅ test: add integration test for /submit endpoint
