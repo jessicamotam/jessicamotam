@@ -41940,3 +41940,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0637. 🎨 style: apply consistent indentation
 0222. 🐛 fix: handle 500 error in quiz API
+0221. ✨ feat: add user authentication
