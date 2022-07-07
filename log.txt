@@ -53370,3 +53370,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0638. 📚 docs: improve code comments in utils
 0067. 🔧 refactor: remove redundant code blocks
+0562. 🔧 refactor: clean up auth middleware
