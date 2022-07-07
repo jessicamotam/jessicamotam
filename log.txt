@@ -61086,3 +61086,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0569. 📚 docs: document token refresh logic
 0991. ♻️ chore: clean up unused files
+0696. 🔧 refactor: clean up auth middleware
