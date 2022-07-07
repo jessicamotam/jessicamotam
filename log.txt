@@ -54108,3 +54108,4 @@
 0940. 📚 docs: document token refresh logic
 0478. 🐛 fix: resolve issue with date parsing
 0620. ✨ feat: implement quiz timer feature
+0391. 🐛 fix: fix null pointer exception on login
