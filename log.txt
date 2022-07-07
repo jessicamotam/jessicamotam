@@ -75379,3 +75379,4 @@
 0811. 🎨 style: reformat files with black
 0114. ♻️ chore: update .gitignore
 0994. 🚀 perf: reduce image load time
+0226. 🚀 perf: lazy-load components
