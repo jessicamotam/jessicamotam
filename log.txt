@@ -37587,3 +37587,4 @@
 0684. 🚀 perf: reduce image load time
 0472. 🐛 fix: fix null pointer exception on login
 0030. 🐛 fix: fix null pointer exception on login
+0880. 🐛 fix: fix broken CSS in mobile view
