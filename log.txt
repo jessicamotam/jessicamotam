@@ -32746,3 +32746,4 @@
 0060. ♻️ chore: clean up unused files
 0850. ♻️ chore: rename env.example
 0290. ✅ test: test user registration edge cases
+0732. ♻️ chore: add GitHub actions badge
