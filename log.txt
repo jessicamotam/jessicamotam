@@ -20213,3 +20213,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0702. ✨ feat: add user authentication
 0937. 🐛 fix: handle 500 error in quiz API
+0571. 🔧 refactor: clean up auth middleware
