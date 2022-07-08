@@ -36351,3 +36351,4 @@
 0481. ✅ test: add unit test for quiz service
 0777. 📚 docs: document token refresh logic
 0558. ✨ feat: enable dark mode toggle
+0739. 🎨 style: remove trailing whitespace
