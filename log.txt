@@ -34105,3 +34105,4 @@
 0149. ✨ feat: add export to CSV option
 0112. ✨ feat: enable dark mode toggle
 0330. ✅ test: test user registration edge cases
+0711. 🐛 fix: fix broken CSS in mobile view
