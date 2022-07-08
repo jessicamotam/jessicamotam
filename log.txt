@@ -74467,3 +74467,4 @@
 0925. ✨ feat: add export to CSV option
 0128. ♻️ chore: rename env.example
 0741. 🎨 style: apply consistent indentation
+0558. ✨ feat: enable dark mode toggle
