@@ -9378,3 +9378,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0211. 🔧 refactor: remove redundant code blocks
 0415. 🐛 fix: handle 500 error in quiz API
+0975. 🎨 style: apply consistent indentation
