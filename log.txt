@@ -3219,3 +3219,4 @@
 0055. 📚 docs: update README with setup steps
 0092. 🚀 perf: reduce image load time
 0223. 🔧 refactor: remove redundant code blocks
+0406. ✨ feat: add export to CSV option
