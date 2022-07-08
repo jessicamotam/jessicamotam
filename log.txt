@@ -49777,3 +49777,4 @@
 0174. 📚 docs: clarify environment setup
 0946. ✅ test: add unit test for quiz service
 0449. ✅ test: add unit test for quiz service
+0989. 📚 docs: write FAQ section
