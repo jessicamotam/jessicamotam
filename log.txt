@@ -85757,3 +85757,4 @@
 0854. ♻️ chore: rename env.example
 0431. 🎨 style: reformat files with black
 0676. 🐛 fix: prevent crash on empty input
+0668. 🚀 perf: optimize database query for quiz results
