@@ -36095,3 +36095,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0848. 📚 docs: update README with setup steps
 0624. ✅ test: add unit test for quiz service
+0803. ✅ test: mock database connection in test suite
