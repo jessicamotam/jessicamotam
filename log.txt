@@ -34301,3 +34301,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0493. ✨ feat: add user authentication
 0506. 🐛 fix: handle 500 error in quiz API
+0308. 🚀 perf: reduce image load time
