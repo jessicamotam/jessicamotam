@@ -88635,3 +88635,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0114. ♻️ chore: update .gitignore
 0078. ♻️ chore: update .gitignore
+0048. 📚 docs: update README with setup steps
