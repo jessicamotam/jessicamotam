@@ -17137,3 +17137,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0191. 🔧 refactor: refactor quiz grading logic
 0326. 🚀 perf: cache repeated calculations
+0365. 🚀 perf: reduce image load time
