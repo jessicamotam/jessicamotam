@@ -88,3 +88,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0398. 🚀 perf: cache repeated calculations
 0305. ✨ feat: enable dark mode toggle
+0375. 🐛 fix: handle 500 error in quiz API
