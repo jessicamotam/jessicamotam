@@ -41943,3 +41943,4 @@
 0221. ✨ feat: add user authentication
 0175. 📚 docs: add API usage examples
 0114. ♻️ chore: update .gitignore
+0365. 🚀 perf: reduce image load time
