@@ -66713,3 +66713,4 @@
 0634. 🎨 style: reformat files with black
 0670. ✨ feat: add export to CSV option
 0498. ✅ test: mock database connection in test suite
+0770. ♻️ chore: rename env.example
