@@ -78615,3 +78615,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0630. 🚀 perf: lazy-load components
 0739. 🎨 style: remove trailing whitespace
+0167. 🚀 perf: reduce image load time
