@@ -15044,3 +15044,4 @@
 0503. ♻️ chore: rename env.example
 0207. 🐛 fix: prevent crash on empty input
 0326. 🚀 perf: cache repeated calculations
+0341. 🚀 perf: lazy-load components
