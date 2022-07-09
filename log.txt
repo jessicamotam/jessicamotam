@@ -33707,3 +33707,4 @@
 0749. ✨ feat: support email verification
 0162. ♻️ chore: add GitHub actions badge
 0567. 📚 docs: add API usage examples
+0343. 🚀 perf: optimize database query for quiz results
