@@ -81820,3 +81820,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0477. 🐛 fix: fix broken CSS in mobile view
 0898. 🐛 fix: fix broken CSS in mobile view
+0403. ✅ test: mock database connection in test suite
