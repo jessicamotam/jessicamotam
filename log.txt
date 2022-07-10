@@ -40118,3 +40118,4 @@
 0284. ✨ feat: implement quiz timer feature
 0265. 🎨 style: reformat files with black
 0932. ✅ test: add integration test for /submit endpoint
+0666. 🐛 fix: fix broken CSS in mobile view
