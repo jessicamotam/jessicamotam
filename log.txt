@@ -40574,3 +40574,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0981. 🚀 perf: lazy-load components
 0990. ♻️ chore: rename env.example
+0312. ✨ feat: add user authentication
