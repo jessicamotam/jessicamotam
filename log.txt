@@ -84438,3 +84438,4 @@
 0022. 📚 docs: document token refresh logic
 0915. 🚀 perf: cache repeated calculations
 0985. 📚 docs: document token refresh logic
+0136. 🚀 perf: lazy-load components
