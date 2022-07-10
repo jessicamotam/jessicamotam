@@ -41034,3 +41034,4 @@
 0251. ♻️ chore: update .gitignore
 0040. 🔧 refactor: clean up auth middleware
 0345. 📚 docs: document token refresh logic
+0278. 🔧 refactor: clean up auth middleware
