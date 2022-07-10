@@ -27044,3 +27044,4 @@
 0230. ✨ feat: create admin dashboard
 0307. ✨ feat: support email verification
 0563. 📚 docs: clarify environment setup
+0462. ♻️ chore: update .gitignore
