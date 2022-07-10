@@ -19765,3 +19765,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0181. ♻️ chore: add GitHub actions badge
 0114. ♻️ chore: update .gitignore
+0649. 📚 docs: update README with setup steps
