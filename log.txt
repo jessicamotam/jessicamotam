@@ -31366,3 +31366,4 @@
 0730. ✅ test: test user registration edge cases
 0252. 🎨 style: remove trailing whitespace
 0995. ✅ test: mock database connection in test suite
+0039. ✅ test: add integration test for /submit endpoint
