@@ -28324,3 +28324,4 @@
 0888. 🚀 perf: lazy-load components
 0552. 🐛 fix: fix null pointer exception on login
 0618. ✨ feat: support email verification
+0779. 🔧 refactor: organize models into subfolders
