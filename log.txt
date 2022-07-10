@@ -34401,3 +34401,4 @@
 0056. ♻️ chore: rename env.example
 0868. ✅ test: add unit test for quiz service
 0972. 🔧 refactor: refactor quiz grading logic
+0091. ✨ feat: add user authentication
