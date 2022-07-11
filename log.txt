@@ -74211,3 +74211,4 @@
 0325. 🎨 style: rename variables for clarity
 0361. ✨ feat: support email verification
 0085. ✨ feat: support email verification
+0434. 📚 docs: document token refresh logic
