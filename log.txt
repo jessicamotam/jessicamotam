@@ -68780,3 +68780,4 @@
 0669. ✨ feat: enable dark mode toggle
 0975. 🎨 style: apply consistent indentation
 0244. ✨ feat: add export to CSV option
+0686. 🎨 style: standardize quote style
