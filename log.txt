@@ -21918,3 +21918,4 @@
 0762. 🚀 perf: lazy-load components
 0851. ✅ test: mock database connection in test suite
 0968. 🎨 style: standardize quote style
+0294. 🐛 fix: prevent crash on empty input
