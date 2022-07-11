@@ -15705,3 +15705,4 @@
 0726. ✨ feat: enable dark mode toggle
 0956. 📚 docs: clarify environment setup
 0501. ✨ feat: add export to CSV option
+0836. 🚀 perf: optimize database query for quiz results
