@@ -52578,3 +52578,4 @@
 0513. ♻️ chore: bump dependencies
 0773. 📚 docs: document token refresh logic
 0649. 📚 docs: update README with setup steps
+0269. ✅ test: test user registration edge cases
