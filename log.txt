@@ -35334,3 +35334,4 @@
 0614. 🚀 perf: reduce image load time
 0146. 🎨 style: apply consistent indentation
 0524. ♻️ chore: rename env.example
+0074. ♻️ chore: add GitHub actions badge
