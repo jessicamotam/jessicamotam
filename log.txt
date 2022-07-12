@@ -74718,3 +74718,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0396. 🔧 refactor: split large controller into smaller functions
 0795. 📚 docs: update README with setup steps
+0521. 🎨 style: standardize quote style
