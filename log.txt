@@ -46645,3 +46645,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0321. 🔧 refactor: organize models into subfolders
 0596. ♻️ chore: update .gitignore
+0312. ✨ feat: add user authentication
