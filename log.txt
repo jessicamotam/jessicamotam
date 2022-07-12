@@ -22744,3 +22744,4 @@
 0407. 🚀 perf: cache repeated calculations
 0509. ♻️ chore: bump dependencies
 0575. ✅ test: add unit test for quiz service
+0947. 📚 docs: write FAQ section
