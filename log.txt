@@ -7045,3 +7045,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0818. 🔧 refactor: remove redundant code blocks
 0024. 📚 docs: write FAQ section
+0701. 🔧 refactor: clean up auth middleware
