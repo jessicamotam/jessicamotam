@@ -83687,3 +83687,4 @@
 0374. 🎨 style: standardize quote style
 0277. 🎨 style: standardize quote style
 0189. 📚 docs: clarify environment setup
+0041. 🐛 fix: fix broken CSS in mobile view
