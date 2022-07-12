@@ -36347,3 +36347,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0329. 📚 docs: update README with setup steps
 0332. 🎨 style: standardize quote style
+0866. 📚 docs: add API usage examples
