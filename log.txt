@@ -3657,3 +3657,4 @@
 0516. ✅ test: add unit test for quiz service
 0710. 🐛 fix: fix broken CSS in mobile view
 0601. ✨ feat: implement quiz timer feature
+0680. ♻️ chore: add GitHub actions badge
