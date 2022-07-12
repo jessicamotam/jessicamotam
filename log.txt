@@ -22589,3 +22589,4 @@
 0185. 📚 docs: write FAQ section
 0858. ♻️ chore: clean up unused files
 0078. ♻️ chore: update .gitignore
+0939. 📚 docs: update README with setup steps
