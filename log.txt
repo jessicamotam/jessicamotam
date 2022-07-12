@@ -13649,3 +13649,4 @@
 0011. ✅ test: add unit test for quiz service
 0541. 🐛 fix: correct typo in registration form
 0563. 📚 docs: clarify environment setup
+0989. 📚 docs: write FAQ section
