@@ -51920,3 +51920,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0933. 📚 docs: clarify environment setup
 0597. 🚀 perf: cache repeated calculations
+0291. 📚 docs: write FAQ section
