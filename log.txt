@@ -81988,3 +81988,4 @@
 0491. 🚀 perf: lazy-load components
 0615. 🐛 fix: correct typo in registration form
 0695. ✨ feat: create admin dashboard
+0696. 🔧 refactor: clean up auth middleware
