@@ -19868,3 +19868,4 @@
 0691. 🎨 style: rename variables for clarity
 0986. 📚 docs: document token refresh logic
 0485. 📚 docs: update README with setup steps
+0783. 🐛 fix: handle 500 error in quiz API
