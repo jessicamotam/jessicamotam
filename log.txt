@@ -51876,3 +51876,4 @@
 0997. ✅ test: increase coverage on auth module
 0010. ✨ feat: add user authentication
 0781. 🚀 perf: reduce image load time
+0068. 🐛 fix: fix null pointer exception on login
