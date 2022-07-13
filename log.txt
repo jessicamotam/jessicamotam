@@ -26942,3 +26942,4 @@
 0551. 📚 docs: write FAQ section
 0421. 🔧 refactor: split large controller into smaller functions
 0992. ♻️ chore: clean up unused files
+0205. 📚 docs: update README with setup steps
