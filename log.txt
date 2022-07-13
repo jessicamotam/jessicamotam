@@ -21072,3 +21072,4 @@
 0934. ✨ feat: support email verification
 0538. 🐛 fix: fix broken CSS in mobile view
 0457. 🐛 fix: handle 500 error in quiz API
+0054. ♻️ chore: update .gitignore
