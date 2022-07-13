@@ -5209,3 +5209,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0195. 📚 docs: clarify environment setup
 0386. 🚀 perf: optimize database query for quiz results
+0021. ✨ feat: support email verification
