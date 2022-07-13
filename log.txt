@@ -24656,3 +24656,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0930. 🎨 style: apply consistent indentation
 0950. 🎨 style: reformat files with black
+0474. ✅ test: add unit test for quiz service
