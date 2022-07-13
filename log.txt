@@ -36736,3 +36736,4 @@
 0849. 🐛 fix: correct typo in registration form
 0991. ♻️ chore: clean up unused files
 0478. 🐛 fix: resolve issue with date parsing
+0841. 🚀 perf: optimize database query for quiz results
