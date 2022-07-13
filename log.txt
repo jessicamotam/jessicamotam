@@ -86644,3 +86644,4 @@
 0035. ✅ test: increase coverage on auth module
 0287. 📚 docs: write FAQ section
 0773. 📚 docs: document token refresh logic
+0668. 🚀 perf: optimize database query for quiz results
