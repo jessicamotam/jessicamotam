@@ -80540,3 +80540,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0745. ✅ test: add unit test for quiz service
 0954. 🚀 perf: cache repeated calculations
+0312. ✨ feat: add user authentication
