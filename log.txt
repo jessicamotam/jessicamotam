@@ -77971,3 +77971,4 @@
 0696. 🔧 refactor: clean up auth middleware
 0456. 🚀 perf: optimize database query for quiz results
 0876. ♻️ chore: rename env.example
+0493. ✨ feat: add user authentication
