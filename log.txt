@@ -6990,3 +6990,4 @@
 0951. 🎨 style: rename variables for clarity
 0741. 🎨 style: apply consistent indentation
 0569. 📚 docs: document token refresh logic
+0770. ♻️ chore: rename env.example
