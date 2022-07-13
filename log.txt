@@ -47501,3 +47501,4 @@
 0830. 🎨 style: apply consistent indentation
 0816. 🔧 refactor: organize models into subfolders
 0118. 🚀 perf: reduce image load time
+0339. 📚 docs: update README with setup steps
