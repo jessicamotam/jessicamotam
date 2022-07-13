@@ -90575,3 +90575,4 @@
 0446. 🎨 style: apply consistent indentation
 0960. ✅ test: increase coverage on auth module
 0663. 🚀 perf: reduce image load time
+0576. ♻️ chore: update .gitignore
