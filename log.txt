@@ -74391,3 +74391,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0393. 🚀 perf: lazy-load components
 0167. 🚀 perf: reduce image load time
+0513. ♻️ chore: bump dependencies
