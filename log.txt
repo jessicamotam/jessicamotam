@@ -59759,3 +59759,4 @@
 0054. ♻️ chore: update .gitignore
 0706. ✨ feat: support email verification
 0147. ♻️ chore: bump dependencies
+0558. ✨ feat: enable dark mode toggle
