@@ -74600,3 +74600,4 @@
 0803. ✅ test: mock database connection in test suite
 0199. ✨ feat: create admin dashboard
 0323. 📚 docs: clarify environment setup
+0696. 🔧 refactor: clean up auth middleware
