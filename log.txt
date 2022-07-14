@@ -9661,3 +9661,4 @@
 0118. 🚀 perf: reduce image load time
 0651. ✨ feat: enable dark mode toggle
 0287. 📚 docs: write FAQ section
+0677. 📚 docs: add API usage examples
