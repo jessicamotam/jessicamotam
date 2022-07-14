@@ -11909,3 +11909,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0077. ♻️ chore: rename env.example
 0739. 🎨 style: remove trailing whitespace
+0410. 🎨 style: reformat files with black
