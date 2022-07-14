@@ -5813,3 +5813,4 @@
 0435. ✅ test: add unit test for quiz service
 0066. 🔧 refactor: clean up auth middleware
 0233. 🚀 perf: lazy-load components
+0895. ✨ feat: support email verification
