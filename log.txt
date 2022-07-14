@@ -6869,3 +6869,4 @@
 0131. 📚 docs: write FAQ section
 0386. 🚀 perf: optimize database query for quiz results
 0811. 🎨 style: reformat files with black
+0549. ✨ feat: enable dark mode toggle
