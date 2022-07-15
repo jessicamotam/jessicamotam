@@ -85491,3 +85491,4 @@
 0060. ♻️ chore: clean up unused files
 0817. 🔧 refactor: remove redundant code blocks
 0513. ♻️ chore: bump dependencies
+0890. 🔧 refactor: organize models into subfolders
