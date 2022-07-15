@@ -3755,3 +3755,4 @@
 0326. 🚀 perf: cache repeated calculations
 0554. 📚 docs: improve code comments in utils
 0265. 🎨 style: reformat files with black
+0543. ✨ feat: support email verification
