@@ -72300,3 +72300,4 @@
 0403. ✅ test: mock database connection in test suite
 0412. ✅ test: increase coverage on auth module
 0214. 📚 docs: improve code comments in utils
+0517. ✅ test: mock database connection in test suite
