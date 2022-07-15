@@ -27755,3 +27755,4 @@
 0778. 📚 docs: write FAQ section
 0905. ♻️ chore: bump dependencies
 0821. ✅ test: add integration test for /submit endpoint
+0827. 🚀 perf: optimize database query for quiz results
