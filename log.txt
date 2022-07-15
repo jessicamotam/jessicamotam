@@ -49987,3 +49987,4 @@
 0411. ✅ test: add unit test for quiz service
 0428. 🐛 fix: fix null pointer exception on login
 0764. ✨ feat: add user authentication
+0998. 🐛 fix: fix null pointer exception on login
