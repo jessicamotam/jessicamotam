@@ -75849,3 +75849,4 @@
 0390. 🎨 style: standardize quote style
 0156. 🎨 style: rename variables for clarity
 0729. 🔧 refactor: refactor quiz grading logic
+0571. 🔧 refactor: clean up auth middleware
