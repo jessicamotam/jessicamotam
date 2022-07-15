@@ -81545,3 +81545,4 @@
 0960. ✅ test: increase coverage on auth module
 0624. ✅ test: add unit test for quiz service
 0718. 🐛 fix: resolve issue with date parsing
+0529. 📚 docs: write FAQ section
