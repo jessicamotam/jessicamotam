@@ -90838,3 +90838,4 @@
 0446. 🎨 style: apply consistent indentation
 0438. ♻️ chore: bump dependencies
 0165. 🎨 style: remove trailing whitespace
+0037. 🐛 fix: correct typo in registration form
