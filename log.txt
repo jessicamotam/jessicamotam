@@ -23036,3 +23036,4 @@
 0007. 🎨 style: rename variables for clarity
 0042. 📚 docs: document token refresh logic
 0460. 📚 docs: write FAQ section
+0816. 🔧 refactor: organize models into subfolders
