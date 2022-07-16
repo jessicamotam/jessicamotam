@@ -56485,3 +56485,4 @@
 0608. 🔧 refactor: remove redundant code blocks
 0617. ✨ feat: support email verification
 0116. ✨ feat: support email verification
+0646. ✅ test: test user registration edge cases
