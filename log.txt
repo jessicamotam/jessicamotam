@@ -60286,3 +60286,4 @@
 0596. ♻️ chore: update .gitignore
 0030. 🐛 fix: fix null pointer exception on login
 0968. 🎨 style: standardize quote style
+0618. ✨ feat: support email verification
