@@ -18175,3 +18175,4 @@
 0793. 📚 docs: clarify environment setup
 0845. 🚀 perf: cache repeated calculations
 0628. ♻️ chore: add GitHub actions badge
+0824. 🚀 perf: lazy-load components
