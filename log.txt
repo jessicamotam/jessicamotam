@@ -12645,3 +12645,4 @@
 0100. ♻️ chore: update .gitignore
 0116. ✨ feat: support email verification
 0516. ✅ test: add unit test for quiz service
+0279. ✨ feat: support email verification
