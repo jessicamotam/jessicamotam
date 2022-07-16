@@ -16819,3 +16819,4 @@
 0373. 📚 docs: document token refresh logic
 0140. 🐛 fix: handle 500 error in quiz API
 0562. 🔧 refactor: clean up auth middleware
+0371. ✅ test: add integration test for /submit endpoint
