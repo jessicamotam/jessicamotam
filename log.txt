@@ -55578,3 +55578,4 @@
 0670. ✨ feat: add export to CSV option
 0418. ✅ test: mock database connection in test suite
 0296. 🔧 refactor: organize models into subfolders
+0057. 🚀 perf: optimize database query for quiz results
