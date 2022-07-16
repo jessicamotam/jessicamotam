@@ -86571,3 +86571,4 @@
 0536. ✨ feat: add user authentication
 0556. ✨ feat: support email verification
 0440. 📚 docs: update README with setup steps
+0201. 🔧 refactor: clean up auth middleware
