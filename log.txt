@@ -10432,3 +10432,4 @@
 0365. 🚀 perf: reduce image load time
 0846. ✨ feat: implement quiz timer feature
 0722. 📚 docs: add API usage examples
+0036. 🔧 refactor: clean up auth middleware
