@@ -490,3 +490,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0124. 🎨 style: reformat files with black
 0905. ♻️ chore: bump dependencies
+0684. 🚀 perf: reduce image load time
