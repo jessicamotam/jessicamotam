@@ -6931,3 +6931,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0477. 🐛 fix: fix broken CSS in mobile view
 0777. 📚 docs: document token refresh logic
+0625. 🐛 fix: handle 500 error in quiz API
