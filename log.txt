@@ -33670,3 +33670,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0501. ✨ feat: add export to CSV option
 0608. 🔧 refactor: remove redundant code blocks
+0447. ♻️ chore: bump dependencies
