@@ -41284,3 +41284,4 @@
 0908. ♻️ chore: bump dependencies
 0568. 🐛 fix: handle 500 error in quiz API
 0003. ✅ test: increase coverage on auth module
+0328. 🐛 fix: resolve issue with date parsing
