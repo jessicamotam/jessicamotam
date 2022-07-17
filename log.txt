@@ -37867,3 +37867,4 @@
 0260. ✨ feat: create admin dashboard
 0356. 📚 docs: write FAQ section
 0962. ✨ feat: create admin dashboard
+0599. ✅ test: test user registration edge cases
