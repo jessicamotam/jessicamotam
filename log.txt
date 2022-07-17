@@ -75295,3 +75295,4 @@
 0970. ♻️ chore: update .gitignore
 0283. ♻️ chore: add GitHub actions badge
 0384. 📚 docs: clarify environment setup
+0511. 🐛 fix: fix broken CSS in mobile view
