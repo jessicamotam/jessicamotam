@@ -52709,3 +52709,4 @@
 0252. 🎨 style: remove trailing whitespace
 0708. ✅ test: add integration test for /submit endpoint
 0651. ✨ feat: enable dark mode toggle
+0923. ✨ feat: support email verification
