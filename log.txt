@@ -35422,3 +35422,4 @@
 0356. 📚 docs: write FAQ section
 0243. 🔧 refactor: clean up auth middleware
 0052. 🎨 style: standardize quote style
+0676. 🐛 fix: prevent crash on empty input
