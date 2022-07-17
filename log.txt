@@ -661,3 +661,4 @@
 0340. 🚀 perf: optimize database query for quiz results
 0006. 🐛 fix: prevent crash on empty input
 0195. 📚 docs: clarify environment setup
+0326. 🚀 perf: cache repeated calculations
