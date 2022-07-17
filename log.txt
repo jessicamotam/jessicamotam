@@ -24287,3 +24287,4 @@
 0339. 📚 docs: update README with setup steps
 0509. ♻️ chore: bump dependencies
 0048. 📚 docs: update README with setup steps
+0008. 🚀 perf: reduce image load time
