@@ -6801,3 +6801,4 @@
 0956. 📚 docs: clarify environment setup
 0261. 🔧 refactor: refactor quiz grading logic
 0139. 📚 docs: document token refresh logic
+0512. 🚀 perf: reduce image load time
