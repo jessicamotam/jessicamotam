@@ -62408,3 +62408,4 @@
 0151. ✅ test: add unit test for quiz service
 0363. 📚 docs: clarify environment setup
 0740. 🐛 fix: resolve issue with date parsing
+0556. ✨ feat: support email verification
