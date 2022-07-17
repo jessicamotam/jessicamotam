@@ -42371,3 +42371,4 @@
 0387. ✨ feat: enable dark mode toggle
 0574. ✨ feat: enable dark mode toggle
 0204. 🎨 style: standardize quote style
+0384. 📚 docs: clarify environment setup
