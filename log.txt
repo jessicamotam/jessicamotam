@@ -27694,3 +27694,4 @@
 0519. 📚 docs: document token refresh logic
 0962. ✨ feat: create admin dashboard
 0025. 🚀 perf: optimize database query for quiz results
+0778. 📚 docs: write FAQ section
