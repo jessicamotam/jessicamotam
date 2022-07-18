@@ -76527,3 +76527,4 @@
 0523. ♻️ chore: bump dependencies
 0143. ✨ feat: implement quiz timer feature
 0060. ♻️ chore: clean up unused files
+0264. 🚀 perf: optimize database query for quiz results
