@@ -40263,3 +40263,4 @@
 0569. 📚 docs: document token refresh logic
 0068. 🐛 fix: fix null pointer exception on login
 0343. 🚀 perf: optimize database query for quiz results
+0893. 🐛 fix: handle 500 error in quiz API
