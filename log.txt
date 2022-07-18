@@ -28265,3 +28265,4 @@
 0413. ✅ test: add integration test for /submit endpoint
 0449. ✅ test: add unit test for quiz service
 0666. 🐛 fix: fix broken CSS in mobile view
+0665. ♻️ chore: update .gitignore
