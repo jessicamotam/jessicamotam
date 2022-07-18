@@ -35438,3 +35438,4 @@
 0862. ♻️ chore: bump dependencies
 0561. 📚 docs: write FAQ section
 0335. ♻️ chore: update .gitignore
+0875. ✅ test: increase coverage on auth module
