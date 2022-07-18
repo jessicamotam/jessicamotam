@@ -62619,3 +62619,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0377. ✨ feat: add user authentication
 0536. ✨ feat: add user authentication
+0257. 📚 docs: clarify environment setup
