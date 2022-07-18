@@ -44655,3 +44655,4 @@
 0449. ✅ test: add unit test for quiz service
 0902. ✨ feat: enable dark mode toggle
 0107. 🐛 fix: prevent crash on empty input
+0565. ♻️ chore: add GitHub actions badge
