@@ -36613,3 +36613,4 @@
 0640. ♻️ chore: bump dependencies
 0034. 📚 docs: improve code comments in utils
 0146. 🎨 style: apply consistent indentation
+0055. 📚 docs: update README with setup steps
