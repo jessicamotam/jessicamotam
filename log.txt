@@ -1337,3 +1337,4 @@
 0440. 📚 docs: update README with setup steps
 0373. 📚 docs: document token refresh logic
 0455. ♻️ chore: clean up unused files
+0621. 🔧 refactor: clean up auth middleware
