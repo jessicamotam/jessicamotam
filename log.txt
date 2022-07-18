@@ -80630,3 +80630,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0387. ✨ feat: enable dark mode toggle
 0810. 🔧 refactor: refactor quiz grading logic
+0393. 🚀 perf: lazy-load components
