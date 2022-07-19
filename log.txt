@@ -3119,3 +3119,4 @@
 0918. ✨ feat: enable dark mode toggle
 0432. 🎨 style: apply consistent indentation
 0551. 📚 docs: write FAQ section
+0374. 🎨 style: standardize quote style
