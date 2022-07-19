@@ -38076,3 +38076,4 @@
 0424. ✨ feat: add user authentication
 0438. ♻️ chore: bump dependencies
 0037. 🐛 fix: correct typo in registration form
+0730. ✅ test: test user registration edge cases
