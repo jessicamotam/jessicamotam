@@ -19532,3 +19532,4 @@
 0158. 📚 docs: clarify environment setup
 0218. 🔧 refactor: clean up auth middleware
 0077. ♻️ chore: rename env.example
+0724. ✅ test: mock database connection in test suite
