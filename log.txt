@@ -50386,3 +50386,4 @@
 0340. 🚀 perf: optimize database query for quiz results
 0687. 🎨 style: remove trailing whitespace
 0384. 📚 docs: clarify environment setup
+0535. 📚 docs: write FAQ section
