@@ -47405,3 +47405,4 @@
 0379. ✨ feat: support email verification
 0494. 🎨 style: rename variables for clarity
 0251. ♻️ chore: update .gitignore
+0747. 🔧 refactor: clean up auth middleware
