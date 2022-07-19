@@ -56447,3 +56447,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0395. 📚 docs: write FAQ section
 0424. ✨ feat: add user authentication
+0524. ♻️ chore: rename env.example
