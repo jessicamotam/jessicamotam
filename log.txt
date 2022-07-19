@@ -82910,3 +82910,4 @@
 0456. 🚀 perf: optimize database query for quiz results
 0260. ✨ feat: create admin dashboard
 0446. 🎨 style: apply consistent indentation
+0380. 🐛 fix: fix null pointer exception on login
