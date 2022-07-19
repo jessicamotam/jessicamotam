@@ -74808,3 +74808,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0363. 📚 docs: clarify environment setup
 0038. 🎨 style: rename variables for clarity
+0911. ✅ test: increase coverage on auth module
