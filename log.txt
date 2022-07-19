@@ -31705,3 +31705,4 @@
 0170. ✅ test: increase coverage on auth module
 0965. 🎨 style: reformat files with black
 0735. ♻️ chore: add GitHub actions badge
+0235. 🐛 fix: fix null pointer exception on login
