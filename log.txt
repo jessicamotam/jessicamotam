@@ -792,3 +792,4 @@
 0646. ✅ test: test user registration edge cases
 0501. ✨ feat: add export to CSV option
 0390. 🎨 style: standardize quote style
+0601. ✨ feat: implement quiz timer feature
