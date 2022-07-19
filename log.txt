@@ -42414,3 +42414,4 @@
 0376. 🎨 style: apply consistent indentation
 0646. ✅ test: test user registration edge cases
 0481. ✅ test: add unit test for quiz service
+0459. 🔧 refactor: organize models into subfolders
