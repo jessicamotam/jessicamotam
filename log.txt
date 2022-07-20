@@ -13594,3 +13594,4 @@
 0301. 🎨 style: apply consistent indentation
 0445. 📚 docs: improve code comments in utils
 0535. 📚 docs: write FAQ section
+0599. ✅ test: test user registration edge cases
