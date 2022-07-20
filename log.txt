@@ -6616,3 +6616,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0166. 🚀 perf: cache repeated calculations
 0805. ♻️ chore: add GitHub actions badge
+0246. ✅ test: add integration test for /submit endpoint
