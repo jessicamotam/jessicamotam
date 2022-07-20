@@ -43937,3 +43937,4 @@
 0351. ✨ feat: add export to CSV option
 0773. 📚 docs: document token refresh logic
 0453. 🎨 style: standardize quote style
+0387. ✨ feat: enable dark mode toggle
