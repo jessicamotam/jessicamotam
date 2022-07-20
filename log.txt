@@ -6598,3 +6598,4 @@
 0513. ♻️ chore: bump dependencies
 0831. 📚 docs: clarify environment setup
 0263. 📚 docs: add API usage examples
+0998. 🐛 fix: fix null pointer exception on login
