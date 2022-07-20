@@ -42811,3 +42811,4 @@
 0551. 📚 docs: write FAQ section
 0402. 🎨 style: reformat files with black
 0757. 🔧 refactor: remove redundant code blocks
+0623. 🎨 style: standardize quote style
