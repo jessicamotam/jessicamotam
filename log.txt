@@ -30093,3 +30093,4 @@
 0362. 📚 docs: add API usage examples
 0262. 🎨 style: remove trailing whitespace
 0321. 🔧 refactor: organize models into subfolders
+0703. 🔧 refactor: clean up auth middleware
