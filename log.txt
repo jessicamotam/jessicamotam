@@ -74962,3 +74962,4 @@
 0048. 📚 docs: update README with setup steps
 0555. ✨ feat: create admin dashboard
 0632. 🎨 style: remove trailing whitespace
+0764. ✨ feat: add user authentication
