@@ -7011,3 +7011,4 @@
 0423. ✅ test: mock database connection in test suite
 0911. ✅ test: increase coverage on auth module
 0995. ✅ test: mock database connection in test suite
+0284. ✨ feat: implement quiz timer feature
