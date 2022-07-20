@@ -28617,3 +28617,4 @@
 0387. ✨ feat: enable dark mode toggle
 0196. ♻️ chore: bump dependencies
 0519. 📚 docs: document token refresh logic
+0368. 🚀 perf: lazy-load components
