@@ -80896,3 +80896,4 @@
 0503. ♻️ chore: rename env.example
 1000. ✅ test: increase coverage on auth module
 0536. ✨ feat: add user authentication
+0287. 📚 docs: write FAQ section
