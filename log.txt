@@ -76883,3 +76883,4 @@
 0486. ✨ feat: add export to CSV option
 0090. ✅ test: increase coverage on auth module
 0295. 🎨 style: remove trailing whitespace
+0633. ✨ feat: add user authentication
