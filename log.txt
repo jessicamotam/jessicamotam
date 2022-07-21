@@ -33929,3 +33929,4 @@
 0842. 🎨 style: remove trailing whitespace
 0156. 🎨 style: rename variables for clarity
 0823. ✨ feat: add user authentication
+0219. ✅ test: increase coverage on auth module
