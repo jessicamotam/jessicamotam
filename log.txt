@@ -87144,3 +87144,4 @@
 0259. 🚀 perf: lazy-load components
 0453. 🎨 style: standardize quote style
 0543. ✨ feat: support email verification
+0994. 🚀 perf: reduce image load time
