@@ -25190,3 +25190,4 @@
 0112. ✨ feat: enable dark mode toggle
 0884. 📚 docs: clarify environment setup
 0876. ♻️ chore: rename env.example
+0589. 🐛 fix: fix broken CSS in mobile view
