@@ -3656,3 +3656,4 @@
 0090. ✅ test: increase coverage on auth module
 0516. ✅ test: add unit test for quiz service
 0710. 🐛 fix: fix broken CSS in mobile view
+0601. ✨ feat: implement quiz timer feature
