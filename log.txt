@@ -37726,3 +37726,4 @@
 0485. 📚 docs: update README with setup steps
 0335. ♻️ chore: update .gitignore
 0319. 🐛 fix: handle 500 error in quiz API
+0040. 🔧 refactor: clean up auth middleware
