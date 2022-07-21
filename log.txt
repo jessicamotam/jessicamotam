@@ -89818,3 +89818,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0513. ♻️ chore: bump dependencies
 0764. ✨ feat: add user authentication
+0970. ♻️ chore: update .gitignore
