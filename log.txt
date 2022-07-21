@@ -2921,3 +2921,4 @@
 0444. ✅ test: add unit test for quiz service
 0272. 🔧 refactor: remove redundant code blocks
 0211. 🔧 refactor: remove redundant code blocks
+0618. ✨ feat: support email verification
