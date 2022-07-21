@@ -38365,3 +38365,4 @@
 0230. ✨ feat: create admin dashboard
 0027. 📚 docs: clarify environment setup
 0603. 🐛 fix: fix broken CSS in mobile view
+0844. 📚 docs: update README with setup steps
