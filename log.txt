@@ -85569,3 +85569,4 @@
 0535. 📚 docs: write FAQ section
 0144. ✅ test: increase coverage on auth module
 0512. 🚀 perf: reduce image load time
+0964. ♻️ chore: clean up unused files
