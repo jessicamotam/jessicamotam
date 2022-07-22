@@ -79189,3 +79189,4 @@
 0930. 🎨 style: apply consistent indentation
 0463. 🚀 perf: reduce image load time
 0305. ✨ feat: enable dark mode toggle
+0682. ♻️ chore: rename env.example
