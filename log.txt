@@ -33499,3 +33499,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0773. 📚 docs: document token refresh logic
 0443. 🎨 style: standardize quote style
+0207. 🐛 fix: prevent crash on empty input
