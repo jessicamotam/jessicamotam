@@ -80075,3 +80075,4 @@
 0572. ✨ feat: add user authentication
 0403. ✅ test: mock database connection in test suite
 0231. 🔧 refactor: clean up auth middleware
+0175. 📚 docs: add API usage examples
