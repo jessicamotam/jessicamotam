@@ -21477,3 +21477,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0775. 🐛 fix: fix null pointer exception on login
 0122. ✨ feat: support email verification
+0579. 📚 docs: clarify environment setup
