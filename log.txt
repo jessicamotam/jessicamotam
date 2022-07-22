@@ -59615,3 +59615,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0297. 🎨 style: remove trailing whitespace
 0697. ♻️ chore: bump dependencies
+0208. 🔧 refactor: clean up auth middleware
