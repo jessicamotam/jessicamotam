@@ -57382,3 +57382,4 @@
 0175. 📚 docs: add API usage examples
 0812. 🔧 refactor: refactor quiz grading logic
 0390. 🎨 style: standardize quote style
+0888. 🚀 perf: lazy-load components
