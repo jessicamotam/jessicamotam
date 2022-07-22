@@ -72874,3 +72874,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0677. 📚 docs: add API usage examples
 0797. 📚 docs: add API usage examples
+0039. ✅ test: add integration test for /submit endpoint
