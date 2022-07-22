@@ -83767,3 +83767,4 @@
 0768. 🎨 style: remove trailing whitespace
 0891. ✨ feat: create admin dashboard
 0757. 🔧 refactor: remove redundant code blocks
+0780. 📚 docs: add API usage examples
