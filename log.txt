@@ -3259,3 +3259,4 @@
 0927. ♻️ chore: bump dependencies
 0160. ♻️ chore: bump dependencies
 0202. 🔧 refactor: refactor quiz grading logic
+0742. 📚 docs: clarify environment setup
