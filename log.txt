@@ -74969,3 +74969,4 @@
 0078. ♻️ chore: update .gitignore
 0901. ✨ feat: add user authentication
 0631. ✨ feat: create admin dashboard
+0207. 🐛 fix: prevent crash on empty input
