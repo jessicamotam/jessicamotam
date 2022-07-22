@@ -87420,3 +87420,4 @@
 0257. 📚 docs: clarify environment setup
 0497. 🔧 refactor: refactor quiz grading logic
 0781. 🚀 perf: reduce image load time
+0383. 🐛 fix: fix broken CSS in mobile view
