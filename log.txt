@@ -1055,3 +1055,4 @@
 0241. 📚 docs: add API usage examples
 0737. 🐛 fix: handle 500 error in quiz API
 0403. ✅ test: mock database connection in test suite
+0935. 📚 docs: update README with setup steps
