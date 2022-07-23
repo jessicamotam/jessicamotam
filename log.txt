@@ -28546,3 +28546,4 @@
 0102. ✨ feat: support email verification
 0141. 📚 docs: document token refresh logic
 0511. 🐛 fix: fix broken CSS in mobile view
+0113. ✨ feat: add user authentication
