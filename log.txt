@@ -78549,3 +78549,4 @@
 0180. ✨ feat: add export to CSV option
 0485. 📚 docs: update README with setup steps
 0998. 🐛 fix: fix null pointer exception on login
+0646. ✅ test: test user registration edge cases
