@@ -15358,3 +15358,4 @@
 0638. 📚 docs: improve code comments in utils
 0583. ✅ test: increase coverage on auth module
 0090. ✅ test: increase coverage on auth module
+0296. 🔧 refactor: organize models into subfolders
