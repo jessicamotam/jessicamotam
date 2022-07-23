@@ -17004,3 +17004,4 @@
 0351. ✨ feat: add export to CSV option
 0699. 🎨 style: standardize quote style
 0768. 🎨 style: remove trailing whitespace
+0117. ✅ test: increase coverage on auth module
