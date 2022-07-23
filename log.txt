@@ -39955,3 +39955,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0776. ✅ test: add integration test for /submit endpoint
 0565. ♻️ chore: add GitHub actions badge
+0217. 🚀 perf: reduce image load time
