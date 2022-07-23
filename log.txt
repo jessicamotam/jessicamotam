@@ -40888,3 +40888,4 @@
 0558. ✨ feat: enable dark mode toggle
 0540. ♻️ chore: add GitHub actions badge
 0743. 🎨 style: apply consistent indentation
+0524. ♻️ chore: rename env.example
