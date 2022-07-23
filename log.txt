@@ -29590,3 +29590,4 @@
 0128. ♻️ chore: rename env.example
 0685. ✅ test: test user registration edge cases
 0090. ✅ test: increase coverage on auth module
+0388. 🎨 style: reformat files with black
