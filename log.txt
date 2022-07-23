@@ -2401,3 +2401,4 @@
 0942. ✅ test: increase coverage on auth module
 0176. 🔧 refactor: remove redundant code blocks
 0764. ✨ feat: add user authentication
+0653. 🐛 fix: prevent crash on empty input
