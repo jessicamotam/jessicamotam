@@ -43962,3 +43962,4 @@
 0914. ✅ test: test user registration edge cases
 0666. 🐛 fix: fix broken CSS in mobile view
 0518. ✨ feat: support email verification
+0203. 🚀 perf: lazy-load components
