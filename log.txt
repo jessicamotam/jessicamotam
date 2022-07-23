@@ -1981,3 +1981,4 @@
 0773. 📚 docs: document token refresh logic
 0566. 📚 docs: write FAQ section
 0049. 🐛 fix: handle 500 error in quiz API
+0893. 🐛 fix: handle 500 error in quiz API
