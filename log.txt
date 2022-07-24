@@ -31050,3 +31050,4 @@
 0765. ♻️ chore: clean up unused files
 0929. ✨ feat: support email verification
 0538. 🐛 fix: fix broken CSS in mobile view
+0731. 🎨 style: standardize quote style
