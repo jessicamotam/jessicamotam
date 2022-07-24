@@ -22079,3 +22079,4 @@
 0163. ✨ feat: implement quiz timer feature
 0051. ✨ feat: enable dark mode toggle
 0344. ♻️ chore: add GitHub actions badge
+0346. ✅ test: mock database connection in test suite
