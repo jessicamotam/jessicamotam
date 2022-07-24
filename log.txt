@@ -27340,3 +27340,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0471. ✨ feat: support email verification
 0185. 📚 docs: write FAQ section
+0538. 🐛 fix: fix broken CSS in mobile view
