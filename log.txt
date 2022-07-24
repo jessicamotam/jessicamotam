@@ -67825,3 +67825,4 @@
 0373. 📚 docs: document token refresh logic
 0461. ✨ feat: add user authentication
 0268. 🐛 fix: prevent crash on empty input
+0321. 🔧 refactor: organize models into subfolders
