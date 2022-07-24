@@ -65099,3 +65099,4 @@
 0335. ♻️ chore: update .gitignore
 0551. 📚 docs: write FAQ section
 0342. 🚀 perf: cache repeated calculations
+0257. 📚 docs: clarify environment setup
