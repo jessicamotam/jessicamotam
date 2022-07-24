@@ -25039,3 +25039,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0995. ✅ test: mock database connection in test suite
 0923. ✨ feat: support email verification
+0205. 📚 docs: update README with setup steps
