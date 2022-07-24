@@ -52173,3 +52173,4 @@
 0996. ✅ test: test user registration edge cases
 0049. 🐛 fix: handle 500 error in quiz API
 0987. ✨ feat: create admin dashboard
+0361. ✨ feat: support email verification
