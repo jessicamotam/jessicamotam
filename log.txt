@@ -60554,3 +60554,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0845. 🚀 perf: cache repeated calculations
 0480. ♻️ chore: add GitHub actions badge
+0589. 🐛 fix: fix broken CSS in mobile view
