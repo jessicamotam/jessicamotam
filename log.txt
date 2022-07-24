@@ -68645,3 +68645,4 @@
 0928. 🎨 style: apply consistent indentation
 0406. ✨ feat: add export to CSV option
 0232. 🎨 style: apply consistent indentation
+0372. ✨ feat: add user authentication
