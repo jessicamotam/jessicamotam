@@ -16686,3 +16686,4 @@
 0524. ♻️ chore: rename env.example
 0025. 🚀 perf: optimize database query for quiz results
 0546. 🐛 fix: fix null pointer exception on login
+0496. ✅ test: add integration test for /submit endpoint
