@@ -24377,3 +24377,4 @@
 0153. ♻️ chore: rename env.example
 0632. 🎨 style: remove trailing whitespace
 0507. 🔧 refactor: clean up auth middleware
+0475. 🔧 refactor: clean up auth middleware
