@@ -78594,3 +78594,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0262. 🎨 style: remove trailing whitespace
 0332. 🎨 style: standardize quote style
+0085. ✨ feat: support email verification
