@@ -5455,3 +5455,4 @@
 0872. 🎨 style: rename variables for clarity
 0114. ♻️ chore: update .gitignore
 0794. ♻️ chore: clean up unused files
+0484. 🐛 fix: handle 500 error in quiz API
