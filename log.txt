@@ -10216,3 +10216,4 @@
 0003. ✅ test: increase coverage on auth module
 0616. 🚀 perf: lazy-load components
 0414. 🔧 refactor: remove redundant code blocks
+0556. ✨ feat: support email verification
