@@ -72436,3 +72436,4 @@
 0281. ✨ feat: support email verification
 0791. 🔧 refactor: clean up auth middleware
 0010. ✨ feat: add user authentication
+0996. ✅ test: test user registration edge cases
