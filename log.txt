@@ -10376,3 +10376,4 @@
 0091. ✨ feat: add user authentication
 0836. 🚀 perf: optimize database query for quiz results
 0327. 🔧 refactor: split large controller into smaller functions
+0959. 🐛 fix: fix null pointer exception on login
