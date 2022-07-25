@@ -23078,3 +23078,4 @@
 0355. 🚀 perf: optimize database query for quiz results
 0184. 📚 docs: improve code comments in utils
 0518. ✨ feat: support email verification
+0833. ✨ feat: add user authentication
