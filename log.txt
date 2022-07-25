@@ -1701,3 +1701,4 @@
 0976. ✨ feat: implement quiz timer feature
 0721. 🚀 perf: optimize database query for quiz results
 0122. ✨ feat: support email verification
+0934. ✨ feat: support email verification
