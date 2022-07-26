@@ -17626,3 +17626,4 @@
 0167. 🚀 perf: reduce image load time
 0777. 📚 docs: document token refresh logic
 0346. ✅ test: mock database connection in test suite
+0675. 🔧 refactor: organize models into subfolders
