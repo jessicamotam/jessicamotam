@@ -75948,3 +75948,4 @@
 0470. 🎨 style: remove trailing whitespace
 0565. ♻️ chore: add GitHub actions badge
 0890. 🔧 refactor: organize models into subfolders
+0827. 🚀 perf: optimize database query for quiz results
