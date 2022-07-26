@@ -39766,3 +39766,4 @@
 0509. ♻️ chore: bump dependencies
 0377. ✨ feat: add user authentication
 0965. 🎨 style: reformat files with black
+0299. 🐛 fix: resolve issue with date parsing
