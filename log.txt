@@ -73649,3 +73649,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0686. 🎨 style: standardize quote style
 0526. ✨ feat: add user authentication
+0250. 📚 docs: update README with setup steps
