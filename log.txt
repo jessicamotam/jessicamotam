@@ -5256,3 +5256,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0420. 🚀 perf: reduce image load time
 0996. ✅ test: test user registration edge cases
+0199. ✨ feat: create admin dashboard
