@@ -22794,3 +22794,4 @@
 0101. 📚 docs: clarify environment setup
 0770. ♻️ chore: rename env.example
 0504. 📚 docs: document token refresh logic
+0646. ✅ test: test user registration edge cases
