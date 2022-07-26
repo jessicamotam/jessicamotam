@@ -49635,3 +49635,4 @@
 0112. ✨ feat: enable dark mode toggle
 0043. ✅ test: add integration test for /submit endpoint
 0931. 🚀 perf: reduce image load time
+0893. 🐛 fix: handle 500 error in quiz API
