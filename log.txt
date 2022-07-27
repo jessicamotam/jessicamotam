@@ -64365,3 +64365,4 @@
 0896. 🚀 perf: reduce image load time
 0496. ✅ test: add integration test for /submit endpoint
 0015. ✨ feat: implement quiz timer feature
+0471. ✨ feat: support email verification
