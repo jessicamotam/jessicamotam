@@ -41386,3 +41386,4 @@
 0379. ✨ feat: support email verification
 0739. 🎨 style: remove trailing whitespace
 0498. ✅ test: mock database connection in test suite
+0595. ✨ feat: enable dark mode toggle
