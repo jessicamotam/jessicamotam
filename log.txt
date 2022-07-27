@@ -49243,3 +49243,4 @@
 0803. ✅ test: mock database connection in test suite
 0724. ✅ test: mock database connection in test suite
 0304. 🔧 refactor: remove redundant code blocks
+0195. 📚 docs: clarify environment setup
