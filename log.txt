@@ -50987,3 +50987,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0299. 🐛 fix: resolve issue with date parsing
 0062. ♻️ chore: update .gitignore
+0307. ✨ feat: support email verification
