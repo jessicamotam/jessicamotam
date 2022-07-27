@@ -76304,3 +76304,4 @@
 0122. ✨ feat: support email verification
 0110. 🐛 fix: prevent crash on empty input
 0160. ♻️ chore: bump dependencies
+0037. 🐛 fix: correct typo in registration form
