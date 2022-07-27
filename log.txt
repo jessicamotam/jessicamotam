@@ -16691,3 +16691,4 @@
 0312. ✨ feat: add user authentication
 0686. 🎨 style: standardize quote style
 0605. ✨ feat: support email verification
+0641. 📚 docs: write FAQ section
