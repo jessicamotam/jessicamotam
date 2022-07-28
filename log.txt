@@ -36153,3 +36153,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0446. 🎨 style: apply consistent indentation
 0087. ✨ feat: add export to CSV option
+0617. ✨ feat: support email verification
