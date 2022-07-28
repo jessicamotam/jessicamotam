@@ -40970,3 +40970,4 @@
 0866. 📚 docs: add API usage examples
 0745. ✅ test: add unit test for quiz service
 0085. ✨ feat: support email verification
+0819. 🚀 perf: reduce image load time
