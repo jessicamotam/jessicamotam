@@ -31277,3 +31277,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0312. ✨ feat: add user authentication
 0463. 🚀 perf: reduce image load time
+0880. 🐛 fix: fix broken CSS in mobile view
