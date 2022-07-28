@@ -55195,3 +55195,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0985. 📚 docs: document token refresh logic
 0232. 🎨 style: apply consistent indentation
+0116. ✨ feat: support email verification
