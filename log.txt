@@ -35061,3 +35061,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0754. 🐛 fix: handle 500 error in quiz API
 0090. ✅ test: increase coverage on auth module
+0593. 🐛 fix: correct typo in registration form
