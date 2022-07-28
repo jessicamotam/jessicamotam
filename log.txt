@@ -34429,3 +34429,4 @@
 0213. ✅ test: add integration test for /submit endpoint
 0030. 🐛 fix: fix null pointer exception on login
 0631. ✨ feat: create admin dashboard
+0401. 🚀 perf: reduce image load time
