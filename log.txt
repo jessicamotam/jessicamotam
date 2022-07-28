@@ -18735,3 +18735,4 @@
 0553. 🐛 fix: correct typo in registration form
 0909. 🔧 refactor: organize models into subfolders
 0849. 🐛 fix: correct typo in registration form
+0412. ✅ test: increase coverage on auth module
