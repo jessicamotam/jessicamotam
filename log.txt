@@ -1413,3 +1413,4 @@
 0485. 📚 docs: update README with setup steps
 0215. 🎨 style: reformat files with black
 0778. 📚 docs: write FAQ section
+0813. 🔧 refactor: organize models into subfolders
