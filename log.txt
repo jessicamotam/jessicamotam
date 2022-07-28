@@ -23943,3 +23943,4 @@
 0151. ✅ test: add unit test for quiz service
 0198. 📚 docs: clarify environment setup
 0536. ✨ feat: add user authentication
+0820. 📚 docs: add API usage examples
