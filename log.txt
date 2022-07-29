@@ -31144,3 +31144,4 @@
 0724. ✅ test: mock database connection in test suite
 0521. 🎨 style: standardize quote style
 0567. 📚 docs: add API usage examples
+0566. 📚 docs: write FAQ section
