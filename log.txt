@@ -55330,3 +55330,4 @@
 0493. ✨ feat: add user authentication
 0927. ♻️ chore: bump dependencies
 0861. ♻️ chore: clean up unused files
+0233. 🚀 perf: lazy-load components
