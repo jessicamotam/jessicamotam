@@ -84,3 +84,4 @@
 0916. ♻️ chore: bump dependencies
 0506. 🐛 fix: handle 500 error in quiz API
 0984. ♻️ chore: clean up unused files
+0906. 📚 docs: add API usage examples
