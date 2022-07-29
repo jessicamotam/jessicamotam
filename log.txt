@@ -90296,3 +90296,4 @@
 0715. ✨ feat: create admin dashboard
 0124. 🎨 style: reformat files with black
 0844. 📚 docs: update README with setup steps
+0963. 🚀 perf: reduce image load time
