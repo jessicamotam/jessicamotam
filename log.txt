@@ -11520,3 +11520,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0662. ♻️ chore: clean up unused files
 0789. ✨ feat: create admin dashboard
+0505. ♻️ chore: add GitHub actions badge
