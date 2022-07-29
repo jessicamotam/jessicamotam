@@ -74227,3 +74227,4 @@
 0476. 🚀 perf: reduce image load time
 0521. 🎨 style: standardize quote style
 0479. 🐛 fix: fix null pointer exception on login
+0607. 🐛 fix: prevent crash on empty input
