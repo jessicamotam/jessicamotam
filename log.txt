@@ -6331,3 +6331,4 @@
 0875. ✅ test: increase coverage on auth module
 0508. ✅ test: add unit test for quiz service
 0269. ✅ test: test user registration edge cases
+0525. ✅ test: mock database connection in test suite
