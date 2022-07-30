@@ -29105,3 +29105,4 @@
 0574. ✨ feat: enable dark mode toggle
 0529. 📚 docs: write FAQ section
 0211. 🔧 refactor: remove redundant code blocks
+0725. 🚀 perf: lazy-load components
