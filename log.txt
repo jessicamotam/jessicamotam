@@ -49318,3 +49318,4 @@
 0901. ✨ feat: add user authentication
 0394. 🚀 perf: lazy-load components
 0720. ✨ feat: add export to CSV option
+0658. 🎨 style: rename variables for clarity
