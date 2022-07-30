@@ -83791,3 +83791,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0555. ✨ feat: create admin dashboard
 0569. 📚 docs: document token refresh logic
+0651. ✨ feat: enable dark mode toggle
