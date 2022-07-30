@@ -70366,3 +70366,4 @@
 0436. ✅ test: add integration test for /submit endpoint
 0276. ✅ test: add integration test for /submit endpoint
 0558. ✨ feat: enable dark mode toggle
+0781. 🚀 perf: reduce image load time
