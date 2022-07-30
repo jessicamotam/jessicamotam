@@ -35700,3 +35700,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0026. 🔧 refactor: clean up auth middleware
 0568. 🐛 fix: handle 500 error in quiz API
+0169. 📚 docs: add API usage examples
