@@ -36819,3 +36819,4 @@
 0023. 📚 docs: clarify environment setup
 0710. 🐛 fix: fix broken CSS in mobile view
 0679. ♻️ chore: bump dependencies
+0619. ✨ feat: create admin dashboard
