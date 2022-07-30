@@ -10973,3 +10973,4 @@
 0045. 🎨 style: apply consistent indentation
 0062. ♻️ chore: update .gitignore
 0536. ✨ feat: add user authentication
+0036. 🔧 refactor: clean up auth middleware
