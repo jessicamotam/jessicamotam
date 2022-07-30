@@ -47540,3 +47540,4 @@
 0192. ✨ feat: enable dark mode toggle
 0292. 📚 docs: clarify environment setup
 0840. 🔧 refactor: refactor quiz grading logic
+0235. 🐛 fix: fix null pointer exception on login
