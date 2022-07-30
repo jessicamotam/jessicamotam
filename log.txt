@@ -61323,3 +61323,4 @@
 0720. ✨ feat: add export to CSV option
 0177. 📚 docs: add API usage examples
 0884. 📚 docs: clarify environment setup
+0433. 🐛 fix: prevent crash on empty input
