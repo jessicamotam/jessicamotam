@@ -39288,3 +39288,4 @@
 0702. ✨ feat: add user authentication
 0458. ✨ feat: create admin dashboard
 0436. ✅ test: add integration test for /submit endpoint
+0140. 🐛 fix: handle 500 error in quiz API
