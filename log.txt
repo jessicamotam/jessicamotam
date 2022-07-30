@@ -35485,3 +35485,4 @@
 0410. 🎨 style: reformat files with black
 0187. ✨ feat: support email verification
 0709. ♻️ chore: bump dependencies
+0220. 🐛 fix: fix null pointer exception on login
