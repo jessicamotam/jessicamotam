@@ -23120,3 +23120,4 @@
 0124. 🎨 style: reformat files with black
 0876. ♻️ chore: rename env.example
 0682. ♻️ chore: rename env.example
+0603. 🐛 fix: fix broken CSS in mobile view
