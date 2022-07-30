@@ -52105,3 +52105,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0293. ✅ test: add integration test for /submit endpoint
 0806. 📚 docs: improve code comments in utils
+0378. 🐛 fix: prevent crash on empty input
