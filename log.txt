@@ -49542,3 +49542,4 @@
 0594. 🎨 style: reformat files with black
 0612. ✅ test: test user registration edge cases
 0766. 🎨 style: reformat files with black
+0426. ✅ test: add integration test for /submit endpoint
