@@ -82376,3 +82376,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0969. ✨ feat: create admin dashboard
 0594. 🎨 style: reformat files with black
+0064. 📚 docs: clarify environment setup
