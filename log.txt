@@ -83728,3 +83728,4 @@
 0381. ♻️ chore: clean up unused files
 0687. 🎨 style: remove trailing whitespace
 0448. 🐛 fix: correct typo in registration form
+0133. 🐛 fix: fix null pointer exception on login
