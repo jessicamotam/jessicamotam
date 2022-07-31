@@ -39846,3 +39846,4 @@
 0357. ✅ test: add unit test for quiz service
 0326. 🚀 perf: cache repeated calculations
 0610. 🚀 perf: lazy-load components
+0331. 🐛 fix: fix broken CSS in mobile view
