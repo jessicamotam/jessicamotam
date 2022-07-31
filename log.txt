@@ -26535,3 +26535,4 @@
 0595. ✨ feat: enable dark mode toggle
 0621. 🔧 refactor: clean up auth middleware
 0731. 🎨 style: standardize quote style
+0022. 📚 docs: document token refresh logic
