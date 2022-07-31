@@ -61615,3 +61615,4 @@
 0455. ♻️ chore: clean up unused files
 0621. 🔧 refactor: clean up auth middleware
 0631. ✨ feat: create admin dashboard
+0221. ✨ feat: add user authentication
