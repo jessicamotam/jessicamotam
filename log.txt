@@ -85325,3 +85325,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0274. 🔧 refactor: refactor quiz grading logic
 0612. ✅ test: test user registration edge cases
+0133. 🐛 fix: fix null pointer exception on login
