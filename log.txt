@@ -47309,3 +47309,4 @@
 0627. 📚 docs: document token refresh logic
 0172. 📚 docs: add API usage examples
 0101. 📚 docs: clarify environment setup
+0248. 🐛 fix: handle 500 error in quiz API
