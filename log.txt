@@ -9724,3 +9724,4 @@
 0377. ✨ feat: add user authentication
 0430. 🐛 fix: fix null pointer exception on login
 0754. 🐛 fix: handle 500 error in quiz API
+0596. ♻️ chore: update .gitignore
