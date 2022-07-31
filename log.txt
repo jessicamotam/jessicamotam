@@ -13985,3 +13985,4 @@
 0377. ✨ feat: add user authentication
 0269. ✅ test: test user registration edge cases
 0648. ♻️ chore: bump dependencies
+0434. 📚 docs: document token refresh logic
