@@ -86747,3 +86747,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0926. 🔧 refactor: organize models into subfolders
 0526. ✨ feat: add user authentication
+0363. 📚 docs: clarify environment setup
