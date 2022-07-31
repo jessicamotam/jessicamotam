@@ -77879,3 +77879,4 @@
 0868. ✅ test: add unit test for quiz service
 0354. 📚 docs: add API usage examples
 0354. 📚 docs: add API usage examples
+0543. ✨ feat: support email verification
