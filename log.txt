@@ -46047,3 +46047,4 @@
 0616. 🚀 perf: lazy-load components
 0991. ♻️ chore: clean up unused files
 0383. 🐛 fix: fix broken CSS in mobile view
+0030. 🐛 fix: fix null pointer exception on login
