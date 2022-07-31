@@ -16574,3 +16574,4 @@
 0866. 📚 docs: add API usage examples
 0840. 🔧 refactor: refactor quiz grading logic
 0181. ♻️ chore: add GitHub actions badge
+0521. 🎨 style: standardize quote style
