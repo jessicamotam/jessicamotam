@@ -27409,3 +27409,4 @@
 0377. ✨ feat: add user authentication
 0958. 🐛 fix: prevent crash on empty input
 0970. ♻️ chore: update .gitignore
+0406. ✨ feat: add export to CSV option
