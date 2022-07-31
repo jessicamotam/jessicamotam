@@ -33134,3 +33134,4 @@
 0687. 🎨 style: remove trailing whitespace
 0166. 🚀 perf: cache repeated calculations
 0192. ✨ feat: enable dark mode toggle
+0793. 📚 docs: clarify environment setup
