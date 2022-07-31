@@ -90525,3 +90525,4 @@
 0702. ✨ feat: add user authentication
 0469. 🚀 perf: lazy-load components
 0186. ✅ test: test user registration edge cases
+0485. 📚 docs: update README with setup steps
