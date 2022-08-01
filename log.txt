@@ -46365,3 +46365,4 @@
 0281. ✨ feat: support email verification
 0275. 🎨 style: standardize quote style
 0323. 📚 docs: clarify environment setup
+0520. 🐛 fix: fix null pointer exception on login
