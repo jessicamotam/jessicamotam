@@ -21099,3 +21099,4 @@
 0768. 🎨 style: remove trailing whitespace
 0835. 🐛 fix: prevent crash on empty input
 0383. 🐛 fix: fix broken CSS in mobile view
+0926. 🔧 refactor: organize models into subfolders
