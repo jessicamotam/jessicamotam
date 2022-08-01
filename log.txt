@@ -87983,3 +87983,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0895. ✨ feat: support email verification
 0429. ✨ feat: add user authentication
+0600. 🐛 fix: prevent crash on empty input
