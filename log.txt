@@ -77100,3 +77100,4 @@
 0496. ✅ test: add integration test for /submit endpoint
 0377. ✨ feat: add user authentication
 0804. ♻️ chore: add GitHub actions badge
+0663. 🚀 perf: reduce image load time
