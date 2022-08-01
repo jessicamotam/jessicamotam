@@ -1227,3 +1227,4 @@
 0756. ✨ feat: support email verification
 0108. 🎨 style: remove trailing whitespace
 0657. 🎨 style: standardize quote style
+0520. 🐛 fix: fix null pointer exception on login
