@@ -40806,3 +40806,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0983. 🔧 refactor: split large controller into smaller functions
 0829. 🔧 refactor: organize models into subfolders
+0939. 📚 docs: update README with setup steps
