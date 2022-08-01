@@ -84056,3 +84056,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0599. ✅ test: test user registration edge cases
 0086. 🐛 fix: correct typo in registration form
+0933. 📚 docs: clarify environment setup
