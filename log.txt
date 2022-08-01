@@ -75811,3 +75811,4 @@
 0372. ✨ feat: add user authentication
 0612. ✅ test: test user registration edge cases
 0731. 🎨 style: standardize quote style
+0939. 📚 docs: update README with setup steps
