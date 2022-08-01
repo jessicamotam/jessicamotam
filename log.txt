@@ -18061,3 +18061,4 @@
 0742. 📚 docs: clarify environment setup
 0445. 📚 docs: improve code comments in utils
 0787. ♻️ chore: rename env.example
+0321. 🔧 refactor: organize models into subfolders
