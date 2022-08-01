@@ -55349,3 +55349,4 @@
 0530. 🔧 refactor: refactor quiz grading logic
 0520. 🐛 fix: fix null pointer exception on login
 0718. 🐛 fix: resolve issue with date parsing
+0625. 🐛 fix: handle 500 error in quiz API
