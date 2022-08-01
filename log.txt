@@ -87790,3 +87790,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0913. 🚀 perf: optimize database query for quiz results
 0664. ✅ test: add unit test for quiz service
+0960. ✅ test: increase coverage on auth module
