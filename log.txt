@@ -17618,3 +17618,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0989. 📚 docs: write FAQ section
 0947. 📚 docs: write FAQ section
+0996. ✅ test: test user registration edge cases
