@@ -11669,3 +11669,4 @@
 0241. 📚 docs: add API usage examples
 0579. 📚 docs: clarify environment setup
 0448. 🐛 fix: correct typo in registration form
+0893. 🐛 fix: handle 500 error in quiz API
