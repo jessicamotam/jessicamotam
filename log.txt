@@ -29797,3 +29797,4 @@
 0103. 🔧 refactor: remove redundant code blocks
 0151. ✅ test: add unit test for quiz service
 0101. 📚 docs: clarify environment setup
+0747. 🔧 refactor: clean up auth middleware
