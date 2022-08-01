@@ -34336,3 +34336,4 @@
 0834. ✅ test: increase coverage on auth module
 0018. 🔧 refactor: organize models into subfolders
 0114. ♻️ chore: update .gitignore
+0557. 🔧 refactor: clean up auth middleware
