@@ -40287,3 +40287,4 @@
 0702. ✨ feat: add user authentication
 0308. 🚀 perf: reduce image load time
 0020. ✅ test: add integration test for /submit endpoint
+0226. 🚀 perf: lazy-load components
