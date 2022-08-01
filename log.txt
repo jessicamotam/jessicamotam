@@ -54489,3 +54489,4 @@
 0034. 📚 docs: improve code comments in utils
 0684. 🚀 perf: reduce image load time
 0468. 📚 docs: update README with setup steps
+0574. ✨ feat: enable dark mode toggle
