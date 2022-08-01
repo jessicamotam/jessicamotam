@@ -20269,3 +20269,4 @@
 0956. 📚 docs: clarify environment setup
 0794. ♻️ chore: clean up unused files
 0155. ✨ feat: create admin dashboard
+0186. ✅ test: test user registration edge cases
