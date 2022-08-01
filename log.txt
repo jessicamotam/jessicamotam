@@ -19805,3 +19805,4 @@
 0876. ♻️ chore: rename env.example
 0683. ✅ test: mock database connection in test suite
 0083. 🎨 style: reformat files with black
+0824. 🚀 perf: lazy-load components
