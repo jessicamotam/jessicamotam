@@ -57504,3 +57504,4 @@
 0987. ✨ feat: create admin dashboard
 0970. ♻️ chore: update .gitignore
 0422. 🔧 refactor: organize models into subfolders
+0035. ✅ test: increase coverage on auth module
