@@ -10496,3 +10496,4 @@
 0436. ✅ test: add integration test for /submit endpoint
 0707. 🎨 style: apply consistent indentation
 0141. 📚 docs: document token refresh logic
+0775. 🐛 fix: fix null pointer exception on login
