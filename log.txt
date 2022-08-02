@@ -39466,3 +39466,4 @@
 0149. ✨ feat: add export to CSV option
 0674. 🔧 refactor: split large controller into smaller functions
 0855. 🎨 style: reformat files with black
+0053. ✅ test: increase coverage on auth module
