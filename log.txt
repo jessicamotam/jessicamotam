@@ -77273,3 +77273,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0093. ✅ test: add unit test for quiz service
 0759. 🔧 refactor: organize models into subfolders
+0454. ♻️ chore: bump dependencies
