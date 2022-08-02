@@ -75308,3 +75308,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0523. ♻️ chore: bump dependencies
 0177. 📚 docs: add API usage examples
+0036. 🔧 refactor: clean up auth middleware
