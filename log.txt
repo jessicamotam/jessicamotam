@@ -87250,3 +87250,4 @@
 0634. 🎨 style: reformat files with black
 0102. ✨ feat: support email verification
 0766. 🎨 style: reformat files with black
+0827. 🚀 perf: optimize database query for quiz results
