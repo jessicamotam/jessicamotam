@@ -53718,3 +53718,4 @@
 0245. 🐛 fix: resolve issue with date parsing
 0202. 🔧 refactor: refactor quiz grading logic
 0766. 🎨 style: reformat files with black
+0621. 🔧 refactor: clean up auth middleware
