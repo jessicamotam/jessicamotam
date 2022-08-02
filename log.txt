@@ -18988,3 +18988,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0368. 🚀 perf: lazy-load components
 0905. ♻️ chore: bump dependencies
+0571. 🔧 refactor: clean up auth middleware
