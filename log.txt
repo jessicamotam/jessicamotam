@@ -39727,3 +39727,4 @@
 0459. 🔧 refactor: organize models into subfolders
 0503. ♻️ chore: rename env.example
 0652. 🔧 refactor: organize models into subfolders
+0788. 📚 docs: add API usage examples
