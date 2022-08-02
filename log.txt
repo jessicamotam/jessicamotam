@@ -84014,3 +84014,4 @@
 0820. 📚 docs: add API usage examples
 0281. ✨ feat: support email verification
 0880. 🐛 fix: fix broken CSS in mobile view
+0496. ✅ test: add integration test for /submit endpoint
