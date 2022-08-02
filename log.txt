@@ -51528,3 +51528,4 @@
 0950. 🎨 style: reformat files with black
 0647. 🐛 fix: prevent crash on empty input
 0856. 🐛 fix: fix null pointer exception on login
+0275. 🎨 style: standardize quote style
