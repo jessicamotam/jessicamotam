@@ -78790,3 +78790,4 @@
 0196. ♻️ chore: bump dependencies
 0448. 🐛 fix: correct typo in registration form
 0472. 🐛 fix: fix null pointer exception on login
+0175. 📚 docs: add API usage examples
