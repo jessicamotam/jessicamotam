@@ -18503,3 +18503,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0400. 🐛 fix: fix null pointer exception on login
 0818. 🔧 refactor: remove redundant code blocks
+0925. ✨ feat: add export to CSV option
