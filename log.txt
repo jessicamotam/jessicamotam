@@ -74546,3 +74546,4 @@
 0440. 📚 docs: update README with setup steps
 0442. 🎨 style: standardize quote style
 0111. 📚 docs: update README with setup steps
+0939. 📚 docs: update README with setup steps
