@@ -37805,3 +37805,4 @@
 0078. ♻️ chore: update .gitignore
 0096. 🐛 fix: prevent crash on empty input
 0594. 🎨 style: reformat files with black
+0827. 🚀 perf: optimize database query for quiz results
