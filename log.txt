@@ -5478,3 +5478,4 @@
 0027. 📚 docs: clarify environment setup
 0626. 🎨 style: standardize quote style
 0121. ✨ feat: support email verification
+0678. ✨ feat: add user authentication
