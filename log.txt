@@ -62959,3 +62959,4 @@
 0500. ✅ test: add integration test for /submit endpoint
 0373. 📚 docs: document token refresh logic
 0915. 🚀 perf: cache repeated calculations
+0552. 🐛 fix: fix null pointer exception on login
