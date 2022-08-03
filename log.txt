@@ -65628,3 +65628,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0133. 🐛 fix: fix null pointer exception on login
 0745. ✅ test: add unit test for quiz service
+0264. 🚀 perf: optimize database query for quiz results
