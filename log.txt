@@ -46777,3 +46777,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0291. 📚 docs: write FAQ section
 0622. 🎨 style: apply consistent indentation
+0471. ✨ feat: support email verification
