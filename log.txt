@@ -23354,3 +23354,4 @@
 0990. ♻️ chore: rename env.example
 0948. 🐛 fix: fix broken CSS in mobile view
 0651. ✨ feat: enable dark mode toggle
+0232. 🎨 style: apply consistent indentation
