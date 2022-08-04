@@ -12646,3 +12646,4 @@
 0116. ✨ feat: support email verification
 0516. ✅ test: add unit test for quiz service
 0279. ✨ feat: support email verification
+0029. 🚀 perf: lazy-load components
