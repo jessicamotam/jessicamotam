@@ -41332,3 +41332,4 @@
 0536. ✨ feat: add user authentication
 0587. 🔧 refactor: remove redundant code blocks
 0545. 🎨 style: standardize quote style
+0605. ✨ feat: support email verification
