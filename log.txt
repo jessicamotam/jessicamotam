@@ -48846,3 +48846,4 @@
 0645. 🐛 fix: resolve issue with date parsing
 0664. ✅ test: add unit test for quiz service
 0219. ✅ test: increase coverage on auth module
+0549. ✨ feat: enable dark mode toggle
