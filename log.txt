@@ -8273,3 +8273,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0146. 🎨 style: apply consistent indentation
 0011. ✅ test: add unit test for quiz service
+0438. ♻️ chore: bump dependencies
