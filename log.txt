@@ -55376,3 +55376,4 @@
 0657. 🎨 style: standardize quote style
 0618. ✨ feat: support email verification
 0717. 🔧 refactor: refactor quiz grading logic
+0063. 🐛 fix: handle 500 error in quiz API
