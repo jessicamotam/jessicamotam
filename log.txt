@@ -834,3 +834,4 @@
 0919. 🚀 perf: optimize database query for quiz results
 0024. 📚 docs: write FAQ section
 0888. 🚀 perf: lazy-load components
+0986. 📚 docs: document token refresh logic
