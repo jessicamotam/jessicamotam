@@ -21803,3 +21803,4 @@
 0167. 🚀 perf: reduce image load time
 0773. 📚 docs: document token refresh logic
 0111. 📚 docs: update README with setup steps
+0249. ✅ test: increase coverage on auth module
