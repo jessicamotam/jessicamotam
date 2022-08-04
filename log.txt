@@ -86813,3 +86813,4 @@
 0586. 🎨 style: remove trailing whitespace
 0275. 🎨 style: standardize quote style
 0556. ✨ feat: support email verification
+0088. 📚 docs: add API usage examples
