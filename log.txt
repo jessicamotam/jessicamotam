@@ -68497,3 +68497,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0291. 📚 docs: write FAQ section
 0996. ✅ test: test user registration edge cases
+0939. 📚 docs: update README with setup steps
