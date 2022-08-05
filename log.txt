@@ -68061,3 +68061,4 @@
 0054. ♻️ chore: update .gitignore
 0843. 📚 docs: document token refresh logic
 0667. ✨ feat: add export to CSV option
+0597. 🚀 perf: cache repeated calculations
