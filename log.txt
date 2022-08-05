@@ -52552,3 +52552,4 @@
 0454. ♻️ chore: bump dependencies
 0256. ✅ test: mock database connection in test suite
 0912. 📚 docs: document token refresh logic
+0605. ✨ feat: support email verification
