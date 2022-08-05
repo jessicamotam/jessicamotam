@@ -64899,3 +64899,4 @@
 0773. 📚 docs: document token refresh logic
 0979. 🎨 style: standardize quote style
 0798. 🚀 perf: reduce image load time
+0603. 🐛 fix: fix broken CSS in mobile view
