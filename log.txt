@@ -43244,3 +43244,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0441. 📚 docs: add API usage examples
 0095. ✅ test: mock database connection in test suite
+0844. 📚 docs: update README with setup steps
