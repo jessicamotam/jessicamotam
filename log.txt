@@ -23806,3 +23806,4 @@
 0690. 🚀 perf: lazy-load components
 0858. ♻️ chore: clean up unused files
 0820. 📚 docs: add API usage examples
+0225. 🚀 perf: reduce image load time
