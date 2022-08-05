@@ -7869,3 +7869,4 @@
 0170. ✅ test: increase coverage on auth module
 0705. 🔧 refactor: refactor quiz grading logic
 0511. 🐛 fix: fix broken CSS in mobile view
+0225. 🚀 perf: reduce image load time
