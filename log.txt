@@ -11432,3 +11432,4 @@
 0705. 🔧 refactor: refactor quiz grading logic
 0363. 📚 docs: clarify environment setup
 0697. ♻️ chore: bump dependencies
+0079. 🐛 fix: correct typo in registration form
