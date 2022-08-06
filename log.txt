@@ -36298,3 +36298,4 @@
 0361. ✨ feat: support email verification
 0607. 🐛 fix: prevent crash on empty input
 0596. ♻️ chore: update .gitignore
+0621. 🔧 refactor: clean up auth middleware
