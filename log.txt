@@ -12824,3 +12824,4 @@
 0858. ♻️ chore: clean up unused files
 0916. ♻️ chore: bump dependencies
 0482. ✨ feat: add export to CSV option
+0446. 🎨 style: apply consistent indentation
