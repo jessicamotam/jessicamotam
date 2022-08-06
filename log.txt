@@ -70990,3 +70990,4 @@
 0548. 📚 docs: write FAQ section
 0958. 🐛 fix: prevent crash on empty input
 0036. 🔧 refactor: clean up auth middleware
+0933. 📚 docs: clarify environment setup
