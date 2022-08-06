@@ -60444,3 +60444,4 @@
 0923. ✨ feat: support email verification
 0206. 🐛 fix: handle 500 error in quiz API
 0005. ✅ test: add unit test for quiz service
+0268. 🐛 fix: prevent crash on empty input
