@@ -35948,3 +35948,4 @@
 0654. ✨ feat: create admin dashboard
 0544. 🔧 refactor: organize models into subfolders
 0910. 🎨 style: remove trailing whitespace
+0928. 🎨 style: apply consistent indentation
