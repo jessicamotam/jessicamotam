@@ -69542,3 +69542,4 @@
 0461. ✨ feat: add user authentication
 0001. 🚀 perf: cache repeated calculations
 0307. ✨ feat: support email verification
+0790. 📚 docs: write FAQ section
