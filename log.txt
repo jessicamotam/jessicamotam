@@ -90191,3 +90191,4 @@
 0560. 🎨 style: rename variables for clarity
 0505. ♻️ chore: add GitHub actions badge
 0997. ✅ test: increase coverage on auth module
+0644. 🎨 style: apply consistent indentation
