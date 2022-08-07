@@ -40892,3 +40892,4 @@
 0649. 📚 docs: update README with setup steps
 0967. ♻️ chore: add GitHub actions badge
 0080. ✨ feat: support email verification
+0105. 🐛 fix: correct typo in registration form
