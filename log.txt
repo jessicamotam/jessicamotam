@@ -35192,3 +35192,4 @@
 0585. 🚀 perf: lazy-load components
 0499. 🎨 style: reformat files with black
 0084. 🐛 fix: handle 500 error in quiz API
+0485. 📚 docs: update README with setup steps
