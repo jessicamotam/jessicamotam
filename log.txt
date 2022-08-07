@@ -36645,3 +36645,4 @@
 0399. ✅ test: mock database connection in test suite
 0171. 🐛 fix: fix broken CSS in mobile view
 0042. 📚 docs: document token refresh logic
+0578. ✅ test: add integration test for /submit endpoint
