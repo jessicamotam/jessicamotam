@@ -42739,3 +42739,4 @@
 0578. ✅ test: add integration test for /submit endpoint
 0886. ♻️ chore: clean up unused files
 0455. ♻️ chore: clean up unused files
+0924. ✅ test: mock database connection in test suite
