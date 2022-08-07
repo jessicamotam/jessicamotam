@@ -82174,3 +82174,4 @@
 0405. ✅ test: mock database connection in test suite
 0493. ✨ feat: add user authentication
 0733. 🐛 fix: fix null pointer exception on login
+0696. 🔧 refactor: clean up auth middleware
