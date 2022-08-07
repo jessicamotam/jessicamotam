@@ -7087,3 +7087,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0325. 🎨 style: rename variables for clarity
 0763. 🔧 refactor: organize models into subfolders
+0472. 🐛 fix: fix null pointer exception on login
