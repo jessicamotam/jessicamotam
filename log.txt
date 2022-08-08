@@ -49505,3 +49505,4 @@
 0180. ✨ feat: add export to CSV option
 0219. ✅ test: increase coverage on auth module
 0537. 🔧 refactor: remove redundant code blocks
+0048. 📚 docs: update README with setup steps
