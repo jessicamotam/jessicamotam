@@ -75505,3 +75505,4 @@
 0693. 📚 docs: add API usage examples
 0021. ✨ feat: support email verification
 0489. 🔧 refactor: organize models into subfolders
+0823. ✨ feat: add user authentication
