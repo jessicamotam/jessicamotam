@@ -11650,3 +11650,4 @@
 0792. 🎨 style: standardize quote style
 0545. 🎨 style: standardize quote style
 0017. ✅ test: mock database connection in test suite
+0243. 🔧 refactor: clean up auth middleware
