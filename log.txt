@@ -83826,3 +83826,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0684. 🚀 perf: reduce image load time
 0722. 📚 docs: add API usage examples
+0475. 🔧 refactor: clean up auth middleware
