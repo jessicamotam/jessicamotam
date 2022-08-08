@@ -81570,3 +81570,4 @@
 0921. 🐛 fix: correct typo in registration form
 0131. 📚 docs: write FAQ section
 0785. ✨ feat: enable dark mode toggle
+0850. ♻️ chore: rename env.example
