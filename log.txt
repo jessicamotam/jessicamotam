@@ -47000,3 +47000,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0335. ♻️ chore: update .gitignore
 0099. 🚀 perf: reduce image load time
+0460. 📚 docs: write FAQ section
