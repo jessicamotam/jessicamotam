@@ -77005,3 +77005,4 @@
 0023. 📚 docs: clarify environment setup
 0547. 📚 docs: write FAQ section
 0362. 📚 docs: add API usage examples
+0153. ♻️ chore: rename env.example
