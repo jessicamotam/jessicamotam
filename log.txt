@@ -50976,3 +50976,4 @@
 0019. ✨ feat: enable dark mode toggle
 0512. 🚀 perf: reduce image load time
 0178. ✨ feat: support email verification
+0051. ✨ feat: enable dark mode toggle
