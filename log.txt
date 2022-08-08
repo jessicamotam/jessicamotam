@@ -83498,3 +83498,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0031. 📚 docs: document token refresh logic
 0383. 🐛 fix: fix broken CSS in mobile view
+0003. ✅ test: increase coverage on auth module
