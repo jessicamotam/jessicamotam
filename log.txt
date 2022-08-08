@@ -5726,3 +5726,4 @@
 0525. ✅ test: mock database connection in test suite
 0979. 🎨 style: standardize quote style
 0860. 🔧 refactor: organize models into subfolders
+0627. 📚 docs: document token refresh logic
