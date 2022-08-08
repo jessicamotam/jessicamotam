@@ -647,3 +647,4 @@
 0249. ✅ test: increase coverage on auth module
 0381. ♻️ chore: clean up unused files
 0089. 🔧 refactor: remove redundant code blocks
+0633. ✨ feat: add user authentication
