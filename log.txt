@@ -13151,3 +13151,4 @@
 0536. ✨ feat: add user authentication
 0442. 🎨 style: standardize quote style
 0758. 🚀 perf: optimize database query for quiz results
+0502. 📚 docs: update README with setup steps
