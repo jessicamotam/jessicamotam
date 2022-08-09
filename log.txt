@@ -2545,3 +2545,4 @@
 0104. 🎨 style: apply consistent indentation
 0603. 🐛 fix: fix broken CSS in mobile view
 0190. 🎨 style: rename variables for clarity
+0189. 📚 docs: clarify environment setup
