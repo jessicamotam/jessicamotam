@@ -73655,3 +73655,4 @@
 0024. 📚 docs: write FAQ section
 0967. ♻️ chore: add GitHub actions badge
 0966. 📚 docs: improve code comments in utils
+0235. 🐛 fix: fix null pointer exception on login
