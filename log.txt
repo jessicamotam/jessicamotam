@@ -497,3 +497,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0845. 🚀 perf: cache repeated calculations
 0604. 📚 docs: add API usage examples
+0299. 🐛 fix: resolve issue with date parsing
