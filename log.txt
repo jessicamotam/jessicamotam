@@ -28688,3 +28688,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0769. ✨ feat: create admin dashboard
 0391. 🐛 fix: fix null pointer exception on login
+0636. ✅ test: increase coverage on auth module
