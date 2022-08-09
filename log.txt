@@ -12030,3 +12030,4 @@
 0502. 📚 docs: update README with setup steps
 0344. ♻️ chore: add GitHub actions badge
 0876. ♻️ chore: rename env.example
+0978. 🐛 fix: prevent crash on empty input
