@@ -17583,3 +17583,4 @@
 0160. ♻️ chore: bump dependencies
 0736. 🐛 fix: fix null pointer exception on login
 0664. ✅ test: add unit test for quiz service
+0593. 🐛 fix: correct typo in registration form
