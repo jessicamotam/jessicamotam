@@ -57450,3 +57450,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0277. 🎨 style: standardize quote style
 0344. ♻️ chore: add GitHub actions badge
+0527. 🎨 style: remove trailing whitespace
