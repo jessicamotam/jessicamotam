@@ -80196,3 +80196,4 @@
 0221. ✨ feat: add user authentication
 0920. 🔧 refactor: organize models into subfolders
 0727. ♻️ chore: add GitHub actions badge
+0895. ✨ feat: support email verification
