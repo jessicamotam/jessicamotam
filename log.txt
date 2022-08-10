@@ -37407,3 +37407,4 @@
 0227. ✅ test: test user registration edge cases
 0347. ♻️ chore: update .gitignore
 0542. 🔧 refactor: organize models into subfolders
+0882. 🚀 perf: optimize database query for quiz results
