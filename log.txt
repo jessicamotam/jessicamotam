@@ -53150,3 +53150,4 @@
 0687. 🎨 style: remove trailing whitespace
 0017. ✅ test: mock database connection in test suite
 0818. 🔧 refactor: remove redundant code blocks
+0384. 📚 docs: clarify environment setup
