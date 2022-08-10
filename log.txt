@@ -76100,3 +76100,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0556. ✨ feat: support email verification
 0402. 🎨 style: reformat files with black
+0493. ✨ feat: add user authentication
