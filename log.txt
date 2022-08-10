@@ -62591,3 +62591,4 @@
 0116. ✨ feat: support email verification
 0765. ♻️ chore: clean up unused files
 0144. ✅ test: increase coverage on auth module
+0470. 🎨 style: remove trailing whitespace
