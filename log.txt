@@ -74025,3 +74025,4 @@
 0707. 🎨 style: apply consistent indentation
 0387. ✨ feat: enable dark mode toggle
 0634. 🎨 style: reformat files with black
+0369. 🎨 style: standardize quote style
