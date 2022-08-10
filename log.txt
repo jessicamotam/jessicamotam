@@ -62682,3 +62682,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0428. 🐛 fix: fix null pointer exception on login
 0566. 📚 docs: write FAQ section
+0920. 🔧 refactor: organize models into subfolders
