@@ -26118,3 +26118,4 @@
 0024. 📚 docs: write FAQ section
 0626. 🎨 style: standardize quote style
 0157. ✅ test: mock database connection in test suite
+0502. 📚 docs: update README with setup steps
