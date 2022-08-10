@@ -66296,3 +66296,4 @@
 0834. ✅ test: increase coverage on auth module
 0922. 📚 docs: write FAQ section
 0423. ✅ test: mock database connection in test suite
+0117. ✅ test: increase coverage on auth module
