@@ -17466,3 +17466,4 @@
 0291. 📚 docs: write FAQ section
 0672. 🐛 fix: fix broken CSS in mobile view
 0185. 📚 docs: write FAQ section
+0844. 📚 docs: update README with setup steps
