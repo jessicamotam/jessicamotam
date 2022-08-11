@@ -51971,3 +51971,4 @@
 0934. ✨ feat: support email verification
 0881. 🔧 refactor: split large controller into smaller functions
 0391. 🐛 fix: fix null pointer exception on login
+0712. 🎨 style: apply consistent indentation
