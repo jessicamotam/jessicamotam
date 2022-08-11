@@ -58747,3 +58747,4 @@
 0013. ✅ test: increase coverage on auth module
 0564. 📚 docs: clarify environment setup
 0253. 📚 docs: update README with setup steps
+0671. 🐛 fix: fix null pointer exception on login
