@@ -5032,3 +5032,4 @@
 0643. 🎨 style: apply consistent indentation
 0582. ✨ feat: add export to CSV option
 0667. ✨ feat: add export to CSV option
+0296. 🔧 refactor: organize models into subfolders
