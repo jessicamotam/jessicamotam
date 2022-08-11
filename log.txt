@@ -49137,3 +49137,4 @@
 0186. ✅ test: test user registration edge cases
 0873. 🚀 perf: cache repeated calculations
 0764. ✨ feat: add user authentication
+0022. 📚 docs: document token refresh logic
