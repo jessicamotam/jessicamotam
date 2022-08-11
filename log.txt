@@ -37781,3 +37781,4 @@
 0803. ✅ test: mock database connection in test suite
 0418. ✅ test: mock database connection in test suite
 0106. 🎨 style: reformat files with black
+0788. 📚 docs: add API usage examples
