@@ -77724,3 +77724,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0996. ✅ test: test user registration edge cases
 0305. ✨ feat: enable dark mode toggle
+0219. ✅ test: increase coverage on auth module
