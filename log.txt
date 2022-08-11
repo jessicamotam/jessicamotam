@@ -11126,3 +11126,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0244. ✨ feat: add export to CSV option
 0289. 🐛 fix: resolve issue with date parsing
+0669. ✨ feat: enable dark mode toggle
