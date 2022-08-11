@@ -79919,3 +79919,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0682. ♻️ chore: rename env.example
 0238. 🎨 style: apply consistent indentation
+0518. ✨ feat: support email verification
