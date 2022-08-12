@@ -64721,3 +64721,4 @@
 0678. ✨ feat: add user authentication
 0334. 🚀 perf: cache repeated calculations
 0929. ✨ feat: support email verification
+0801. ✨ feat: enable dark mode toggle
