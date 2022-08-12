@@ -38585,3 +38585,4 @@
 0341. 🚀 perf: lazy-load components
 0842. 🎨 style: remove trailing whitespace
 0437. 📚 docs: clarify environment setup
+0605. ✨ feat: support email verification
