@@ -26983,3 +26983,4 @@
 0969. ✨ feat: create admin dashboard
 0369. 🎨 style: standardize quote style
 0228. 🔧 refactor: remove redundant code blocks
+0506. 🐛 fix: handle 500 error in quiz API
