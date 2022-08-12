@@ -80953,3 +80953,4 @@
 0916. ♻️ chore: bump dependencies
 0540. ♻️ chore: add GitHub actions badge
 0241. 📚 docs: add API usage examples
+0576. ♻️ chore: update .gitignore
