@@ -50061,3 +50061,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0844. 📚 docs: update README with setup steps
 0884. 📚 docs: clarify environment setup
+0281. ✨ feat: support email verification
