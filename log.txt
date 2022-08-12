@@ -14904,3 +14904,4 @@
 0863. 🐛 fix: correct typo in registration form
 0914. ✅ test: test user registration edge cases
 0558. ✨ feat: enable dark mode toggle
+0520. 🐛 fix: fix null pointer exception on login
