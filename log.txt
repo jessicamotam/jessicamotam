@@ -20895,3 +20895,4 @@
 0057. 🚀 perf: optimize database query for quiz results
 0568. 🐛 fix: handle 500 error in quiz API
 0938. 🎨 style: rename variables for clarity
+0778. 📚 docs: write FAQ section
