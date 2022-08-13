@@ -6414,3 +6414,4 @@
 0649. 📚 docs: update README with setup steps
 0900. 🐛 fix: handle 500 error in quiz API
 0603. 🐛 fix: fix broken CSS in mobile view
+0205. 📚 docs: update README with setup steps
