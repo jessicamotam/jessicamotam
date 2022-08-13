@@ -52877,3 +52877,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0603. 🐛 fix: fix broken CSS in mobile view
 0816. 🔧 refactor: organize models into subfolders
+0521. 🎨 style: standardize quote style
