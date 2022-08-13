@@ -69095,3 +69095,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0059. ♻️ chore: bump dependencies
 0279. ✨ feat: support email verification
+0779. 🔧 refactor: organize models into subfolders
