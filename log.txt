@@ -52051,3 +52051,4 @@
 0693. 📚 docs: add API usage examples
 0509. ♻️ chore: bump dependencies
 0626. 🎨 style: standardize quote style
+0080. ✨ feat: support email verification
