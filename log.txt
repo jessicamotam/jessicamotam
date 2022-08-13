@@ -5898,3 +5898,4 @@
 0431. 🎨 style: reformat files with black
 0706. ✨ feat: support email verification
 0956. 📚 docs: clarify environment setup
+0292. 📚 docs: clarify environment setup
