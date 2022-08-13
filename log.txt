@@ -84955,3 +84955,4 @@
 0295. 🎨 style: remove trailing whitespace
 0736. 🐛 fix: fix null pointer exception on login
 0335. ♻️ chore: update .gitignore
+0849. 🐛 fix: correct typo in registration form
