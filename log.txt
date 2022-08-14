@@ -78020,3 +78020,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0855. 🎨 style: reformat files with black
 0487. 🎨 style: reformat files with black
+0589. 🐛 fix: fix broken CSS in mobile view
