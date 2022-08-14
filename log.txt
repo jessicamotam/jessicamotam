@@ -61897,3 +61897,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0587. 🔧 refactor: remove redundant code blocks
 0121. ✨ feat: support email verification
+0383. 🐛 fix: fix broken CSS in mobile view
