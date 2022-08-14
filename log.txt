@@ -60129,3 +60129,4 @@
 0407. 🚀 perf: cache repeated calculations
 0215. 🎨 style: reformat files with black
 0986. 📚 docs: document token refresh logic
+0362. 📚 docs: add API usage examples
