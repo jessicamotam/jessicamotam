@@ -50100,3 +50100,4 @@
 0593. 🐛 fix: correct typo in registration form
 0380. 🐛 fix: fix null pointer exception on login
 0108. 🎨 style: remove trailing whitespace
+0834. ✅ test: increase coverage on auth module
