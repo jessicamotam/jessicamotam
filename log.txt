@@ -221,3 +221,4 @@
 0059. ♻️ chore: bump dependencies
 0612. ✅ test: test user registration edge cases
 0911. ✅ test: increase coverage on auth module
+0103. 🔧 refactor: remove redundant code blocks
