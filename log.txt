@@ -39150,3 +39150,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0351. ✨ feat: add export to CSV option
 0719. 🎨 style: apply consistent indentation
+0136. 🚀 perf: lazy-load components
