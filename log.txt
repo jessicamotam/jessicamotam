@@ -69963,3 +69963,4 @@
 0699. 🎨 style: standardize quote style
 0785. ✨ feat: enable dark mode toggle
 0579. 📚 docs: clarify environment setup
+0026. 🔧 refactor: clean up auth middleware
