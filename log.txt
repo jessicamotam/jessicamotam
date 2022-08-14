@@ -83861,3 +83861,4 @@
 0393. 🚀 perf: lazy-load components
 0541. 🐛 fix: correct typo in registration form
 0553. 🐛 fix: correct typo in registration form
+0547. 📚 docs: write FAQ section
