@@ -69863,3 +69863,4 @@
 0451. ✨ feat: support email verification
 0263. 📚 docs: add API usage examples
 0185. 📚 docs: write FAQ section
+0469. 🚀 perf: lazy-load components
