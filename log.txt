@@ -74875,3 +74875,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0021. ✨ feat: support email verification
 0281. ✨ feat: support email verification
+0529. 📚 docs: write FAQ section
