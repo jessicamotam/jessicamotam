@@ -672,3 +672,4 @@
 0451. ✨ feat: support email verification
 0438. ♻️ chore: bump dependencies
 0275. 🎨 style: standardize quote style
+0529. 📚 docs: write FAQ section
