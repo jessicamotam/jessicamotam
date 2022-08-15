@@ -76361,3 +76361,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0200. 🐛 fix: handle 500 error in quiz API
 0459. 🔧 refactor: organize models into subfolders
+0499. 🎨 style: reformat files with black
