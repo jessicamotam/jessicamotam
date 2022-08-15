@@ -44305,3 +44305,4 @@
 0504. 📚 docs: document token refresh logic
 0892. ✅ test: add unit test for quiz service
 0395. 📚 docs: write FAQ section
+0636. ✅ test: increase coverage on auth module
