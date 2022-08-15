@@ -40215,3 +40215,4 @@
 0419. 🎨 style: remove trailing whitespace
 0706. ✨ feat: support email verification
 0511. 🐛 fix: fix broken CSS in mobile view
+0054. ♻️ chore: update .gitignore
