@@ -1451,3 +1451,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0262. 🎨 style: remove trailing whitespace
 0461. ✨ feat: add user authentication
+0754. 🐛 fix: handle 500 error in quiz API
