@@ -5253,3 +5253,4 @@
 0337. 📚 docs: document token refresh logic
 0171. 🐛 fix: fix broken CSS in mobile view
 0828. ♻️ chore: add GitHub actions badge
+0791. 🔧 refactor: clean up auth middleware
