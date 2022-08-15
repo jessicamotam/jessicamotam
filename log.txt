@@ -89766,3 +89766,4 @@
 0251. ♻️ chore: update .gitignore
 0794. ♻️ chore: clean up unused files
 0290. ✅ test: test user registration edge cases
+0238. 🎨 style: apply consistent indentation
