@@ -25273,3 +25273,4 @@
 0111. 📚 docs: update README with setup steps
 0223. 🔧 refactor: remove redundant code blocks
 0288. 🔧 refactor: refactor quiz grading logic
+0430. 🐛 fix: fix null pointer exception on login
