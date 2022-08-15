@@ -69544,3 +69544,4 @@
 0307. ✨ feat: support email verification
 0790. 📚 docs: write FAQ section
 0635. 🎨 style: apply consistent indentation
+0696. 🔧 refactor: clean up auth middleware
