@@ -62166,3 +62166,4 @@
 0437. 📚 docs: clarify environment setup
 0644. 🎨 style: apply consistent indentation
 0589. 🐛 fix: fix broken CSS in mobile view
+0982. 🚀 perf: lazy-load components
