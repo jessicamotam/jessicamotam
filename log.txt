@@ -33172,3 +33172,4 @@
 0923. ✨ feat: support email verification
 0555. ✨ feat: create admin dashboard
 0720. ✨ feat: add export to CSV option
+0988. 🐛 fix: fix broken CSS in mobile view
