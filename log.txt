@@ -22424,3 +22424,4 @@
 0094. 📚 docs: document token refresh logic
 0666. 🐛 fix: fix broken CSS in mobile view
 0348. ✅ test: test user registration edge cases
+0273. 🚀 perf: reduce image load time
