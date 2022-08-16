@@ -16375,3 +16375,4 @@
 0112. ✨ feat: enable dark mode toggle
 0952. 🔧 refactor: split large controller into smaller functions
 0333. 🚀 perf: cache repeated calculations
+0994. 🚀 perf: reduce image load time
