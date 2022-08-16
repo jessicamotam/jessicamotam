@@ -5718,3 +5718,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0792. 🎨 style: standardize quote style
 0396. 🔧 refactor: split large controller into smaller functions
+0427. ✅ test: mock database connection in test suite
