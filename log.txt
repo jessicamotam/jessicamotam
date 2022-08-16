@@ -53384,3 +53384,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0951. 🎨 style: rename variables for clarity
 0596. ♻️ chore: update .gitignore
+0403. ✅ test: mock database connection in test suite
