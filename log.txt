@@ -53859,3 +53859,4 @@
 0810. 🔧 refactor: refactor quiz grading logic
 0304. 🔧 refactor: remove redundant code blocks
 0719. 🎨 style: apply consistent indentation
+0609. 🐛 fix: handle 500 error in quiz API
