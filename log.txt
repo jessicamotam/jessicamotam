@@ -35781,3 +35781,4 @@
 0572. ✨ feat: add user authentication
 0505. ♻️ chore: add GitHub actions badge
 0173. 🚀 perf: cache repeated calculations
+0217. 🚀 perf: reduce image load time
