@@ -68241,3 +68241,4 @@
 0079. 🐛 fix: correct typo in registration form
 0318. 🔧 refactor: refactor quiz grading logic
 0364. 🐛 fix: resolve issue with date parsing
+0090. ✅ test: increase coverage on auth module
