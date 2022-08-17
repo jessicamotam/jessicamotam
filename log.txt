@@ -40778,3 +40778,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0223. 🔧 refactor: remove redundant code blocks
 0380. 🐛 fix: fix null pointer exception on login
+0394. 🚀 perf: lazy-load components
