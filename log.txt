@@ -1258,3 +1258,4 @@
 0873. 🚀 perf: cache repeated calculations
 0406. ✨ feat: add export to CSV option
 0624. ✅ test: add unit test for quiz service
+0605. ✨ feat: support email verification
