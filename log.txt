@@ -70340,3 +70340,4 @@
 0360. ✨ feat: add export to CSV option
 0643. 🎨 style: apply consistent indentation
 0818. 🔧 refactor: remove redundant code blocks
+0562. 🔧 refactor: clean up auth middleware
