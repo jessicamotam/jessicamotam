@@ -89729,3 +89729,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0437. 📚 docs: clarify environment setup
 0331. 🐛 fix: fix broken CSS in mobile view
+0733. 🐛 fix: fix null pointer exception on login
