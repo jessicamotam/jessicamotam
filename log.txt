@@ -61289,3 +61289,4 @@
 0929. ✨ feat: support email verification
 0973. 🔧 refactor: organize models into subfolders
 0940. 📚 docs: document token refresh logic
+0359. 🔧 refactor: clean up auth middleware
