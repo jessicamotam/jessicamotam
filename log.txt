@@ -294,3 +294,4 @@
 0302. ✨ feat: implement quiz timer feature
 0511. 🐛 fix: fix broken CSS in mobile view
 0864. 🐛 fix: correct typo in registration form
+0654. ✨ feat: create admin dashboard
