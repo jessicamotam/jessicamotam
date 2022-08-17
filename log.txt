@@ -37084,3 +37084,4 @@
 0474. ✅ test: add unit test for quiz service
 0983. 🔧 refactor: split large controller into smaller functions
 0643. 🎨 style: apply consistent indentation
+0116. ✨ feat: support email verification
