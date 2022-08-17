@@ -37428,3 +37428,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0041. 🐛 fix: fix broken CSS in mobile view
 0903. ✅ test: mock database connection in test suite
+0443. 🎨 style: standardize quote style
