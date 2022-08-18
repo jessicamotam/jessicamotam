@@ -53477,3 +53477,4 @@
 0279. ✨ feat: support email verification
 0193. 🚀 perf: optimize database query for quiz results
 0490. ✨ feat: create admin dashboard
+0170. ✅ test: increase coverage on auth module
