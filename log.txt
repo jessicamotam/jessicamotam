@@ -75908,3 +75908,4 @@
 0739. 🎨 style: remove trailing whitespace
 0279. ✨ feat: support email verification
 0689. 🎨 style: reformat files with black
+0707. 🎨 style: apply consistent indentation
