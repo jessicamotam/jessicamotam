@@ -53726,3 +53726,4 @@
 0090. ✅ test: increase coverage on auth module
 0531. 🐛 fix: prevent crash on empty input
 0849. 🐛 fix: correct typo in registration form
+0863. 🐛 fix: correct typo in registration form
