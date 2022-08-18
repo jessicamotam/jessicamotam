@@ -26884,3 +26884,4 @@
 0384. 📚 docs: clarify environment setup
 0869. ♻️ chore: bump dependencies
 0513. ♻️ chore: bump dependencies
+0468. 📚 docs: update README with setup steps
