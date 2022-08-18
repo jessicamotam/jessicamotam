@@ -49535,3 +49535,4 @@
 0256. ✅ test: mock database connection in test suite
 0408. ♻️ chore: add GitHub actions badge
 0837. 🚀 perf: cache repeated calculations
+0745. ✅ test: add unit test for quiz service
