@@ -76285,3 +76285,4 @@
 0902. ✨ feat: enable dark mode toggle
 0782. 📚 docs: improve code comments in utils
 0876. ♻️ chore: rename env.example
+0780. 📚 docs: add API usage examples
