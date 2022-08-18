@@ -35404,3 +35404,4 @@
 0095. ✅ test: mock database connection in test suite
 0146. 🎨 style: apply consistent indentation
 0988. 🐛 fix: fix broken CSS in mobile view
+0929. ✨ feat: support email verification
