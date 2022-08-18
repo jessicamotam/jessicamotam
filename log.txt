@@ -56425,3 +56425,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0403. ✅ test: mock database connection in test suite
 0249. ✅ test: increase coverage on auth module
+0629. 🔧 refactor: organize models into subfolders
