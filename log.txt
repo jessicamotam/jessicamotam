@@ -21076,3 +21076,4 @@
 0143. ✨ feat: implement quiz timer feature
 0215. 🎨 style: reformat files with black
 0492. 🎨 style: remove trailing whitespace
+0361. ✨ feat: support email verification
