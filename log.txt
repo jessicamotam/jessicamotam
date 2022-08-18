@@ -38737,3 +38737,4 @@
 0638. 📚 docs: improve code comments in utils
 0418. ✅ test: mock database connection in test suite
 0428. 🐛 fix: fix null pointer exception on login
+0782. 📚 docs: improve code comments in utils
