@@ -31026,3 +31026,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0336. ✨ feat: add export to CSV option
 0945. ♻️ chore: add GitHub actions badge
+0050. ✨ feat: enable dark mode toggle
