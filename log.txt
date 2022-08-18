@@ -81216,3 +81216,4 @@
 0184. 📚 docs: improve code comments in utils
 0058. ♻️ chore: add GitHub actions badge
 0040. 🔧 refactor: clean up auth middleware
+0440. 📚 docs: update README with setup steps
