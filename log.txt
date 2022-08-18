@@ -24130,3 +24130,4 @@
 0605. ✨ feat: support email verification
 0760. 🐛 fix: resolve issue with date parsing
 0076. 🎨 style: reformat files with black
+0733. 🐛 fix: fix null pointer exception on login
