@@ -22031,3 +22031,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0435. ✅ test: add unit test for quiz service
 0967. ♻️ chore: add GitHub actions badge
+0225. 🚀 perf: reduce image load time
