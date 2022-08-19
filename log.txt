@@ -33596,3 +33596,4 @@
 0398. 🚀 perf: cache repeated calculations
 0099. 🚀 perf: reduce image load time
 0505. ♻️ chore: add GitHub actions badge
+0243. 🔧 refactor: clean up auth middleware
