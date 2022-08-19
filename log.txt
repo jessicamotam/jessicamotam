@@ -76345,3 +76345,4 @@
 0474. ✅ test: add unit test for quiz service
 0661. ✅ test: add integration test for /submit endpoint
 0477. 🐛 fix: fix broken CSS in mobile view
+0025. 🚀 perf: optimize database query for quiz results
