@@ -44539,3 +44539,4 @@
 0644. 🎨 style: apply consistent indentation
 0657. 🎨 style: standardize quote style
 0373. 📚 docs: document token refresh logic
+0751. 🐛 fix: handle 500 error in quiz API
