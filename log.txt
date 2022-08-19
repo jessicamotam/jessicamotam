@@ -887,3 +887,4 @@
 0498. ✅ test: mock database connection in test suite
 0365. 🚀 perf: reduce image load time
 0236. 🔧 refactor: remove redundant code blocks
+0125. ✅ test: add integration test for /submit endpoint
