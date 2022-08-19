@@ -12256,3 +12256,4 @@
 0236. 🔧 refactor: remove redundant code blocks
 0204. 🎨 style: standardize quote style
 0442. 🎨 style: standardize quote style
+0254. 🚀 perf: reduce image load time
