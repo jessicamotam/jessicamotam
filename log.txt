@@ -10035,3 +10035,4 @@
 0037. 🐛 fix: correct typo in registration form
 0947. 📚 docs: write FAQ section
 0563. 📚 docs: clarify environment setup
+0277. 🎨 style: standardize quote style
