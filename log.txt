@@ -37130,3 +37130,4 @@
 0494. 🎨 style: rename variables for clarity
 0117. ✅ test: increase coverage on auth module
 0359. 🔧 refactor: clean up auth middleware
+0281. ✨ feat: support email verification
