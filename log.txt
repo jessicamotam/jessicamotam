@@ -6934,3 +6934,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0572. ✨ feat: add user authentication
 0764. ✨ feat: add user authentication
+0875. ✅ test: increase coverage on auth module
