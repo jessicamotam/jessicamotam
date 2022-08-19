@@ -33055,3 +33055,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0427. ✅ test: mock database connection in test suite
 0595. ✨ feat: enable dark mode toggle
+0194. 🎨 style: standardize quote style
