@@ -7597,3 +7597,4 @@
 0360. ✨ feat: add export to CSV option
 0274. 🔧 refactor: refactor quiz grading logic
 0206. 🐛 fix: handle 500 error in quiz API
+0793. 📚 docs: clarify environment setup
