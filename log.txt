@@ -23506,3 +23506,4 @@
 0931. 🚀 perf: reduce image load time
 0384. 📚 docs: clarify environment setup
 0008. 🚀 perf: reduce image load time
+0763. 🔧 refactor: organize models into subfolders
