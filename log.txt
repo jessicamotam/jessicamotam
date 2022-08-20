@@ -9358,3 +9358,4 @@
 0956. 📚 docs: clarify environment setup
 0163. ✨ feat: implement quiz timer feature
 0095. ✅ test: mock database connection in test suite
+0063. 🐛 fix: handle 500 error in quiz API
