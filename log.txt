@@ -4347,3 +4347,4 @@
 0939. 📚 docs: update README with setup steps
 0951. 🎨 style: rename variables for clarity
 0512. 🚀 perf: reduce image load time
+0783. 🐛 fix: handle 500 error in quiz API
