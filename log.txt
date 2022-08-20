@@ -20584,3 +20584,4 @@
 0262. 🎨 style: remove trailing whitespace
 0671. 🐛 fix: fix null pointer exception on login
 0580. ♻️ chore: bump dependencies
+0222. 🐛 fix: handle 500 error in quiz API
