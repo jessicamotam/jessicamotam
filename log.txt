@@ -15475,3 +15475,4 @@
 0122. ✨ feat: support email verification
 0977. 🔧 refactor: organize models into subfolders
 0594. 🎨 style: reformat files with black
+0493. ✨ feat: add user authentication
