@@ -67301,3 +67301,4 @@
 0784. ♻️ chore: clean up unused files
 0153. ♻️ chore: rename env.example
 0279. ✨ feat: support email verification
+0227. ✅ test: test user registration edge cases
