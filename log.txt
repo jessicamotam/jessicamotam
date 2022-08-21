@@ -27201,3 +27201,4 @@
 0420. 🚀 perf: reduce image load time
 0368. 🚀 perf: lazy-load components
 0750. 🎨 style: apply consistent indentation
+0111. 📚 docs: update README with setup steps
