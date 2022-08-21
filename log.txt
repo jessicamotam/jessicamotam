@@ -13361,3 +13361,4 @@
 0070. ✨ feat: implement quiz timer feature
 0749. ✨ feat: support email verification
 0538. 🐛 fix: fix broken CSS in mobile view
+0616. 🚀 perf: lazy-load components
