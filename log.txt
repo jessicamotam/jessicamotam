@@ -2777,3 +2777,4 @@
 0695. ✨ feat: create admin dashboard
 0790. 📚 docs: write FAQ section
 0536. ✨ feat: add user authentication
+0667. ✨ feat: add export to CSV option
