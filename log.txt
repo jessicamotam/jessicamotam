@@ -14597,3 +14597,4 @@
 0986. 📚 docs: document token refresh logic
 0685. ✅ test: test user registration edge cases
 0305. ✨ feat: enable dark mode toggle
+0967. ♻️ chore: add GitHub actions badge
