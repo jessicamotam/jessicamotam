@@ -22540,3 +22540,4 @@
 0501. ✨ feat: add export to CSV option
 0902. ✨ feat: enable dark mode toggle
 0729. 🔧 refactor: refactor quiz grading logic
+0178. ✨ feat: support email verification
