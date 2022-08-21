@@ -40085,3 +40085,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0942. ✅ test: increase coverage on auth module
 0235. 🐛 fix: fix null pointer exception on login
+0816. 🔧 refactor: organize models into subfolders
