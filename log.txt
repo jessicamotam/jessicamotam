@@ -40348,3 +40348,4 @@
 0528. ♻️ chore: clean up unused files
 0446. 🎨 style: apply consistent indentation
 0264. 🚀 perf: optimize database query for quiz results
+0291. 📚 docs: write FAQ section
