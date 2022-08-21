@@ -2317,3 +2317,4 @@
 0495. 🔧 refactor: remove redundant code blocks
 0264. 🚀 perf: optimize database query for quiz results
 0684. 🚀 perf: reduce image load time
+0248. 🐛 fix: handle 500 error in quiz API
