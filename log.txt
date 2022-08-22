@@ -16505,3 +16505,4 @@
 0157. ✅ test: mock database connection in test suite
 0545. 🎨 style: standardize quote style
 0462. ♻️ chore: update .gitignore
+0018. 🔧 refactor: organize models into subfolders
