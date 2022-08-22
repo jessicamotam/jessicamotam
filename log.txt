@@ -38056,3 +38056,4 @@
 0460. 📚 docs: write FAQ section
 0326. 🚀 perf: cache repeated calculations
 0886. ♻️ chore: clean up unused files
+0607. 🐛 fix: prevent crash on empty input
