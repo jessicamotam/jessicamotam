@@ -40459,3 +40459,4 @@
 0790. 📚 docs: write FAQ section
 0022. 📚 docs: document token refresh logic
 0009. ✨ feat: enable dark mode toggle
+0154. 🐛 fix: prevent crash on empty input
