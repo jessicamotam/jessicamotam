@@ -37387,3 +37387,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0588. 🔧 refactor: organize models into subfolders
 0824. 🚀 perf: lazy-load components
+0006. 🐛 fix: prevent crash on empty input
