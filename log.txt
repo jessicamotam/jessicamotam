@@ -40080,3 +40080,4 @@
 0585. 🚀 perf: lazy-load components
 0780. 📚 docs: add API usage examples
 0308. 🚀 perf: reduce image load time
+0203. 🚀 perf: lazy-load components
