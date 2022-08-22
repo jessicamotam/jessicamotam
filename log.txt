@@ -8270,3 +8270,4 @@
 0337. 📚 docs: document token refresh logic
 0321. 🔧 refactor: organize models into subfolders
 0985. 📚 docs: document token refresh logic
+0775. 🐛 fix: fix null pointer exception on login
