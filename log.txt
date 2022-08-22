@@ -37406,3 +37406,4 @@
 0854. ♻️ chore: rename env.example
 0227. ✅ test: test user registration edge cases
 0347. ♻️ chore: update .gitignore
+0542. 🔧 refactor: organize models into subfolders
