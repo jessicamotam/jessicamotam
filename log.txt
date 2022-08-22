@@ -31625,3 +31625,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0924. ✅ test: mock database connection in test suite
 0215. 🎨 style: reformat files with black
+0376. 🎨 style: apply consistent indentation
