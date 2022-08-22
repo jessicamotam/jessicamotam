@@ -62782,3 +62782,4 @@
 0842. 🎨 style: remove trailing whitespace
 0633. ✨ feat: add user authentication
 0233. 🚀 perf: lazy-load components
+0127. 🐛 fix: fix null pointer exception on login
