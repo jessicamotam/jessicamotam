@@ -25388,3 +25388,4 @@
 0219. ✅ test: increase coverage on auth module
 0384. 📚 docs: clarify environment setup
 0830. 🎨 style: apply consistent indentation
+0629. 🔧 refactor: organize models into subfolders
