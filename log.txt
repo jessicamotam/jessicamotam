@@ -72695,3 +72695,4 @@
 0529. 📚 docs: write FAQ section
 0580. ♻️ chore: bump dependencies
 0642. 🚀 perf: optimize database query for quiz results
+0902. ✨ feat: enable dark mode toggle
