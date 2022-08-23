@@ -59612,3 +59612,4 @@
 0963. 🚀 perf: reduce image load time
 0082. 🔧 refactor: refactor quiz grading logic
 0025. 🚀 perf: optimize database query for quiz results
+0380. 🐛 fix: fix null pointer exception on login
