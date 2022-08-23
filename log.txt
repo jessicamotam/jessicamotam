@@ -37771,3 +37771,4 @@
 0259. 🚀 perf: lazy-load components
 0975. 🎨 style: apply consistent indentation
 0334. 🚀 perf: cache repeated calculations
+0320. 📚 docs: update README with setup steps
