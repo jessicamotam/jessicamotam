@@ -57976,3 +57976,4 @@
 0742. 📚 docs: clarify environment setup
 0647. 🐛 fix: prevent crash on empty input
 0641. 📚 docs: write FAQ section
+0275. 🎨 style: standardize quote style
