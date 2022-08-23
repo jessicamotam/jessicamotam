@@ -55015,3 +55015,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0115. 🚀 perf: reduce image load time
 0480. ♻️ chore: add GitHub actions badge
+0623. 🎨 style: standardize quote style
