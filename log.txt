@@ -78926,3 +78926,4 @@
 0960. ✅ test: increase coverage on auth module
 0234. ♻️ chore: rename env.example
 0927. ♻️ chore: bump dependencies
+0917. ✅ test: add integration test for /submit endpoint
