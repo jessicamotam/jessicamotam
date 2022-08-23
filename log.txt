@@ -74870,3 +74870,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0734. ✨ feat: add export to CSV option
 0897. 🐛 fix: prevent crash on empty input
+0356. 📚 docs: write FAQ section
