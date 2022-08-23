@@ -14864,3 +14864,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0401. 🚀 perf: reduce image load time
 0909. 🔧 refactor: organize models into subfolders
+0592. 📚 docs: add API usage examples
