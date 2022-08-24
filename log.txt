@@ -65715,3 +65715,4 @@
 0045. 🎨 style: apply consistent indentation
 0166. 🚀 perf: cache repeated calculations
 0940. 📚 docs: document token refresh logic
+0742. 📚 docs: clarify environment setup
