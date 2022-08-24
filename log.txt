@@ -18303,3 +18303,4 @@
 0150. 🎨 style: remove trailing whitespace
 0427. ✅ test: mock database connection in test suite
 0769. ✨ feat: create admin dashboard
+0101. 📚 docs: clarify environment setup
