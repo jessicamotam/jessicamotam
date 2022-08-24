@@ -51866,3 +51866,4 @@
 0946. ✅ test: add unit test for quiz service
 0666. 🐛 fix: fix broken CSS in mobile view
 0628. ♻️ chore: add GitHub actions badge
+0585. 🚀 perf: lazy-load components
