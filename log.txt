@@ -7026,3 +7026,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0933. 📚 docs: clarify environment setup
 0084. 🐛 fix: handle 500 error in quiz API
+0096. 🐛 fix: prevent crash on empty input
