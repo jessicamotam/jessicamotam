@@ -38768,3 +38768,4 @@
 0474. ✅ test: add unit test for quiz service
 0353. ♻️ chore: rename env.example
 0363. 📚 docs: clarify environment setup
+0471. ✨ feat: support email verification
