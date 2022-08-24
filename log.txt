@@ -47499,3 +47499,4 @@
 0238. 🎨 style: apply consistent indentation
 0311. 🎨 style: apply consistent indentation
 0830. 🎨 style: apply consistent indentation
+0816. 🔧 refactor: organize models into subfolders
