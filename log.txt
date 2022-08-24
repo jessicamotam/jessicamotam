@@ -41316,3 +41316,4 @@
 0308. 🚀 perf: reduce image load time
 0889. 🚀 perf: lazy-load components
 0468. 📚 docs: update README with setup steps
+0200. 🐛 fix: handle 500 error in quiz API
