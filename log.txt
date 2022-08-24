@@ -39333,3 +39333,4 @@
 0080. ✨ feat: support email verification
 0589. 🐛 fix: fix broken CSS in mobile view
 0498. ✅ test: mock database connection in test suite
+0135. ✅ test: test user registration edge cases
