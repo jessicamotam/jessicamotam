@@ -39351,3 +39351,4 @@
 0395. 📚 docs: write FAQ section
 0102. ✨ feat: support email verification
 0783. 🐛 fix: handle 500 error in quiz API
+0996. ✅ test: test user registration edge cases
