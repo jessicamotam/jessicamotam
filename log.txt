@@ -43569,3 +43569,4 @@
 0685. ✅ test: test user registration edge cases
 0639. 🐛 fix: correct typo in registration form
 0692. ✅ test: add integration test for /submit endpoint
+0159. 🚀 perf: lazy-load components
