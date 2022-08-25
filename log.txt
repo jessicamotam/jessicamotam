@@ -85322,3 +85322,4 @@
 0431. 🎨 style: reformat files with black
 0128. ♻️ chore: rename env.example
 0263. 📚 docs: add API usage examples
+0278. 🔧 refactor: clean up auth middleware
