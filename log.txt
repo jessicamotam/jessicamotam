@@ -70868,3 +70868,4 @@
 0944. ✨ feat: add user authentication
 0309. 🔧 refactor: refactor quiz grading logic
 0355. 🚀 perf: optimize database query for quiz results
+0243. 🔧 refactor: clean up auth middleware
