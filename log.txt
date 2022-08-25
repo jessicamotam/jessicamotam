@@ -25257,3 +25257,4 @@
 0976. ✨ feat: implement quiz timer feature
 0269. ✅ test: test user registration edge cases
 0831. 📚 docs: clarify environment setup
+0068. 🐛 fix: fix null pointer exception on login
