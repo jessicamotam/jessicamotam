@@ -85386,3 +85386,4 @@
 0995. ✅ test: mock database connection in test suite
 0029. 🚀 perf: lazy-load components
 0940. 📚 docs: document token refresh logic
+0198. 📚 docs: clarify environment setup
