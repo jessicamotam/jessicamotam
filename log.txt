@@ -54706,3 +54706,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0286. ✅ test: mock database connection in test suite
 0170. ✅ test: increase coverage on auth module
+0227. ✅ test: test user registration edge cases
