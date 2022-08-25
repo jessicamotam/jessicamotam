@@ -83445,3 +83445,4 @@
 0701. 🔧 refactor: clean up auth middleware
 0089. 🔧 refactor: remove redundant code blocks
 0051. ✨ feat: enable dark mode toggle
+0934. ✨ feat: support email verification
