@@ -68877,3 +68877,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0043. ✅ test: add integration test for /submit endpoint
 0881. 🔧 refactor: split large controller into smaller functions
+0026. 🔧 refactor: clean up auth middleware
