@@ -55412,3 +55412,4 @@
 0983. 🔧 refactor: split large controller into smaller functions
 0672. 🐛 fix: fix broken CSS in mobile view
 0391. 🐛 fix: fix null pointer exception on login
+0079. 🐛 fix: correct typo in registration form
