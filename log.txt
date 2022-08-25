@@ -16599,3 +16599,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0287. 📚 docs: write FAQ section
 0826. 📚 docs: clarify environment setup
+0920. 🔧 refactor: organize models into subfolders
