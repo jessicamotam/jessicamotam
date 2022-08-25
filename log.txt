@@ -4112,3 +4112,4 @@
 0766. 🎨 style: reformat files with black
 0062. ♻️ chore: update .gitignore
 0625. 🐛 fix: handle 500 error in quiz API
+0850. ♻️ chore: rename env.example
