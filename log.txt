@@ -34777,3 +34777,4 @@
 0336. ✨ feat: add export to CSV option
 0837. 🚀 perf: cache repeated calculations
 0502. 📚 docs: update README with setup steps
+0420. 🚀 perf: reduce image load time
