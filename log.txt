@@ -6393,3 +6393,4 @@
 0789. ✨ feat: create admin dashboard
 0249. ✅ test: increase coverage on auth module
 0076. 🎨 style: reformat files with black
+0240. 🔧 refactor: remove redundant code blocks
