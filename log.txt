@@ -65708,3 +65708,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0165. 🎨 style: remove trailing whitespace
 0513. ♻️ chore: bump dependencies
+0270. ♻️ chore: rename env.example
