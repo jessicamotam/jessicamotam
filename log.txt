@@ -82059,3 +82059,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0228. 🔧 refactor: remove redundant code blocks
 0087. ✨ feat: add export to CSV option
+0522. 🐛 fix: handle 500 error in quiz API
