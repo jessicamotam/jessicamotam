@@ -27111,3 +27111,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0432. 🎨 style: apply consistent indentation
 0237. 🎨 style: standardize quote style
+0422. 🔧 refactor: organize models into subfolders
