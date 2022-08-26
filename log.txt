@@ -19726,3 +19726,4 @@
 0192. ✨ feat: enable dark mode toggle
 0077. ♻️ chore: rename env.example
 0971. 🎨 style: standardize quote style
+0019. ✨ feat: enable dark mode toggle
