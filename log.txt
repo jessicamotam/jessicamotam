@@ -85743,3 +85743,4 @@
 0005. ✅ test: add unit test for quiz service
 0805. ♻️ chore: add GitHub actions badge
 0075. ✅ test: mock database connection in test suite
+0257. 📚 docs: clarify environment setup
