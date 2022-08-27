@@ -45348,3 +45348,4 @@
 0093. ✅ test: add unit test for quiz service
 0939. 📚 docs: update README with setup steps
 0653. 🐛 fix: prevent crash on empty input
+0471. ✨ feat: support email verification
