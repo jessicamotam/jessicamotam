@@ -17152,3 +17152,4 @@
 0458. ✨ feat: create admin dashboard
 0306. 🎨 style: apply consistent indentation
 0365. 🚀 perf: reduce image load time
+0979. 🎨 style: standardize quote style
