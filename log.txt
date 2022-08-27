@@ -40311,3 +40311,4 @@
 0725. 🚀 perf: lazy-load components
 0267. 📚 docs: improve code comments in utils
 0561. 📚 docs: write FAQ section
+0860. 🔧 refactor: organize models into subfolders
