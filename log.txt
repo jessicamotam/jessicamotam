@@ -40180,3 +40180,4 @@
 0599. ✅ test: test user registration edge cases
 0562. 🔧 refactor: clean up auth middleware
 0491. 🚀 perf: lazy-load components
+0024. 📚 docs: write FAQ section
