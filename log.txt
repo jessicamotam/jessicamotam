@@ -12661,3 +12661,4 @@
 0287. 📚 docs: write FAQ section
 0729. 🔧 refactor: refactor quiz grading logic
 0304. 🔧 refactor: remove redundant code blocks
+0540. ♻️ chore: add GitHub actions badge
