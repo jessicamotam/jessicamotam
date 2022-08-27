@@ -53225,3 +53225,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0371. ✅ test: add integration test for /submit endpoint
 0908. ♻️ chore: bump dependencies
+0672. 🐛 fix: fix broken CSS in mobile view
