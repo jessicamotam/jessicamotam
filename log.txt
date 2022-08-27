@@ -56557,3 +56557,4 @@
 0678. ✨ feat: add user authentication
 0984. ♻️ chore: clean up unused files
 0218. 🔧 refactor: clean up auth middleware
+0375. 🐛 fix: handle 500 error in quiz API
