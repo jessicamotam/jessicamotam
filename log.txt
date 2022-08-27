@@ -18648,3 +18648,4 @@
 0770. ♻️ chore: rename env.example
 0821. ✅ test: add integration test for /submit endpoint
 0080. ✨ feat: support email verification
+0220. 🐛 fix: fix null pointer exception on login
