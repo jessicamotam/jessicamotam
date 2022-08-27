@@ -72439,3 +72439,4 @@
 0996. ✅ test: test user registration edge cases
 0074. ♻️ chore: add GitHub actions badge
 0582. ✨ feat: add export to CSV option
+0829. 🔧 refactor: organize models into subfolders
