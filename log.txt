@@ -71038,3 +71038,4 @@
 0605. ✨ feat: support email verification
 0757. 🔧 refactor: remove redundant code blocks
 0278. 🔧 refactor: clean up auth middleware
+0590. 🐛 fix: fix null pointer exception on login
