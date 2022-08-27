@@ -3200,3 +3200,4 @@
 0622. 🎨 style: apply consistent indentation
 0482. ✨ feat: add export to CSV option
 0672. 🐛 fix: fix broken CSS in mobile view
+0592. 📚 docs: add API usage examples
