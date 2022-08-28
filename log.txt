@@ -36886,3 +36886,4 @@
 0941. 🚀 perf: cache repeated calculations
 0433. 🐛 fix: prevent crash on empty input
 0055. 📚 docs: update README with setup steps
+0011. ✅ test: add unit test for quiz service
