@@ -84432,3 +84432,4 @@
 0379. ✨ feat: support email verification
 0679. ♻️ chore: bump dependencies
 0812. 🔧 refactor: refactor quiz grading logic
+0958. 🐛 fix: prevent crash on empty input
