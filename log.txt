@@ -62511,3 +62511,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0597. 🚀 perf: cache repeated calculations
 1000. ✅ test: increase coverage on auth module
+0693. 📚 docs: add API usage examples
