@@ -80759,3 +80759,4 @@
 0545. 🎨 style: standardize quote style
 0950. 🎨 style: reformat files with black
 0596. ♻️ chore: update .gitignore
+0819. 🚀 perf: reduce image load time
