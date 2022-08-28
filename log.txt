@@ -2168,3 +2168,4 @@
 0679. ♻️ chore: bump dependencies
 0787. ♻️ chore: rename env.example
 0350. 🚀 perf: cache repeated calculations
+0544. 🔧 refactor: organize models into subfolders
