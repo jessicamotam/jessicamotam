@@ -54024,3 +54024,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0959. 🐛 fix: fix null pointer exception on login
 0379. ✨ feat: support email verification
+0091. ✨ feat: add user authentication
