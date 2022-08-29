@@ -2982,3 +2982,4 @@
 0406. ✨ feat: add export to CSV option
 0384. 📚 docs: clarify environment setup
 0232. 🎨 style: apply consistent indentation
+0959. 🐛 fix: fix null pointer exception on login
