@@ -9120,3 +9120,4 @@
 0485. 📚 docs: update README with setup steps
 0052. 🎨 style: standardize quote style
 0720. ✨ feat: add export to CSV option
+0024. 📚 docs: write FAQ section
