@@ -40539,3 +40539,4 @@
 0541. 🐛 fix: correct typo in registration form
 0728. 🔧 refactor: split large controller into smaller functions
 0686. 🎨 style: standardize quote style
+0257. 📚 docs: clarify environment setup
