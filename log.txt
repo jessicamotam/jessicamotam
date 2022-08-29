@@ -47748,3 +47748,4 @@
 0270. ♻️ chore: rename env.example
 0521. 🎨 style: standardize quote style
 0534. 🔧 refactor: split large controller into smaller functions
+0660. 🐛 fix: correct typo in registration form
