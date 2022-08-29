@@ -66129,3 +66129,4 @@
 0513. ♻️ chore: bump dependencies
 0114. ♻️ chore: update .gitignore
 0274. 🔧 refactor: refactor quiz grading logic
+0294. 🐛 fix: prevent crash on empty input
