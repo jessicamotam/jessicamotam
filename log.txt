@@ -35017,3 +35017,4 @@
 0925. ✨ feat: add export to CSV option
 0415. 🐛 fix: handle 500 error in quiz API
 0908. ♻️ chore: bump dependencies
+0410. 🎨 style: reformat files with black
