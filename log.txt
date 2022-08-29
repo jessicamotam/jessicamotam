@@ -86973,3 +86973,4 @@
 0843. 📚 docs: document token refresh logic
 0589. 🐛 fix: fix broken CSS in mobile view
 0607. 🐛 fix: prevent crash on empty input
+0572. ✨ feat: add user authentication
