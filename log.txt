@@ -20433,3 +20433,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0145. 📚 docs: improve code comments in utils
 0122. ✨ feat: support email verification
+0871. ✅ test: add integration test for /submit endpoint
