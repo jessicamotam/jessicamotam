@@ -51653,3 +51653,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0357. ✅ test: add unit test for quiz service
 0688. 🚀 perf: reduce image load time
+0791. 🔧 refactor: clean up auth middleware
