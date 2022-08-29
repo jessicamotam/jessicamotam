@@ -49501,3 +49501,4 @@
 0404. 📚 docs: improve code comments in utils
 0943. 🎨 style: rename variables for clarity
 0107. 🐛 fix: prevent crash on empty input
+0268. 🐛 fix: prevent crash on empty input
