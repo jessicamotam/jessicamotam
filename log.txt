@@ -20700,3 +20700,4 @@
 0468. 📚 docs: update README with setup steps
 0545. 🎨 style: standardize quote style
 0437. 📚 docs: clarify environment setup
+0877. 🚀 perf: optimize database query for quiz results
