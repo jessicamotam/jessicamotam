@@ -49521,3 +49521,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0702. ✨ feat: add user authentication
 0778. 📚 docs: write FAQ section
+0616. 🚀 perf: lazy-load components
