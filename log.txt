@@ -54324,3 +54324,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0618. ✨ feat: support email verification
 0117. ✅ test: increase coverage on auth module
+0920. 🔧 refactor: organize models into subfolders
