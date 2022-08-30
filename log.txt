@@ -40409,3 +40409,4 @@
 0003. ✅ test: increase coverage on auth module
 0770. ♻️ chore: rename env.example
 0064. 📚 docs: clarify environment setup
+0086. 🐛 fix: correct typo in registration form
