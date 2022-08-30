@@ -68050,3 +68050,4 @@
 0306. 🎨 style: apply consistent indentation
 0590. 🐛 fix: fix null pointer exception on login
 0219. ✅ test: increase coverage on auth module
+0234. ♻️ chore: rename env.example
