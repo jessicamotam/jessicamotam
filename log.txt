@@ -54572,3 +54572,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0098. 🎨 style: rename variables for clarity
 0859. ✨ feat: create admin dashboard
+0380. 🐛 fix: fix null pointer exception on login
