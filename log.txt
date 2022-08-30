@@ -3859,3 +3859,4 @@
 0670. ✨ feat: add export to CSV option
 0323. 📚 docs: clarify environment setup
 0128. ♻️ chore: rename env.example
+0342. 🚀 perf: cache repeated calculations
