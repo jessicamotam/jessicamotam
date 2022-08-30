@@ -33465,3 +33465,4 @@
 0085. ✨ feat: support email verification
 0442. 🎨 style: standardize quote style
 0927. ♻️ chore: bump dependencies
+0485. 📚 docs: update README with setup steps
