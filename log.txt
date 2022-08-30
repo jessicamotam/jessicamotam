@@ -20250,3 +20250,4 @@
 0075. ✅ test: mock database connection in test suite
 0497. 🔧 refactor: refactor quiz grading logic
 0088. 📚 docs: add API usage examples
+0451. ✨ feat: support email verification
