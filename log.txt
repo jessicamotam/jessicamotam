@@ -73450,3 +73450,4 @@
 0431. 🎨 style: reformat files with black
 0526. ✨ feat: add user authentication
 0623. 🎨 style: standardize quote style
+0848. 📚 docs: update README with setup steps
