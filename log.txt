@@ -29835,3 +29835,4 @@
 0373. 📚 docs: document token refresh logic
 0697. ♻️ chore: bump dependencies
 0173. 🚀 perf: cache repeated calculations
+0049. 🐛 fix: handle 500 error in quiz API
