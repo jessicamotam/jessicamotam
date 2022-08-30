@@ -25779,3 +25779,4 @@
 0984. ♻️ chore: clean up unused files
 0475. 🔧 refactor: clean up auth middleware
 0157. ✅ test: mock database connection in test suite
+0531. 🐛 fix: prevent crash on empty input
