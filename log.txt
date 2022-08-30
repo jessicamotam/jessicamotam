@@ -73664,3 +73664,4 @@
 0513. ♻️ chore: bump dependencies
 0010. ✨ feat: add user authentication
 0383. 🐛 fix: fix broken CSS in mobile view
+0888. 🚀 perf: lazy-load components
