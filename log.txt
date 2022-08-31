@@ -87466,3 +87466,4 @@
 0970. ♻️ chore: update .gitignore
 0238. 🎨 style: apply consistent indentation
 0107. 🐛 fix: prevent crash on empty input
+0957. 🐛 fix: fix null pointer exception on login
