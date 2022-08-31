@@ -75799,3 +75799,4 @@
 0644. 🎨 style: apply consistent indentation
 0833. ✨ feat: add user authentication
 0561. 📚 docs: write FAQ section
+0483. 📚 docs: update README with setup steps
