@@ -51380,3 +51380,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0333. 🚀 perf: cache repeated calculations
 0242. ♻️ chore: clean up unused files
+0203. 🚀 perf: lazy-load components
