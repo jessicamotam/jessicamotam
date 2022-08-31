@@ -9121,3 +9121,4 @@
 0052. 🎨 style: standardize quote style
 0720. ✨ feat: add export to CSV option
 0024. 📚 docs: write FAQ section
+0112. ✨ feat: enable dark mode toggle
