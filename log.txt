@@ -7637,3 +7637,4 @@
 0976. ✨ feat: implement quiz timer feature
 0217. 🚀 perf: reduce image load time
 0010. ✨ feat: add user authentication
+0062. ♻️ chore: update .gitignore
