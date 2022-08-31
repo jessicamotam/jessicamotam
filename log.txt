@@ -87713,3 +87713,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0462. ♻️ chore: update .gitignore
 0376. 🎨 style: apply consistent indentation
+0278. 🔧 refactor: clean up auth middleware
