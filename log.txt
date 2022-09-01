@@ -35132,3 +35132,4 @@
 0087. ✨ feat: add export to CSV option
 0468. 📚 docs: update README with setup steps
 0177. 📚 docs: add API usage examples
+0312. ✨ feat: add user authentication
