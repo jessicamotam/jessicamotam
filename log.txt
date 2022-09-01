@@ -56028,3 +56028,4 @@
 0938. 🎨 style: rename variables for clarity
 0124. 🎨 style: reformat files with black
 0369. 🎨 style: standardize quote style
+0775. 🐛 fix: fix null pointer exception on login
