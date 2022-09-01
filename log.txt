@@ -21658,3 +21658,4 @@
 0219. ✅ test: increase coverage on auth module
 0432. 🎨 style: apply consistent indentation
 0128. ♻️ chore: rename env.example
+0451. ✨ feat: support email verification
