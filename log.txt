@@ -43148,3 +43148,4 @@
 0376. 🎨 style: apply consistent indentation
 0526. ✨ feat: add user authentication
 0162. ♻️ chore: add GitHub actions badge
+0795. 📚 docs: update README with setup steps
