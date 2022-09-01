@@ -7435,3 +7435,4 @@
 0642. 🚀 perf: optimize database query for quiz results
 0740. 🐛 fix: resolve issue with date parsing
 0546. 🐛 fix: fix null pointer exception on login
+0078. ♻️ chore: update .gitignore
