@@ -84658,3 +84658,4 @@
 0616. 🚀 perf: lazy-load components
 0042. 📚 docs: document token refresh logic
 0672. 🐛 fix: fix broken CSS in mobile view
+0379. ✨ feat: support email verification
