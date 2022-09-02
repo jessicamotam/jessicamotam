@@ -80167,3 +80167,4 @@
 0149. ✨ feat: add export to CSV option
 0403. ✅ test: mock database connection in test suite
 0942. ✅ test: increase coverage on auth module
+0170. ✅ test: increase coverage on auth module
