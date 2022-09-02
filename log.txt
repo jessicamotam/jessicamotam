@@ -44981,3 +44981,4 @@
 0217. 🚀 perf: reduce image load time
 0854. ♻️ chore: rename env.example
 0887. 📚 docs: add API usage examples
+0762. 🚀 perf: lazy-load components
