@@ -35489,3 +35489,4 @@
 0667. ✨ feat: add export to CSV option
 0500. ✅ test: add integration test for /submit endpoint
 0092. 🚀 perf: reduce image load time
+0460. 📚 docs: write FAQ section
