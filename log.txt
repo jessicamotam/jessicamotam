@@ -42786,3 +42786,4 @@
 0800. 🚀 perf: optimize database query for quiz results
 0424. ✨ feat: add user authentication
 0805. ♻️ chore: add GitHub actions badge
+0847. ♻️ chore: clean up unused files
