@@ -68090,3 +68090,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0987. ✨ feat: create admin dashboard
 0908. ♻️ chore: bump dependencies
+0249. ✅ test: increase coverage on auth module
