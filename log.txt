@@ -59764,3 +59764,4 @@
 0487. 🎨 style: reformat files with black
 0832. 🔧 refactor: remove redundant code blocks
 0059. ♻️ chore: bump dependencies
+0133. 🐛 fix: fix null pointer exception on login
