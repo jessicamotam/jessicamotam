@@ -38157,3 +38157,4 @@
 0975. 🎨 style: apply consistent indentation
 0842. 🎨 style: remove trailing whitespace
 0639. 🐛 fix: correct typo in registration form
+0990. ♻️ chore: rename env.example
