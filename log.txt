@@ -40103,3 +40103,4 @@
 0529. 📚 docs: write FAQ section
 0943. 🎨 style: rename variables for clarity
 0856. 🐛 fix: fix null pointer exception on login
+0600. 🐛 fix: prevent crash on empty input
