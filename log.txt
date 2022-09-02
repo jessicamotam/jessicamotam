@@ -34818,3 +34818,4 @@
 0618. ✨ feat: support email verification
 0257. 📚 docs: clarify environment setup
 0025. 🚀 perf: optimize database query for quiz results
+0280. ✅ test: add integration test for /submit endpoint
