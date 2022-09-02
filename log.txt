@@ -25337,3 +25337,4 @@
 0850. ♻️ chore: rename env.example
 0680. ♻️ chore: add GitHub actions badge
 0111. 📚 docs: update README with setup steps
+0827. 🚀 perf: optimize database query for quiz results
