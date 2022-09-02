@@ -5054,3 +5054,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0419. 🎨 style: remove trailing whitespace
 0541. 🐛 fix: correct typo in registration form
+0489. 🔧 refactor: organize models into subfolders
