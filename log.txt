@@ -42663,3 +42663,4 @@
 0385. ♻️ chore: clean up unused files
 0712. 🎨 style: apply consistent indentation
 0150. 🎨 style: remove trailing whitespace
+0440. 📚 docs: update README with setup steps
