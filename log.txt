@@ -32868,3 +32868,4 @@
 0337. 📚 docs: document token refresh logic
 0900. 🐛 fix: handle 500 error in quiz API
 0080. ✨ feat: support email verification
+0541. 🐛 fix: correct typo in registration form
