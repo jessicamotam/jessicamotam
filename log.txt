@@ -75933,3 +75933,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0612. ✅ test: test user registration edge cases
 0645. 🐛 fix: resolve issue with date parsing
+0273. 🚀 perf: reduce image load time
