@@ -2880,3 +2880,4 @@
 0113. ✨ feat: add user authentication
 0178. ✨ feat: support email verification
 0513. ♻️ chore: bump dependencies
+0242. ♻️ chore: clean up unused files
