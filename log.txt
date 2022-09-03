@@ -24801,3 +24801,4 @@
 0303. 🎨 style: rename variables for clarity
 0870. ♻️ chore: clean up unused files
 0363. 📚 docs: clarify environment setup
+0319. 🐛 fix: handle 500 error in quiz API
