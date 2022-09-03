@@ -21779,3 +21779,4 @@
 0789. ✨ feat: create admin dashboard
 0843. 📚 docs: document token refresh logic
 0890. 🔧 refactor: organize models into subfolders
+0338. ♻️ chore: add GitHub actions badge
