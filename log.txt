@@ -39109,3 +39109,4 @@
 0820. 📚 docs: add API usage examples
 0485. 📚 docs: update README with setup steps
 0709. ♻️ chore: bump dependencies
+0854. ♻️ chore: rename env.example
