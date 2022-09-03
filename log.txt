@@ -58208,3 +58208,4 @@
 0934. ✨ feat: support email verification
 0329. 📚 docs: update README with setup steps
 0540. ♻️ chore: add GitHub actions badge
+0709. ♻️ chore: bump dependencies
