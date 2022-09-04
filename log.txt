@@ -67663,3 +67663,4 @@
 0646. ✅ test: test user registration edge cases
 0100. ♻️ chore: update .gitignore
 0720. ✨ feat: add export to CSV option
+0198. 📚 docs: clarify environment setup
