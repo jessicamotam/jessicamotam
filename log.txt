@@ -46398,3 +46398,4 @@
 0062. ♻️ chore: update .gitignore
 0110. 🐛 fix: prevent crash on empty input
 0081. 🐛 fix: fix null pointer exception on login
+0438. ♻️ chore: bump dependencies
