@@ -38339,3 +38339,4 @@
 0237. 🎨 style: standardize quote style
 0655. 🚀 perf: cache repeated calculations
 0880. 🐛 fix: fix broken CSS in mobile view
+0393. 🚀 perf: lazy-load components
