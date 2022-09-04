@@ -653,3 +653,4 @@
 0749. ✨ feat: support email verification
 0889. 🚀 perf: lazy-load components
 0992. ♻️ chore: clean up unused files
+0988. 🐛 fix: fix broken CSS in mobile view
