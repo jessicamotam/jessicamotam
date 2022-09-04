@@ -31994,3 +31994,4 @@
 0195. 📚 docs: clarify environment setup
 0981. 🚀 perf: lazy-load components
 0760. 🐛 fix: resolve issue with date parsing
+0701. 🔧 refactor: clean up auth middleware
