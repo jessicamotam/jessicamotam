@@ -62338,3 +62338,4 @@
 0720. ✨ feat: add export to CSV option
 0832. 🔧 refactor: remove redundant code blocks
 0424. ✨ feat: add user authentication
+0571. 🔧 refactor: clean up auth middleware
