@@ -39786,3 +39786,4 @@
 0615. 🐛 fix: correct typo in registration form
 0838. 🎨 style: standardize quote style
 0710. 🐛 fix: fix broken CSS in mobile view
+0113. ✨ feat: add user authentication
