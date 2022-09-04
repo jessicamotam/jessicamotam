@@ -66342,3 +66342,4 @@
 0930. 🎨 style: apply consistent indentation
 0446. 🎨 style: apply consistent indentation
 0059. ♻️ chore: bump dependencies
+0742. 📚 docs: clarify environment setup
