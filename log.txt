@@ -90136,3 +90136,4 @@
 0416. 🎨 style: rename variables for clarity
 0791. 🔧 refactor: clean up auth middleware
 0863. 🐛 fix: correct typo in registration form
+0056. ♻️ chore: rename env.example
