@@ -42395,3 +42395,4 @@
 0932. ✅ test: add integration test for /submit endpoint
 0625. 🐛 fix: handle 500 error in quiz API
 0096. 🐛 fix: prevent crash on empty input
+0588. 🔧 refactor: organize models into subfolders
