@@ -38937,3 +38937,4 @@
 0189. 📚 docs: clarify environment setup
 0096. 🐛 fix: prevent crash on empty input
 0555. ✨ feat: create admin dashboard
+0547. 📚 docs: write FAQ section
