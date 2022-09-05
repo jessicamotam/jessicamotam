@@ -68752,3 +68752,4 @@
 0471. ✨ feat: support email verification
 0884. 📚 docs: clarify environment setup
 0201. 🔧 refactor: clean up auth middleware
+0934. ✨ feat: support email verification
