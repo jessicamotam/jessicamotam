@@ -71325,3 +71325,4 @@
 0475. 🔧 refactor: clean up auth middleware
 0158. 📚 docs: clarify environment setup
 0075. ✅ test: mock database connection in test suite
+0627. 📚 docs: document token refresh logic
