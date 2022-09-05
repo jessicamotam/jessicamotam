@@ -1776,3 +1776,4 @@
 0896. 🚀 perf: reduce image load time
 0256. ✅ test: mock database connection in test suite
 0151. ✅ test: add unit test for quiz service
+0298. ♻️ chore: update .gitignore
