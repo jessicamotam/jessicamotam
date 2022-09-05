@@ -7194,3 +7194,4 @@
 0158. 📚 docs: clarify environment setup
 0978. 🐛 fix: prevent crash on empty input
 0922. 📚 docs: write FAQ section
+0197. 📚 docs: update README with setup steps
