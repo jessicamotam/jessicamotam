@@ -14941,3 +14941,4 @@
 0548. 📚 docs: write FAQ section
 0074. ♻️ chore: add GitHub actions badge
 0308. 🚀 perf: reduce image load time
+0568. 🐛 fix: handle 500 error in quiz API
