@@ -59472,3 +59472,4 @@
 0513. ♻️ chore: bump dependencies
 0053. ✅ test: increase coverage on auth module
 0872. 🎨 style: rename variables for clarity
+0027. 📚 docs: clarify environment setup
