@@ -12565,3 +12565,4 @@
 0944. ✨ feat: add user authentication
 0306. 🎨 style: apply consistent indentation
 0486. ✨ feat: add export to CSV option
+0348. ✅ test: test user registration edge cases
