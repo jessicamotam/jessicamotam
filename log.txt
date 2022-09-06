@@ -38166,3 +38166,4 @@
 0942. ✅ test: increase coverage on auth module
 0899. 🚀 perf: cache repeated calculations
 0218. 🔧 refactor: clean up auth middleware
+0650. ✅ test: add unit test for quiz service
