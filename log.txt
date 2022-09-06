@@ -70675,3 +70675,4 @@
 0199. ✨ feat: create admin dashboard
 0600. 🐛 fix: prevent crash on empty input
 0207. 🐛 fix: prevent crash on empty input
+0634. 🎨 style: reformat files with black
