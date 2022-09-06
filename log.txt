@@ -87960,3 +87960,4 @@
 0388. 🎨 style: reformat files with black
 0299. 🐛 fix: resolve issue with date parsing
 0180. ✨ feat: add export to CSV option
+0732. ♻️ chore: add GitHub actions badge
