@@ -48835,3 +48835,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0144. ✅ test: increase coverage on auth module
 0482. ✨ feat: add export to CSV option
+0154. 🐛 fix: prevent crash on empty input
