@@ -85192,3 +85192,4 @@
 0146. 🎨 style: apply consistent indentation
 0899. 🚀 perf: cache repeated calculations
 0376. 🎨 style: apply consistent indentation
+0676. 🐛 fix: prevent crash on empty input
