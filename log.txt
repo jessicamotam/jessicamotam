@@ -23241,3 +23241,4 @@
 0113. ✨ feat: add user authentication
 0226. 🚀 perf: lazy-load components
 0811. 🎨 style: reformat files with black
+0122. ✨ feat: support email verification
