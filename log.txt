@@ -14454,3 +14454,4 @@
 0826. 📚 docs: clarify environment setup
 0074. ♻️ chore: add GitHub actions badge
 0944. ✨ feat: add user authentication
+0871. ✅ test: add integration test for /submit endpoint
