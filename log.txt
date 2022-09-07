@@ -10939,3 +10939,4 @@
 0160. ♻️ chore: bump dependencies
 0312. ✨ feat: add user authentication
 0529. 📚 docs: write FAQ section
+0187. ✨ feat: support email verification
