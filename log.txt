@@ -85079,3 +85079,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0414. 🔧 refactor: remove redundant code blocks
 0505. ♻️ chore: add GitHub actions badge
+0361. ✨ feat: support email verification
