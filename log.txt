@@ -9318,3 +9318,4 @@
 0300. ✨ feat: add export to CSV option
 0160. ♻️ chore: bump dependencies
 0328. 🐛 fix: resolve issue with date parsing
+0573. ✅ test: add integration test for /submit endpoint
