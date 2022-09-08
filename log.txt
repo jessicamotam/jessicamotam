@@ -90138,3 +90138,4 @@
 0863. 🐛 fix: correct typo in registration form
 0056. ♻️ chore: rename env.example
 0481. ✅ test: add unit test for quiz service
+0279. ✨ feat: support email verification
