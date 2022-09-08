@@ -22676,3 +22676,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0521. 🎨 style: standardize quote style
 0879. 🎨 style: standardize quote style
+0415. 🐛 fix: handle 500 error in quiz API
