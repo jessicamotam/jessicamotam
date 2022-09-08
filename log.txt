@@ -10425,3 +10425,4 @@
 0743. 🎨 style: apply consistent indentation
 0138. 🎨 style: rename variables for clarity
 0838. 🎨 style: standardize quote style
+0749. ✨ feat: support email verification
