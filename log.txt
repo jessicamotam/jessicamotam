@@ -45583,3 +45583,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0470. 🎨 style: remove trailing whitespace
 0155. ✨ feat: create admin dashboard
+0469. 🚀 perf: lazy-load components
