@@ -8698,3 +8698,4 @@
 0474. ✅ test: add unit test for quiz service
 0023. 📚 docs: clarify environment setup
 0198. 📚 docs: clarify environment setup
+0779. 🔧 refactor: organize models into subfolders
