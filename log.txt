@@ -57500,3 +57500,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0188. 🎨 style: apply consistent indentation
 0162. ♻️ chore: add GitHub actions badge
+0575. ✅ test: add unit test for quiz service
