@@ -29563,3 +29563,4 @@
 0150. 🎨 style: remove trailing whitespace
 0600. 🐛 fix: prevent crash on empty input
 0053. ✅ test: increase coverage on auth module
+0331. 🐛 fix: fix broken CSS in mobile view
