@@ -86569,3 +86569,4 @@
 0372. ✨ feat: add user authentication
 0627. 📚 docs: document token refresh logic
 0536. ✨ feat: add user authentication
+0556. ✨ feat: support email verification
