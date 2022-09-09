@@ -11174,3 +11174,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0199. ✨ feat: create admin dashboard
 0002. 🚀 perf: cache repeated calculations
+0995. ✅ test: mock database connection in test suite
