@@ -74199,3 +74199,4 @@
 0643. 🎨 style: apply consistent indentation
 0771. 🚀 perf: cache repeated calculations
 0523. ♻️ chore: bump dependencies
+0292. 📚 docs: clarify environment setup
