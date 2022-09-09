@@ -17284,3 +17284,4 @@
 0250. 📚 docs: update README with setup steps
 0038. 🎨 style: rename variables for clarity
 0359. 🔧 refactor: clean up auth middleware
+0828. ♻️ chore: add GitHub actions badge
