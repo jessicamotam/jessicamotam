@@ -13425,3 +13425,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0706. ✨ feat: support email verification
 0807. 🔧 refactor: remove redundant code blocks
+0401. 🚀 perf: reduce image load time
