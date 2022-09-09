@@ -27942,3 +27942,4 @@
 0583. ✅ test: increase coverage on auth module
 0487. 🎨 style: reformat files with black
 0697. ♻️ chore: bump dependencies
+0374. 🎨 style: standardize quote style
