@@ -30674,3 +30674,4 @@
 0147. ♻️ chore: bump dependencies
 0242. ♻️ chore: clean up unused files
 0993. ✨ feat: implement quiz timer feature
+0701. 🔧 refactor: clean up auth middleware
