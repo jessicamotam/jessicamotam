@@ -50841,3 +50841,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0522. 🐛 fix: handle 500 error in quiz API
 0175. 📚 docs: add API usage examples
+0003. ✅ test: increase coverage on auth module
