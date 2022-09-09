@@ -29386,3 +29386,4 @@
 0509. ♻️ chore: bump dependencies
 0181. ♻️ chore: add GitHub actions badge
 1000. ✅ test: increase coverage on auth module
+0219. ✅ test: increase coverage on auth module
