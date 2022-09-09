@@ -53727,3 +53727,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0849. 🐛 fix: correct typo in registration form
 0863. 🐛 fix: correct typo in registration form
+0397. 🐛 fix: handle 500 error in quiz API
