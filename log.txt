@@ -70913,3 +70913,4 @@
 0648. ♻️ chore: bump dependencies
 0395. 📚 docs: write FAQ section
 0787. ♻️ chore: rename env.example
+0133. 🐛 fix: fix null pointer exception on login
