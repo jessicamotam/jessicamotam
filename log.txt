@@ -1185,3 +1185,4 @@
 0504. 📚 docs: document token refresh logic
 0757. 🔧 refactor: remove redundant code blocks
 0661. ✅ test: add integration test for /submit endpoint
+0579. 📚 docs: clarify environment setup
