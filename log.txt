@@ -87435,3 +87435,4 @@
 0418. ✅ test: mock database connection in test suite
 0614. 🚀 perf: reduce image load time
 0796. 🔧 refactor: refactor quiz grading logic
+0090. ✅ test: increase coverage on auth module
