@@ -38446,3 +38446,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0640. ♻️ chore: bump dependencies
 0451. ✨ feat: support email verification
+0019. ✨ feat: enable dark mode toggle
