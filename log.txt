@@ -5885,3 +5885,4 @@
 0003. ✅ test: increase coverage on auth module
 0347. ♻️ chore: update .gitignore
 0078. ♻️ chore: update .gitignore
+0735. ♻️ chore: add GitHub actions badge
