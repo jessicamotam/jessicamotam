@@ -87815,3 +87815,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0131. 📚 docs: write FAQ section
 0131. 📚 docs: write FAQ section
+0012. 🚀 perf: cache repeated calculations
