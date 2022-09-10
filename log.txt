@@ -47801,3 +47801,4 @@
 0662. ♻️ chore: clean up unused files
 0271. ✅ test: add unit test for quiz service
 0494. 🎨 style: rename variables for clarity
+0109. 🚀 perf: lazy-load components
