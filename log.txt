@@ -6002,3 +6002,4 @@
 0611. ✅ test: test user registration edge cases
 0873. 🚀 perf: cache repeated calculations
 0302. ✨ feat: implement quiz timer feature
+0654. ✨ feat: create admin dashboard
