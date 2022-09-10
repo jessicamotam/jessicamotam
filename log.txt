@@ -5549,3 +5549,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0452. ✨ feat: implement quiz timer feature
 0826. 📚 docs: clarify environment setup
+0099. 🚀 perf: reduce image load time
