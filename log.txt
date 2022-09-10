@@ -27985,3 +27985,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0869. ♻️ chore: bump dependencies
 0611. ✅ test: test user registration edge cases
+0701. 🔧 refactor: clean up auth middleware
