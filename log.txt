@@ -6936,3 +6936,4 @@
 0764. ✨ feat: add user authentication
 0875. ✅ test: increase coverage on auth module
 0615. 🐛 fix: correct typo in registration form
+0118. 🚀 perf: reduce image load time
