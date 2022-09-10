@@ -10480,3 +10480,4 @@
 0659. 📚 docs: add API usage examples
 0643. 🎨 style: apply consistent indentation
 0271. ✅ test: add unit test for quiz service
+0752. ✅ test: add integration test for /submit endpoint
