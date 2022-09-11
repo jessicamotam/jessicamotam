@@ -61463,3 +61463,4 @@
 0447. ♻️ chore: bump dependencies
 0383. 🐛 fix: fix broken CSS in mobile view
 0504. 📚 docs: document token refresh logic
+0898. 🐛 fix: fix broken CSS in mobile view
