@@ -23628,3 +23628,4 @@
 0960. ✅ test: increase coverage on auth module
 0069. 🎨 style: rename variables for clarity
 0439. 🐛 fix: correct typo in registration form
+0332. 🎨 style: standardize quote style
