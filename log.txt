@@ -6168,3 +6168,4 @@
 0019. ✨ feat: enable dark mode toggle
 0851. ✅ test: mock database connection in test suite
 0735. ♻️ chore: add GitHub actions badge
+0154. 🐛 fix: prevent crash on empty input
