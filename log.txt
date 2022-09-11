@@ -23281,3 +23281,4 @@
 0476. 🚀 perf: reduce image load time
 0989. 📚 docs: write FAQ section
 0485. 📚 docs: update README with setup steps
+0486. ✨ feat: add export to CSV option
