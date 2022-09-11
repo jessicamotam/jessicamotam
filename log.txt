@@ -84327,3 +84327,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0887. 📚 docs: add API usage examples
 0169. 📚 docs: add API usage examples
+0279. ✨ feat: support email verification
