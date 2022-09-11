@@ -44799,3 +44799,4 @@
 0931. 🚀 perf: reduce image load time
 0895. ✨ feat: support email verification
 0968. 🎨 style: standardize quote style
+0551. 📚 docs: write FAQ section
