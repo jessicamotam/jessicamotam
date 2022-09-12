@@ -77071,3 +77071,4 @@
 0203. 🚀 perf: lazy-load components
 0804. ♻️ chore: add GitHub actions badge
 0801. ✨ feat: enable dark mode toggle
+0607. 🐛 fix: prevent crash on empty input
