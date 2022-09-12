@@ -64835,3 +64835,4 @@
 0424. ✨ feat: add user authentication
 0184. 📚 docs: improve code comments in utils
 0049. 🐛 fix: handle 500 error in quiz API
+0562. 🔧 refactor: clean up auth middleware
