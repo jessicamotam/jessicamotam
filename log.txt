@@ -35843,3 +35843,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0143. ✨ feat: implement quiz timer feature
 0841. 🚀 perf: optimize database query for quiz results
+0653. 🐛 fix: prevent crash on empty input
