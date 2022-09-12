@@ -23269,3 +23269,4 @@
 0636. ✅ test: increase coverage on auth module
 0324. 📚 docs: document token refresh logic
 0462. ♻️ chore: update .gitignore
+0109. 🚀 perf: lazy-load components
