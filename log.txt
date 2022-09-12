@@ -48333,3 +48333,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0709. ♻️ chore: bump dependencies
 0743. 🎨 style: apply consistent indentation
+0347. ♻️ chore: update .gitignore
