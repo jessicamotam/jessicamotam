@@ -59687,3 +59687,4 @@
 0244. ✨ feat: add export to CSV option
 0787. ♻️ chore: rename env.example
 0086. 🐛 fix: correct typo in registration form
+0204. 🎨 style: standardize quote style
