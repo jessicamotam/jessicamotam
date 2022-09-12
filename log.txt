@@ -12447,3 +12447,4 @@
 0189. 📚 docs: clarify environment setup
 0078. ♻️ chore: update .gitignore
 0429. ✨ feat: add user authentication
+0799. ♻️ chore: clean up unused files
