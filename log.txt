@@ -49215,3 +49215,4 @@
 0808. 🚀 perf: optimize database query for quiz results
 0481. ✅ test: add unit test for quiz service
 0544. 🔧 refactor: organize models into subfolders
+0641. 📚 docs: write FAQ section
