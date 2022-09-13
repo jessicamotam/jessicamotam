@@ -17712,3 +17712,4 @@
 0170. ✅ test: increase coverage on auth module
 0496. ✅ test: add integration test for /submit endpoint
 0242. ♻️ chore: clean up unused files
+0337. 📚 docs: document token refresh logic
