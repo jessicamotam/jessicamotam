@@ -2015,3 +2015,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0487. 🎨 style: reformat files with black
 0722. 📚 docs: add API usage examples
+0308. 🚀 perf: reduce image load time
