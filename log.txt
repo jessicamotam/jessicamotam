@@ -11443,3 +11443,4 @@
 0923. ✨ feat: support email verification
 0012. 🚀 perf: cache repeated calculations
 0749. ✨ feat: support email verification
+0222. 🐛 fix: handle 500 error in quiz API
