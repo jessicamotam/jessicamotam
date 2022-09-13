@@ -67337,3 +67337,4 @@
 0786. ✨ feat: enable dark mode toggle
 0619. ✨ feat: create admin dashboard
 0687. 🎨 style: remove trailing whitespace
+0648. ♻️ chore: bump dependencies
