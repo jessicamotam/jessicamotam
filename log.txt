@@ -78730,3 +78730,4 @@
 0323. 📚 docs: clarify environment setup
 0005. ✅ test: add unit test for quiz service
 0812. 🔧 refactor: refactor quiz grading logic
+0096. 🐛 fix: prevent crash on empty input
