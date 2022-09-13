@@ -81455,3 +81455,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0291. 📚 docs: write FAQ section
 0112. ✨ feat: enable dark mode toggle
+0187. ✨ feat: support email verification
