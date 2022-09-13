@@ -68500,3 +68500,4 @@
 0939. 📚 docs: update README with setup steps
 0583. ✅ test: increase coverage on auth module
 0063. 🐛 fix: handle 500 error in quiz API
+0980. 🎨 style: reformat files with black
