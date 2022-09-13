@@ -89126,3 +89126,4 @@
 0349. ✅ test: increase coverage on auth module
 0447. ♻️ chore: bump dependencies
 0770. ♻️ chore: rename env.example
+0037. 🐛 fix: correct typo in registration form
