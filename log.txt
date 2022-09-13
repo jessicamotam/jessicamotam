@@ -439,3 +439,4 @@
 0001. 🚀 perf: cache repeated calculations
 0875. ✅ test: increase coverage on auth module
 0844. 📚 docs: update README with setup steps
+0490. ✨ feat: create admin dashboard
