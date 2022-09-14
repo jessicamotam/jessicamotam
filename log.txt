@@ -10770,3 +10770,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0487. 🎨 style: reformat files with black
 0629. 🔧 refactor: organize models into subfolders
+0543. ✨ feat: support email verification
