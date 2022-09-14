@@ -35515,3 +35515,4 @@
 0749. ✨ feat: support email verification
 0044. ✅ test: add unit test for quiz service
 0989. 📚 docs: write FAQ section
+0536. ✨ feat: add user authentication
