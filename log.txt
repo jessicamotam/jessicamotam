@@ -76448,3 +76448,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0733. 🐛 fix: fix null pointer exception on login
 0984. ♻️ chore: clean up unused files
+0978. 🐛 fix: prevent crash on empty input
