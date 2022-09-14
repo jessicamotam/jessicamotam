@@ -22735,3 +22735,4 @@
 0987. ✨ feat: create admin dashboard
 0062. ♻️ chore: update .gitignore
 0408. ♻️ chore: add GitHub actions badge
+0713. 🐛 fix: handle 500 error in quiz API
