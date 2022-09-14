@@ -46647,3 +46647,4 @@
 0596. ♻️ chore: update .gitignore
 0312. ✨ feat: add user authentication
 0041. 🐛 fix: fix broken CSS in mobile view
+0374. 🎨 style: standardize quote style
