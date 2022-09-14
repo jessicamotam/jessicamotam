@@ -58863,3 +58863,4 @@
 0466. 🚀 perf: optimize database query for quiz results
 0606. 📚 docs: improve code comments in utils
 0055. 📚 docs: update README with setup steps
+0491. 🚀 perf: lazy-load components
