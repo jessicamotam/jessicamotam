@@ -24995,3 +24995,4 @@
 0686. 🎨 style: standardize quote style
 0446. 🎨 style: apply consistent indentation
 0893. 🐛 fix: handle 500 error in quiz API
+0911. ✅ test: increase coverage on auth module
