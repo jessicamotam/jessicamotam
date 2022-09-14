@@ -49216,3 +49216,4 @@
 0481. ✅ test: add unit test for quiz service
 0544. 🔧 refactor: organize models into subfolders
 0641. 📚 docs: write FAQ section
+0307. ✨ feat: support email verification
