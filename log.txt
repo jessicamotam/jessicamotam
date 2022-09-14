@@ -15642,3 +15642,4 @@
 0427. ✅ test: mock database connection in test suite
 0222. 🐛 fix: handle 500 error in quiz API
 0048. 📚 docs: update README with setup steps
+0013. ✅ test: increase coverage on auth module
