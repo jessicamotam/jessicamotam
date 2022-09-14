@@ -73972,3 +73972,4 @@
 0404. 📚 docs: improve code comments in utils
 0295. 🎨 style: remove trailing whitespace
 0416. 🎨 style: rename variables for clarity
+0459. 🔧 refactor: organize models into subfolders
