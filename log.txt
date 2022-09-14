@@ -8505,3 +8505,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0334. 🚀 perf: cache repeated calculations
 0750. 🎨 style: apply consistent indentation
+0659. 📚 docs: add API usage examples
