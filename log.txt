@@ -89856,3 +89856,4 @@
 0054. ♻️ chore: update .gitignore
 0850. ♻️ chore: rename env.example
 0657. 🎨 style: standardize quote style
+0566. 📚 docs: write FAQ section
