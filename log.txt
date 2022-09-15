@@ -37337,3 +37337,4 @@
 0985. 📚 docs: document token refresh logic
 0170. ✅ test: increase coverage on auth module
 0004. 🚀 perf: optimize database query for quiz results
+0636. ✅ test: increase coverage on auth module
