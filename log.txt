@@ -51494,3 +51494,4 @@
 0892. ✅ test: add unit test for quiz service
 0893. 🐛 fix: handle 500 error in quiz API
 0146. 🎨 style: apply consistent indentation
+0835. 🐛 fix: prevent crash on empty input
