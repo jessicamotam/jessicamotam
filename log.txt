@@ -21728,3 +21728,4 @@
 0496. ✅ test: add integration test for /submit endpoint
 0209. ✨ feat: implement quiz timer feature
 0692. ✅ test: add integration test for /submit endpoint
+0766. 🎨 style: reformat files with black
