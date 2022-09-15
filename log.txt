@@ -80343,3 +80343,4 @@
 0970. ♻️ chore: update .gitignore
 0482. ✨ feat: add export to CSV option
 0591. ♻️ chore: clean up unused files
+0919. 🚀 perf: optimize database query for quiz results
