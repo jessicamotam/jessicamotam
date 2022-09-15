@@ -7629,3 +7629,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0333. 🚀 perf: cache repeated calculations
 0044. ✅ test: add unit test for quiz service
+0493. ✨ feat: add user authentication
