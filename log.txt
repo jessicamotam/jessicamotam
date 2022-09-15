@@ -36382,3 +36382,4 @@
 0020. ✅ test: add integration test for /submit endpoint
 0093. ✅ test: add unit test for quiz service
 0081. 🐛 fix: fix null pointer exception on login
+0063. 🐛 fix: handle 500 error in quiz API
