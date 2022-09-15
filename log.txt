@@ -37569,3 +37569,4 @@
 0281. ✨ feat: support email verification
 0051. ✨ feat: enable dark mode toggle
 0848. 📚 docs: update README with setup steps
+0791. 🔧 refactor: clean up auth middleware
