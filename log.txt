@@ -52567,3 +52567,4 @@
 0424. ✨ feat: add user authentication
 0766. 🎨 style: reformat files with black
 0905. ♻️ chore: bump dependencies
+0957. 🐛 fix: fix null pointer exception on login
