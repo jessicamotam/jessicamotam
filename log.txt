@@ -52650,3 +52650,4 @@
 0270. ♻️ chore: rename env.example
 0297. 🎨 style: remove trailing whitespace
 0371. ✅ test: add integration test for /submit endpoint
+0919. 🚀 perf: optimize database query for quiz results
