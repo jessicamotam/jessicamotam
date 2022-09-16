@@ -38869,3 +38869,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0375. 🐛 fix: handle 500 error in quiz API
 0590. 🐛 fix: fix null pointer exception on login
+0608. 🔧 refactor: remove redundant code blocks
