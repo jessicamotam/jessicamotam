@@ -57480,3 +57480,4 @@
 0553. 🐛 fix: correct typo in registration form
 0038. 🎨 style: rename variables for clarity
 0438. ♻️ chore: bump dependencies
+0400. 🐛 fix: fix null pointer exception on login
