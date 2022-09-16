@@ -56841,3 +56841,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0538. 🐛 fix: fix broken CSS in mobile view
 0273. 🚀 perf: reduce image load time
+0699. 🎨 style: standardize quote style
