@@ -35575,3 +35575,4 @@
 0424. ✨ feat: add user authentication
 0320. 📚 docs: update README with setup steps
 0352. ✨ feat: add export to CSV option
+0394. 🚀 perf: lazy-load components
