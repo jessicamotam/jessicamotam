@@ -222,3 +222,4 @@
 0612. ✅ test: test user registration edge cases
 0911. ✅ test: increase coverage on auth module
 0103. 🔧 refactor: remove redundant code blocks
+0948. 🐛 fix: fix broken CSS in mobile view
