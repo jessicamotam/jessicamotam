@@ -14198,3 +14198,4 @@
 0436. ✅ test: add integration test for /submit endpoint
 0198. 📚 docs: clarify environment setup
 0803. ✅ test: mock database connection in test suite
+0772. 🐛 fix: fix null pointer exception on login
