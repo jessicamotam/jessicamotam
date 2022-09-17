@@ -52780,3 +52780,4 @@
 0186. ✅ test: test user registration edge cases
 0104. 🎨 style: apply consistent indentation
 0232. 🎨 style: apply consistent indentation
+0754. 🐛 fix: handle 500 error in quiz API
