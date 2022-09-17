@@ -37144,3 +37144,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0967. ♻️ chore: add GitHub actions badge
 0594. 🎨 style: reformat files with black
+0304. 🔧 refactor: remove redundant code blocks
