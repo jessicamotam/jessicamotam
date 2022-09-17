@@ -62877,3 +62877,4 @@
 0059. ♻️ chore: bump dependencies
 0063. 🐛 fix: handle 500 error in quiz API
 0291. 📚 docs: write FAQ section
+0804. ♻️ chore: add GitHub actions badge
