@@ -76831,3 +76831,4 @@
 0164. 📚 docs: document token refresh logic
 0963. 🚀 perf: reduce image load time
 0543. ✨ feat: support email verification
+0511. 🐛 fix: fix broken CSS in mobile view
