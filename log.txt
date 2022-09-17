@@ -33010,3 +33010,4 @@
 0704. 🚀 perf: cache repeated calculations
 0829. 🔧 refactor: organize models into subfolders
 0556. ✨ feat: support email verification
+0174. 📚 docs: clarify environment setup
