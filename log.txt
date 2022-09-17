@@ -96,3 +96,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0013. ✅ test: increase coverage on auth module
 0321. 🔧 refactor: organize models into subfolders
+0731. 🎨 style: standardize quote style
