@@ -71567,3 +71567,4 @@
 0567. 📚 docs: add API usage examples
 0495. 🔧 refactor: remove redundant code blocks
 0749. ✨ feat: support email verification
+0491. 🚀 perf: lazy-load components
