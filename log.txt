@@ -24081,3 +24081,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0631. ✨ feat: create admin dashboard
 0245. 🐛 fix: resolve issue with date parsing
+0523. ♻️ chore: bump dependencies
