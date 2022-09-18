@@ -6621,3 +6621,4 @@
 0855. 🎨 style: reformat files with black
 0613. 🐛 fix: prevent crash on empty input
 0146. 🎨 style: apply consistent indentation
+0064. 📚 docs: clarify environment setup
