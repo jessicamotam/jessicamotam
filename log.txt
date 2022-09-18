@@ -5856,3 +5856,4 @@
 0693. 📚 docs: add API usage examples
 0989. 📚 docs: write FAQ section
 0209. ✨ feat: implement quiz timer feature
+0833. ✨ feat: add user authentication
