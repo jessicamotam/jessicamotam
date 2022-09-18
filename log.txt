@@ -53507,3 +53507,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0788. 📚 docs: add API usage examples
 0912. 📚 docs: document token refresh logic
+0556. ✨ feat: support email verification
