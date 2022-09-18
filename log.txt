@@ -72952,3 +72952,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0219. ✅ test: increase coverage on auth module
 0144. ✅ test: increase coverage on auth module
+0321. 🔧 refactor: organize models into subfolders
