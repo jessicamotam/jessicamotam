@@ -32077,3 +32077,4 @@
 0125. ✅ test: add integration test for /submit endpoint
 0685. ✅ test: test user registration edge cases
 0084. 🐛 fix: handle 500 error in quiz API
+0437. 📚 docs: clarify environment setup
