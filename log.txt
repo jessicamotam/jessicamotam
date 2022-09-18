@@ -20808,3 +20808,4 @@
 0768. 🎨 style: remove trailing whitespace
 0862. ♻️ chore: bump dependencies
 0366. 🔧 refactor: remove redundant code blocks
+0247. 🎨 style: apply consistent indentation
