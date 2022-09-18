@@ -90728,3 +90728,4 @@
 0420. 🚀 perf: reduce image load time
 0540. ♻️ chore: add GitHub actions badge
 0925. ✨ feat: add export to CSV option
+0726. ✨ feat: enable dark mode toggle
