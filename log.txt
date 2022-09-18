@@ -58898,3 +58898,4 @@
 0502. 📚 docs: update README with setup steps
 0316. 🐛 fix: fix broken CSS in mobile view
 0987. ✨ feat: create admin dashboard
+0483. 📚 docs: update README with setup steps
