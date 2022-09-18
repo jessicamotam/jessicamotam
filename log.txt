@@ -4019,3 +4019,4 @@
 0541. 🐛 fix: correct typo in registration form
 0739. 🎨 style: remove trailing whitespace
 0626. 🎨 style: standardize quote style
+0337. 📚 docs: document token refresh logic
