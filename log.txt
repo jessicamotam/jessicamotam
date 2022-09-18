@@ -15263,3 +15263,4 @@
 0269. ✅ test: test user registration edge cases
 0070. ✨ feat: implement quiz timer feature
 0396. 🔧 refactor: split large controller into smaller functions
+0377. ✨ feat: add user authentication
