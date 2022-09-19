@@ -20624,3 +20624,4 @@
 0497. 🔧 refactor: refactor quiz grading logic
 0697. ♻️ chore: bump dependencies
 0927. ♻️ chore: bump dependencies
+0713. 🐛 fix: handle 500 error in quiz API
