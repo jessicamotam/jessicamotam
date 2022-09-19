@@ -36369,3 +36369,4 @@
 0619. ✨ feat: create admin dashboard
 0508. ✅ test: add unit test for quiz service
 0398. 🚀 perf: cache repeated calculations
+0097. 🐛 fix: handle 500 error in quiz API
