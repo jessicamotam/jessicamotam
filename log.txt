@@ -89511,3 +89511,4 @@
 0501. ✨ feat: add export to CSV option
 0798. 🚀 perf: reduce image load time
 0728. 🔧 refactor: split large controller into smaller functions
+0767. 🔧 refactor: remove redundant code blocks
