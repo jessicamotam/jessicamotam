@@ -41833,3 +41833,4 @@
 0654. ✨ feat: create admin dashboard
 0379. ✨ feat: support email verification
 0333. 🚀 perf: cache repeated calculations
+0517. ✅ test: mock database connection in test suite
