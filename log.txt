@@ -19669,3 +19669,4 @@
 0423. ✅ test: mock database connection in test suite
 0335. ♻️ chore: update .gitignore
 0886. ♻️ chore: clean up unused files
+0946. ✅ test: add unit test for quiz service
