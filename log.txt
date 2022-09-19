@@ -53622,3 +53622,4 @@
 0855. 🎨 style: reformat files with black
 0349. ✅ test: increase coverage on auth module
 0661. ✅ test: add integration test for /submit endpoint
+0397. 🐛 fix: handle 500 error in quiz API
