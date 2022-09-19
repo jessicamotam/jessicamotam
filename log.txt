@@ -38968,3 +38968,4 @@
 0541. 🐛 fix: correct typo in registration form
 0016. 🎨 style: apply consistent indentation
 0311. 🎨 style: apply consistent indentation
+0751. 🐛 fix: handle 500 error in quiz API
