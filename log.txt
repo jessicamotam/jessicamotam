@@ -6451,3 +6451,4 @@
 0215. 🎨 style: reformat files with black
 0526. ✨ feat: add user authentication
 0377. ✨ feat: add user authentication
+0371. ✅ test: add integration test for /submit endpoint
