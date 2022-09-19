@@ -53448,3 +53448,4 @@
 0441. 📚 docs: add API usage examples
 0155. ✨ feat: create admin dashboard
 0445. 📚 docs: improve code comments in utils
+0713. 🐛 fix: handle 500 error in quiz API
