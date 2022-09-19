@@ -5773,3 +5773,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0945. ♻️ chore: add GitHub actions badge
 0628. ♻️ chore: add GitHub actions badge
+0412. ✅ test: increase coverage on auth module
