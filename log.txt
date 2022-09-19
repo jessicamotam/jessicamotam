@@ -84185,3 +84185,4 @@
 0195. 📚 docs: clarify environment setup
 0335. ♻️ chore: update .gitignore
 0672. 🐛 fix: fix broken CSS in mobile view
+0647. 🐛 fix: prevent crash on empty input
