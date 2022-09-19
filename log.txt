@@ -63814,3 +63814,4 @@
 0149. ✨ feat: add export to CSV option
 0253. 📚 docs: update README with setup steps
 0134. ✨ feat: implement quiz timer feature
+0513. ♻️ chore: bump dependencies
