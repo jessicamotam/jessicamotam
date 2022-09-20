@@ -74468,3 +74468,4 @@
 0128. ♻️ chore: rename env.example
 0741. 🎨 style: apply consistent indentation
 0558. ✨ feat: enable dark mode toggle
+0707. 🎨 style: apply consistent indentation
