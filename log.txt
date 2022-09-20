@@ -65553,3 +65553,4 @@
 0939. 📚 docs: update README with setup steps
 0491. 🚀 perf: lazy-load components
 0667. ✨ feat: add export to CSV option
+0978. 🐛 fix: prevent crash on empty input
