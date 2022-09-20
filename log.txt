@@ -14446,3 +14446,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0085. ✨ feat: support email verification
 0545. 🎨 style: standardize quote style
+0349. ✅ test: increase coverage on auth module
