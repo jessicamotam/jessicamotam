@@ -9242,3 +9242,4 @@
 0003. ✅ test: increase coverage on auth module
 0428. 🐛 fix: fix null pointer exception on login
 0072. 🚀 perf: optimize database query for quiz results
+0270. ♻️ chore: rename env.example
