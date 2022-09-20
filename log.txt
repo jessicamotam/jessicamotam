@@ -11411,3 +11411,4 @@
 0351. ✨ feat: add export to CSV option
 0958. 🐛 fix: prevent crash on empty input
 0379. ✨ feat: support email verification
+0192. ✨ feat: enable dark mode toggle
