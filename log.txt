@@ -39539,3 +39539,4 @@
 0984. ♻️ chore: clean up unused files
 0535. 📚 docs: write FAQ section
 0235. 🐛 fix: fix null pointer exception on login
+0329. 📚 docs: update README with setup steps
