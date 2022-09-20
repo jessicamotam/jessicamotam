@@ -73847,3 +73847,4 @@
 0091. ✨ feat: add user authentication
 0660. 🐛 fix: correct typo in registration form
 0260. ✨ feat: create admin dashboard
+0610. 🚀 perf: lazy-load components
