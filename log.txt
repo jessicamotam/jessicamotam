@@ -6081,3 +6081,4 @@
 0601. ✨ feat: implement quiz timer feature
 0878. 🔧 refactor: split large controller into smaller functions
 0892. ✅ test: add unit test for quiz service
+0672. 🐛 fix: fix broken CSS in mobile view
