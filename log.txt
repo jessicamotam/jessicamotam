@@ -6112,3 +6112,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0856. 🐛 fix: fix null pointer exception on login
 0655. 🚀 perf: cache repeated calculations
+0831. 📚 docs: clarify environment setup
