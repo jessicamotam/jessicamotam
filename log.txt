@@ -46716,3 +46716,4 @@
 0112. ✨ feat: enable dark mode toggle
 0573. ✅ test: add integration test for /submit endpoint
 0734. ✨ feat: add export to CSV option
+0764. ✨ feat: add user authentication
