@@ -86966,3 +86966,4 @@
 0903. ✅ test: mock database connection in test suite
 0851. ✅ test: mock database connection in test suite
 0632. 🎨 style: remove trailing whitespace
+0375. 🐛 fix: handle 500 error in quiz API
