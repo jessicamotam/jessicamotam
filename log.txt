@@ -22321,3 +22321,4 @@
 0142. ✨ feat: implement quiz timer feature
 0566. 📚 docs: write FAQ section
 0368. 🚀 perf: lazy-load components
+0823. ✨ feat: add user authentication
