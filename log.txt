@@ -10095,3 +10095,4 @@
 0339. 📚 docs: update README with setup steps
 0802. 🔧 refactor: remove redundant code blocks
 0889. 🚀 perf: lazy-load components
+0876. ♻️ chore: rename env.example
