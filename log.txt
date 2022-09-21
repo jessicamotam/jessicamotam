@@ -43122,3 +43122,4 @@
 0372. ✨ feat: add user authentication
 0812. 🔧 refactor: refactor quiz grading logic
 0653. 🐛 fix: prevent crash on empty input
+0913. 🚀 perf: optimize database query for quiz results
