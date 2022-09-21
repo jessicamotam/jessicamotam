@@ -70825,3 +70825,4 @@
 0437. 📚 docs: clarify environment setup
 0114. ♻️ chore: update .gitignore
 0950. 🎨 style: reformat files with black
+0456. 🚀 perf: optimize database query for quiz results
