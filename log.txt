@@ -1903,3 +1903,4 @@
 0192. ✨ feat: enable dark mode toggle
 0336. ✨ feat: add export to CSV option
 0802. 🔧 refactor: remove redundant code blocks
+0846. ✨ feat: implement quiz timer feature
