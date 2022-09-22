@@ -18036,3 +18036,4 @@
 0372. ✨ feat: add user authentication
 0405. ✅ test: mock database connection in test suite
 0847. ♻️ chore: clean up unused files
+0055. 📚 docs: update README with setup steps
