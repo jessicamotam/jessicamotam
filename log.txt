@@ -6482,3 +6482,4 @@
 0875. ✅ test: increase coverage on auth module
 0209. ✨ feat: implement quiz timer feature
 0467. ✅ test: add integration test for /submit endpoint
+0248. 🐛 fix: handle 500 error in quiz API
