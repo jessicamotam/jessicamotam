@@ -78569,3 +78569,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0796. 🔧 refactor: refactor quiz grading logic
 0759. 🔧 refactor: organize models into subfolders
+0701. 🔧 refactor: clean up auth middleware
