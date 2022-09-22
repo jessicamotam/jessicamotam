@@ -4006,3 +4006,4 @@
 0661. ✅ test: add integration test for /submit endpoint
 0556. ✨ feat: support email verification
 0574. ✨ feat: enable dark mode toggle
+0914. ✅ test: test user registration edge cases
