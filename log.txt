@@ -12458,3 +12458,4 @@
 0005. ✅ test: add unit test for quiz service
 0200. 🐛 fix: handle 500 error in quiz API
 0580. ♻️ chore: bump dependencies
+0672. 🐛 fix: fix broken CSS in mobile view
