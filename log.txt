@@ -28108,3 +28108,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0573. ✅ test: add integration test for /submit endpoint
 0648. ♻️ chore: bump dependencies
+0349. ✅ test: increase coverage on auth module
