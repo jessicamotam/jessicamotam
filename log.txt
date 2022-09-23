@@ -9384,3 +9384,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0646. ✅ test: test user registration edge cases
 0930. 🎨 style: apply consistent indentation
+0710. 🐛 fix: fix broken CSS in mobile view
