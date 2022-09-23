@@ -27175,3 +27175,4 @@
 0850. ♻️ chore: rename env.example
 0720. ✨ feat: add export to CSV option
 0963. 🚀 perf: reduce image load time
+0543. ✨ feat: support email verification
