@@ -31856,3 +31856,4 @@
 0586. 🎨 style: remove trailing whitespace
 0432. 🎨 style: apply consistent indentation
 0348. ✅ test: test user registration edge cases
+0337. 📚 docs: document token refresh logic
