@@ -32490,3 +32490,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0813. 🔧 refactor: organize models into subfolders
 0439. 🐛 fix: correct typo in registration form
+0562. 🔧 refactor: clean up auth middleware
