@@ -2473,3 +2473,4 @@
 0008. 🚀 perf: reduce image load time
 0932. ✅ test: add integration test for /submit endpoint
 0651. ✨ feat: enable dark mode toggle
+0154. 🐛 fix: prevent crash on empty input
