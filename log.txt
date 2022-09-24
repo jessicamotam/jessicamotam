@@ -40488,3 +40488,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0985. 📚 docs: document token refresh logic
 0147. ♻️ chore: bump dependencies
+0791. 🔧 refactor: clean up auth middleware
