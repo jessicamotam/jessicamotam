@@ -56329,3 +56329,4 @@
 0384. 📚 docs: clarify environment setup
 0321. 🔧 refactor: organize models into subfolders
 0356. 📚 docs: write FAQ section
+0854. ♻️ chore: rename env.example
