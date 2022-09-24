@@ -77819,3 +77819,4 @@
 0591. ♻️ chore: clean up unused files
 0453. 🎨 style: standardize quote style
 0647. 🐛 fix: prevent crash on empty input
+0546. 🐛 fix: fix null pointer exception on login
