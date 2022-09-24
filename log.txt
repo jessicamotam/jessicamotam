@@ -48847,3 +48847,4 @@
 0664. ✅ test: add unit test for quiz service
 0219. ✅ test: increase coverage on auth module
 0549. ✨ feat: enable dark mode toggle
+0461. ✨ feat: add user authentication
