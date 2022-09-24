@@ -35250,3 +35250,4 @@
 0706. ✨ feat: support email verification
 0636. ✅ test: increase coverage on auth module
 0114. ♻️ chore: update .gitignore
+0526. ✨ feat: add user authentication
