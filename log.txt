@@ -60951,3 +60951,4 @@
 0500. ✅ test: add integration test for /submit endpoint
 0296. 🔧 refactor: organize models into subfolders
 0934. ✨ feat: support email verification
+0471. ✨ feat: support email verification
