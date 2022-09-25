@@ -68441,3 +68441,4 @@
 0216. 🎨 style: rename variables for clarity
 0054. ♻️ chore: update .gitignore
 0732. ♻️ chore: add GitHub actions badge
+0850. ♻️ chore: rename env.example
