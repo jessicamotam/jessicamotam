@@ -38835,3 +38835,4 @@
 0468. 📚 docs: update README with setup steps
 0088. 📚 docs: add API usage examples
 0291. 📚 docs: write FAQ section
+0227. ✅ test: test user registration edge cases
