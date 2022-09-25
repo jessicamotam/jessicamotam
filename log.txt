@@ -1121,3 +1121,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0713. 🐛 fix: handle 500 error in quiz API
 0871. ✅ test: add integration test for /submit endpoint
+0099. 🚀 perf: reduce image load time
