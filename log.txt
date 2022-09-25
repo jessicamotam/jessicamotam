@@ -14930,3 +14930,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0003. ✅ test: increase coverage on auth module
 0149. ✨ feat: add export to CSV option
+0572. ✨ feat: add user authentication
