@@ -82701,3 +82701,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0997. ✅ test: increase coverage on auth module
 0774. 🔧 refactor: refactor quiz grading logic
+0049. 🐛 fix: handle 500 error in quiz API
