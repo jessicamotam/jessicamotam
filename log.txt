@@ -83953,3 +83953,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0583. ✅ test: increase coverage on auth module
 0570. 🎨 style: apply consistent indentation
+0363. 📚 docs: clarify environment setup
