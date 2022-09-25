@@ -79070,3 +79070,4 @@
 0100. ♻️ chore: update .gitignore
 0626. 🎨 style: standardize quote style
 0950. 🎨 style: reformat files with black
+0030. 🐛 fix: fix null pointer exception on login
