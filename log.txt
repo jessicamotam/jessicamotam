@@ -32999,3 +32999,4 @@
 0090. ✅ test: increase coverage on auth module
 0022. 📚 docs: document token refresh logic
 0968. 🎨 style: standardize quote style
+0746. ♻️ chore: add GitHub actions badge
