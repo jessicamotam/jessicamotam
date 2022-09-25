@@ -62305,3 +62305,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0135. ✅ test: test user registration edge cases
 0287. 📚 docs: write FAQ section
+0080. ✨ feat: support email verification
