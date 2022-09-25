@@ -59417,3 +59417,4 @@
 0873. 🚀 perf: cache repeated calculations
 0231. 🔧 refactor: clean up auth middleware
 0654. ✨ feat: create admin dashboard
+0296. 🔧 refactor: organize models into subfolders
