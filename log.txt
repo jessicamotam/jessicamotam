@@ -50354,3 +50354,4 @@
 0155. ✨ feat: create admin dashboard
 0912. 📚 docs: document token refresh logic
 0488. ♻️ chore: add GitHub actions badge
+0110. 🐛 fix: prevent crash on empty input
