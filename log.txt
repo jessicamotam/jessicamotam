@@ -14346,3 +14346,4 @@
 0269. ✅ test: test user registration edge cases
 0770. ♻️ chore: rename env.example
 0310. 🔧 refactor: refactor quiz grading logic
+0736. 🐛 fix: fix null pointer exception on login
