@@ -66976,3 +66976,4 @@
 0256. ✅ test: mock database connection in test suite
 0185. 📚 docs: write FAQ section
 0774. 🔧 refactor: refactor quiz grading logic
+0895. ✨ feat: support email verification
