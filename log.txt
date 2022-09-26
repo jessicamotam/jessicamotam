@@ -78685,3 +78685,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0980. 🎨 style: reformat files with black
 0557. 🔧 refactor: clean up auth middleware
+0693. 📚 docs: add API usage examples
