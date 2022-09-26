@@ -35626,3 +35626,4 @@
 0017. ✅ test: mock database connection in test suite
 0290. ✅ test: test user registration edge cases
 0774. 🔧 refactor: refactor quiz grading logic
+0151. ✅ test: add unit test for quiz service
