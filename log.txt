@@ -66341,3 +66341,4 @@
 0994. 🚀 perf: reduce image load time
 0930. 🎨 style: apply consistent indentation
 0446. 🎨 style: apply consistent indentation
+0059. ♻️ chore: bump dependencies
