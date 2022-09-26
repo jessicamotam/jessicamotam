@@ -1548,3 +1548,4 @@
 0580. ♻️ chore: bump dependencies
 0583. ✅ test: increase coverage on auth module
 0347. ♻️ chore: update .gitignore
+0405. ✅ test: mock database connection in test suite
