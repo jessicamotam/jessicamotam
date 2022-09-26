@@ -3833,3 +3833,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0342. 🚀 perf: cache repeated calculations
 0151. ✅ test: add unit test for quiz service
+0358. 🚀 perf: reduce image load time
