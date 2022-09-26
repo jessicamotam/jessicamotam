@@ -51138,3 +51138,4 @@
 0709. ♻️ chore: bump dependencies
 0111. 📚 docs: update README with setup steps
 0805. ♻️ chore: add GitHub actions badge
+0596. ♻️ chore: update .gitignore
