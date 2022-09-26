@@ -724,3 +724,4 @@
 0313. 🎨 style: apply consistent indentation
 0843. 📚 docs: document token refresh logic
 0676. 🐛 fix: prevent crash on empty input
+0682. ♻️ chore: rename env.example
