@@ -56616,3 +56616,4 @@
 0940. 📚 docs: document token refresh logic
 0596. ♻️ chore: update .gitignore
 0608. 🔧 refactor: remove redundant code blocks
+0341. 🚀 perf: lazy-load components
