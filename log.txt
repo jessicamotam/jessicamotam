@@ -78203,3 +78203,4 @@
 0250. 📚 docs: update README with setup steps
 0019. ✨ feat: enable dark mode toggle
 0001. 🚀 perf: cache repeated calculations
+0468. 📚 docs: update README with setup steps
