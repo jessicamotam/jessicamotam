@@ -21990,3 +21990,4 @@
 0275. 🎨 style: standardize quote style
 0976. ✨ feat: implement quiz timer feature
 0844. 📚 docs: update README with setup steps
+0460. 📚 docs: write FAQ section
