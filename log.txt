@@ -87363,3 +87363,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0108. 🎨 style: remove trailing whitespace
 0150. 🎨 style: remove trailing whitespace
+0483. 📚 docs: update README with setup steps
