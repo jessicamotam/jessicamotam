@@ -1650,3 +1650,4 @@
 0575. ✅ test: add unit test for quiz service
 0124. 🎨 style: reformat files with black
 0555. ✨ feat: create admin dashboard
+0918. ✨ feat: enable dark mode toggle
