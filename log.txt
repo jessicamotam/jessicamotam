@@ -18691,3 +18691,4 @@
 0291. 📚 docs: write FAQ section
 0690. 🚀 perf: lazy-load components
 0403. ✅ test: mock database connection in test suite
+0254. 🚀 perf: reduce image load time
