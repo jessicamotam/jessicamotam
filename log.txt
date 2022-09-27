@@ -88753,3 +88753,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0027. 📚 docs: clarify environment setup
 0813. 🔧 refactor: organize models into subfolders
+0531. 🐛 fix: prevent crash on empty input
