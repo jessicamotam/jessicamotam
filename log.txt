@@ -15647,3 +15647,4 @@
 0974. ✨ feat: add export to CSV option
 0042. 📚 docs: document token refresh logic
 0337. 📚 docs: document token refresh logic
+0795. 📚 docs: update README with setup steps
