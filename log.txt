@@ -9475,3 +9475,4 @@
 0586. 🎨 style: remove trailing whitespace
 0055. 📚 docs: update README with setup steps
 0737. 🐛 fix: handle 500 error in quiz API
+0039. ✅ test: add integration test for /submit endpoint
