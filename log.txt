@@ -20687,3 +20687,4 @@
 0925. ✨ feat: add export to CSV option
 0269. ✅ test: test user registration edge cases
 0356. 📚 docs: write FAQ section
+0653. 🐛 fix: prevent crash on empty input
