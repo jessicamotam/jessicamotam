@@ -61675,3 +61675,4 @@
 0798. 🚀 perf: reduce image load time
 0644. 🎨 style: apply consistent indentation
 0754. 🐛 fix: handle 500 error in quiz API
+0081. 🐛 fix: fix null pointer exception on login
