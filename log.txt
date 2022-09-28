@@ -89475,3 +89475,4 @@
 0882. 🚀 perf: optimize database query for quiz results
 0013. ✅ test: increase coverage on auth module
 0076. 🎨 style: reformat files with black
+0122. ✨ feat: support email verification
