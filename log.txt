@@ -4071,3 +4071,4 @@
 0454. ♻️ chore: bump dependencies
 0556. ✨ feat: support email verification
 0155. ✨ feat: create admin dashboard
+0153. ♻️ chore: rename env.example
