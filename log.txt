@@ -53313,3 +53313,4 @@
 0797. 📚 docs: add API usage examples
 0344. ♻️ chore: add GitHub actions badge
 0578. ✅ test: add integration test for /submit endpoint
+0187. ✨ feat: support email verification
