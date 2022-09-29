@@ -20085,3 +20085,4 @@
 0413. ✅ test: add integration test for /submit endpoint
 0401. 🚀 perf: reduce image load time
 0627. 📚 docs: document token refresh logic
+0816. 🔧 refactor: organize models into subfolders
