@@ -74721,3 +74721,4 @@
 0521. 🎨 style: standardize quote style
 0848. 📚 docs: update README with setup steps
 0950. 🎨 style: reformat files with black
+0380. 🐛 fix: fix null pointer exception on login
