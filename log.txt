@@ -25305,3 +25305,4 @@
 0709. ♻️ chore: bump dependencies
 0344. ♻️ chore: add GitHub actions badge
 0628. ♻️ chore: add GitHub actions badge
+0570. 🎨 style: apply consistent indentation
