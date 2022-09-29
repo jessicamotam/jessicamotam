@@ -59058,3 +59058,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0204. 🎨 style: standardize quote style
 0333. 🚀 perf: cache repeated calculations
+0958. 🐛 fix: prevent crash on empty input
