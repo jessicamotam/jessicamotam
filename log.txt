@@ -83915,3 +83915,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0036. 🔧 refactor: clean up auth middleware
 0330. ✅ test: test user registration edge cases
+0146. 🎨 style: apply consistent indentation
