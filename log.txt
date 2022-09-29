@@ -81350,3 +81350,4 @@
 0826. 📚 docs: clarify environment setup
 0173. 🚀 perf: cache repeated calculations
 0632. 🎨 style: remove trailing whitespace
+0226. 🚀 perf: lazy-load components
