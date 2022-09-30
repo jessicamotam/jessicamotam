@@ -67226,3 +67226,4 @@
 0431. 🎨 style: reformat files with black
 0356. 📚 docs: write FAQ section
 0490. ✨ feat: create admin dashboard
+0023. 📚 docs: clarify environment setup
