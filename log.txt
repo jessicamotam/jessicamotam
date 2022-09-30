@@ -43059,3 +43059,4 @@
 0725. 🚀 perf: lazy-load components
 0282. 🔧 refactor: remove redundant code blocks
 0612. ✅ test: test user registration edge cases
+0468. 📚 docs: update README with setup steps
