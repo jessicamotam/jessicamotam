@@ -77714,3 +77714,4 @@
 0648. ♻️ chore: bump dependencies
 0096. 🐛 fix: prevent crash on empty input
 0933. 📚 docs: clarify environment setup
+0330. ✅ test: test user registration edge cases
