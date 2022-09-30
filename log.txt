@@ -85653,3 +85653,4 @@
 0809. ♻️ chore: rename env.example
 0376. 🎨 style: apply consistent indentation
 0978. 🐛 fix: prevent crash on empty input
+0185. 📚 docs: write FAQ section
