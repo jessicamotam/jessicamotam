@@ -51462,3 +51462,4 @@
 0591. ♻️ chore: clean up unused files
 0333. 🚀 perf: cache repeated calculations
 0694. 🎨 style: rename variables for clarity
+0483. 📚 docs: update README with setup steps
