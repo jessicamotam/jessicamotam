@@ -90666,3 +90666,4 @@
 0677. 📚 docs: add API usage examples
 0298. ♻️ chore: update .gitignore
 0021. ✨ feat: support email verification
+0317. ✅ test: test user registration edge cases
