@@ -84143,3 +84143,4 @@
 0924. ✅ test: mock database connection in test suite
 0298. ♻️ chore: update .gitignore
 0745. ✅ test: add unit test for quiz service
+0610. 🚀 perf: lazy-load components
