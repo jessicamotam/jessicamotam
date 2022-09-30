@@ -63192,3 +63192,4 @@
 0895. ✨ feat: support email verification
 0290. ✅ test: test user registration edge cases
 0204. 🎨 style: standardize quote style
+0101. 📚 docs: clarify environment setup
