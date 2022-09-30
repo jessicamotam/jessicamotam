@@ -44701,3 +44701,4 @@
 0995. ✅ test: mock database connection in test suite
 0959. 🐛 fix: fix null pointer exception on login
 0700. 🎨 style: rename variables for clarity
+0788. 📚 docs: add API usage examples
