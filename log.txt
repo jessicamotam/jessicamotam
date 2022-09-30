@@ -2208,3 +2208,4 @@
 0037. 🐛 fix: correct typo in registration form
 0296. 🔧 refactor: organize models into subfolders
 0480. ♻️ chore: add GitHub actions badge
+0535. 📚 docs: write FAQ section
