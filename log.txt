@@ -18874,3 +18874,4 @@
 0761. ✅ test: add unit test for quiz service
 0100. ♻️ chore: update .gitignore
 0509. ♻️ chore: bump dependencies
+0849. 🐛 fix: correct typo in registration form
