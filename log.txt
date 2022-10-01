@@ -5077,3 +5077,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0540. ♻️ chore: add GitHub actions badge
 0974. ✨ feat: add export to CSV option
+0471. ✨ feat: support email verification
