@@ -49880,3 +49880,4 @@
 0157. ✅ test: mock database connection in test suite
 0509. ♻️ chore: bump dependencies
 0651. ✨ feat: enable dark mode toggle
+0475. 🔧 refactor: clean up auth middleware
