@@ -37181,3 +37181,4 @@
 0064. 📚 docs: clarify environment setup
 0934. ✨ feat: support email verification
 0679. ♻️ chore: bump dependencies
+0565. ♻️ chore: add GitHub actions badge
