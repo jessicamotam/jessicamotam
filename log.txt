@@ -3747,3 +3747,4 @@
 0062. ♻️ chore: update .gitignore
 0030. 🐛 fix: fix null pointer exception on login
 0434. 📚 docs: document token refresh logic
+0372. ✨ feat: add user authentication
