@@ -18785,3 +18785,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0894. ✅ test: add integration test for /submit endpoint
 0310. 🔧 refactor: refactor quiz grading logic
+0758. 🚀 perf: optimize database query for quiz results
