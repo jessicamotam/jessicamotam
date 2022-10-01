@@ -44681,3 +44681,4 @@
 0586. 🎨 style: remove trailing whitespace
 0266. 🔧 refactor: remove redundant code blocks
 0826. 📚 docs: clarify environment setup
+0324. 📚 docs: document token refresh logic
