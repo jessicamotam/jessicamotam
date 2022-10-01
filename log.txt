@@ -77063,3 +77063,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0467. ✅ test: add integration test for /submit endpoint
 0379. ✨ feat: support email verification
+0450. 🐛 fix: fix broken CSS in mobile view
