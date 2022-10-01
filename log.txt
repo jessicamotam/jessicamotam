@@ -64289,3 +64289,4 @@
 0848. 📚 docs: update README with setup steps
 0058. ♻️ chore: add GitHub actions badge
 0270. ♻️ chore: rename env.example
+0281. ✨ feat: support email verification
