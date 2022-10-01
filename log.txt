@@ -8791,3 +8791,4 @@
 0554. 📚 docs: improve code comments in utils
 0328. 🐛 fix: resolve issue with date parsing
 0336. ✨ feat: add export to CSV option
+0882. 🚀 perf: optimize database query for quiz results
