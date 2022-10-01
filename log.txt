@@ -8852,3 +8852,4 @@
 0931. 🚀 perf: reduce image load time
 0492. 🎨 style: remove trailing whitespace
 0078. ♻️ chore: update .gitignore
+0724. ✅ test: mock database connection in test suite
