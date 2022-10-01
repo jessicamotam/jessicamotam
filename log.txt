@@ -48125,3 +48125,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0385. ♻️ chore: clean up unused files
 0862. ♻️ chore: bump dependencies
+0651. ✨ feat: enable dark mode toggle
