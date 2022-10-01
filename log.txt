@@ -44303,3 +44303,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0256. ✅ test: mock database connection in test suite
 0504. 📚 docs: document token refresh logic
+0892. ✅ test: add unit test for quiz service
