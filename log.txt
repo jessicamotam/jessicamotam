@@ -62628,3 +62628,4 @@
 0017. ✅ test: mock database connection in test suite
 0911. ✅ test: increase coverage on auth module
 0997. ✅ test: increase coverage on auth module
+0506. 🐛 fix: handle 500 error in quiz API
