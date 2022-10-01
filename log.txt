@@ -59768,3 +59768,4 @@
 0665. ♻️ chore: update .gitignore
 0251. ♻️ chore: update .gitignore
 0570. 🎨 style: apply consistent indentation
+0961. 📚 docs: add API usage examples
