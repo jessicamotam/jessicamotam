@@ -90207,3 +90207,4 @@
 0557. 🔧 refactor: clean up auth middleware
 0928. 🎨 style: apply consistent indentation
 0350. 🚀 perf: cache repeated calculations
+0836. 🚀 perf: optimize database query for quiz results
