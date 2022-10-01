@@ -50169,3 +50169,4 @@
 0389. 📚 docs: improve code comments in utils
 0547. 📚 docs: write FAQ section
 0660. 🐛 fix: correct typo in registration form
+0756. ✨ feat: support email verification
