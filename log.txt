@@ -40866,3 +40866,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0807. 🔧 refactor: remove redundant code blocks
 0395. 📚 docs: write FAQ section
+0579. 📚 docs: clarify environment setup
