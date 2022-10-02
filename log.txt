@@ -39855,3 +39855,4 @@
 0295. 🎨 style: remove trailing whitespace
 0665. ♻️ chore: update .gitignore
 0705. 🔧 refactor: refactor quiz grading logic
+0671. 🐛 fix: fix null pointer exception on login
