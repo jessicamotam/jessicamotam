@@ -43743,3 +43743,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0194. 🎨 style: standardize quote style
 0517. ✅ test: mock database connection in test suite
+0959. 🐛 fix: fix null pointer exception on login
