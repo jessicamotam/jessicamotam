@@ -18169,3 +18169,4 @@
 0221. ✨ feat: add user authentication
 0551. 📚 docs: write FAQ section
 0080. ✨ feat: support email verification
+0629. 🔧 refactor: organize models into subfolders
