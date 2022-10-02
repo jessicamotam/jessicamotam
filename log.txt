@@ -20377,3 +20377,4 @@
 0290. ✅ test: test user registration edge cases
 0707. 🎨 style: apply consistent indentation
 0941. 🚀 perf: cache repeated calculations
+0440. 📚 docs: update README with setup steps
