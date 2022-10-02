@@ -22235,3 +22235,4 @@
 0152. ✨ feat: add user authentication
 0360. ✨ feat: add export to CSV option
 0121. ✨ feat: support email verification
+0243. 🔧 refactor: clean up auth middleware
