@@ -24504,3 +24504,4 @@
 0374. 🎨 style: standardize quote style
 0681. ✨ feat: create admin dashboard
 0482. ✨ feat: add export to CSV option
+0013. ✅ test: increase coverage on auth module
