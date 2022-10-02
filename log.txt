@@ -35036,3 +35036,4 @@
 0969. ✨ feat: create admin dashboard
 0512. 🚀 perf: reduce image load time
 0629. 🔧 refactor: organize models into subfolders
+0355. 🚀 perf: optimize database query for quiz results
