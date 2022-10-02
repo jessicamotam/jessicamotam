@@ -21552,3 +21552,4 @@
 0158. 📚 docs: clarify environment setup
 0268. 🐛 fix: prevent crash on empty input
 0187. ✨ feat: support email verification
+0599. ✅ test: test user registration edge cases
