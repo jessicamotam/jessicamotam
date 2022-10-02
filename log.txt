@@ -86985,3 +86985,4 @@
 0720. ✨ feat: add export to CSV option
 0112. ✨ feat: enable dark mode toggle
 0878. 🔧 refactor: split large controller into smaller functions
+0239. 🎨 style: standardize quote style
