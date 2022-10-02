@@ -10820,3 +10820,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0071. 🔧 refactor: refactor quiz grading logic
 0177. 📚 docs: add API usage examples
+0589. 🐛 fix: fix broken CSS in mobile view
