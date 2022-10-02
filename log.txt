@@ -16262,3 +16262,4 @@
 0902. ✨ feat: enable dark mode toggle
 0848. 📚 docs: update README with setup steps
 0306. 🎨 style: apply consistent indentation
+0336. ✨ feat: add export to CSV option
