@@ -36734,3 +36734,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0603. 🐛 fix: fix broken CSS in mobile view
 0849. 🐛 fix: correct typo in registration form
+0991. ♻️ chore: clean up unused files
