@@ -7008,3 +7008,4 @@
 0720. ✨ feat: add export to CSV option
 0765. ♻️ chore: clean up unused files
 0740. 🐛 fix: resolve issue with date parsing
+0423. ✅ test: mock database connection in test suite
