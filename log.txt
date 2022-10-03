@@ -41313,3 +41313,4 @@
 0504. 📚 docs: document token refresh logic
 0184. 📚 docs: improve code comments in utils
 0144. ✅ test: increase coverage on auth module
+0308. 🚀 perf: reduce image load time
