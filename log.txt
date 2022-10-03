@@ -65774,3 +65774,4 @@
 0151. ✅ test: add unit test for quiz service
 0336. ✨ feat: add export to CSV option
 0836. 🚀 perf: optimize database query for quiz results
+0556. ✨ feat: support email verification
