@@ -85952,3 +85952,4 @@
 0632. 🎨 style: remove trailing whitespace
 0563. 📚 docs: clarify environment setup
 0780. 📚 docs: add API usage examples
+0206. 🐛 fix: handle 500 error in quiz API
