@@ -84180,3 +84180,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0103. 🔧 refactor: remove redundant code blocks
 0501. ✨ feat: add export to CSV option
+0092. 🚀 perf: reduce image load time
