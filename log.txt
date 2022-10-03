@@ -74782,3 +74782,4 @@
 0661. ✅ test: add integration test for /submit endpoint
 0484. 🐛 fix: handle 500 error in quiz API
 0236. 🔧 refactor: remove redundant code blocks
+0099. 🚀 perf: reduce image load time
