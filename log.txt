@@ -73898,3 +73898,4 @@
 0117. ✅ test: increase coverage on auth module
 0833. ✨ feat: add user authentication
 0516. ✅ test: add unit test for quiz service
+0276. ✅ test: add integration test for /submit endpoint
