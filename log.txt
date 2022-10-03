@@ -27995,3 +27995,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0109. 🚀 perf: lazy-load components
 0435. ✅ test: add unit test for quiz service
+0915. 🚀 perf: cache repeated calculations
