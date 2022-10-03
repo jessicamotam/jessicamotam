@@ -86767,3 +86767,4 @@
 0451. ✨ feat: support email verification
 0598. 🔧 refactor: remove redundant code blocks
 0102. ✨ feat: support email verification
+0849. 🐛 fix: correct typo in registration form
