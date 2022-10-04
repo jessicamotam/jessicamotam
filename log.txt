@@ -39019,3 +39019,4 @@
 0090. ✅ test: increase coverage on auth module
 0863. 🐛 fix: correct typo in registration form
 0340. 🚀 perf: optimize database query for quiz results
+0591. ♻️ chore: clean up unused files
