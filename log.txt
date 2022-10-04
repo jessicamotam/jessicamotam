@@ -71637,3 +71637,4 @@
 0969. ✨ feat: create admin dashboard
 0663. 🚀 perf: reduce image load time
 0576. ♻️ chore: update .gitignore
+0316. 🐛 fix: fix broken CSS in mobile view
