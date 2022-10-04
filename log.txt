@@ -10838,3 +10838,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0185. 📚 docs: write FAQ section
 0223. 🔧 refactor: remove redundant code blocks
+0784. ♻️ chore: clean up unused files
