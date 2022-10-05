@@ -6493,3 +6493,4 @@
 0192. ✨ feat: enable dark mode toggle
 0142. ✨ feat: implement quiz timer feature
 0040. 🔧 refactor: clean up auth middleware
+0159. 🚀 perf: lazy-load components
