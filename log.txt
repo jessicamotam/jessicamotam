@@ -29587,3 +29587,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0292. 📚 docs: clarify environment setup
 0614. 🚀 perf: reduce image load time
+0128. ♻️ chore: rename env.example
