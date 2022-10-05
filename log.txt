@@ -57307,3 +57307,4 @@
 0517. ✅ test: mock database connection in test suite
 0216. 🎨 style: rename variables for clarity
 0234. ♻️ chore: rename env.example
+0763. 🔧 refactor: organize models into subfolders
