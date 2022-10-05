@@ -88574,3 +88574,4 @@
 0447. ♻️ chore: bump dependencies
 0798. 🚀 perf: reduce image load time
 0756. ✨ feat: support email verification
+0194. 🎨 style: standardize quote style
