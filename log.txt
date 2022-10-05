@@ -35059,3 +35059,4 @@
 0379. ✨ feat: support email verification
 0009. ✨ feat: enable dark mode toggle
 0383. 🐛 fix: fix broken CSS in mobile view
+0754. 🐛 fix: handle 500 error in quiz API
