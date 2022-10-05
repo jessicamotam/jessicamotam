@@ -75056,3 +75056,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0306. 🎨 style: apply consistent indentation
 0454. ♻️ chore: bump dependencies
+0475. 🔧 refactor: clean up auth middleware
