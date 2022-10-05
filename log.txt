@@ -27385,3 +27385,4 @@
 0436. ✅ test: add integration test for /submit endpoint
 0630. 🚀 perf: lazy-load components
 0974. ✨ feat: add export to CSV option
+0429. ✨ feat: add user authentication
