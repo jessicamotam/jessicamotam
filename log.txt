@@ -44770,3 +44770,4 @@
 0370. 🚀 perf: reduce image load time
 0071. 🔧 refactor: refactor quiz grading logic
 0432. 🎨 style: apply consistent indentation
+0596. ♻️ chore: update .gitignore
