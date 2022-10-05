@@ -9833,3 +9833,4 @@
 0820. 📚 docs: add API usage examples
 0121. ✨ feat: support email verification
 0887. 📚 docs: add API usage examples
+0648. ♻️ chore: bump dependencies
