@@ -36270,3 +36270,4 @@
 0648. ♻️ chore: bump dependencies
 0507. 🔧 refactor: clean up auth middleware
 0870. ♻️ chore: clean up unused files
+0979. 🎨 style: standardize quote style
