@@ -15031,3 +15031,4 @@
 0429. ✨ feat: add user authentication
 0071. 🔧 refactor: refactor quiz grading logic
 0397. 🐛 fix: handle 500 error in quiz API
+0776. ✅ test: add integration test for /submit endpoint
