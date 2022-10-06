@@ -6047,3 +6047,4 @@
 0712. 🎨 style: apply consistent indentation
 0382. 📚 docs: improve code comments in utils
 0272. 🔧 refactor: remove redundant code blocks
+0617. ✨ feat: support email verification
