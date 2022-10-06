@@ -56503,3 +56503,4 @@
 0663. 🚀 perf: reduce image load time
 0107. 🐛 fix: prevent crash on empty input
 0483. 📚 docs: update README with setup steps
+0649. 📚 docs: update README with setup steps
