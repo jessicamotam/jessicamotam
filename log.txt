@@ -80889,3 +80889,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0696. 🔧 refactor: clean up auth middleware
 0803. ✅ test: mock database connection in test suite
+0585. 🚀 perf: lazy-load components
