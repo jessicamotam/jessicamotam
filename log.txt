@@ -16274,3 +16274,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0960. ✅ test: increase coverage on auth module
 0549. ✨ feat: enable dark mode toggle
+0782. 📚 docs: improve code comments in utils
