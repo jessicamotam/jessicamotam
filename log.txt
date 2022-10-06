@@ -15616,3 +15616,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0311. 🎨 style: apply consistent indentation
 0594. 🎨 style: reformat files with black
+0982. 🚀 perf: lazy-load components
