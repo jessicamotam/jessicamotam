@@ -27038,3 +27038,4 @@
 0793. 📚 docs: clarify environment setup
 0439. 🐛 fix: correct typo in registration form
 0911. ✅ test: increase coverage on auth module
+0777. 📚 docs: document token refresh logic
