@@ -57973,3 +57973,4 @@
 0885. ♻️ chore: update .gitignore
 0379. ✨ feat: support email verification
 0605. ✨ feat: support email verification
+0742. 📚 docs: clarify environment setup
