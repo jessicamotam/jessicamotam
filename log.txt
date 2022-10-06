@@ -44139,3 +44139,4 @@
 0424. ✨ feat: add user authentication
 0269. ✅ test: test user registration edge cases
 0967. ♻️ chore: add GitHub actions badge
+0906. 📚 docs: add API usage examples
