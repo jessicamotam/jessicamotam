@@ -45289,3 +45289,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0561. 📚 docs: write FAQ section
 0270. ♻️ chore: rename env.example
+0079. 🐛 fix: correct typo in registration form
