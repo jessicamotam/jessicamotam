@@ -70112,3 +70112,4 @@
 0365. 🚀 perf: reduce image load time
 0558. ✨ feat: enable dark mode toggle
 0212. 🎨 style: standardize quote style
+0997. ✅ test: increase coverage on auth module
