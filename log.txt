@@ -54253,3 +54253,4 @@
 0599. ✅ test: test user registration edge cases
 0504. 📚 docs: document token refresh logic
 0788. 📚 docs: add API usage examples
+0573. ✅ test: add integration test for /submit endpoint
