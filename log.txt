@@ -22058,3 +22058,4 @@
 0726. ✨ feat: enable dark mode toggle
 0203. 🚀 perf: lazy-load components
 0468. 📚 docs: update README with setup steps
+0222. 🐛 fix: handle 500 error in quiz API
