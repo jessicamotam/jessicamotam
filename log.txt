@@ -601,3 +601,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0569. 📚 docs: document token refresh logic
 0192. ✨ feat: enable dark mode toggle
+0329. 📚 docs: update README with setup steps
