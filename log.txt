@@ -65456,3 +65456,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0545. 🎨 style: standardize quote style
 0909. 🔧 refactor: organize models into subfolders
+0583. ✅ test: increase coverage on auth module
