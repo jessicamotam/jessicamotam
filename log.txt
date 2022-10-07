@@ -39775,3 +39775,4 @@
 0679. ♻️ chore: bump dependencies
 0519. 📚 docs: document token refresh logic
 0795. 📚 docs: update README with setup steps
+0937. 🐛 fix: handle 500 error in quiz API
