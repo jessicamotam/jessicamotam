@@ -89493,3 +89493,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0365. 🚀 perf: reduce image load time
 0266. 🔧 refactor: remove redundant code blocks
+0617. ✨ feat: support email verification
