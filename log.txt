@@ -61271,3 +61271,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0295. 🎨 style: remove trailing whitespace
 0698. 🐛 fix: handle 500 error in quiz API
+0579. 📚 docs: clarify environment setup
