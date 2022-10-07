@@ -81316,3 +81316,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0123. ✨ feat: implement quiz timer feature
 0369. 🎨 style: standardize quote style
+0557. 🔧 refactor: clean up auth middleware
