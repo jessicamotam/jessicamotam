@@ -24783,3 +24783,4 @@
 0979. 🎨 style: standardize quote style
 0750. 🎨 style: apply consistent indentation
 0657. 🎨 style: standardize quote style
+0908. ♻️ chore: bump dependencies
