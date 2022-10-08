@@ -20547,3 +20547,4 @@
 0876. ♻️ chore: rename env.example
 0730. ✅ test: test user registration edge cases
 0094. 📚 docs: document token refresh logic
+0367. 🐛 fix: fix null pointer exception on login
