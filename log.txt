@@ -29751,3 +29751,4 @@
 0376. 🎨 style: apply consistent indentation
 0944. ✨ feat: add user authentication
 0997. ✅ test: increase coverage on auth module
+0435. ✅ test: add unit test for quiz service
