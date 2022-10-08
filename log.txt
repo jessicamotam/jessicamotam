@@ -54716,3 +54716,4 @@
 0150. 🎨 style: remove trailing whitespace
 0097. 🐛 fix: handle 500 error in quiz API
 0650. ✅ test: add unit test for quiz service
+0227. ✅ test: test user registration edge cases
