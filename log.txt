@@ -12844,3 +12844,4 @@
 0884. 📚 docs: clarify environment setup
 0100. ♻️ chore: update .gitignore
 0195. 📚 docs: clarify environment setup
+0511. 🐛 fix: fix broken CSS in mobile view
