@@ -21271,3 +21271,4 @@
 0761. ✅ test: add unit test for quiz service
 0297. 🎨 style: remove trailing whitespace
 0290. ✅ test: test user registration edge cases
+0188. 🎨 style: apply consistent indentation
