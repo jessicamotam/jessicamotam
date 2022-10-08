@@ -11361,3 +11361,4 @@
 0844. 📚 docs: update README with setup steps
 0824. 🚀 perf: lazy-load components
 0528. ♻️ chore: clean up unused files
+0641. 📚 docs: write FAQ section
