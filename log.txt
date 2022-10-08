@@ -71341,3 +71341,4 @@
 0045. 🎨 style: apply consistent indentation
 0769. ✨ feat: create admin dashboard
 0717. 🔧 refactor: refactor quiz grading logic
+0896. 🚀 perf: reduce image load time
