@@ -34965,3 +34965,4 @@
 0461. ✨ feat: add user authentication
 0217. 🚀 perf: reduce image load time
 0035. ✅ test: increase coverage on auth module
+0529. 📚 docs: write FAQ section
