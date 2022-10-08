@@ -46396,3 +46396,4 @@
 0995. ✅ test: mock database connection in test suite
 0114. ♻️ chore: update .gitignore
 0062. ♻️ chore: update .gitignore
+0110. 🐛 fix: prevent crash on empty input
