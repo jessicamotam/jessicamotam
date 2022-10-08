@@ -22388,3 +22388,4 @@
 0128. ♻️ chore: rename env.example
 0556. ✨ feat: support email verification
 0843. 📚 docs: document token refresh logic
+0053. ✅ test: increase coverage on auth module
