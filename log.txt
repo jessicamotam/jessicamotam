@@ -83404,3 +83404,4 @@
 0123. ✨ feat: implement quiz timer feature
 0793. 📚 docs: clarify environment setup
 0313. 🎨 style: apply consistent indentation
+0751. 🐛 fix: handle 500 error in quiz API
