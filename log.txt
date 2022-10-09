@@ -5730,3 +5730,4 @@
 0150. 🎨 style: remove trailing whitespace
 0044. ✅ test: add unit test for quiz service
 0814. 🔧 refactor: remove redundant code blocks
+0347. ♻️ chore: update .gitignore
