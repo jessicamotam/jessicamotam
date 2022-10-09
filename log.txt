@@ -19795,3 +19795,4 @@
 0442. 🎨 style: standardize quote style
 0434. 📚 docs: document token refresh logic
 0671. 🐛 fix: fix null pointer exception on login
+0945. ♻️ chore: add GitHub actions badge
