@@ -20341,3 +20341,4 @@
 0164. 📚 docs: document token refresh logic
 0210. 🎨 style: apply consistent indentation
 0843. 📚 docs: document token refresh logic
+0450. 🐛 fix: fix broken CSS in mobile view
