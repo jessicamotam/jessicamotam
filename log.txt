@@ -10920,3 +10920,4 @@
 0044. ✅ test: add unit test for quiz service
 0157. ✅ test: mock database connection in test suite
 0520. 🐛 fix: fix null pointer exception on login
+0185. 📚 docs: write FAQ section
