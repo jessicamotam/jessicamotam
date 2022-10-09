@@ -77758,3 +77758,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0389. 📚 docs: improve code comments in utils
 0187. ✨ feat: support email verification
+0763. 🔧 refactor: organize models into subfolders
