@@ -14478,3 +14478,4 @@
 0648. ♻️ chore: bump dependencies
 0381. ♻️ chore: clean up unused files
 0452. ✨ feat: implement quiz timer feature
+0256. ✅ test: mock database connection in test suite
