@@ -60953,3 +60953,4 @@
 0934. ✨ feat: support email verification
 0471. ✨ feat: support email verification
 0332. 🎨 style: standardize quote style
+0701. 🔧 refactor: clean up auth middleware
