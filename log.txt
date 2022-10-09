@@ -61927,3 +61927,4 @@
 0678. ✨ feat: add user authentication
 0490. ✨ feat: create admin dashboard
 0594. 🎨 style: reformat files with black
+0561. 📚 docs: write FAQ section
