@@ -73753,3 +73753,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0308. 🚀 perf: reduce image load time
 0922. 📚 docs: write FAQ section
+0433. 🐛 fix: prevent crash on empty input
