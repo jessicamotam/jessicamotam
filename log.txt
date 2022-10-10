@@ -36087,3 +36087,4 @@
 0664. ✅ test: add unit test for quiz service
 0157. ✅ test: mock database connection in test suite
 0223. 🔧 refactor: remove redundant code blocks
+0213. ✅ test: add integration test for /submit endpoint
