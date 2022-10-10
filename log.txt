@@ -8373,3 +8373,4 @@
 0187. ✨ feat: support email verification
 0319. 🐛 fix: handle 500 error in quiz API
 0890. 🔧 refactor: organize models into subfolders
+0265. 🎨 style: reformat files with black
