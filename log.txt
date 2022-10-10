@@ -23275,3 +23275,4 @@
 0802. 🔧 refactor: remove redundant code blocks
 0097. 🐛 fix: handle 500 error in quiz API
 0962. ✨ feat: create admin dashboard
+0960. ✅ test: increase coverage on auth module
