@@ -35508,3 +35508,4 @@
 0993. ✨ feat: implement quiz timer feature
 0754. 🐛 fix: handle 500 error in quiz API
 0003. ✅ test: increase coverage on auth module
+0871. ✅ test: add integration test for /submit endpoint
