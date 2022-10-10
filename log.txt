@@ -88725,3 +88725,4 @@
 0501. ✨ feat: add export to CSV option
 0011. ✅ test: add unit test for quiz service
 0412. ✅ test: increase coverage on auth module
+0651. ✨ feat: enable dark mode toggle
