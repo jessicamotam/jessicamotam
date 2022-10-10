@@ -10424,3 +10424,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0743. 🎨 style: apply consistent indentation
 0138. 🎨 style: rename variables for clarity
+0838. 🎨 style: standardize quote style
