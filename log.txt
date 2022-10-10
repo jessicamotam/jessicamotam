@@ -82937,3 +82937,4 @@
 0042. 📚 docs: document token refresh logic
 0064. 📚 docs: clarify environment setup
 0080. ✨ feat: support email verification
+0234. ♻️ chore: rename env.example
