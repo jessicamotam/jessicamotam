@@ -44041,3 +44041,4 @@
 0079. 🐛 fix: correct typo in registration form
 0162. ♻️ chore: add GitHub actions badge
 0529. 📚 docs: write FAQ section
+0345. 📚 docs: document token refresh logic
