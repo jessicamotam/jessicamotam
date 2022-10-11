@@ -31297,3 +31297,4 @@
 0029. 🚀 perf: lazy-load components
 0135. ✅ test: test user registration edge cases
 0059. ♻️ chore: bump dependencies
+0243. 🔧 refactor: clean up auth middleware
