@@ -56439,3 +56439,4 @@
 0852. ✨ feat: enable dark mode toggle
 0709. ♻️ chore: bump dependencies
 0893. 🐛 fix: handle 500 error in quiz API
+0665. ♻️ chore: update .gitignore
