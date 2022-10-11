@@ -8635,3 +8635,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0358. 🚀 perf: reduce image load time
 0791. 🔧 refactor: clean up auth middleware
+0346. ✅ test: mock database connection in test suite
