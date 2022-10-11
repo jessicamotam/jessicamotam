@@ -83116,3 +83116,4 @@
 0161. ✨ feat: create admin dashboard
 0588. 🔧 refactor: organize models into subfolders
 0878. 🔧 refactor: split large controller into smaller functions
+0113. ✨ feat: add user authentication
