@@ -20070,3 +20070,4 @@
 0462. ♻️ chore: update .gitignore
 0352. ✨ feat: add export to CSV option
 0177. 📚 docs: add API usage examples
+0013. ✅ test: increase coverage on auth module
