@@ -88954,3 +88954,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0200. 🐛 fix: handle 500 error in quiz API
 0074. ♻️ chore: add GitHub actions badge
+0433. 🐛 fix: prevent crash on empty input
