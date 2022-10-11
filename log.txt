@@ -27695,3 +27695,4 @@
 0962. ✨ feat: create admin dashboard
 0025. 🚀 perf: optimize database query for quiz results
 0778. 📚 docs: write FAQ section
+0805. ♻️ chore: add GitHub actions badge
