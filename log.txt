@@ -49461,3 +49461,4 @@
 0928. 🎨 style: apply consistent indentation
 0403. ✅ test: mock database connection in test suite
 0929. ✨ feat: support email verification
+0128. ♻️ chore: rename env.example
