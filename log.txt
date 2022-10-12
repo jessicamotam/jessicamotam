@@ -89575,3 +89575,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0671. 🐛 fix: fix null pointer exception on login
 0825. 🔧 refactor: split large controller into smaller functions
+0813. 🔧 refactor: organize models into subfolders
