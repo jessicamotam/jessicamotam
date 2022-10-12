@@ -84787,3 +84787,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0451. ✨ feat: support email verification
 0268. 🐛 fix: prevent crash on empty input
+0877. 🚀 perf: optimize database query for quiz results
