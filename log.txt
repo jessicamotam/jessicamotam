@@ -85751,3 +85751,4 @@
 0518. ✨ feat: support email verification
 0360. ✨ feat: add export to CSV option
 0266. 🔧 refactor: remove redundant code blocks
+0636. ✅ test: increase coverage on auth module
