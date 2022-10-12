@@ -81833,3 +81833,4 @@
 0249. ✅ test: increase coverage on auth module
 0338. ♻️ chore: add GitHub actions badge
 0335. ♻️ chore: update .gitignore
+0833. ✨ feat: add user authentication
