@@ -41561,3 +41561,4 @@
 0990. ♻️ chore: rename env.example
 0362. 📚 docs: add API usage examples
 0339. 📚 docs: update README with setup steps
+0306. 🎨 style: apply consistent indentation
