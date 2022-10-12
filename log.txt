@@ -38286,3 +38286,4 @@
 0861. ♻️ chore: clean up unused files
 0042. 📚 docs: document token refresh logic
 0001. 🚀 perf: cache repeated calculations
+0978. 🐛 fix: prevent crash on empty input
