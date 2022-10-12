@@ -44227,3 +44227,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0590. 🐛 fix: fix null pointer exception on login
 0581. ✅ test: add integration test for /submit endpoint
+0672. 🐛 fix: fix broken CSS in mobile view
