@@ -5155,3 +5155,4 @@
 0583. ✅ test: increase coverage on auth module
 0712. 🎨 style: apply consistent indentation
 0727. ♻️ chore: add GitHub actions badge
+0502. 📚 docs: update README with setup steps
