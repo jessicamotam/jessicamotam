@@ -57896,3 +57896,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0749. ✨ feat: support email verification
 0492. 🎨 style: remove trailing whitespace
+0301. 🎨 style: apply consistent indentation
