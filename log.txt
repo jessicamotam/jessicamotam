@@ -16294,3 +16294,4 @@
 0670. ✨ feat: add export to CSV option
 0395. 📚 docs: write FAQ section
 0470. 🎨 style: remove trailing whitespace
+0239. 🎨 style: standardize quote style
