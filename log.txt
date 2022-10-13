@@ -26611,3 +26611,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0275. 🎨 style: standardize quote style
 0950. 🎨 style: reformat files with black
+0953. 🎨 style: remove trailing whitespace
