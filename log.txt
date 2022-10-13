@@ -561,3 +561,4 @@
 0185. 📚 docs: write FAQ section
 0982. 🚀 perf: lazy-load components
 0618. ✨ feat: support email verification
+0591. ♻️ chore: clean up unused files
