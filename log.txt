@@ -89494,3 +89494,4 @@
 0365. 🚀 perf: reduce image load time
 0266. 🔧 refactor: remove redundant code blocks
 0617. ✨ feat: support email verification
+0997. ✅ test: increase coverage on auth module
