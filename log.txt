@@ -51635,3 +51635,4 @@
 0492. 🎨 style: remove trailing whitespace
 0901. ✨ feat: add user authentication
 0605. ✨ feat: support email verification
+0472. 🐛 fix: fix null pointer exception on login
