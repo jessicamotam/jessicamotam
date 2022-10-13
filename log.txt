@@ -50025,3 +50025,4 @@
 0855. 🎨 style: reformat files with black
 0793. 📚 docs: clarify environment setup
 0762. 🚀 perf: lazy-load components
+0566. 📚 docs: write FAQ section
