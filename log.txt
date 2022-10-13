@@ -9736,3 +9736,4 @@
 0582. ✨ feat: add export to CSV option
 0813. 🔧 refactor: organize models into subfolders
 0965. 🎨 style: reformat files with black
+0781. 🚀 perf: reduce image load time
