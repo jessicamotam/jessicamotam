@@ -65384,3 +65384,4 @@
 0197. 📚 docs: update README with setup steps
 0987. ✨ feat: create admin dashboard
 0277. 🎨 style: standardize quote style
+0778. 📚 docs: write FAQ section
