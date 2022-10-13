@@ -27950,3 +27950,4 @@
 0290. ✅ test: test user registration edge cases
 0895. ✨ feat: support email verification
 0775. 🐛 fix: fix null pointer exception on login
+0224. 🐛 fix: fix broken CSS in mobile view
