@@ -40199,3 +40199,4 @@
 0556. ✨ feat: support email verification
 0438. ♻️ chore: bump dependencies
 0369. 🎨 style: standardize quote style
+0856. 🐛 fix: fix null pointer exception on login
