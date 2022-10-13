@@ -80424,3 +80424,4 @@
 0770. ♻️ chore: rename env.example
 0953. 🎨 style: remove trailing whitespace
 0928. 🎨 style: apply consistent indentation
+0207. 🐛 fix: prevent crash on empty input
