@@ -49434,3 +49434,4 @@
 0008. 🚀 perf: reduce image load time
 0339. 📚 docs: update README with setup steps
 0249. ✅ test: increase coverage on auth module
+0623. 🎨 style: standardize quote style
