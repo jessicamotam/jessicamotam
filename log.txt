@@ -56795,3 +56795,4 @@
 0844. 📚 docs: update README with setup steps
 0304. 🔧 refactor: remove redundant code blocks
 0164. 📚 docs: document token refresh logic
+0710. 🐛 fix: fix broken CSS in mobile view
