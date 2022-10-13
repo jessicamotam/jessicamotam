@@ -8949,3 +8949,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0648. ♻️ chore: bump dependencies
 0872. 🎨 style: rename variables for clarity
+0693. 📚 docs: add API usage examples
