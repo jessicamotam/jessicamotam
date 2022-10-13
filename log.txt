@@ -89916,3 +89916,4 @@
 0657. 🎨 style: standardize quote style
 0146. 🎨 style: apply consistent indentation
 0028. 🎨 style: standardize quote style
+0911. ✅ test: increase coverage on auth module
