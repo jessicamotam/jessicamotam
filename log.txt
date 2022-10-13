@@ -50865,3 +50865,4 @@
 0526. ✨ feat: add user authentication
 0093. ✅ test: add unit test for quiz service
 0591. ♻️ chore: clean up unused files
+0186. ✅ test: test user registration edge cases
