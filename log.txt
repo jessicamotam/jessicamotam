@@ -55102,3 +55102,4 @@
 0580. ♻️ chore: bump dependencies
 0451. ✨ feat: support email verification
 0289. 🐛 fix: resolve issue with date parsing
+0565. ♻️ chore: add GitHub actions badge
