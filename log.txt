@@ -45043,3 +45043,4 @@
 0141. 📚 docs: document token refresh logic
 0851. ✅ test: mock database connection in test suite
 0301. 🎨 style: apply consistent indentation
+0459. 🔧 refactor: organize models into subfolders
