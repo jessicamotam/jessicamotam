@@ -29566,3 +29566,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0826. 📚 docs: clarify environment setup
 0452. ✨ feat: implement quiz timer feature
+0565. ♻️ chore: add GitHub actions badge
