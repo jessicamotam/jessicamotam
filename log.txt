@@ -15135,3 +15135,4 @@
 0487. 🎨 style: reformat files with black
 0851. ✅ test: mock database connection in test suite
 0542. 🔧 refactor: organize models into subfolders
+0834. ✅ test: increase coverage on auth module
