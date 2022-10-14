@@ -83292,3 +83292,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0125. ✅ test: add integration test for /submit endpoint
 0873. 🚀 perf: cache repeated calculations
+0880. 🐛 fix: fix broken CSS in mobile view
