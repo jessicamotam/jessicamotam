@@ -53348,3 +53348,4 @@
 0591. ♻️ chore: clean up unused files
 0122. ✨ feat: support email verification
 0293. ✅ test: add integration test for /submit endpoint
+0742. 📚 docs: clarify environment setup
