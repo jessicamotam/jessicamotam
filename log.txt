@@ -17497,3 +17497,4 @@
 0456. 🚀 perf: optimize database query for quiz results
 0127. 🐛 fix: fix null pointer exception on login
 0279. ✨ feat: support email verification
+0187. ✨ feat: support email verification
