@@ -34024,3 +34024,4 @@
 0631. ✨ feat: create admin dashboard
 0625. 🐛 fix: handle 500 error in quiz API
 0628. ♻️ chore: add GitHub actions badge
+0121. ✨ feat: support email verification
