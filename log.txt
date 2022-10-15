@@ -11609,3 +11609,4 @@
 0116. ✨ feat: support email verification
 0443. 🎨 style: standardize quote style
 0920. 🔧 refactor: organize models into subfolders
+0839. 🎨 style: apply consistent indentation
