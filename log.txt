@@ -16790,3 +16790,4 @@
 0135. ✅ test: test user registration edge cases
 0646. ✅ test: test user registration edge cases
 0509. ♻️ chore: bump dependencies
+0021. ✨ feat: support email verification
