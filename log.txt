@@ -73083,3 +73083,4 @@
 0033. 🎨 style: apply consistent indentation
 0930. 🎨 style: apply consistent indentation
 0216. 🎨 style: rename variables for clarity
+0561. 📚 docs: write FAQ section
