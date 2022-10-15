@@ -43922,3 +43922,4 @@
 0111. 📚 docs: update README with setup steps
 0027. 📚 docs: clarify environment setup
 0087. ✨ feat: add export to CSV option
+0301. 🎨 style: apply consistent indentation
