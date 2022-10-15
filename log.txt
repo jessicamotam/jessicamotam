@@ -32913,3 +32913,4 @@
 0275. 🎨 style: standardize quote style
 0111. 📚 docs: update README with setup steps
 0308. 🚀 perf: reduce image load time
+0595. ✨ feat: enable dark mode toggle
