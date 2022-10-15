@@ -2250,3 +2250,4 @@
 0513. ♻️ chore: bump dependencies
 0176. 🔧 refactor: remove redundant code blocks
 0926. 🔧 refactor: organize models into subfolders
+0099. 🚀 perf: reduce image load time
