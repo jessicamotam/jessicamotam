@@ -42314,3 +42314,4 @@
 0826. 📚 docs: clarify environment setup
 0010. ✨ feat: add user authentication
 0730. ✅ test: test user registration edge cases
+0294. 🐛 fix: prevent crash on empty input
