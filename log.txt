@@ -24214,3 +24214,4 @@
 0595. ✨ feat: enable dark mode toggle
 0666. 🐛 fix: fix broken CSS in mobile view
 0944. ✨ feat: add user authentication
+0848. 📚 docs: update README with setup steps
