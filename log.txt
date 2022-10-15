@@ -46262,3 +46262,4 @@
 0298. ♻️ chore: update .gitignore
 0653. 🐛 fix: prevent crash on empty input
 0772. 🐛 fix: fix null pointer exception on login
+0307. ✨ feat: support email verification
