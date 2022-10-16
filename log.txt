@@ -63923,3 +63923,4 @@
 0528. ♻️ chore: clean up unused files
 0003. ✅ test: increase coverage on auth module
 0735. ♻️ chore: add GitHub actions badge
+0923. ✨ feat: support email verification
