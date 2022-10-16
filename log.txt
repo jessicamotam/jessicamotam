@@ -73569,3 +73569,4 @@
 0905. ♻️ chore: bump dependencies
 0636. ✅ test: increase coverage on auth module
 0748. 🚀 perf: optimize database query for quiz results
+0686. 🎨 style: standardize quote style
