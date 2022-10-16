@@ -4452,3 +4452,4 @@
 0634. 🎨 style: reformat files with black
 0968. 🎨 style: standardize quote style
 0798. 🚀 perf: reduce image load time
+0776. ✅ test: add integration test for /submit endpoint
