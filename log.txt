@@ -73962,3 +73962,4 @@
 0169. 📚 docs: add API usage examples
 0353. ♻️ chore: rename env.example
 0828. ♻️ chore: add GitHub actions badge
+0336. ✨ feat: add export to CSV option
