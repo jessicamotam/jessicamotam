@@ -75851,3 +75851,4 @@
 0729. 🔧 refactor: refactor quiz grading logic
 0571. 🔧 refactor: clean up auth middleware
 0825. 🔧 refactor: split large controller into smaller functions
+0963. 🚀 perf: reduce image load time
