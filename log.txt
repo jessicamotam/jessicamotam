@@ -81244,3 +81244,4 @@
 0702. ✨ feat: add user authentication
 0213. ✅ test: add integration test for /submit endpoint
 0324. 📚 docs: document token refresh logic
+0747. 🔧 refactor: clean up auth middleware
