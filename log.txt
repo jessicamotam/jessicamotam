@@ -63864,3 +63864,4 @@
 0413. ✅ test: add integration test for /submit endpoint
 0159. 🚀 perf: lazy-load components
 0731. 🎨 style: standardize quote style
+0584. 🚀 perf: lazy-load components
