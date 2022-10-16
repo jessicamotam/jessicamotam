@@ -6161,3 +6161,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0983. 🔧 refactor: split large controller into smaller functions
 0516. ✅ test: add unit test for quiz service
+0383. 🐛 fix: fix broken CSS in mobile view
