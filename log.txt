@@ -10487,3 +10487,4 @@
 0221. ✨ feat: add user authentication
 0283. ♻️ chore: add GitHub actions badge
 0728. 🔧 refactor: split large controller into smaller functions
+0079. 🐛 fix: correct typo in registration form
