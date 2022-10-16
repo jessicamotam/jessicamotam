@@ -68354,3 +68354,4 @@
 0388. 🎨 style: reformat files with black
 0710. 🐛 fix: fix broken CSS in mobile view
 0711. 🐛 fix: fix broken CSS in mobile view
+0111. 📚 docs: update README with setup steps
