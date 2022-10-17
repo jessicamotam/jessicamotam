@@ -49489,3 +49489,4 @@
 0731. 🎨 style: standardize quote style
 0604. 📚 docs: add API usage examples
 0776. ✅ test: add integration test for /submit endpoint
+0024. 📚 docs: write FAQ section
