@@ -40682,3 +40682,4 @@
 0403. ✅ test: mock database connection in test suite
 0680. ♻️ chore: add GitHub actions badge
 0494. 🎨 style: rename variables for clarity
+0203. 🚀 perf: lazy-load components
