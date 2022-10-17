@@ -10027,3 +10027,4 @@
 0443. 🎨 style: standardize quote style
 0910. 🎨 style: remove trailing whitespace
 0620. ✨ feat: implement quiz timer feature
+0159. 🚀 perf: lazy-load components
