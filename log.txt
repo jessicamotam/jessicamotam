@@ -1591,3 +1591,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0288. 🔧 refactor: refactor quiz grading logic
 0893. 🐛 fix: handle 500 error in quiz API
+0690. 🚀 perf: lazy-load components
