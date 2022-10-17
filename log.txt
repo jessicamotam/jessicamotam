@@ -2112,3 +2112,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0895. ✨ feat: support email verification
 0260. ✨ feat: create admin dashboard
+0998. 🐛 fix: fix null pointer exception on login
