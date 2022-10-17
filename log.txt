@@ -76830,3 +76830,4 @@
 0517. ✅ test: mock database connection in test suite
 0164. 📚 docs: document token refresh logic
 0963. 🚀 perf: reduce image load time
+0543. ✨ feat: support email verification
