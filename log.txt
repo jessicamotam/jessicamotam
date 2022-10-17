@@ -29000,3 +29000,4 @@
 0764. ✨ feat: add user authentication
 0751. 🐛 fix: handle 500 error in quiz API
 0570. 🎨 style: apply consistent indentation
+0222. 🐛 fix: handle 500 error in quiz API
