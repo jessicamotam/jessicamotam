@@ -69145,3 +69145,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0124. 🎨 style: reformat files with black
 0851. ✅ test: mock database connection in test suite
+0027. 📚 docs: clarify environment setup
