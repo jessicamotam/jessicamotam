@@ -3172,3 +3172,4 @@
 0449. ✅ test: add unit test for quiz service
 0767. 🔧 refactor: remove redundant code blocks
 0727. ♻️ chore: add GitHub actions badge
+0387. ✨ feat: enable dark mode toggle
