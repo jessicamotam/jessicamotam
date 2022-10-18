@@ -28023,3 +28023,4 @@
 0895. ✨ feat: support email verification
 0866. 📚 docs: add API usage examples
 0825. 🔧 refactor: split large controller into smaller functions
+0392. 🎨 style: remove trailing whitespace
