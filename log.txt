@@ -23962,3 +23962,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0314. ✨ feat: implement quiz timer feature
 0215. 🎨 style: reformat files with black
+0733. 🐛 fix: fix null pointer exception on login
