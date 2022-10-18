@@ -15715,3 +15715,4 @@
 0770. ♻️ chore: rename env.example
 0280. ✅ test: add integration test for /submit endpoint
 0503. ♻️ chore: rename env.example
+0590. 🐛 fix: fix null pointer exception on login
