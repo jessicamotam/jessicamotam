@@ -68204,3 +68204,4 @@
 0882. 🚀 perf: optimize database query for quiz results
 0512. 🚀 perf: reduce image load time
 0395. 📚 docs: write FAQ section
+0698. 🐛 fix: handle 500 error in quiz API
