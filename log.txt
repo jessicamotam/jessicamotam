@@ -66183,3 +66183,4 @@
 0157. ✅ test: mock database connection in test suite
 0354. 📚 docs: add API usage examples
 0833. ✨ feat: add user authentication
+0923. ✨ feat: support email verification
