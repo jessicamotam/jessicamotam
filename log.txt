@@ -36077,3 +36077,4 @@
 0314. ✨ feat: implement quiz timer feature
 0698. 🐛 fix: handle 500 error in quiz API
 0227. ✅ test: test user registration edge cases
+0037. 🐛 fix: correct typo in registration form
