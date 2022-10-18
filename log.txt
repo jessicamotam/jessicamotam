@@ -74916,3 +74916,4 @@
 0234. ♻️ chore: rename env.example
 0950. 🎨 style: reformat files with black
 0826. 📚 docs: clarify environment setup
+0400. 🐛 fix: fix null pointer exception on login
