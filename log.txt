@@ -46600,3 +46600,4 @@
 0665. ♻️ chore: update .gitignore
 0056. ♻️ chore: rename env.example
 0112. ✨ feat: enable dark mode toggle
+0378. 🐛 fix: prevent crash on empty input
