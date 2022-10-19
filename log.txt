@@ -5896,3 +5896,4 @@
 0916. ♻️ chore: bump dependencies
 0574. ✨ feat: enable dark mode toggle
 0431. 🎨 style: reformat files with black
+0706. ✨ feat: support email verification
