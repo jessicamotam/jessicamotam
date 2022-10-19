@@ -56506,3 +56506,4 @@
 0649. 📚 docs: update README with setup steps
 0815. 🔧 refactor: split large controller into smaller functions
 0751. 🐛 fix: handle 500 error in quiz API
+0833. ✨ feat: add user authentication
