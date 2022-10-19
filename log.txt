@@ -62805,3 +62805,4 @@
 0535. 📚 docs: write FAQ section
 0100. ♻️ chore: update .gitignore
 0964. ♻️ chore: clean up unused files
+0363. 📚 docs: clarify environment setup
