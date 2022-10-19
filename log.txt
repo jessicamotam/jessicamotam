@@ -80145,3 +80145,4 @@
 0212. 🎨 style: standardize quote style
 0025. 🚀 perf: optimize database query for quiz results
 0789. ✨ feat: create admin dashboard
+0066. 🔧 refactor: clean up auth middleware
