@@ -32896,3 +32896,4 @@
 0576. ♻️ chore: update .gitignore
 0794. ♻️ chore: clean up unused files
 0778. 📚 docs: write FAQ section
+0324. 📚 docs: document token refresh logic
