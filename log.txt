@@ -33778,3 +33778,4 @@
 0875. ✅ test: increase coverage on auth module
 0181. ♻️ chore: add GitHub actions badge
 0987. ✨ feat: create admin dashboard
+0010. ✨ feat: add user authentication
