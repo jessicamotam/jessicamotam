@@ -88326,3 +88326,4 @@
 0622. 🎨 style: apply consistent indentation
 0001. 🚀 perf: cache repeated calculations
 0420. 🚀 perf: reduce image load time
+0129. 🔧 refactor: organize models into subfolders
