@@ -25876,3 +25876,4 @@
 0269. ✅ test: test user registration edge cases
 0798. 🚀 perf: reduce image load time
 0108. 🎨 style: remove trailing whitespace
+0323. 📚 docs: clarify environment setup
