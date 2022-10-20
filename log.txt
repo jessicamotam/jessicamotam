@@ -36644,3 +36644,4 @@
 0166. 🚀 perf: cache repeated calculations
 0399. ✅ test: mock database connection in test suite
 0171. 🐛 fix: fix broken CSS in mobile view
+0042. 📚 docs: document token refresh logic
