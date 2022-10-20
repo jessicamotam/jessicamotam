@@ -60479,3 +60479,4 @@
 0100. ♻️ chore: update .gitignore
 0502. 📚 docs: update README with setup steps
 0083. 🎨 style: reformat files with black
+0280. ✅ test: add integration test for /submit endpoint
