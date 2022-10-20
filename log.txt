@@ -31992,3 +31992,4 @@
 0597. 🚀 perf: cache repeated calculations
 0120. ✅ test: add integration test for /submit endpoint
 0195. 📚 docs: clarify environment setup
+0981. 🚀 perf: lazy-load components
