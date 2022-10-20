@@ -62459,3 +62459,4 @@
 0667. ✨ feat: add export to CSV option
 0828. ♻️ chore: add GitHub actions badge
 0483. 📚 docs: update README with setup steps
+0862. ♻️ chore: bump dependencies
