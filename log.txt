@@ -1693,3 +1693,4 @@
 0596. ♻️ chore: update .gitignore
 0886. ♻️ chore: clean up unused files
 0452. ✨ feat: implement quiz timer feature
+0109. 🚀 perf: lazy-load components
