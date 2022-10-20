@@ -77218,3 +77218,4 @@
 0712. 🎨 style: apply consistent indentation
 0248. 🐛 fix: handle 500 error in quiz API
 0650. ✅ test: add unit test for quiz service
+0882. 🚀 perf: optimize database query for quiz results
