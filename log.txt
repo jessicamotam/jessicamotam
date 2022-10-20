@@ -82569,3 +82569,4 @@
 0329. 📚 docs: update README with setup steps
 0219. ✅ test: increase coverage on auth module
 0274. 🔧 refactor: refactor quiz grading logic
+0293. ✅ test: add integration test for /submit endpoint
