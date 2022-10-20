@@ -38184,3 +38184,4 @@
 0766. 🎨 style: reformat files with black
 0510. 🎨 style: rename variables for clarity
 0625. 🐛 fix: handle 500 error in quiz API
+0497. 🔧 refactor: refactor quiz grading logic
