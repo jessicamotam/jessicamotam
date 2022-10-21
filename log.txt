@@ -90254,3 +90254,4 @@
 0360. ✨ feat: add export to CSV option
 0702. ✨ feat: add user authentication
 0540. ♻️ chore: add GitHub actions badge
+0996. ✅ test: test user registration edge cases
