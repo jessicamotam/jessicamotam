@@ -54954,3 +54954,4 @@
 0273. 🚀 perf: reduce image load time
 0726. ✨ feat: enable dark mode toggle
 0165. 🎨 style: remove trailing whitespace
+0203. 🚀 perf: lazy-load components
