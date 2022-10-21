@@ -77291,3 +77291,4 @@
 0977. 🔧 refactor: organize models into subfolders
 0770. ♻️ chore: rename env.example
 0447. ♻️ chore: bump dependencies
+0860. 🔧 refactor: organize models into subfolders
