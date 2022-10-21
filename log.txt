@@ -76777,3 +76777,4 @@
 0182. 🔧 refactor: remove redundant code blocks
 0450. 🐛 fix: fix broken CSS in mobile view
 0339. 📚 docs: update README with setup steps
+0231. 🔧 refactor: clean up auth middleware
