@@ -5249,3 +5249,4 @@
 0021. ✨ feat: support email verification
 0952. 🔧 refactor: split large controller into smaller functions
 0492. 🎨 style: remove trailing whitespace
+0222. 🐛 fix: handle 500 error in quiz API
