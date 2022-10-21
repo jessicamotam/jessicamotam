@@ -39167,3 +39167,4 @@
 0490. ✨ feat: create admin dashboard
 0964. ♻️ chore: clean up unused files
 0775. 🐛 fix: fix null pointer exception on login
+0416. 🎨 style: rename variables for clarity
