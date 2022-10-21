@@ -14820,3 +14820,4 @@
 0796. 🔧 refactor: refactor quiz grading logic
 0623. 🎨 style: standardize quote style
 0628. ♻️ chore: add GitHub actions badge
+0923. ✨ feat: support email verification
