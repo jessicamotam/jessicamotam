@@ -18804,3 +18804,4 @@
 0471. ✨ feat: support email verification
 0321. 🔧 refactor: organize models into subfolders
 0736. 🐛 fix: fix null pointer exception on login
+0091. ✨ feat: add user authentication
