@@ -83084,3 +83084,4 @@
 0859. ✨ feat: create admin dashboard
 0287. 📚 docs: write FAQ section
 0212. 🎨 style: standardize quote style
+0743. 🎨 style: apply consistent indentation
