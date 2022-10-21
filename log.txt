@@ -70176,3 +70176,4 @@
 0789. ✨ feat: create admin dashboard
 0128. ♻️ chore: rename env.example
 0718. 🐛 fix: resolve issue with date parsing
+0121. ✨ feat: support email verification
