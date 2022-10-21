@@ -65305,3 +65305,4 @@
 0584. 🚀 perf: lazy-load components
 0209. ✨ feat: implement quiz timer feature
 0182. 🔧 refactor: remove redundant code blocks
+0287. 📚 docs: write FAQ section
