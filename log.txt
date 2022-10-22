@@ -81640,3 +81640,4 @@
 0168. ✅ test: add integration test for /submit endpoint
 0071. 🔧 refactor: refactor quiz grading logic
 0339. 📚 docs: update README with setup steps
+0571. 🔧 refactor: clean up auth middleware
