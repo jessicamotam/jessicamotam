@@ -67595,3 +67595,4 @@
 0758. 🚀 perf: optimize database query for quiz results
 0013. ✅ test: increase coverage on auth module
 0349. ✅ test: increase coverage on auth module
+0049. 🐛 fix: handle 500 error in quiz API
