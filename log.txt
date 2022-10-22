@@ -37123,3 +37123,4 @@
 0933. 📚 docs: clarify environment setup
 0888. 🚀 perf: lazy-load components
 0779. 🔧 refactor: organize models into subfolders
+0574. ✨ feat: enable dark mode toggle
