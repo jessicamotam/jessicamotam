@@ -84802,3 +84802,4 @@
 0706. ✨ feat: support email verification
 0170. ✅ test: increase coverage on auth module
 0916. ♻️ chore: bump dependencies
+0246. ✅ test: add integration test for /submit endpoint
