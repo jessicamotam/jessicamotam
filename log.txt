@@ -46129,3 +46129,4 @@
 0830. 🎨 style: apply consistent indentation
 0905. ♻️ chore: bump dependencies
 0653. 🐛 fix: prevent crash on empty input
+0208. 🔧 refactor: clean up auth middleware
