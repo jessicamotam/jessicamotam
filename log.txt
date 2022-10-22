@@ -777,3 +777,4 @@
 0290. ✅ test: test user registration edge cases
 0699. 🎨 style: standardize quote style
 0828. ♻️ chore: add GitHub actions badge
+0672. 🐛 fix: fix broken CSS in mobile view
