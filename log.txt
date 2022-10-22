@@ -44129,3 +44129,4 @@
 0660. 🐛 fix: correct typo in registration form
 0469. 🚀 perf: lazy-load components
 0868. ✅ test: add unit test for quiz service
+0472. 🐛 fix: fix null pointer exception on login
