@@ -76765,3 +76765,4 @@
 0766. 🎨 style: reformat files with black
 0045. 🎨 style: apply consistent indentation
 0754. 🐛 fix: handle 500 error in quiz API
+0880. 🐛 fix: fix broken CSS in mobile view
