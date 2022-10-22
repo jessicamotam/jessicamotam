@@ -30154,3 +30154,4 @@
 0561. 📚 docs: write FAQ section
 0547. 📚 docs: write FAQ section
 0933. 📚 docs: clarify environment setup
+0727. ♻️ chore: add GitHub actions badge
