@@ -40378,3 +40378,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0325. 🎨 style: rename variables for clarity
 0686. 🎨 style: standardize quote style
+0733. 🐛 fix: fix null pointer exception on login
