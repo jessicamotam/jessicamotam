@@ -46260,3 +46260,4 @@
 0885. ♻️ chore: update .gitignore
 0822. 🔧 refactor: remove redundant code blocks
 0298. ♻️ chore: update .gitignore
+0653. 🐛 fix: prevent crash on empty input
