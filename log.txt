@@ -79404,3 +79404,4 @@
 0667. ✨ feat: add export to CSV option
 0327. 🔧 refactor: split large controller into smaller functions
 0233. 🚀 perf: lazy-load components
+0875. ✅ test: increase coverage on auth module
