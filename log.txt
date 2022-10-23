@@ -52491,3 +52491,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0137. 🎨 style: rename variables for clarity
 0021. ✨ feat: support email verification
+0998. 🐛 fix: fix null pointer exception on login
