@@ -64394,3 +64394,4 @@
 0847. ♻️ chore: clean up unused files
 0702. ✨ feat: add user authentication
 0358. 🚀 perf: reduce image load time
+0682. ♻️ chore: rename env.example
