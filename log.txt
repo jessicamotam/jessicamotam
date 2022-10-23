@@ -10613,3 +10613,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0495. 🔧 refactor: remove redundant code blocks
 0097. 🐛 fix: handle 500 error in quiz API
+0553. 🐛 fix: correct typo in registration form
