@@ -39948,3 +39948,4 @@
 0098. 🎨 style: rename variables for clarity
 0916. ♻️ chore: bump dependencies
 0488. ♻️ chore: add GitHub actions badge
+0048. 📚 docs: update README with setup steps
