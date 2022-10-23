@@ -85906,3 +85906,4 @@
 0797. 📚 docs: add API usage examples
 0317. ✅ test: test user registration edge cases
 0053. ✅ test: increase coverage on auth module
+0504. 📚 docs: document token refresh logic
