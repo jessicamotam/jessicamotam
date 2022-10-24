@@ -39817,3 +39817,4 @@
 0640. ♻️ chore: bump dependencies
 0915. 🚀 perf: cache repeated calculations
 0158. 📚 docs: clarify environment setup
+0205. 📚 docs: update README with setup steps
