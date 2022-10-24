@@ -14559,3 +14559,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0658. 🎨 style: rename variables for clarity
 0604. 📚 docs: add API usage examples
+0503. ♻️ chore: rename env.example
