@@ -66548,3 +66548,4 @@
 0650. ✅ test: add unit test for quiz service
 0144. ✅ test: increase coverage on auth module
 0792. 🎨 style: standardize quote style
+0112. ✨ feat: enable dark mode toggle
