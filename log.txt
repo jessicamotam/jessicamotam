@@ -12878,3 +12878,4 @@
 0643. 🎨 style: apply consistent indentation
 0618. ✨ feat: support email verification
 0068. 🐛 fix: fix null pointer exception on login
+0127. 🐛 fix: fix null pointer exception on login
