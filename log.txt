@@ -4324,3 +4324,4 @@
 0381. ♻️ chore: clean up unused files
 0542. 🔧 refactor: organize models into subfolders
 0758. 🚀 perf: optimize database query for quiz results
+1000. ✅ test: increase coverage on auth module
