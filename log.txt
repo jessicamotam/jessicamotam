@@ -16964,3 +16964,4 @@
 0105. 🐛 fix: correct typo in registration form
 0948. 🐛 fix: fix broken CSS in mobile view
 0892. ✅ test: add unit test for quiz service
+0059. ♻️ chore: bump dependencies
