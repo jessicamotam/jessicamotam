@@ -74040,3 +74040,4 @@
 0776. ✅ test: add integration test for /submit endpoint
 0819. 🚀 perf: reduce image load time
 0719. 🎨 style: apply consistent indentation
+0111. 📚 docs: update README with setup steps
