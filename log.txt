@@ -65375,3 +65375,4 @@
 0591. ♻️ chore: clean up unused files
 0950. 🎨 style: reformat files with black
 0618. ✨ feat: support email verification
+0666. 🐛 fix: fix broken CSS in mobile view
