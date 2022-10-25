@@ -29944,3 +29944,4 @@
 0918. ✨ feat: enable dark mode toggle
 0197. 📚 docs: update README with setup steps
 0969. ✨ feat: create admin dashboard
+0167. 🚀 perf: reduce image load time
