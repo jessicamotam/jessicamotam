@@ -31377,3 +31377,4 @@
 0555. ✨ feat: create admin dashboard
 0400. 🐛 fix: fix null pointer exception on login
 0815. 🔧 refactor: split large controller into smaller functions
+0996. ✅ test: test user registration edge cases
