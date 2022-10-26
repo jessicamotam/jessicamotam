@@ -8543,3 +8543,4 @@
 0469. 🚀 perf: lazy-load components
 0656. 🎨 style: apply consistent indentation
 0641. 📚 docs: write FAQ section
+0613. 🐛 fix: prevent crash on empty input
