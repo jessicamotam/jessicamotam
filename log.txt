@@ -29919,3 +29919,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0775. 🐛 fix: fix null pointer exception on login
 0144. ✅ test: increase coverage on auth module
+0944. ✨ feat: add user authentication
