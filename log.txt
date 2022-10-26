@@ -78408,3 +78408,4 @@
 0608. 🔧 refactor: remove redundant code blocks
 0093. ✅ test: add unit test for quiz service
 0124. 🎨 style: reformat files with black
+0690. 🚀 perf: lazy-load components
