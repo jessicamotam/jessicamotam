@@ -49048,3 +49048,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0779. 🔧 refactor: organize models into subfolders
 0997. ✅ test: increase coverage on auth module
+0025. 🚀 perf: optimize database query for quiz results
