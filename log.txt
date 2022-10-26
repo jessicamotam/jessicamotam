@@ -32958,3 +32958,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 0555. ✨ feat: create admin dashboard
 0426. ✅ test: add integration test for /submit endpoint
+0151. ✅ test: add unit test for quiz service
