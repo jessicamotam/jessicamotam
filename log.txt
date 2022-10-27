@@ -15748,3 +15748,4 @@
 0572. ✨ feat: add user authentication
 0959. 🐛 fix: fix null pointer exception on login
 0086. 🐛 fix: correct typo in registration form
+0013. ✅ test: increase coverage on auth module
