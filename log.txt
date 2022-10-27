@@ -70334,3 +70334,4 @@
 0317. ✅ test: test user registration edge cases
 0873. 🚀 perf: cache repeated calculations
 0981. 🚀 perf: lazy-load components
+0627. 📚 docs: document token refresh logic
