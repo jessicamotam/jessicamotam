@@ -39393,3 +39393,4 @@
 0934. ✨ feat: support email verification
 0301. 🎨 style: apply consistent indentation
 0627. 📚 docs: document token refresh logic
+0375. 🐛 fix: handle 500 error in quiz API
