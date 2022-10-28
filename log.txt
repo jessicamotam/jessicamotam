@@ -85895,3 +85895,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0691. 🎨 style: rename variables for clarity
 0349. ✅ test: increase coverage on auth module
+0440. 📚 docs: update README with setup steps
