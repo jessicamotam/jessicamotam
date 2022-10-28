@@ -1878,3 +1878,4 @@
 0320. 📚 docs: update README with setup steps
 0640. ♻️ chore: bump dependencies
 0176. 🔧 refactor: remove redundant code blocks
+0230. ✨ feat: create admin dashboard
