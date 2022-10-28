@@ -37308,3 +37308,4 @@
 0473. 📚 docs: write FAQ section
 0218. 🔧 refactor: clean up auth middleware
 0455. ♻️ chore: clean up unused files
+0653. 🐛 fix: prevent crash on empty input
