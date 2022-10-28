@@ -20780,3 +20780,4 @@
 0659. 📚 docs: add API usage examples
 0953. 🎨 style: remove trailing whitespace
 0265. 🎨 style: reformat files with black
+0219. ✅ test: increase coverage on auth module
