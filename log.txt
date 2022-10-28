@@ -84722,3 +84722,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0332. 🎨 style: standardize quote style
 0008. 🚀 perf: reduce image load time
+0589. 🐛 fix: fix broken CSS in mobile view
