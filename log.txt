@@ -51201,3 +51201,4 @@
 0575. ✅ test: add unit test for quiz service
 0705. 🔧 refactor: refactor quiz grading logic
 0248. 🐛 fix: handle 500 error in quiz API
+0599. ✅ test: test user registration edge cases
