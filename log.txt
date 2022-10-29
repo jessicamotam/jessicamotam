@@ -28320,3 +28320,4 @@
 0179. 🔧 refactor: split large controller into smaller functions
 0542. 🔧 refactor: organize models into subfolders
 0726. ✨ feat: enable dark mode toggle
+0617. ✨ feat: support email verification
