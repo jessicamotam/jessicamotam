@@ -51720,3 +51720,4 @@
 0078. ♻️ chore: update .gitignore
 0234. ♻️ chore: rename env.example
 0953. 🎨 style: remove trailing whitespace
+0189. 📚 docs: clarify environment setup
