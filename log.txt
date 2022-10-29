@@ -25168,3 +25168,4 @@
 0075. ✅ test: mock database connection in test suite
 0213. ✅ test: add integration test for /submit endpoint
 0702. ✨ feat: add user authentication
+0471. ✨ feat: support email verification
