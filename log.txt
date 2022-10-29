@@ -73679,3 +73679,4 @@
 0987. ✨ feat: create admin dashboard
 0614. 🚀 perf: reduce image load time
 0811. 🎨 style: reformat files with black
+0187. ✨ feat: support email verification
