@@ -67410,3 +67410,4 @@
 0885. ♻️ chore: update .gitignore
 0620. ✨ feat: implement quiz timer feature
 0771. 🚀 perf: cache repeated calculations
+0994. 🚀 perf: reduce image load time
