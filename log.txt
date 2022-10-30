@@ -45447,3 +45447,4 @@
 0714. 📚 docs: improve code comments in utils
 0249. ✅ test: increase coverage on auth module
 0452. ✨ feat: implement quiz timer feature
+0373. 📚 docs: document token refresh logic
