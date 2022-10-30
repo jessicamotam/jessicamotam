@@ -84885,3 +84885,4 @@
 0795. 📚 docs: update README with setup steps
 0516. ✅ test: add unit test for quiz service
 0480. ♻️ chore: add GitHub actions badge
+0824. 🚀 perf: lazy-load components
