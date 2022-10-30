@@ -13484,3 +13484,4 @@
 0266. 🔧 refactor: remove redundant code blocks
 0244. ✨ feat: add export to CSV option
 0190. 🎨 style: rename variables for clarity
+0973. 🔧 refactor: organize models into subfolders
