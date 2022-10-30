@@ -50479,3 +50479,4 @@
 0405. ✅ test: mock database connection in test suite
 0143. ✨ feat: implement quiz timer feature
 0505. ♻️ chore: add GitHub actions badge
+0298. ♻️ chore: update .gitignore
