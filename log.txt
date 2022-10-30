@@ -89312,3 +89312,4 @@
 0157. ✅ test: mock database connection in test suite
 0179. 🔧 refactor: split large controller into smaller functions
 0752. ✅ test: add integration test for /submit endpoint
+0003. ✅ test: increase coverage on auth module
