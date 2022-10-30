@@ -3352,3 +3352,4 @@
 0685. ✅ test: test user registration edge cases
 0977. 🔧 refactor: organize models into subfolders
 0414. 🔧 refactor: remove redundant code blocks
+0839. 🎨 style: apply consistent indentation
