@@ -19823,3 +19823,4 @@
 0643. 🎨 style: apply consistent indentation
 0053. ✅ test: increase coverage on auth module
 0770. ♻️ chore: rename env.example
+0936. 🔧 refactor: organize models into subfolders
