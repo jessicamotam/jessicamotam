@@ -70938,3 +70938,4 @@
 0306. 🎨 style: apply consistent indentation
 0430. 🐛 fix: fix null pointer exception on login
 0416. 🎨 style: rename variables for clarity
+0243. 🔧 refactor: clean up auth middleware
