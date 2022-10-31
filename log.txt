@@ -79506,3 +79506,4 @@
 0545. 🎨 style: standardize quote style
 0102. ✨ feat: support email verification
 0611. ✅ test: test user registration edge cases
+0174. 📚 docs: clarify environment setup
