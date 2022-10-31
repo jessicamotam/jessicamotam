@@ -72471,3 +72471,4 @@
 0704. 🚀 perf: cache repeated calculations
 0976. ✨ feat: implement quiz timer feature
 0008. 🚀 perf: reduce image load time
+0662. ♻️ chore: clean up unused files
