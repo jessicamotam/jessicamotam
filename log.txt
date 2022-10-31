@@ -19159,3 +19159,4 @@
 0803. ✅ test: mock database connection in test suite
 0873. 🚀 perf: cache repeated calculations
 0100. ♻️ chore: update .gitignore
+0361. ✨ feat: support email verification
