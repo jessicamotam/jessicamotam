@@ -63871,3 +63871,4 @@
 0929. ✨ feat: support email verification
 0823. ✨ feat: add user authentication
 0443. 🎨 style: standardize quote style
+0621. 🔧 refactor: clean up auth middleware
