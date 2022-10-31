@@ -2262,3 +2262,4 @@
 0106. 🎨 style: reformat files with black
 0609. 🐛 fix: handle 500 error in quiz API
 0129. 🔧 refactor: organize models into subfolders
+0988. 🐛 fix: fix broken CSS in mobile view
