@@ -52928,3 +52928,4 @@
 0199. ✨ feat: create admin dashboard
 0998. 🐛 fix: fix null pointer exception on login
 0262. 🎨 style: remove trailing whitespace
+0688. 🚀 perf: reduce image load time
