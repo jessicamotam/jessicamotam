@@ -73449,3 +73449,4 @@
 0059. ♻️ chore: bump dependencies
 0431. 🎨 style: reformat files with black
 0526. ✨ feat: add user authentication
+0623. 🎨 style: standardize quote style
