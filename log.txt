@@ -30361,3 +30361,4 @@
 0557. 🔧 refactor: clean up auth middleware
 0647. 🐛 fix: prevent crash on empty input
 0080. ✨ feat: support email verification
+0036. 🔧 refactor: clean up auth middleware
