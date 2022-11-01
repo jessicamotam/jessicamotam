@@ -14465,3 +14465,4 @@
 0885. ♻️ chore: update .gitignore
 0486. ✨ feat: add export to CSV option
 0944. ✨ feat: add user authentication
+0097. 🐛 fix: handle 500 error in quiz API
