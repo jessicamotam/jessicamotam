@@ -16654,3 +16654,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0322. 🔧 refactor: split large controller into smaller functions
 0720. ✨ feat: add export to CSV option
+0101. 📚 docs: clarify environment setup
