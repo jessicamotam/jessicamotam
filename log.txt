@@ -17500,3 +17500,4 @@
 0187. ✨ feat: support email verification
 0033. 🎨 style: apply consistent indentation
 0640. ♻️ chore: bump dependencies
+0181. ♻️ chore: add GitHub actions badge
