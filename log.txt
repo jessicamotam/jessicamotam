@@ -4753,3 +4753,4 @@
 0011. ✅ test: add unit test for quiz service
 0056. ♻️ chore: rename env.example
 0120. ✅ test: add integration test for /submit endpoint
+0669. ✨ feat: enable dark mode toggle
