@@ -35467,3 +35467,4 @@
 0373. 📚 docs: document token refresh logic
 0531. 🐛 fix: prevent crash on empty input
 0775. 🐛 fix: fix null pointer exception on login
+0988. 🐛 fix: fix broken CSS in mobile view
