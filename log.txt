@@ -46085,3 +46085,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0524. ♻️ chore: rename env.example
 0965. 🎨 style: reformat files with black
+0409. 🚀 perf: lazy-load components
