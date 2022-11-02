@@ -84237,3 +84237,4 @@
 0275. 🎨 style: standardize quote style
 0063. 🐛 fix: handle 500 error in quiz API
 0389. 📚 docs: improve code comments in utils
+0273. 🚀 perf: reduce image load time
