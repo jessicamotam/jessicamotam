@@ -33688,3 +33688,4 @@
 0621. 🔧 refactor: clean up auth middleware
 0129. 🔧 refactor: organize models into subfolders
 0632. 🎨 style: remove trailing whitespace
+0787. ♻️ chore: rename env.example
