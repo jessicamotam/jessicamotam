@@ -37227,3 +37227,4 @@
 0827. 🚀 perf: optimize database query for quiz results
 0133. 🐛 fix: fix null pointer exception on login
 0499. 🎨 style: reformat files with black
+0457. 🐛 fix: handle 500 error in quiz API
