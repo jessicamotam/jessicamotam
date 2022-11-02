@@ -6207,3 +6207,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0356. 📚 docs: write FAQ section
 0271. ✅ test: add unit test for quiz service
+0306. 🎨 style: apply consistent indentation
