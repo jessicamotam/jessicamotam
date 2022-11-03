@@ -88458,3 +88458,4 @@
 0985. 📚 docs: document token refresh logic
 0746. ♻️ chore: add GitHub actions badge
 0773. 📚 docs: document token refresh logic
+0676. 🐛 fix: prevent crash on empty input
