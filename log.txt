@@ -87922,3 +87922,4 @@
 0062. ♻️ chore: update .gitignore
 0565. ♻️ chore: add GitHub actions badge
 0388. 🎨 style: reformat files with black
+0317. ✅ test: test user registration edge cases
