@@ -28458,3 +28458,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0848. 📚 docs: update README with setup steps
 0538. 🐛 fix: fix broken CSS in mobile view
+0961. 📚 docs: add API usage examples
