@@ -18285,3 +18285,4 @@
 0975. 🎨 style: apply consistent indentation
 0554. 📚 docs: improve code comments in utils
 0421. 🔧 refactor: split large controller into smaller functions
+0898. 🐛 fix: fix broken CSS in mobile view
