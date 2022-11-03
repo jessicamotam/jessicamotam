@@ -69523,3 +69523,4 @@
 0149. ✨ feat: add export to CSV option
 0772. 🐛 fix: fix null pointer exception on login
 0864. 🐛 fix: correct typo in registration form
+0063. 🐛 fix: handle 500 error in quiz API
