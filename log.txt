@@ -3214,3 +3214,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0300. ✨ feat: add export to CSV option
 0982. 🚀 perf: lazy-load components
+0086. 🐛 fix: correct typo in registration form
