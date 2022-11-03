@@ -30458,3 +30458,4 @@
 0694. 🎨 style: rename variables for clarity
 0090. ✅ test: increase coverage on auth module
 0206. 🐛 fix: handle 500 error in quiz API
+0572. ✨ feat: add user authentication
