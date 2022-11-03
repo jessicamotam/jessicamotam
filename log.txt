@@ -14565,3 +14565,4 @@
 0793. 📚 docs: clarify environment setup
 0216. 🎨 style: rename variables for clarity
 0093. ✅ test: add unit test for quiz service
+0610. 🚀 perf: lazy-load components
