@@ -87693,3 +87693,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0778. 📚 docs: write FAQ section
 0650. ✅ test: add unit test for quiz service
+0533. ♻️ chore: add GitHub actions badge
