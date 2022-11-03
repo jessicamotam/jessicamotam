@@ -77927,3 +77927,4 @@
 0032. 🎨 style: apply consistent indentation
 0451. ✨ feat: support email verification
 0849. 🐛 fix: correct typo in registration form
+0843. 📚 docs: document token refresh logic
