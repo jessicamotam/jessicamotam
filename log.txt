@@ -39162,3 +39162,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0769. ✨ feat: create admin dashboard
 0934. ✨ feat: support email verification
+0676. 🐛 fix: prevent crash on empty input
