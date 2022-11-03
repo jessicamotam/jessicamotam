@@ -17868,3 +17868,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0493. ✨ feat: add user authentication
 0438. ♻️ chore: bump dependencies
+0263. 📚 docs: add API usage examples
