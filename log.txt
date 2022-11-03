@@ -82576,3 +82576,4 @@
 0965. 🎨 style: reformat files with black
 0270. ♻️ chore: rename env.example
 0504. 📚 docs: document token refresh logic
+0557. 🔧 refactor: clean up auth middleware
