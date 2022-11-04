@@ -3858,3 +3858,4 @@
 0914. ✅ test: test user registration edge cases
 0670. ✨ feat: add export to CSV option
 0323. 📚 docs: clarify environment setup
+0128. ♻️ chore: rename env.example
