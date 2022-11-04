@@ -26513,3 +26513,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0394. 🚀 perf: lazy-load components
 0607. 🐛 fix: prevent crash on empty input
+0916. ♻️ chore: bump dependencies
