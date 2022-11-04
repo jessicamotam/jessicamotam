@@ -71856,3 +71856,4 @@
 0405. ✅ test: mock database connection in test suite
 0183. 🔧 refactor: split large controller into smaller functions
 0326. 🚀 perf: cache repeated calculations
+0278. 🔧 refactor: clean up auth middleware
