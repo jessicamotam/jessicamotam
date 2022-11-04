@@ -50287,3 +50287,4 @@
 0788. 📚 docs: add API usage examples
 0641. 📚 docs: write FAQ section
 0697. ♻️ chore: bump dependencies
+0568. 🐛 fix: handle 500 error in quiz API
