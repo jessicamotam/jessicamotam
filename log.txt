@@ -73270,3 +73270,4 @@
 0429. ✨ feat: add user authentication
 0098. 🎨 style: rename variables for clarity
 0805. ♻️ chore: add GitHub actions badge
+0747. 🔧 refactor: clean up auth middleware
