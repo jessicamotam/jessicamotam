@@ -84315,3 +84315,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0290. ✅ test: test user registration edge cases
 0003. ✅ test: increase coverage on auth module
+0337. 📚 docs: document token refresh logic
