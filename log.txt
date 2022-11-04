@@ -79324,3 +79324,4 @@
 0667. ✨ feat: add export to CSV option
 0965. 🎨 style: reformat files with black
 0498. ✅ test: mock database connection in test suite
+0024. 📚 docs: write FAQ section
