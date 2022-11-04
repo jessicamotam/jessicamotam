@@ -40697,3 +40697,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0531. 🐛 fix: prevent crash on empty input
 0049. 🐛 fix: handle 500 error in quiz API
+0339. 📚 docs: update README with setup steps
