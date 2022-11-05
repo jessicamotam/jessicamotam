@@ -15811,3 +15811,4 @@
 0963. 🚀 perf: reduce image load time
 0818. 🔧 refactor: remove redundant code blocks
 0294. 🐛 fix: prevent crash on empty input
+0736. 🐛 fix: fix null pointer exception on login
