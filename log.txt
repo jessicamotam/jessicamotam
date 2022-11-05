@@ -53475,3 +53475,4 @@
 0750. 🎨 style: apply consistent indentation
 0533. ♻️ chore: add GitHub actions badge
 0279. ✨ feat: support email verification
+0193. 🚀 perf: optimize database query for quiz results
