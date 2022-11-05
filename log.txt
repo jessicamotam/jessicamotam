@@ -11215,3 +11215,4 @@
 0350. 🚀 perf: cache repeated calculations
 0475. 🔧 refactor: clean up auth middleware
 0944. ✨ feat: add user authentication
+0341. 🚀 perf: lazy-load components
