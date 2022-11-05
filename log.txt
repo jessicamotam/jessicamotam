@@ -20000,3 +20000,4 @@
 0927. ♻️ chore: bump dependencies
 0856. 🐛 fix: fix null pointer exception on login
 0718. 🐛 fix: resolve issue with date parsing
+0281. ✨ feat: support email verification
