@@ -23988,3 +23988,4 @@
 0599. ✅ test: test user registration edge cases
 0151. ✅ test: add unit test for quiz service
 0647. 🐛 fix: prevent crash on empty input
+0596. ♻️ chore: update .gitignore
