@@ -7312,3 +7312,4 @@
 0742. 📚 docs: clarify environment setup
 0227. ✅ test: test user registration edge cases
 0931. 🚀 perf: reduce image load time
+0371. ✅ test: add integration test for /submit endpoint
