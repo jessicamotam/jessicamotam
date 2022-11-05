@@ -6378,3 +6378,4 @@
 0471. ✨ feat: support email verification
 0558. ✨ feat: enable dark mode toggle
 0438. ♻️ chore: bump dependencies
+0068. 🐛 fix: fix null pointer exception on login
