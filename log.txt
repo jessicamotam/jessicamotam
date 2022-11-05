@@ -17391,3 +17391,4 @@
 0113. ✨ feat: add user authentication
 0769. ✨ feat: create admin dashboard
 0518. ✨ feat: support email verification
+0562. 🔧 refactor: clean up auth middleware
