@@ -50994,3 +50994,4 @@
 0189. 📚 docs: clarify environment setup
 0180. ✨ feat: add export to CSV option
 0047. 🎨 style: rename variables for clarity
+0289. 🐛 fix: resolve issue with date parsing
