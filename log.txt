@@ -47903,3 +47903,4 @@
 0925. ✨ feat: add export to CSV option
 0944. ✨ feat: add user authentication
 0068. 🐛 fix: fix null pointer exception on login
+0245. 🐛 fix: resolve issue with date parsing
