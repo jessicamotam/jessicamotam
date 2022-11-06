@@ -3987,3 +3987,4 @@
 0377. ✨ feat: add user authentication
 0805. ♻️ chore: add GitHub actions badge
 0041. 🐛 fix: fix broken CSS in mobile view
+0323. 📚 docs: clarify environment setup
