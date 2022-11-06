@@ -71419,3 +71419,4 @@
 0982. 🚀 perf: lazy-load components
 0431. 🎨 style: reformat files with black
 0578. ✅ test: add integration test for /submit endpoint
+0882. 🚀 perf: optimize database query for quiz results
