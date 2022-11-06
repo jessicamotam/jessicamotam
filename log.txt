@@ -22968,3 +22968,4 @@
 0219. ✅ test: increase coverage on auth module
 0633. ✨ feat: add user authentication
 0718. 🐛 fix: resolve issue with date parsing
+0824. 🚀 perf: lazy-load components
