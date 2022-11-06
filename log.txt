@@ -69075,3 +69075,4 @@
 0131. 📚 docs: write FAQ section
 0698. 🐛 fix: handle 500 error in quiz API
 0632. 🎨 style: remove trailing whitespace
+0902. ✨ feat: enable dark mode toggle
