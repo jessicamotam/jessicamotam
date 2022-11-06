@@ -61528,3 +61528,4 @@
 0838. 🎨 style: standardize quote style
 0084. 🐛 fix: handle 500 error in quiz API
 0485. 📚 docs: update README with setup steps
+0520. 🐛 fix: fix null pointer exception on login
