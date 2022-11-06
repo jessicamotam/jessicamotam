@@ -41688,3 +41688,4 @@
 0031. 📚 docs: document token refresh logic
 0274. 🔧 refactor: refactor quiz grading logic
 0497. 🔧 refactor: refactor quiz grading logic
+0290. ✅ test: test user registration edge cases
