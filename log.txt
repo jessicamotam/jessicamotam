@@ -309,3 +309,4 @@
 0356. 📚 docs: write FAQ section
 0905. ♻️ chore: bump dependencies
 0859. ✨ feat: create admin dashboard
+0492. 🎨 style: remove trailing whitespace
