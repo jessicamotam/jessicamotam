@@ -72376,3 +72376,4 @@
 0417. 🎨 style: rename variables for clarity
 0306. 🎨 style: apply consistent indentation
 0654. ✨ feat: create admin dashboard
+0355. 🚀 perf: optimize database query for quiz results
