@@ -79550,3 +79550,4 @@
 0852. ✨ feat: enable dark mode toggle
 0217. 🚀 perf: reduce image load time
 0586. 🎨 style: remove trailing whitespace
+0026. 🔧 refactor: clean up auth middleware
