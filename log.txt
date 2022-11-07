@@ -57304,3 +57304,4 @@
 0503. ♻️ chore: rename env.example
 0553. 🐛 fix: correct typo in registration form
 0011. ✅ test: add unit test for quiz service
+0517. ✅ test: mock database connection in test suite
