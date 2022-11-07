@@ -12370,3 +12370,4 @@
 0355. 🚀 perf: optimize database query for quiz results
 0359. 🔧 refactor: clean up auth middleware
 0316. 🐛 fix: fix broken CSS in mobile view
+0793. 📚 docs: clarify environment setup
