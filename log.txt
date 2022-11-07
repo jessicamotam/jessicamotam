@@ -44356,3 +44356,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0526. ✨ feat: add user authentication
 0599. ✅ test: test user registration edge cases
+0977. 🔧 refactor: organize models into subfolders
