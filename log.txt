@@ -63998,3 +63998,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0711. 🐛 fix: fix broken CSS in mobile view
 0854. ♻️ chore: rename env.example
+0598. 🔧 refactor: remove redundant code blocks
