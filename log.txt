@@ -32648,3 +32648,4 @@
 0470. 🎨 style: remove trailing whitespace
 0410. 🎨 style: reformat files with black
 0023. 📚 docs: clarify environment setup
+0552. 🐛 fix: fix null pointer exception on login
