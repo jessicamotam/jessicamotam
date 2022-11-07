@@ -5676,3 +5676,4 @@
 0749. ✨ feat: support email verification
 0691. 🎨 style: rename variables for clarity
 0033. 🎨 style: apply consistent indentation
+0869. ♻️ chore: bump dependencies
