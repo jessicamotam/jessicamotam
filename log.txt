@@ -38006,3 +38006,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0114. ♻️ chore: update .gitignore
 0585. 🚀 perf: lazy-load components
+0406. ✨ feat: add export to CSV option
