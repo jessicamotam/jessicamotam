@@ -4562,3 +4562,4 @@
 0837. 🚀 perf: cache repeated calculations
 0911. ✅ test: increase coverage on auth module
 0081. 🐛 fix: fix null pointer exception on login
+0270. ♻️ chore: rename env.example
