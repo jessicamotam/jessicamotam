@@ -49454,3 +49454,4 @@
 0024. 📚 docs: write FAQ section
 0927. ♻️ chore: bump dependencies
 0627. 📚 docs: document token refresh logic
+0918. ✨ feat: enable dark mode toggle
