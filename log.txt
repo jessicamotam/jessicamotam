@@ -16967,3 +16967,4 @@
 0059. ♻️ chore: bump dependencies
 0203. 🚀 perf: lazy-load components
 0606. 📚 docs: improve code comments in utils
+0711. 🐛 fix: fix broken CSS in mobile view
