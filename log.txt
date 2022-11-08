@@ -83667,3 +83667,4 @@
 0593. 🐛 fix: correct typo in registration form
 0503. ♻️ chore: rename env.example
 0402. 🎨 style: reformat files with black
+0098. 🎨 style: rename variables for clarity
