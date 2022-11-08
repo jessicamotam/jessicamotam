@@ -31620,3 +31620,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0754. 🐛 fix: handle 500 error in quiz API
 0116. ✨ feat: support email verification
+0981. 🚀 perf: lazy-load components
