@@ -1287,3 +1287,4 @@
 0160. ♻️ chore: bump dependencies
 0172. 📚 docs: add API usage examples
 0267. 📚 docs: improve code comments in utils
+0326. 🚀 perf: cache repeated calculations
