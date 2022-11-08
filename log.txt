@@ -8983,3 +8983,4 @@
 0448. 🐛 fix: correct typo in registration form
 0662. ♻️ chore: clean up unused files
 0270. ♻️ chore: rename env.example
+0363. 📚 docs: clarify environment setup
