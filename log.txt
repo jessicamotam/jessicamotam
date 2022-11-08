@@ -55045,3 +55045,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0544. 🔧 refactor: organize models into subfolders
 0997. ✅ test: increase coverage on auth module
+0278. 🔧 refactor: clean up auth middleware
