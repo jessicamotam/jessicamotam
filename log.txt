@@ -30748,3 +30748,4 @@
 0586. 🎨 style: remove trailing whitespace
 0739. 🎨 style: remove trailing whitespace
 0222. 🐛 fix: handle 500 error in quiz API
+0332. 🎨 style: standardize quote style
