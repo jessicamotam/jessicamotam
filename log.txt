@@ -7757,3 +7757,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0450. 🐛 fix: fix broken CSS in mobile view
 0136. 🚀 perf: lazy-load components
+0858. ♻️ chore: clean up unused files
