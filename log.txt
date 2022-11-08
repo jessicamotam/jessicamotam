@@ -13366,3 +13366,4 @@
 0931. 🚀 perf: reduce image load time
 0571. 🔧 refactor: clean up auth middleware
 0890. 🔧 refactor: organize models into subfolders
+0549. ✨ feat: enable dark mode toggle
