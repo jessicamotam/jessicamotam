@@ -19090,3 +19090,4 @@
 0797. 📚 docs: add API usage examples
 0175. 📚 docs: add API usage examples
 0743. 🎨 style: apply consistent indentation
+0898. 🐛 fix: fix broken CSS in mobile view
