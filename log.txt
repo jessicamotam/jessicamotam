@@ -24525,3 +24525,4 @@
 0992. ♻️ chore: clean up unused files
 0714. 📚 docs: improve code comments in utils
 0348. ✅ test: test user registration edge cases
+0609. 🐛 fix: handle 500 error in quiz API
