@@ -6330,3 +6330,4 @@
 0826. 📚 docs: clarify environment setup
 0875. ✅ test: increase coverage on auth module
 0508. ✅ test: add unit test for quiz service
+0269. ✅ test: test user registration edge cases
