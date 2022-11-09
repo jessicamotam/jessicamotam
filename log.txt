@@ -1248,3 +1248,4 @@
 0904. ✨ feat: implement quiz timer feature
 0451. ✨ feat: support email verification
 0152. ✨ feat: add user authentication
+0854. ♻️ chore: rename env.example
