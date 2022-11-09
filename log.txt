@@ -30309,3 +30309,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0258. 🐛 fix: prevent crash on empty input
 0162. ♻️ chore: add GitHub actions badge
+0096. 🐛 fix: prevent crash on empty input
