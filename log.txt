@@ -46574,3 +46574,4 @@
 0635. 🎨 style: apply consistent indentation
 0267. 📚 docs: improve code comments in utils
 0885. ♻️ chore: update .gitignore
+0772. 🐛 fix: fix null pointer exception on login
