@@ -34887,3 +34887,4 @@
 0394. 🚀 perf: lazy-load components
 0898. 🐛 fix: fix broken CSS in mobile view
 0579. 📚 docs: clarify environment setup
+0578. ✅ test: add integration test for /submit endpoint
