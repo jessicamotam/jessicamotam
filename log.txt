@@ -2846,3 +2846,4 @@
 0638. 📚 docs: improve code comments in utils
 0811. 🎨 style: reformat files with black
 0242. ♻️ chore: clean up unused files
+0618. ✨ feat: support email verification
