@@ -68068,3 +68068,4 @@
 0550. 🔧 refactor: split large controller into smaller functions
 0214. 📚 docs: improve code comments in utils
 0865. ♻️ chore: add GitHub actions badge
+0063. 🐛 fix: handle 500 error in quiz API
