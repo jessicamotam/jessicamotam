@@ -197,3 +197,4 @@
 0251. ♻️ chore: update .gitignore
 0540. ♻️ chore: add GitHub actions badge
 0604. 📚 docs: add API usage examples
+0041. 🐛 fix: fix broken CSS in mobile view
