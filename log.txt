@@ -75332,3 +75332,4 @@
 0843. 📚 docs: document token refresh logic
 0702. ✨ feat: add user authentication
 0581. ✅ test: add integration test for /submit endpoint
+0923. ✨ feat: support email verification
