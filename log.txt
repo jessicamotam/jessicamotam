@@ -86362,3 +86362,4 @@
 0039. ✅ test: add integration test for /submit endpoint
 0884. 📚 docs: clarify environment setup
 0090. ✅ test: increase coverage on auth module
+0518. ✨ feat: support email verification
