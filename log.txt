@@ -20298,3 +20298,4 @@
 0558. ✨ feat: enable dark mode toggle
 0521. 🎨 style: standardize quote style
 0158. 📚 docs: clarify environment setup
+0887. 📚 docs: add API usage examples
