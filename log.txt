@@ -19874,3 +19874,4 @@
 0847. ♻️ chore: clean up unused files
 0379. ✨ feat: support email verification
 0153. ♻️ chore: rename env.example
+0590. 🐛 fix: fix null pointer exception on login
