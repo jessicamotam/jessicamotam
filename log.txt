@@ -72115,3 +72115,4 @@
 0011. ✅ test: add unit test for quiz service
 0358. 🚀 perf: reduce image load time
 0753. 🔧 refactor: remove redundant code blocks
+0296. 🔧 refactor: organize models into subfolders
