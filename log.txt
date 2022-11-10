@@ -54198,3 +54198,4 @@
 0933. 📚 docs: clarify environment setup
 0024. 📚 docs: write FAQ section
 0123. ✨ feat: implement quiz timer feature
+0781. 🚀 perf: reduce image load time
