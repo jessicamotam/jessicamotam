@@ -88679,3 +88679,4 @@
 0551. 📚 docs: write FAQ section
 0332. 🎨 style: standardize quote style
 0013. ✅ test: increase coverage on auth module
+0579. 📚 docs: clarify environment setup
