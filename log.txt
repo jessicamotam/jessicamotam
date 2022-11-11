@@ -51666,3 +51666,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0571. 🔧 refactor: clean up auth middleware
 0745. ✅ test: add unit test for quiz service
+0074. ♻️ chore: add GitHub actions badge
