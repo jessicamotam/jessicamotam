@@ -47249,3 +47249,4 @@
 0940. 📚 docs: document token refresh logic
 0423. ✅ test: mock database connection in test suite
 0232. 🎨 style: apply consistent indentation
+0922. 📚 docs: write FAQ section
