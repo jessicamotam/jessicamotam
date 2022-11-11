@@ -76280,3 +76280,4 @@
 0212. 🎨 style: standardize quote style
 0733. 🐛 fix: fix null pointer exception on login
 0391. 🐛 fix: fix null pointer exception on login
+0747. 🔧 refactor: clean up auth middleware
