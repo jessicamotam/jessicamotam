@@ -14462,3 +14462,4 @@
 0254. 🚀 perf: reduce image load time
 0660. 🐛 fix: correct typo in registration form
 0469. 🚀 perf: lazy-load components
+0885. ♻️ chore: update .gitignore
