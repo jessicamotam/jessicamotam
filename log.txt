@@ -24267,3 +24267,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0137. 🎨 style: rename variables for clarity
 0313. 🎨 style: apply consistent indentation
+0524. ♻️ chore: rename env.example
