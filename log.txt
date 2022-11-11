@@ -14231,3 +14231,4 @@
 0336. ✨ feat: add export to CSV option
 0185. 📚 docs: write FAQ section
 0438. ♻️ chore: bump dependencies
+0282. 🔧 refactor: remove redundant code blocks
