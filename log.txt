@@ -33272,3 +33272,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0990. ♻️ chore: rename env.example
 0706. ✨ feat: support email verification
+0292. 📚 docs: clarify environment setup
