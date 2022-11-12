@@ -8428,3 +8428,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0954. 🚀 perf: cache repeated calculations
 0194. 🎨 style: standardize quote style
+0980. 🎨 style: reformat files with black
