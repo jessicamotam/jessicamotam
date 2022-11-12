@@ -79129,3 +79129,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0468. 📚 docs: update README with setup steps
 0895. ✨ feat: support email verification
+0835. 🐛 fix: prevent crash on empty input
