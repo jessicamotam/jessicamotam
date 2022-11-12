@@ -10040,3 +10040,4 @@
 0202. 🔧 refactor: refactor quiz grading logic
 0230. ✨ feat: create admin dashboard
 0572. ✨ feat: add user authentication
+0278. 🔧 refactor: clean up auth middleware
