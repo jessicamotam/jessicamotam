@@ -11462,3 +11462,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0743. 🎨 style: apply consistent indentation
 0518. ✨ feat: support email verification
+0978. 🐛 fix: prevent crash on empty input
