@@ -51564,3 +51564,4 @@
 0476. 🚀 perf: reduce image load time
 0962. ✨ feat: create admin dashboard
 0363. 📚 docs: clarify environment setup
+0947. 📚 docs: write FAQ section
