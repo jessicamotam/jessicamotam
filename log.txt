@@ -33394,3 +33394,4 @@
 0986. 📚 docs: document token refresh logic
 0100. ♻️ chore: update .gitignore
 0365. 🚀 perf: reduce image load time
+0171. 🐛 fix: fix broken CSS in mobile view
