@@ -16174,3 +16174,4 @@
 0195. 📚 docs: clarify environment setup
 0604. 📚 docs: add API usage examples
 0263. 📚 docs: add API usage examples
+0224. 🐛 fix: fix broken CSS in mobile view
