@@ -81054,3 +81054,4 @@
 0656. 🎨 style: apply consistent indentation
 0979. 🎨 style: standardize quote style
 0876. ♻️ chore: rename env.example
+0670. ✨ feat: add export to CSV option
