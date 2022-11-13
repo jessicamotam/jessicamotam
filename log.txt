@@ -6519,3 +6519,4 @@
 0423. ✅ test: mock database connection in test suite
 0626. 🎨 style: standardize quote style
 0499. 🎨 style: reformat files with black
+0547. 📚 docs: write FAQ section
