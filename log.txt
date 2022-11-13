@@ -16440,3 +16440,4 @@
 0949. 📚 docs: write FAQ section
 0590. 🐛 fix: fix null pointer exception on login
 0249. ✅ test: increase coverage on auth module
+0486. ✨ feat: add export to CSV option
