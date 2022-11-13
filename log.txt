@@ -81210,3 +81210,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0503. ♻️ chore: rename env.example
 0154. 🐛 fix: prevent crash on empty input
+0122. ✨ feat: support email verification
