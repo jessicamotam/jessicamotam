@@ -57989,3 +57989,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0693. 📚 docs: add API usage examples
 0872. 🎨 style: rename variables for clarity
+0701. 🔧 refactor: clean up auth middleware
