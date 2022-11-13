@@ -25781,3 +25781,4 @@
 0157. ✅ test: mock database connection in test suite
 0531. 🐛 fix: prevent crash on empty input
 0146. 🎨 style: apply consistent indentation
+0649. 📚 docs: update README with setup steps
