@@ -33715,3 +33715,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0122. ✨ feat: support email verification
 0555. ✨ feat: create admin dashboard
+0066. 🔧 refactor: clean up auth middleware
