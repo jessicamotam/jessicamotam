@@ -19308,3 +19308,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0294. 🐛 fix: prevent crash on empty input
 0583. ✅ test: increase coverage on auth module
+0353. ♻️ chore: rename env.example
