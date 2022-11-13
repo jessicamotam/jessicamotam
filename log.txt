@@ -89941,3 +89941,4 @@
 0650. ✅ test: add unit test for quiz service
 0609. 🐛 fix: handle 500 error in quiz API
 0106. 🎨 style: reformat files with black
+0996. ✅ test: test user registration edge cases
