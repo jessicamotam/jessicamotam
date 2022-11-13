@@ -70582,3 +70582,4 @@
 0535. 📚 docs: write FAQ section
 0464. 🎨 style: remove trailing whitespace
 0455. ♻️ chore: clean up unused files
+0590. 🐛 fix: fix null pointer exception on login
