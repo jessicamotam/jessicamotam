@@ -81084,3 +81084,4 @@
 0411. ✅ test: add unit test for quiz service
 0698. 🐛 fix: handle 500 error in quiz API
 0856. 🐛 fix: fix null pointer exception on login
+0110. 🐛 fix: prevent crash on empty input
