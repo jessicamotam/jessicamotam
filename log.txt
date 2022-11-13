@@ -1588,3 +1588,4 @@
 0946. ✅ test: add unit test for quiz service
 0783. 🐛 fix: handle 500 error in quiz API
 0778. 📚 docs: write FAQ section
+0775. 🐛 fix: fix null pointer exception on login
