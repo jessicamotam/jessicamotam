@@ -65595,3 +65595,4 @@
 0347. ♻️ chore: update .gitignore
 0335. ♻️ chore: update .gitignore
 0799. ♻️ chore: clean up unused files
+0756. ✨ feat: support email verification
