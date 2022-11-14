@@ -36569,3 +36569,4 @@
 0290. ✅ test: test user registration edge cases
 0430. 🐛 fix: fix null pointer exception on login
 0609. 🐛 fix: handle 500 error in quiz API
+0478. 🐛 fix: resolve issue with date parsing
