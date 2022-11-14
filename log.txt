@@ -49139,3 +49139,4 @@
 0764. ✨ feat: add user authentication
 0022. 📚 docs: document token refresh logic
 0348. ✅ test: test user registration edge cases
+0596. ♻️ chore: update .gitignore
