@@ -74113,3 +74113,4 @@
 0631. ✨ feat: create admin dashboard
 0557. 🔧 refactor: clean up auth middleware
 0777. 📚 docs: document token refresh logic
+0248. 🐛 fix: handle 500 error in quiz API
