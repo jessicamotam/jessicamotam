@@ -70125,3 +70125,4 @@
 0632. 🎨 style: remove trailing whitespace
 0998. 🐛 fix: fix null pointer exception on login
 0656. 🎨 style: apply consistent indentation
+0175. 📚 docs: add API usage examples
