@@ -51226,3 +51226,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0031. 📚 docs: document token refresh logic
 0547. 📚 docs: write FAQ section
+0526. ✨ feat: add user authentication
