@@ -14025,3 +14025,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0684. 🚀 perf: reduce image load time
 0337. 📚 docs: document token refresh logic
+0563. 📚 docs: clarify environment setup
