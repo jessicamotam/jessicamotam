@@ -47020,3 +47020,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0412. ✅ test: increase coverage on auth module
 0412. ✅ test: increase coverage on auth module
+0205. 📚 docs: update README with setup steps
