@@ -10586,3 +10586,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0191. 🔧 refactor: refactor quiz grading logic
 0486. ✨ feat: add export to CSV option
+0640. ♻️ chore: bump dependencies
