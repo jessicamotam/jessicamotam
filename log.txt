@@ -17783,3 +17783,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0378. 🐛 fix: prevent crash on empty input
 0170. ✅ test: increase coverage on auth module
+0379. ✨ feat: support email verification
