@@ -46819,3 +46819,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0970. ♻️ chore: update .gitignore
 0578. ✅ test: add integration test for /submit endpoint
+0062. ♻️ chore: update .gitignore
