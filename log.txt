@@ -62828,3 +62828,4 @@
 0654. ✨ feat: create admin dashboard
 0351. ✨ feat: add export to CSV option
 0535. 📚 docs: write FAQ section
+0571. 🔧 refactor: clean up auth middleware
