@@ -64105,3 +64105,4 @@
 0869. ♻️ chore: bump dependencies
 0585. 🚀 perf: lazy-load components
 0003. ✅ test: increase coverage on auth module
+0439. 🐛 fix: correct typo in registration form
