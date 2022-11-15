@@ -49765,3 +49765,4 @@
 0992. ♻️ chore: clean up unused files
 0558. ✨ feat: enable dark mode toggle
 0029. 🚀 perf: lazy-load components
+0826. 📚 docs: clarify environment setup
