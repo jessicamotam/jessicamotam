@@ -86805,3 +86805,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0518. ✨ feat: support email verification
 0676. 🐛 fix: prevent crash on empty input
+0471. ✨ feat: support email verification
