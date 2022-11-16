@@ -67236,3 +67236,4 @@
 0440. 📚 docs: update README with setup steps
 0290. ✅ test: test user registration edge cases
 0434. 📚 docs: document token refresh logic
+0933. 📚 docs: clarify environment setup
