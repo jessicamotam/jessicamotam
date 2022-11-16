@@ -1394,3 +1394,4 @@
 0093. ✅ test: add unit test for quiz service
 0871. ✅ test: add integration test for /submit endpoint
 0102. ✨ feat: support email verification
+0341. 🚀 perf: lazy-load components
