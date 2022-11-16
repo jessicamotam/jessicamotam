@@ -16343,3 +16343,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0818. 🔧 refactor: remove redundant code blocks
 0261. 🔧 refactor: refactor quiz grading logic
+0254. 🚀 perf: reduce image load time
