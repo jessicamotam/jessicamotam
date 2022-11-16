@@ -25966,3 +25966,4 @@
 0502. 📚 docs: update README with setup steps
 0989. 📚 docs: write FAQ section
 0329. 📚 docs: update README with setup steps
+0331. 🐛 fix: fix broken CSS in mobile view
