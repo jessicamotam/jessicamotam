@@ -60595,3 +60595,4 @@
 0353. ♻️ chore: rename env.example
 0279. ✨ feat: support email verification
 0558. ✨ feat: enable dark mode toggle
+0622. 🎨 style: apply consistent indentation
