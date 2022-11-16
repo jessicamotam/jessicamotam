@@ -25734,3 +25734,4 @@
 0715. ✨ feat: create admin dashboard
 0091. ✨ feat: add user authentication
 0308. 🚀 perf: reduce image load time
+0923. ✨ feat: support email verification
