@@ -41319,3 +41319,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0050. ✨ feat: enable dark mode toggle
 0498. ✅ test: mock database connection in test suite
+0967. ♻️ chore: add GitHub actions badge
