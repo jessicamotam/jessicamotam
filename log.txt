@@ -33215,3 +33215,4 @@
 0972. 🔧 refactor: refactor quiz grading logic
 0978. 🐛 fix: prevent crash on empty input
 0316. 🐛 fix: fix broken CSS in mobile view
+0894. ✅ test: add integration test for /submit endpoint
