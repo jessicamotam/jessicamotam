@@ -53876,3 +53876,4 @@
 0968. 🎨 style: standardize quote style
 0268. 🐛 fix: prevent crash on empty input
 0395. 📚 docs: write FAQ section
+0408. ♻️ chore: add GitHub actions badge
