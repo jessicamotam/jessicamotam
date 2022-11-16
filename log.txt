@@ -77483,3 +77483,4 @@
 0141. 📚 docs: document token refresh logic
 0590. 🐛 fix: fix null pointer exception on login
 0226. 🚀 perf: lazy-load components
+0748. 🚀 perf: optimize database query for quiz results
