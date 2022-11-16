@@ -76321,3 +76321,4 @@
 0702. ✨ feat: add user authentication
 0497. 🔧 refactor: refactor quiz grading logic
 0176. 🔧 refactor: remove redundant code blocks
+0749. ✨ feat: support email verification
