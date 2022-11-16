@@ -52873,3 +52873,4 @@
 0002. 🚀 perf: cache repeated calculations
 0921. 🐛 fix: correct typo in registration form
 0471. ✨ feat: support email verification
+0063. 🐛 fix: handle 500 error in quiz API
