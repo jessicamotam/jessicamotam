@@ -11107,3 +11107,4 @@
 0969. ✨ feat: create admin dashboard
 0947. 📚 docs: write FAQ section
 0666. 🐛 fix: fix broken CSS in mobile view
+0473. 📚 docs: write FAQ section
