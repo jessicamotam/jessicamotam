@@ -27675,3 +27675,4 @@
 0618. ✨ feat: support email verification
 0747. 🔧 refactor: clean up auth middleware
 0859. ✨ feat: create admin dashboard
+0078. ♻️ chore: update .gitignore
