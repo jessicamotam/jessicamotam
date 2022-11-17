@@ -41579,3 +41579,4 @@
 0570. 🎨 style: apply consistent indentation
 0652. 🔧 refactor: organize models into subfolders
 0319. 🐛 fix: handle 500 error in quiz API
+0335. ♻️ chore: update .gitignore
