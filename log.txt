@@ -5533,3 +5533,4 @@
 0712. 🎨 style: apply consistent indentation
 0511. 🐛 fix: fix broken CSS in mobile view
 0588. 🔧 refactor: organize models into subfolders
+0893. 🐛 fix: handle 500 error in quiz API
