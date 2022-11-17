@@ -66242,3 +66242,4 @@
 0277. 🎨 style: standardize quote style
 0852. ✨ feat: enable dark mode toggle
 0421. 🔧 refactor: split large controller into smaller functions
+0395. 📚 docs: write FAQ section
