@@ -41968,3 +41968,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0522. 🐛 fix: handle 500 error in quiz API
 0469. 🚀 perf: lazy-load components
+0647. 🐛 fix: prevent crash on empty input
