@@ -28244,3 +28244,4 @@
 0864. 🐛 fix: correct typo in registration form
 0978. 🐛 fix: prevent crash on empty input
 0809. ♻️ chore: rename env.example
+0085. ✨ feat: support email verification
