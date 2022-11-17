@@ -77042,3 +77042,4 @@
 0032. 🎨 style: apply consistent indentation
 0611. ✅ test: test user registration edge cases
 0831. 📚 docs: clarify environment setup
+0777. 📚 docs: document token refresh logic
