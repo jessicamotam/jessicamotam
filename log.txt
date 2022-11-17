@@ -33152,3 +33152,4 @@
 0953. 🎨 style: remove trailing whitespace
 0975. 🎨 style: apply consistent indentation
 0144. ✅ test: increase coverage on auth module
+0164. 📚 docs: document token refresh logic
