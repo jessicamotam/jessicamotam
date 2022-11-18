@@ -29625,3 +29625,4 @@
 0088. 📚 docs: add API usage examples
 0486. ✨ feat: add export to CSV option
 0710. 🐛 fix: fix broken CSS in mobile view
+0451. ✨ feat: support email verification
