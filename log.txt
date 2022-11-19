@@ -15743,3 +15743,4 @@
 0379. ✨ feat: support email verification
 0768. 🎨 style: remove trailing whitespace
 0857. 🎨 style: rename variables for clarity
+0157. ✅ test: mock database connection in test suite
