@@ -58384,3 +58384,4 @@
 0543. ✨ feat: support email verification
 0783. 🐛 fix: handle 500 error in quiz API
 0564. 📚 docs: clarify environment setup
+0944. ✨ feat: add user authentication
