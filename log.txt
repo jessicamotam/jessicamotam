@@ -82936,3 +82936,4 @@
 0313. 🎨 style: apply consistent indentation
 0042. 📚 docs: document token refresh logic
 0064. 📚 docs: clarify environment setup
+0080. ✨ feat: support email verification
