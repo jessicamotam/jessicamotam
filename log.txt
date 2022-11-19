@@ -11966,3 +11966,4 @@
 0716. ✨ feat: implement quiz timer feature
 0297. 🎨 style: remove trailing whitespace
 0425. 🔧 refactor: refactor quiz grading logic
+0201. 🔧 refactor: clean up auth middleware
