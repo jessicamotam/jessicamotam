@@ -7227,3 +7227,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0710. 🐛 fix: fix broken CSS in mobile view
 0632. 🎨 style: remove trailing whitespace
+0752. ✅ test: add integration test for /submit endpoint
