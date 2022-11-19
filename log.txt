@@ -78884,3 +78884,4 @@
 0667. ✨ feat: add export to CSV option
 0478. 🐛 fix: resolve issue with date parsing
 0403. ✅ test: mock database connection in test suite
+0454. ♻️ chore: bump dependencies
