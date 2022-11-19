@@ -40300,3 +40300,4 @@
 0997. ✅ test: increase coverage on auth module
 0680. ♻️ chore: add GitHub actions badge
 0295. 🎨 style: remove trailing whitespace
+0652. 🔧 refactor: organize models into subfolders
