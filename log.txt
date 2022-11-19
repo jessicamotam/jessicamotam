@@ -70540,3 +70540,4 @@
 0859. ✨ feat: create admin dashboard
 0279. ✨ feat: support email verification
 0353. ♻️ chore: rename env.example
+0595. ✨ feat: enable dark mode toggle
