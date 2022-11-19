@@ -71172,3 +71172,4 @@
 0969. ✨ feat: create admin dashboard
 0175. 📚 docs: add API usage examples
 0378. 🐛 fix: prevent crash on empty input
+0824. 🚀 perf: lazy-load components
