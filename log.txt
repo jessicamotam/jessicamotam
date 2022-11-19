@@ -10694,3 +10694,4 @@
 0279. ✨ feat: support email verification
 0292. 📚 docs: clarify environment setup
 0195. 📚 docs: clarify environment setup
+0444. ✅ test: add unit test for quiz service
