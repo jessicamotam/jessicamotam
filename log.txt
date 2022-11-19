@@ -43612,3 +43612,4 @@
 0187. ✨ feat: support email verification
 0367. 🐛 fix: fix null pointer exception on login
 0617. ✨ feat: support email verification
+0864. 🐛 fix: correct typo in registration form
