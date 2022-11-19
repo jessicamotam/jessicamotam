@@ -6476,3 +6476,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0908. ♻️ chore: bump dependencies
 0976. ✨ feat: implement quiz timer feature
+0040. 🔧 refactor: clean up auth middleware
