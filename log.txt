@@ -86921,3 +86921,4 @@
 0372. ✨ feat: add user authentication
 0783. 🐛 fix: handle 500 error in quiz API
 0174. 📚 docs: clarify environment setup
+0931. 🚀 perf: reduce image load time
