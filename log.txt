@@ -77883,3 +77883,4 @@
 0373. 📚 docs: document token refresh logic
 0890. 🔧 refactor: organize models into subfolders
 0439. 🐛 fix: correct typo in registration form
+0649. 📚 docs: update README with setup steps
