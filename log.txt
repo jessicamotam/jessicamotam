@@ -19187,3 +19187,4 @@
 0494. 🎨 style: rename variables for clarity
 0745. ✅ test: add unit test for quiz service
 0760. 🐛 fix: resolve issue with date parsing
+0472. 🐛 fix: fix null pointer exception on login
