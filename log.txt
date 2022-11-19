@@ -59911,3 +59911,4 @@
 0518. ✨ feat: support email verification
 0871. ✅ test: add integration test for /submit endpoint
 0413. ✅ test: add integration test for /submit endpoint
+0349. ✅ test: increase coverage on auth module
