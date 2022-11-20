@@ -85337,3 +85337,4 @@
 0570. 🎨 style: apply consistent indentation
 0119. 📚 docs: improve code comments in utils
 0572. ✨ feat: add user authentication
+0843. 📚 docs: document token refresh logic
