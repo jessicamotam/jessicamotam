@@ -31186,3 +31186,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0277. 🎨 style: standardize quote style
 0803. ✅ test: mock database connection in test suite
+0726. ✨ feat: enable dark mode toggle
