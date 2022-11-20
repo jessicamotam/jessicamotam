@@ -39061,3 +39061,4 @@
 0116. ✨ feat: support email verification
 0342. 🚀 perf: cache repeated calculations
 0581. ✅ test: add integration test for /submit endpoint
+0181. ♻️ chore: add GitHub actions badge
