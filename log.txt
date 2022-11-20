@@ -25497,3 +25497,4 @@
 0503. ♻️ chore: rename env.example
 0315. ✅ test: add integration test for /submit endpoint
 0768. 🎨 style: remove trailing whitespace
+0287. 📚 docs: write FAQ section
