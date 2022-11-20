@@ -88910,3 +88910,4 @@
 0766. 🎨 style: reformat files with black
 0110. 🐛 fix: prevent crash on empty input
 0652. 🔧 refactor: organize models into subfolders
+0659. 📚 docs: add API usage examples
