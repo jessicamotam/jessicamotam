@@ -26100,3 +26100,4 @@
 0439. 🐛 fix: correct typo in registration form
 0784. ♻️ chore: clean up unused files
 0982. 🚀 perf: lazy-load components
+0885. ♻️ chore: update .gitignore
