@@ -61480,3 +61480,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0096. 🐛 fix: prevent crash on empty input
 0415. 🐛 fix: handle 500 error in quiz API
+0180. ✨ feat: add export to CSV option
