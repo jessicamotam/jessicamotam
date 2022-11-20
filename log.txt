@@ -87122,3 +87122,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0370. 🚀 perf: reduce image load time
 0896. 🚀 perf: reduce image load time
+0208. 🔧 refactor: clean up auth middleware
