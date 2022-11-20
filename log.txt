@@ -72749,3 +72749,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0929. ✨ feat: support email verification
 0360. ✨ feat: add export to CSV option
+0574. ✨ feat: enable dark mode toggle
