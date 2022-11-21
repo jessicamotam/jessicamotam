@@ -44606,3 +44606,4 @@
 0324. 📚 docs: document token refresh logic
 0395. 📚 docs: write FAQ section
 0013. ✅ test: increase coverage on auth module
+0292. 📚 docs: clarify environment setup
