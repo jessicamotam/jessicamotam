@@ -4694,3 +4694,4 @@
 0398. 🚀 perf: cache repeated calculations
 0100. ♻️ chore: update .gitignore
 0035. ✅ test: increase coverage on auth module
+0034. 📚 docs: improve code comments in utils
