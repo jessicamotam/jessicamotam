@@ -42324,3 +42324,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0790. 📚 docs: write FAQ section
 0854. ♻️ chore: rename env.example
+0625. 🐛 fix: handle 500 error in quiz API
