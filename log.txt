@@ -64317,3 +64317,4 @@
 0605. ✨ feat: support email verification
 0973. 🔧 refactor: organize models into subfolders
 0219. ✅ test: increase coverage on auth module
+0337. 📚 docs: document token refresh logic
