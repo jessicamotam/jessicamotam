@@ -34086,3 +34086,4 @@
 0143. ✨ feat: implement quiz timer feature
 0064. 📚 docs: clarify environment setup
 0899. 🚀 perf: cache repeated calculations
+0978. 🐛 fix: prevent crash on empty input
