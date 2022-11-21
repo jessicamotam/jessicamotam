@@ -45500,3 +45500,4 @@
 0147. ♻️ chore: bump dependencies
 0762. 🚀 perf: lazy-load components
 0113. ✨ feat: add user authentication
+0006. 🐛 fix: prevent crash on empty input
