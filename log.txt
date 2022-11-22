@@ -78017,3 +78017,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0787. ♻️ chore: rename env.example
 0628. ♻️ chore: add GitHub actions badge
+0629. 🔧 refactor: organize models into subfolders
