@@ -23030,3 +23030,4 @@
 0842. 🎨 style: remove trailing whitespace
 0236. 🔧 refactor: remove redundant code blocks
 0651. ✨ feat: enable dark mode toggle
+0686. 🎨 style: standardize quote style
