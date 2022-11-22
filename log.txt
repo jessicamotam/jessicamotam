@@ -42837,3 +42837,4 @@
 0963. 🚀 perf: reduce image load time
 0684. 🚀 perf: reduce image load time
 0207. 🐛 fix: prevent crash on empty input
+0613. 🐛 fix: prevent crash on empty input
