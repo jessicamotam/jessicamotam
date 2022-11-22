@@ -78588,3 +78588,4 @@
 0420. 🚀 perf: reduce image load time
 0742. 📚 docs: clarify environment setup
 0855. 🎨 style: reformat files with black
+0792. 🎨 style: standardize quote style
