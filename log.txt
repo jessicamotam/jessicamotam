@@ -10234,3 +10234,4 @@
 0782. 📚 docs: improve code comments in utils
 0565. ♻️ chore: add GitHub actions badge
 0269. ✅ test: test user registration edge cases
+0843. 📚 docs: document token refresh logic
