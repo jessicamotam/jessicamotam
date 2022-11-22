@@ -21973,3 +21973,4 @@
 0933. 📚 docs: clarify environment setup
 0529. 📚 docs: write FAQ section
 0242. ♻️ chore: clean up unused files
+0721. 🚀 perf: optimize database query for quiz results
