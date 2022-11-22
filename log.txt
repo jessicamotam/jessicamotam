@@ -79172,3 +79172,4 @@
 0694. 🎨 style: rename variables for clarity
 0979. 🎨 style: standardize quote style
 0691. 🎨 style: rename variables for clarity
+0117. ✅ test: increase coverage on auth module
