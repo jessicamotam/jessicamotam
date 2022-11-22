@@ -3819,3 +3819,4 @@
 0198. 📚 docs: clarify environment setup
 0611. ✅ test: test user registration edge cases
 0707. 🎨 style: apply consistent indentation
+0996. ✅ test: test user registration edge cases
