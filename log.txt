@@ -17638,3 +17638,4 @@
 0515. 🚀 perf: optimize database query for quiz results
 0506. 🐛 fix: handle 500 error in quiz API
 0352. ✨ feat: add export to CSV option
+0989. 📚 docs: write FAQ section
