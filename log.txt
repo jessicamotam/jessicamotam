@@ -35633,3 +35633,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0326. 🚀 perf: cache repeated calculations
 0491. 🚀 perf: lazy-load components
+0957. 🐛 fix: fix null pointer exception on login
