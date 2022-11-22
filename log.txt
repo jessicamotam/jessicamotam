@@ -22281,3 +22281,4 @@
 0555. ✨ feat: create admin dashboard
 0043. ✅ test: add integration test for /submit endpoint
 0646. ✅ test: test user registration edge cases
+0116. ✨ feat: support email verification
