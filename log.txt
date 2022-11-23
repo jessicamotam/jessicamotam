@@ -75053,3 +75053,4 @@
 0042. 📚 docs: document token refresh logic
 0195. 📚 docs: clarify environment setup
 0244. ✨ feat: add export to CSV option
+0988. 🐛 fix: fix broken CSS in mobile view
