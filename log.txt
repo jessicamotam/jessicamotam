@@ -76196,3 +76196,4 @@
 0685. ✅ test: test user registration edge cases
 0190. 🎨 style: rename variables for clarity
 0458. ✨ feat: create admin dashboard
+0241. 📚 docs: add API usage examples
