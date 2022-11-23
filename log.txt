@@ -8369,3 +8369,4 @@
 0793. 📚 docs: clarify environment setup
 0903. ✅ test: mock database connection in test suite
 0513. ♻️ chore: bump dependencies
+0571. 🔧 refactor: clean up auth middleware
