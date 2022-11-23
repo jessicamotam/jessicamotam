@@ -8165,3 +8165,4 @@
 0646. ✅ test: test user registration edge cases
 0445. 📚 docs: improve code comments in utils
 0043. ✅ test: add integration test for /submit endpoint
+0292. 📚 docs: clarify environment setup
