@@ -78793,3 +78793,4 @@
 0175. 📚 docs: add API usage examples
 0565. ♻️ chore: add GitHub actions badge
 0181. ♻️ chore: add GitHub actions badge
+0848. 📚 docs: update README with setup steps
