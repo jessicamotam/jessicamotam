@@ -47639,3 +47639,4 @@
 0439. 🐛 fix: correct typo in registration form
 0834. ✅ test: increase coverage on auth module
 0479. 🐛 fix: fix null pointer exception on login
+0218. 🔧 refactor: clean up auth middleware
