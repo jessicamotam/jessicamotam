@@ -67739,3 +67739,4 @@
 0730. ✅ test: test user registration edge cases
 0746. ♻️ chore: add GitHub actions badge
 0993. ✨ feat: implement quiz timer feature
+0081. 🐛 fix: fix null pointer exception on login
