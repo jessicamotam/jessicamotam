@@ -14167,3 +14167,4 @@
 0640. ♻️ chore: bump dependencies
 0296. 🔧 refactor: organize models into subfolders
 0809. ♻️ chore: rename env.example
+0154. 🐛 fix: prevent crash on empty input
