@@ -60015,3 +60015,4 @@
 0102. ✨ feat: support email verification
 0085. ✨ feat: support email verification
 0594. 🎨 style: reformat files with black
+0808. 🚀 perf: optimize database query for quiz results
