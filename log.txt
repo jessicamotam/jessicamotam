@@ -60919,3 +60919,4 @@
 0848. 📚 docs: update README with setup steps
 0399. ✅ test: mock database connection in test suite
 0354. 📚 docs: add API usage examples
+0793. 📚 docs: clarify environment setup
