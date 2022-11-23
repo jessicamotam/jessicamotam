@@ -38544,3 +38544,4 @@
 0281. ✨ feat: support email verification
 0279. ✨ feat: support email verification
 0150. 🎨 style: remove trailing whitespace
+0286. ✅ test: mock database connection in test suite
