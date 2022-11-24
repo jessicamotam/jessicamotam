@@ -18447,3 +18447,4 @@
 0197. 📚 docs: update README with setup steps
 0939. 📚 docs: update README with setup steps
 0333. 🚀 perf: cache repeated calculations
+0747. 🔧 refactor: clean up auth middleware
