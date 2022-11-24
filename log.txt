@@ -30229,3 +30229,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0254. 🚀 perf: reduce image load time
 0371. ✅ test: add integration test for /submit endpoint
+0295. 🎨 style: remove trailing whitespace
