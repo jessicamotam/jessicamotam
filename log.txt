@@ -35319,3 +35319,4 @@
 0648. ♻️ chore: bump dependencies
 0110. 🐛 fix: prevent crash on empty input
 0776. ✅ test: add integration test for /submit endpoint
+0732. ♻️ chore: add GitHub actions badge
