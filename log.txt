@@ -46169,3 +46169,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0076. 🎨 style: reformat files with black
 0736. 🐛 fix: fix null pointer exception on login
+0080. ✨ feat: support email verification
