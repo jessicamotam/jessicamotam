@@ -2135,3 +2135,4 @@
 0050. ✨ feat: enable dark mode toggle
 0566. 📚 docs: write FAQ section
 0928. 🎨 style: apply consistent indentation
+0770. ♻️ chore: rename env.example
