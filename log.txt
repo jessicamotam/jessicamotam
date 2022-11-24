@@ -54320,3 +54320,4 @@
 0412. ✅ test: increase coverage on auth module
 0220. 🐛 fix: fix null pointer exception on login
 0528. ♻️ chore: clean up unused files
+0615. 🐛 fix: correct typo in registration form
