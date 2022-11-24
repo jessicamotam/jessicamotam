@@ -81489,3 +81489,4 @@
 0419. 🎨 style: remove trailing whitespace
 0503. ♻️ chore: rename env.example
 0949. 📚 docs: write FAQ section
+0615. 🐛 fix: correct typo in registration form
