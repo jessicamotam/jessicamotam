@@ -78083,3 +78083,4 @@
 0975. 🎨 style: apply consistent indentation
 0742. 📚 docs: clarify environment setup
 0192. ✨ feat: enable dark mode toggle
+0698. 🐛 fix: handle 500 error in quiz API
