@@ -11729,3 +11729,4 @@
 0401. 🚀 perf: reduce image load time
 0344. ♻️ chore: add GitHub actions badge
 0559. 🔧 refactor: split large controller into smaller functions
+0998. 🐛 fix: fix null pointer exception on login
