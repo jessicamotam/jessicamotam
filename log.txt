@@ -9688,3 +9688,4 @@
 0093. ✅ test: add unit test for quiz service
 0826. 📚 docs: clarify environment setup
 0532. 🔧 refactor: split large controller into smaller functions
+0547. 📚 docs: write FAQ section
