@@ -33109,3 +33109,4 @@
 0385. ♻️ chore: clean up unused files
 0768. 🎨 style: remove trailing whitespace
 0832. 🔧 refactor: remove redundant code blocks
+0521. 🎨 style: standardize quote style
