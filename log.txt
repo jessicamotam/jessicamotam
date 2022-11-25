@@ -78105,3 +78105,4 @@
 0526. ✨ feat: add user authentication
 0408. ♻️ chore: add GitHub actions badge
 0182. 🔧 refactor: remove redundant code blocks
+0294. 🐛 fix: prevent crash on empty input
