@@ -53118,3 +53118,4 @@
 0016. 🎨 style: apply consistent indentation
 0875. ✅ test: increase coverage on auth module
 0159. 🚀 perf: lazy-load components
+0477. 🐛 fix: fix broken CSS in mobile view
