@@ -46415,3 +46415,4 @@
 0390. 🎨 style: standardize quote style
 0485. 📚 docs: update README with setup steps
 0372. ✨ feat: add user authentication
+0783. 🐛 fix: handle 500 error in quiz API
