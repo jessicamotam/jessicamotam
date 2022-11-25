@@ -87834,3 +87834,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0160. ♻️ chore: bump dependencies
 0854. ♻️ chore: rename env.example
+0563. 📚 docs: clarify environment setup
