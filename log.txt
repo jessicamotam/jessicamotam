@@ -63623,3 +63623,4 @@
 0027. 📚 docs: clarify environment setup
 0393. 🚀 perf: lazy-load components
 0901. ✨ feat: add user authentication
+0742. 📚 docs: clarify environment setup
