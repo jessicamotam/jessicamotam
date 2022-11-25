@@ -35667,3 +35667,4 @@
 0260. ✨ feat: create admin dashboard
 0357. ✅ test: add unit test for quiz service
 0096. 🐛 fix: prevent crash on empty input
+0725. 🚀 perf: lazy-load components
