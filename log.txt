@@ -61692,3 +61692,4 @@
 0503. ♻️ chore: rename env.example
 0048. 📚 docs: update README with setup steps
 0647. 🐛 fix: prevent crash on empty input
+0233. 🚀 perf: lazy-load components
