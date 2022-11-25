@@ -14095,3 +14095,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0326. 🚀 perf: cache repeated calculations
 0342. 🚀 perf: cache repeated calculations
+0140. 🐛 fix: handle 500 error in quiz API
