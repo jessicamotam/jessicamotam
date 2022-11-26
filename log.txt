@@ -89083,3 +89083,4 @@
 0914. ✅ test: test user registration edge cases
 0839. 🎨 style: apply consistent indentation
 0712. 🎨 style: apply consistent indentation
+0279. ✨ feat: support email verification
