@@ -80027,3 +80027,4 @@
 0111. 📚 docs: update README with setup steps
 0804. ♻️ chore: add GitHub actions badge
 0091. ✨ feat: add user authentication
+0711. 🐛 fix: fix broken CSS in mobile view
