@@ -17492,3 +17492,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0002. 🚀 perf: cache repeated calculations
 0575. ✅ test: add unit test for quiz service
+0649. 📚 docs: update README with setup steps
