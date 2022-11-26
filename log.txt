@@ -74967,3 +74967,4 @@
 0109. 🚀 perf: lazy-load components
 0660. 🐛 fix: correct typo in registration form
 0078. ♻️ chore: update .gitignore
+0901. ✨ feat: add user authentication
