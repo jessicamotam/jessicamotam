@@ -69109,3 +69109,4 @@
 0517. ✅ test: mock database connection in test suite
 0326. 🚀 perf: cache repeated calculations
 0018. 🔧 refactor: organize models into subfolders
+0627. 📚 docs: document token refresh logic
