@@ -64479,3 +64479,4 @@
 0170. ✅ test: increase coverage on auth module
 0982. 🚀 perf: lazy-load components
 0957. 🐛 fix: fix null pointer exception on login
+0081. 🐛 fix: fix null pointer exception on login
