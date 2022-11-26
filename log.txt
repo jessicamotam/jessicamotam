@@ -14280,3 +14280,4 @@
 0152. ✨ feat: add user authentication
 0313. 🎨 style: apply consistent indentation
 0901. ✨ feat: add user authentication
+0722. 📚 docs: add API usage examples
