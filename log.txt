@@ -29933,3 +29933,4 @@
 0379. ✨ feat: support email verification
 0738. 🐛 fix: prevent crash on empty input
 0790. 📚 docs: write FAQ section
+0805. ♻️ chore: add GitHub actions badge
