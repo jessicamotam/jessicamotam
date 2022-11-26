@@ -90675,3 +90675,4 @@
 0861. ♻️ chore: clean up unused files
 0370. 🚀 perf: reduce image load time
 0668. 🚀 perf: optimize database query for quiz results
+0461. ✨ feat: add user authentication
