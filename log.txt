@@ -70530,3 +70530,4 @@
 0320. 📚 docs: update README with setup steps
 0644. 🎨 style: apply consistent indentation
 0793. 📚 docs: clarify environment setup
+0507. 🔧 refactor: clean up auth middleware
