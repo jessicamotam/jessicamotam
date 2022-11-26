@@ -514,3 +514,4 @@
 0842. 🎨 style: remove trailing whitespace
 0307. ✨ feat: support email verification
 0889. 🚀 perf: lazy-load components
+0036. 🔧 refactor: clean up auth middleware
