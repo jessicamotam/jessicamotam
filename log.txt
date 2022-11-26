@@ -3701,3 +3701,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0911. ✅ test: increase coverage on auth module
 0191. 🔧 refactor: refactor quiz grading logic
+0875. ✅ test: increase coverage on auth module
