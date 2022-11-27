@@ -11982,3 +11982,4 @@
 0875. ✅ test: increase coverage on auth module
 0005. ✅ test: add unit test for quiz service
 0321. 🔧 refactor: organize models into subfolders
+0985. 📚 docs: document token refresh logic
