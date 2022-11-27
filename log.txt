@@ -57061,3 +57061,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0898. 🐛 fix: fix broken CSS in mobile view
 0461. ✨ feat: add user authentication
+0618. ✨ feat: support email verification
