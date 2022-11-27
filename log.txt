@@ -73197,3 +73197,4 @@
 0174. 📚 docs: clarify environment setup
 0348. ✅ test: test user registration edge cases
 0542. 🔧 refactor: organize models into subfolders
+0044. ✅ test: add unit test for quiz service
