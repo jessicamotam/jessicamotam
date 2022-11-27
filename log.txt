@@ -67979,3 +67979,4 @@
 0927. ♻️ chore: bump dependencies
 0310. 🔧 refactor: refactor quiz grading logic
 0225. 🚀 perf: reduce image load time
+0090. ✅ test: increase coverage on auth module
