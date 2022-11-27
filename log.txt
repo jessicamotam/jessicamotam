@@ -45220,3 +45220,4 @@
 0883. 📚 docs: improve code comments in utils
 0166. 🚀 perf: cache repeated calculations
 0142. ✨ feat: implement quiz timer feature
+0558. ✨ feat: enable dark mode toggle
