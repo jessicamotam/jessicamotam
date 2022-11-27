@@ -34739,3 +34739,4 @@
 0722. 📚 docs: add API usage examples
 0751. 🐛 fix: handle 500 error in quiz API
 0236. 🔧 refactor: remove redundant code blocks
+0578. ✅ test: add integration test for /submit endpoint
