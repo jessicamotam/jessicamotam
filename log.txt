@@ -33110,3 +33110,4 @@
 0768. 🎨 style: remove trailing whitespace
 0832. 🔧 refactor: remove redundant code blocks
 0521. 🎨 style: standardize quote style
+0363. 📚 docs: clarify environment setup
