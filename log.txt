@@ -2776,3 +2776,4 @@
 0265. 🎨 style: reformat files with black
 0695. ✨ feat: create admin dashboard
 0790. 📚 docs: write FAQ section
+0536. ✨ feat: add user authentication
