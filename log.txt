@@ -77925,3 +77925,4 @@
 0292. 📚 docs: clarify environment setup
 0485. 📚 docs: update README with setup steps
 0032. 🎨 style: apply consistent indentation
+0451. ✨ feat: support email verification
