@@ -42713,3 +42713,4 @@
 0373. 📚 docs: document token refresh logic
 0114. ♻️ chore: update .gitignore
 0946. ✅ test: add unit test for quiz service
+0107. 🐛 fix: prevent crash on empty input
