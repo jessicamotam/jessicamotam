@@ -89837,3 +89837,4 @@
 0567. 📚 docs: add API usage examples
 0691. 🎨 style: rename variables for clarity
 0916. ♻️ chore: bump dependencies
+0451. ✨ feat: support email verification
