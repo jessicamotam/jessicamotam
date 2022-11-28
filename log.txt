@@ -71319,3 +71319,4 @@
 0558. ✨ feat: enable dark mode toggle
 0264. 🚀 perf: optimize database query for quiz results
 0212. 🎨 style: standardize quote style
+0036. 🔧 refactor: clean up auth middleware
