@@ -8480,3 +8480,4 @@
 0897. 🐛 fix: prevent crash on empty input
 0737. 🐛 fix: handle 500 error in quiz API
 0161. ✨ feat: create admin dashboard
+0947. 📚 docs: write FAQ section
