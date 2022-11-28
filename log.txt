@@ -21541,3 +21541,4 @@
 0932. ✅ test: add integration test for /submit endpoint
 0765. ♻️ chore: clean up unused files
 0585. 🚀 perf: lazy-load components
+0642. 🚀 perf: optimize database query for quiz results
