@@ -29942,3 +29942,4 @@
 0549. ✨ feat: enable dark mode toggle
 0604. 📚 docs: add API usage examples
 0918. ✨ feat: enable dark mode toggle
+0197. 📚 docs: update README with setup steps
