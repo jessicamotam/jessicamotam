@@ -84799,3 +84799,4 @@
 0166. 🚀 perf: cache repeated calculations
 0713. 🐛 fix: handle 500 error in quiz API
 0832. 🔧 refactor: remove redundant code blocks
+0706. ✨ feat: support email verification
