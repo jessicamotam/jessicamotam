@@ -55143,3 +55143,4 @@
 0715. ✨ feat: create admin dashboard
 0172. 📚 docs: add API usage examples
 0068. 🐛 fix: fix null pointer exception on login
+0102. ✨ feat: support email verification
