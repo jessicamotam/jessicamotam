@@ -38753,3 +38753,4 @@
 0389. 📚 docs: improve code comments in utils
 0556. ✨ feat: support email verification
 0602. 🔧 refactor: remove redundant code blocks
+0671. 🐛 fix: fix null pointer exception on login
