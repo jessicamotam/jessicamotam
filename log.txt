@@ -6723,3 +6723,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0231. 🔧 refactor: clean up auth middleware
 0005. ✅ test: add unit test for quiz service
+0649. 📚 docs: update README with setup steps
