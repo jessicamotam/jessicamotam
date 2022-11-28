@@ -81448,3 +81448,4 @@
 0095. ✅ test: mock database connection in test suite
 0322. 🔧 refactor: split large controller into smaller functions
 0187. ✨ feat: support email verification
+0329. 📚 docs: update README with setup steps
