@@ -25442,3 +25442,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0351. ✨ feat: add export to CSV option
 0118. 🚀 perf: reduce image load time
+0328. 🐛 fix: resolve issue with date parsing
