@@ -89907,3 +89907,4 @@
 0141. 📚 docs: document token refresh logic
 0088. 📚 docs: add API usage examples
 0922. 📚 docs: write FAQ section
+0107. 🐛 fix: prevent crash on empty input
