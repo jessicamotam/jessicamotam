@@ -34430,3 +34430,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0631. ✨ feat: create admin dashboard
 0401. 🚀 perf: reduce image load time
+0148. 🔧 refactor: organize models into subfolders
