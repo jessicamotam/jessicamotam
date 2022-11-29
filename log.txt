@@ -90348,3 +90348,4 @@
 0449. ✅ test: add unit test for quiz service
 0251. ♻️ chore: update .gitignore
 0681. ✨ feat: create admin dashboard
+0227. ✅ test: test user registration edge cases
