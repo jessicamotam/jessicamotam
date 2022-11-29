@@ -1895,3 +1895,4 @@
 0095. ✅ test: mock database connection in test suite
 0761. ✅ test: add unit test for quiz service
 0299. 🐛 fix: resolve issue with date parsing
+0948. 🐛 fix: fix broken CSS in mobile view
