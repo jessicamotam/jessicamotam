@@ -76846,3 +76846,4 @@
 0729. 🔧 refactor: refactor quiz grading logic
 0021. ✨ feat: support email verification
 0993. ✨ feat: implement quiz timer feature
+0676. 🐛 fix: prevent crash on empty input
