@@ -2195,3 +2195,4 @@
 0486. ✨ feat: add export to CSV option
 0399. ✅ test: mock database connection in test suite
 0017. ✅ test: mock database connection in test suite
+0977. 🔧 refactor: organize models into subfolders
