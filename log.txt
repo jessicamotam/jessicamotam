@@ -14059,3 +14059,4 @@
 0170. ✅ test: increase coverage on auth module
 0282. 🔧 refactor: remove redundant code blocks
 0964. ♻️ chore: clean up unused files
+0378. 🐛 fix: prevent crash on empty input
