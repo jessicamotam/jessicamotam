@@ -15971,3 +15971,4 @@
 0844. 📚 docs: update README with setup steps
 0992. ♻️ chore: clean up unused files
 0547. 📚 docs: write FAQ section
+0515. 🚀 perf: optimize database query for quiz results
