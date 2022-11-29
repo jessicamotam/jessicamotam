@@ -63300,3 +63300,4 @@
 0923. ✨ feat: support email verification
 0723. 🔧 refactor: remove redundant code blocks
 0730. ✅ test: test user registration edge cases
+0174. 📚 docs: clarify environment setup
