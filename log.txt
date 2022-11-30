@@ -60977,3 +60977,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0283. ♻️ chore: add GitHub actions badge
 0804. ♻️ chore: add GitHub actions badge
+0491. 🚀 perf: lazy-load components
