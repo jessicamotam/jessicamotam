@@ -31698,3 +31698,4 @@
 0109. 🚀 perf: lazy-load components
 0255. 🔧 refactor: refactor quiz grading logic
 0733. 🐛 fix: fix null pointer exception on login
+0605. ✨ feat: support email verification
