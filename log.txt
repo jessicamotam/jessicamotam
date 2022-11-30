@@ -51935,3 +51935,4 @@
 0054. ♻️ chore: update .gitignore
 0283. ♻️ chore: add GitHub actions badge
 0743. 🎨 style: apply consistent indentation
+0270. ♻️ chore: rename env.example
