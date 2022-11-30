@@ -44578,3 +44578,4 @@
 0766. 🎨 style: reformat files with black
 0600. 🐛 fix: prevent crash on empty input
 0053. ✅ test: increase coverage on auth module
+0778. 📚 docs: write FAQ section
