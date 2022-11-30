@@ -14276,3 +14276,4 @@
 0021. ✨ feat: support email verification
 0020. ✅ test: add integration test for /submit endpoint
 0885. ♻️ chore: update .gitignore
+0793. 📚 docs: clarify environment setup
