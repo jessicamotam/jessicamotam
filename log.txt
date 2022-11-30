@@ -7864,3 +7864,4 @@
 0417. 🎨 style: rename variables for clarity
 0172. 📚 docs: add API usage examples
 0313. 🎨 style: apply consistent indentation
+0379. ✨ feat: support email verification
