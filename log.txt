@@ -37460,3 +37460,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0950. 🎨 style: reformat files with black
 0452. ✨ feat: implement quiz timer feature
+0224. 🐛 fix: fix broken CSS in mobile view
