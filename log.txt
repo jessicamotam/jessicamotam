@@ -61094,3 +61094,4 @@
 0695. ✨ feat: create admin dashboard
 0028. 🎨 style: standardize quote style
 0399. ✅ test: mock database connection in test suite
+0592. 📚 docs: add API usage examples
