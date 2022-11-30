@@ -33058,3 +33058,4 @@
 0194. 🎨 style: standardize quote style
 0917. ✅ test: add integration test for /submit endpoint
 0936. 🔧 refactor: organize models into subfolders
+0359. 🔧 refactor: clean up auth middleware
