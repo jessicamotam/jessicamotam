@@ -88416,3 +88416,4 @@
 0945. ♻️ chore: add GitHub actions badge
 1000. ✅ test: increase coverage on auth module
 0357. ✅ test: add unit test for quiz service
+0461. ✨ feat: add user authentication
