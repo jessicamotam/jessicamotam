@@ -8258,3 +8258,4 @@
 0238. 🎨 style: apply consistent indentation
 0567. 📚 docs: add API usage examples
 0898. 🐛 fix: fix broken CSS in mobile view
+0394. 🚀 perf: lazy-load components
