@@ -21180,3 +21180,4 @@
 0221. ✨ feat: add user authentication
 0096. 🐛 fix: prevent crash on empty input
 0583. ✅ test: increase coverage on auth module
+0435. ✅ test: add unit test for quiz service
