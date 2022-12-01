@@ -53385,3 +53385,4 @@
 0951. 🎨 style: rename variables for clarity
 0596. ♻️ chore: update .gitignore
 0403. ✅ test: mock database connection in test suite
+0253. 📚 docs: update README with setup steps
