@@ -42423,3 +42423,4 @@
 0640. ♻️ chore: bump dependencies
 0906. 📚 docs: add API usage examples
 0713. 🐛 fix: handle 500 error in quiz API
+0715. ✨ feat: create admin dashboard
