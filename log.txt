@@ -44337,3 +44337,4 @@
 0986. 📚 docs: document token refresh logic
 0186. ✅ test: test user registration edge cases
 0543. ✨ feat: support email verification
+0677. 📚 docs: add API usage examples
