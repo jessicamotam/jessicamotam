@@ -10904,3 +10904,4 @@
 0810. 🔧 refactor: refactor quiz grading logic
 0162. ♻️ chore: add GitHub actions badge
 0954. 🚀 perf: cache repeated calculations
+0998. 🐛 fix: fix null pointer exception on login
