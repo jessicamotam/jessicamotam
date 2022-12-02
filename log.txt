@@ -41533,3 +41533,4 @@
 0225. 🚀 perf: reduce image load time
 0301. 🎨 style: apply consistent indentation
 0769. ✨ feat: create admin dashboard
+0535. 📚 docs: write FAQ section
