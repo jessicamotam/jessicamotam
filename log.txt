@@ -87394,3 +87394,4 @@
 0132. ✅ test: add unit test for quiz service
 0225. 🚀 perf: reduce image load time
 0299. 🐛 fix: resolve issue with date parsing
+0751. 🐛 fix: handle 500 error in quiz API
