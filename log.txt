@@ -45017,3 +45017,4 @@
 0340. 🚀 perf: optimize database query for quiz results
 0992. ♻️ chore: clean up unused files
 0639. 🐛 fix: correct typo in registration form
+0616. 🚀 perf: lazy-load components
