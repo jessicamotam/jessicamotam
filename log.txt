@@ -21461,3 +21461,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0520. 🐛 fix: fix null pointer exception on login
 0950. 🎨 style: reformat files with black
+0484. 🐛 fix: handle 500 error in quiz API
