@@ -86407,3 +86407,4 @@
 0914. ✅ test: test user registration edge cases
 0226. 🚀 perf: lazy-load components
 0632. 🎨 style: remove trailing whitespace
+0754. 🐛 fix: handle 500 error in quiz API
