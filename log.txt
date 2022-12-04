@@ -61930,3 +61930,4 @@
 0561. 📚 docs: write FAQ section
 0726. ✨ feat: enable dark mode toggle
 0230. ✨ feat: create admin dashboard
+0068. 🐛 fix: fix null pointer exception on login
