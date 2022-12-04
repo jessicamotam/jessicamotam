@@ -32587,3 +32587,4 @@
 0242. ♻️ chore: clean up unused files
 0230. ✨ feat: create admin dashboard
 0265. 🎨 style: reformat files with black
+0050. ✨ feat: enable dark mode toggle
