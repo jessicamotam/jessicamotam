@@ -42164,3 +42164,4 @@
 0453. 🎨 style: standardize quote style
 0923. ✨ feat: support email verification
 0319. 🐛 fix: handle 500 error in quiz API
+0547. 📚 docs: write FAQ section
