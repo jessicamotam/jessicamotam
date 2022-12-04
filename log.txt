@@ -90968,3 +90968,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0666. 🐛 fix: fix broken CSS in mobile view
 0105. 🐛 fix: correct typo in registration form
+0484. 🐛 fix: handle 500 error in quiz API
