@@ -5008,3 +5008,4 @@
 0606. 📚 docs: improve code comments in utils
 0566. 📚 docs: write FAQ section
 0039. ✅ test: add integration test for /submit endpoint
+0435. ✅ test: add unit test for quiz service
