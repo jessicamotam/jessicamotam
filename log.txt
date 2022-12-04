@@ -65955,3 +65955,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0639. 🐛 fix: correct typo in registration form
 0367. 🐛 fix: fix null pointer exception on login
+0583. ✅ test: increase coverage on auth module
