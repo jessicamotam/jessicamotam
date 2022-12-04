@@ -52599,3 +52599,4 @@
 0266. 🔧 refactor: remove redundant code blocks
 0807. 🔧 refactor: remove redundant code blocks
 0252. 🎨 style: remove trailing whitespace
+0613. 🐛 fix: prevent crash on empty input
