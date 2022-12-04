@@ -12643,3 +12643,4 @@
 0516. ✅ test: add unit test for quiz service
 0077. ♻️ chore: rename env.example
 0100. ♻️ chore: update .gitignore
+0116. ✨ feat: support email verification
