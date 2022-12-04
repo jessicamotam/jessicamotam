@@ -22615,3 +22615,4 @@
 0077. ♻️ chore: rename env.example
 0438. ♻️ chore: bump dependencies
 0178. ✨ feat: support email verification
+0593. 🐛 fix: correct typo in registration form
