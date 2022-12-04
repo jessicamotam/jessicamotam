@@ -63468,3 +63468,4 @@
 0013. ✅ test: increase coverage on auth module
 0702. ✨ feat: add user authentication
 0698. 🐛 fix: handle 500 error in quiz API
+0775. 🐛 fix: fix null pointer exception on login
