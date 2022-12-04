@@ -64782,3 +64782,4 @@
 0927. ♻️ chore: bump dependencies
 0853. 🔧 refactor: refactor quiz grading logic
 0146. 🎨 style: apply consistent indentation
+0647. 🐛 fix: prevent crash on empty input
