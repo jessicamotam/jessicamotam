@@ -83485,3 +83485,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0249. ✅ test: increase coverage on auth module
 0680. ♻️ chore: add GitHub actions badge
+0090. ✅ test: increase coverage on auth module
