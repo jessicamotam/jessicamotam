@@ -6638,3 +6638,4 @@
 0952. 🔧 refactor: split large controller into smaller functions
 0263. 📚 docs: add API usage examples
 0532. 🔧 refactor: split large controller into smaller functions
+0085. ✨ feat: support email verification
