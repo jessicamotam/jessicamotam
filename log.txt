@@ -23291,3 +23291,4 @@
 0969. ✨ feat: create admin dashboard
 0082. 🔧 refactor: refactor quiz grading logic
 0542. 🔧 refactor: organize models into subfolders
+0600. 🐛 fix: prevent crash on empty input
