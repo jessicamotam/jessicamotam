@@ -31420,3 +31420,4 @@
 0227. ✅ test: test user registration edge cases
 0229. 🚀 perf: optimize database query for quiz results
 0694. 🎨 style: rename variables for clarity
+0116. ✨ feat: support email verification
