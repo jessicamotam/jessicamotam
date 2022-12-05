@@ -24315,3 +24315,4 @@
 0212. 🎨 style: standardize quote style
 0196. ♻️ chore: bump dependencies
 0372. ✨ feat: add user authentication
+0968. 🎨 style: standardize quote style
