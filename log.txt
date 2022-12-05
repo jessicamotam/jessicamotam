@@ -1926,3 +1926,4 @@
 0862. ♻️ chore: bump dependencies
 0707. 🎨 style: apply consistent indentation
 0211. 🔧 refactor: remove redundant code blocks
+0041. 🐛 fix: fix broken CSS in mobile view
