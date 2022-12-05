@@ -3348,3 +3348,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0117. ✅ test: increase coverage on auth module
 0629. 🔧 refactor: organize models into subfolders
+0378. 🐛 fix: prevent crash on empty input
