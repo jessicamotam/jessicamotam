@@ -30979,3 +30979,4 @@
 0667. ✨ feat: add export to CSV option
 0874. 🔧 refactor: split large controller into smaller functions
 0985. 📚 docs: document token refresh logic
+0982. 🚀 perf: lazy-load components
