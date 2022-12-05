@@ -18777,3 +18777,4 @@
 0348. ✅ test: test user registration edge cases
 0760. 🐛 fix: resolve issue with date parsing
 0211. 🔧 refactor: remove redundant code blocks
+0049. 🐛 fix: handle 500 error in quiz API
