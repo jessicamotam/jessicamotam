@@ -57739,3 +57739,4 @@
 0334. 🚀 perf: cache repeated calculations
 0082. 🔧 refactor: refactor quiz grading logic
 0514. 🐛 fix: fix broken CSS in mobile view
+0203. 🚀 perf: lazy-load components
