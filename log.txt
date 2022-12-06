@@ -65577,3 +65577,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0786. ✨ feat: enable dark mode toggle
 0971. 🎨 style: standardize quote style
+0380. 🐛 fix: fix null pointer exception on login
