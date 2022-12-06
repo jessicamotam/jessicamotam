@@ -90605,3 +90605,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0200. 🐛 fix: handle 500 error in quiz API
 0791. 🔧 refactor: clean up auth middleware
+0265. 🎨 style: reformat files with black
