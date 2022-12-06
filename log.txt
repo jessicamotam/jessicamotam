@@ -82556,3 +82556,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0664. ✅ test: add unit test for quiz service
 0388. 🎨 style: reformat files with black
+0074. ♻️ chore: add GitHub actions badge
