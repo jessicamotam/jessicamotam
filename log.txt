@@ -84176,3 +84176,4 @@
 0348. ✅ test: test user registration edge cases
 0066. 🔧 refactor: clean up auth middleware
 0701. 🔧 refactor: clean up auth middleware
+0980. 🎨 style: reformat files with black
