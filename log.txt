@@ -85854,3 +85854,4 @@
 0295. 🎨 style: remove trailing whitespace
 0657. 🎨 style: standardize quote style
 0100. ♻️ chore: update .gitignore
+0612. ✅ test: test user registration edge cases
