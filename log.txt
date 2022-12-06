@@ -36719,3 +36719,4 @@
 0379. ✨ feat: support email verification
 0227. ✅ test: test user registration edge cases
 0394. 🚀 perf: lazy-load components
+0294. 🐛 fix: prevent crash on empty input
