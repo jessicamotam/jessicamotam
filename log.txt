@@ -63321,3 +63321,4 @@
 0197. 📚 docs: update README with setup steps
 0734. ✨ feat: add export to CSV option
 0886. ♻️ chore: clean up unused files
+0468. 📚 docs: update README with setup steps
