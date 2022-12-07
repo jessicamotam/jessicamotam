@@ -39379,3 +39379,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0222. 🐛 fix: handle 500 error in quiz API
 0222. 🐛 fix: handle 500 error in quiz API
+0068. 🐛 fix: fix null pointer exception on login
