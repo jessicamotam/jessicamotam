@@ -817,3 +817,4 @@
 0885. ♻️ chore: update .gitignore
 0711. 🐛 fix: fix broken CSS in mobile view
 0666. 🐛 fix: fix broken CSS in mobile view
+0517. ✅ test: mock database connection in test suite
