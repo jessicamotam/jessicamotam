@@ -24337,3 +24337,4 @@
 0855. 🎨 style: reformat files with black
 0033. 🎨 style: apply consistent indentation
 0646. ✅ test: test user registration edge cases
+0544. 🔧 refactor: organize models into subfolders
