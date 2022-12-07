@@ -44318,3 +44318,4 @@
 0429. ✨ feat: add user authentication
 0086. 🐛 fix: correct typo in registration form
 0675. 🔧 refactor: organize models into subfolders
+0607. 🐛 fix: prevent crash on empty input
