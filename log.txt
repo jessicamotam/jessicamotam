@@ -45559,3 +45559,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0773. 📚 docs: document token refresh logic
 0377. ✨ feat: add user authentication
+0077. ♻️ chore: rename env.example
