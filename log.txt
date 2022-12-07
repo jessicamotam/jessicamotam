@@ -34707,3 +34707,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0222. 🐛 fix: handle 500 error in quiz API
 0986. 📚 docs: document token refresh logic
+0605. ✨ feat: support email verification
