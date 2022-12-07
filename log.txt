@@ -15124,3 +15124,4 @@
 0295. 🎨 style: remove trailing whitespace
 0367. 🐛 fix: fix null pointer exception on login
 0215. 🎨 style: reformat files with black
+0749. ✨ feat: support email verification
