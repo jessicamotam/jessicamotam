@@ -41306,3 +41306,4 @@
 0318. 🔧 refactor: refactor quiz grading logic
 0544. 🔧 refactor: organize models into subfolders
 0956. 📚 docs: clarify environment setup
+0615. 🐛 fix: correct typo in registration form
