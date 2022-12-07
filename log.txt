@@ -9651,3 +9651,4 @@
 0163. ✨ feat: implement quiz timer feature
 0210. 🎨 style: apply consistent indentation
 0242. ♻️ chore: clean up unused files
+0218. 🔧 refactor: clean up auth middleware
