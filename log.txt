@@ -86561,3 +86561,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0349. ✅ test: increase coverage on auth module
 0042. 📚 docs: document token refresh logic
+0841. 🚀 perf: optimize database query for quiz results
