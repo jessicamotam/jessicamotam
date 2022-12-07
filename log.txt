@@ -46336,3 +46336,4 @@
 0917. ✅ test: add integration test for /submit endpoint
 0163. ✨ feat: implement quiz timer feature
 0821. ✅ test: add integration test for /submit endpoint
+0066. 🔧 refactor: clean up auth middleware
