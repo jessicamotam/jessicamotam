@@ -37910,3 +37910,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0905. ♻️ chore: bump dependencies
 0560. 🎨 style: rename variables for clarity
+0024. 📚 docs: write FAQ section
