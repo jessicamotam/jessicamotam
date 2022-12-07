@@ -19346,3 +19346,4 @@
 0050. ✨ feat: enable dark mode toggle
 0351. ✨ feat: add export to CSV option
 0033. 🎨 style: apply consistent indentation
+0852. ✨ feat: enable dark mode toggle
