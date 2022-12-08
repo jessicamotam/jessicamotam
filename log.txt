@@ -84031,3 +84031,4 @@
 0857. 🎨 style: rename variables for clarity
 0933. 📚 docs: clarify environment setup
 0773. 📚 docs: document token refresh logic
+0711. 🐛 fix: fix broken CSS in mobile view
