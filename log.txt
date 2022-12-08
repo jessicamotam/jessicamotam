@@ -48098,3 +48098,4 @@
 0275. 🎨 style: standardize quote style
 0233. 🚀 perf: lazy-load components
 0934. ✨ feat: support email verification
+0607. 🐛 fix: prevent crash on empty input
