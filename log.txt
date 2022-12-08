@@ -957,3 +957,4 @@
 0342. 🚀 perf: cache repeated calculations
 0031. 📚 docs: document token refresh logic
 0199. ✨ feat: create admin dashboard
+0556. ✨ feat: support email verification
