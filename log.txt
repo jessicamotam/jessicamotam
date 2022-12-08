@@ -79192,3 +79192,4 @@
 0682. ♻️ chore: rename env.example
 0884. 📚 docs: clarify environment setup
 0688. 🚀 perf: reduce image load time
+0657. 🎨 style: standardize quote style
