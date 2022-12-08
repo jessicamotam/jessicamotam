@@ -12249,3 +12249,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0675. 🔧 refactor: organize models into subfolders
 0588. 🔧 refactor: organize models into subfolders
+0600. 🐛 fix: prevent crash on empty input
