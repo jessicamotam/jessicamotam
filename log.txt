@@ -13894,3 +13894,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0796. 🔧 refactor: refactor quiz grading logic
 0512. 🚀 perf: reduce image load time
+0499. 🎨 style: reformat files with black
