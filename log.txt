@@ -88410,3 +88410,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0094. 📚 docs: document token refresh logic
 0506. 🐛 fix: handle 500 error in quiz API
+0994. 🚀 perf: reduce image load time
