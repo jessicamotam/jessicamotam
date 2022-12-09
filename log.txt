@@ -74745,3 +74745,4 @@
 0656. 🎨 style: apply consistent indentation
 0376. 🎨 style: apply consistent indentation
 0086. 🐛 fix: correct typo in registration form
+0749. ✨ feat: support email verification
