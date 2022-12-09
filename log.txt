@@ -71675,3 +71675,4 @@
 0614. 🚀 perf: reduce image load time
 0626. 🎨 style: standardize quote style
 0061. ✨ feat: create admin dashboard
+0779. 🔧 refactor: organize models into subfolders
