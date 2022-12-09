@@ -89327,3 +89327,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0498. ✅ test: mock database connection in test suite
 0929. ✨ feat: support email verification
+0743. 🎨 style: apply consistent indentation
