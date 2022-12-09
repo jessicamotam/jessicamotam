@@ -36693,3 +36693,4 @@
 0112. ✨ feat: enable dark mode toggle
 0599. ✅ test: test user registration edge cases
 0641. 📚 docs: write FAQ section
+0607. 🐛 fix: prevent crash on empty input
