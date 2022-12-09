@@ -74596,3 +74596,4 @@
 0917. ✅ test: add integration test for /submit endpoint
 0905. ♻️ chore: bump dependencies
 0149. ✨ feat: add export to CSV option
+0610. 🚀 perf: lazy-load components
