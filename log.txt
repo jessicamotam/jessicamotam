@@ -71610,3 +71610,4 @@
 0295. 🎨 style: remove trailing whitespace
 0130. 🔧 refactor: split large controller into smaller functions
 0490. ✨ feat: create admin dashboard
+0422. 🔧 refactor: organize models into subfolders
