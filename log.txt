@@ -53266,3 +53266,4 @@
 0741. 🎨 style: apply consistent indentation
 0135. ✅ test: test user registration edge cases
 0462. ♻️ chore: update .gitignore
+0122. ✨ feat: support email verification
