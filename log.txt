@@ -5661,3 +5661,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0240. 🔧 refactor: remove redundant code blocks
 0980. 🎨 style: reformat files with black
+0605. ✨ feat: support email verification
