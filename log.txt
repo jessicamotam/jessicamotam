@@ -60657,3 +60657,4 @@
 0095. ✅ test: mock database connection in test suite
 0498. ✅ test: mock database connection in test suite
 0434. 📚 docs: document token refresh logic
+0006. 🐛 fix: prevent crash on empty input
