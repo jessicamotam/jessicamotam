@@ -20820,3 +20820,4 @@
 0911. ✅ test: increase coverage on auth module
 0864. 🐛 fix: correct typo in registration form
 0317. ✅ test: test user registration edge cases
+0576. ♻️ chore: update .gitignore
