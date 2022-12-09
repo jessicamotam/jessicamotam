@@ -80506,3 +80506,4 @@
 0847. ♻️ chore: clean up unused files
 0240. 🔧 refactor: remove redundant code blocks
 0178. ✨ feat: support email verification
+0208. 🔧 refactor: clean up auth middleware
