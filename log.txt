@@ -37843,3 +37843,4 @@
 0336. ✨ feat: add export to CSV option
 0476. 🚀 perf: reduce image load time
 0484. 🐛 fix: handle 500 error in quiz API
+0802. 🔧 refactor: remove redundant code blocks
