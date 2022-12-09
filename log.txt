@@ -80584,3 +80584,4 @@
 0704. 🚀 perf: cache repeated calculations
 0546. 🐛 fix: fix null pointer exception on login
 0914. ✅ test: test user registration edge cases
+0871. ✅ test: add integration test for /submit endpoint
