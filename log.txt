@@ -15143,3 +15143,4 @@
 0892. ✅ test: add unit test for quiz service
 0586. 🎨 style: remove trailing whitespace
 0337. 📚 docs: document token refresh logic
+0610. 🚀 perf: lazy-load components
