@@ -19959,3 +19959,4 @@
 0876. ♻️ chore: rename env.example
 0520. 🐛 fix: fix null pointer exception on login
 0438. ♻️ chore: bump dependencies
+0096. 🐛 fix: prevent crash on empty input
