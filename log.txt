@@ -81797,3 +81797,4 @@
 0834. ✅ test: increase coverage on auth module
 0925. ✨ feat: add export to CSV option
 0532. 🔧 refactor: split large controller into smaller functions
+0356. 📚 docs: write FAQ section
