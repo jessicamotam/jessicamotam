@@ -16200,3 +16200,4 @@
 0249. ✅ test: increase coverage on auth module
 0834. ✅ test: increase coverage on auth module
 0558. ✨ feat: enable dark mode toggle
+0290. ✅ test: test user registration edge cases
