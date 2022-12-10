@@ -20528,3 +20528,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0735. ♻️ chore: add GitHub actions badge
 0790. 📚 docs: write FAQ section
+0456. 🚀 perf: optimize database query for quiz results
