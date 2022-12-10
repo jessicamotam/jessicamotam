@@ -84974,3 +84974,4 @@
 0780. 📚 docs: add API usage examples
 0577. ✨ feat: implement quiz timer feature
 0993. ✨ feat: implement quiz timer feature
+0877. 🚀 perf: optimize database query for quiz results
