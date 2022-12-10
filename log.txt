@@ -77823,3 +77823,4 @@
 0001. 🚀 perf: cache repeated calculations
 0186. ✅ test: test user registration edge cases
 0079. 🐛 fix: correct typo in registration form
+0345. 📚 docs: document token refresh logic
