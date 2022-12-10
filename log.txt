@@ -3750,3 +3750,4 @@
 0372. ✨ feat: add user authentication
 0233. 🚀 perf: lazy-load components
 0411. ✅ test: add unit test for quiz service
+0613. 🐛 fix: prevent crash on empty input
