@@ -83278,3 +83278,4 @@
 0886. ♻️ chore: clean up unused files
 0598. 🔧 refactor: remove redundant code blocks
 0904. ✨ feat: implement quiz timer feature
+0616. 🚀 perf: lazy-load components
