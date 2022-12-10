@@ -68499,3 +68499,4 @@
 0996. ✅ test: test user registration edge cases
 0939. 📚 docs: update README with setup steps
 0583. ✅ test: increase coverage on auth module
+0063. 🐛 fix: handle 500 error in quiz API
