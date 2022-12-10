@@ -10285,3 +10285,4 @@
 0002. 🚀 perf: cache repeated calculations
 0108. 🎨 style: remove trailing whitespace
 0586. 🎨 style: remove trailing whitespace
+0059. ♻️ chore: bump dependencies
