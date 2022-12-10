@@ -40310,3 +40310,4 @@
 0765. ♻️ chore: clean up unused files
 0725. 🚀 perf: lazy-load components
 0267. 📚 docs: improve code comments in utils
+0561. 📚 docs: write FAQ section
