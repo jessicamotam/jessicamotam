@@ -18945,3 +18945,4 @@
 0356. 📚 docs: write FAQ section
 0987. ✨ feat: create admin dashboard
 0989. 📚 docs: write FAQ section
+0977. 🔧 refactor: organize models into subfolders
