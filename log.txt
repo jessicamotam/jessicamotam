@@ -21121,3 +21121,4 @@
 0866. 📚 docs: add API usage examples
 0523. ♻️ chore: bump dependencies
 0049. 🐛 fix: handle 500 error in quiz API
+0617. ✨ feat: support email verification
