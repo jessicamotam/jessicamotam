@@ -3184,3 +3184,4 @@
 0351. ✨ feat: add export to CSV option
 0077. ♻️ chore: rename env.example
 0656. 🎨 style: apply consistent indentation
+0756. ✨ feat: support email verification
