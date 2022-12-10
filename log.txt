@@ -877,3 +877,4 @@
 0132. ✅ test: add unit test for quiz service
 0784. ♻️ chore: clean up unused files
 0434. 📚 docs: document token refresh logic
+0377. ✨ feat: add user authentication
