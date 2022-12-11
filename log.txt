@@ -74607,3 +74607,4 @@
 0975. 🎨 style: apply consistent indentation
 0597. 🚀 perf: cache repeated calculations
 0729. 🔧 refactor: refactor quiz grading logic
+0187. ✨ feat: support email verification
