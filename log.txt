@@ -78562,3 +78562,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0593. 🐛 fix: correct typo in registration form
 0016. 🎨 style: apply consistent indentation
+0849. 🐛 fix: correct typo in registration form
