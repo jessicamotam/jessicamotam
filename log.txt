@@ -45451,3 +45451,4 @@
 0156. 🎨 style: rename variables for clarity
 0651. ✨ feat: enable dark mode toggle
 0497. 🔧 refactor: refactor quiz grading logic
+0207. 🐛 fix: prevent crash on empty input
