@@ -29743,3 +29743,4 @@
 0482. ✨ feat: add export to CSV option
 0147. ♻️ chore: bump dependencies
 0028. 🎨 style: standardize quote style
+0632. 🎨 style: remove trailing whitespace
