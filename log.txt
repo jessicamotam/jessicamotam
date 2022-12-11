@@ -10451,3 +10451,4 @@
 0102. ✨ feat: support email verification
 0655. 🚀 perf: cache repeated calculations
 0504. 📚 docs: document token refresh logic
+0897. 🐛 fix: prevent crash on empty input
