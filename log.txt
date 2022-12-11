@@ -39016,3 +39016,4 @@
 0042. 📚 docs: document token refresh logic
 0953. 🎨 style: remove trailing whitespace
 0499. 🎨 style: reformat files with black
+0090. ✅ test: increase coverage on auth module
