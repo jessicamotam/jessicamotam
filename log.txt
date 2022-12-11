@@ -58951,3 +58951,4 @@
 0953. 🎨 style: remove trailing whitespace
 0127. 🐛 fix: fix null pointer exception on login
 0952. 🔧 refactor: split large controller into smaller functions
+0102. ✨ feat: support email verification
