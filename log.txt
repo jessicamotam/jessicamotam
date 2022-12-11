@@ -13605,3 +13605,4 @@
 0087. ✨ feat: add export to CSV option
 0492. 🎨 style: remove trailing whitespace
 0893. 🐛 fix: handle 500 error in quiz API
+0496. ✅ test: add integration test for /submit endpoint
