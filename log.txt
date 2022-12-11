@@ -53125,3 +53125,4 @@
 0761. ✅ test: add unit test for quiz service
 0483. 📚 docs: update README with setup steps
 0357. ✅ test: add unit test for quiz service
+0566. 📚 docs: write FAQ section
