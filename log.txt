@@ -89601,3 +89601,4 @@
 0121. ✨ feat: support email verification
 0118. 🚀 perf: reduce image load time
 0317. ✅ test: test user registration edge cases
+0347. ♻️ chore: update .gitignore
