@@ -8009,3 +8009,4 @@
 0469. 🚀 perf: lazy-load components
 0301. 🎨 style: apply consistent indentation
 0357. ✅ test: add unit test for quiz service
+0117. ✅ test: increase coverage on auth module
