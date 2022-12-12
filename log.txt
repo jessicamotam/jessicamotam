@@ -72754,3 +72754,4 @@
 0027. 📚 docs: clarify environment setup
 0929. ✨ feat: support email verification
 0980. 🎨 style: reformat files with black
+0979. 🎨 style: standardize quote style
