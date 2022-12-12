@@ -70738,3 +70738,4 @@
 0180. ✨ feat: add export to CSV option
 0499. 🎨 style: reformat files with black
 0886. ♻️ chore: clean up unused files
+0963. 🚀 perf: reduce image load time
