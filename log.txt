@@ -84583,3 +84583,4 @@
 0083. 🎨 style: reformat files with black
 0916. ♻️ chore: bump dependencies
 0158. 📚 docs: clarify environment setup
+0539. 🔧 refactor: organize models into subfolders
