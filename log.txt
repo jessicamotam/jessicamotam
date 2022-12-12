@@ -4768,3 +4768,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0947. 📚 docs: write FAQ section
 0351. ✨ feat: add export to CSV option
+0135. ✅ test: test user registration edge cases
