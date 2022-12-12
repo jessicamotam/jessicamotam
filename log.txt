@@ -23412,3 +23412,4 @@
 0726. ✨ feat: enable dark mode toggle
 0698. 🐛 fix: handle 500 error in quiz API
 0925. ✨ feat: add export to CSV option
+1000. ✅ test: increase coverage on auth module
