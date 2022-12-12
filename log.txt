@@ -59305,3 +59305,4 @@
 0115. 🚀 perf: reduce image load time
 0067. 🔧 refactor: remove redundant code blocks
 0790. 📚 docs: write FAQ section
+0375. 🐛 fix: handle 500 error in quiz API
