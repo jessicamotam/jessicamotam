@@ -16668,3 +16668,4 @@
 0438. ♻️ chore: bump dependencies
 0973. 🔧 refactor: organize models into subfolders
 0567. 📚 docs: add API usage examples
+0485. 📚 docs: update README with setup steps
