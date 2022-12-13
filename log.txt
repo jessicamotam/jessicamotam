@@ -59732,3 +59732,4 @@
 0212. 🎨 style: standardize quote style
 0994. 🚀 perf: reduce image load time
 0574. ✨ feat: enable dark mode toggle
+0703. 🔧 refactor: clean up auth middleware
