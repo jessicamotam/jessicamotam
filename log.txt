@@ -1857,3 +1857,4 @@
 0601. ✨ feat: implement quiz timer feature
 0804. ♻️ chore: add GitHub actions badge
 0058. ♻️ chore: add GitHub actions badge
+0823. ✨ feat: add user authentication
