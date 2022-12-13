@@ -29929,3 +29929,4 @@
 0313. 🎨 style: apply consistent indentation
 0920. 🔧 refactor: organize models into subfolders
 0809. ♻️ chore: rename env.example
+0443. 🎨 style: standardize quote style
