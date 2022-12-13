@@ -83315,3 +83315,4 @@
 0201. 🔧 refactor: clean up auth middleware
 0186. ✅ test: test user registration edge cases
 0506. 🐛 fix: handle 500 error in quiz API
+0065. ✅ test: add integration test for /submit endpoint
