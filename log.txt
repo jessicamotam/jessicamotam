@@ -55407,3 +55407,4 @@
 0134. ✨ feat: implement quiz timer feature
 0275. 🎨 style: standardize quote style
 0392. 🎨 style: remove trailing whitespace
+0463. 🚀 perf: reduce image load time
