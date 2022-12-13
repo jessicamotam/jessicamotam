@@ -20086,3 +20086,4 @@
 0401. 🚀 perf: reduce image load time
 0627. 📚 docs: document token refresh logic
 0816. 🔧 refactor: organize models into subfolders
+0557. 🔧 refactor: clean up auth middleware
