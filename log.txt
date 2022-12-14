@@ -3034,3 +3034,4 @@
 0087. ✨ feat: add export to CSV option
 0624. ✅ test: add unit test for quiz service
 0428. 🐛 fix: fix null pointer exception on login
+0291. 📚 docs: write FAQ section
