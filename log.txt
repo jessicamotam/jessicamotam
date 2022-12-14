@@ -81503,3 +81503,4 @@
 0761. ✅ test: add unit test for quiz service
 0118. 🚀 perf: reduce image load time
 0665. ♻️ chore: update .gitignore
+0491. 🚀 perf: lazy-load components
