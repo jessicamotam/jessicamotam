@@ -60778,3 +60778,4 @@
 0187. ✨ feat: support email verification
 0812. 🔧 refactor: refactor quiz grading logic
 0468. 📚 docs: update README with setup steps
+0607. 🐛 fix: prevent crash on empty input
