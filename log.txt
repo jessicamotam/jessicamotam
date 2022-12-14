@@ -87230,3 +87230,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0982. 🚀 perf: lazy-load components
 0828. ♻️ chore: add GitHub actions badge
+0647. 🐛 fix: prevent crash on empty input
