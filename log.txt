@@ -30002,3 +30002,4 @@
 0795. 📚 docs: update README with setup steps
 0755. 🚀 perf: cache repeated calculations
 0001. 🚀 perf: cache repeated calculations
+0178. ✨ feat: support email verification
