@@ -37692,3 +37692,4 @@
 0005. ✅ test: add unit test for quiz service
 0497. 🔧 refactor: refactor quiz grading logic
 0972. 🔧 refactor: refactor quiz grading logic
+0948. 🐛 fix: fix broken CSS in mobile view
