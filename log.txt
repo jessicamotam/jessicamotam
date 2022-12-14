@@ -71536,3 +71536,4 @@
 0657. 🎨 style: standardize quote style
 0596. ♻️ chore: update .gitignore
 0297. 🎨 style: remove trailing whitespace
+0113. ✨ feat: add user authentication
