@@ -33125,3 +33125,4 @@
 0469. 🚀 perf: lazy-load components
 0462. ♻️ chore: update .gitignore
 0451. ✨ feat: support email verification
+0053. ✅ test: increase coverage on auth module
