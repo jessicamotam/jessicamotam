@@ -68328,3 +68328,4 @@
 0203. 🚀 perf: lazy-load components
 0151. ✅ test: add unit test for quiz service
 0512. 🚀 perf: reduce image load time
+0053. ✅ test: increase coverage on auth module
