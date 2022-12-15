@@ -16903,3 +16903,4 @@
 0861. ♻️ chore: clean up unused files
 0358. 🚀 perf: reduce image load time
 0950. 🎨 style: reformat files with black
+0838. 🎨 style: standardize quote style
