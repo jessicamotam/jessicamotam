@@ -42884,3 +42884,4 @@
 0963. 🚀 perf: reduce image load time
 0974. ✨ feat: add export to CSV option
 0327. 🔧 refactor: split large controller into smaller functions
+0437. 📚 docs: clarify environment setup
