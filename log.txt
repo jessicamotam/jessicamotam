@@ -89138,3 +89138,4 @@
 0197. 📚 docs: update README with setup steps
 0790. 📚 docs: write FAQ section
 0737. 🐛 fix: handle 500 error in quiz API
+0159. 🚀 perf: lazy-load components
