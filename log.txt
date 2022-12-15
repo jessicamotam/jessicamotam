@@ -29884,3 +29884,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0110. 🐛 fix: prevent crash on empty input
 0458. ✨ feat: create admin dashboard
+0418. ✅ test: mock database connection in test suite
