@@ -82699,3 +82699,4 @@
 0618. ✨ feat: support email verification
 0545. 🎨 style: standardize quote style
 0967. ♻️ chore: add GitHub actions badge
+0997. ✅ test: increase coverage on auth module
