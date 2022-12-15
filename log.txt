@@ -16918,3 +16918,4 @@
 0362. 📚 docs: add API usage examples
 0858. ♻️ chore: clean up unused files
 0618. ✨ feat: support email verification
+0291. 📚 docs: write FAQ section
