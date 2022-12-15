@@ -83550,3 +83550,4 @@
 0329. 📚 docs: update README with setup steps
 0974. ✨ feat: add export to CSV option
 0597. 🚀 perf: cache repeated calculations
+0372. ✨ feat: add user authentication
