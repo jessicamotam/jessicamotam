@@ -62853,3 +62853,4 @@
 0454. ♻️ chore: bump dependencies
 0349. ✅ test: increase coverage on auth module
 0048. 📚 docs: update README with setup steps
+0987. ✨ feat: create admin dashboard
