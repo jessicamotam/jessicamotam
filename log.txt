@@ -32296,3 +32296,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0975. 🎨 style: apply consistent indentation
 0795. 📚 docs: update README with setup steps
+0279. ✨ feat: support email verification
