@@ -52338,3 +52338,4 @@
 0295. 🎨 style: remove trailing whitespace
 0590. 🐛 fix: fix null pointer exception on login
 0372. ✨ feat: add user authentication
+0169. 📚 docs: add API usage examples
