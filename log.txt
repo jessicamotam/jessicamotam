@@ -45326,3 +45326,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0123. ✨ feat: implement quiz timer feature
 0829. 🔧 refactor: organize models into subfolders
+0540. ♻️ chore: add GitHub actions badge
