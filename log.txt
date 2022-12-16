@@ -2232,3 +2232,4 @@
 0361. ✨ feat: support email verification
 0189. 📚 docs: clarify environment setup
 0338. ♻️ chore: add GitHub actions badge
+0164. 📚 docs: document token refresh logic
