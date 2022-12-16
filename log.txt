@@ -89334,3 +89334,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0137. 🎨 style: rename variables for clarity
 0156. 🎨 style: rename variables for clarity
+0418. ✅ test: mock database connection in test suite
