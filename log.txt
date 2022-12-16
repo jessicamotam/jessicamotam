@@ -24695,3 +24695,4 @@
 0438. ♻️ chore: bump dependencies
 0654. ✨ feat: create admin dashboard
 0331. 🐛 fix: fix broken CSS in mobile view
+0996. ✅ test: test user registration edge cases
