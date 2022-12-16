@@ -2602,3 +2602,4 @@
 0618. ✨ feat: support email verification
 0095. ✅ test: mock database connection in test suite
 0946. ✅ test: add unit test for quiz service
+0906. 📚 docs: add API usage examples
