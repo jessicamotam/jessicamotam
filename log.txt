@@ -83947,3 +83947,4 @@
 0832. 🔧 refactor: remove redundant code blocks
 0268. 🐛 fix: prevent crash on empty input
 0923. ✨ feat: support email verification
+0524. ♻️ chore: rename env.example
