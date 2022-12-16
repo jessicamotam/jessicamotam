@@ -50060,3 +50060,4 @@
 0078. ♻️ chore: update .gitignore
 0049. 🐛 fix: handle 500 error in quiz API
 0844. 📚 docs: update README with setup steps
+0884. 📚 docs: clarify environment setup
