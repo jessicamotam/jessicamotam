@@ -9380,3 +9380,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0975. 🎨 style: apply consistent indentation
 0856. 🐛 fix: fix null pointer exception on login
+0565. ♻️ chore: add GitHub actions badge
