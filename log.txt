@@ -84430,3 +84430,4 @@
 0925. ✨ feat: add export to CSV option
 0672. 🐛 fix: fix broken CSS in mobile view
 0379. ✨ feat: support email verification
+0679. ♻️ chore: bump dependencies
