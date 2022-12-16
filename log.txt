@@ -10527,3 +10527,4 @@
 0601. ✨ feat: implement quiz timer feature
 0620. ✨ feat: implement quiz timer feature
 0186. ✅ test: test user registration edge cases
+0174. 📚 docs: clarify environment setup
