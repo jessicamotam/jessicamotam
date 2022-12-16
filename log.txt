@@ -19530,3 +19530,4 @@
 0989. 📚 docs: write FAQ section
 0181. ♻️ chore: add GitHub actions badge
 0158. 📚 docs: clarify environment setup
+0218. 🔧 refactor: clean up auth middleware
