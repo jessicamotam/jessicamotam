@@ -60395,3 +60395,4 @@
 0809. ♻️ chore: rename env.example
 0730. ✅ test: test user registration edge cases
 0677. 📚 docs: add API usage examples
+0652. 🔧 refactor: organize models into subfolders
