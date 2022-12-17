@@ -85533,3 +85533,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0834. ✅ test: increase coverage on auth module
 0235. 🐛 fix: fix null pointer exception on login
+0822. 🔧 refactor: remove redundant code blocks
