@@ -24111,3 +24111,4 @@
 0918. ✨ feat: enable dark mode toggle
 0518. ✨ feat: support email verification
 0262. 🎨 style: remove trailing whitespace
+0395. 📚 docs: write FAQ section
