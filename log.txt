@@ -44226,3 +44226,4 @@
 0260. ✨ feat: create admin dashboard
 0162. ♻️ chore: add GitHub actions badge
 0590. 🐛 fix: fix null pointer exception on login
+0581. ✅ test: add integration test for /submit endpoint
