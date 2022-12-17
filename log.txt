@@ -75622,3 +75622,4 @@
 0579. 📚 docs: clarify environment setup
 0301. 🎨 style: apply consistent indentation
 0581. ✅ test: add integration test for /submit endpoint
+0439. 🐛 fix: correct typo in registration form
