@@ -37265,3 +37265,4 @@
 0050. ✨ feat: enable dark mode toggle
 0865. ♻️ chore: add GitHub actions badge
 0406. ✨ feat: add export to CSV option
+0561. 📚 docs: write FAQ section
