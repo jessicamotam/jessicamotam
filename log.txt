@@ -36352,3 +36352,4 @@
 0777. 📚 docs: document token refresh logic
 0558. ✨ feat: enable dark mode toggle
 0739. 🎨 style: remove trailing whitespace
+0652. 🔧 refactor: organize models into subfolders
