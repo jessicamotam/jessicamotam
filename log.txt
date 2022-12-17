@@ -79623,3 +79623,4 @@
 0102. ✨ feat: support email verification
 0586. 🎨 style: remove trailing whitespace
 0429. ✨ feat: add user authentication
+0360. ✨ feat: add export to CSV option
