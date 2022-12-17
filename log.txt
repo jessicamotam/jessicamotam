@@ -57463,3 +57463,4 @@
 0132. ✅ test: add unit test for quiz service
 0795. 📚 docs: update README with setup steps
 0078. ♻️ chore: update .gitignore
+0344. ♻️ chore: add GitHub actions badge
