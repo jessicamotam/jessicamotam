@@ -17578,3 +17578,4 @@
 0979. 🎨 style: standardize quote style
 0600. 🐛 fix: prevent crash on empty input
 0850. ♻️ chore: rename env.example
+0766. 🎨 style: reformat files with black
