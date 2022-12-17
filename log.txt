@@ -70585,3 +70585,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0803. ✅ test: mock database connection in test suite
 0002. 🚀 perf: cache repeated calculations
+0740. 🐛 fix: resolve issue with date parsing
