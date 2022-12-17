@@ -16073,3 +16073,4 @@
 0550. 🔧 refactor: split large controller into smaller functions
 0318. 🔧 refactor: refactor quiz grading logic
 0577. ✨ feat: implement quiz timer feature
+0200. 🐛 fix: handle 500 error in quiz API
