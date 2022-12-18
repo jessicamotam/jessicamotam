@@ -78364,3 +78364,4 @@
 0055. 📚 docs: update README with setup steps
 0946. ✅ test: add unit test for quiz service
 0084. 🐛 fix: handle 500 error in quiz API
+0370. 🚀 perf: reduce image load time
