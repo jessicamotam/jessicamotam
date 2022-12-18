@@ -51906,3 +51906,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0560. 🎨 style: rename variables for clarity
 0645. 🐛 fix: resolve issue with date parsing
+0438. ♻️ chore: bump dependencies
