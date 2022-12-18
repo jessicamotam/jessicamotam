@@ -38044,3 +38044,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0818. 🔧 refactor: remove redundant code blocks
 0624. ✅ test: add unit test for quiz service
+0600. 🐛 fix: prevent crash on empty input
