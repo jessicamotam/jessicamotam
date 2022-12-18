@@ -14263,3 +14263,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0473. 📚 docs: write FAQ section
 0107. 🐛 fix: prevent crash on empty input
+0315. ✅ test: add integration test for /submit endpoint
