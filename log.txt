@@ -15437,3 +15437,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0249. ✅ test: increase coverage on auth module
 0312. ✨ feat: add user authentication
+0985. 📚 docs: document token refresh logic
