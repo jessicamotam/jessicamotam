@@ -54077,3 +54077,4 @@
 0564. 📚 docs: clarify environment setup
 0203. 🚀 perf: lazy-load components
 0574. ✨ feat: enable dark mode toggle
+0373. 📚 docs: document token refresh logic
