@@ -18757,3 +18757,4 @@
 0974. ✨ feat: add export to CSV option
 0250. 📚 docs: update README with setup steps
 0059. ♻️ chore: bump dependencies
+0582. ✨ feat: add export to CSV option
