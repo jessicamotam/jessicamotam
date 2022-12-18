@@ -9494,3 +9494,4 @@
 0395. 📚 docs: write FAQ section
 0549. ✨ feat: enable dark mode toggle
 0084. 🐛 fix: handle 500 error in quiz API
+0171. 🐛 fix: fix broken CSS in mobile view
