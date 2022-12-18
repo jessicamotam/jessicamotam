@@ -5581,3 +5581,4 @@
 0291. 📚 docs: write FAQ section
 0974. ✨ feat: add export to CSV option
 0146. 🎨 style: apply consistent indentation
+0843. 📚 docs: document token refresh logic
