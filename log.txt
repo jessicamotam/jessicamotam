@@ -8897,3 +8897,4 @@
 0530. 🔧 refactor: refactor quiz grading logic
 0681. ✨ feat: create admin dashboard
 0803. ✅ test: mock database connection in test suite
+0231. 🔧 refactor: clean up auth middleware
