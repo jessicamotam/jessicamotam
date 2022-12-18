@@ -72624,3 +72624,4 @@
 0679. ♻️ chore: bump dependencies
 0248. 🐛 fix: handle 500 error in quiz API
 0783. 🐛 fix: handle 500 error in quiz API
+0500. ✅ test: add integration test for /submit endpoint
