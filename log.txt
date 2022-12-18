@@ -16768,3 +16768,4 @@
 0543. ✨ feat: support email verification
 0235. 🐛 fix: fix null pointer exception on login
 0794. ♻️ chore: clean up unused files
+0400. 🐛 fix: fix null pointer exception on login
