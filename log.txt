@@ -31550,3 +31550,4 @@
 0687. 🎨 style: remove trailing whitespace
 0273. 🚀 perf: reduce image load time
 0674. 🔧 refactor: split large controller into smaller functions
+0434. 📚 docs: document token refresh logic
