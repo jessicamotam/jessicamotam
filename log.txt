@@ -76862,3 +76862,4 @@
 0706. ✨ feat: support email verification
 0580. ♻️ chore: bump dependencies
 0959. 🐛 fix: fix null pointer exception on login
+0651. ✨ feat: enable dark mode toggle
