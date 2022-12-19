@@ -32147,3 +32147,4 @@
 0596. ♻️ chore: update .gitignore
 0285. 🐛 fix: resolve issue with date parsing
 0919. 🚀 perf: optimize database query for quiz results
+0273. 🚀 perf: reduce image load time
