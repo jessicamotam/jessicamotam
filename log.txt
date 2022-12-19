@@ -11345,3 +11345,4 @@
 0050. ✨ feat: enable dark mode toggle
 0412. ✅ test: increase coverage on auth module
 0187. ✨ feat: support email verification
+0114. ♻️ chore: update .gitignore
