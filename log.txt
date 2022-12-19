@@ -21860,3 +21860,4 @@
 0847. ♻️ chore: clean up unused files
 0753. 🔧 refactor: remove redundant code blocks
 0989. 📚 docs: write FAQ section
+0682. ♻️ chore: rename env.example
