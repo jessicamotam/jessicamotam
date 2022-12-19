@@ -25562,3 +25562,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0503. ♻️ chore: rename env.example
 0439. 🐛 fix: correct typo in registration form
+0547. 📚 docs: write FAQ section
