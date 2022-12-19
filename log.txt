@@ -47628,3 +47628,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0287. 📚 docs: write FAQ section
 0481. ✅ test: add unit test for quiz service
+0144. ✅ test: increase coverage on auth module
