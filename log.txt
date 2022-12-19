@@ -90272,3 +90272,4 @@
 0626. 🎨 style: standardize quote style
 0407. 🚀 perf: cache repeated calculations
 0908. ♻️ chore: bump dependencies
+0040. 🔧 refactor: clean up auth middleware
