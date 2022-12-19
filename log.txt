@@ -61030,3 +61030,4 @@
 0660. 🐛 fix: correct typo in registration form
 0520. 🐛 fix: fix null pointer exception on login
 0535. 📚 docs: write FAQ section
+0312. ✨ feat: add user authentication
