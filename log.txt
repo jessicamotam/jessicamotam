@@ -87347,3 +87347,4 @@
 0933. 📚 docs: clarify environment setup
 0473. 📚 docs: write FAQ section
 0625. 🐛 fix: handle 500 error in quiz API
+0788. 📚 docs: add API usage examples
