@@ -49178,3 +49178,4 @@
 0518. ✨ feat: support email verification
 0862. ♻️ chore: bump dependencies
 0215. 🎨 style: reformat files with black
+0595. ✨ feat: enable dark mode toggle
