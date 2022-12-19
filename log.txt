@@ -89104,3 +89104,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0524. ♻️ chore: rename env.example
 0247. 🎨 style: apply consistent indentation
+0911. ✅ test: increase coverage on auth module
