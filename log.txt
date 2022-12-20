@@ -21270,3 +21270,4 @@
 0213. ✅ test: add integration test for /submit endpoint
 0761. ✅ test: add unit test for quiz service
 0297. 🎨 style: remove trailing whitespace
+0290. ✅ test: test user registration edge cases
