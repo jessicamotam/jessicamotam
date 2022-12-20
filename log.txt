@@ -8029,3 +8029,4 @@
 0679. ♻️ chore: bump dependencies
 0636. ✅ test: increase coverage on auth module
 0611. ✅ test: test user registration edge cases
+0308. 🚀 perf: reduce image load time
