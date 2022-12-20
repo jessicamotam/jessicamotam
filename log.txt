@@ -19718,3 +19718,4 @@
 0257. 📚 docs: clarify environment setup
 0573. ✅ test: add integration test for /submit endpoint
 0113. ✨ feat: add user authentication
+0096. 🐛 fix: prevent crash on empty input
