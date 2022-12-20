@@ -67362,3 +67362,4 @@
 0170. ✅ test: increase coverage on auth module
 0812. 🔧 refactor: refactor quiz grading logic
 0551. 📚 docs: write FAQ section
+0370. 🚀 perf: reduce image load time
