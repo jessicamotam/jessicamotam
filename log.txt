@@ -58185,3 +58185,4 @@
 0993. ✨ feat: implement quiz timer feature
 0363. 📚 docs: clarify environment setup
 0068. 🐛 fix: fix null pointer exception on login
+0017. ✅ test: mock database connection in test suite
