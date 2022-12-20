@@ -26478,3 +26478,4 @@
 0944. ✨ feat: add user authentication
 0622. 🎨 style: apply consistent indentation
 0828. ♻️ chore: add GitHub actions badge
+0695. ✨ feat: create admin dashboard
