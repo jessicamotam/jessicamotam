@@ -17816,3 +17816,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0604. 📚 docs: add API usage examples
 0374. 🎨 style: standardize quote style
+0948. 🐛 fix: fix broken CSS in mobile view
