@@ -57195,3 +57195,4 @@
 0390. 🎨 style: standardize quote style
 0155. ✨ feat: create admin dashboard
 0054. ♻️ chore: update .gitignore
+0121. ✨ feat: support email verification
