@@ -12883,3 +12883,4 @@
 0023. 📚 docs: clarify environment setup
 0757. 🔧 refactor: remove redundant code blocks
 0247. 🎨 style: apply consistent indentation
+0085. ✨ feat: support email verification
