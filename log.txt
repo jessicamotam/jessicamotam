@@ -46940,3 +46940,4 @@
 0016. 🎨 style: apply consistent indentation
 0045. 🎨 style: apply consistent indentation
 0035. ✅ test: increase coverage on auth module
+0188. 🎨 style: apply consistent indentation
