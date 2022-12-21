@@ -38715,3 +38715,4 @@
 0192. ✨ feat: enable dark mode toggle
 0052. 🎨 style: standardize quote style
 0300. ✨ feat: add export to CSV option
+0875. ✅ test: increase coverage on auth module
