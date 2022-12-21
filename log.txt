@@ -78780,3 +78780,4 @@
 0204. 🎨 style: standardize quote style
 0911. ✅ test: increase coverage on auth module
 0923. ✨ feat: support email verification
+0524. ♻️ chore: rename env.example
