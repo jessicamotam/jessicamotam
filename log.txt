@@ -7149,3 +7149,4 @@
 0924. ✅ test: mock database connection in test suite
 0497. 🔧 refactor: refactor quiz grading logic
 0654. ✨ feat: create admin dashboard
+0279. ✨ feat: support email verification
