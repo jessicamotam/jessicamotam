@@ -42347,3 +42347,4 @@
 0646. ✅ test: test user registration edge cases
 0637. 🎨 style: apply consistent indentation
 0627. 📚 docs: document token refresh logic
+0278. 🔧 refactor: clean up auth middleware
