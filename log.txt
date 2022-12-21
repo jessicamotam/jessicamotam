@@ -25572,3 +25572,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0854. ♻️ chore: rename env.example
 0677. 📚 docs: add API usage examples
+0690. 🚀 perf: lazy-load components
