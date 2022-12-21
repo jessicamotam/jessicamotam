@@ -50175,3 +50175,4 @@
 0100. ♻️ chore: update .gitignore
 0488. ♻️ chore: add GitHub actions badge
 0316. 🐛 fix: fix broken CSS in mobile view
+0359. 🔧 refactor: clean up auth middleware
