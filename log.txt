@@ -75921,3 +75921,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0230. ✨ feat: create admin dashboard
 0738. 🐛 fix: prevent crash on empty input
+0252. 🎨 style: remove trailing whitespace
