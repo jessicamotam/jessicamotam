@@ -11878,3 +11878,4 @@
 0555. ✨ feat: create admin dashboard
 0802. 🔧 refactor: remove redundant code blocks
 0835. 🐛 fix: prevent crash on empty input
+0653. 🐛 fix: prevent crash on empty input
