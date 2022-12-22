@@ -14216,3 +14216,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0448. 🐛 fix: correct typo in registration form
 0606. 📚 docs: improve code comments in utils
+0253. 📚 docs: update README with setup steps
