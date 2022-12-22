@@ -58559,3 +58559,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0391. 🐛 fix: fix null pointer exception on login
 0614. 🚀 perf: reduce image load time
+0330. ✅ test: test user registration edge cases
