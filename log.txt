@@ -80895,3 +80895,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0503. ♻️ chore: rename env.example
 1000. ✅ test: increase coverage on auth module
+0536. ✨ feat: add user authentication
