@@ -21460,3 +21460,4 @@
 0145. 📚 docs: improve code comments in utils
 0647. 🐛 fix: prevent crash on empty input
 0520. 🐛 fix: fix null pointer exception on login
+0950. 🎨 style: reformat files with black
