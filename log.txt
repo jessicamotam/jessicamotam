@@ -71494,3 +71494,4 @@
 0233. 🚀 perf: lazy-load components
 0198. 📚 docs: clarify environment setup
 0456. 🚀 perf: optimize database query for quiz results
+0653. 🐛 fix: prevent crash on empty input
