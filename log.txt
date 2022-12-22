@@ -32033,3 +32033,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0641. 📚 docs: write FAQ section
 0738. 🐛 fix: prevent crash on empty input
+0099. 🚀 perf: reduce image load time
