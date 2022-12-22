@@ -49015,3 +49015,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0019. ✨ feat: enable dark mode toggle
 0198. 📚 docs: clarify environment setup
+0056. ♻️ chore: rename env.example
