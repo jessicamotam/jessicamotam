@@ -19124,3 +19124,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0570. 🎨 style: apply consistent indentation
 0151. ✅ test: add unit test for quiz service
+0538. 🐛 fix: fix broken CSS in mobile view
