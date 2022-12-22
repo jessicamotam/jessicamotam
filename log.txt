@@ -19797,3 +19797,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0945. ♻️ chore: add GitHub actions badge
 0195. 📚 docs: clarify environment setup
+0370. 🚀 perf: reduce image load time
