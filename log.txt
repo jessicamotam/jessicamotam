@@ -21908,3 +21908,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0928. 🎨 style: apply consistent indentation
 0910. 🎨 style: remove trailing whitespace
+0298. ♻️ chore: update .gitignore
