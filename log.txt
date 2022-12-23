@@ -40029,3 +40029,4 @@
 0646. ✅ test: test user registration edge cases
 0569. 📚 docs: document token refresh logic
 0246. ✅ test: add integration test for /submit endpoint
+0566. 📚 docs: write FAQ section
