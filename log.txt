@@ -13381,3 +13381,4 @@
 0115. 🚀 perf: reduce image load time
 0088. 📚 docs: add API usage examples
 0316. 🐛 fix: fix broken CSS in mobile view
+0297. 🎨 style: remove trailing whitespace
