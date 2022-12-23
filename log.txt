@@ -47490,3 +47490,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0375. 🐛 fix: handle 500 error in quiz API
 0645. 🐛 fix: resolve issue with date parsing
+0981. 🚀 perf: lazy-load components
