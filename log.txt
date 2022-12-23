@@ -15046,3 +15046,4 @@
 0326. 🚀 perf: cache repeated calculations
 0341. 🚀 perf: lazy-load components
 0224. 🐛 fix: fix broken CSS in mobile view
+0992. ♻️ chore: clean up unused files
