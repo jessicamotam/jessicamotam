@@ -64830,3 +64830,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0107. 🐛 fix: prevent crash on empty input
 0629. 🔧 refactor: organize models into subfolders
+0737. 🐛 fix: handle 500 error in quiz API
