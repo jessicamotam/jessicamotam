@@ -80581,3 +80581,4 @@
 0463. 🚀 perf: reduce image load time
 0994. 🚀 perf: reduce image load time
 0786. ✨ feat: enable dark mode toggle
+0704. 🚀 perf: cache repeated calculations
