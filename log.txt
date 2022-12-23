@@ -56073,3 +56073,4 @@
 1000. ✅ test: increase coverage on auth module
 0371. ✅ test: add integration test for /submit endpoint
 0008. 🚀 perf: reduce image load time
+0738. 🐛 fix: prevent crash on empty input
