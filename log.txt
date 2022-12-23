@@ -79425,3 +79425,4 @@
 0210. 🎨 style: apply consistent indentation
 0353. ♻️ chore: rename env.example
 0447. ♻️ chore: bump dependencies
+0335. ♻️ chore: update .gitignore
