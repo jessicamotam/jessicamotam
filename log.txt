@@ -12936,3 +12936,4 @@
 0604. 📚 docs: add API usage examples
 0540. ♻️ chore: add GitHub actions badge
 0439. 🐛 fix: correct typo in registration form
+0895. ✨ feat: support email verification
