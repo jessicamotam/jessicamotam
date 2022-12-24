@@ -41273,3 +41273,4 @@
 0439. 🐛 fix: correct typo in registration form
 0756. ✨ feat: support email verification
 0378. 🐛 fix: prevent crash on empty input
+0026. 🔧 refactor: clean up auth middleware
