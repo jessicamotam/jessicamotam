@@ -90147,3 +90147,4 @@
 0499. 🎨 style: reformat files with black
 0973. 🔧 refactor: organize models into subfolders
 0990. ♻️ chore: rename env.example
+0762. 🚀 perf: lazy-load components
