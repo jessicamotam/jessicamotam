@@ -61451,3 +61451,4 @@
 0326. 🚀 perf: cache repeated calculations
 0012. 🚀 perf: cache repeated calculations
 1000. ✅ test: increase coverage on auth module
+0251. ♻️ chore: update .gitignore
