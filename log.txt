@@ -77416,3 +77416,4 @@
 0997. ✅ test: increase coverage on auth module
 0727. ♻️ chore: add GitHub actions badge
 0129. 🔧 refactor: organize models into subfolders
+0264. 🚀 perf: optimize database query for quiz results
