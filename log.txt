@@ -1788,3 +1788,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0850. ♻️ chore: rename env.example
 0719. 🎨 style: apply consistent indentation
+0348. ✅ test: test user registration edge cases
