@@ -51044,3 +51044,4 @@
 0398. 🚀 perf: cache repeated calculations
 0655. 🚀 perf: cache repeated calculations
 0962. ✨ feat: create admin dashboard
+0203. 🚀 perf: lazy-load components
