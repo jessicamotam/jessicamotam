@@ -58954,3 +58954,4 @@
 0102. ✨ feat: support email verification
 0517. ✅ test: mock database connection in test suite
 0609. 🐛 fix: handle 500 error in quiz API
+0292. 📚 docs: clarify environment setup
