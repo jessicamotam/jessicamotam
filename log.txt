@@ -56441,3 +56441,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0665. ♻️ chore: update .gitignore
 0345. 📚 docs: document token refresh logic
+0615. 🐛 fix: correct typo in registration form
