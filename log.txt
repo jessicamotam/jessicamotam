@@ -18362,3 +18362,4 @@
 0128. ♻️ chore: rename env.example
 0828. ♻️ chore: add GitHub actions badge
 0924. ✅ test: mock database connection in test suite
+0390. 🎨 style: standardize quote style
