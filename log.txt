@@ -10491,3 +10491,4 @@
 0509. ♻️ chore: bump dependencies
 0473. 📚 docs: write FAQ section
 0651. ✨ feat: enable dark mode toggle
+0539. 🔧 refactor: organize models into subfolders
