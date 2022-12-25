@@ -42971,3 +42971,4 @@
 0219. ✅ test: increase coverage on auth module
 0463. 🚀 perf: reduce image load time
 0794. ♻️ chore: clean up unused files
+0017. ✅ test: mock database connection in test suite
