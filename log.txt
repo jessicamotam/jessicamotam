@@ -16124,3 +16124,4 @@
 0270. ♻️ chore: rename env.example
 0440. 📚 docs: update README with setup steps
 0785. ✨ feat: enable dark mode toggle
+0903. ✅ test: mock database connection in test suite
