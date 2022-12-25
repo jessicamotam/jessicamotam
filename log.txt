@@ -64492,3 +64492,4 @@
 0270. ♻️ chore: rename env.example
 0106. 🎨 style: reformat files with black
 0530. 🔧 refactor: refactor quiz grading logic
+0996. ✅ test: test user registration edge cases
