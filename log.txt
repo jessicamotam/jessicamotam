@@ -43593,3 +43593,4 @@
 0798. 🚀 perf: reduce image load time
 0640. ♻️ chore: bump dependencies
 0770. ♻️ chore: rename env.example
+0471. ✨ feat: support email verification
