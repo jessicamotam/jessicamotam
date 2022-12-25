@@ -46457,3 +46457,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0994. 🚀 perf: reduce image load time
 0903. ✅ test: mock database connection in test suite
+0734. ✨ feat: add export to CSV option
