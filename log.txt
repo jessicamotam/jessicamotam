@@ -6072,3 +6072,4 @@
 0896. 🚀 perf: reduce image load time
 0862. ♻️ chore: bump dependencies
 0599. ✅ test: test user registration edge cases
+0854. ♻️ chore: rename env.example
