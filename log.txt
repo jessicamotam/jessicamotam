@@ -31916,3 +31916,4 @@
 0357. ✅ test: add unit test for quiz service
 0473. 📚 docs: write FAQ section
 0112. ✨ feat: enable dark mode toggle
+0025. 🚀 perf: optimize database query for quiz results
