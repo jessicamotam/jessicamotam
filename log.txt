@@ -31672,3 +31672,4 @@
 0405. ✅ test: mock database connection in test suite
 0504. 📚 docs: document token refresh logic
 0506. 🐛 fix: handle 500 error in quiz API
+0094. 📚 docs: document token refresh logic
