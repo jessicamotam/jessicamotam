@@ -23975,3 +23975,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0441. 📚 docs: add API usage examples
 0216. 🎨 style: rename variables for clarity
+0330. ✅ test: test user registration edge cases
