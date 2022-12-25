@@ -25174,3 +25174,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0611. ✅ test: test user registration edge cases
 0514. 🐛 fix: fix broken CSS in mobile view
+0599. ✅ test: test user registration edge cases
