@@ -75029,3 +75029,4 @@
 0611. ✅ test: test user registration edge cases
 0950. 🎨 style: reformat files with black
 0001. 🚀 perf: cache repeated calculations
+0177. 📚 docs: add API usage examples
