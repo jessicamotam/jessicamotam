@@ -4148,3 +4148,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0900. 🐛 fix: handle 500 error in quiz API
 0273. 🚀 perf: reduce image load time
+0749. ✨ feat: support email verification
