@@ -66679,3 +66679,4 @@
 0070. ✨ feat: implement quiz timer feature
 0233. 🚀 perf: lazy-load components
 0452. ✨ feat: implement quiz timer feature
+0778. 📚 docs: write FAQ section
