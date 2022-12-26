@@ -41387,3 +41387,4 @@
 0739. 🎨 style: remove trailing whitespace
 0498. ✅ test: mock database connection in test suite
 0595. ✨ feat: enable dark mode toggle
+0613. 🐛 fix: prevent crash on empty input
