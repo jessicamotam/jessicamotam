@@ -63693,3 +63693,4 @@
 0185. 📚 docs: write FAQ section
 0958. 🐛 fix: prevent crash on empty input
 0257. 📚 docs: clarify environment setup
+0353. ♻️ chore: rename env.example
