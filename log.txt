@@ -35807,3 +35807,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0225. 🚀 perf: reduce image load time
 0889. 🚀 perf: lazy-load components
+0558. ✨ feat: enable dark mode toggle
