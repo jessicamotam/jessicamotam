@@ -67306,3 +67306,4 @@
 0043. ✅ test: add integration test for /submit endpoint
 0993. ✨ feat: implement quiz timer feature
 0192. ✨ feat: enable dark mode toggle
+0377. ✨ feat: add user authentication
