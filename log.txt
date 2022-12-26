@@ -71353,3 +71353,4 @@
 0631. ✨ feat: create admin dashboard
 0890. 🔧 refactor: organize models into subfolders
 0437. 📚 docs: clarify environment setup
+0375. 🐛 fix: handle 500 error in quiz API
