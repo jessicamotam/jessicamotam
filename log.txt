@@ -46966,3 +46966,4 @@
 0219. ✅ test: increase coverage on auth module
 0888. 🚀 perf: lazy-load components
 0946. ✅ test: add unit test for quiz service
+0111. 📚 docs: update README with setup steps
