@@ -50158,3 +50158,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0765. ♻️ chore: clean up unused files
 0265. 🎨 style: reformat files with black
+0960. ✅ test: increase coverage on auth module
