@@ -316,3 +316,4 @@
 0291. 📚 docs: write FAQ section
 0185. 📚 docs: write FAQ section
 0379. ✨ feat: support email verification
+0039. ✅ test: add integration test for /submit endpoint
