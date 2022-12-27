@@ -64100,3 +64100,4 @@
 0691. 🎨 style: rename variables for clarity
 0126. 🎨 style: rename variables for clarity
 0801. ✨ feat: enable dark mode toggle
+0440. 📚 docs: update README with setup steps
