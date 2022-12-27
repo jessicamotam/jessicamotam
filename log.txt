@@ -54866,3 +54866,4 @@
 0262. 🎨 style: remove trailing whitespace
 0211. 🔧 refactor: remove redundant code blocks
 0939. 📚 docs: update README with setup steps
+0561. 📚 docs: write FAQ section
