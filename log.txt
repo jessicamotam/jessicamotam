@@ -62125,3 +62125,4 @@
 0174. 📚 docs: clarify environment setup
 0119. 📚 docs: improve code comments in utils
 0746. ♻️ chore: add GitHub actions badge
+0880. 🐛 fix: fix broken CSS in mobile view
