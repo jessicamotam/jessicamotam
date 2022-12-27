@@ -29939,3 +29939,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0615. 🐛 fix: correct typo in registration form
 0979. 🎨 style: standardize quote style
+0549. ✨ feat: enable dark mode toggle
