@@ -8112,3 +8112,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0320. 📚 docs: update README with setup steps
 0087. ✨ feat: add export to CSV option
+0170. ✅ test: increase coverage on auth module
