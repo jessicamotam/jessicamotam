@@ -14066,3 +14066,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0962. ✨ feat: create admin dashboard
 0044. ✅ test: add unit test for quiz service
+0315. ✅ test: add integration test for /submit endpoint
