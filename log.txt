@@ -86905,3 +86905,4 @@
 0487. 🎨 style: reformat files with black
 0511. 🐛 fix: fix broken CSS in mobile view
 0798. 🚀 perf: reduce image load time
+0101. 📚 docs: clarify environment setup
