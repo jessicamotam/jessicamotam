@@ -28337,3 +28337,4 @@
 0626. 🎨 style: standardize quote style
 0688. 🚀 perf: reduce image load time
 0217. 🚀 perf: reduce image load time
+0208. 🔧 refactor: clean up auth middleware
