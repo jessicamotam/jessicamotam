@@ -13236,3 +13236,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0294. 🐛 fix: prevent crash on empty input
 0612. ✅ test: test user registration edge cases
+0946. ✅ test: add unit test for quiz service
