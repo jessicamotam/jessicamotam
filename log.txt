@@ -43338,3 +43338,4 @@
 0027. 📚 docs: clarify environment setup
 0730. ✅ test: test user registration edge cases
 0234. ♻️ chore: rename env.example
+0018. 🔧 refactor: organize models into subfolders
