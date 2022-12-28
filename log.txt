@@ -57646,3 +57646,4 @@
 0102. ✨ feat: support email verification
 0772. 🐛 fix: fix null pointer exception on login
 0301. 🎨 style: apply consistent indentation
+0996. ✅ test: test user registration edge cases
