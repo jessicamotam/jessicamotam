@@ -70553,3 +70553,4 @@
 0234. ♻️ chore: rename env.example
 0509. ♻️ chore: bump dependencies
 0662. ♻️ chore: clean up unused files
+0170. ✅ test: increase coverage on auth module
