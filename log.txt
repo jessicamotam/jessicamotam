@@ -23894,3 +23894,4 @@
 0298. ♻️ chore: update .gitignore
 0510. 🎨 style: rename variables for clarity
 0452. ✨ feat: implement quiz timer feature
+0546. 🐛 fix: fix null pointer exception on login
