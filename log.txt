@@ -73418,3 +73418,4 @@
 0875. ✅ test: increase coverage on auth module
 0792. 🎨 style: standardize quote style
 0737. 🐛 fix: handle 500 error in quiz API
+0101. 📚 docs: clarify environment setup
