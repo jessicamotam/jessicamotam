@@ -13968,3 +13968,4 @@
 0683. ✅ test: mock database connection in test suite
 0536. ✨ feat: add user authentication
 0474. ✅ test: add unit test for quiz service
+0080. ✨ feat: support email verification
