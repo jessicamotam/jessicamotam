@@ -19408,3 +19408,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0260. ✨ feat: create admin dashboard
 0088. 📚 docs: add API usage examples
+0721. 🚀 perf: optimize database query for quiz results
