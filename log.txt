@@ -54011,3 +54011,4 @@
 0548. 📚 docs: write FAQ section
 0056. ♻️ chore: rename env.example
 0675. 🔧 refactor: organize models into subfolders
+0800. 🚀 perf: optimize database query for quiz results
