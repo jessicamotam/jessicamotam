@@ -43946,3 +43946,4 @@
 0574. ✨ feat: enable dark mode toggle
 0353. ♻️ chore: rename env.example
 0451. ✨ feat: support email verification
+0707. 🎨 style: apply consistent indentation
