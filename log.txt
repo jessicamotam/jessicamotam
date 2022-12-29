@@ -38240,3 +38240,4 @@
 0811. 🎨 style: reformat files with black
 0975. 🎨 style: apply consistent indentation
 0248. 🐛 fix: handle 500 error in quiz API
+0996. ✅ test: test user registration edge cases
