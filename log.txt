@@ -25502,3 +25502,4 @@
 0095. ✅ test: mock database connection in test suite
 0657. 🎨 style: standardize quote style
 0395. 📚 docs: write FAQ section
+0672. 🐛 fix: fix broken CSS in mobile view
