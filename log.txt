@@ -42562,3 +42562,4 @@
 0454. ♻️ chore: bump dependencies
 0729. 🔧 refactor: refactor quiz grading logic
 0430. 🐛 fix: fix null pointer exception on login
+0231. 🔧 refactor: clean up auth middleware
