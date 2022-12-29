@@ -43193,3 +43193,4 @@
 0374. 🎨 style: standardize quote style
 0080. ✨ feat: support email verification
 0087. ✨ feat: add export to CSV option
+0515. 🚀 perf: optimize database query for quiz results
