@@ -51240,3 +51240,4 @@
 0403. ✅ test: mock database connection in test suite
 0860. 🔧 refactor: organize models into subfolders
 0158. 📚 docs: clarify environment setup
+0315. ✅ test: add integration test for /submit endpoint
