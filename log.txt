@@ -52126,3 +52126,4 @@
 0949. 📚 docs: write FAQ section
 0757. 🔧 refactor: remove redundant code blocks
 0361. ✨ feat: support email verification
+0725. 🚀 perf: lazy-load components
