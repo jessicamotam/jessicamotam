@@ -29694,3 +29694,4 @@
 0566. 📚 docs: write FAQ section
 0817. 🔧 refactor: remove redundant code blocks
 0530. 🔧 refactor: refactor quiz grading logic
+0877. 🚀 perf: optimize database query for quiz results
