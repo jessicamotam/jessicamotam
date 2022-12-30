@@ -48502,3 +48502,4 @@
 0212. 🎨 style: standardize quote style
 0150. 🎨 style: remove trailing whitespace
 0877. 🚀 perf: optimize database query for quiz results
+0690. 🚀 perf: lazy-load components
