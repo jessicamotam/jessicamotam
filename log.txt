@@ -61312,3 +61312,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0049. 🐛 fix: handle 500 error in quiz API
 0535. 📚 docs: write FAQ section
+0745. ✅ test: add unit test for quiz service
