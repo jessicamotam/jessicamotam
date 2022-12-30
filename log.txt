@@ -81453,3 +81453,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0775. 🐛 fix: fix null pointer exception on login
 0568. 🐛 fix: handle 500 error in quiz API
+0291. 📚 docs: write FAQ section
