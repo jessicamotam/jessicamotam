@@ -46408,3 +46408,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0828. ♻️ chore: add GitHub actions badge
 0194. 🎨 style: standardize quote style
+0844. 📚 docs: update README with setup steps
