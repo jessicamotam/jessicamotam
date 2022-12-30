@@ -30155,3 +30155,4 @@
 0547. 📚 docs: write FAQ section
 0933. 📚 docs: clarify environment setup
 0727. ♻️ chore: add GitHub actions badge
+0813. 🔧 refactor: organize models into subfolders
