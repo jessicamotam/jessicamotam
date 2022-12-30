@@ -67973,3 +67973,4 @@
 0792. 🎨 style: standardize quote style
 0074. ♻️ chore: add GitHub actions badge
 0051. ✨ feat: enable dark mode toggle
+0055. 📚 docs: update README with setup steps
