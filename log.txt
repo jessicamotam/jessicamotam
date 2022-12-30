@@ -42454,3 +42454,4 @@
 0773. 📚 docs: document token refresh logic
 0120. ✅ test: add integration test for /submit endpoint
 0239. 🎨 style: standardize quote style
+0102. ✨ feat: support email verification
