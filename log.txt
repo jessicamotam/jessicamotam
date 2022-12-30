@@ -4045,3 +4045,4 @@
 0634. 🎨 style: reformat files with black
 0588. 🔧 refactor: organize models into subfolders
 0831. 📚 docs: clarify environment setup
+0250. 📚 docs: update README with setup steps
