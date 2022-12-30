@@ -28787,3 +28787,4 @@
 0306. 🎨 style: apply consistent indentation
 0846. ✨ feat: implement quiz timer feature
 0049. 🐛 fix: handle 500 error in quiz API
+0450. 🐛 fix: fix broken CSS in mobile view
