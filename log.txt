@@ -60690,3 +60690,4 @@
 0567. 📚 docs: add API usage examples
 0630. 🚀 perf: lazy-load components
 0282. 🔧 refactor: remove redundant code blocks
+0475. 🔧 refactor: clean up auth middleware
