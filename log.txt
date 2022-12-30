@@ -34136,3 +34136,4 @@
 0241. 📚 docs: add API usage examples
 0342. 🚀 perf: cache repeated calculations
 0346. ✅ test: mock database connection in test suite
+0502. 📚 docs: update README with setup steps
