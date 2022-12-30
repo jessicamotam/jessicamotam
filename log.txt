@@ -34961,3 +34961,4 @@
 0712. 🎨 style: apply consistent indentation
 0499. 🎨 style: reformat files with black
 0076. 🎨 style: reformat files with black
+0981. 🚀 perf: lazy-load components
