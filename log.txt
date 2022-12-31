@@ -47330,3 +47330,4 @@
 0106. 🎨 style: reformat files with black
 0362. 📚 docs: add API usage examples
 0378. 🐛 fix: prevent crash on empty input
+0084. 🐛 fix: handle 500 error in quiz API
