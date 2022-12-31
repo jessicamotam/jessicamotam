@@ -73617,3 +73617,4 @@
 0541. 🐛 fix: correct typo in registration form
 0976. ✨ feat: implement quiz timer feature
 0435. ✅ test: add unit test for quiz service
+0561. 📚 docs: write FAQ section
