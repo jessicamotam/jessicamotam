@@ -42949,3 +42949,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0374. 🎨 style: standardize quote style
 0565. ♻️ chore: add GitHub actions badge
+0989. 📚 docs: write FAQ section
