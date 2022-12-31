@@ -16506,3 +16506,4 @@
 0545. 🎨 style: standardize quote style
 0462. ♻️ chore: update .gitignore
 0018. 🔧 refactor: organize models into subfolders
+0430. 🐛 fix: fix null pointer exception on login
