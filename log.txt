@@ -26244,3 +26244,4 @@
 0116. ✨ feat: support email verification
 0172. 📚 docs: add API usage examples
 0405. ✅ test: mock database connection in test suite
+0944. ✨ feat: add user authentication
