@@ -14143,3 +14143,4 @@
 0454. ♻️ chore: bump dependencies
 0049. 🐛 fix: handle 500 error in quiz API
 0521. 🎨 style: standardize quote style
+0340. 🚀 perf: optimize database query for quiz results
