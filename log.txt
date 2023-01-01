@@ -77304,3 +77304,4 @@
 0846. ✨ feat: implement quiz timer feature
 0138. 🎨 style: rename variables for clarity
 0880. 🐛 fix: fix broken CSS in mobile view
+0312. ✨ feat: add user authentication
