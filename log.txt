@@ -6075,3 +6075,4 @@
 0854. ♻️ chore: rename env.example
 0419. 🎨 style: remove trailing whitespace
 0655. 🚀 perf: cache repeated calculations
+0582. ✨ feat: add export to CSV option
