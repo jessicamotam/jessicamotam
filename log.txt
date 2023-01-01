@@ -2478,3 +2478,4 @@
 0743. 🎨 style: apply consistent indentation
 0600. 🐛 fix: prevent crash on empty input
 0962. ✨ feat: create admin dashboard
+0199. ✨ feat: create admin dashboard
