@@ -6020,3 +6020,4 @@
 0431. 🎨 style: reformat files with black
 0448. 🐛 fix: correct typo in registration form
 0340. 🚀 perf: optimize database query for quiz results
+0708. ✅ test: add integration test for /submit endpoint
