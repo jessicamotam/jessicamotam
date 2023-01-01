@@ -39902,3 +39902,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0834. ✅ test: increase coverage on auth module
 0381. ♻️ chore: clean up unused files
+0833. ✨ feat: add user authentication
