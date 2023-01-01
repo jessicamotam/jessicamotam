@@ -45202,3 +45202,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0493. ✨ feat: add user authentication
 0739. 🎨 style: remove trailing whitespace
+0611. ✅ test: test user registration edge cases
