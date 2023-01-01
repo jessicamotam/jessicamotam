@@ -73974,3 +73974,4 @@
 0416. 🎨 style: rename variables for clarity
 0459. 🔧 refactor: organize models into subfolders
 0835. 🐛 fix: prevent crash on empty input
+0231. 🔧 refactor: clean up auth middleware
