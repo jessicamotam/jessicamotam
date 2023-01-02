@@ -26988,3 +26988,4 @@
 0464. 🎨 style: remove trailing whitespace
 0356. 📚 docs: write FAQ section
 0053. ✅ test: increase coverage on auth module
+0607. 🐛 fix: prevent crash on empty input
