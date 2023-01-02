@@ -41129,3 +41129,4 @@
 0153. ♻️ chore: rename env.example
 0353. ♻️ chore: rename env.example
 0014. 🔧 refactor: remove redundant code blocks
+0040. 🔧 refactor: clean up auth middleware
