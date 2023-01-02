@@ -79756,3 +79756,4 @@
 0974. ✨ feat: add export to CSV option
 0383. 🐛 fix: fix broken CSS in mobile view
 0052. 🎨 style: standardize quote style
+0173. 🚀 perf: cache repeated calculations
