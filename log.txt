@@ -23024,3 +23024,4 @@
 0830. 🎨 style: apply consistent indentation
 0455. ♻️ chore: clean up unused files
 0518. ✨ feat: support email verification
+0226. 🚀 perf: lazy-load components
