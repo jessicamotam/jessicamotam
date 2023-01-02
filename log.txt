@@ -4451,3 +4451,4 @@
 0347. ♻️ chore: update .gitignore
 0634. 🎨 style: reformat files with black
 0968. 🎨 style: standardize quote style
+0798. 🚀 perf: reduce image load time
