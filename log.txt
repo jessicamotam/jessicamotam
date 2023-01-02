@@ -34900,3 +34900,4 @@
 0250. 📚 docs: update README with setup steps
 0451. ✨ feat: support email verification
 0586. 🎨 style: remove trailing whitespace
+0737. 🐛 fix: handle 500 error in quiz API
