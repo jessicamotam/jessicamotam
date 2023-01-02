@@ -83702,3 +83702,4 @@
 0291. 📚 docs: write FAQ section
 0772. 🐛 fix: fix null pointer exception on login
 0700. 🎨 style: rename variables for clarity
+0503. ♻️ chore: rename env.example
