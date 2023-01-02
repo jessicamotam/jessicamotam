@@ -16265,3 +16265,4 @@
 0336. ✨ feat: add export to CSV option
 0955. 🔧 refactor: remove redundant code blocks
 0455. ♻️ chore: clean up unused files
+0666. 🐛 fix: fix broken CSS in mobile view
