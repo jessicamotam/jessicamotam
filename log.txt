@@ -15482,3 +15482,4 @@
 0405. ✅ test: mock database connection in test suite
 0921. 🐛 fix: correct typo in registration form
 0240. 🔧 refactor: remove redundant code blocks
+0097. 🐛 fix: handle 500 error in quiz API
