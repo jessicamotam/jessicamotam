@@ -75274,3 +75274,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0689. 🎨 style: reformat files with black
 0689. 🎨 style: reformat files with black
+0464. 🎨 style: remove trailing whitespace
