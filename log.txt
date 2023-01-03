@@ -41118,3 +41118,4 @@
 0244. ✨ feat: add export to CSV option
 0625. 🐛 fix: handle 500 error in quiz API
 0944. ✨ feat: add user authentication
+0965. 🎨 style: reformat files with black
