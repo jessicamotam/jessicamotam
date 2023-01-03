@@ -24403,3 +24403,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0271. ✅ test: add unit test for quiz service
 0284. ✨ feat: implement quiz timer feature
+0833. ✨ feat: add user authentication
