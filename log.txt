@@ -81238,3 +81238,4 @@
 0353. ♻️ chore: rename env.example
 0256. ✅ test: mock database connection in test suite
 0815. 🔧 refactor: split large controller into smaller functions
+0973. 🔧 refactor: organize models into subfolders
