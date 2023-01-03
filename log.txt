@@ -59180,3 +59180,4 @@
 0663. 🚀 perf: reduce image load time
 0707. 🎨 style: apply consistent indentation
 0475. 🔧 refactor: clean up auth middleware
+0563. 📚 docs: clarify environment setup
