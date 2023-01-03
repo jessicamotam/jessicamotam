@@ -52311,3 +52311,4 @@
 0555. ✨ feat: create admin dashboard
 0579. 📚 docs: clarify environment setup
 0493. ✨ feat: add user authentication
+0788. 📚 docs: add API usage examples
