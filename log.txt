@@ -18994,3 +18994,4 @@
 0483. 📚 docs: update README with setup steps
 0479. 🐛 fix: fix null pointer exception on login
 0244. ✨ feat: add export to CSV option
+0465. 🎨 style: rename variables for clarity
