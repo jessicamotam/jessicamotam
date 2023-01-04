@@ -19376,3 +19376,4 @@
 0715. ✨ feat: create admin dashboard
 0735. ♻️ chore: add GitHub actions badge
 0052. 🎨 style: standardize quote style
+0675. 🔧 refactor: organize models into subfolders
