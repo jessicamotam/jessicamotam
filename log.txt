@@ -50419,3 +50419,4 @@
 0523. ♻️ chore: bump dependencies
 0724. ✅ test: mock database connection in test suite
 0795. 📚 docs: update README with setup steps
+0110. 🐛 fix: prevent crash on empty input
