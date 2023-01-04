@@ -45039,3 +45039,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0960. ✅ test: increase coverage on auth module
 0395. 📚 docs: write FAQ section
+0593. 🐛 fix: correct typo in registration form
