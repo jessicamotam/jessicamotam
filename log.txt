@@ -86016,3 +86016,4 @@
 0481. ✅ test: add unit test for quiz service
 0847. ♻️ chore: clean up unused files
 0768. 🎨 style: remove trailing whitespace
+0178. ✨ feat: support email verification
