@@ -66616,3 +66616,4 @@
 0618. ✨ feat: support email verification
 0944. ✨ feat: add user authentication
 0248. 🐛 fix: handle 500 error in quiz API
+0096. 🐛 fix: prevent crash on empty input
