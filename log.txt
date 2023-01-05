@@ -73171,3 +73171,4 @@
 0179. 🔧 refactor: split large controller into smaller functions
 0336. ✨ feat: add export to CSV option
 0885. ♻️ chore: update .gitignore
+0167. 🚀 perf: reduce image load time
