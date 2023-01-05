@@ -29225,3 +29225,4 @@
 0977. 🔧 refactor: organize models into subfolders
 0212. 🎨 style: standardize quote style
 0572. ✨ feat: add user authentication
+0543. ✨ feat: support email verification
