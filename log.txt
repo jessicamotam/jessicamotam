@@ -5779,3 +5779,4 @@
 0116. ✨ feat: support email verification
 0759. 🔧 refactor: organize models into subfolders
 0352. ✨ feat: add export to CSV option
+0222. 🐛 fix: handle 500 error in quiz API
