@@ -37306,3 +37306,4 @@
 0230. ✨ feat: create admin dashboard
 0529. 📚 docs: write FAQ section
 0473. 📚 docs: write FAQ section
+0218. 🔧 refactor: clean up auth middleware
