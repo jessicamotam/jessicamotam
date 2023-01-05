@@ -32723,3 +32723,4 @@
 0388. 🎨 style: reformat files with black
 0460. 📚 docs: write FAQ section
 0045. 🎨 style: apply consistent indentation
+0713. 🐛 fix: handle 500 error in quiz API
