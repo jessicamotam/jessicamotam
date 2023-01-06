@@ -17043,3 +17043,4 @@
 0614. 🚀 perf: reduce image load time
 0605. ✨ feat: support email verification
 0565. ♻️ chore: add GitHub actions badge
+0677. 📚 docs: add API usage examples
