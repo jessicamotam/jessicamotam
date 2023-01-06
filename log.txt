@@ -65105,3 +65105,4 @@
 0873. 🚀 perf: cache repeated calculations
 0738. 🐛 fix: prevent crash on empty input
 0320. 📚 docs: update README with setup steps
+0395. 📚 docs: write FAQ section
