@@ -58201,3 +58201,4 @@
 0657. 🎨 style: standardize quote style
 0338. ♻️ chore: add GitHub actions badge
 0482. ✨ feat: add export to CSV option
+1000. ✅ test: increase coverage on auth module
