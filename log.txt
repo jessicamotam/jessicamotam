@@ -47257,3 +47257,4 @@
 0583. ✅ test: increase coverage on auth module
 0138. 🎨 style: rename variables for clarity
 0614. 🚀 perf: reduce image load time
+0331. 🐛 fix: fix broken CSS in mobile view
