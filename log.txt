@@ -86932,3 +86932,4 @@
 0141. 📚 docs: document token refresh logic
 0344. ♻️ chore: add GitHub actions badge
 0514. 🐛 fix: fix broken CSS in mobile view
+0192. ✨ feat: enable dark mode toggle
