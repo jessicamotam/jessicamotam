@@ -4026,3 +4026,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0896. 🚀 perf: reduce image load time
 0746. ♻️ chore: add GitHub actions badge
+0250. 📚 docs: update README with setup steps
