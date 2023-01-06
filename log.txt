@@ -54215,3 +54215,4 @@
 0677. 📚 docs: add API usage examples
 0833. ✨ feat: add user authentication
 0235. 🐛 fix: fix null pointer exception on login
+0269. ✅ test: test user registration edge cases
