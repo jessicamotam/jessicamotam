@@ -8706,3 +8706,4 @@
 0054. ♻️ chore: update .gitignore
 0349. ✅ test: increase coverage on auth module
 0661. ✅ test: add integration test for /submit endpoint
+0634. 🎨 style: reformat files with black
