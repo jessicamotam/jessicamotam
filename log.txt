@@ -42137,3 +42137,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0441. 📚 docs: add API usage examples
 0997. ✅ test: increase coverage on auth module
+0188. 🎨 style: apply consistent indentation
