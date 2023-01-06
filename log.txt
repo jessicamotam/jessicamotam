@@ -9502,3 +9502,4 @@
 0078. ♻️ chore: update .gitignore
 0600. 🐛 fix: prevent crash on empty input
 0790. 📚 docs: write FAQ section
+0398. 🚀 perf: cache repeated calculations
