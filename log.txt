@@ -15033,3 +15033,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0776. ✅ test: add integration test for /submit endpoint
 0290. ✅ test: test user registration edge cases
+1000. ✅ test: increase coverage on auth module
