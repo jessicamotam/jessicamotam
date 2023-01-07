@@ -71217,3 +71217,4 @@
 0263. 📚 docs: add API usage examples
 0411. ✅ test: add unit test for quiz service
 0387. ✨ feat: enable dark mode toggle
+0281. ✨ feat: support email verification
