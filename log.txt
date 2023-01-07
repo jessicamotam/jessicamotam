@@ -84647,3 +84647,4 @@
 0336. ✨ feat: add export to CSV option
 0080. ✨ feat: support email verification
 0313. 🎨 style: apply consistent indentation
+0100. ♻️ chore: update .gitignore
