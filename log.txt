@@ -28666,3 +28666,4 @@
 0031. 📚 docs: document token refresh logic
 0567. 📚 docs: add API usage examples
 0829. 🔧 refactor: organize models into subfolders
+0685. ✅ test: test user registration edge cases
