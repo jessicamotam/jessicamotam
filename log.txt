@@ -52957,3 +52957,4 @@
 0333. 🚀 perf: cache repeated calculations
 0276. ✅ test: add integration test for /submit endpoint
 0947. 📚 docs: write FAQ section
+0666. 🐛 fix: fix broken CSS in mobile view
