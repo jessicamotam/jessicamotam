@@ -19872,3 +19872,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0157. ✅ test: mock database connection in test suite
 0847. ♻️ chore: clean up unused files
+0379. ✨ feat: support email verification
