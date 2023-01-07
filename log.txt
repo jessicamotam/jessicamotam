@@ -48193,3 +48193,4 @@
 0144. ✅ test: increase coverage on auth module
 0875. ✅ test: increase coverage on auth module
 0757. 🔧 refactor: remove redundant code blocks
+0582. ✨ feat: add export to CSV option
