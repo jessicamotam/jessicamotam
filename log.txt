@@ -63156,3 +63156,4 @@
 0913. 🚀 perf: optimize database query for quiz results
 0447. ♻️ chore: bump dependencies
 0681. ✨ feat: create admin dashboard
+0471. ✨ feat: support email verification
