@@ -48760,3 +48760,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0551. 📚 docs: write FAQ section
 0922. 📚 docs: write FAQ section
+0479. 🐛 fix: fix null pointer exception on login
