@@ -39356,3 +39356,4 @@
 0756. ✨ feat: support email verification
 0473. 📚 docs: write FAQ section
 0762. 🚀 perf: lazy-load components
+0738. 🐛 fix: prevent crash on empty input
