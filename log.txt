@@ -14687,3 +14687,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0935. 📚 docs: update README with setup steps
 0823. ✨ feat: add user authentication
+0603. 🐛 fix: fix broken CSS in mobile view
