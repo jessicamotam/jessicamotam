@@ -67399,3 +67399,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0720. ✨ feat: add export to CSV option
 0245. 🐛 fix: resolve issue with date parsing
+0590. 🐛 fix: fix null pointer exception on login
