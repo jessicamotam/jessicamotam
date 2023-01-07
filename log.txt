@@ -53872,3 +53872,4 @@
 0012. 🚀 perf: cache repeated calculations
 0473. 📚 docs: write FAQ section
 0021. ✨ feat: support email verification
+0022. 📚 docs: document token refresh logic
