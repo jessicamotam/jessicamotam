@@ -43978,3 +43978,4 @@
 0968. 🎨 style: standardize quote style
 0626. 🎨 style: standardize quote style
 0294. 🐛 fix: prevent crash on empty input
+0611. ✅ test: test user registration edge cases
