@@ -8055,3 +8055,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0473. 📚 docs: write FAQ section
 0879. 🎨 style: standardize quote style
+0672. 🐛 fix: fix broken CSS in mobile view
