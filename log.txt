@@ -72782,3 +72782,4 @@
 0829. 🔧 refactor: organize models into subfolders
 0861. ♻️ chore: clean up unused files
 0705. 🔧 refactor: refactor quiz grading logic
+0713. 🐛 fix: handle 500 error in quiz API
