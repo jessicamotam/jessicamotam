@@ -16195,3 +16195,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0540. ♻️ chore: add GitHub actions badge
 0456. 🚀 perf: optimize database query for quiz results
+0581. ✅ test: add integration test for /submit endpoint
