@@ -43081,3 +43081,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0984. ♻️ chore: clean up unused files
 0454. ♻️ chore: bump dependencies
+0514. 🐛 fix: fix broken CSS in mobile view
