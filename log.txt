@@ -85347,3 +85347,4 @@
 0551. 📚 docs: write FAQ section
 0981. 🚀 perf: lazy-load components
 0213. ✅ test: add integration test for /submit endpoint
+0710. 🐛 fix: fix broken CSS in mobile view
