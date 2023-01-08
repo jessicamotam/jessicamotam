@@ -75103,3 +75103,4 @@
 0870. ♻️ chore: clean up unused files
 0924. ✅ test: mock database connection in test suite
 0949. 📚 docs: write FAQ section
+0257. 📚 docs: clarify environment setup
