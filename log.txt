@@ -81271,3 +81271,4 @@
 0990. ♻️ chore: rename env.example
 0744. 🔧 refactor: remove redundant code blocks
 0122. ✨ feat: support email verification
+0493. ✨ feat: add user authentication
