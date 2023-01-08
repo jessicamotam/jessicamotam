@@ -53081,3 +53081,4 @@
 0153. ♻️ chore: rename env.example
 0738. 🐛 fix: prevent crash on empty input
 0471. ✨ feat: support email verification
+0777. 📚 docs: document token refresh logic
