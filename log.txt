@@ -52364,3 +52364,4 @@
 0523. ♻️ chore: bump dependencies
 0053. ✅ test: increase coverage on auth module
 0057. 🚀 perf: optimize database query for quiz results
+0659. 📚 docs: add API usage examples
