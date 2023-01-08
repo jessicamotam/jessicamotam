@@ -86335,3 +86335,4 @@
 0823. ✨ feat: add user authentication
 0787. ♻️ chore: rename env.example
 0160. ♻️ chore: bump dependencies
+0625. 🐛 fix: handle 500 error in quiz API
