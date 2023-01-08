@@ -37260,3 +37260,4 @@
 0636. ✅ test: increase coverage on auth module
 0026. 🔧 refactor: clean up auth middleware
 0380. 🐛 fix: fix null pointer exception on login
+0435. ✅ test: add unit test for quiz service
