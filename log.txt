@@ -87760,3 +87760,4 @@
 0008. 🚀 perf: reduce image load time
 0964. ♻️ chore: clean up unused files
 0923. ✨ feat: support email verification
+0097. 🐛 fix: handle 500 error in quiz API
