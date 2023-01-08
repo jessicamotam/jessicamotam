@@ -81177,3 +81177,4 @@
 0742. 📚 docs: clarify environment setup
 0569. 📚 docs: document token refresh logic
 0378. 🐛 fix: prevent crash on empty input
+0278. 🔧 refactor: clean up auth middleware
