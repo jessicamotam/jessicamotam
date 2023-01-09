@@ -13787,3 +13787,4 @@
 0464. 🎨 style: remove trailing whitespace
 0318. 🔧 refactor: refactor quiz grading logic
 0317. ✅ test: test user registration edge cases
+0671. 🐛 fix: fix null pointer exception on login
