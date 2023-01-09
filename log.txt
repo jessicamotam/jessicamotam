@@ -84648,3 +84648,4 @@
 0080. ✨ feat: support email verification
 0313. 🎨 style: apply consistent indentation
 0100. ♻️ chore: update .gitignore
+0496. ✅ test: add integration test for /submit endpoint
