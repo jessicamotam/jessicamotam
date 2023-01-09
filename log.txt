@@ -43381,3 +43381,4 @@
 0594. 🎨 style: reformat files with black
 0513. ♻️ chore: bump dependencies
 0480. ♻️ chore: add GitHub actions badge
+0556. ✨ feat: support email verification
