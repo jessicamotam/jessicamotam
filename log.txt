@@ -14393,3 +14393,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0627. 📚 docs: document token refresh logic
 0563. 📚 docs: clarify environment setup
+0307. ✨ feat: support email verification
