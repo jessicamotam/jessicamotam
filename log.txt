@@ -58760,3 +58760,4 @@
 0147. ♻️ chore: bump dependencies
 0699. 🎨 style: standardize quote style
 0388. 🎨 style: reformat files with black
+0096. 🐛 fix: prevent crash on empty input
