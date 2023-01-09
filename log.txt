@@ -59077,3 +59077,4 @@
 0178. ✨ feat: support email verification
 0910. 🎨 style: remove trailing whitespace
 0450. 🐛 fix: fix broken CSS in mobile view
+0874. 🔧 refactor: split large controller into smaller functions
