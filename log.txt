@@ -47960,3 +47960,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0875. ✅ test: increase coverage on auth module
 0524. ♻️ chore: rename env.example
+0980. 🎨 style: reformat files with black
