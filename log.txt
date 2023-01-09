@@ -5864,3 +5864,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0912. 📚 docs: document token refresh logic
 0080. ✨ feat: support email verification
+0851. ✅ test: mock database connection in test suite
