@@ -41816,3 +41816,4 @@
 0373. 📚 docs: document token refresh logic
 0922. 📚 docs: write FAQ section
 0843. 📚 docs: document token refresh logic
+0186. ✅ test: test user registration edge cases
