@@ -28293,3 +28293,4 @@
 0426. ✅ test: add integration test for /submit endpoint
 0586. 🎨 style: remove trailing whitespace
 0281. ✨ feat: support email verification
+0648. ♻️ chore: bump dependencies
