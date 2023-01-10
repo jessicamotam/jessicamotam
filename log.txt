@@ -83689,3 +83689,4 @@
 0189. 📚 docs: clarify environment setup
 0041. 🐛 fix: fix broken CSS in mobile view
 0361. ✨ feat: support email verification
+0786. ✨ feat: enable dark mode toggle
