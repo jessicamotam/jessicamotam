@@ -88259,3 +88259,4 @@
 0195. 📚 docs: clarify environment setup
 0635. 🎨 style: apply consistent indentation
 0450. 🐛 fix: fix broken CSS in mobile view
+0726. ✨ feat: enable dark mode toggle
