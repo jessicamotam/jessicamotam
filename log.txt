@@ -28940,3 +28940,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0599. ✅ test: test user registration edge cases
 0524. ♻️ chore: rename env.example
+0540. ♻️ chore: add GitHub actions badge
