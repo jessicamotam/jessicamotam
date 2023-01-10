@@ -10365,3 +10365,4 @@
 0935. 📚 docs: update README with setup steps
 0399. ✅ test: mock database connection in test suite
 0681. ✨ feat: create admin dashboard
+0296. 🔧 refactor: organize models into subfolders
