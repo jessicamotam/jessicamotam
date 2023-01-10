@@ -76468,3 +76468,4 @@
 0169. 📚 docs: add API usage examples
 0149. ✨ feat: add export to CSV option
 0948. 🐛 fix: fix broken CSS in mobile view
+0334. 🚀 perf: cache repeated calculations
