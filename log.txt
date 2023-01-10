@@ -51678,3 +51678,4 @@
 0169. 📚 docs: add API usage examples
 0419. 🎨 style: remove trailing whitespace
 0293. ✅ test: add integration test for /submit endpoint
+0349. ✅ test: increase coverage on auth module
