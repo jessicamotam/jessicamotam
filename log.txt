@@ -46110,3 +46110,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0854. ♻️ chore: rename env.example
 0279. ✨ feat: support email verification
+0712. 🎨 style: apply consistent indentation
