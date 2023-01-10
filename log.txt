@@ -54009,3 +54009,4 @@
 0521. 🎨 style: standardize quote style
 0150. 🎨 style: remove trailing whitespace
 0548. 📚 docs: write FAQ section
+0056. ♻️ chore: rename env.example
