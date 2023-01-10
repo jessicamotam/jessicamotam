@@ -59933,3 +59933,4 @@
 0001. 🚀 perf: cache repeated calculations
 0768. 🎨 style: remove trailing whitespace
 0246. ✅ test: add integration test for /submit endpoint
+0053. ✅ test: increase coverage on auth module
