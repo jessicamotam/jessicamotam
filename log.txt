@@ -1974,3 +1974,4 @@
 0329. 📚 docs: update README with setup steps
 0853. 🔧 refactor: refactor quiz grading logic
 0350. 🚀 perf: cache repeated calculations
+0154. 🐛 fix: prevent crash on empty input
