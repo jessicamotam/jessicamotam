@@ -79691,3 +79691,4 @@
 0648. ♻️ chore: bump dependencies
 0894. ✅ test: add integration test for /submit endpoint
 0154. 🐛 fix: prevent crash on empty input
+0779. 🔧 refactor: organize models into subfolders
