@@ -66894,3 +66894,4 @@
 0024. 📚 docs: write FAQ section
 0502. 📚 docs: update README with setup steps
 0343. 🚀 perf: optimize database query for quiz results
+0780. 📚 docs: add API usage examples
