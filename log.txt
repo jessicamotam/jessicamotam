@@ -81670,3 +81670,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0683. ✅ test: mock database connection in test suite
 0965. 🎨 style: reformat files with black
+0988. 🐛 fix: fix broken CSS in mobile view
