@@ -38777,3 +38777,4 @@
 0443. 🎨 style: standardize quote style
 0280. ✅ test: add integration test for /submit endpoint
 0088. 📚 docs: add API usage examples
+0471. ✨ feat: support email verification
