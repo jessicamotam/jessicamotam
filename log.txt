@@ -34687,3 +34687,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0182. 🔧 refactor: remove redundant code blocks
 0493. ✨ feat: add user authentication
+0106. 🎨 style: reformat files with black
