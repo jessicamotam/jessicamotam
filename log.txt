@@ -22928,3 +22928,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0870. ♻️ chore: clean up unused files
 0790. 📚 docs: write FAQ section
+0423. ✅ test: mock database connection in test suite
