@@ -6683,3 +6683,4 @@
 0434. 📚 docs: document token refresh logic
 0183. 🔧 refactor: split large controller into smaller functions
 0337. 📚 docs: document token refresh logic
+0549. ✨ feat: enable dark mode toggle
