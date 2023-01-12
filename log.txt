@@ -47844,3 +47844,4 @@
 0111. 📚 docs: update README with setup steps
 0221. ✨ feat: add user authentication
 0895. ✨ feat: support email verification
+0581. ✅ test: add integration test for /submit endpoint
