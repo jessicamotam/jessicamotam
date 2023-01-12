@@ -3504,3 +3504,4 @@
 0346. ✅ test: mock database connection in test suite
 0478. 🐛 fix: resolve issue with date parsing
 0106. 🎨 style: reformat files with black
+0934. ✨ feat: support email verification
