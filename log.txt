@@ -49599,3 +49599,4 @@
 0847. ♻️ chore: clean up unused files
 0994. 🚀 perf: reduce image load time
 0988. 🐛 fix: fix broken CSS in mobile view
+0234. ♻️ chore: rename env.example
