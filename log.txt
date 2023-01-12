@@ -79584,3 +79584,4 @@
 0095. ✅ test: mock database connection in test suite
 0381. ♻️ chore: clean up unused files
 0450. 🐛 fix: fix broken CSS in mobile view
+0940. 📚 docs: document token refresh logic
