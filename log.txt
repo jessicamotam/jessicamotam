@@ -50182,3 +50182,4 @@
 0987. ✨ feat: create admin dashboard
 0501. ✨ feat: add export to CSV option
 0352. ✨ feat: add export to CSV option
+0055. 📚 docs: update README with setup steps
