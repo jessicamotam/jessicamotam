@@ -8199,3 +8199,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0188. 🎨 style: apply consistent indentation
 0406. ✨ feat: add export to CSV option
+1000. ✅ test: increase coverage on auth module
