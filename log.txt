@@ -26491,3 +26491,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0177. 📚 docs: add API usage examples
 0042. 📚 docs: document token refresh logic
+0675. 🔧 refactor: organize models into subfolders
