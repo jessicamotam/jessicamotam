@@ -68045,3 +68045,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0616. 🚀 perf: lazy-load components
 0713. 🐛 fix: handle 500 error in quiz API
+0511. 🐛 fix: fix broken CSS in mobile view
