@@ -21748,3 +21748,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0220. 🐛 fix: fix null pointer exception on login
 0159. 🚀 perf: lazy-load components
+0201. 🔧 refactor: clean up auth middleware
