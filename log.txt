@@ -75258,3 +75258,4 @@
 0884. 📚 docs: clarify environment setup
 0081. 🐛 fix: fix null pointer exception on login
 0368. 🚀 perf: lazy-load components
+0929. ✨ feat: support email verification
