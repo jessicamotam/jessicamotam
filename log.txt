@@ -52875,3 +52875,4 @@
 0471. ✨ feat: support email verification
 0063. 🐛 fix: handle 500 error in quiz API
 0653. 🐛 fix: prevent crash on empty input
+0603. 🐛 fix: fix broken CSS in mobile view
