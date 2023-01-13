@@ -44115,3 +44115,4 @@
 0398. 🚀 perf: cache repeated calculations
 0150. 🎨 style: remove trailing whitespace
 0042. 📚 docs: document token refresh logic
+0763. 🔧 refactor: organize models into subfolders
