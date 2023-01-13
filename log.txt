@@ -84273,3 +84273,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0189. 📚 docs: clarify environment setup
 0395. 📚 docs: write FAQ section
+0128. ♻️ chore: rename env.example
