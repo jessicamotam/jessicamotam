@@ -34181,3 +34181,4 @@
 0801. ✨ feat: enable dark mode toggle
 0786. ✨ feat: enable dark mode toggle
 0867. 🔧 refactor: refactor quiz grading logic
+0436. ✅ test: add integration test for /submit endpoint
