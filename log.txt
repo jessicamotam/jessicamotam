@@ -88601,3 +88601,4 @@
 0639. 🐛 fix: correct typo in registration form
 0276. ✅ test: add integration test for /submit endpoint
 0053. ✅ test: increase coverage on auth module
+0728. 🔧 refactor: split large controller into smaller functions
