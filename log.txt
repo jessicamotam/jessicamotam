@@ -43658,3 +43658,4 @@
 0956. 📚 docs: clarify environment setup
 0415. 🐛 fix: handle 500 error in quiz API
 0043. ✅ test: add integration test for /submit endpoint
+0078. ♻️ chore: update .gitignore
