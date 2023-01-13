@@ -87154,3 +87154,4 @@
 0931. 🚀 perf: reduce image load time
 0220. 🐛 fix: fix null pointer exception on login
 0157. ✅ test: mock database connection in test suite
+0321. 🔧 refactor: organize models into subfolders
