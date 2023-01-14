@@ -86899,3 +86899,4 @@
 0353. ♻️ chore: rename env.example
 0635. 🎨 style: apply consistent indentation
 0133. 🐛 fix: fix null pointer exception on login
+0863. 🐛 fix: correct typo in registration form
