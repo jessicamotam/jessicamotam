@@ -14813,3 +14813,4 @@
 0976. ✨ feat: implement quiz timer feature
 0030. 🐛 fix: fix null pointer exception on login
 0565. ♻️ chore: add GitHub actions badge
+0052. 🎨 style: standardize quote style
