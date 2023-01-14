@@ -49133,3 +49133,4 @@
 0881. 🔧 refactor: split large controller into smaller functions
 0695. ✨ feat: create admin dashboard
 0775. 🐛 fix: fix null pointer exception on login
+0921. 🐛 fix: correct typo in registration form
