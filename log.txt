@@ -74534,3 +74534,4 @@
 0982. 🚀 perf: lazy-load components
 0189. 📚 docs: clarify environment setup
 0181. ♻️ chore: add GitHub actions badge
+0193. 🚀 perf: optimize database query for quiz results
