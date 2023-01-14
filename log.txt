@@ -1171,3 +1171,4 @@
 0029. 🚀 perf: lazy-load components
 0117. ✅ test: increase coverage on auth module
 0388. 🎨 style: reformat files with black
+0831. 📚 docs: clarify environment setup
