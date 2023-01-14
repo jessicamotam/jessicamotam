@@ -4523,3 +4523,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0145. 📚 docs: improve code comments in utils
 0518. ✨ feat: support email verification
+0536. ✨ feat: add user authentication
