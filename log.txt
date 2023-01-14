@@ -4577,3 +4577,4 @@
 0766. 🎨 style: reformat files with black
 0936. 🔧 refactor: organize models into subfolders
 0652. 🔧 refactor: organize models into subfolders
+0225. 🚀 perf: reduce image load time
