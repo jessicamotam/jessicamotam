@@ -16266,3 +16266,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0455. ♻️ chore: clean up unused files
 0666. 🐛 fix: fix broken CSS in mobile view
+0395. 📚 docs: write FAQ section
