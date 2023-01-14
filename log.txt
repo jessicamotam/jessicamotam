@@ -59789,3 +59789,4 @@
 0715. ✨ feat: create admin dashboard
 0575. ✅ test: add unit test for quiz service
 0212. 🎨 style: standardize quote style
+0603. 🐛 fix: fix broken CSS in mobile view
