@@ -46383,3 +46383,4 @@
 0094. 📚 docs: document token refresh logic
 0293. ✅ test: add integration test for /submit endpoint
 0781. 🚀 perf: reduce image load time
+0243. 🔧 refactor: clean up auth middleware
