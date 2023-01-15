@@ -35729,3 +35729,4 @@
 0596. ♻️ chore: update .gitignore
 0228. 🔧 refactor: remove redundant code blocks
 0934. ✨ feat: support email verification
+0025. 🚀 perf: optimize database query for quiz results
