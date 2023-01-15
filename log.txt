@@ -54348,3 +54348,4 @@
 0536. ✨ feat: add user authentication
 0687. 🎨 style: remove trailing whitespace
 0825. 🔧 refactor: split large controller into smaller functions
+0970. ♻️ chore: update .gitignore
