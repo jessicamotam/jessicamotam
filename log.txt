@@ -38971,3 +38971,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0690. 🚀 perf: lazy-load components
 0676. 🐛 fix: prevent crash on empty input
+0917. ✅ test: add integration test for /submit endpoint
