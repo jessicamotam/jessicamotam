@@ -53703,3 +53703,4 @@
 0866. 📚 docs: add API usage examples
 0527. 🎨 style: remove trailing whitespace
 0617. ✨ feat: support email verification
+0506. 🐛 fix: handle 500 error in quiz API
