@@ -84814,3 +84814,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0529. 📚 docs: write FAQ section
 0657. 🎨 style: standardize quote style
+0173. 🚀 perf: cache repeated calculations
