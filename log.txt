@@ -23956,3 +23956,4 @@
 0555. ✨ feat: create admin dashboard
 0655. 🚀 perf: cache repeated calculations
 0535. 📚 docs: write FAQ section
+0013. ✅ test: increase coverage on auth module
