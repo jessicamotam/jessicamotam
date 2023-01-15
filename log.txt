@@ -51731,3 +51731,4 @@
 0106. 🎨 style: reformat files with black
 0279. ✨ feat: support email verification
 0738. 🐛 fix: prevent crash on empty input
+0349. ✅ test: increase coverage on auth module
