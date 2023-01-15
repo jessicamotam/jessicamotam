@@ -31380,3 +31380,4 @@
 0996. ✅ test: test user registration edge cases
 0576. ♻️ chore: update .gitignore
 0029. 🚀 perf: lazy-load components
+0758. 🚀 perf: optimize database query for quiz results
