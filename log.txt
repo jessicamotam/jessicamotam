@@ -16763,3 +16763,4 @@
 0741. 🎨 style: apply consistent indentation
 0583. ✅ test: increase coverage on auth module
 0981. 🚀 perf: lazy-load components
+0698. 🐛 fix: handle 500 error in quiz API
