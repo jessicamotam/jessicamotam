@@ -77624,3 +77624,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0159. 🚀 perf: lazy-load components
 0176. 🔧 refactor: remove redundant code blocks
+0085. ✨ feat: support email verification
