@@ -39926,3 +39926,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0331. 🐛 fix: fix broken CSS in mobile view
 0331. 🐛 fix: fix broken CSS in mobile view
+0447. ♻️ chore: bump dependencies
