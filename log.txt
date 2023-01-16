@@ -29713,3 +29713,4 @@
 0702. ✨ feat: add user authentication
 0288. 🔧 refactor: refactor quiz grading logic
 0260. ✨ feat: create admin dashboard
+0852. ✨ feat: enable dark mode toggle
