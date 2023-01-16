@@ -89753,3 +89753,4 @@
 0824. 🚀 perf: lazy-load components
 0838. 🎨 style: standardize quote style
 0006. 🐛 fix: prevent crash on empty input
+0610. 🚀 perf: lazy-load components
