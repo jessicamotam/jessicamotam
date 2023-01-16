@@ -2190,3 +2190,4 @@
 0335. ♻️ chore: update .gitignore
 0137. 🎨 style: rename variables for clarity
 0912. 📚 docs: document token refresh logic
+0269. ✅ test: test user registration edge cases
