@@ -50635,3 +50635,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0711. 🐛 fix: fix broken CSS in mobile view
 0216. 🎨 style: rename variables for clarity
+0958. 🐛 fix: prevent crash on empty input
