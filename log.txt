@@ -21773,3 +21773,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0564. 📚 docs: clarify environment setup
 0336. ✨ feat: add export to CSV option
+0167. 🚀 perf: reduce image load time
