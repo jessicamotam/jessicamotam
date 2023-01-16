@@ -56500,3 +56500,4 @@
 0688. 🚀 perf: reduce image load time
 0250. 📚 docs: update README with setup steps
 0920. 🔧 refactor: organize models into subfolders
+0663. 🚀 perf: reduce image load time
