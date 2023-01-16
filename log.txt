@@ -41922,3 +41922,4 @@
 0597. 🚀 perf: cache repeated calculations
 0014. 🔧 refactor: remove redundant code blocks
 0305. ✨ feat: enable dark mode toggle
+0294. 🐛 fix: prevent crash on empty input
