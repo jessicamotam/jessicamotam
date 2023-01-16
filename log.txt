@@ -25581,3 +25581,4 @@
 0908. ♻️ chore: bump dependencies
 0890. 🔧 refactor: organize models into subfolders
 0643. 🎨 style: apply consistent indentation
+0253. 📚 docs: update README with setup steps
