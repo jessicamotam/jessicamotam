@@ -6859,3 +6859,4 @@
 0730. ✅ test: test user registration edge cases
 0496. ✅ test: add integration test for /submit endpoint
 0836. 🚀 perf: optimize database query for quiz results
+0508. ✅ test: add unit test for quiz service
