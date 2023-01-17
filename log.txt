@@ -7388,3 +7388,4 @@
 0526. ✨ feat: add user authentication
 0485. 📚 docs: update README with setup steps
 0635. 🎨 style: apply consistent indentation
+0605. ✨ feat: support email verification
