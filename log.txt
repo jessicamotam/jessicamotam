@@ -2822,3 +2822,4 @@
 0557. 🔧 refactor: clean up auth middleware
 0263. 📚 docs: add API usage examples
 0913. 🚀 perf: optimize database query for quiz results
+0400. 🐛 fix: fix null pointer exception on login
