@@ -58150,3 +58150,4 @@
 0468. 📚 docs: update README with setup steps
 0284. ✨ feat: implement quiz timer feature
 0486. ✨ feat: add export to CSV option
+0222. 🐛 fix: handle 500 error in quiz API
