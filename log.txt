@@ -35145,3 +35145,4 @@
 0944. ✨ feat: add user authentication
 0556. ✨ feat: support email verification
 0386. 🚀 perf: optimize database query for quiz results
+0488. ♻️ chore: add GitHub actions badge
