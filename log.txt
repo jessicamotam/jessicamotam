@@ -75412,3 +75412,4 @@
 0015. ✨ feat: implement quiz timer feature
 0807. 🔧 refactor: remove redundant code blocks
 0138. 🎨 style: rename variables for clarity
+0701. 🔧 refactor: clean up auth middleware
