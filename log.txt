@@ -83483,3 +83483,4 @@
 0731. 🎨 style: standardize quote style
 0024. 📚 docs: write FAQ section
 0074. ♻️ chore: add GitHub actions badge
+0249. ✅ test: increase coverage on auth module
