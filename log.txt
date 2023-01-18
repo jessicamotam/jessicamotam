@@ -15660,3 +15660,4 @@
 0615. 🐛 fix: correct typo in registration form
 0488. ♻️ chore: add GitHub actions badge
 0250. 📚 docs: update README with setup steps
+0158. 📚 docs: clarify environment setup
