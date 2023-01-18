@@ -4588,3 +4588,4 @@
 0657. 🎨 style: standardize quote style
 0839. 🎨 style: apply consistent indentation
 0917. ✅ test: add integration test for /submit endpoint
+0948. 🐛 fix: fix broken CSS in mobile view
