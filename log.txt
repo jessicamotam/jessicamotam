@@ -48576,3 +48576,4 @@
 0834. ✅ test: increase coverage on auth module
 0511. 🐛 fix: fix broken CSS in mobile view
 0976. ✨ feat: implement quiz timer feature
+0290. ✅ test: test user registration edge cases
