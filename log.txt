@@ -58424,3 +58424,4 @@
 0398. 🚀 perf: cache repeated calculations
 0612. ✅ test: test user registration edge cases
 0043. ✅ test: add integration test for /submit endpoint
+0949. 📚 docs: write FAQ section
