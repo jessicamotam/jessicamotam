@@ -54396,3 +54396,4 @@
 0611. ✅ test: test user registration edge cases
 0375. 🐛 fix: handle 500 error in quiz API
 0578. ✅ test: add integration test for /submit endpoint
+0960. ✅ test: increase coverage on auth module
