@@ -74554,3 +74554,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0828. ♻️ chore: add GitHub actions badge
 0736. 🐛 fix: fix null pointer exception on login
+0817. 🔧 refactor: remove redundant code blocks
