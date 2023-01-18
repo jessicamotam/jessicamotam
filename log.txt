@@ -15831,3 +15831,4 @@
 0842. 🎨 style: remove trailing whitespace
 0307. ✨ feat: support email verification
 0617. ✨ feat: support email verification
+0800. 🚀 perf: optimize database query for quiz results
