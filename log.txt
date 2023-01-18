@@ -8375,3 +8375,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0265. 🎨 style: reformat files with black
 0378. 🐛 fix: prevent crash on empty input
+0121. ✨ feat: support email verification
