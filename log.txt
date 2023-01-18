@@ -10362,3 +10362,4 @@
 0252. 🎨 style: remove trailing whitespace
 0262. 🎨 style: remove trailing whitespace
 0259. 🚀 perf: lazy-load components
+0935. 📚 docs: update README with setup steps
