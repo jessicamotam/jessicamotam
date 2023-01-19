@@ -90813,3 +90813,4 @@
 0739. 🎨 style: remove trailing whitespace
 0027. 📚 docs: clarify environment setup
 0321. 🔧 refactor: organize models into subfolders
+0979. 🎨 style: standardize quote style
