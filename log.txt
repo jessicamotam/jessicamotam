@@ -81630,3 +81630,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0473. 📚 docs: write FAQ section
 0245. 🐛 fix: resolve issue with date parsing
+0518. ✨ feat: support email verification
