@@ -43634,3 +43634,4 @@
 0271. ✅ test: add unit test for quiz service
 0370. 🚀 perf: reduce image load time
 0776. ✅ test: add integration test for /submit endpoint
+0005. ✅ test: add unit test for quiz service
