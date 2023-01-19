@@ -43488,3 +43488,4 @@
 0906. 📚 docs: add API usage examples
 0618. ✨ feat: support email verification
 0535. 📚 docs: write FAQ section
+0252. 🎨 style: remove trailing whitespace
