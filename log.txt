@@ -71958,3 +71958,4 @@
 0843. 📚 docs: document token refresh logic
 0214. 📚 docs: improve code comments in utils
 0987. ✨ feat: create admin dashboard
+0915. 🚀 perf: cache repeated calculations
