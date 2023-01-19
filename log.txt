@@ -58600,3 +58600,4 @@
 0582. ✨ feat: add export to CSV option
 0294. 🐛 fix: prevent crash on empty input
 0497. 🔧 refactor: refactor quiz grading logic
+0448. 🐛 fix: correct typo in registration form
