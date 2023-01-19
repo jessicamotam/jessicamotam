@@ -20350,3 +20350,4 @@
 0023. 📚 docs: clarify environment setup
 0324. 📚 docs: document token refresh logic
 0698. 🐛 fix: handle 500 error in quiz API
+0625. 🐛 fix: handle 500 error in quiz API
