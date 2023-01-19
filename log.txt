@@ -23910,3 +23910,4 @@
 0185. 📚 docs: write FAQ section
 0998. 🐛 fix: fix null pointer exception on login
 0784. ♻️ chore: clean up unused files
+0552. 🐛 fix: fix null pointer exception on login
