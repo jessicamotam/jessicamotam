@@ -75717,3 +75717,4 @@
 0971. 🎨 style: standardize quote style
 0442. 🎨 style: standardize quote style
 0576. ♻️ chore: update .gitignore
+0365. 🚀 perf: reduce image load time
