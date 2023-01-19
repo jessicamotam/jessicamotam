@@ -47765,3 +47765,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0986. 📚 docs: document token refresh logic
 0974. ✨ feat: add export to CSV option
+0768. 🎨 style: remove trailing whitespace
