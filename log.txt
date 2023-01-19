@@ -45887,3 +45887,4 @@
 0032. 🎨 style: apply consistent indentation
 0928. 🎨 style: apply consistent indentation
 0132. ✅ test: add unit test for quiz service
+0568. 🐛 fix: handle 500 error in quiz API
