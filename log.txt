@@ -46124,3 +46124,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0256. ✅ test: mock database connection in test suite
 0855. 🎨 style: reformat files with black
+0518. ✨ feat: support email verification
