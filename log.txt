@@ -82392,3 +82392,4 @@
 0994. 🚀 perf: reduce image load time
 0797. 📚 docs: add API usage examples
 0589. 🐛 fix: fix broken CSS in mobile view
+0869. ♻️ chore: bump dependencies
