@@ -3613,3 +3613,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0336. ✨ feat: add export to CSV option
 0901. ✨ feat: add user authentication
+0823. ✨ feat: add user authentication
