@@ -75663,3 +75663,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0698. 🐛 fix: handle 500 error in quiz API
 0158. 📚 docs: clarify environment setup
+0860. 🔧 refactor: organize models into subfolders
