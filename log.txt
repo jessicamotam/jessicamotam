@@ -43513,3 +43513,4 @@
 0559. 🔧 refactor: split large controller into smaller functions
 0486. ✨ feat: add export to CSV option
 0672. 🐛 fix: fix broken CSS in mobile view
+0902. ✨ feat: enable dark mode toggle
