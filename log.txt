@@ -77528,3 +77528,4 @@
 0535. 📚 docs: write FAQ section
 0044. ✅ test: add unit test for quiz service
 0456. 🚀 perf: optimize database query for quiz results
+0585. 🚀 perf: lazy-load components
