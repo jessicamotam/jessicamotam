@@ -62431,3 +62431,4 @@
 0964. ♻️ chore: clean up unused files
 0900. 🐛 fix: handle 500 error in quiz API
 0111. 📚 docs: update README with setup steps
+0518. ✨ feat: support email verification
