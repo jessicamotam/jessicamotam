@@ -63678,3 +63678,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0115. 🚀 perf: reduce image load time
 0844. 📚 docs: update README with setup steps
+0922. 📚 docs: write FAQ section
