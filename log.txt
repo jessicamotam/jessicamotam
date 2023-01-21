@@ -49297,3 +49297,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0641. 📚 docs: write FAQ section
 0427. ✅ test: mock database connection in test suite
+0979. 🎨 style: standardize quote style
