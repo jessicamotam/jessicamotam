@@ -1320,3 +1320,4 @@
 0230. ✨ feat: create admin dashboard
 0253. 📚 docs: update README with setup steps
 0820. 📚 docs: add API usage examples
+0213. ✅ test: add integration test for /submit endpoint
