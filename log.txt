@@ -41025,3 +41025,4 @@
 0070. ✨ feat: implement quiz timer feature
 0358. 🚀 perf: reduce image load time
 0964. ♻️ chore: clean up unused files
+0531. 🐛 fix: prevent crash on empty input
