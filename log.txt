@@ -2698,3 +2698,4 @@
 0696. 🔧 refactor: clean up auth middleware
 0258. 🐛 fix: prevent crash on empty input
 0578. ✅ test: add integration test for /submit endpoint
+0866. 📚 docs: add API usage examples
