@@ -65002,3 +65002,4 @@
 0962. ✨ feat: create admin dashboard
 0178. ✨ feat: support email verification
 0783. 🐛 fix: handle 500 error in quiz API
+0017. ✅ test: mock database connection in test suite
