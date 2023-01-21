@@ -81074,3 +81074,4 @@
 0330. ✅ test: test user registration edge cases
 0377. ✨ feat: add user authentication
 0045. 🎨 style: apply consistent indentation
+0484. 🐛 fix: handle 500 error in quiz API
