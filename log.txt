@@ -44974,3 +44974,4 @@
 0566. 📚 docs: write FAQ section
 0432. 🎨 style: apply consistent indentation
 0948. 🐛 fix: fix broken CSS in mobile view
+0799. ♻️ chore: clean up unused files
