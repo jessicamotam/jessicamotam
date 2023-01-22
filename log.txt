@@ -77588,3 +77588,4 @@
 0060. ♻️ chore: clean up unused files
 0258. 🐛 fix: prevent crash on empty input
 0420. 🚀 perf: reduce image load time
+0561. 📚 docs: write FAQ section
