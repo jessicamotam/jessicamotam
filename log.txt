@@ -76437,3 +76437,4 @@
 0269. ✅ test: test user registration edge cases
 0810. 🔧 refactor: refactor quiz grading logic
 0673. 🐛 fix: correct typo in registration form
+0469. 🚀 perf: lazy-load components
