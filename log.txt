@@ -24418,3 +24418,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0671. 🐛 fix: fix null pointer exception on login
 0513. ♻️ chore: bump dependencies
+0689. 🎨 style: reformat files with black
