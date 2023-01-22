@@ -18215,3 +18215,4 @@
 0416. 🎨 style: rename variables for clarity
 0225. 🚀 perf: reduce image load time
 0509. ♻️ chore: bump dependencies
+0111. 📚 docs: update README with setup steps
