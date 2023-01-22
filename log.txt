@@ -88573,3 +88573,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0447. ♻️ chore: bump dependencies
 0798. 🚀 perf: reduce image load time
+0756. ✨ feat: support email verification
