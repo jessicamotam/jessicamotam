@@ -11253,3 +11253,4 @@
 0605. ✨ feat: support email verification
 0445. 📚 docs: improve code comments in utils
 0111. 📚 docs: update README with setup steps
+0781. 🚀 perf: reduce image load time
