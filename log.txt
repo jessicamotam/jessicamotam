@@ -64687,3 +64687,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0480. ♻️ chore: add GitHub actions badge
 0990. ♻️ chore: rename env.example
+0453. 🎨 style: standardize quote style
