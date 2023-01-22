@@ -6243,3 +6243,4 @@
 0313. 🎨 style: apply consistent indentation
 0716. ✨ feat: implement quiz timer feature
 0835. 🐛 fix: prevent crash on empty input
+0097. 🐛 fix: handle 500 error in quiz API
