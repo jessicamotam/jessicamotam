@@ -77281,3 +77281,4 @@
 0559. 🔧 refactor: split large controller into smaller functions
 0781. 🚀 perf: reduce image load time
 0767. 🔧 refactor: remove redundant code blocks
+0049. 🐛 fix: handle 500 error in quiz API
