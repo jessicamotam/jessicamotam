@@ -65459,3 +65459,4 @@
 0583. ✅ test: increase coverage on auth module
 0996. ✅ test: test user registration edge cases
 0798. 🚀 perf: reduce image load time
+0866. 📚 docs: add API usage examples
