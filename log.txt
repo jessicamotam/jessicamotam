@@ -47395,3 +47395,4 @@
 0144. ✅ test: increase coverage on auth module
 0961. 📚 docs: add API usage examples
 0673. 🐛 fix: correct typo in registration form
+0657. 🎨 style: standardize quote style
