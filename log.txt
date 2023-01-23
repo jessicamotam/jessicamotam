@@ -11515,3 +11515,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0946. ✅ test: add unit test for quiz service
 0344. ♻️ chore: add GitHub actions badge
+0692. ✅ test: add integration test for /submit endpoint
