@@ -19766,3 +19766,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0114. ♻️ chore: update .gitignore
 0649. 📚 docs: update README with setup steps
+0036. 🔧 refactor: clean up auth middleware
