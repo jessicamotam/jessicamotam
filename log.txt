@@ -72747,3 +72747,4 @@
 0548. 📚 docs: write FAQ section
 0840. 🔧 refactor: refactor quiz grading logic
 0711. 🐛 fix: fix broken CSS in mobile view
+0929. ✨ feat: support email verification
