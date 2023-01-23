@@ -27633,3 +27633,4 @@
 0683. ✅ test: mock database connection in test suite
 0934. ✨ feat: support email verification
 0397. 🐛 fix: handle 500 error in quiz API
+0110. 🐛 fix: prevent crash on empty input
