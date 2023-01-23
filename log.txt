@@ -24787,3 +24787,4 @@
 0108. 🎨 style: remove trailing whitespace
 0217. 🚀 perf: reduce image load time
 0809. ♻️ chore: rename env.example
+0471. ✨ feat: support email verification
