@@ -1954,3 +1954,4 @@
 0685. ✅ test: test user registration edge cases
 0153. ♻️ chore: rename env.example
 0505. ♻️ chore: add GitHub actions badge
+0866. 📚 docs: add API usage examples
