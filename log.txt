@@ -38634,3 +38634,4 @@
 0961. 📚 docs: add API usage examples
 0211. 🔧 refactor: remove redundant code blocks
 0572. ✨ feat: add user authentication
+0021. ✨ feat: support email verification
