@@ -9383,3 +9383,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0484. 🐛 fix: handle 500 error in quiz API
 0646. ✅ test: test user registration edge cases
+0930. 🎨 style: apply consistent indentation
