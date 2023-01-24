@@ -86226,3 +86226,4 @@
 0100. ♻️ chore: update .gitignore
 0715. ✨ feat: create admin dashboard
 0706. ✨ feat: support email verification
+0388. 🎨 style: reformat files with black
