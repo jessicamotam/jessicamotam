@@ -60394,3 +60394,4 @@
 0777. 📚 docs: document token refresh logic
 0809. ♻️ chore: rename env.example
 0730. ✅ test: test user registration edge cases
+0677. 📚 docs: add API usage examples
