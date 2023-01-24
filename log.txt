@@ -38508,3 +38508,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0710. 🐛 fix: fix broken CSS in mobile view
 0962. ✨ feat: create admin dashboard
+0374. 🎨 style: standardize quote style
