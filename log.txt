@@ -32829,3 +32829,4 @@
 0468. 📚 docs: update README with setup steps
 0352. ✨ feat: add export to CSV option
 0839. 🎨 style: apply consistent indentation
+0225. 🚀 perf: reduce image load time
