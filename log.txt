@@ -79334,3 +79334,4 @@
 0792. 🎨 style: standardize quote style
 0644. 🎨 style: apply consistent indentation
 0743. 🎨 style: apply consistent indentation
+0463. 🚀 perf: reduce image load time
