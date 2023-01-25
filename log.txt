@@ -34512,3 +34512,4 @@
 0257. 📚 docs: clarify environment setup
 0369. 🎨 style: standardize quote style
 0379. ✨ feat: support email verification
+0838. 🎨 style: standardize quote style
