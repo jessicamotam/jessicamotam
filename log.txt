@@ -59272,3 +59272,4 @@
 0290. ✅ test: test user registration edge cases
 0729. 🔧 refactor: refactor quiz grading logic
 0842. 🎨 style: remove trailing whitespace
+0821. ✅ test: add integration test for /submit endpoint
