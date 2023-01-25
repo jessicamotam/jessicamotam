@@ -40957,3 +40957,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0500. ✅ test: add integration test for /submit endpoint
 0162. ♻️ chore: add GitHub actions badge
+0033. 🎨 style: apply consistent indentation
