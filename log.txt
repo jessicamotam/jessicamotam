@@ -31814,3 +31814,4 @@
 0365. 🚀 perf: reduce image load time
 0084. 🐛 fix: handle 500 error in quiz API
 0745. ✅ test: add unit test for quiz service
+0527. 🎨 style: remove trailing whitespace
