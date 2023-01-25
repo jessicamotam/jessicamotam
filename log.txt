@@ -41605,3 +41605,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0563. 📚 docs: clarify environment setup
 0384. 📚 docs: clarify environment setup
+0110. 🐛 fix: prevent crash on empty input
