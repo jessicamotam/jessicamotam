@@ -74413,3 +74413,4 @@
 0626. 🎨 style: standardize quote style
 0180. ✨ feat: add export to CSV option
 0017. ✅ test: mock database connection in test suite
+0041. 🐛 fix: fix broken CSS in mobile view
