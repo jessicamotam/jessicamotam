@@ -66294,3 +66294,4 @@
 0579. 📚 docs: clarify environment setup
 0474. ✅ test: add unit test for quiz service
 0834. ✅ test: increase coverage on auth module
+0922. 📚 docs: write FAQ section
