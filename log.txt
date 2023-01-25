@@ -20072,3 +20072,4 @@
 0177. 📚 docs: add API usage examples
 0013. ✅ test: increase coverage on auth module
 0929. ✨ feat: support email verification
+0295. 🎨 style: remove trailing whitespace
