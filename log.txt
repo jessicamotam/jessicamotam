@@ -63282,3 +63282,4 @@
 0199. ✨ feat: create admin dashboard
 0545. 🎨 style: standardize quote style
 0254. 🚀 perf: reduce image load time
+0178. ✨ feat: support email verification
