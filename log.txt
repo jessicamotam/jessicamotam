@@ -36293,3 +36293,4 @@
 0291. 📚 docs: write FAQ section
 0379. ✨ feat: support email verification
 0027. 📚 docs: clarify environment setup
+0612. ✅ test: test user registration edge cases
