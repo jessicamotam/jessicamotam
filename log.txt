@@ -9975,3 +9975,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0970. ♻️ chore: update .gitignore
 0328. 🐛 fix: resolve issue with date parsing
+0682. ♻️ chore: rename env.example
