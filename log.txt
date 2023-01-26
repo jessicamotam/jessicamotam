@@ -29233,3 +29233,4 @@
 0519. 📚 docs: document token refresh logic
 0385. ♻️ chore: clean up unused files
 0009. ✨ feat: enable dark mode toggle
+0090. ✅ test: increase coverage on auth module
