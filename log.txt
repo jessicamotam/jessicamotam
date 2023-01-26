@@ -19771,3 +19771,4 @@
 0250. 📚 docs: update README with setup steps
 0768. 🎨 style: remove trailing whitespace
 0027. 📚 docs: clarify environment setup
+0021. ✨ feat: support email verification
