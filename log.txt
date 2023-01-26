@@ -25418,3 +25418,4 @@
 0714. 📚 docs: improve code comments in utils
 0343. 🚀 perf: optimize database query for quiz results
 0937. 🐛 fix: handle 500 error in quiz API
+0275. 🎨 style: standardize quote style
