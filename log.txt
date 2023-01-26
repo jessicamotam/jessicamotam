@@ -42970,3 +42970,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0219. ✅ test: increase coverage on auth module
 0463. 🚀 perf: reduce image load time
+0794. ♻️ chore: clean up unused files
