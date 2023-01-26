@@ -42912,3 +42912,4 @@
 0726. ✨ feat: enable dark mode toggle
 0787. ♻️ chore: rename env.example
 0605. ✨ feat: support email verification
+0345. 📚 docs: document token refresh logic
