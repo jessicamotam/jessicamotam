@@ -48973,3 +48973,4 @@
 0809. ♻️ chore: rename env.example
 0592. 📚 docs: add API usage examples
 0971. 🎨 style: standardize quote style
+0898. 🐛 fix: fix broken CSS in mobile view
