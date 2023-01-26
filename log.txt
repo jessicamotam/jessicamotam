@@ -87525,3 +87525,4 @@
 0947. 📚 docs: write FAQ section
 0302. ✨ feat: implement quiz timer feature
 0384. 📚 docs: clarify environment setup
+0803. ✅ test: mock database connection in test suite
