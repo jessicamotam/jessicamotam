@@ -57435,3 +57435,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0762. 🚀 perf: lazy-load components
 0150. 🎨 style: remove trailing whitespace
+0453. 🎨 style: standardize quote style
