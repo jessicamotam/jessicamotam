@@ -19513,3 +19513,4 @@
 0677. 📚 docs: add API usage examples
 0238. 🎨 style: apply consistent indentation
 0622. 🎨 style: apply consistent indentation
+0140. 🐛 fix: handle 500 error in quiz API
