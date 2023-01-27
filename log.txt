@@ -87302,3 +87302,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0259. 🚀 perf: lazy-load components
 0043. ✅ test: add integration test for /submit endpoint
+0929. ✨ feat: support email verification
