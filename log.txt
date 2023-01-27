@@ -55100,3 +55100,4 @@
 0019. ✨ feat: enable dark mode toggle
 0678. ✨ feat: add user authentication
 0580. ♻️ chore: bump dependencies
+0451. ✨ feat: support email verification
