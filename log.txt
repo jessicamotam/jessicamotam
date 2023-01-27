@@ -37801,3 +37801,4 @@
 0815. 🔧 refactor: split large controller into smaller functions
 0133. 🐛 fix: fix null pointer exception on login
 0527. 🎨 style: remove trailing whitespace
+0484. 🐛 fix: handle 500 error in quiz API
