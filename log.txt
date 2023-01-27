@@ -71193,3 +71193,4 @@
 0905. ♻️ chore: bump dependencies
 0187. ✨ feat: support email verification
 0065. ✅ test: add integration test for /submit endpoint
+0540. ♻️ chore: add GitHub actions badge
