@@ -48464,3 +48464,4 @@
 0809. ♻️ chore: rename env.example
 0275. 🎨 style: standardize quote style
 0154. 🐛 fix: prevent crash on empty input
+0259. 🚀 perf: lazy-load components
