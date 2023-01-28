@@ -75871,3 +75871,4 @@
 0914. ✅ test: test user registration edge cases
 0967. ♻️ chore: add GitHub actions badge
 0539. 🔧 refactor: organize models into subfolders
+0778. 📚 docs: write FAQ section
