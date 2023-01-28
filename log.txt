@@ -9614,3 +9614,4 @@
 0237. 🎨 style: standardize quote style
 0386. 🚀 perf: optimize database query for quiz results
 0119. 📚 docs: improve code comments in utils
+0531. 🐛 fix: prevent crash on empty input
