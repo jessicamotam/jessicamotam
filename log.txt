@@ -59585,3 +59585,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0054. ♻️ chore: update .gitignore
 0080. ✨ feat: support email verification
+0996. ✅ test: test user registration edge cases
