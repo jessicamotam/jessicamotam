@@ -79858,3 +79858,4 @@
 0444. ✅ test: add unit test for quiz service
 0833. ✨ feat: add user authentication
 0904. ✨ feat: implement quiz timer feature
+0901. ✨ feat: add user authentication
