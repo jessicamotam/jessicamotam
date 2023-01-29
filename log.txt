@@ -8220,3 +8220,4 @@
 0385. ♻️ chore: clean up unused files
 0318. 🔧 refactor: refactor quiz grading logic
 0176. 🔧 refactor: remove redundant code blocks
+0888. 🚀 perf: lazy-load components
