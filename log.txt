@@ -64696,3 +64696,4 @@
 0681. ✨ feat: create admin dashboard
 0003. ✅ test: increase coverage on auth module
 0283. ♻️ chore: add GitHub actions badge
+0623. 🎨 style: standardize quote style
