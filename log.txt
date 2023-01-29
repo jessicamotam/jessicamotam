@@ -27809,3 +27809,4 @@
 0992. ♻️ chore: clean up unused files
 0783. 🐛 fix: handle 500 error in quiz API
 0926. 🔧 refactor: organize models into subfolders
+0978. 🐛 fix: prevent crash on empty input
