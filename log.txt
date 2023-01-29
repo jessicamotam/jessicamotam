@@ -2924,3 +2924,4 @@
 0618. ✨ feat: support email verification
 0027. 📚 docs: clarify environment setup
 0619. ✨ feat: create admin dashboard
+0641. 📚 docs: write FAQ section
