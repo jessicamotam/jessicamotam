@@ -73290,3 +73290,4 @@
 0961. 📚 docs: add API usage examples
 0490. ✨ feat: create admin dashboard
 0131. 📚 docs: write FAQ section
+0205. 📚 docs: update README with setup steps
