@@ -80091,3 +80091,4 @@
 0090. ✅ test: increase coverage on auth module
 0301. 🎨 style: apply consistent indentation
 0914. ✅ test: test user registration edge cases
+0290. ✅ test: test user registration edge cases
