@@ -89656,3 +89656,4 @@
 0614. 🚀 perf: reduce image load time
 0059. ♻️ chore: bump dependencies
 0326. 🚀 perf: cache repeated calculations
+0737. 🐛 fix: handle 500 error in quiz API
