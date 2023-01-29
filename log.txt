@@ -50702,3 +50702,4 @@
 0416. 🎨 style: rename variables for clarity
 0592. 📚 docs: add API usage examples
 0451. ✨ feat: support email verification
+0175. 📚 docs: add API usage examples
