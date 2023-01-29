@@ -69956,3 +69956,4 @@
 0039. ✅ test: add integration test for /submit endpoint
 0084. 🐛 fix: handle 500 error in quiz API
 0496. ✅ test: add integration test for /submit endpoint
+0056. ♻️ chore: rename env.example
