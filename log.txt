@@ -9994,3 +9994,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0184. 📚 docs: improve code comments in utils
 0045. 🎨 style: apply consistent indentation
+0574. ✨ feat: enable dark mode toggle
