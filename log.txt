@@ -11741,3 +11741,4 @@
 0227. ✅ test: test user registration edge cases
 0794. ♻️ chore: clean up unused files
 0948. 🐛 fix: fix broken CSS in mobile view
+0267. 📚 docs: improve code comments in utils
