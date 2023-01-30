@@ -75692,3 +75692,4 @@
 0103. 🔧 refactor: remove redundant code blocks
 0135. ✅ test: test user registration edge cases
 0751. 🐛 fix: handle 500 error in quiz API
+0875. ✅ test: increase coverage on auth module
