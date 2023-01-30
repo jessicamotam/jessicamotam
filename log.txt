@@ -10533,3 +10533,4 @@
 0995. ✅ test: mock database connection in test suite
 0643. 🎨 style: apply consistent indentation
 0269. ✅ test: test user registration edge cases
+0813. 🔧 refactor: organize models into subfolders
