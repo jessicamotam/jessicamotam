@@ -78931,3 +78931,4 @@
 0440. 📚 docs: update README with setup steps
 0937. 🐛 fix: handle 500 error in quiz API
 0675. 🔧 refactor: organize models into subfolders
+0116. ✨ feat: support email verification
