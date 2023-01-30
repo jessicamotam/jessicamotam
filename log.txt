@@ -62250,3 +62250,4 @@
 0352. ✨ feat: add export to CSV option
 0047. 🎨 style: rename variables for clarity
 0269. ✅ test: test user registration edge cases
+0625. 🐛 fix: handle 500 error in quiz API
