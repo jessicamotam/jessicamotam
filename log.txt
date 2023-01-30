@@ -9328,3 +9328,4 @@
 0341. 🚀 perf: lazy-load components
 0860. 🔧 refactor: organize models into subfolders
 0430. 🐛 fix: fix null pointer exception on login
+0383. 🐛 fix: fix broken CSS in mobile view
