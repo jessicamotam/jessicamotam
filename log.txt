@@ -7327,3 +7327,4 @@
 0848. 📚 docs: update README with setup steps
 0702. ✨ feat: add user authentication
 0604. 📚 docs: add API usage examples
+0287. 📚 docs: write FAQ section
