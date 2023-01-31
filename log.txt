@@ -83651,3 +83651,4 @@
 0844. 📚 docs: update README with setup steps
 0072. 🚀 perf: optimize database query for quiz results
 0288. 🔧 refactor: refactor quiz grading logic
+0535. 📚 docs: write FAQ section
