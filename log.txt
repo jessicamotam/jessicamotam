@@ -12460,3 +12460,4 @@
 0580. ♻️ chore: bump dependencies
 0672. 🐛 fix: fix broken CSS in mobile view
 0580. ♻️ chore: bump dependencies
+0089. 🔧 refactor: remove redundant code blocks
