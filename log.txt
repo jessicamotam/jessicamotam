@@ -83774,3 +83774,4 @@
 0078. ♻️ chore: update .gitignore
 0238. 🎨 style: apply consistent indentation
 0252. 🎨 style: remove trailing whitespace
+0329. 📚 docs: update README with setup steps
