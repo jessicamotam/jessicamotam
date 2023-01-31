@@ -56121,3 +56121,4 @@
 0576. ♻️ chore: update .gitignore
 0134. ✨ feat: implement quiz timer feature
 0176. 🔧 refactor: remove redundant code blocks
+0791. 🔧 refactor: clean up auth middleware
