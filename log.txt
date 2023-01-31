@@ -27858,3 +27858,4 @@
 0374. 🎨 style: standardize quote style
 0308. 🚀 perf: reduce image load time
 0383. 🐛 fix: fix broken CSS in mobile view
+0307. ✨ feat: support email verification
