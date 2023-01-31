@@ -7299,3 +7299,4 @@
 0214. 📚 docs: improve code comments in utils
 0298. ♻️ chore: update .gitignore
 0592. 📚 docs: add API usage examples
+0986. 📚 docs: document token refresh logic
