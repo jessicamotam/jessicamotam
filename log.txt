@@ -6830,3 +6830,4 @@
 0816. 🔧 refactor: organize models into subfolders
 0579. 📚 docs: clarify environment setup
 0477. 🐛 fix: fix broken CSS in mobile view
+0460. 📚 docs: write FAQ section
