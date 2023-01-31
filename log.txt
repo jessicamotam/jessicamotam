@@ -46919,3 +46919,4 @@
 0143. ✨ feat: implement quiz timer feature
 0262. 🎨 style: remove trailing whitespace
 0958. 🐛 fix: prevent crash on empty input
+0615. 🐛 fix: correct typo in registration form
