@@ -45829,3 +45829,4 @@
 0519. 📚 docs: document token refresh logic
 0097. 🐛 fix: handle 500 error in quiz API
 0456. 🚀 perf: optimize database query for quiz results
+0475. 🔧 refactor: clean up auth middleware
