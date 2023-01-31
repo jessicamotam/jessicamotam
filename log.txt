@@ -75875,3 +75875,4 @@
 0646. ✅ test: test user registration edge cases
 0760. 🐛 fix: resolve issue with date parsing
 0753. 🔧 refactor: remove redundant code blocks
+0316. 🐛 fix: fix broken CSS in mobile view
