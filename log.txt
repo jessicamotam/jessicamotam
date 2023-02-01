@@ -22022,3 +22022,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0518. ✨ feat: support email verification
 0739. 🎨 style: remove trailing whitespace
+0100. ♻️ chore: update .gitignore
