@@ -36065,3 +36065,4 @@
 0100. ♻️ chore: update .gitignore
 0641. 📚 docs: write FAQ section
 0760. 🐛 fix: resolve issue with date parsing
+0226. 🚀 perf: lazy-load components
