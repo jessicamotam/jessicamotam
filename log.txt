@@ -87874,3 +87874,4 @@
 0725. 🚀 perf: lazy-load components
 0428. 🐛 fix: fix null pointer exception on login
 0365. 🚀 perf: reduce image load time
+0273. 🚀 perf: reduce image load time
