@@ -49223,3 +49223,4 @@
 0054. ♻️ chore: update .gitignore
 0804. ♻️ chore: add GitHub actions badge
 0618. ✨ feat: support email verification
+0663. 🚀 perf: reduce image load time
