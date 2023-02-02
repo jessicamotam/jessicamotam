@@ -85378,3 +85378,4 @@
 0792. 🎨 style: standardize quote style
 0140. 🐛 fix: handle 500 error in quiz API
 0031. 📚 docs: document token refresh logic
+0585. 🚀 perf: lazy-load components
