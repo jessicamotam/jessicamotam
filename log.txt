@@ -17338,3 +17338,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0223. 🔧 refactor: remove redundant code blocks
 0942. ✅ test: increase coverage on auth module
+0114. ♻️ chore: update .gitignore
