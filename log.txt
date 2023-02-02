@@ -63119,3 +63119,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0542. 🔧 refactor: organize models into subfolders
 0973. 🔧 refactor: organize models into subfolders
+0720. ✨ feat: add export to CSV option
