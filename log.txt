@@ -30723,3 +30723,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0649. 📚 docs: update README with setup steps
 0487. 🎨 style: reformat files with black
+0362. 📚 docs: add API usage examples
