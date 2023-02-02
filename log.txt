@@ -41346,3 +41346,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0934. ✨ feat: support email verification
 0589. 🐛 fix: fix broken CSS in mobile view
+0097. 🐛 fix: handle 500 error in quiz API
