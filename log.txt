@@ -74019,3 +74019,4 @@
 0716. ✨ feat: implement quiz timer feature
 0212. 🎨 style: standardize quote style
 0504. 📚 docs: document token refresh logic
+0557. 🔧 refactor: clean up auth middleware
