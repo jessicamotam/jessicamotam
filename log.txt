@@ -87895,3 +87895,4 @@
 0290. ✅ test: test user registration edge cases
 0235. 🐛 fix: fix null pointer exception on login
 0870. ♻️ chore: clean up unused files
+0132. ✅ test: add unit test for quiz service
