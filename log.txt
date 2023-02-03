@@ -2750,3 +2750,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0723. 🔧 refactor: remove redundant code blocks
 0845. 🚀 perf: cache repeated calculations
+0329. 📚 docs: update README with setup steps
