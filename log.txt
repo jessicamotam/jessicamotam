@@ -57352,3 +57352,4 @@
 0523. ♻️ chore: bump dependencies
 0580. ♻️ chore: bump dependencies
 0865. ♻️ chore: add GitHub actions badge
+0237. 🎨 style: standardize quote style
