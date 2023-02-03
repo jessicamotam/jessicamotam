@@ -81086,3 +81086,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0110. 🐛 fix: prevent crash on empty input
 0497. 🔧 refactor: refactor quiz grading logic
+0804. ♻️ chore: add GitHub actions badge
