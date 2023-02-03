@@ -61494,3 +61494,4 @@
 0018. 🔧 refactor: organize models into subfolders
 0054. ♻️ chore: update .gitignore
 0387. ✨ feat: enable dark mode toggle
+0841. 🚀 perf: optimize database query for quiz results
