@@ -7297,3 +7297,4 @@
 0487. 🎨 style: reformat files with black
 0448. 🐛 fix: correct typo in registration form
 0214. 📚 docs: improve code comments in utils
+0298. ♻️ chore: update .gitignore
