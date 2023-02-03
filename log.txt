@@ -78208,3 +78208,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0077. ♻️ chore: rename env.example
 0356. 📚 docs: write FAQ section
+0092. 🚀 perf: reduce image load time
