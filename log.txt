@@ -70188,3 +70188,4 @@
 0548. 📚 docs: write FAQ section
 0580. ♻️ chore: bump dependencies
 0559. 🔧 refactor: split large controller into smaller functions
+0746. ♻️ chore: add GitHub actions badge
