@@ -60256,3 +60256,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0993. ✨ feat: implement quiz timer feature
 0549. ✨ feat: enable dark mode toggle
+0589. 🐛 fix: fix broken CSS in mobile view
