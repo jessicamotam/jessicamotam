@@ -38909,3 +38909,4 @@
 0086. 🐛 fix: correct typo in registration form
 0096. 🐛 fix: prevent crash on empty input
 0129. 🔧 refactor: organize models into subfolders
+0486. ✨ feat: add export to CSV option
