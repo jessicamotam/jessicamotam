@@ -63263,3 +63263,4 @@
 0950. 🎨 style: reformat files with black
 0258. 🐛 fix: prevent crash on empty input
 0634. 🎨 style: reformat files with black
+0715. ✨ feat: create admin dashboard
