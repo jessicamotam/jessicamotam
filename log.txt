@@ -17934,3 +17934,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0425. 🔧 refactor: refactor quiz grading logic
 0979. 🎨 style: standardize quote style
+0997. ✅ test: increase coverage on auth module
