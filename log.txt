@@ -13920,3 +13920,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0659. 📚 docs: add API usage examples
 0065. ✅ test: add integration test for /submit endpoint
+0875. ✅ test: increase coverage on auth module
