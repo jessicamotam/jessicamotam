@@ -6386,3 +6386,4 @@
 0501. ✨ feat: add export to CSV option
 0079. 🐛 fix: correct typo in registration form
 0226. 🚀 perf: lazy-load components
+0259. 🚀 perf: lazy-load components
