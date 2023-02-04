@@ -59080,3 +59080,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0247. 🎨 style: apply consistent indentation
 0805. ♻️ chore: add GitHub actions badge
+0331. 🐛 fix: fix broken CSS in mobile view
