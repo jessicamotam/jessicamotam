@@ -7773,3 +7773,4 @@
 0964. ♻️ chore: clean up unused files
 0876. ♻️ chore: rename env.example
 0219. ✅ test: increase coverage on auth module
+0180. ✨ feat: add export to CSV option
