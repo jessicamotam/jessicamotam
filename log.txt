@@ -42754,3 +42754,4 @@
 0287. 📚 docs: write FAQ section
 0485. 📚 docs: update README with setup steps
 0731. 🎨 style: standardize quote style
+0748. 🚀 perf: optimize database query for quiz results
