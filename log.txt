@@ -25964,3 +25964,4 @@
 0004. 🚀 perf: optimize database query for quiz results
 0004. 🚀 perf: optimize database query for quiz results
 0502. 📚 docs: update README with setup steps
+0989. 📚 docs: write FAQ section
