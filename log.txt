@@ -46789,3 +46789,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0659. 📚 docs: add API usage examples
 0338. ♻️ chore: add GitHub actions badge
+0672. 🐛 fix: fix broken CSS in mobile view
