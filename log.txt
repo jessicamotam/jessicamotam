@@ -37053,3 +37053,4 @@
 0434. 📚 docs: document token refresh logic
 0941. 🚀 perf: cache repeated calculations
 0652. 🔧 refactor: organize models into subfolders
+0383. 🐛 fix: fix broken CSS in mobile view
