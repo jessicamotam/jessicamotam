@@ -19866,3 +19866,4 @@
 0673. 🐛 fix: correct typo in registration form
 0240. 🔧 refactor: remove redundant code blocks
 0691. 🎨 style: rename variables for clarity
+0986. 📚 docs: document token refresh logic
