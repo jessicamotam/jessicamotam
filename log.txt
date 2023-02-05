@@ -19433,3 +19433,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0054. ♻️ chore: update .gitignore
 0275. 🎨 style: standardize quote style
+0977. 🔧 refactor: organize models into subfolders
