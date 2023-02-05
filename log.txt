@@ -27733,3 +27733,4 @@
 0128. ♻️ chore: rename env.example
 0029. 🚀 perf: lazy-load components
 0682. ♻️ chore: rename env.example
+0768. 🎨 style: remove trailing whitespace
