@@ -23929,3 +23929,4 @@
 0850. ♻️ chore: rename env.example
 0152. ✨ feat: add user authentication
 0541. 🐛 fix: correct typo in registration form
+0604. 📚 docs: add API usage examples
