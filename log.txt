@@ -5937,3 +5937,4 @@
 0949. 📚 docs: write FAQ section
 0730. ✅ test: test user registration edge cases
 0275. 🎨 style: standardize quote style
+0437. 📚 docs: clarify environment setup
