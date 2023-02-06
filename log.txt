@@ -89719,3 +89719,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0057. 🚀 perf: optimize database query for quiz results
 0729. 🔧 refactor: refactor quiz grading logic
+0687. 🎨 style: remove trailing whitespace
