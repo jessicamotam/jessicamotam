@@ -68294,3 +68294,4 @@
 0202. 🔧 refactor: refactor quiz grading logic
 0252. 🎨 style: remove trailing whitespace
 0513. ♻️ chore: bump dependencies
+0178. ✨ feat: support email verification
