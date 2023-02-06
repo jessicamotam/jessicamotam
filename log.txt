@@ -57294,3 +57294,4 @@
 0949. 📚 docs: write FAQ section
 0353. ♻️ chore: rename env.example
 0727. ♻️ chore: add GitHub actions badge
+0726. ✨ feat: enable dark mode toggle
