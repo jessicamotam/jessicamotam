@@ -74091,3 +74091,4 @@
 0527. 🎨 style: remove trailing whitespace
 0708. ✅ test: add integration test for /submit endpoint
 0026. 🔧 refactor: clean up auth middleware
+0813. 🔧 refactor: organize models into subfolders
