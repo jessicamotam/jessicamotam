@@ -38985,3 +38985,4 @@
 0726. ✨ feat: enable dark mode toggle
 0063. 🐛 fix: handle 500 error in quiz API
 0541. 🐛 fix: correct typo in registration form
+0254. 🚀 perf: reduce image load time
