@@ -62343,3 +62343,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0173. 🚀 perf: cache repeated calculations
 0646. ✅ test: test user registration edge cases
+0144. ✅ test: increase coverage on auth module
