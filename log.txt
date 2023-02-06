@@ -7859,3 +7859,4 @@
 0526. ✨ feat: add user authentication
 0360. ✨ feat: add export to CSV option
 0904. ✨ feat: implement quiz timer feature
+0836. 🚀 perf: optimize database query for quiz results
