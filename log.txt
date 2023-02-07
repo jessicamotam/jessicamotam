@@ -80338,3 +80338,4 @@
 0172. 📚 docs: add API usage examples
 0820. 📚 docs: add API usage examples
 0929. ✨ feat: support email verification
+0940. 📚 docs: document token refresh logic
