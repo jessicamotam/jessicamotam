@@ -71259,3 +71259,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0243. 🔧 refactor: clean up auth middleware
 0335. ♻️ chore: update .gitignore
+0698. 🐛 fix: handle 500 error in quiz API
