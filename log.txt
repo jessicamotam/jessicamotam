@@ -5023,3 +5023,4 @@
 0939. 📚 docs: update README with setup steps
 0517. ✅ test: mock database connection in test suite
 0516. ✅ test: add unit test for quiz service
+0008. 🚀 perf: reduce image load time
