@@ -77603,3 +77603,4 @@
 0032. 🎨 style: apply consistent indentation
 0434. 📚 docs: document token refresh logic
 0194. 🎨 style: standardize quote style
+0929. ✨ feat: support email verification
