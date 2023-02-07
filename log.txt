@@ -53665,3 +53665,4 @@
 0639. 🐛 fix: correct typo in registration form
 0767. 🔧 refactor: remove redundant code blocks
 0405. ✅ test: mock database connection in test suite
+0876. ♻️ chore: rename env.example
