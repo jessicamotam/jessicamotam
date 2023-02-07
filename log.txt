@@ -68687,3 +68687,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0980. 🎨 style: reformat files with black
 0819. 🚀 perf: reduce image load time
+0780. 📚 docs: add API usage examples
