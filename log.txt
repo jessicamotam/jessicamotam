@@ -9674,3 +9674,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0153. ♻️ chore: rename env.example
 0945. ♻️ chore: add GitHub actions badge
+0629. 🔧 refactor: organize models into subfolders
