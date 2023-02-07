@@ -26590,3 +26590,4 @@
 0584. 🚀 perf: lazy-load components
 0706. ✨ feat: support email verification
 0170. ✅ test: increase coverage on auth module
+0394. 🚀 perf: lazy-load components
