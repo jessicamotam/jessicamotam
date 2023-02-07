@@ -65364,3 +65364,4 @@
 0170. ✅ test: increase coverage on auth module
 0519. 📚 docs: document token refresh logic
 0542. 🔧 refactor: organize models into subfolders
+0367. 🐛 fix: fix null pointer exception on login
