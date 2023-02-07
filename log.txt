@@ -7513,3 +7513,4 @@
 0923. ✨ feat: support email verification
 0068. 🐛 fix: fix null pointer exception on login
 0583. ✅ test: increase coverage on auth module
+0054. ♻️ chore: update .gitignore
