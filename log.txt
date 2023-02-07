@@ -50264,3 +50264,4 @@
 0013. ✅ test: increase coverage on auth module
 0420. 🚀 perf: reduce image load time
 0316. 🐛 fix: fix broken CSS in mobile view
+0062. ♻️ chore: update .gitignore
