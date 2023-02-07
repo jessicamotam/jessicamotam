@@ -54469,3 +54469,4 @@
 0665. ♻️ chore: update .gitignore
 0501. ✨ feat: add export to CSV option
 0780. 📚 docs: add API usage examples
+0173. 🚀 perf: cache repeated calculations
