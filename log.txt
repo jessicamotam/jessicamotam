@@ -85476,3 +85476,4 @@
 0507. 🔧 refactor: clean up auth middleware
 0843. 📚 docs: document token refresh logic
 0826. 📚 docs: clarify environment setup
+0808. 🚀 perf: optimize database query for quiz results
