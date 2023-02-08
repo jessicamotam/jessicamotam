@@ -5532,3 +5532,4 @@
 0741. 🎨 style: apply consistent indentation
 0712. 🎨 style: apply consistent indentation
 0511. 🐛 fix: fix broken CSS in mobile view
+0588. 🔧 refactor: organize models into subfolders
