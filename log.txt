@@ -9554,3 +9554,4 @@
 0136. 🚀 perf: lazy-load components
 0209. ✨ feat: implement quiz timer feature
 0089. 🔧 refactor: remove redundant code blocks
+0738. 🐛 fix: prevent crash on empty input
