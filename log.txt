@@ -86363,3 +86363,4 @@
 0884. 📚 docs: clarify environment setup
 0090. ✅ test: increase coverage on auth module
 0518. ✨ feat: support email verification
+0742. 📚 docs: clarify environment setup
