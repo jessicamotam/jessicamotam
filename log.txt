@@ -81622,3 +81622,4 @@
 0293. ✅ test: add integration test for /submit endpoint
 0853. 🔧 refactor: refactor quiz grading logic
 0967. ♻️ chore: add GitHub actions badge
+0590. 🐛 fix: fix null pointer exception on login
