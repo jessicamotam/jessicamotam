@@ -56444,3 +56444,4 @@
 0615. 🐛 fix: correct typo in registration form
 0790. 📚 docs: write FAQ section
 0092. 🚀 perf: reduce image load time
+0754. 🐛 fix: handle 500 error in quiz API
