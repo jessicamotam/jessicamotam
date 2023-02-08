@@ -72314,3 +72314,4 @@
 0970. ♻️ chore: update .gitignore
 0623. 🎨 style: standardize quote style
 0324. 📚 docs: document token refresh logic
+0460. 📚 docs: write FAQ section
