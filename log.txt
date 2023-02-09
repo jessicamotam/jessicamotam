@@ -83559,3 +83559,4 @@
 0050. ✨ feat: enable dark mode toggle
 0406. ✨ feat: add export to CSV option
 0575. ✅ test: add unit test for quiz service
+0721. 🚀 perf: optimize database query for quiz results
