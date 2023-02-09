@@ -89545,3 +89545,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0683. ✅ test: mock database connection in test suite
 0461. ✨ feat: add user authentication
+0225. 🚀 perf: reduce image load time
