@@ -55027,3 +55027,4 @@
 0463. 🚀 perf: reduce image load time
 0682. ♻️ chore: rename env.example
 0231. 🔧 refactor: clean up auth middleware
+0317. ✅ test: test user registration edge cases
