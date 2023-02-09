@@ -7604,3 +7604,4 @@
 0809. ♻️ chore: rename env.example
 0301. 🎨 style: apply consistent indentation
 0547. 📚 docs: write FAQ section
+0813. 🔧 refactor: organize models into subfolders
