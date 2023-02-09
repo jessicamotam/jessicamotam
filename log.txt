@@ -19204,3 +19204,4 @@
 0403. ✅ test: mock database connection in test suite
 0751. 🐛 fix: handle 500 error in quiz API
 0358. 🚀 perf: reduce image load time
+0844. 📚 docs: update README with setup steps
