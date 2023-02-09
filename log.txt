@@ -71892,3 +71892,4 @@
 0962. ✨ feat: create admin dashboard
 0016. 🎨 style: apply consistent indentation
 0597. 🚀 perf: cache repeated calculations
+0884. 📚 docs: clarify environment setup
