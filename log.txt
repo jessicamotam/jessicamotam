@@ -72727,3 +72727,4 @@
 0583. ✅ test: increase coverage on auth module
 0505. ♻️ chore: add GitHub actions badge
 0402. 🎨 style: reformat files with black
+0614. 🚀 perf: reduce image load time
