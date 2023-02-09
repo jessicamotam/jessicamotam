@@ -45162,3 +45162,4 @@
 0942. ✅ test: increase coverage on auth module
 0741. 🎨 style: apply consistent indentation
 0457. 🐛 fix: handle 500 error in quiz API
+0579. 📚 docs: clarify environment setup
