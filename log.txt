@@ -60156,3 +60156,4 @@
 0976. ✨ feat: implement quiz timer feature
 0225. 🚀 perf: reduce image load time
 0895. ✨ feat: support email verification
+0440. 📚 docs: update README with setup steps
