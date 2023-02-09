@@ -53458,3 +53458,4 @@
 0393. 🚀 perf: lazy-load components
 0660. 🐛 fix: correct typo in registration form
 0679. ♻️ chore: bump dependencies
+0793. 📚 docs: clarify environment setup
