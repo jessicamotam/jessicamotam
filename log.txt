@@ -15303,3 +15303,4 @@
 0381. ♻️ chore: clean up unused files
 0205. 📚 docs: update README with setup steps
 0566. 📚 docs: write FAQ section
+0996. ✅ test: test user registration edge cases
