@@ -54452,3 +54452,4 @@
 0942. ✅ test: increase coverage on auth module
 0207. 🐛 fix: prevent crash on empty input
 0092. 🚀 perf: reduce image load time
+0970. ♻️ chore: update .gitignore
