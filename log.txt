@@ -7939,3 +7939,4 @@
 0229. 🚀 perf: optimize database query for quiz results
 0042. 📚 docs: document token refresh logic
 0510. 🎨 style: rename variables for clarity
+0690. 🚀 perf: lazy-load components
