@@ -74972,3 +74972,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0219. ✅ test: increase coverage on auth module
 0476. 🚀 perf: reduce image load time
+0848. 📚 docs: update README with setup steps
