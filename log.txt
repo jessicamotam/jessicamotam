@@ -35568,3 +35568,4 @@
 0943. 🎨 style: rename variables for clarity
 0121. ✨ feat: support email verification
 0060. ♻️ chore: clean up unused files
+0077. ♻️ chore: rename env.example
