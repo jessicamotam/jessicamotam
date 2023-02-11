@@ -56486,3 +56486,4 @@
 0617. ✨ feat: support email verification
 0116. ✨ feat: support email verification
 0646. ✅ test: test user registration edge cases
+0367. 🐛 fix: fix null pointer exception on login
