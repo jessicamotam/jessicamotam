@@ -47223,3 +47223,4 @@
 0118. 🚀 perf: reduce image load time
 0263. 📚 docs: add API usage examples
 0003. ✅ test: increase coverage on auth module
+0563. 📚 docs: clarify environment setup
