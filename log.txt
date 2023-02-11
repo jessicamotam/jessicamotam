@@ -13731,3 +13731,4 @@
 0035. ✅ test: increase coverage on auth module
 0805. ♻️ chore: add GitHub actions badge
 0999. 🔧 refactor: split large controller into smaller functions
+0222. 🐛 fix: handle 500 error in quiz API
