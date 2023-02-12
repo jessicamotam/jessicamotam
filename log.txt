@@ -40379,3 +40379,4 @@
 0325. 🎨 style: rename variables for clarity
 0686. 🎨 style: standardize quote style
 0733. 🐛 fix: fix null pointer exception on login
+0611. ✅ test: test user registration edge cases
