@@ -44889,3 +44889,4 @@
 0329. 📚 docs: update README with setup steps
 0113. ✨ feat: add user authentication
 0528. ♻️ chore: clean up unused files
+0958. 🐛 fix: prevent crash on empty input
