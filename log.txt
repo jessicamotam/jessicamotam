@@ -48468,3 +48468,4 @@
 0295. 🎨 style: remove trailing whitespace
 0397. 🐛 fix: handle 500 error in quiz API
 0283. ♻️ chore: add GitHub actions badge
+0511. 🐛 fix: fix broken CSS in mobile view
