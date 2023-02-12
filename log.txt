@@ -6901,3 +6901,4 @@
 0347. ♻️ chore: update .gitignore
 0500. ✅ test: add integration test for /submit endpoint
 0789. ✨ feat: create admin dashboard
+0218. 🔧 refactor: clean up auth middleware
