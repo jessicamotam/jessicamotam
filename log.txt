@@ -77490,3 +77490,4 @@
 0481. ✅ test: add unit test for quiz service
 0538. 🐛 fix: fix broken CSS in mobile view
 0868. ✅ test: add unit test for quiz service
+0280. ✅ test: add integration test for /submit endpoint
