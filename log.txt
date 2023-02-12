@@ -6903,3 +6903,4 @@
 0789. ✨ feat: create admin dashboard
 0218. 🔧 refactor: clean up auth middleware
 0688. 🚀 perf: reduce image load time
+0759. 🔧 refactor: organize models into subfolders
