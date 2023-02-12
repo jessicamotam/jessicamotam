@@ -22393,3 +22393,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0357. ✅ test: add unit test for quiz service
 0155. ✨ feat: create admin dashboard
+0026. 🔧 refactor: clean up auth middleware
