@@ -28795,3 +28795,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0063. 🐛 fix: handle 500 error in quiz API
 0618. ✨ feat: support email verification
+0580. ♻️ chore: bump dependencies
