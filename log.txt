@@ -53851,3 +53851,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0623. 🎨 style: standardize quote style
 0472. 🐛 fix: fix null pointer exception on login
+0808. 🚀 perf: optimize database query for quiz results
