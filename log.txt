@@ -7319,3 +7319,4 @@
 0178. ✨ feat: support email verification
 0128. ♻️ chore: rename env.example
 0847. ♻️ chore: clean up unused files
+0665. ♻️ chore: update .gitignore
