@@ -27508,3 +27508,4 @@
 0851. ✅ test: mock database connection in test suite
 0388. 🎨 style: reformat files with black
 0982. 🚀 perf: lazy-load components
+0422. 🔧 refactor: organize models into subfolders
