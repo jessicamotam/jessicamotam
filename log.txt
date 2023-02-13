@@ -80941,3 +80941,4 @@
 0112. ✨ feat: enable dark mode toggle
 0643. 🎨 style: apply consistent indentation
 0994. 🚀 perf: reduce image load time
+0206. 🐛 fix: handle 500 error in quiz API
