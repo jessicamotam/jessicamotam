@@ -25618,3 +25618,4 @@
 0187. ✨ feat: support email verification
 0626. 🎨 style: standardize quote style
 0954. 🚀 perf: cache repeated calculations
+0140. 🐛 fix: handle 500 error in quiz API
