@@ -28564,3 +28564,4 @@
 0541. 🐛 fix: correct typo in registration form
 0672. 🐛 fix: fix broken CSS in mobile view
 0885. ♻️ chore: update .gitignore
+0377. ✨ feat: add user authentication
