@@ -57545,3 +57545,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0388. 🎨 style: reformat files with black
 0593. 🐛 fix: correct typo in registration form
+0441. 📚 docs: add API usage examples
