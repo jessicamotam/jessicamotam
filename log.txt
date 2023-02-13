@@ -56137,3 +56137,4 @@
 0765. ♻️ chore: clean up unused files
 0395. 📚 docs: write FAQ section
 0570. 🎨 style: apply consistent indentation
+0988. 🐛 fix: fix broken CSS in mobile view
