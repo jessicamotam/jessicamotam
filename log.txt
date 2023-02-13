@@ -1253,3 +1253,4 @@
 0037. 🐛 fix: correct typo in registration form
 0483. 📚 docs: update README with setup steps
 0311. 🎨 style: apply consistent indentation
+0527. 🎨 style: remove trailing whitespace
