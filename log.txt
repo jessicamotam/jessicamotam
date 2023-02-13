@@ -86294,3 +86294,4 @@
 0780. 📚 docs: add API usage examples
 0443. 🎨 style: standardize quote style
 0275. 🎨 style: standardize quote style
+0975. 🎨 style: apply consistent indentation
