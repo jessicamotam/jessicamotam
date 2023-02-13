@@ -19251,3 +19251,4 @@
 0311. 🎨 style: apply consistent indentation
 0166. 🚀 perf: cache repeated calculations
 0473. 📚 docs: write FAQ section
+0979. 🎨 style: standardize quote style
