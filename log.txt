@@ -30207,3 +30207,4 @@
 0124. 🎨 style: reformat files with black
 0278. 🔧 refactor: clean up auth middleware
 0066. 🔧 refactor: clean up auth middleware
+0437. 📚 docs: clarify environment setup
