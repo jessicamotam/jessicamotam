@@ -62131,3 +62131,4 @@
 0947. 📚 docs: write FAQ section
 0034. 📚 docs: improve code comments in utils
 0204. 🎨 style: standardize quote style
+0029. 🚀 perf: lazy-load components
