@@ -12345,3 +12345,4 @@
 0093. ✅ test: add unit test for quiz service
 0080. ✨ feat: support email verification
 0870. ♻️ chore: clean up unused files
+0800. 🚀 perf: optimize database query for quiz results
