@@ -70862,3 +70862,4 @@
 0887. 📚 docs: add API usage examples
 0415. 🐛 fix: handle 500 error in quiz API
 0270. ♻️ chore: rename env.example
+0811. 🎨 style: reformat files with black
