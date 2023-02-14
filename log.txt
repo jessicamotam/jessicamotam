@@ -82762,3 +82762,4 @@
 0528. ♻️ chore: clean up unused files
 0420. 🚀 perf: reduce image load time
 0067. 🔧 refactor: remove redundant code blocks
+0026. 🔧 refactor: clean up auth middleware
