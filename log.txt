@@ -49285,3 +49285,4 @@
 0354. 📚 docs: add API usage examples
 0634. 🎨 style: reformat files with black
 0738. 🐛 fix: prevent crash on empty input
+0440. 📚 docs: update README with setup steps
