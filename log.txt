@@ -50512,3 +50512,4 @@
 0254. 🚀 perf: reduce image load time
 0572. ✨ feat: add user authentication
 0062. ♻️ chore: update .gitignore
+0374. 🎨 style: standardize quote style
