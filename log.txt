@@ -39415,3 +39415,4 @@
 0199. ✨ feat: create admin dashboard
 0648. ♻️ chore: bump dependencies
 0943. 🎨 style: rename variables for clarity
+0091. ✨ feat: add user authentication
