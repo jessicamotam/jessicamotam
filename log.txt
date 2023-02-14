@@ -22795,3 +22795,4 @@
 0770. ♻️ chore: rename env.example
 0504. 📚 docs: document token refresh logic
 0646. ✅ test: test user registration edge cases
+0732. ♻️ chore: add GitHub actions badge
