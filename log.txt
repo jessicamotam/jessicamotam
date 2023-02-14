@@ -21259,3 +21259,4 @@
 0395. 📚 docs: write FAQ section
 0584. 🚀 perf: lazy-load components
 0494. 🎨 style: rename variables for clarity
+0576. ♻️ chore: update .gitignore
