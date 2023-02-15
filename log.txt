@@ -41101,3 +41101,4 @@
 0535. 📚 docs: write FAQ section
 0578. ✅ test: add integration test for /submit endpoint
 0323. 📚 docs: clarify environment setup
+0022. 📚 docs: document token refresh logic
