@@ -86636,3 +86636,4 @@
 0638. 📚 docs: improve code comments in utils
 0314. ✨ feat: implement quiz timer feature
 0795. 📚 docs: update README with setup steps
+0711. 🐛 fix: fix broken CSS in mobile view
