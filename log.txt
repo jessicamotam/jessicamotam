@@ -52612,3 +52612,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0099. 🚀 perf: reduce image load time
 0372. ✨ feat: add user authentication
+0590. 🐛 fix: fix null pointer exception on login
