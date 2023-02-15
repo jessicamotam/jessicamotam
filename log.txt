@@ -54189,3 +54189,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0756. ✨ feat: support email verification
 0202. 🔧 refactor: refactor quiz grading logic
+0924. ✅ test: mock database connection in test suite
