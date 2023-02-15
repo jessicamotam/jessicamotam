@@ -41845,3 +41845,4 @@
 0492. 🎨 style: remove trailing whitespace
 0765. ♻️ chore: clean up unused files
 0123. ✨ feat: implement quiz timer feature
+0343. 🚀 perf: optimize database query for quiz results
