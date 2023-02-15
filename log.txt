@@ -15666,3 +15666,4 @@
 0027. 📚 docs: clarify environment setup
 0262. 🎨 style: remove trailing whitespace
 0958. 🐛 fix: prevent crash on empty input
+0436. ✅ test: add integration test for /submit endpoint
