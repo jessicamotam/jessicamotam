@@ -26885,3 +26885,4 @@
 0869. ♻️ chore: bump dependencies
 0513. ♻️ chore: bump dependencies
 0468. 📚 docs: update README with setup steps
+0136. 🚀 perf: lazy-load components
