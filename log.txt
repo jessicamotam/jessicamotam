@@ -79204,3 +79204,4 @@
 0987. ✨ feat: create admin dashboard
 0664. ✅ test: add unit test for quiz service
 0395. 📚 docs: write FAQ section
+0107. 🐛 fix: prevent crash on empty input
