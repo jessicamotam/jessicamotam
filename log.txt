@@ -71299,3 +71299,4 @@
 0934. ✨ feat: support email verification
 0541. 🐛 fix: correct typo in registration form
 0906. 📚 docs: add API usage examples
+0520. 🐛 fix: fix null pointer exception on login
