@@ -30806,3 +30806,4 @@
 0743. 🎨 style: apply consistent indentation
 0869. ♻️ chore: bump dependencies
 0341. 🚀 perf: lazy-load components
+0384. 📚 docs: clarify environment setup
