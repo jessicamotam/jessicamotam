@@ -34011,3 +34011,4 @@
 0536. ✨ feat: add user authentication
 0008. 🚀 perf: reduce image load time
 0090. ✅ test: increase coverage on auth module
+0227. ✅ test: test user registration edge cases
