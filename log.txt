@@ -31246,3 +31246,4 @@
 0928. 🎨 style: apply consistent indentation
 0584. 🚀 perf: lazy-load components
 0440. 📚 docs: update README with setup steps
+0735. ♻️ chore: add GitHub actions badge
