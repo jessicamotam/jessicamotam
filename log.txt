@@ -29709,3 +29709,4 @@
 0745. ✅ test: add unit test for quiz service
 0788. 📚 docs: add API usage examples
 0915. 🚀 perf: cache repeated calculations
+0405. ✅ test: mock database connection in test suite
