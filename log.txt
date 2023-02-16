@@ -7857,3 +7857,4 @@
 0131. 📚 docs: write FAQ section
 0944. ✨ feat: add user authentication
 0526. ✨ feat: add user authentication
+0360. ✨ feat: add export to CSV option
