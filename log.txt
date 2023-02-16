@@ -49248,3 +49248,4 @@
 0131. 📚 docs: write FAQ section
 0353. ♻️ chore: rename env.example
 0200. 🐛 fix: handle 500 error in quiz API
+0125. ✅ test: add integration test for /submit endpoint
