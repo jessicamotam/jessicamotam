@@ -31313,3 +31313,4 @@
 0665. ♻️ chore: update .gitignore
 0781. 🚀 perf: reduce image load time
 0240. 🔧 refactor: remove redundant code blocks
+0264. 🚀 perf: optimize database query for quiz results
