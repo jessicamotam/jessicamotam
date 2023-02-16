@@ -57395,3 +57395,4 @@
 0053. ✅ test: increase coverage on auth module
 0734. ✨ feat: add export to CSV option
 0105. 🐛 fix: correct typo in registration form
+0619. ✨ feat: create admin dashboard
