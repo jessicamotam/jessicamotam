@@ -54387,3 +54387,4 @@
 0819. 🚀 perf: reduce image load time
 0682. ♻️ chore: rename env.example
 0771. 🚀 perf: cache repeated calculations
+0738. 🐛 fix: prevent crash on empty input
