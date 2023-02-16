@@ -29061,3 +29061,4 @@
 0373. 📚 docs: document token refresh logic
 0091. ✨ feat: add user authentication
 0387. ✨ feat: enable dark mode toggle
+0834. ✅ test: increase coverage on auth module
