@@ -65634,3 +65634,4 @@
 0251. ♻️ chore: update .gitignore
 0056. ♻️ chore: rename env.example
 0029. 🚀 perf: lazy-load components
+0919. 🚀 perf: optimize database query for quiz results
