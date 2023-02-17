@@ -48154,3 +48154,4 @@
 0384. 📚 docs: clarify environment setup
 0929. ✨ feat: support email verification
 0525. ✅ test: mock database connection in test suite
+0920. 🔧 refactor: organize models into subfolders
