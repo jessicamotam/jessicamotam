@@ -55123,3 +55123,4 @@
 0530. 🔧 refactor: refactor quiz grading logic
 0994. 🚀 perf: reduce image load time
 0274. 🔧 refactor: refactor quiz grading logic
+0583. ✅ test: increase coverage on auth module
