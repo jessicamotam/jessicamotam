@@ -45075,3 +45075,4 @@
 0111. 📚 docs: update README with setup steps
 0676. 🐛 fix: prevent crash on empty input
 0708. ✅ test: add integration test for /submit endpoint
+0462. ♻️ chore: update .gitignore
