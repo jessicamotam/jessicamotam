@@ -72397,3 +72397,4 @@
 0377. ✨ feat: add user authentication
 0352. ✨ feat: add export to CSV option
 0050. ✨ feat: enable dark mode toggle
+0970. ♻️ chore: update .gitignore
