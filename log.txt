@@ -20950,3 +20950,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0666. 🐛 fix: fix broken CSS in mobile view
 0185. 📚 docs: write FAQ section
+0283. ♻️ chore: add GitHub actions badge
