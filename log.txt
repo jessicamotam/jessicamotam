@@ -4004,3 +4004,4 @@
 0801. ✨ feat: enable dark mode toggle
 0280. ✅ test: add integration test for /submit endpoint
 0661. ✅ test: add integration test for /submit endpoint
+0556. ✨ feat: support email verification
