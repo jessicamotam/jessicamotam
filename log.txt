@@ -57297,3 +57297,4 @@
 0726. ✨ feat: enable dark mode toggle
 0346. ✅ test: mock database connection in test suite
 0486. ✨ feat: add export to CSV option
+0532. 🔧 refactor: split large controller into smaller functions
