@@ -40025,3 +40025,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0412. ✅ test: increase coverage on auth module
 0187. ✨ feat: support email verification
+0459. 🔧 refactor: organize models into subfolders
