@@ -28919,3 +28919,4 @@
 0984. ♻️ chore: clean up unused files
 0908. ♻️ chore: bump dependencies
 0844. 📚 docs: update README with setup steps
+0008. 🚀 perf: reduce image load time
