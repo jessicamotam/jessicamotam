@@ -29167,3 +29167,4 @@
 0556. ✨ feat: support email verification
 0825. 🔧 refactor: split large controller into smaller functions
 0366. 🔧 refactor: remove redundant code blocks
+0253. 📚 docs: update README with setup steps
