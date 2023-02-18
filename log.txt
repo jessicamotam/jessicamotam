@@ -83070,3 +83070,4 @@
 0612. ✅ test: test user registration edge cases
 0790. 📚 docs: write FAQ section
 0614. 🚀 perf: reduce image load time
+0858. ♻️ chore: clean up unused files
