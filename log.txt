@@ -55360,3 +55360,4 @@
 0196. ♻️ chore: bump dependencies
 0186. ✅ test: test user registration edge cases
 0934. ✨ feat: support email verification
+0534. 🔧 refactor: split large controller into smaller functions
