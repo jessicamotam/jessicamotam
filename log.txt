@@ -39217,3 +39217,4 @@
 0684. 🚀 perf: reduce image load time
 0861. ♻️ chore: clean up unused files
 0656. 🎨 style: apply consistent indentation
+0277. 🎨 style: standardize quote style
