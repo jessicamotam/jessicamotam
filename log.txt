@@ -32710,3 +32710,4 @@
 0749. ✨ feat: support email verification
 0660. 🐛 fix: correct typo in registration form
 0334. 🚀 perf: cache repeated calculations
+0259. 🚀 perf: lazy-load components
