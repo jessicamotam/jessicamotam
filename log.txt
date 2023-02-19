@@ -7638,3 +7638,4 @@
 0217. 🚀 perf: reduce image load time
 0010. ✨ feat: add user authentication
 0062. ♻️ chore: update .gitignore
+0557. 🔧 refactor: clean up auth middleware
