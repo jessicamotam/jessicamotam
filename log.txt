@@ -74041,3 +74041,4 @@
 0819. 🚀 perf: reduce image load time
 0719. 🎨 style: apply consistent indentation
 0111. 📚 docs: update README with setup steps
+0737. 🐛 fix: handle 500 error in quiz API
