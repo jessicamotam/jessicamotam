@@ -23389,3 +23389,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0796. 🔧 refactor: refactor quiz grading logic
 0878. 🔧 refactor: split large controller into smaller functions
+0982. 🚀 perf: lazy-load components
