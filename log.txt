@@ -28234,3 +28234,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0194. 🎨 style: standardize quote style
 0076. 🎨 style: reformat files with black
+0622. 🎨 style: apply consistent indentation
