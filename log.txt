@@ -73849,3 +73849,4 @@
 0260. ✨ feat: create admin dashboard
 0610. 🚀 perf: lazy-load components
 0724. ✅ test: mock database connection in test suite
+0339. 📚 docs: update README with setup steps
