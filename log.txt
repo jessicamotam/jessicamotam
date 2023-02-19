@@ -77054,3 +77054,4 @@
 0499. 🎨 style: reformat files with black
 0462. ♻️ chore: update .gitignore
 0535. 📚 docs: write FAQ section
+0617. ✨ feat: support email verification
