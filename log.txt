@@ -50939,3 +50939,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0819. 🚀 perf: reduce image load time
 0284. ✨ feat: implement quiz timer feature
+0074. ♻️ chore: add GitHub actions badge
