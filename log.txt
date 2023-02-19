@@ -50511,3 +50511,4 @@
 0667. ✨ feat: add export to CSV option
 0254. 🚀 perf: reduce image load time
 0572. ✨ feat: add user authentication
+0062. ♻️ chore: update .gitignore
