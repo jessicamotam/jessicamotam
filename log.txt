@@ -18341,3 +18341,4 @@
 0631. ✨ feat: create admin dashboard
 0491. 🚀 perf: lazy-load components
 0563. 📚 docs: clarify environment setup
+0618. ✨ feat: support email verification
