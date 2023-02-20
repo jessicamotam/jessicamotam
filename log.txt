@@ -1065,3 +1065,4 @@
 0794. ♻️ chore: clean up unused files
 0383. 🐛 fix: fix broken CSS in mobile view
 0922. 📚 docs: write FAQ section
+0010. ✨ feat: add user authentication
