@@ -52026,3 +52026,4 @@
 0176. 🔧 refactor: remove redundant code blocks
 0297. 🎨 style: remove trailing whitespace
 0015. ✨ feat: implement quiz timer feature
+0397. 🐛 fix: handle 500 error in quiz API
