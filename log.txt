@@ -68339,3 +68339,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0052. 🎨 style: standardize quote style
 0768. 🎨 style: remove trailing whitespace
+0947. 📚 docs: write FAQ section
