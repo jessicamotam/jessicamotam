@@ -19521,3 +19521,4 @@
 0576. ♻️ chore: update .gitignore
 0172. 📚 docs: add API usage examples
 0788. 📚 docs: add API usage examples
+0448. 🐛 fix: correct typo in registration form
