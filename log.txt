@@ -7924,3 +7924,4 @@
 0025. 🚀 perf: optimize database query for quiz results
 0147. ♻️ chore: bump dependencies
 0525. ✅ test: mock database connection in test suite
+0677. 📚 docs: add API usage examples
