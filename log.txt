@@ -70708,3 +70708,4 @@
 0990. ♻️ chore: rename env.example
 0442. 🎨 style: standardize quote style
 0359. 🔧 refactor: clean up auth middleware
+0836. 🚀 perf: optimize database query for quiz results
