@@ -26117,3 +26117,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0024. 📚 docs: write FAQ section
 0626. 🎨 style: standardize quote style
+0157. ✅ test: mock database connection in test suite
