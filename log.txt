@@ -70929,3 +70929,4 @@
 0915. 🚀 perf: cache repeated calculations
 0608. 🔧 refactor: remove redundant code blocks
 0261. 🔧 refactor: refactor quiz grading logic
+0029. 🚀 perf: lazy-load components
