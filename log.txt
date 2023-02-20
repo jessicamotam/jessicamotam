@@ -57101,3 +57101,4 @@
 0877. 🚀 perf: optimize database query for quiz results
 0555. ✨ feat: create admin dashboard
 0038. 🎨 style: rename variables for clarity
+0201. 🔧 refactor: clean up auth middleware
