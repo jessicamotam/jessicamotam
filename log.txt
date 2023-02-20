@@ -90628,3 +90628,4 @@
 0303. 🎨 style: rename variables for clarity
 0644. 🎨 style: apply consistent indentation
 0050. ✨ feat: enable dark mode toggle
+0243. 🔧 refactor: clean up auth middleware
