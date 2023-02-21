@@ -10637,3 +10637,4 @@
 0576. ♻️ chore: update .gitignore
 0270. ♻️ chore: rename env.example
 0516. ✅ test: add unit test for quiz service
+0947. 📚 docs: write FAQ section
