@@ -74936,3 +74936,4 @@
 0286. ✅ test: mock database connection in test suite
 0715. ✨ feat: create admin dashboard
 0625. 🐛 fix: handle 500 error in quiz API
+0571. 🔧 refactor: clean up auth middleware
