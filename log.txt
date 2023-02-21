@@ -69611,3 +69611,4 @@
 0234. ♻️ chore: rename env.example
 0220. 🐛 fix: fix null pointer exception on login
 0426. ✅ test: add integration test for /submit endpoint
+0730. ✅ test: test user registration edge cases
