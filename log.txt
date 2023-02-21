@@ -90833,3 +90833,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0110. 🐛 fix: prevent crash on empty input
 0347. ♻️ chore: update .gitignore
+0021. ✨ feat: support email verification
