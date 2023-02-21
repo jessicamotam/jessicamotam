@@ -67052,3 +67052,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0861. ♻️ chore: clean up unused files
 0548. 📚 docs: write FAQ section
+0667. ✨ feat: add export to CSV option
