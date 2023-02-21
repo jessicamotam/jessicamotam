@@ -75210,3 +75210,4 @@
 0350. 🚀 perf: cache repeated calculations
 0030. 🐛 fix: fix null pointer exception on login
 0707. 🎨 style: apply consistent indentation
+0584. 🚀 perf: lazy-load components
