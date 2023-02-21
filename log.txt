@@ -86585,3 +86585,4 @@
 0017. ✅ test: mock database connection in test suite
 0005. ✅ test: add unit test for quiz service
 0319. 🐛 fix: handle 500 error in quiz API
+0475. 🔧 refactor: clean up auth middleware
