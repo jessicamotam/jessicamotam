@@ -86836,3 +86836,4 @@
 0819. 🚀 perf: reduce image load time
 0869. ♻️ chore: bump dependencies
 0995. ✅ test: mock database connection in test suite
+0488. ♻️ chore: add GitHub actions badge
