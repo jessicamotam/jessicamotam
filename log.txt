@@ -50436,3 +50436,4 @@
 0035. ✅ test: increase coverage on auth module
 0850. ♻️ chore: rename env.example
 0494. 🎨 style: rename variables for clarity
+0750. 🎨 style: apply consistent indentation
