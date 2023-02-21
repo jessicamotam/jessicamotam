@@ -76749,3 +76749,4 @@
 0693. 📚 docs: add API usage examples
 0958. 🐛 fix: prevent crash on empty input
 0971. 🎨 style: standardize quote style
+0208. 🔧 refactor: clean up auth middleware
