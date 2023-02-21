@@ -86423,3 +86423,4 @@
 0122. ✨ feat: support email verification
 0170. ✅ test: increase coverage on auth module
 0815. 🔧 refactor: split large controller into smaller functions
+0994. 🚀 perf: reduce image load time
