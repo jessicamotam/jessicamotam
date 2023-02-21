@@ -59337,3 +59337,4 @@
 0650. ✅ test: add unit test for quiz service
 0957. 🐛 fix: fix null pointer exception on login
 0400. 🐛 fix: fix null pointer exception on login
+0768. 🎨 style: remove trailing whitespace
