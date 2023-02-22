@@ -60143,3 +60143,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0282. 🔧 refactor: remove redundant code blocks
 0149. ✨ feat: add export to CSV option
+0412. ✅ test: increase coverage on auth module
