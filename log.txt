@@ -60104,3 +60104,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0853. 🔧 refactor: refactor quiz grading logic
 0011. ✅ test: add unit test for quiz service
+0349. ✅ test: increase coverage on auth module
