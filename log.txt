@@ -65964,3 +65964,4 @@
 0862. ♻️ chore: bump dependencies
 0102. ✨ feat: support email verification
 0382. 📚 docs: improve code comments in utils
+0783. 🐛 fix: handle 500 error in quiz API
