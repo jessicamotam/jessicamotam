@@ -56440,3 +56440,4 @@
 0709. ♻️ chore: bump dependencies
 0893. 🐛 fix: handle 500 error in quiz API
 0665. ♻️ chore: update .gitignore
+0345. 📚 docs: document token refresh logic
