@@ -51884,3 +51884,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0678. ✨ feat: add user authentication
 0206. 🐛 fix: handle 500 error in quiz API
+0353. ♻️ chore: rename env.example
