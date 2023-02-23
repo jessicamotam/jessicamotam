@@ -41350,3 +41350,4 @@
 0036. 🔧 refactor: clean up auth middleware
 0172. 📚 docs: add API usage examples
 0611. ✅ test: test user registration edge cases
+0154. 🐛 fix: prevent crash on empty input
