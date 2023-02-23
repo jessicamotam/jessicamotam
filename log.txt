@@ -51911,3 +51911,4 @@
 0809. ♻️ chore: rename env.example
 0473. 📚 docs: write FAQ section
 0972. 🔧 refactor: refactor quiz grading logic
+0735. ♻️ chore: add GitHub actions badge
