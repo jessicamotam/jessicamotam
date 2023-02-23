@@ -17799,3 +17799,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0414. 🔧 refactor: remove redundant code blocks
 0315. ✅ test: add integration test for /submit endpoint
+0706. ✨ feat: support email verification
