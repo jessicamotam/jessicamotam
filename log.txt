@@ -757,3 +757,4 @@
 0709. ♻️ chore: bump dependencies
 0619. ✨ feat: create admin dashboard
 0234. ♻️ chore: rename env.example
+0819. 🚀 perf: reduce image load time
