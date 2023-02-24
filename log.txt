@@ -60707,3 +60707,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0324. 📚 docs: document token refresh logic
 0664. ✅ test: add unit test for quiz service
+0084. 🐛 fix: handle 500 error in quiz API
