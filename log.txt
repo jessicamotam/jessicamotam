@@ -2006,3 +2006,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0955. 🔧 refactor: remove redundant code blocks
 0686. 🎨 style: standardize quote style
+0507. 🔧 refactor: clean up auth middleware
