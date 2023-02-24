@@ -224,3 +224,4 @@
 0103. 🔧 refactor: remove redundant code blocks
 0948. 🐛 fix: fix broken CSS in mobile view
 0143. ✨ feat: implement quiz timer feature
+0409. 🚀 perf: lazy-load components
