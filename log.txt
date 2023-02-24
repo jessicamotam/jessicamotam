@@ -87158,3 +87158,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0187. ✨ feat: support email verification
 0178. ✨ feat: support email verification
+0942. ✅ test: increase coverage on auth module
