@@ -21017,3 +21017,4 @@
 0725. 🚀 perf: lazy-load components
 0048. 📚 docs: update README with setup steps
 0671. 🐛 fix: fix null pointer exception on login
+0871. ✅ test: add integration test for /submit endpoint
