@@ -52412,3 +52412,4 @@
 0251. ♻️ chore: update .gitignore
 0732. ♻️ chore: add GitHub actions badge
 0302. ✨ feat: implement quiz timer feature
+0795. 📚 docs: update README with setup steps
