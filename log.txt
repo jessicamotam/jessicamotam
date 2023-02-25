@@ -35686,3 +35686,4 @@
 0387. ✨ feat: enable dark mode toggle
 0720. ✨ feat: add export to CSV option
 0713. 🐛 fix: handle 500 error in quiz API
+0276. ✅ test: add integration test for /submit endpoint
