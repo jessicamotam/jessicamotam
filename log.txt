@@ -36622,3 +36622,4 @@
 0111. 📚 docs: update README with setup steps
 0602. 🔧 refactor: remove redundant code blocks
 0460. 📚 docs: write FAQ section
+0919. 🚀 perf: optimize database query for quiz results
