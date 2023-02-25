@@ -69484,3 +69484,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0473. 📚 docs: write FAQ section
 0959. 🐛 fix: fix null pointer exception on login
+0041. 🐛 fix: fix broken CSS in mobile view
