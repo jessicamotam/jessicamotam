@@ -51659,3 +51659,4 @@
 0536. ✨ feat: add user authentication
 0888. 🚀 perf: lazy-load components
 0302. ✨ feat: implement quiz timer feature
+0531. 🐛 fix: prevent crash on empty input
