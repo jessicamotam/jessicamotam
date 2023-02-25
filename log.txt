@@ -25118,3 +25118,4 @@
 0605. ✨ feat: support email verification
 0395. 📚 docs: write FAQ section
 0323. 📚 docs: clarify environment setup
+0262. 🎨 style: remove trailing whitespace
