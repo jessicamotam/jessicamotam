@@ -73586,3 +73586,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0376. 🎨 style: apply consistent indentation
 0783. 🐛 fix: handle 500 error in quiz API
+0789. ✨ feat: create admin dashboard
