@@ -35974,3 +35974,4 @@
 0212. 🎨 style: standardize quote style
 0422. 🔧 refactor: organize models into subfolders
 0174. 📚 docs: clarify environment setup
+0775. 🐛 fix: fix null pointer exception on login
