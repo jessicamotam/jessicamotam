@@ -29739,3 +29739,4 @@
 0269. ✅ test: test user registration edge cases
 0910. 🎨 style: remove trailing whitespace
 0900. 🐛 fix: handle 500 error in quiz API
+0686. 🎨 style: standardize quote style
