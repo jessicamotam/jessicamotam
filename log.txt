@@ -65686,3 +65686,4 @@
 0440. 📚 docs: update README with setup steps
 0941. 🚀 perf: cache repeated calculations
 0395. 📚 docs: write FAQ section
+0849. 🐛 fix: correct typo in registration form
