@@ -85754,3 +85754,4 @@
 0636. ✅ test: increase coverage on auth module
 0528. ♻️ chore: clean up unused files
 0505. ♻️ chore: add GitHub actions badge
+0854. ♻️ chore: rename env.example
