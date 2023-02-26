@@ -29370,3 +29370,4 @@
 0060. ♻️ chore: clean up unused files
 0347. ♻️ chore: update .gitignore
 0147. ♻️ chore: bump dependencies
+0895. ✨ feat: support email verification
