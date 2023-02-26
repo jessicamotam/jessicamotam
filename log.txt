@@ -26806,3 +26806,4 @@
 0252. 🎨 style: remove trailing whitespace
 0266. 🔧 refactor: remove redundant code blocks
 0374. 🎨 style: standardize quote style
+0249. ✅ test: increase coverage on auth module
