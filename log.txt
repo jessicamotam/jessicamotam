@@ -6835,3 +6835,4 @@
 0564. 📚 docs: clarify environment setup
 0372. ✨ feat: add user authentication
 0558. ✨ feat: enable dark mode toggle
+0489. 🔧 refactor: organize models into subfolders
