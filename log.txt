@@ -33338,3 +33338,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0991. ♻️ chore: clean up unused files
 0705. 🔧 refactor: refactor quiz grading logic
+0226. 🚀 perf: lazy-load components
