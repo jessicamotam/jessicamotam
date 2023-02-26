@@ -86164,3 +86164,4 @@
 0903. ✅ test: mock database connection in test suite
 0048. 📚 docs: update README with setup steps
 0826. 📚 docs: clarify environment setup
+0937. 🐛 fix: handle 500 error in quiz API
