@@ -8820,3 +8820,4 @@
 0077. ♻️ chore: rename env.example
 0622. 🎨 style: apply consistent indentation
 0594. 🎨 style: reformat files with black
+0327. 🔧 refactor: split large controller into smaller functions
