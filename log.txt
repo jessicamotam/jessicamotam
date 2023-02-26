@@ -49004,3 +49004,4 @@
 0166. 🚀 perf: cache repeated calculations
 0957. 🐛 fix: fix null pointer exception on login
 0049. 🐛 fix: handle 500 error in quiz API
+0761. ✅ test: add unit test for quiz service
