@@ -13794,3 +13794,4 @@
 0090. ✅ test: increase coverage on auth module
 0395. 📚 docs: write FAQ section
 0928. 🎨 style: apply consistent indentation
+0660. 🐛 fix: correct typo in registration form
