@@ -53069,3 +53069,4 @@
 0824. 🚀 perf: lazy-load components
 0276. ✅ test: add integration test for /submit endpoint
 0236. 🔧 refactor: remove redundant code blocks
+0772. 🐛 fix: fix null pointer exception on login
