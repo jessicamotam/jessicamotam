@@ -30261,3 +30261,4 @@
 0230. ✨ feat: create admin dashboard
 0920. 🔧 refactor: organize models into subfolders
 0949. 📚 docs: write FAQ section
+0251. ♻️ chore: update .gitignore
