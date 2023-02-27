@@ -1934,3 +1934,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0971. 🎨 style: standardize quote style
 0941. 🚀 perf: cache repeated calculations
+0623. 🎨 style: standardize quote style
