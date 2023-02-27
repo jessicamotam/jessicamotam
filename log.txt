@@ -58571,3 +58571,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0895. ✨ feat: support email verification
 0291. 📚 docs: write FAQ section
+0233. 🚀 perf: lazy-load components
