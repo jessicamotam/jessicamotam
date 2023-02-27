@@ -72575,3 +72575,4 @@
 0269. ✅ test: test user registration edge cases
 0911. ✅ test: increase coverage on auth module
 0490. ✨ feat: create admin dashboard
+0751. 🐛 fix: handle 500 error in quiz API
