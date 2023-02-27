@@ -5915,3 +5915,4 @@
 0859. ✨ feat: create admin dashboard
 0546. 🐛 fix: fix null pointer exception on login
 0357. ✅ test: add unit test for quiz service
+0994. 🚀 perf: reduce image load time
