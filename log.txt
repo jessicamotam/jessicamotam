@@ -60683,3 +60683,4 @@
 0518. ✨ feat: support email verification
 0887. 📚 docs: add API usage examples
 0646. ✅ test: test user registration edge cases
+0721. 🚀 perf: optimize database query for quiz results
