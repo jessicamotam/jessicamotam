@@ -38655,3 +38655,4 @@
 0987. ✨ feat: create admin dashboard
 0942. ✅ test: increase coverage on auth module
 0153. ♻️ chore: rename env.example
+0013. ✅ test: increase coverage on auth module
