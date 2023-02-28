@@ -34307,3 +34307,4 @@
 0032. 🎨 style: apply consistent indentation
 0802. 🔧 refactor: remove redundant code blocks
 0947. 📚 docs: write FAQ section
+0320. 📚 docs: update README with setup steps
