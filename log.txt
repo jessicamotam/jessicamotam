@@ -42043,3 +42043,4 @@
 0349. ✅ test: increase coverage on auth module
 0953. 🎨 style: remove trailing whitespace
 0549. ✨ feat: enable dark mode toggle
+0935. 📚 docs: update README with setup steps
