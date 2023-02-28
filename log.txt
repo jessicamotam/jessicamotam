@@ -25829,3 +25829,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0768. 🎨 style: remove trailing whitespace
 0039. ✅ test: add integration test for /submit endpoint
+0890. 🔧 refactor: organize models into subfolders
