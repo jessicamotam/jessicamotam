@@ -66695,3 +66695,4 @@
 0637. 🎨 style: apply consistent indentation
 0994. 🚀 perf: reduce image load time
 0181. ♻️ chore: add GitHub actions badge
+0121. ✨ feat: support email verification
