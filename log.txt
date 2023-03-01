@@ -67433,3 +67433,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0124. 🎨 style: reformat files with black
 0610. 🚀 perf: lazy-load components
+0571. 🔧 refactor: clean up auth middleware
