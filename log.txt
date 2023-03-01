@@ -10450,3 +10450,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0102. ✨ feat: support email verification
 0655. 🚀 perf: cache repeated calculations
+0504. 📚 docs: document token refresh logic
