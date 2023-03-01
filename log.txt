@@ -29181,3 +29181,4 @@
 0016. 🎨 style: apply consistent indentation
 0460. 📚 docs: write FAQ section
 0533. ♻️ chore: add GitHub actions badge
+0159. 🚀 perf: lazy-load components
