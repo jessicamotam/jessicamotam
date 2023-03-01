@@ -73470,3 +73470,4 @@
 0994. 🚀 perf: reduce image load time
 0009. ✨ feat: enable dark mode toggle
 0473. 📚 docs: write FAQ section
+0251. ♻️ chore: update .gitignore
