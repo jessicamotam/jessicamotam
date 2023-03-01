@@ -22536,3 +22536,4 @@
 0656. 🎨 style: apply consistent indentation
 0309. 🔧 refactor: refactor quiz grading logic
 0376. 🎨 style: apply consistent indentation
+0457. 🐛 fix: handle 500 error in quiz API
