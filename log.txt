@@ -52323,3 +52323,4 @@
 0008. 🚀 perf: reduce image load time
 0670. ✨ feat: add export to CSV option
 0786. ✨ feat: enable dark mode toggle
+0911. ✅ test: increase coverage on auth module
