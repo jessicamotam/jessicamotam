@@ -9636,3 +9636,4 @@
 0385. ♻️ chore: clean up unused files
 0154. 🐛 fix: prevent crash on empty input
 0914. ✅ test: test user registration edge cases
+0331. 🐛 fix: fix broken CSS in mobile view
