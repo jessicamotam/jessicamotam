@@ -42965,3 +42965,4 @@
 0281. ✨ feat: support email verification
 0146. 🎨 style: apply consistent indentation
 0092. 🚀 perf: reduce image load time
+0107. 🐛 fix: prevent crash on empty input
