@@ -4127,3 +4127,4 @@
 0020. ✅ test: add integration test for /submit endpoint
 0178. ✨ feat: support email verification
 0052. 🎨 style: standardize quote style
+0441. 📚 docs: add API usage examples
