@@ -16589,3 +16589,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0679. ♻️ chore: bump dependencies
 0077. ♻️ chore: rename env.example
+0024. 📚 docs: write FAQ section
