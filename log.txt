@@ -85703,3 +85703,4 @@
 0799. ♻️ chore: clean up unused files
 0082. 🔧 refactor: refactor quiz grading logic
 0199. ✨ feat: create admin dashboard
+0981. 🚀 perf: lazy-load components
