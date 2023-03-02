@@ -26232,3 +26232,4 @@
 0115. 🚀 perf: reduce image load time
 0253. 📚 docs: update README with setup steps
 0440. 📚 docs: update README with setup steps
+0844. 📚 docs: update README with setup steps
