@@ -63775,3 +63775,4 @@
 0174. 📚 docs: clarify environment setup
 0785. ✨ feat: enable dark mode toggle
 0038. 🎨 style: rename variables for clarity
+0913. 🚀 perf: optimize database query for quiz results
