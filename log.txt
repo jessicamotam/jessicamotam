@@ -43266,3 +43266,4 @@
 0061. ✨ feat: create admin dashboard
 0995. ✅ test: mock database connection in test suite
 0931. 🚀 perf: reduce image load time
+0003. ✅ test: increase coverage on auth module
