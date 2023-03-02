@@ -88937,3 +88937,4 @@
 0731. 🎨 style: standardize quote style
 0640. ♻️ chore: bump dependencies
 0024. 📚 docs: write FAQ section
+0864. 🐛 fix: correct typo in registration form
