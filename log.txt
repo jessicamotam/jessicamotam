@@ -70521,3 +70521,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0682. ♻️ chore: rename env.example
 0284. ✨ feat: implement quiz timer feature
+0341. 🚀 perf: lazy-load components
