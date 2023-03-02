@@ -21681,3 +21681,4 @@
 0734. ✨ feat: add export to CSV option
 0864. 🐛 fix: correct typo in registration form
 0832. 🔧 refactor: remove redundant code blocks
+0893. 🐛 fix: handle 500 error in quiz API
