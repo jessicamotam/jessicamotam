@@ -60656,3 +60656,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0095. ✅ test: mock database connection in test suite
 0498. ✅ test: mock database connection in test suite
+0434. 📚 docs: document token refresh logic
