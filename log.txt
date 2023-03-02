@@ -69488,3 +69488,4 @@
 0512. 🚀 perf: reduce image load time
 0763. 🔧 refactor: organize models into subfolders
 0509. ♻️ chore: bump dependencies
+0383. 🐛 fix: fix broken CSS in mobile view
