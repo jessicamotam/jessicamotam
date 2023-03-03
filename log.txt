@@ -65040,3 +65040,4 @@
 0594. 🎨 style: reformat files with black
 0252. 🎨 style: remove trailing whitespace
 0022. 📚 docs: document token refresh logic
+0185. 📚 docs: write FAQ section
