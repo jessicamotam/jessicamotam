@@ -37011,3 +37011,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0478. 🐛 fix: resolve issue with date parsing
 0476. 🚀 perf: reduce image load time
+0854. ♻️ chore: rename env.example
