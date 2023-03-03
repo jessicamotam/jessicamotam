@@ -80044,3 +80044,4 @@
 0921. 🐛 fix: correct typo in registration form
 0667. ✨ feat: add export to CSV option
 0618. ✨ feat: support email verification
+0660. 🐛 fix: correct typo in registration form
