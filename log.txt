@@ -52620,3 +52620,4 @@
 0524. ♻️ chore: rename env.example
 0667. ✨ feat: add export to CSV option
 0533. ♻️ chore: add GitHub actions badge
+0558. ✨ feat: enable dark mode toggle
