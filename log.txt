@@ -42360,3 +42360,4 @@
 0734. ✨ feat: add export to CSV option
 0408. ♻️ chore: add GitHub actions badge
 0191. 🔧 refactor: refactor quiz grading logic
+0365. 🚀 perf: reduce image load time
