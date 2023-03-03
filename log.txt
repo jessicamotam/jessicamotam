@@ -6640,3 +6640,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0085. ✨ feat: support email verification
 0295. 🎨 style: remove trailing whitespace
+0598. 🔧 refactor: remove redundant code blocks
