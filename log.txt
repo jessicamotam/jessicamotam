@@ -63338,3 +63338,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0954. 🚀 perf: cache repeated calculations
 0234. ♻️ chore: rename env.example
+0759. 🔧 refactor: organize models into subfolders
