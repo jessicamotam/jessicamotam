@@ -17975,3 +17975,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0993. ✨ feat: implement quiz timer feature
 0905. ♻️ chore: bump dependencies
+0193. 🚀 perf: optimize database query for quiz results
