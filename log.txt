@@ -29853,3 +29853,4 @@
 0008. 🚀 perf: reduce image load time
 0544. 🔧 refactor: organize models into subfolders
 0165. 🎨 style: remove trailing whitespace
+0800. 🚀 perf: optimize database query for quiz results
