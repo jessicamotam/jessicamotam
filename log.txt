@@ -88837,3 +88837,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0539. 🔧 refactor: organize models into subfolders
 0956. 📚 docs: clarify environment setup
+0507. 🔧 refactor: clean up auth middleware
