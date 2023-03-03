@@ -81057,3 +81057,4 @@
 0670. ✨ feat: add export to CSV option
 0519. 📚 docs: document token refresh logic
 0036. 🔧 refactor: clean up auth middleware
+0166. 🚀 perf: cache repeated calculations
