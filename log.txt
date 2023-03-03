@@ -56083,3 +56083,4 @@
 0928. 🎨 style: apply consistent indentation
 0056. ♻️ chore: rename env.example
 0180. ✨ feat: add export to CSV option
+0096. 🐛 fix: prevent crash on empty input
