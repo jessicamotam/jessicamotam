@@ -12058,3 +12058,4 @@
 0217. 🚀 perf: reduce image load time
 0111. 📚 docs: update README with setup steps
 0656. 🎨 style: apply consistent indentation
+0895. ✨ feat: support email verification
