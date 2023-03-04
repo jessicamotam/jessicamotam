@@ -61935,3 +61935,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0119. 📚 docs: improve code comments in utils
 0862. ♻️ chore: bump dependencies
+0080. ✨ feat: support email verification
