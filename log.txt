@@ -74265,3 +74265,4 @@
 0173. 🚀 perf: cache repeated calculations
 0768. 🎨 style: remove trailing whitespace
 0115. 🚀 perf: reduce image load time
+0929. ✨ feat: support email verification
