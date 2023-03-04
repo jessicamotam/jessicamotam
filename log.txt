@@ -89068,3 +89068,4 @@
 0195. 📚 docs: clarify environment setup
 0915. 🚀 perf: cache repeated calculations
 0624. ✅ test: add unit test for quiz service
+0752. ✅ test: add integration test for /submit endpoint
