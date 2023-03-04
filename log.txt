@@ -49724,3 +49724,4 @@
 0569. 📚 docs: document token refresh logic
 0937. 🐛 fix: handle 500 error in quiz API
 0087. ✨ feat: add export to CSV option
+0383. 🐛 fix: fix broken CSS in mobile view
