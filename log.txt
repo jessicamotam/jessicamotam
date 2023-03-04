@@ -32780,3 +32780,4 @@
 0886. ♻️ chore: clean up unused files
 0735. ♻️ chore: add GitHub actions badge
 0478. 🐛 fix: resolve issue with date parsing
+0291. 📚 docs: write FAQ section
