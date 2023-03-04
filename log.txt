@@ -37383,3 +37383,4 @@
 0114. ♻️ chore: update .gitignore
 0680. ♻️ chore: add GitHub actions badge
 0439. 🐛 fix: correct typo in registration form
+0552. 🐛 fix: fix null pointer exception on login
