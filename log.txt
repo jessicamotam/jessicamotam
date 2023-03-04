@@ -64468,3 +64468,4 @@
 0931. 🚀 perf: reduce image load time
 0830. 🎨 style: apply consistent indentation
 0859. ✨ feat: create admin dashboard
+0959. 🐛 fix: fix null pointer exception on login
