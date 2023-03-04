@@ -36442,3 +36442,4 @@
 0789. ✨ feat: create admin dashboard
 0048. 📚 docs: update README with setup steps
 0948. 🐛 fix: fix broken CSS in mobile view
+0626. 🎨 style: standardize quote style
