@@ -78324,3 +78324,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0963. 🚀 perf: reduce image load time
 0338. ♻️ chore: add GitHub actions badge
+0348. ✅ test: test user registration edge cases
