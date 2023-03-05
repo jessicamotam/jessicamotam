@@ -14404,3 +14404,4 @@
 0707. 🎨 style: apply consistent indentation
 0197. 📚 docs: update README with setup steps
 0424. ✨ feat: add user authentication
+0270. ♻️ chore: rename env.example
