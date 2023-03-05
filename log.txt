@@ -37256,3 +37256,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0713. 🐛 fix: handle 500 error in quiz API
 0528. ♻️ chore: clean up unused files
+0756. ✨ feat: support email verification
