@@ -5230,3 +5230,4 @@
 0087. ✨ feat: add export to CSV option
 0339. 📚 docs: update README with setup steps
 0871. ✅ test: add integration test for /submit endpoint
+0480. ♻️ chore: add GitHub actions badge
