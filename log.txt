@@ -25797,3 +25797,4 @@
 0547. 📚 docs: write FAQ section
 0494. 🎨 style: rename variables for clarity
 0142. ✨ feat: implement quiz timer feature
+0621. 🔧 refactor: clean up auth middleware
