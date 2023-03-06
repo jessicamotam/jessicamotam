@@ -86239,3 +86239,4 @@
 0176. 🔧 refactor: remove redundant code blocks
 0294. 🐛 fix: prevent crash on empty input
 0789. ✨ feat: create admin dashboard
+0552. 🐛 fix: fix null pointer exception on login
