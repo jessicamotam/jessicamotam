@@ -62414,3 +62414,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0702. ✨ feat: add user authentication
 0028. 🎨 style: standardize quote style
+0788. 📚 docs: add API usage examples
