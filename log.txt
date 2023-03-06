@@ -54882,3 +54882,4 @@
 0826. 📚 docs: clarify environment setup
 0888. 🚀 perf: lazy-load components
 0942. ✅ test: increase coverage on auth module
+0477. 🐛 fix: fix broken CSS in mobile view
