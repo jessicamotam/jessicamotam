@@ -73897,3 +73897,4 @@
 0456. 🚀 perf: optimize database query for quiz results
 0117. ✅ test: increase coverage on auth module
 0833. ✨ feat: add user authentication
+0516. ✅ test: add unit test for quiz service
