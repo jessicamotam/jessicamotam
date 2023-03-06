@@ -6698,3 +6698,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0866. 📚 docs: add API usage examples
 0049. 🐛 fix: handle 500 error in quiz API
+0154. 🐛 fix: prevent crash on empty input
