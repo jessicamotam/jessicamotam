@@ -66403,3 +66403,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0093. ✅ test: add unit test for quiz service
 0910. 🎨 style: remove trailing whitespace
+0307. ✨ feat: support email verification
