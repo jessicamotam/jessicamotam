@@ -69643,3 +69643,4 @@
 0401. 🚀 perf: reduce image load time
 0993. ✨ feat: implement quiz timer feature
 0986. 📚 docs: document token refresh logic
+0121. ✨ feat: support email verification
