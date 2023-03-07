@@ -40480,3 +40480,4 @@
 0896. 🚀 perf: reduce image load time
 0090. ✅ test: increase coverage on auth module
 0804. ♻️ chore: add GitHub actions badge
+0222. 🐛 fix: handle 500 error in quiz API
