@@ -16517,3 +16517,4 @@
 0069. 🎨 style: rename variables for clarity
 0173. 🚀 perf: cache repeated calculations
 0012. 🚀 perf: cache repeated calculations
+0977. 🔧 refactor: organize models into subfolders
