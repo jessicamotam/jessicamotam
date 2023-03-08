@@ -44251,3 +44251,4 @@
 0239. 🎨 style: standardize quote style
 0858. ♻️ chore: clean up unused files
 0251. ♻️ chore: update .gitignore
+0639. 🐛 fix: correct typo in registration form
