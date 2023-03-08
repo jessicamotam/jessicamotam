@@ -19781,3 +19781,4 @@
 0660. 🐛 fix: correct typo in registration form
 0100. ♻️ chore: update .gitignore
 0732. ♻️ chore: add GitHub actions badge
+0442. 🎨 style: standardize quote style
