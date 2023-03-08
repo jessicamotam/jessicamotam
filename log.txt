@@ -90782,3 +90782,4 @@
 0656. 🎨 style: apply consistent indentation
 0718. 🐛 fix: resolve issue with date parsing
 0697. ♻️ chore: bump dependencies
+0400. 🐛 fix: fix null pointer exception on login
