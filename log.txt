@@ -50138,3 +50138,4 @@
 0003. ✅ test: increase coverage on auth module
 0594. 🎨 style: reformat files with black
 0736. 🐛 fix: fix null pointer exception on login
+0583. ✅ test: increase coverage on auth module
