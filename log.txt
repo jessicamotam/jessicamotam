@@ -59355,3 +59355,4 @@
 0390. 🎨 style: standardize quote style
 0722. 📚 docs: add API usage examples
 0561. 📚 docs: write FAQ section
+0254. 🚀 perf: reduce image load time
