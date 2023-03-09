@@ -37794,3 +37794,4 @@
 0134. ✨ feat: implement quiz timer feature
 0921. 🐛 fix: correct typo in registration form
 0063. 🐛 fix: handle 500 error in quiz API
+0710. 🐛 fix: fix broken CSS in mobile view
