@@ -50873,3 +50873,4 @@
 0694. 🎨 style: rename variables for clarity
 0460. 📚 docs: write FAQ section
 0615. 🐛 fix: correct typo in registration form
+0212. 🎨 style: standardize quote style
