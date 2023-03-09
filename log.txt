@@ -36689,3 +36689,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0115. 🚀 perf: reduce image load time
 0448. 🐛 fix: correct typo in registration form
+0056. ♻️ chore: rename env.example
