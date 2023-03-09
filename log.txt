@@ -25960,3 +25960,4 @@
 0697. ♻️ chore: bump dependencies
 0261. 🔧 refactor: refactor quiz grading logic
 0289. 🐛 fix: resolve issue with date parsing
+0791. 🔧 refactor: clean up auth middleware
