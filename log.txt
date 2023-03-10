@@ -90660,3 +90660,4 @@
 0785. ✨ feat: enable dark mode toggle
 0680. ♻️ chore: add GitHub actions badge
 0379. ✨ feat: support email verification
+0916. ♻️ chore: bump dependencies
