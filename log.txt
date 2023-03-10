@@ -41941,3 +41941,4 @@
 0637. 🎨 style: apply consistent indentation
 0222. 🐛 fix: handle 500 error in quiz API
 0221. ✨ feat: add user authentication
+0175. 📚 docs: add API usage examples
