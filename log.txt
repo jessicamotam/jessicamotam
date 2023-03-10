@@ -28289,3 +28289,4 @@
 0027. 📚 docs: clarify environment setup
 0158. 📚 docs: clarify environment setup
 0273. 🚀 perf: reduce image load time
+0397. 🐛 fix: handle 500 error in quiz API
