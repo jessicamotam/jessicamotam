@@ -8924,3 +8924,4 @@
 0496. ✅ test: add integration test for /submit endpoint
 0244. ✨ feat: add export to CSV option
 0968. 🎨 style: standardize quote style
+0429. ✨ feat: add user authentication
