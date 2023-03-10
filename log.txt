@@ -30263,3 +30263,4 @@
 0949. 📚 docs: write FAQ section
 0251. ♻️ chore: update .gitignore
 0056. ♻️ chore: rename env.example
+0749. ✨ feat: support email verification
