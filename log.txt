@@ -83282,3 +83282,4 @@
 0487. 🎨 style: reformat files with black
 0687. 🎨 style: remove trailing whitespace
 0167. 🚀 perf: reduce image load time
+0923. ✨ feat: support email verification
