@@ -15472,3 +15472,4 @@
 0667. ✨ feat: add export to CSV option
 0516. ✅ test: add unit test for quiz service
 0577. ✨ feat: implement quiz timer feature
+0122. ✨ feat: support email verification
