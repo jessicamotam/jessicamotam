@@ -70467,3 +70467,4 @@
 0035. ✅ test: increase coverage on auth module
 0434. 📚 docs: document token refresh logic
 0349. ✅ test: increase coverage on auth module
+0418. ✅ test: mock database connection in test suite
