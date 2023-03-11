@@ -77861,3 +77861,4 @@
 0458. ✨ feat: create admin dashboard
 0308. 🚀 perf: reduce image load time
 0675. 🔧 refactor: organize models into subfolders
+0258. 🐛 fix: prevent crash on empty input
