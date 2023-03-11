@@ -42579,3 +42579,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0747. 🔧 refactor: clean up auth middleware
 0744. 🔧 refactor: remove redundant code blocks
+0600. 🐛 fix: prevent crash on empty input
