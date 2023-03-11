@@ -1023,3 +1023,4 @@
 0677. 📚 docs: add API usage examples
 0115. 🚀 perf: reduce image load time
 0432. 🎨 style: apply consistent indentation
+0531. 🐛 fix: prevent crash on empty input
