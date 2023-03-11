@@ -7988,3 +7988,4 @@
 0350. 🚀 perf: cache repeated calculations
 0481. ✅ test: add unit test for quiz service
 0653. 🐛 fix: prevent crash on empty input
+0373. 📚 docs: document token refresh logic
