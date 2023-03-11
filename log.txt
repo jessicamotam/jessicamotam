@@ -30220,3 +30220,4 @@
 0831. 📚 docs: clarify environment setup
 0487. 🎨 style: reformat files with black
 0693. 📚 docs: add API usage examples
+0990. ♻️ chore: rename env.example
