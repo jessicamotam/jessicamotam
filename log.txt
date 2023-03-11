@@ -78833,3 +78833,4 @@
 0260. ✨ feat: create admin dashboard
 0975. 🎨 style: apply consistent indentation
 0455. ♻️ chore: clean up unused files
+0766. 🎨 style: reformat files with black
