@@ -6747,3 +6747,4 @@
 0424. ✨ feat: add user authentication
 0212. 🎨 style: standardize quote style
 0471. ✨ feat: support email verification
+0564. 📚 docs: clarify environment setup
