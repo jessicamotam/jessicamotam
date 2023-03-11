@@ -77444,3 +77444,4 @@
 0133. 🐛 fix: fix null pointer exception on login
 0793. 📚 docs: clarify environment setup
 0195. 📚 docs: clarify environment setup
+0815. 🔧 refactor: split large controller into smaller functions
