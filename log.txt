@@ -8464,3 +8464,4 @@
 0832. 🔧 refactor: remove redundant code blocks
 0928. 🎨 style: apply consistent indentation
 0643. 🎨 style: apply consistent indentation
+0041. 🐛 fix: fix broken CSS in mobile view
