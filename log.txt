@@ -48912,3 +48912,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0784. ♻️ chore: clean up unused files
 0076. 🎨 style: reformat files with black
+0292. 📚 docs: clarify environment setup
