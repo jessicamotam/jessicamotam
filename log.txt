@@ -86009,3 +86009,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 0634. 🎨 style: reformat files with black
 0704. 🚀 perf: cache repeated calculations
+0762. 🚀 perf: lazy-load components
