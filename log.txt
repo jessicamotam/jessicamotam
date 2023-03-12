@@ -22494,3 +22494,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0024. 📚 docs: write FAQ section
 0156. 🎨 style: rename variables for clarity
+0854. ♻️ chore: rename env.example
