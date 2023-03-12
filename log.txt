@@ -40691,3 +40691,4 @@
 0429. ✨ feat: add user authentication
 0697. ♻️ chore: bump dependencies
 0513. ♻️ chore: bump dependencies
+0571. 🔧 refactor: clean up auth middleware
