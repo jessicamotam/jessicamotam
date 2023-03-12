@@ -41188,3 +41188,4 @@
 0764. ✨ feat: add user authentication
 0858. ♻️ chore: clean up unused files
 0361. ✨ feat: support email verification
+0950. 🎨 style: reformat files with black
