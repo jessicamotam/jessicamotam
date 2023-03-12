@@ -28118,3 +28118,4 @@
 0960. ✅ test: increase coverage on auth module
 0413. ✅ test: add integration test for /submit endpoint
 0696. 🔧 refactor: clean up auth middleware
+0319. 🐛 fix: handle 500 error in quiz API
