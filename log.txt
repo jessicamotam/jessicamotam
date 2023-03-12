@@ -77259,3 +77259,4 @@
 0983. 🔧 refactor: split large controller into smaller functions
 0469. 🚀 perf: lazy-load components
 0790. 📚 docs: write FAQ section
+0929. ✨ feat: support email verification
