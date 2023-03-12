@@ -90011,3 +90011,4 @@
 0332. 🎨 style: standardize quote style
 0543. ✨ feat: support email verification
 0188. 🎨 style: apply consistent indentation
+0585. 🚀 perf: lazy-load components
