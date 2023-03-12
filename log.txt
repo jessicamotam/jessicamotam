@@ -82248,3 +82248,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0751. 🐛 fix: handle 500 error in quiz API
 0805. ♻️ chore: add GitHub actions badge
+0624. ✅ test: add unit test for quiz service
