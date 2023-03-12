@@ -77733,3 +77733,4 @@
 0792. 🎨 style: standardize quote style
 0688. 🚀 perf: reduce image load time
 0549. ✨ feat: enable dark mode toggle
+0472. 🐛 fix: fix null pointer exception on login
