@@ -56870,3 +56870,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0996. ✅ test: test user registration edge cases
 0320. 📚 docs: update README with setup steps
+0876. ♻️ chore: rename env.example
