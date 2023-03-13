@@ -38741,3 +38741,4 @@
 0679. ♻️ chore: bump dependencies
 0152. ✨ feat: add user authentication
 0110. 🐛 fix: prevent crash on empty input
+0021. ✨ feat: support email verification
