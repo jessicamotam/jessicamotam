@@ -73256,3 +73256,4 @@
 0102. ✨ feat: support email verification
 0593. 🐛 fix: correct typo in registration form
 0973. 🔧 refactor: organize models into subfolders
+0623. 🎨 style: standardize quote style
