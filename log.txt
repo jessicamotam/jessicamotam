@@ -6708,3 +6708,4 @@
 0401. 🚀 perf: reduce image load time
 0652. 🔧 refactor: organize models into subfolders
 0477. 🐛 fix: fix broken CSS in mobile view
+0727. ♻️ chore: add GitHub actions badge
