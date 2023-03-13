@@ -82583,3 +82583,4 @@
 0454. ♻️ chore: bump dependencies
 0316. 🐛 fix: fix broken CSS in mobile view
 0332. 🎨 style: standardize quote style
+0889. 🚀 perf: lazy-load components
