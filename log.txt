@@ -76359,3 +76359,4 @@
 0388. 🎨 style: reformat files with black
 0040. 🔧 refactor: clean up auth middleware
 0261. 🔧 refactor: refactor quiz grading logic
+0200. 🐛 fix: handle 500 error in quiz API
