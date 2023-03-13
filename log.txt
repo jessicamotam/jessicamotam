@@ -56251,3 +56251,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0953. 🎨 style: remove trailing whitespace
 0520. 🐛 fix: fix null pointer exception on login
+0023. 📚 docs: clarify environment setup
