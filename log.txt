@@ -43876,3 +43876,4 @@
 0942. ✅ test: increase coverage on auth module
 0444. ✅ test: add unit test for quiz service
 0272. 🔧 refactor: remove redundant code blocks
+0578. ✅ test: add integration test for /submit endpoint
