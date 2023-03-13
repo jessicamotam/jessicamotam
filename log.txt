@@ -25148,3 +25148,4 @@
 0215. 🎨 style: reformat files with black
 0837. 🚀 perf: cache repeated calculations
 0565. ♻️ chore: add GitHub actions badge
+0121. ✨ feat: support email verification
