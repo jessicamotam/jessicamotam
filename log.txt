@@ -26556,3 +26556,4 @@
 0198. 📚 docs: clarify environment setup
 0942. ✅ test: increase coverage on auth module
 0620. ✨ feat: implement quiz timer feature
+0231. 🔧 refactor: clean up auth middleware
