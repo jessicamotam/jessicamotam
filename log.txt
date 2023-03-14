@@ -12125,3 +12125,4 @@
 0974. ✨ feat: add export to CSV option
 0774. 🔧 refactor: refactor quiz grading logic
 0524. ♻️ chore: rename env.example
+0041. 🐛 fix: fix broken CSS in mobile view
