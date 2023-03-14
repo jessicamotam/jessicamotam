@@ -84549,3 +84549,4 @@
 0875. ✅ test: increase coverage on auth module
 0682. ♻️ chore: rename env.example
 0664. ✅ test: add unit test for quiz service
+0605. ✨ feat: support email verification
