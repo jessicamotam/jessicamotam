@@ -72127,3 +72127,4 @@
 0974. ✨ feat: add export to CSV option
 0193. 🚀 perf: optimize database query for quiz results
 0497. 🔧 refactor: refactor quiz grading logic
+0824. 🚀 perf: lazy-load components
