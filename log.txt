@@ -1928,3 +1928,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0041. 🐛 fix: fix broken CSS in mobile view
 0021. ✨ feat: support email verification
+0203. 🚀 perf: lazy-load components
