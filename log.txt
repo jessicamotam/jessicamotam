@@ -68631,3 +68631,4 @@
 0991. ♻️ chore: clean up unused files
 0729. 🔧 refactor: refactor quiz grading logic
 0026. 🔧 refactor: clean up auth middleware
+0678. ✨ feat: add user authentication
