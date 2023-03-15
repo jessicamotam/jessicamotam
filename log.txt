@@ -21046,3 +21046,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0841. 🚀 perf: optimize database query for quiz results
 0918. ✨ feat: enable dark mode toggle
+0141. 📚 docs: document token refresh logic
