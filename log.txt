@@ -24748,3 +24748,4 @@
 0685. ✅ test: test user registration edge cases
 0155. ✨ feat: create admin dashboard
 0303. 🎨 style: rename variables for clarity
+0450. 🐛 fix: fix broken CSS in mobile view
