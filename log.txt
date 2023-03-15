@@ -63284,3 +63284,4 @@
 0254. 🚀 perf: reduce image load time
 0178. ✨ feat: support email verification
 0095. ✅ test: mock database connection in test suite
+0473. 📚 docs: write FAQ section
