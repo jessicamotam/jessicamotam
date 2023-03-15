@@ -43490,3 +43490,4 @@
 0535. 📚 docs: write FAQ section
 0252. 🎨 style: remove trailing whitespace
 0028. 🎨 style: standardize quote style
+0642. 🚀 perf: optimize database query for quiz results
