@@ -18179,3 +18179,4 @@
 0863. 🐛 fix: correct typo in registration form
 0672. 🐛 fix: fix broken CSS in mobile view
 0483. 📚 docs: update README with setup steps
+0027. 📚 docs: clarify environment setup
