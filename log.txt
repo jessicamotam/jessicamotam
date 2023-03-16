@@ -40370,3 +40370,4 @@
 0287. 📚 docs: write FAQ section
 0775. 🐛 fix: fix null pointer exception on login
 0183. 🔧 refactor: split large controller into smaller functions
+0039. ✅ test: add integration test for /submit endpoint
