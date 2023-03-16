@@ -6254,3 +6254,4 @@
 0333. 🚀 perf: cache repeated calculations
 0316. 🐛 fix: fix broken CSS in mobile view
 0789. ✨ feat: create admin dashboard
+0159. 🚀 perf: lazy-load components
