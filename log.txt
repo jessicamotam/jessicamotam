@@ -73017,3 +73017,4 @@
 0486. ✨ feat: add export to CSV option
 0249. ✅ test: increase coverage on auth module
 0799. ♻️ chore: clean up unused files
+0927. ♻️ chore: bump dependencies
