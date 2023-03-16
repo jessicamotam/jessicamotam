@@ -20525,3 +20525,4 @@
 0862. ♻️ chore: bump dependencies
 0865. ♻️ chore: add GitHub actions badge
 0627. 📚 docs: document token refresh logic
+0571. 🔧 refactor: clean up auth middleware
