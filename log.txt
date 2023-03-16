@@ -71360,3 +71360,4 @@
 0659. 📚 docs: add API usage examples
 0880. 🐛 fix: fix broken CSS in mobile view
 0518. ✨ feat: support email verification
+0210. 🎨 style: apply consistent indentation
