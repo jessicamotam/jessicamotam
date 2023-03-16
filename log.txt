@@ -18634,3 +18634,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0128. ♻️ chore: rename env.example
 0748. 🚀 perf: optimize database query for quiz results
+0484. 🐛 fix: handle 500 error in quiz API
