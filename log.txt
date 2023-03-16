@@ -19581,3 +19581,4 @@
 0846. ✨ feat: implement quiz timer feature
 0670. ✨ feat: add export to CSV option
 0540. ♻️ chore: add GitHub actions badge
+0010. ✨ feat: add user authentication
