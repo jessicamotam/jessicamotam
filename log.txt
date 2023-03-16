@@ -63837,3 +63837,4 @@
 0933. 📚 docs: clarify environment setup
 0090. ✅ test: increase coverage on auth module
 0612. ✅ test: test user registration edge cases
+0788. 📚 docs: add API usage examples
