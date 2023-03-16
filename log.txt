@@ -26184,3 +26184,4 @@
 0178. ✨ feat: support email verification
 0022. 📚 docs: document token refresh logic
 0688. 🚀 perf: reduce image load time
+0412. ✅ test: increase coverage on auth module
