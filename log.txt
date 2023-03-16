@@ -35351,3 +35351,4 @@
 0882. 🚀 perf: optimize database query for quiz results
 0189. 📚 docs: clarify environment setup
 0450. 🐛 fix: fix broken CSS in mobile view
+0828. ♻️ chore: add GitHub actions badge
