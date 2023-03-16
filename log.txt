@@ -17230,3 +17230,4 @@
 0254. 🚀 perf: reduce image load time
 0490. ✨ feat: create admin dashboard
 0636. ✅ test: increase coverage on auth module
+0557. 🔧 refactor: clean up auth middleware
