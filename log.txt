@@ -82682,3 +82682,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0916. ♻️ chore: bump dependencies
 0427. ✅ test: mock database connection in test suite
+0803. ✅ test: mock database connection in test suite
