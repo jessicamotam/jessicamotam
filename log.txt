@@ -20457,3 +20457,4 @@
 0166. 🚀 perf: cache repeated calculations
 0528. ♻️ chore: clean up unused files
 0689. 🎨 style: reformat files with black
+0693. 📚 docs: add API usage examples
