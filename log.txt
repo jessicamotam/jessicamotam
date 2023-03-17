@@ -43487,3 +43487,4 @@
 0997. ✅ test: increase coverage on auth module
 0906. 📚 docs: add API usage examples
 0618. ✨ feat: support email verification
+0535. 📚 docs: write FAQ section
