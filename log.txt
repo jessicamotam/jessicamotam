@@ -366,3 +366,4 @@
 0048. 📚 docs: update README with setup steps
 0688. 🚀 perf: reduce image load time
 0310. 🔧 refactor: refactor quiz grading logic
+0084. 🐛 fix: handle 500 error in quiz API
