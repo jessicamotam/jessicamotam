@@ -55414,3 +55414,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0079. 🐛 fix: correct typo in registration form
 0544. 🔧 refactor: organize models into subfolders
+0595. ✨ feat: enable dark mode toggle
