@@ -6605,3 +6605,4 @@
 0826. 📚 docs: clarify environment setup
 0964. ♻️ chore: clean up unused files
 0828. ♻️ chore: add GitHub actions badge
+0189. 📚 docs: clarify environment setup
