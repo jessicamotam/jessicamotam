@@ -76343,3 +76343,4 @@
 0103. 🔧 refactor: remove redundant code blocks
 0473. 📚 docs: write FAQ section
 0474. ✅ test: add unit test for quiz service
+0661. ✅ test: add integration test for /submit endpoint
