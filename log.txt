@@ -23537,3 +23537,4 @@
 0070. ✨ feat: implement quiz timer feature
 0962. ✨ feat: create admin dashboard
 0405. ✅ test: mock database connection in test suite
+0488. ♻️ chore: add GitHub actions badge
