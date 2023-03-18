@@ -81569,3 +81569,4 @@
 0910. 🎨 style: remove trailing whitespace
 0921. 🐛 fix: correct typo in registration form
 0131. 📚 docs: write FAQ section
+0785. ✨ feat: enable dark mode toggle
