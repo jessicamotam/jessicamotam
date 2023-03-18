@@ -9134,3 +9134,4 @@
 0749. ✨ feat: support email verification
 0608. 🔧 refactor: remove redundant code blocks
 0979. 🎨 style: standardize quote style
+0258. 🐛 fix: prevent crash on empty input
