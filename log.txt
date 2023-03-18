@@ -48975,3 +48975,4 @@
 0971. 🎨 style: standardize quote style
 0898. 🐛 fix: fix broken CSS in mobile view
 0040. 🔧 refactor: clean up auth middleware
+0102. ✨ feat: support email verification
