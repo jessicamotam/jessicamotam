@@ -88196,3 +88196,4 @@
 0161. ✨ feat: create admin dashboard
 0352. ✨ feat: add export to CSV option
 0998. 🐛 fix: fix null pointer exception on login
+0541. 🐛 fix: correct typo in registration form
