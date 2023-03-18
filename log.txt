@@ -79199,3 +79199,4 @@
 0555. ✨ feat: create admin dashboard
 0834. ✅ test: increase coverage on auth module
 0612. ✅ test: test user registration edge cases
+0522. 🐛 fix: handle 500 error in quiz API
