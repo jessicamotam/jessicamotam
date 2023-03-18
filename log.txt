@@ -27078,3 +27078,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0719. 🎨 style: apply consistent indentation
 0534. 🔧 refactor: split large controller into smaller functions
+0879. 🎨 style: standardize quote style
