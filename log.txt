@@ -16484,3 +16484,4 @@
 0862. ♻️ chore: bump dependencies
 0960. ✅ test: increase coverage on auth module
 0940. 📚 docs: document token refresh logic
+0131. 📚 docs: write FAQ section
