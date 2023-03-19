@@ -78993,3 +78993,4 @@
 0905. ♻️ chore: bump dependencies
 0035. ✅ test: increase coverage on auth module
 0358. 🚀 perf: reduce image load time
+0084. 🐛 fix: handle 500 error in quiz API
