@@ -40330,3 +40330,4 @@
 0090. ✅ test: increase coverage on auth module
 0753. 🔧 refactor: remove redundant code blocks
 0777. 📚 docs: document token refresh logic
+0177. 📚 docs: add API usage examples
