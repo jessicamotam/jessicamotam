@@ -28059,3 +28059,4 @@
 0300. ✨ feat: add export to CSV option
 0701. 🔧 refactor: clean up auth middleware
 0553. 🐛 fix: correct typo in registration form
+0050. ✨ feat: enable dark mode toggle
