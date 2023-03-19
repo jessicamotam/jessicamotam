@@ -31715,3 +31715,4 @@
 0157. ✅ test: mock database connection in test suite
 0471. ✨ feat: support email verification
 0011. ✅ test: add unit test for quiz service
+0197. 📚 docs: update README with setup steps
