@@ -58239,3 +58239,4 @@
 0811. 🎨 style: reformat files with black
 0580. ♻️ chore: bump dependencies
 0962. ✨ feat: create admin dashboard
+0208. 🔧 refactor: clean up auth middleware
