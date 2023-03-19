@@ -45090,3 +45090,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0465. 🎨 style: rename variables for clarity
 0062. ♻️ chore: update .gitignore
+0781. 🚀 perf: reduce image load time
