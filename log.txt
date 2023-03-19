@@ -81335,3 +81335,4 @@
 0471. ✨ feat: support email verification
 0834. ✅ test: increase coverage on auth module
 0323. 📚 docs: clarify environment setup
+0226. 🚀 perf: lazy-load components
