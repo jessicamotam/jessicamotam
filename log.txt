@@ -4625,3 +4625,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0161. ✨ feat: create admin dashboard
 0971. 🎨 style: standardize quote style
+0833. ✨ feat: add user authentication
