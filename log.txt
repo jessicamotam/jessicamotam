@@ -81618,3 +81618,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0208. 🔧 refactor: clean up auth middleware
 0257. 📚 docs: clarify environment setup
+0988. 🐛 fix: fix broken CSS in mobile view
