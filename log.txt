@@ -71743,3 +71743,4 @@
 0247. 🎨 style: apply consistent indentation
 0856. 🐛 fix: fix null pointer exception on login
 0724. ✅ test: mock database connection in test suite
+0668. 🚀 perf: optimize database query for quiz results
