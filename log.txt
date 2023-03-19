@@ -38300,3 +38300,4 @@
 0695. ✨ feat: create admin dashboard
 0109. 🚀 perf: lazy-load components
 0013. ✅ test: increase coverage on auth module
+0088. 📚 docs: add API usage examples
