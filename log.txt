@@ -60248,3 +60248,4 @@
 0569. 📚 docs: document token refresh logic
 0174. 📚 docs: clarify environment setup
 0910. 🎨 style: remove trailing whitespace
+0541. 🐛 fix: correct typo in registration form
