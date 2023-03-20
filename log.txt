@@ -73545,3 +73545,4 @@
 0405. ✅ test: mock database connection in test suite
 0291. 📚 docs: write FAQ section
 0963. 🚀 perf: reduce image load time
+0790. 📚 docs: write FAQ section
