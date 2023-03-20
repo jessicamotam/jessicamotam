@@ -76160,3 +76160,4 @@
 0986. 📚 docs: document token refresh logic
 0816. 🔧 refactor: organize models into subfolders
 0764. ✨ feat: add user authentication
+0231. 🔧 refactor: clean up auth middleware
