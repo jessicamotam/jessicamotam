@@ -1867,3 +1867,4 @@
 0974. ✨ feat: add export to CSV option
 0479. 🐛 fix: fix null pointer exception on login
 0697. ♻️ chore: bump dependencies
+0205. 📚 docs: update README with setup steps
