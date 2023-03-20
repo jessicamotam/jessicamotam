@@ -45816,3 +45816,4 @@
 0911. ✅ test: increase coverage on auth module
 0558. ✨ feat: enable dark mode toggle
 0684. 🚀 perf: reduce image load time
+0200. 🐛 fix: handle 500 error in quiz API
