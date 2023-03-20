@@ -12409,3 +12409,4 @@
 0101. 📚 docs: clarify environment setup
 0102. ✨ feat: support email verification
 0678. ✨ feat: add user authentication
+0339. 📚 docs: update README with setup steps
