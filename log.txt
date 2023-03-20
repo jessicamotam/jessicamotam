@@ -37951,3 +37951,4 @@
 0432. 🎨 style: apply consistent indentation
 0133. 🐛 fix: fix null pointer exception on login
 0834. ✅ test: increase coverage on auth module
+0195. 📚 docs: clarify environment setup
