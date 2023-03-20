@@ -87708,3 +87708,4 @@
 0503. ♻️ chore: rename env.example
 0482. ✨ feat: add export to CSV option
 0670. ✨ feat: add export to CSV option
+0923. ✨ feat: support email verification
