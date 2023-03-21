@@ -88698,3 +88698,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0660. 🐛 fix: correct typo in registration form
 0527. 🎨 style: remove trailing whitespace
+0442. 🎨 style: standardize quote style
