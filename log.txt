@@ -2433,3 +2433,4 @@
 0762. 🚀 perf: lazy-load components
 0331. 🐛 fix: fix broken CSS in mobile view
 0561. 📚 docs: write FAQ section
+0133. 🐛 fix: fix null pointer exception on login
