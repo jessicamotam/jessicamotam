@@ -84785,3 +84785,4 @@
 0525. ✅ test: mock database connection in test suite
 0582. ✨ feat: add export to CSV option
 0625. 🐛 fix: handle 500 error in quiz API
+0451. ✨ feat: support email verification
