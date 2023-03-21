@@ -14444,3 +14444,4 @@
 0619. ✨ feat: create admin dashboard
 0114. ♻️ chore: update .gitignore
 0763. 🔧 refactor: organize models into subfolders
+0085. ✨ feat: support email verification
