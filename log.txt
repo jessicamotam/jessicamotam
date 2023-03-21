@@ -12201,3 +12201,4 @@
 0059. ♻️ chore: bump dependencies
 0750. 🎨 style: apply consistent indentation
 0931. 🚀 perf: reduce image load time
+0733. 🐛 fix: fix null pointer exception on login
