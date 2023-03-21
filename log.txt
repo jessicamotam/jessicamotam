@@ -21849,3 +21849,4 @@
 0109. 🚀 perf: lazy-load components
 0033. 🎨 style: apply consistent indentation
 0084. 🐛 fix: handle 500 error in quiz API
+0775. 🐛 fix: fix null pointer exception on login
