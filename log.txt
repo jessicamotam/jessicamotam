@@ -65206,3 +65206,4 @@
 0279. ✨ feat: support email verification
 0547. 📚 docs: write FAQ section
 0579. 📚 docs: clarify environment setup
+0322. 🔧 refactor: split large controller into smaller functions
