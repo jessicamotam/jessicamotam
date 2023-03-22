@@ -41116,3 +41116,4 @@
 0387. ✨ feat: enable dark mode toggle
 0185. 📚 docs: write FAQ section
 0244. ✨ feat: add export to CSV option
+0625. 🐛 fix: handle 500 error in quiz API
