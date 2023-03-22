@@ -72402,3 +72402,4 @@
 0830. 🎨 style: apply consistent indentation
 0947. 📚 docs: write FAQ section
 0995. ✅ test: mock database connection in test suite
+0653. 🐛 fix: prevent crash on empty input
