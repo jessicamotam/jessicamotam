@@ -79448,3 +79448,4 @@
 0667. ✨ feat: add export to CSV option
 0879. 🎨 style: standardize quote style
 0428. 🐛 fix: fix null pointer exception on login
+0908. ♻️ chore: bump dependencies
