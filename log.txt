@@ -37032,3 +37032,4 @@
 0421. 🔧 refactor: split large controller into smaller functions
 0795. 📚 docs: update README with setup steps
 0435. ✅ test: add unit test for quiz service
+0692. ✅ test: add integration test for /submit endpoint
