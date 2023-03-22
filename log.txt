@@ -73238,3 +73238,4 @@
 0377. ✨ feat: add user authentication
 0956. 📚 docs: clarify environment setup
 0251. ♻️ chore: update .gitignore
+0557. 🔧 refactor: clean up auth middleware
