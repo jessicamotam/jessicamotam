@@ -35220,3 +35220,4 @@
 0185. 📚 docs: write FAQ section
 0989. 📚 docs: write FAQ section
 0551. 📚 docs: write FAQ section
+0436. ✅ test: add integration test for /submit endpoint
