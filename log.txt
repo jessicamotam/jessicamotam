@@ -29260,3 +29260,4 @@
 0334. 🚀 perf: cache repeated calculations
 0858. ♻️ chore: clean up unused files
 0778. 📚 docs: write FAQ section
+0737. 🐛 fix: handle 500 error in quiz API
