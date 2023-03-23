@@ -68484,3 +68484,4 @@
 0308. 🚀 perf: reduce image load time
 0187. ✨ feat: support email verification
 0979. 🎨 style: standardize quote style
+0939. 📚 docs: update README with setup steps
