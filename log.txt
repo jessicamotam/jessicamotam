@@ -45596,3 +45596,4 @@
 0627. 📚 docs: document token refresh logic
 0630. 🚀 perf: lazy-load components
 0354. 📚 docs: add API usage examples
+0666. 🐛 fix: fix broken CSS in mobile view
