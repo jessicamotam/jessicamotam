@@ -9183,3 +9183,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0763. 🔧 refactor: organize models into subfolders
 0769. ✨ feat: create admin dashboard
+0921. 🐛 fix: correct typo in registration form
