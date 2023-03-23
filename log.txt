@@ -71655,3 +71655,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0262. 🎨 style: remove trailing whitespace
 0748. 🚀 perf: optimize database query for quiz results
+0281. ✨ feat: support email verification
