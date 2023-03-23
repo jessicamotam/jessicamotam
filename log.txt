@@ -36596,3 +36596,4 @@
 0360. ✨ feat: add export to CSV option
 0620. ✨ feat: implement quiz timer feature
 0900. 🐛 fix: handle 500 error in quiz API
+0405. ✅ test: mock database connection in test suite
