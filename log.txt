@@ -68918,3 +68918,4 @@
 0789. ✨ feat: create admin dashboard
 0678. ✨ feat: add user authentication
 0683. ✅ test: mock database connection in test suite
+0438. ♻️ chore: bump dependencies
