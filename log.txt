@@ -87832,3 +87832,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0576. ♻️ chore: update .gitignore
 0865. ♻️ chore: add GitHub actions badge
+0160. ♻️ chore: bump dependencies
