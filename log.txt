@@ -60882,3 +60882,4 @@
 0724. ✅ test: mock database connection in test suite
 0495. 🔧 refactor: remove redundant code blocks
 0013. ✅ test: increase coverage on auth module
+0557. 🔧 refactor: clean up auth middleware
