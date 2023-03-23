@@ -83946,3 +83946,4 @@
 0441. 📚 docs: add API usage examples
 0832. 🔧 refactor: remove redundant code blocks
 0268. 🐛 fix: prevent crash on empty input
+0923. ✨ feat: support email verification
