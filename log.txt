@@ -776,3 +776,4 @@
 0524. ♻️ chore: rename env.example
 0290. ✅ test: test user registration edge cases
 0699. 🎨 style: standardize quote style
+0828. ♻️ chore: add GitHub actions badge
