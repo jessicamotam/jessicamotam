@@ -40701,3 +40701,4 @@
 0447. ♻️ chore: bump dependencies
 0019. ✨ feat: enable dark mode toggle
 0339. 📚 docs: update README with setup steps
+0974. ✨ feat: add export to CSV option
