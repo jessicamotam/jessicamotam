@@ -50441,3 +50441,4 @@
 0185. 📚 docs: write FAQ section
 0351. ✨ feat: add export to CSV option
 0258. 🐛 fix: prevent crash on empty input
+0384. 📚 docs: clarify environment setup
