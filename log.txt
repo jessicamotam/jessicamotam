@@ -3961,3 +3961,4 @@
 0279. ✨ feat: support email verification
 0929. ✨ feat: support email verification
 0685. ✅ test: test user registration edge cases
+0450. 🐛 fix: fix broken CSS in mobile view
