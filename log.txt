@@ -68511,3 +68511,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0337. 📚 docs: document token refresh logic
 0738. 🐛 fix: prevent crash on empty input
+0329. 📚 docs: update README with setup steps
