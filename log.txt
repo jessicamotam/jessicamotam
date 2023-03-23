@@ -13961,3 +13961,4 @@
 0529. 📚 docs: write FAQ section
 0758. 🚀 perf: optimize database query for quiz results
 0512. 🚀 perf: reduce image load time
+0879. 🎨 style: standardize quote style
