@@ -21184,3 +21184,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0678. ✨ feat: add user authentication
 0879. 🎨 style: standardize quote style
+0986. 📚 docs: document token refresh logic
