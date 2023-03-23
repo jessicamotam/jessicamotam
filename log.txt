@@ -84064,3 +84064,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0658. 🎨 style: rename variables for clarity
 0624. ✅ test: add unit test for quiz service
+0234. ♻️ chore: rename env.example
