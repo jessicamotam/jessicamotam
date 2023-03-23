@@ -13906,3 +13906,4 @@
 0281. ✨ feat: support email verification
 0240. 🔧 refactor: remove redundant code blocks
 0496. ✅ test: add integration test for /submit endpoint
+0989. 📚 docs: write FAQ section
