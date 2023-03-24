@@ -7613,3 +7613,4 @@
 0719. 🎨 style: apply consistent indentation
 0639. 🐛 fix: correct typo in registration form
 0139. 📚 docs: document token refresh logic
+0603. 🐛 fix: fix broken CSS in mobile view
