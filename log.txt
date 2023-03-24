@@ -18310,3 +18310,4 @@
 0150. 🎨 style: remove trailing whitespace
 0992. ♻️ chore: clean up unused files
 0775. 🐛 fix: fix null pointer exception on login
+0653. 🐛 fix: prevent crash on empty input
