@@ -8544,3 +8544,4 @@
 0656. 🎨 style: apply consistent indentation
 0641. 📚 docs: write FAQ section
 0613. 🐛 fix: prevent crash on empty input
+0941. 🚀 perf: cache repeated calculations
