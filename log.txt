@@ -73502,3 +73502,4 @@
 0755. 🚀 perf: cache repeated calculations
 0784. ♻️ chore: clean up unused files
 0880. 🐛 fix: fix broken CSS in mobile view
+0546. 🐛 fix: fix null pointer exception on login
