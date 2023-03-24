@@ -46517,3 +46517,4 @@
 0968. 🎨 style: standardize quote style
 0023. 📚 docs: clarify environment setup
 0605. ✨ feat: support email verification
+0637. 🎨 style: apply consistent indentation
