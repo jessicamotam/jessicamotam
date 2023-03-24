@@ -86865,3 +86865,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0756. ✨ feat: support email verification
 0202. 🔧 refactor: refactor quiz grading logic
+0589. 🐛 fix: fix broken CSS in mobile view
