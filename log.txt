@@ -28120,3 +28120,4 @@
 0696. 🔧 refactor: clean up auth middleware
 0319. 🐛 fix: handle 500 error in quiz API
 0745. ✅ test: add unit test for quiz service
+0948. 🐛 fix: fix broken CSS in mobile view
