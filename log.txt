@@ -86863,3 +86863,4 @@
 0050. ✨ feat: enable dark mode toggle
 0414. 🔧 refactor: remove redundant code blocks
 0967. ♻️ chore: add GitHub actions badge
+0756. ✨ feat: support email verification
