@@ -51027,3 +51027,4 @@
 0960. ✅ test: increase coverage on auth module
 0283. ♻️ chore: add GitHub actions badge
 0639. 🐛 fix: correct typo in registration form
+0895. ✨ feat: support email verification
