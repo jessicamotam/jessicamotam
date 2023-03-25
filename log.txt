@@ -64423,3 +64423,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0771. 🚀 perf: cache repeated calculations
 0710. 🐛 fix: fix broken CSS in mobile view
+0237. 🎨 style: standardize quote style
