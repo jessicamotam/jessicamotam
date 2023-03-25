@@ -80454,3 +80454,4 @@
 0820. 📚 docs: add API usage examples
 0288. 🔧 refactor: refactor quiz grading logic
 0397. 🐛 fix: handle 500 error in quiz API
+0548. 📚 docs: write FAQ section
