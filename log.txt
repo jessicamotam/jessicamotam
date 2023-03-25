@@ -641,3 +641,4 @@
 0412. ✅ test: increase coverage on auth module
 0474. ✅ test: add unit test for quiz service
 0181. ♻️ chore: add GitHub actions badge
+0223. 🔧 refactor: remove redundant code blocks
