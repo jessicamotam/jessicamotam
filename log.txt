@@ -72204,3 +72204,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0401. 🚀 perf: reduce image load time
 0828. ♻️ chore: add GitHub actions badge
+0598. 🔧 refactor: remove redundant code blocks
