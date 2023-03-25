@@ -73292,3 +73292,4 @@
 0131. 📚 docs: write FAQ section
 0205. 📚 docs: update README with setup steps
 0471. ✨ feat: support email verification
+0479. 🐛 fix: fix null pointer exception on login
