@@ -28708,3 +28708,4 @@
 0526. ✨ feat: add user authentication
 0085. ✨ feat: support email verification
 0297. 🎨 style: remove trailing whitespace
+0888. 🚀 perf: lazy-load components
