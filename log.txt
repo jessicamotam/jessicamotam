@@ -14956,3 +14956,4 @@
 0859. ✨ feat: create admin dashboard
 0816. 🔧 refactor: organize models into subfolders
 0507. 🔧 refactor: clean up auth middleware
+0403. ✅ test: mock database connection in test suite
