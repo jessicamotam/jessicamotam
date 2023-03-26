@@ -90845,3 +90845,4 @@
 0038. 🎨 style: rename variables for clarity
 0659. 📚 docs: add API usage examples
 0573. ✅ test: add integration test for /submit endpoint
+0671. 🐛 fix: fix null pointer exception on login
