@@ -65813,3 +65813,4 @@
 0028. 🎨 style: standardize quote style
 0451. ✨ feat: support email verification
 0527. 🎨 style: remove trailing whitespace
+0433. 🐛 fix: prevent crash on empty input
