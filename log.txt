@@ -70959,3 +70959,4 @@
 0349. ✅ test: increase coverage on auth module
 0954. 🚀 perf: cache repeated calculations
 0318. 🔧 refactor: refactor quiz grading logic
+0699. 🎨 style: standardize quote style
