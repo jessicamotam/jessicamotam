@@ -9750,3 +9750,4 @@
 0843. 📚 docs: document token refresh logic
 0381. ♻️ chore: clean up unused files
 0371. ✅ test: add integration test for /submit endpoint
+0484. 🐛 fix: handle 500 error in quiz API
