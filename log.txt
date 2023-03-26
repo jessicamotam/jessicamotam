@@ -73249,3 +73249,4 @@
 0766. 🎨 style: reformat files with black
 0148. 🔧 refactor: organize models into subfolders
 0596. ♻️ chore: update .gitignore
+0780. 📚 docs: add API usage examples
