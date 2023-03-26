@@ -79916,3 +79916,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0789. ✨ feat: create admin dashboard
 0840. 🔧 refactor: refactor quiz grading logic
+0224. 🐛 fix: fix broken CSS in mobile view
