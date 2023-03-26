@@ -68059,3 +68059,4 @@
 0102. ✨ feat: support email verification
 0653. 🐛 fix: prevent crash on empty input
 0054. ♻️ chore: update .gitignore
+0843. 📚 docs: document token refresh logic
