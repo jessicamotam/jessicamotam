@@ -6964,3 +6964,4 @@
 0706. ✨ feat: support email verification
 0899. 🚀 perf: cache repeated calculations
 0630. 🚀 perf: lazy-load components
+0131. 📚 docs: write FAQ section
