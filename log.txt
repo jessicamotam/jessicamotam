@@ -14936,3 +14936,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0920. 🔧 refactor: organize models into subfolders
 0560. 🎨 style: rename variables for clarity
+0243. 🔧 refactor: clean up auth middleware
