@@ -168,3 +168,4 @@
 0019. ✨ feat: enable dark mode toggle
 0595. ✨ feat: enable dark mode toggle
 0068. 🐛 fix: fix null pointer exception on login
+0621. 🔧 refactor: clean up auth middleware
