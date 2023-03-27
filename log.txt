@@ -83023,3 +83023,4 @@
 0108. 🎨 style: remove trailing whitespace
 0104. 🎨 style: apply consistent indentation
 0087. ✨ feat: add export to CSV option
+0488. ♻️ chore: add GitHub actions badge
