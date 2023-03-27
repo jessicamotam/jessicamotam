@@ -7688,3 +7688,4 @@
 0141. 📚 docs: document token refresh logic
 0765. ♻️ chore: clean up unused files
 0663. 🚀 perf: reduce image load time
+0050. ✨ feat: enable dark mode toggle
