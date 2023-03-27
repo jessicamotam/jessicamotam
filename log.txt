@@ -8400,3 +8400,4 @@
 0766. 🎨 style: reformat files with black
 0369. 🎨 style: standardize quote style
 0010. ✨ feat: add user authentication
+0788. 📚 docs: add API usage examples
