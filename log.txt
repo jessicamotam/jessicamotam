@@ -85203,3 +85203,4 @@
 0153. ♻️ chore: rename env.example
 0487. 🎨 style: reformat files with black
 0250. 📚 docs: update README with setup steps
+0795. 📚 docs: update README with setup steps
