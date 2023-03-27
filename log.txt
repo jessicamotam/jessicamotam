@@ -49905,3 +49905,4 @@
 0156. 🎨 style: rename variables for clarity
 0022. 📚 docs: document token refresh logic
 0861. ♻️ chore: clean up unused files
+0529. 📚 docs: write FAQ section
