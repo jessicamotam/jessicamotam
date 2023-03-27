@@ -66356,3 +66356,4 @@
 0749. ✨ feat: support email verification
 0852. ✨ feat: enable dark mode toggle
 0019. ✨ feat: enable dark mode toggle
+0880. 🐛 fix: fix broken CSS in mobile view
