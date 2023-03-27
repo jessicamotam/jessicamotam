@@ -44998,3 +44998,4 @@
 0583. ✅ test: increase coverage on auth module
 0207. 🐛 fix: prevent crash on empty input
 0408. ♻️ chore: add GitHub actions badge
+0623. 🎨 style: standardize quote style
