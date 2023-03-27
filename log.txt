@@ -82956,3 +82956,4 @@
 0115. 🚀 perf: reduce image load time
 0996. ✅ test: test user registration edge cases
 0477. 🐛 fix: fix broken CSS in mobile view
+0471. ✨ feat: support email verification
