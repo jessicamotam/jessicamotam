@@ -46297,3 +46297,4 @@
 0553. 🐛 fix: correct typo in registration form
 0037. 🐛 fix: correct typo in registration form
 0122. ✨ feat: support email verification
+0371. ✅ test: add integration test for /submit endpoint
