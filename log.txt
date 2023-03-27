@@ -48301,3 +48301,4 @@
 0091. ✨ feat: add user authentication
 0574. ✨ feat: enable dark mode toggle
 0890. 🔧 refactor: organize models into subfolders
+0358. 🚀 perf: reduce image load time
