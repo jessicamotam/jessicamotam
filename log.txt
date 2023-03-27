@@ -80834,3 +80834,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0822. 🔧 refactor: remove redundant code blocks
 0048. 📚 docs: update README with setup steps
+0258. 🐛 fix: prevent crash on empty input
