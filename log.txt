@@ -58556,3 +58556,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0143. ✨ feat: implement quiz timer feature
 0192. ✨ feat: enable dark mode toggle
+0736. 🐛 fix: fix null pointer exception on login
