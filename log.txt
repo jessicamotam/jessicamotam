@@ -9946,3 +9946,4 @@
 0592. 📚 docs: add API usage examples
 0336. ✨ feat: add export to CSV option
 0699. 🎨 style: standardize quote style
+0048. 📚 docs: update README with setup steps
