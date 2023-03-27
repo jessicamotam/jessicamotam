@@ -43334,3 +43334,4 @@
 0585. 🚀 perf: lazy-load components
 0424. ✨ feat: add user authentication
 0376. 🎨 style: apply consistent indentation
+0621. 🔧 refactor: clean up auth middleware
