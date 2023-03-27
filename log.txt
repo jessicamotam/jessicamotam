@@ -10214,3 +10214,4 @@
 0611. ✅ test: test user registration edge cases
 0669. ✨ feat: enable dark mode toggle
 0003. ✅ test: increase coverage on auth module
+0616. 🚀 perf: lazy-load components
