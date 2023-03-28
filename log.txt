@@ -15836,3 +15836,4 @@
 0939. 📚 docs: update README with setup steps
 0315. ✅ test: add integration test for /submit endpoint
 0419. 🎨 style: remove trailing whitespace
+0081. 🐛 fix: fix null pointer exception on login
