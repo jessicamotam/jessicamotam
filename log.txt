@@ -63247,3 +63247,4 @@
 0487. 🎨 style: reformat files with black
 0797. 📚 docs: add API usage examples
 0372. ✨ feat: add user authentication
+0844. 📚 docs: update README with setup steps
