@@ -72785,3 +72785,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0188. 🎨 style: apply consistent indentation
 0219. ✅ test: increase coverage on auth module
+0263. 📚 docs: add API usage examples
