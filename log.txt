@@ -16502,3 +16502,4 @@
 0373. 📚 docs: document token refresh logic
 0208. 🔧 refactor: clean up auth middleware
 0849. 🐛 fix: correct typo in registration form
+0157. ✅ test: mock database connection in test suite
