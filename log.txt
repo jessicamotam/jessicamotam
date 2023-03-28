@@ -58003,3 +58003,4 @@
 0947. 📚 docs: write FAQ section
 0230. ✨ feat: create admin dashboard
 0477. 🐛 fix: fix broken CSS in mobile view
+0971. 🎨 style: standardize quote style
