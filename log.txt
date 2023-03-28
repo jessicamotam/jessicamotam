@@ -41428,3 +41428,4 @@
 0169. 📚 docs: add API usage examples
 0185. 📚 docs: write FAQ section
 0290. ✅ test: test user registration edge cases
+0391. 🐛 fix: fix null pointer exception on login
