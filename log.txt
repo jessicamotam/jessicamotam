@@ -22697,3 +22697,4 @@
 0198. 📚 docs: clarify environment setup
 0372. ✨ feat: add user authentication
 0829. 🔧 refactor: organize models into subfolders
+0911. ✅ test: increase coverage on auth module
