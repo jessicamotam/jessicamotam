@@ -6195,3 +6195,4 @@
 0707. 🎨 style: apply consistent indentation
 0155. ✨ feat: create admin dashboard
 0147. ♻️ chore: bump dependencies
+0533. ♻️ chore: add GitHub actions badge
