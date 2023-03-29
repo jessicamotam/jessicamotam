@@ -6403,3 +6403,4 @@
 0256. ✅ test: mock database connection in test suite
 0059. ♻️ chore: bump dependencies
 0154. 🐛 fix: prevent crash on empty input
+0596. ♻️ chore: update .gitignore
