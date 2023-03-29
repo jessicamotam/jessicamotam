@@ -12255,3 +12255,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0236. 🔧 refactor: remove redundant code blocks
 0204. 🎨 style: standardize quote style
+0442. 🎨 style: standardize quote style
