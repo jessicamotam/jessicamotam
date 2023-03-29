@@ -26546,3 +26546,4 @@
 0186. ✅ test: test user registration edge cases
 0360. ✨ feat: add export to CSV option
 0289. 🐛 fix: resolve issue with date parsing
+0989. 📚 docs: write FAQ section
