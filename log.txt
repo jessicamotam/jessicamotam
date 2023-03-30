@@ -8237,3 +8237,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0992. ♻️ chore: clean up unused files
 0083. 🎨 style: reformat files with black
+0748. 🚀 perf: optimize database query for quiz results
