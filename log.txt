@@ -79236,3 +79236,4 @@
 0052. 🎨 style: standardize quote style
 0589. 🐛 fix: fix broken CSS in mobile view
 0307. ✨ feat: support email verification
+0626. 🎨 style: standardize quote style
