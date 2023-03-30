@@ -80155,3 +80155,4 @@
 0054. ♻️ chore: update .gitignore
 0469. 🚀 perf: lazy-load components
 0916. ♻️ chore: bump dependencies
+0231. 🔧 refactor: clean up auth middleware
