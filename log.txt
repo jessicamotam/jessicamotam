@@ -16721,3 +16721,4 @@
 0190. 🎨 style: rename variables for clarity
 0850. ♻️ chore: rename env.example
 0265. 🎨 style: reformat files with black
+0903. ✅ test: mock database connection in test suite
