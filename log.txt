@@ -72666,3 +72666,4 @@
 0266. 🔧 refactor: remove redundant code blocks
 0672. 🐛 fix: fix broken CSS in mobile view
 0063. 🐛 fix: handle 500 error in quiz API
+0600. 🐛 fix: prevent crash on empty input
