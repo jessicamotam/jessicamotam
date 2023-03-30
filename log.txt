@@ -52299,3 +52299,4 @@
 0482. ✨ feat: add export to CSV option
 0949. 📚 docs: write FAQ section
 0687. 🎨 style: remove trailing whitespace
+0550. 🔧 refactor: split large controller into smaller functions
