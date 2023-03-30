@@ -9205,3 +9205,4 @@
 0244. ✨ feat: add export to CSV option
 0878. 🔧 refactor: split large controller into smaller functions
 0772. 🐛 fix: fix null pointer exception on login
+0368. 🚀 perf: lazy-load components
