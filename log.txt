@@ -26970,3 +26970,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0286. ✅ test: mock database connection in test suite
 0104. 🎨 style: apply consistent indentation
+0018. 🔧 refactor: organize models into subfolders
