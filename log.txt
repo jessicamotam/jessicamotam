@@ -31939,3 +31939,4 @@
 0405. ✅ test: mock database connection in test suite
 0144. ✅ test: increase coverage on auth module
 0511. 🐛 fix: fix broken CSS in mobile view
+0107. 🐛 fix: prevent crash on empty input
