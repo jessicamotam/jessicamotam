@@ -11841,3 +11841,4 @@
 0486. ✨ feat: add export to CSV option
 0196. ♻️ chore: bump dependencies
 0016. 🎨 style: apply consistent indentation
+0922. 📚 docs: write FAQ section
