@@ -63514,3 +63514,4 @@
 0065. ✅ test: add integration test for /submit endpoint
 0589. 🐛 fix: fix broken CSS in mobile view
 0446. 🎨 style: apply consistent indentation
+0788. 📚 docs: add API usage examples
