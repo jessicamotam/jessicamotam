@@ -90965,3 +90965,4 @@
 0887. 📚 docs: add API usage examples
 0706. ✨ feat: support email verification
 0512. 🚀 perf: reduce image load time
+0893. 🐛 fix: handle 500 error in quiz API
