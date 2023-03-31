@@ -20691,3 +20691,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0350. 🚀 perf: cache repeated calculations
 0106. 🎨 style: reformat files with black
+0961. 📚 docs: add API usage examples
