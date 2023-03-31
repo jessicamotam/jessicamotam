@@ -55400,3 +55400,4 @@
 0855. 🎨 style: reformat files with black
 0255. 🔧 refactor: refactor quiz grading logic
 0847. ♻️ chore: clean up unused files
+0896. 🚀 perf: reduce image load time
