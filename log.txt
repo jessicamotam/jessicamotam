@@ -45225,3 +45225,4 @@
 1000. ✅ test: increase coverage on auth module
 0125. ✅ test: add integration test for /submit endpoint
 0167. 🚀 perf: reduce image load time
+0111. 📚 docs: update README with setup steps
