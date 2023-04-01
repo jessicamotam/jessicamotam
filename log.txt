@@ -68363,3 +68363,4 @@
 0077. ♻️ chore: rename env.example
 0652. 🔧 refactor: organize models into subfolders
 0149. ✨ feat: add export to CSV option
+0329. 📚 docs: update README with setup steps
