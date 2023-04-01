@@ -27127,3 +27127,4 @@
 0834. ✅ test: increase coverage on auth module
 0925. ✨ feat: add export to CSV option
 0865. ♻️ chore: add GitHub actions badge
+0583. ✅ test: increase coverage on auth module
