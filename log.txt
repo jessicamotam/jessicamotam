@@ -64741,3 +64741,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0762. 🚀 perf: lazy-load components
 0774. 🔧 refactor: refactor quiz grading logic
+0980. 🎨 style: reformat files with black
