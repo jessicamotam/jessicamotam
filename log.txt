@@ -100,3 +100,4 @@
 0275. 🎨 style: standardize quote style
 0862. ♻️ chore: bump dependencies
 0050. ✨ feat: enable dark mode toggle
+0545. 🎨 style: standardize quote style
