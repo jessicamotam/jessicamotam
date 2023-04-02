@@ -9872,3 +9872,4 @@
 0604. 📚 docs: add API usage examples
 0236. 🔧 refactor: remove redundant code blocks
 0792. 🎨 style: standardize quote style
+0269. ✅ test: test user registration edge cases
