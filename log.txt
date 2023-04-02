@@ -75664,3 +75664,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0158. 📚 docs: clarify environment setup
 0860. 🔧 refactor: organize models into subfolders
+0439. 🐛 fix: correct typo in registration form
