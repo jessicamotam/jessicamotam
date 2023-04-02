@@ -47482,3 +47482,4 @@
 0670. ✨ feat: add export to CSV option
 0645. 🐛 fix: resolve issue with date parsing
 0234. ♻️ chore: rename env.example
+0598. 🔧 refactor: remove redundant code blocks
