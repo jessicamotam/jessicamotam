@@ -23821,3 +23821,4 @@
 0833. ✨ feat: add user authentication
 0942. ✅ test: increase coverage on auth module
 0369. 🎨 style: standardize quote style
+0520. 🐛 fix: fix null pointer exception on login
