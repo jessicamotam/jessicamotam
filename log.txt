@@ -43182,3 +43182,4 @@
 0031. 📚 docs: document token refresh logic
 0606. 📚 docs: improve code comments in utils
 0934. ✨ feat: support email verification
+0339. 📚 docs: update README with setup steps
