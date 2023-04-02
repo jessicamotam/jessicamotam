@@ -9201,3 +9201,4 @@
 0553. 🐛 fix: correct typo in registration form
 0518. ✨ feat: support email verification
 0251. ♻️ chore: update .gitignore
+0786. ✨ feat: enable dark mode toggle
