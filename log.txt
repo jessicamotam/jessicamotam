@@ -21893,3 +21893,4 @@
 0617. ✨ feat: support email verification
 0064. 📚 docs: clarify environment setup
 0693. 📚 docs: add API usage examples
+0771. 🚀 perf: cache repeated calculations
