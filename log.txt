@@ -56492,3 +56492,4 @@
 0184. 📚 docs: improve code comments in utils
 0666. 🐛 fix: fix broken CSS in mobile view
 0583. ✅ test: increase coverage on auth module
+0158. 📚 docs: clarify environment setup
