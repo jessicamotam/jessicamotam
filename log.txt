@@ -49690,3 +49690,4 @@
 0924. ✅ test: mock database connection in test suite
 0776. ✅ test: add integration test for /submit endpoint
 0971. 🎨 style: standardize quote style
+0198. 📚 docs: clarify environment setup
