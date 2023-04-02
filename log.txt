@@ -40121,3 +40121,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0024. 📚 docs: write FAQ section
 0112. ✨ feat: enable dark mode toggle
+0816. 🔧 refactor: organize models into subfolders
