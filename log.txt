@@ -16477,3 +16477,4 @@
 0788. 📚 docs: add API usage examples
 0827. 🚀 perf: optimize database query for quiz results
 0977. 🔧 refactor: organize models into subfolders
+0751. 🐛 fix: handle 500 error in quiz API
