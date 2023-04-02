@@ -16334,3 +16334,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0714. 📚 docs: improve code comments in utils
 0837. 🚀 perf: cache repeated calculations
+0273. 🚀 perf: reduce image load time
