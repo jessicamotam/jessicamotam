@@ -12278,3 +12278,4 @@
 0884. 📚 docs: clarify environment setup
 0095. ✅ test: mock database connection in test suite
 0580. ♻️ chore: bump dependencies
+0975. 🎨 style: apply consistent indentation
