@@ -70007,3 +70007,4 @@
 0188. 🎨 style: apply consistent indentation
 0563. 📚 docs: clarify environment setup
 0816. 🔧 refactor: organize models into subfolders
+0988. 🐛 fix: fix broken CSS in mobile view
