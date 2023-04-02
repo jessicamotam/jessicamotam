@@ -14323,3 +14323,4 @@
 0559. 🔧 refactor: split large controller into smaller functions
 0044. ✅ test: add unit test for quiz service
 0096. 🐛 fix: prevent crash on empty input
+0895. ✨ feat: support email verification
