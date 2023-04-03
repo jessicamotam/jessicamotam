@@ -2094,3 +2094,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0625. 🐛 fix: handle 500 error in quiz API
 0597. 🚀 perf: cache repeated calculations
+0557. 🔧 refactor: clean up auth middleware
