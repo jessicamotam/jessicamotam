@@ -65341,3 +65341,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0147. ♻️ chore: bump dependencies
 0092. 🚀 perf: reduce image load time
+0054. ♻️ chore: update .gitignore
