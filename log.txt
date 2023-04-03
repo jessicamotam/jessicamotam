@@ -2989,3 +2989,4 @@
 0639. 🐛 fix: correct typo in registration form
 0432. 🎨 style: apply consistent indentation
 0091. ✨ feat: add user authentication
+0727. ♻️ chore: add GitHub actions badge
