@@ -12428,3 +12428,4 @@
 0166. 🚀 perf: cache repeated calculations
 0957. 🐛 fix: fix null pointer exception on login
 0944. ✨ feat: add user authentication
+0552. 🐛 fix: fix null pointer exception on login
