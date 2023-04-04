@@ -30893,3 +30893,4 @@
 0048. 📚 docs: update README with setup steps
 0821. ✅ test: add integration test for /submit endpoint
 0272. 🔧 refactor: remove redundant code blocks
+0222. 🐛 fix: handle 500 error in quiz API
