@@ -16540,3 +16540,4 @@
 0604. 📚 docs: add API usage examples
 0274. 🔧 refactor: refactor quiz grading logic
 0177. 📚 docs: add API usage examples
+0026. 🔧 refactor: clean up auth middleware
