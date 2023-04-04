@@ -6427,3 +6427,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0187. ✨ feat: support email verification
 0934. ✨ feat: support email verification
+0848. 📚 docs: update README with setup steps
