@@ -18251,3 +18251,4 @@
 0964. ♻️ chore: clean up unused files
 0653. 🐛 fix: prevent crash on empty input
 0461. ✨ feat: add user authentication
+0539. 🔧 refactor: organize models into subfolders
