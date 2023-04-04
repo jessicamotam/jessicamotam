@@ -4279,3 +4279,4 @@
 0447. ♻️ chore: bump dependencies
 0140. 🐛 fix: handle 500 error in quiz API
 0730. ✅ test: test user registration edge cases
+0101. 📚 docs: clarify environment setup
