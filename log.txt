@@ -58921,3 +58921,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0116. ✨ feat: support email verification
 0139. 📚 docs: document token refresh logic
+0359. 🔧 refactor: clean up auth middleware
