@@ -33578,3 +33578,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0554. 📚 docs: improve code comments in utils
 0830. 🎨 style: apply consistent indentation
+0506. 🐛 fix: handle 500 error in quiz API
