@@ -31806,3 +31806,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0050. ✨ feat: enable dark mode toggle
 0506. 🐛 fix: handle 500 error in quiz API
+0559. 🔧 refactor: split large controller into smaller functions
