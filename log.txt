@@ -84157,3 +84157,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0442. 🎨 style: standardize quote style
 0042. 📚 docs: document token refresh logic
+0827. 🚀 perf: optimize database query for quiz results
