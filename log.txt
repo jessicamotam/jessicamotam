@@ -37529,3 +37529,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0926. 🔧 refactor: organize models into subfolders
 0383. 🐛 fix: fix broken CSS in mobile view
+0037. 🐛 fix: correct typo in registration form
