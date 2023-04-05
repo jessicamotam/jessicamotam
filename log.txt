@@ -46668,3 +46668,4 @@
 0377. ✨ feat: add user authentication
 0005. ✅ test: add unit test for quiz service
 0940. 📚 docs: document token refresh logic
+0703. 🔧 refactor: clean up auth middleware
