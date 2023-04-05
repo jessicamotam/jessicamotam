@@ -13757,3 +13757,4 @@
 0932. ✅ test: add integration test for /submit endpoint
 0300. ✨ feat: add export to CSV option
 0079. 🐛 fix: correct typo in registration form
+0083. 🎨 style: reformat files with black
