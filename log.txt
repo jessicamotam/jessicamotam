@@ -35226,3 +35226,4 @@
 0573. ✅ test: add integration test for /submit endpoint
 0412. ✅ test: increase coverage on auth module
 0574. ✨ feat: enable dark mode toggle
+0890. 🔧 refactor: organize models into subfolders
