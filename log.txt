@@ -33231,3 +33231,4 @@
 0621. 🔧 refactor: clean up auth middleware
 0113. ✨ feat: add user authentication
 0287. 📚 docs: write FAQ section
+0060. ♻️ chore: clean up unused files
