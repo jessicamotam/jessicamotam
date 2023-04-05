@@ -21043,3 +21043,4 @@
 0438. ♻️ chore: bump dependencies
 0364. 🐛 fix: resolve issue with date parsing
 0846. ✨ feat: implement quiz timer feature
+0835. 🐛 fix: prevent crash on empty input
