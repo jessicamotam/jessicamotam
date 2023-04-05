@@ -62253,3 +62253,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0385. ♻️ chore: clean up unused files
 0931. 🚀 perf: reduce image load time
+0824. 🚀 perf: lazy-load components
