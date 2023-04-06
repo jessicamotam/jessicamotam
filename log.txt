@@ -85715,3 +85715,4 @@
 0801. ✨ feat: enable dark mode toggle
 0397. 🐛 fix: handle 500 error in quiz API
 0070. ✨ feat: implement quiz timer feature
+0553. 🐛 fix: correct typo in registration form
