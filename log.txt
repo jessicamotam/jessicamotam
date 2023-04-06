@@ -24959,3 +24959,4 @@
 0734. ✨ feat: add export to CSV option
 0057. 🚀 perf: optimize database query for quiz results
 0317. ✅ test: test user registration edge cases
+0609. 🐛 fix: handle 500 error in quiz API
