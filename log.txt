@@ -31017,3 +31017,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0557. 🔧 refactor: clean up auth middleware
 0076. 🎨 style: reformat files with black
+0561. 📚 docs: write FAQ section
