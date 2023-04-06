@@ -84645,3 +84645,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0112. ✨ feat: enable dark mode toggle
 0336. ✨ feat: add export to CSV option
+0080. ✨ feat: support email verification
