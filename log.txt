@@ -4180,3 +4180,4 @@
 0146. 🎨 style: apply consistent indentation
 0160. ♻️ chore: bump dependencies
 0660. 🐛 fix: correct typo in registration form
+0763. 🔧 refactor: organize models into subfolders
