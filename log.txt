@@ -28835,3 +28835,4 @@
 0029. 🚀 perf: lazy-load components
 0891. ✨ feat: create admin dashboard
 0963. 🚀 perf: reduce image load time
+0911. ✅ test: increase coverage on auth module
