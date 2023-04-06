@@ -28078,3 +28078,4 @@
 0809. ♻️ chore: rename env.example
 0238. 🎨 style: apply consistent indentation
 0121. ✨ feat: support email verification
+0850. ♻️ chore: rename env.example
