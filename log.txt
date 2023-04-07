@@ -42052,3 +42052,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 0865. ♻️ chore: add GitHub actions badge
 0988. 🐛 fix: fix broken CSS in mobile view
+0968. 🎨 style: standardize quote style
