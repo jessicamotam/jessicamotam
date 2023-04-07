@@ -61993,3 +61993,4 @@
 0115. 🚀 perf: reduce image load time
 0117. ✅ test: increase coverage on auth module
 0540. ♻️ chore: add GitHub actions badge
+0197. 📚 docs: update README with setup steps
