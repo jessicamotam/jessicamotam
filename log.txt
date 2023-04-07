@@ -50031,3 +50031,4 @@
 0687. 🎨 style: remove trailing whitespace
 0908. ♻️ chore: bump dependencies
 0789. ✨ feat: create admin dashboard
+0344. ♻️ chore: add GitHub actions badge
