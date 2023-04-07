@@ -76657,3 +76657,4 @@
 0700. 🎨 style: rename variables for clarity
 0552. 🐛 fix: fix null pointer exception on login
 0553. 🐛 fix: correct typo in registration form
+0549. ✨ feat: enable dark mode toggle
