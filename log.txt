@@ -71619,3 +71619,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0364. 🐛 fix: resolve issue with date parsing
 0740. 🐛 fix: resolve issue with date parsing
+0152. ✨ feat: add user authentication
