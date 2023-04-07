@@ -11250,3 +11250,4 @@
 0455. ♻️ chore: clean up unused files
 0236. 🔧 refactor: remove redundant code blocks
 0030. 🐛 fix: fix null pointer exception on login
+0605. ✨ feat: support email verification
