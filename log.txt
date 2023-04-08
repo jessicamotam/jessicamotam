@@ -85319,3 +85319,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0979. 🎨 style: standardize quote style
 0043. ✅ test: add integration test for /submit endpoint
+0431. 🎨 style: reformat files with black
