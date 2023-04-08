@@ -45994,3 +45994,4 @@
 0456. 🚀 perf: optimize database query for quiz results
 0173. 🚀 perf: cache repeated calculations
 0545. 🎨 style: standardize quote style
+0205. 📚 docs: update README with setup steps
