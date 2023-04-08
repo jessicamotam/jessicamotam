@@ -42238,3 +42238,4 @@
 0387. ✨ feat: enable dark mode toggle
 0301. 🎨 style: apply consistent indentation
 0825. 🔧 refactor: split large controller into smaller functions
+0287. 📚 docs: write FAQ section
