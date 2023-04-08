@@ -38142,3 +38142,4 @@
 0147. ♻️ chore: bump dependencies
 0642. 🚀 perf: optimize database query for quiz results
 0572. ✨ feat: add user authentication
+0896. 🚀 perf: reduce image load time
