@@ -40607,3 +40607,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0295. 🎨 style: remove trailing whitespace
 0196. ♻️ chore: bump dependencies
+0434. 📚 docs: document token refresh logic
