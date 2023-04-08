@@ -41343,3 +41343,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0116. ✨ feat: support email verification
 0838. 🎨 style: standardize quote style
+0775. 🐛 fix: fix null pointer exception on login
