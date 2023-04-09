@@ -1400,3 +1400,4 @@
 0899. 🚀 perf: cache repeated calculations
 0259. 🚀 perf: lazy-load components
 0880. 🐛 fix: fix broken CSS in mobile view
+0932. ✅ test: add integration test for /submit endpoint
