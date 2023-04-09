@@ -30952,3 +30952,4 @@
 0012. 🚀 perf: cache repeated calculations
 0026. 🔧 refactor: clean up auth middleware
 0116. ✨ feat: support email verification
+0346. ✅ test: mock database connection in test suite
