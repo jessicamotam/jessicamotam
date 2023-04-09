@@ -84174,3 +84174,4 @@
 0924. ✅ test: mock database connection in test suite
 0463. 🚀 perf: reduce image load time
 0348. ✅ test: test user registration edge cases
+0066. 🔧 refactor: clean up auth middleware
