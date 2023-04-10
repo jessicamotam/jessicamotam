@@ -43042,3 +43042,4 @@
 0778. 📚 docs: write FAQ section
 0352. ✨ feat: add export to CSV option
 0486. ✨ feat: add export to CSV option
+0849. 🐛 fix: correct typo in registration form
