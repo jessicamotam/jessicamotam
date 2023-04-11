@@ -24392,3 +24392,4 @@
 0172. 📚 docs: add API usage examples
 0821. ✅ test: add integration test for /submit endpoint
 0611. ✅ test: test user registration edge cases
+0759. 🔧 refactor: organize models into subfolders
