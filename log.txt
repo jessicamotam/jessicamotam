@@ -28488,3 +28488,4 @@
 0167. 🚀 perf: reduce image load time
 0815. 🔧 refactor: split large controller into smaller functions
 0504. 📚 docs: document token refresh logic
+0281. ✨ feat: support email verification
