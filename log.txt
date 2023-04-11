@@ -66730,3 +66730,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0860. 🔧 refactor: organize models into subfolders
 0040. 🔧 refactor: clean up auth middleware
+0811. 🎨 style: reformat files with black
