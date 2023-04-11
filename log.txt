@@ -34468,3 +34468,4 @@
 0318. 🔧 refactor: refactor quiz grading logic
 0859. ✨ feat: create admin dashboard
 0023. 📚 docs: clarify environment setup
+0171. 🐛 fix: fix broken CSS in mobile view
