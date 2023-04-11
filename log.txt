@@ -49616,3 +49616,4 @@
 0027. 📚 docs: clarify environment setup
 0227. ✅ test: test user registration edge cases
 0891. ✨ feat: create admin dashboard
+0698. 🐛 fix: handle 500 error in quiz API
