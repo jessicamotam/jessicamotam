@@ -63182,3 +63182,4 @@
 0749. ✨ feat: support email verification
 0702. ✨ feat: add user authentication
 0666. 🐛 fix: fix broken CSS in mobile view
+0961. 📚 docs: add API usage examples
