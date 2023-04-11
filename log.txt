@@ -61140,3 +61140,4 @@
 0658. 🎨 style: rename variables for clarity
 0539. 🔧 refactor: organize models into subfolders
 0485. 📚 docs: update README with setup steps
+0783. 🐛 fix: handle 500 error in quiz API
