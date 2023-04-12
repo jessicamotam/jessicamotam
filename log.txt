@@ -36289,3 +36289,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0895. ✨ feat: support email verification
 0122. ✨ feat: support email verification
+0006. 🐛 fix: prevent crash on empty input
