@@ -21718,3 +21718,4 @@
 0785. ✨ feat: enable dark mode toggle
 0546. 🐛 fix: fix null pointer exception on login
 0579. 📚 docs: clarify environment setup
+0317. ✅ test: test user registration edge cases
