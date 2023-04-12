@@ -17926,3 +17926,4 @@
 0102. ✨ feat: support email verification
 0734. ✨ feat: add export to CSV option
 0920. 🔧 refactor: organize models into subfolders
+0442. 🎨 style: standardize quote style
