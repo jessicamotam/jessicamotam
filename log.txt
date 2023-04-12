@@ -22173,3 +22173,4 @@
 0187. ✨ feat: support email verification
 0527. 🎨 style: remove trailing whitespace
 0960. ✅ test: increase coverage on auth module
+0822. 🔧 refactor: remove redundant code blocks
