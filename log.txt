@@ -28378,3 +28378,4 @@
 0654. ✨ feat: create admin dashboard
 0641. 📚 docs: write FAQ section
 0058. ♻️ chore: add GitHub actions badge
+0566. 📚 docs: write FAQ section
