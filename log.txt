@@ -6557,3 +6557,4 @@
 0808. 🚀 perf: optimize database query for quiz results
 0846. ✨ feat: implement quiz timer feature
 0106. 🎨 style: reformat files with black
+0783. 🐛 fix: handle 500 error in quiz API
