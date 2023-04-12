@@ -75601,3 +75601,4 @@
 0196. ♻️ chore: bump dependencies
 0037. 🐛 fix: correct typo in registration form
 0904. ✨ feat: implement quiz timer feature
+0048. 📚 docs: update README with setup steps
