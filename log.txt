@@ -70006,3 +70006,4 @@
 0927. ♻️ chore: bump dependencies
 0188. 🎨 style: apply consistent indentation
 0563. 📚 docs: clarify environment setup
+0816. 🔧 refactor: organize models into subfolders
