@@ -46263,3 +46263,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0772. 🐛 fix: fix null pointer exception on login
 0307. ✨ feat: support email verification
+0545. 🎨 style: standardize quote style
