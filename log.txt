@@ -57376,3 +57376,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0460. 📚 docs: write FAQ section
 0131. 📚 docs: write FAQ section
+0849. 🐛 fix: correct typo in registration form
