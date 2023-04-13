@@ -12035,3 +12035,4 @@
 0117. ✅ test: increase coverage on auth module
 0367. 🐛 fix: fix null pointer exception on login
 0569. 📚 docs: document token refresh logic
+0290. ✅ test: test user registration edge cases
