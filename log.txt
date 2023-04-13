@@ -53239,3 +53239,4 @@
 0560. 🎨 style: rename variables for clarity
 0732. ♻️ chore: add GitHub actions badge
 0961. 📚 docs: add API usage examples
+0733. 🐛 fix: fix null pointer exception on login
