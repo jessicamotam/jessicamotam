@@ -71751,3 +71751,4 @@
 0681. ✨ feat: create admin dashboard
 0688. 🚀 perf: reduce image load time
 0453. 🎨 style: standardize quote style
+0084. 🐛 fix: handle 500 error in quiz API
