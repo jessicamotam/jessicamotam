@@ -74354,3 +74354,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0479. 🐛 fix: fix null pointer exception on login
 0957. 🐛 fix: fix null pointer exception on login
+0776. ✅ test: add integration test for /submit endpoint
