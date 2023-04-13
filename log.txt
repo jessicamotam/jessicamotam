@@ -10907,3 +10907,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0604. 📚 docs: add API usage examples
 0719. 🎨 style: apply consistent indentation
+0612. ✅ test: test user registration edge cases
