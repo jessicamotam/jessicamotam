@@ -69888,3 +69888,4 @@
 0924. ✅ test: mock database connection in test suite
 0501. ✨ feat: add export to CSV option
 0560. 🎨 style: rename variables for clarity
+0563. 📚 docs: clarify environment setup
