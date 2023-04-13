@@ -87610,3 +87610,4 @@
 0388. 🎨 style: reformat files with black
 0273. 🚀 perf: reduce image load time
 0921. 🐛 fix: correct typo in registration form
+0834. ✅ test: increase coverage on auth module
