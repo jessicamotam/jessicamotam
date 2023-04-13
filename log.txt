@@ -33039,3 +33039,4 @@
 0946. ✅ test: add unit test for quiz service
 0060. ♻️ chore: clean up unused files
 0407. 🚀 perf: cache repeated calculations
+0420. 🚀 perf: reduce image load time
