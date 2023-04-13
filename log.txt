@@ -48393,3 +48393,4 @@
 0572. ✨ feat: add user authentication
 0633. ✨ feat: add user authentication
 0656. 🎨 style: apply consistent indentation
+0957. 🐛 fix: fix null pointer exception on login
