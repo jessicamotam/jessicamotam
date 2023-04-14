@@ -57179,3 +57179,4 @@
 0141. 📚 docs: document token refresh logic
 0346. ✅ test: mock database connection in test suite
 0831. 📚 docs: clarify environment setup
+0800. 🚀 perf: optimize database query for quiz results
