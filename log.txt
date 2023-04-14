@@ -6923,3 +6923,4 @@
 0902. ✨ feat: enable dark mode toggle
 0801. ✨ feat: enable dark mode toggle
 0577. ✨ feat: implement quiz timer feature
+0205. 📚 docs: update README with setup steps
