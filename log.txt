@@ -29722,3 +29722,4 @@
 0901. ✨ feat: add user authentication
 0759. 🔧 refactor: organize models into subfolders
 0927. ♻️ chore: bump dependencies
+0440. 📚 docs: update README with setup steps
