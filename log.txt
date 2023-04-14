@@ -61247,3 +61247,4 @@
 0670. ✨ feat: add export to CSV option
 0933. 📚 docs: clarify environment setup
 0332. 🎨 style: standardize quote style
+0783. 🐛 fix: handle 500 error in quiz API
