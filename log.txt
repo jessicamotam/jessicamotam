@@ -41354,3 +41354,4 @@
 0109. 🚀 perf: lazy-load components
 0996. ✅ test: test user registration edge cases
 0210. 🎨 style: apply consistent indentation
+0895. ✨ feat: support email verification
