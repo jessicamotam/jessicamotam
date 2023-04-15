@@ -12861,3 +12861,4 @@
 0473. 📚 docs: write FAQ section
 0006. 🐛 fix: prevent crash on empty input
 0772. 🐛 fix: fix null pointer exception on login
+0222. 🐛 fix: handle 500 error in quiz API
