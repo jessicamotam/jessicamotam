@@ -80793,3 +80793,4 @@
 0848. 📚 docs: update README with setup steps
 0946. ✅ test: add unit test for quiz service
 0712. 🎨 style: apply consistent indentation
+0248. 🐛 fix: handle 500 error in quiz API
