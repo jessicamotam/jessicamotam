@@ -52359,3 +52359,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0264. 🚀 perf: optimize database query for quiz results
 0914. ✅ test: test user registration edge cases
+0277. 🎨 style: standardize quote style
