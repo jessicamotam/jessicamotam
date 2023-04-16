@@ -82776,3 +82776,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0709. ♻️ chore: bump dependencies
 0443. 🎨 style: standardize quote style
+0921. 🐛 fix: correct typo in registration form
