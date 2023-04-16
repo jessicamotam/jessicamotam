@@ -6880,3 +6880,4 @@
 0499. 🎨 style: reformat files with black
 0533. ♻️ chore: add GitHub actions badge
 0048. 📚 docs: update README with setup steps
+0590. 🐛 fix: fix null pointer exception on login
