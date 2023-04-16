@@ -18849,3 +18849,4 @@
 0821. ✅ test: add integration test for /submit endpoint
 0866. 📚 docs: add API usage examples
 0529. 📚 docs: write FAQ section
+0233. 🚀 perf: lazy-load components
