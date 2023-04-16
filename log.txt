@@ -12587,3 +12587,4 @@
 0636. ✅ test: increase coverage on auth module
 0451. ✨ feat: support email verification
 0146. 🎨 style: apply consistent indentation
+0430. 🐛 fix: fix null pointer exception on login
