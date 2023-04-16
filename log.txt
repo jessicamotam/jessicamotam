@@ -68161,3 +68161,4 @@
 0047. 🎨 style: rename variables for clarity
 0375. 🐛 fix: handle 500 error in quiz API
 0399. ✅ test: mock database connection in test suite
+0473. 📚 docs: write FAQ section
