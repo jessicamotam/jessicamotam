@@ -73870,3 +73870,4 @@
 0858. ♻️ chore: clean up unused files
 0084. 🐛 fix: handle 500 error in quiz API
 0766. 🎨 style: reformat files with black
+0726. ✨ feat: enable dark mode toggle
