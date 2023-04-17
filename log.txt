@@ -88147,3 +88147,4 @@
 0467. ✅ test: add integration test for /submit endpoint
 0738. 🐛 fix: prevent crash on empty input
 0726. ✨ feat: enable dark mode toggle
+0605. ✨ feat: support email verification
