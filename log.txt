@@ -9497,3 +9497,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0091. ✨ feat: add user authentication
 0034. 📚 docs: improve code comments in utils
+0535. 📚 docs: write FAQ section
