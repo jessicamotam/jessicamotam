@@ -69837,3 +69837,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0631. ✨ feat: create admin dashboard
 0566. 📚 docs: write FAQ section
+0957. 🐛 fix: fix null pointer exception on login
