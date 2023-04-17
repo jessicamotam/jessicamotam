@@ -24489,3 +24489,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0217. 🚀 perf: reduce image load time
 0473. 📚 docs: write FAQ section
+0625. 🐛 fix: handle 500 error in quiz API
