@@ -10355,3 +10355,4 @@
 0567. 📚 docs: add API usage examples
 0235. 🐛 fix: fix null pointer exception on login
 0534. 🔧 refactor: split large controller into smaller functions
+0706. ✨ feat: support email verification
