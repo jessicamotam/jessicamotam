@@ -88628,3 +88628,4 @@
 0498. ✅ test: mock database connection in test suite
 0973. 🔧 refactor: organize models into subfolders
 0791. 🔧 refactor: clean up auth middleware
+0829. 🔧 refactor: organize models into subfolders
