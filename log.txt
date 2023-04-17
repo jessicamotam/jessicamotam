@@ -32262,3 +32262,4 @@
 0357. ✅ test: add unit test for quiz service
 0326. 🚀 perf: cache repeated calculations
 0238. 🎨 style: apply consistent indentation
+0922. 📚 docs: write FAQ section
