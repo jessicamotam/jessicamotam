@@ -50388,3 +50388,4 @@
 0384. 📚 docs: clarify environment setup
 0535. 📚 docs: write FAQ section
 0135. ✅ test: test user registration edge cases
+0754. 🐛 fix: handle 500 error in quiz API
