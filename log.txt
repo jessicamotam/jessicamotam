@@ -11708,3 +11708,4 @@
 0869. ♻️ chore: bump dependencies
 0219. ✅ test: increase coverage on auth module
 0812. 🔧 refactor: refactor quiz grading logic
+0176. 🔧 refactor: remove redundant code blocks
