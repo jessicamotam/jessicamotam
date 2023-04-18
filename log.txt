@@ -54604,3 +54604,4 @@
 0384. 📚 docs: clarify environment setup
 0695. ✨ feat: create admin dashboard
 0761. ✅ test: add unit test for quiz service
+0556. ✨ feat: support email verification
