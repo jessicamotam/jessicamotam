@@ -78396,3 +78396,4 @@
 0169. 📚 docs: add API usage examples
 0297. 🎨 style: remove trailing whitespace
 0435. ✅ test: add unit test for quiz service
+0226. 🚀 perf: lazy-load components
