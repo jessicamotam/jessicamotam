@@ -19048,3 +19048,4 @@
 0925. ✨ feat: add export to CSV option
 0480. ♻️ chore: add GitHub actions badge
 1000. ✅ test: increase coverage on auth module
+0100. ♻️ chore: update .gitignore
