@@ -57677,3 +57677,4 @@
 0984. ♻️ chore: clean up unused files
 0810. 🔧 refactor: refactor quiz grading logic
 0802. 🔧 refactor: remove redundant code blocks
+0978. 🐛 fix: prevent crash on empty input
