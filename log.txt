@@ -13325,3 +13325,4 @@
 0870. ♻️ chore: clean up unused files
 0675. 🔧 refactor: organize models into subfolders
 0599. ✅ test: test user registration edge cases
+0585. 🚀 perf: lazy-load components
