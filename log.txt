@@ -35415,3 +35415,4 @@
 0656. 🎨 style: apply consistent indentation
 0113. ✨ feat: add user authentication
 0134. ✨ feat: implement quiz timer feature
+0571. 🔧 refactor: clean up auth middleware
