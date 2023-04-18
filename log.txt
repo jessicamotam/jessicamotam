@@ -89338,3 +89338,4 @@
 0580. ♻️ chore: bump dependencies
 0263. 📚 docs: add API usage examples
 0775. 🐛 fix: fix null pointer exception on login
+0280. ✅ test: add integration test for /submit endpoint
