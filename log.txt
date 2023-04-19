@@ -85604,3 +85604,4 @@
 0361. ✨ feat: support email verification
 0514. 🐛 fix: fix broken CSS in mobile view
 0463. 🚀 perf: reduce image load time
+0367. 🐛 fix: fix null pointer exception on login
