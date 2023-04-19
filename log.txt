@@ -74453,3 +74453,4 @@
 0153. ♻️ chore: rename env.example
 0948. 🐛 fix: fix broken CSS in mobile view
 0852. ✨ feat: enable dark mode toggle
+0219. ✅ test: increase coverage on auth module
