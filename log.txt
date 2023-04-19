@@ -55243,3 +55243,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0852. ✨ feat: enable dark mode toggle
 0492. 🎨 style: remove trailing whitespace
+0257. 📚 docs: clarify environment setup
