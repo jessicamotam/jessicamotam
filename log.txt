@@ -9124,3 +9124,4 @@
 0112. ✨ feat: enable dark mode toggle
 0933. 📚 docs: clarify environment setup
 0927. ♻️ chore: bump dependencies
+0680. ♻️ chore: add GitHub actions badge
