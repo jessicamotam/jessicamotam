@@ -51780,3 +51780,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0977. 🔧 refactor: organize models into subfolders
 0713. 🐛 fix: handle 500 error in quiz API
+0436. ✅ test: add integration test for /submit endpoint
