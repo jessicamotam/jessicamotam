@@ -12872,3 +12872,4 @@
 0722. 📚 docs: add API usage examples
 0725. 🚀 perf: lazy-load components
 0107. 🐛 fix: prevent crash on empty input
+0706. ✨ feat: support email verification
