@@ -32973,3 +32973,4 @@
 0719. 🎨 style: apply consistent indentation
 0331. 🐛 fix: fix broken CSS in mobile view
 0361. ✨ feat: support email verification
+0797. 📚 docs: add API usage examples
