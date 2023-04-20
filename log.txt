@@ -76608,3 +76608,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0527. 🎨 style: remove trailing whitespace
 0496. ✅ test: add integration test for /submit endpoint
+0960. ✅ test: increase coverage on auth module
