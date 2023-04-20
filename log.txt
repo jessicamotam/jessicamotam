@@ -37761,3 +37761,4 @@
 0469. 🚀 perf: lazy-load components
 0050. ✨ feat: enable dark mode toggle
 0454. ♻️ chore: bump dependencies
+0341. 🚀 perf: lazy-load components
