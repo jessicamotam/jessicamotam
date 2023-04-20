@@ -29843,3 +29843,4 @@
 0623. 🎨 style: standardize quote style
 0467. ✅ test: add integration test for /submit endpoint
 0745. ✅ test: add unit test for quiz service
+0116. ✨ feat: support email verification
