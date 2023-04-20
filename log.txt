@@ -46869,3 +46869,4 @@
 0651. ✨ feat: enable dark mode toggle
 0705. 🔧 refactor: refactor quiz grading logic
 0172. 📚 docs: add API usage examples
+0259. 🚀 perf: lazy-load components
