@@ -48316,3 +48316,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0235. 🐛 fix: fix null pointer exception on login
 0436. ✅ test: add integration test for /submit endpoint
+0280. ✅ test: add integration test for /submit endpoint
