@@ -42554,3 +42554,4 @@
 0989. 📚 docs: write FAQ section
 0334. 🚀 perf: cache repeated calculations
 0835. 🐛 fix: prevent crash on empty input
+0136. 🚀 perf: lazy-load components
