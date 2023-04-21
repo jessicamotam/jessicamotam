@@ -47412,3 +47412,4 @@
 0435. ✅ test: add unit test for quiz service
 0549. ✨ feat: enable dark mode toggle
 0182. 🔧 refactor: remove redundant code blocks
+0140. 🐛 fix: handle 500 error in quiz API
