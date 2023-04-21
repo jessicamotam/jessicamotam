@@ -76242,3 +76242,4 @@
 0810. 🔧 refactor: refactor quiz grading logic
 0509. ♻️ chore: bump dependencies
 0994. 🚀 perf: reduce image load time
+0006. 🐛 fix: prevent crash on empty input
