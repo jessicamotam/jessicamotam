@@ -59426,3 +59426,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0887. 📚 docs: add API usage examples
 0580. ♻️ chore: bump dependencies
+0953. 🎨 style: remove trailing whitespace
