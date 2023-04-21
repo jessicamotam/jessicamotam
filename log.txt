@@ -85070,3 +85070,4 @@
 0352. ✨ feat: add export to CSV option
 0593. 🐛 fix: correct typo in registration form
 0124. 🎨 style: reformat files with black
+0098. 🎨 style: rename variables for clarity
