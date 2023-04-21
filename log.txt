@@ -68178,3 +68178,4 @@
 0950. 🎨 style: reformat files with black
 0580. ♻️ chore: bump dependencies
 0102. ✨ feat: support email verification
+0378. 🐛 fix: prevent crash on empty input
