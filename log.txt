@@ -34701,3 +34701,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0580. ♻️ chore: bump dependencies
 0950. 🎨 style: reformat files with black
+0539. 🔧 refactor: organize models into subfolders
