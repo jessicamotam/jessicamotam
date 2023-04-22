@@ -45361,3 +45361,4 @@
 0194. 🎨 style: standardize quote style
 0969. ✨ feat: create admin dashboard
 0390. 🎨 style: standardize quote style
+0480. ♻️ chore: add GitHub actions badge
