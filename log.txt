@@ -33532,3 +33532,4 @@
 0116. ✨ feat: support email verification
 0912. 📚 docs: document token refresh logic
 0270. ♻️ chore: rename env.example
+0942. ✅ test: increase coverage on auth module
