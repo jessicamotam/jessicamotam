@@ -8537,3 +8537,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0052. 🎨 style: standardize quote style
 0348. ✅ test: test user registration edge cases
+0965. 🎨 style: reformat files with black
