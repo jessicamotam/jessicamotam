@@ -36935,3 +36935,4 @@
 0426. ✅ test: add integration test for /submit endpoint
 0736. 🐛 fix: fix null pointer exception on login
 0279. ✨ feat: support email verification
+0754. 🐛 fix: handle 500 error in quiz API
