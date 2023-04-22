@@ -64072,3 +64072,4 @@
 0516. ✅ test: add unit test for quiz service
 0681. ✨ feat: create admin dashboard
 0790. 📚 docs: write FAQ section
+0341. 🚀 perf: lazy-load components
