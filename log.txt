@@ -61116,3 +61116,4 @@
 0464. 🎨 style: remove trailing whitespace
 0820. 📚 docs: add API usage examples
 0778. 📚 docs: write FAQ section
+0751. 🐛 fix: handle 500 error in quiz API
