@@ -7108,3 +7108,4 @@
 0793. 📚 docs: clarify environment setup
 0188. 🎨 style: apply consistent indentation
 0605. ✨ feat: support email verification
+0374. 🎨 style: standardize quote style
