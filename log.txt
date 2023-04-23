@@ -39518,3 +39518,4 @@
 0632. 🎨 style: remove trailing whitespace
 0819. 🚀 perf: reduce image load time
 0244. ✨ feat: add export to CSV option
+0950. 🎨 style: reformat files with black
