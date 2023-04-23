@@ -16452,3 +16452,4 @@
 0819. 🚀 perf: reduce image load time
 0754. 🐛 fix: handle 500 error in quiz API
 0756. ✨ feat: support email verification
+0312. ✨ feat: add user authentication
