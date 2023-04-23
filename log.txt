@@ -70881,3 +70881,4 @@
 0826. 📚 docs: clarify environment setup
 0703. 🔧 refactor: clean up auth middleware
 0967. ♻️ chore: add GitHub actions badge
+0492. 🎨 style: remove trailing whitespace
