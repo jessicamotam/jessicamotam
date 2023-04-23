@@ -3481,3 +3481,4 @@
 0420. 🚀 perf: reduce image load time
 0527. 🎨 style: remove trailing whitespace
 0317. ✅ test: test user registration edge cases
+0332. 🎨 style: standardize quote style
