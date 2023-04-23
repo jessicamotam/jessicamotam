@@ -84286,3 +84286,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0527. 🎨 style: remove trailing whitespace
 0698. 🐛 fix: handle 500 error in quiz API
+0148. 🔧 refactor: organize models into subfolders
