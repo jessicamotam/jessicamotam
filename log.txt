@@ -70633,3 +70633,4 @@
 0566. 📚 docs: write FAQ section
 0950. 🎨 style: reformat files with black
 0529. 📚 docs: write FAQ section
+0201. 🔧 refactor: clean up auth middleware
