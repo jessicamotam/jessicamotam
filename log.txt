@@ -71900,3 +71900,4 @@
 0851. ✅ test: mock database connection in test suite
 0989. 📚 docs: write FAQ section
 0804. ♻️ chore: add GitHub actions badge
+0636. ✅ test: increase coverage on auth module
