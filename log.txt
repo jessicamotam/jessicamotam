@@ -46249,3 +46249,4 @@
 0413. ✅ test: add integration test for /submit endpoint
 0535. 📚 docs: write FAQ section
 0641. 📚 docs: write FAQ section
+0919. 🚀 perf: optimize database query for quiz results
