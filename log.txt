@@ -88051,3 +88051,4 @@
 0402. 🎨 style: reformat files with black
 0679. ♻️ chore: bump dependencies
 0994. 🚀 perf: reduce image load time
+0294. 🐛 fix: prevent crash on empty input
