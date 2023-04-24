@@ -56653,3 +56653,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0642. 🚀 perf: optimize database query for quiz results
 0846. ✨ feat: implement quiz timer feature
+0684. 🚀 perf: reduce image load time
