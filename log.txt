@@ -16418,3 +16418,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0829. 🔧 refactor: organize models into subfolders
 0985. 📚 docs: document token refresh logic
+0375. 🐛 fix: handle 500 error in quiz API
