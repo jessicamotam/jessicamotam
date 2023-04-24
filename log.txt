@@ -78030,3 +78030,4 @@
 0620. ✨ feat: implement quiz timer feature
 0444. ✅ test: add unit test for quiz service
 1000. ✅ test: increase coverage on auth module
+0958. 🐛 fix: prevent crash on empty input
