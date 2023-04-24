@@ -60,3 +60,4 @@
 0115. 🚀 perf: reduce image load time
 0268. 🐛 fix: prevent crash on empty input
 0546. 🐛 fix: fix null pointer exception on login
+0104. 🎨 style: apply consistent indentation
