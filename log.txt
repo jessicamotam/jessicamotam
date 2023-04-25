@@ -49409,3 +49409,4 @@
 0152. ✨ feat: add user authentication
 0375. 🐛 fix: handle 500 error in quiz API
 0737. 🐛 fix: handle 500 error in quiz API
+0079. 🐛 fix: correct typo in registration form
