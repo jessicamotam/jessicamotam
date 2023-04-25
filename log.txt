@@ -5389,3 +5389,4 @@
 0604. 📚 docs: add API usage examples
 0178. ✨ feat: support email verification
 0585. 🚀 perf: lazy-load components
+0365. 🚀 perf: reduce image load time
