@@ -19288,3 +19288,4 @@
 0219. ✅ test: increase coverage on auth module
 0009. ✨ feat: enable dark mode toggle
 0096. 🐛 fix: prevent crash on empty input
+0995. ✅ test: mock database connection in test suite
