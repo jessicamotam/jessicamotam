@@ -49246,3 +49246,4 @@
 0195. 📚 docs: clarify environment setup
 0634. 🎨 style: reformat files with black
 0131. 📚 docs: write FAQ section
+0353. ♻️ chore: rename env.example
