@@ -11789,3 +11789,4 @@
 0112. ✨ feat: enable dark mode toggle
 0381. ♻️ chore: clean up unused files
 0293. ✅ test: add integration test for /submit endpoint
+0763. 🔧 refactor: organize models into subfolders
