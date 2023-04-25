@@ -5673,3 +5673,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0234. ♻️ chore: rename env.example
 0890. 🔧 refactor: organize models into subfolders
+0749. ✨ feat: support email verification
