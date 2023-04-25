@@ -70036,3 +70036,4 @@
 0215. 🎨 style: reformat files with black
 0930. 🎨 style: apply consistent indentation
 0141. 📚 docs: document token refresh logic
+0220. 🐛 fix: fix null pointer exception on login
