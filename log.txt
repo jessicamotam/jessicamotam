@@ -46033,3 +46033,4 @@
 0764. ✨ feat: add user authentication
 0041. 🐛 fix: fix broken CSS in mobile view
 0323. 📚 docs: clarify environment setup
+0507. 🔧 refactor: clean up auth middleware
