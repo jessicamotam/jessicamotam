@@ -6031,3 +6031,4 @@
 0580. ♻️ chore: bump dependencies
 0242. ♻️ chore: clean up unused files
 0781. 🚀 perf: reduce image load time
+0260. ✨ feat: create admin dashboard
