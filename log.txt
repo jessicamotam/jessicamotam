@@ -80876,3 +80876,4 @@
 0719. 🎨 style: apply consistent indentation
 0867. 🔧 refactor: refactor quiz grading logic
 0249. ✅ test: increase coverage on auth module
+0579. 📚 docs: clarify environment setup
