@@ -33573,3 +33573,4 @@
 0595. ✨ feat: enable dark mode toggle
 0741. 🎨 style: apply consistent indentation
 0979. 🎨 style: standardize quote style
+0990. ♻️ chore: rename env.example
