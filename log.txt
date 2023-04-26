@@ -42674,3 +42674,4 @@
 0151. ✅ test: add unit test for quiz service
 0136. 🚀 perf: lazy-load components
 0263. 📚 docs: add API usage examples
+0294. 🐛 fix: prevent crash on empty input
