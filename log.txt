@@ -5743,3 +5743,4 @@
 0227. ✅ test: test user registration edge cases
 0646. ✅ test: test user registration edge cases
 0956. 📚 docs: clarify environment setup
+0337. 📚 docs: document token refresh logic
