@@ -2858,3 +2858,4 @@
 0782. 📚 docs: improve code comments in utils
 0569. 📚 docs: document token refresh logic
 0466. 🚀 perf: optimize database query for quiz results
+0565. ♻️ chore: add GitHub actions badge
