@@ -45434,3 +45434,4 @@
 0709. ♻️ chore: bump dependencies
 0192. ✨ feat: enable dark mode toggle
 0602. 🔧 refactor: remove redundant code blocks
+0982. 🚀 perf: lazy-load components
