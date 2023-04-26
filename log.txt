@@ -65192,3 +65192,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0667. ✨ feat: add export to CSV option
 0658. 🎨 style: rename variables for clarity
+0536. ✨ feat: add user authentication
