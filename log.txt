@@ -14489,3 +14489,4 @@
 0793. 📚 docs: clarify environment setup
 0838. 🎨 style: standardize quote style
 0249. ✅ test: increase coverage on auth module
+0820. 📚 docs: add API usage examples
