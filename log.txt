@@ -893,3 +893,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0415. 🐛 fix: handle 500 error in quiz API
 0535. 📚 docs: write FAQ section
+0246. ✅ test: add integration test for /submit endpoint
