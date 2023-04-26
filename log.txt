@@ -10558,3 +10558,4 @@
 0020. ✅ test: add integration test for /submit endpoint
 0627. 📚 docs: document token refresh logic
 0360. ✨ feat: add export to CSV option
+0346. ✅ test: mock database connection in test suite
