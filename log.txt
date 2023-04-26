@@ -71321,3 +71321,4 @@
 0212. 🎨 style: standardize quote style
 0036. 🔧 refactor: clean up auth middleware
 0592. 📚 docs: add API usage examples
+0939. 📚 docs: update README with setup steps
