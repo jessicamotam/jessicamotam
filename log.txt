@@ -16344,3 +16344,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0261. 🔧 refactor: refactor quiz grading logic
 0254. 🚀 perf: reduce image load time
+0226. 🚀 perf: lazy-load components
