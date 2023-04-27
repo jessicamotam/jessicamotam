@@ -81547,3 +81547,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0529. 📚 docs: write FAQ section
 0691. 🎨 style: rename variables for clarity
+0430. 🐛 fix: fix null pointer exception on login
