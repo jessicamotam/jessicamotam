@@ -5207,3 +5207,4 @@
 0341. 🚀 perf: lazy-load components
 0306. 🎨 style: apply consistent indentation
 0874. 🔧 refactor: split large controller into smaller functions
+0195. 📚 docs: clarify environment setup
