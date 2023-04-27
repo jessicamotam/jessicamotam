@@ -22714,3 +22714,4 @@
 0237. 🎨 style: standardize quote style
 0131. 📚 docs: write FAQ section
 0631. ✨ feat: create admin dashboard
+0055. 📚 docs: update README with setup steps
