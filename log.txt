@@ -29082,3 +29082,4 @@
 0741. 🎨 style: apply consistent indentation
 0469. 🚀 perf: lazy-load components
 0061. ✨ feat: create admin dashboard
+0457. 🐛 fix: handle 500 error in quiz API
