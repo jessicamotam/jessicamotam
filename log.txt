@@ -43525,3 +43525,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0665. ♻️ chore: update .gitignore
 0941. 🚀 perf: cache repeated calculations
+0144. ✅ test: increase coverage on auth module
