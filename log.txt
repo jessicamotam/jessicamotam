@@ -46250,3 +46250,4 @@
 0535. 📚 docs: write FAQ section
 0641. 📚 docs: write FAQ section
 0919. 🚀 perf: optimize database query for quiz results
+0030. 🐛 fix: fix null pointer exception on login
