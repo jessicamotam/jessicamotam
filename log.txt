@@ -31570,3 +31570,4 @@
 0826. 📚 docs: clarify environment setup
 0515. 🚀 perf: optimize database query for quiz results
 0108. 🎨 style: remove trailing whitespace
+0666. 🐛 fix: fix broken CSS in mobile view
