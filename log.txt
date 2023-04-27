@@ -43174,3 +43174,4 @@
 0441. 📚 docs: add API usage examples
 0568. 🐛 fix: handle 500 error in quiz API
 0058. ♻️ chore: add GitHub actions badge
+0238. 🎨 style: apply consistent indentation
