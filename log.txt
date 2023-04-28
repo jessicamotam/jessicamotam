@@ -73074,3 +73074,4 @@
 0864. 🐛 fix: correct typo in registration form
 0702. ✨ feat: add user authentication
 0736. 🐛 fix: fix null pointer exception on login
+0028. 🎨 style: standardize quote style
