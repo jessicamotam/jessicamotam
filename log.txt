@@ -63592,3 +63592,4 @@
 0413. ✅ test: add integration test for /submit endpoint
 0385. ♻️ chore: clean up unused files
 0641. 📚 docs: write FAQ section
+0775. 🐛 fix: fix null pointer exception on login
