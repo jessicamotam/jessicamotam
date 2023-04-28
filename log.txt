@@ -7787,3 +7787,4 @@
 0323. 📚 docs: clarify environment setup
 0524. ♻️ chore: rename env.example
 0095. ✅ test: mock database connection in test suite
+0778. 📚 docs: write FAQ section
