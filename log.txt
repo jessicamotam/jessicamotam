@@ -76115,3 +76115,4 @@
 0473. 📚 docs: write FAQ section
 0773. 📚 docs: document token refresh logic
 0810. 🔧 refactor: refactor quiz grading logic
+0706. ✨ feat: support email verification
