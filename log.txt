@@ -8835,3 +8835,4 @@
 0273. 🚀 perf: reduce image load time
 0119. 📚 docs: improve code comments in utils
 0009. ✨ feat: enable dark mode toggle
+0197. 📚 docs: update README with setup steps
