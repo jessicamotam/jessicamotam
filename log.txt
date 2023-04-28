@@ -12598,3 +12598,4 @@
 0914. ✅ test: test user registration edge cases
 0053. ✅ test: increase coverage on auth module
 0327. 🔧 refactor: split large controller into smaller functions
+0670. ✨ feat: add export to CSV option
