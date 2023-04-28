@@ -75889,3 +75889,4 @@
 0028. 🎨 style: standardize quote style
 0664. ✅ test: add unit test for quiz service
 0400. 🐛 fix: fix null pointer exception on login
+0709. ♻️ chore: bump dependencies
