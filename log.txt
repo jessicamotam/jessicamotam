@@ -3294,3 +3294,4 @@
 0381. ♻️ chore: clean up unused files
 0429. ✨ feat: add user authentication
 0525. ✅ test: mock database connection in test suite
+0235. 🐛 fix: fix null pointer exception on login
