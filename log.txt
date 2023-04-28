@@ -45131,3 +45131,4 @@
 0881. 🔧 refactor: split large controller into smaller functions
 0079. 🐛 fix: correct typo in registration form
 0710. 🐛 fix: fix broken CSS in mobile view
+0626. 🎨 style: standardize quote style
