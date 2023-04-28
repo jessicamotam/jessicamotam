@@ -79341,3 +79341,4 @@
 0234. ♻️ chore: rename env.example
 0295. 🎨 style: remove trailing whitespace
 0610. 🚀 perf: lazy-load components
+0160. ♻️ chore: bump dependencies
