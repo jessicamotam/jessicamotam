@@ -40950,3 +40950,4 @@
 0921. 🐛 fix: correct typo in registration form
 0319. 🐛 fix: handle 500 error in quiz API
 0407. 🚀 perf: cache repeated calculations
+0607. 🐛 fix: prevent crash on empty input
