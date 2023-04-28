@@ -75074,3 +75074,4 @@
 0508. ✅ test: add unit test for quiz service
 0986. 📚 docs: document token refresh logic
 0774. 🔧 refactor: refactor quiz grading logic
+0863. 🐛 fix: correct typo in registration form
