@@ -78132,3 +78132,4 @@
 0217. 🚀 perf: reduce image load time
 0168. ✅ test: add integration test for /submit endpoint
 0363. 📚 docs: clarify environment setup
+0735. ♻️ chore: add GitHub actions badge
