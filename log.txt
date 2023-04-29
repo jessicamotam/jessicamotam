@@ -4777,3 +4777,4 @@
 0681. ✨ feat: create admin dashboard
 0098. 🎨 style: rename variables for clarity
 0385. ♻️ chore: clean up unused files
+0562. 🔧 refactor: clean up auth middleware
