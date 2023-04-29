@@ -67695,3 +67695,4 @@
 0297. 🎨 style: remove trailing whitespace
 0865. ♻️ chore: add GitHub actions badge
 0569. 📚 docs: document token refresh logic
+0866. 📚 docs: add API usage examples
