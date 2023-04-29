@@ -68297,3 +68297,4 @@
 0178. ✨ feat: support email verification
 0762. 🚀 perf: lazy-load components
 0382. 📚 docs: improve code comments in utils
+0562. 🔧 refactor: clean up auth middleware
