@@ -39839,3 +39839,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0978. 🐛 fix: prevent crash on empty input
 0685. ✅ test: test user registration edge cases
+0911. ✅ test: increase coverage on auth module
