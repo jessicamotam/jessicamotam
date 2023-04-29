@@ -4282,3 +4282,4 @@
 0101. 📚 docs: clarify environment setup
 0215. 🎨 style: reformat files with black
 0644. 🎨 style: apply consistent indentation
+0436. ✅ test: add integration test for /submit endpoint
