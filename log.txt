@@ -45540,3 +45540,4 @@
 0639. 🐛 fix: correct typo in registration form
 0510. 🎨 style: rename variables for clarity
 0427. ✅ test: mock database connection in test suite
+0751. 🐛 fix: handle 500 error in quiz API
