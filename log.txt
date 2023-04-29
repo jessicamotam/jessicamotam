@@ -64666,3 +64666,4 @@
 0329. 📚 docs: update README with setup steps
 0987. ✨ feat: create admin dashboard
 0888. 🚀 perf: lazy-load components
+0475. 🔧 refactor: clean up auth middleware
