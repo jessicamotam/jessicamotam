@@ -13885,3 +13885,4 @@
 0765. ♻️ chore: clean up unused files
 0369. 🎨 style: standardize quote style
 0741. 🎨 style: apply consistent indentation
+0696. 🔧 refactor: clean up auth middleware
