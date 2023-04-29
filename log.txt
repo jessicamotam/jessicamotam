@@ -13840,3 +13840,4 @@
 0553. 🐛 fix: correct typo in registration form
 0764. ✨ feat: add user authentication
 0798. 🚀 perf: reduce image load time
+0607. 🐛 fix: prevent crash on empty input
