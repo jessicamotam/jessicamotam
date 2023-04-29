@@ -15407,3 +15407,4 @@
 0292. 📚 docs: clarify environment setup
 0051. ✨ feat: enable dark mode toggle
 0113. ✨ feat: add user authentication
+0618. ✨ feat: support email verification
