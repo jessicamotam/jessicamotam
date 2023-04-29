@@ -37892,3 +37892,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0063. 🐛 fix: handle 500 error in quiz API
 0635. 🎨 style: apply consistent indentation
+0858. ♻️ chore: clean up unused files
