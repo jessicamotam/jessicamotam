@@ -26226,3 +26226,4 @@
 0287. 📚 docs: write FAQ section
 0339. 📚 docs: update README with setup steps
 0281. ✨ feat: support email verification
+0006. 🐛 fix: prevent crash on empty input
