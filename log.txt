@@ -27396,3 +27396,4 @@
 0661. ✅ test: add integration test for /submit endpoint
 0365. 🚀 perf: reduce image load time
 0890. 🔧 refactor: organize models into subfolders
+0243. 🔧 refactor: clean up auth middleware
