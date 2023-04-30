@@ -29352,3 +29352,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0351. ✨ feat: add export to CSV option
 0100. ♻️ chore: update .gitignore
+0723. 🔧 refactor: remove redundant code blocks
