@@ -44454,3 +44454,4 @@
 0301. 🎨 style: apply consistent indentation
 0450. 🐛 fix: fix broken CSS in mobile view
 0150. 🎨 style: remove trailing whitespace
+0347. ♻️ chore: update .gitignore
