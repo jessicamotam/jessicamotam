@@ -38000,3 +38000,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0268. 🐛 fix: prevent crash on empty input
 0985. 📚 docs: document token refresh logic
+0447. ♻️ chore: bump dependencies
