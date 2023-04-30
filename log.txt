@@ -52858,3 +52858,4 @@
 0651. ✨ feat: enable dark mode toggle
 0674. 🔧 refactor: split large controller into smaller functions
 0701. 🔧 refactor: clean up auth middleware
+0971. 🎨 style: standardize quote style
