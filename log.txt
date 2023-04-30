@@ -1140,3 +1140,4 @@
 0077. ♻️ chore: rename env.example
 0249. ✅ test: increase coverage on auth module
 0170. ✅ test: increase coverage on auth module
+0888. 🚀 perf: lazy-load components
