@@ -31103,3 +31103,4 @@
 0798. 🚀 perf: reduce image load time
 0837. 🚀 perf: cache repeated calculations
 0062. ♻️ chore: update .gitignore
+0189. 📚 docs: clarify environment setup
