@@ -43853,3 +43853,4 @@
 0270. ♻️ chore: rename env.example
 0785. ✨ feat: enable dark mode toggle
 0199. ✨ feat: create admin dashboard
+0200. 🐛 fix: handle 500 error in quiz API
