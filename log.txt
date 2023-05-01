@@ -43947,3 +43947,4 @@
 0353. ♻️ chore: rename env.example
 0451. ✨ feat: support email verification
 0707. 🎨 style: apply consistent indentation
+0024. 📚 docs: write FAQ section
