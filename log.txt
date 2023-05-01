@@ -84510,3 +84510,4 @@
 0077. ♻️ chore: rename env.example
 0256. ✅ test: mock database connection in test suite
 0492. 🎨 style: remove trailing whitespace
+0504. 📚 docs: document token refresh logic
