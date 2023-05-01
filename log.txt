@@ -59598,3 +59598,4 @@
 0311. 🎨 style: apply consistent indentation
 0176. 🔧 refactor: remove redundant code blocks
 0794. ♻️ chore: clean up unused files
+0998. 🐛 fix: fix null pointer exception on login
