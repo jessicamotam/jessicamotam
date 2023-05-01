@@ -2812,3 +2812,4 @@
 0287. 📚 docs: write FAQ section
 0311. 🎨 style: apply consistent indentation
 0125. ✅ test: add integration test for /submit endpoint
+0054. ♻️ chore: update .gitignore
