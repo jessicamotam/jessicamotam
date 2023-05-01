@@ -23409,3 +23409,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0007. 🎨 style: rename variables for clarity
 0253. 📚 docs: update README with setup steps
+0726. ✨ feat: enable dark mode toggle
