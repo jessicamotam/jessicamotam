@@ -16826,3 +16826,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0428. 🐛 fix: fix null pointer exception on login
 0133. 🐛 fix: fix null pointer exception on login
+0317. ✅ test: test user registration edge cases
