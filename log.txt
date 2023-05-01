@@ -31272,3 +31272,4 @@
 0426. ✅ test: add integration test for /submit endpoint
 0286. ✅ test: mock database connection in test suite
 0100. ♻️ chore: update .gitignore
+0890. 🔧 refactor: organize models into subfolders
