@@ -89140,3 +89140,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0159. 🚀 perf: lazy-load components
 0349. ✅ test: increase coverage on auth module
+0050. ✨ feat: enable dark mode toggle
