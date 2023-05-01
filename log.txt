@@ -9755,3 +9755,4 @@
 0305. ✨ feat: enable dark mode toggle
 0626. 🎨 style: standardize quote style
 0606. 📚 docs: improve code comments in utils
+0865. ♻️ chore: add GitHub actions badge
