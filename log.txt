@@ -58419,3 +58419,4 @@
 0636. ✅ test: increase coverage on auth module
 0462. ♻️ chore: update .gitignore
 0947. 📚 docs: write FAQ section
+0120. ✅ test: add integration test for /submit endpoint
