@@ -82993,3 +82993,4 @@
 0971. 🎨 style: standardize quote style
 0100. ♻️ chore: update .gitignore
 0144. ✅ test: increase coverage on auth module
+0208. 🔧 refactor: clean up auth middleware
