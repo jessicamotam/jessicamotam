@@ -36508,3 +36508,4 @@
 0122. ✨ feat: support email verification
 0960. ✅ test: increase coverage on auth module
 0655. 🚀 perf: cache repeated calculations
+0609. 🐛 fix: handle 500 error in quiz API
