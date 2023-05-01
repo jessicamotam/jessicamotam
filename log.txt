@@ -90821,3 +90821,4 @@
 0365. 🚀 perf: reduce image load time
 0667. ✨ feat: add export to CSV option
 0378. 🐛 fix: prevent crash on empty input
+0797. 📚 docs: add API usage examples
