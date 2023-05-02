@@ -47484,3 +47484,4 @@
 0234. ♻️ chore: rename env.example
 0598. 🔧 refactor: remove redundant code blocks
 0805. ♻️ chore: add GitHub actions badge
+0743. 🎨 style: apply consistent indentation
