@@ -20869,3 +20869,4 @@
 0745. ✅ test: add unit test for quiz service
 0767. 🔧 refactor: remove redundant code blocks
 0588. 🔧 refactor: organize models into subfolders
+0701. 🔧 refactor: clean up auth middleware
