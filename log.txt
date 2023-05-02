@@ -6462,3 +6462,4 @@
 0494. 🎨 style: rename variables for clarity
 0947. 📚 docs: write FAQ section
 0265. 🎨 style: reformat files with black
+0109. 🚀 perf: lazy-load components
