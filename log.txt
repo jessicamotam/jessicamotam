@@ -67431,3 +67431,4 @@
 0946. ✅ test: add unit test for quiz service
 0133. 🐛 fix: fix null pointer exception on login
 0945. ♻️ chore: add GitHub actions badge
+0124. 🎨 style: reformat files with black
