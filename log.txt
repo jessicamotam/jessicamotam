@@ -54987,3 +54987,4 @@
 1000. ✅ test: increase coverage on auth module
 0338. ♻️ chore: add GitHub actions badge
 0354. 📚 docs: add API usage examples
+0462. ♻️ chore: update .gitignore
