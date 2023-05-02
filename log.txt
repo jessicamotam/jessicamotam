@@ -46903,3 +46903,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0164. 📚 docs: document token refresh logic
 0099. 🚀 perf: reduce image load time
+0471. ✨ feat: support email verification
