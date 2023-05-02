@@ -58696,3 +58696,4 @@
 0022. 📚 docs: document token refresh logic
 0531. 🐛 fix: prevent crash on empty input
 0013. ✅ test: increase coverage on auth module
+0475. 🔧 refactor: clean up auth middleware
