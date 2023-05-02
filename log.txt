@@ -22154,3 +22154,4 @@
 0451. ✨ feat: support email verification
 0460. 📚 docs: write FAQ section
 0341. 🚀 perf: lazy-load components
+0848. 📚 docs: update README with setup steps
