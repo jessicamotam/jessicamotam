@@ -40826,3 +40826,4 @@
 0039. ✅ test: add integration test for /submit endpoint
 0080. ✨ feat: support email verification
 0570. 🎨 style: apply consistent indentation
+0563. 📚 docs: clarify environment setup
