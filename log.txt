@@ -19676,3 +19676,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0296. 🔧 refactor: organize models into subfolders
 0854. ♻️ chore: rename env.example
+0135. ✅ test: test user registration edge cases
