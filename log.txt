@@ -51542,3 +51542,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0702. ✨ feat: add user authentication
 0097. 🐛 fix: handle 500 error in quiz API
+0596. ♻️ chore: update .gitignore
