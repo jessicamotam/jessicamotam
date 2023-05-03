@@ -44604,3 +44604,4 @@
 0103. 🔧 refactor: remove redundant code blocks
 0300. ✨ feat: add export to CSV option
 0324. 📚 docs: document token refresh logic
+0395. 📚 docs: write FAQ section
