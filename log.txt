@@ -77036,3 +77036,4 @@
 0212. 🎨 style: standardize quote style
 0016. 🎨 style: apply consistent indentation
 0967. ♻️ chore: add GitHub actions badge
+0296. 🔧 refactor: organize models into subfolders
