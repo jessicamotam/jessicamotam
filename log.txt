@@ -31023,3 +31023,4 @@
 0155. ✨ feat: create admin dashboard
 1000. ✅ test: increase coverage on auth module
 0116. ✨ feat: support email verification
+0978. 🐛 fix: prevent crash on empty input
