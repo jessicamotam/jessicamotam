@@ -88568,3 +88568,4 @@
 0927. ♻️ chore: bump dependencies
 0383. 🐛 fix: fix broken CSS in mobile view
 0111. 📚 docs: update README with setup steps
+0068. 🐛 fix: fix null pointer exception on login
