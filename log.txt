@@ -68315,3 +68315,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0978. 🐛 fix: prevent crash on empty input
 0222. 🐛 fix: handle 500 error in quiz API
+0573. ✅ test: add integration test for /submit endpoint
