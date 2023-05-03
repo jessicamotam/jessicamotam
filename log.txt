@@ -82276,3 +82276,4 @@
 0797. 📚 docs: add API usage examples
 0512. 🚀 perf: reduce image load time
 0214. 📚 docs: improve code comments in utils
+0507. 🔧 refactor: clean up auth middleware
