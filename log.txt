@@ -39070,3 +39070,4 @@
 0960. ✅ test: increase coverage on auth module
 0596. ♻️ chore: update .gitignore
 0052. 🎨 style: standardize quote style
+0760. 🐛 fix: resolve issue with date parsing
