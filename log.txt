@@ -9052,3 +9052,4 @@
 0287. 📚 docs: write FAQ section
 0761. ✅ test: add unit test for quiz service
 0562. 🔧 refactor: clean up auth middleware
+0871. ✅ test: add integration test for /submit endpoint
