@@ -18900,3 +18900,4 @@
 0712. 🎨 style: apply consistent indentation
 0968. 🎨 style: standardize quote style
 0461. ✨ feat: add user authentication
+0430. 🐛 fix: fix null pointer exception on login
