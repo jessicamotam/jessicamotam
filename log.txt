@@ -6088,3 +6088,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0791. 🔧 refactor: clean up auth middleware
 0190. 🎨 style: rename variables for clarity
+0178. ✨ feat: support email verification
