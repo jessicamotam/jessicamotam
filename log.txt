@@ -43372,3 +43372,4 @@
 0275. 🎨 style: standardize quote style
 0851. ✅ test: mock database connection in test suite
 0830. 🎨 style: apply consistent indentation
+0485. 📚 docs: update README with setup steps
