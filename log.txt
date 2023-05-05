@@ -23870,3 +23870,4 @@
 0486. ✨ feat: add export to CSV option
 0553. 🐛 fix: correct typo in registration form
 0035. ✅ test: increase coverage on auth module
+0316. 🐛 fix: fix broken CSS in mobile view
