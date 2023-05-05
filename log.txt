@@ -18080,3 +18080,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0141. 📚 docs: document token refresh logic
 0323. 📚 docs: clarify environment setup
+0172. 📚 docs: add API usage examples
