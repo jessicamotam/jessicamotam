@@ -19185,3 +19185,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0840. 🔧 refactor: refactor quiz grading logic
 0494. 🎨 style: rename variables for clarity
+0745. ✅ test: add unit test for quiz service
