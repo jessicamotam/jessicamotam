@@ -32921,3 +32921,4 @@
 0292. 📚 docs: clarify environment setup
 0652. 🔧 refactor: organize models into subfolders
 0563. 📚 docs: clarify environment setup
+0778. 📚 docs: write FAQ section
