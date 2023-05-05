@@ -23711,3 +23711,4 @@
 0071. 🔧 refactor: refactor quiz grading logic
 0865. ♻️ chore: add GitHub actions badge
 0525. ✅ test: mock database connection in test suite
+0203. 🚀 perf: lazy-load components
