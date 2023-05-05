@@ -8114,3 +8114,4 @@
 0087. ✨ feat: add export to CSV option
 0170. ✅ test: increase coverage on auth module
 0772. 🐛 fix: fix null pointer exception on login
+0280. ✅ test: add integration test for /submit endpoint
