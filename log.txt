@@ -48841,3 +48841,4 @@
 0155. ✨ feat: create admin dashboard
 0917. ✅ test: add integration test for /submit endpoint
 0027. 📚 docs: clarify environment setup
+0058. ♻️ chore: add GitHub actions badge
