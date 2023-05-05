@@ -77902,3 +77902,4 @@
 0145. 📚 docs: improve code comments in utils
 0138. 🎨 style: rename variables for clarity
 0994. 🚀 perf: reduce image load time
+0562. 🔧 refactor: clean up auth middleware
