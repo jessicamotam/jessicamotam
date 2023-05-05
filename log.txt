@@ -60172,3 +60172,4 @@
 0372. ✨ feat: add user authentication
 0965. 🎨 style: reformat files with black
 0215. 🎨 style: reformat files with black
+0131. 📚 docs: write FAQ section
