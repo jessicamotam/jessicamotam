@@ -481,3 +481,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0513. ♻️ chore: bump dependencies
 0378. 🐛 fix: prevent crash on empty input
+0341. 🚀 perf: lazy-load components
