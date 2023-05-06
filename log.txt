@@ -2847,3 +2847,4 @@
 0811. 🎨 style: reformat files with black
 0242. ♻️ chore: clean up unused files
 0618. ✨ feat: support email verification
+0842. 🎨 style: remove trailing whitespace
