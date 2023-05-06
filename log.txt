@@ -67584,3 +67584,4 @@
 0366. 🔧 refactor: remove redundant code blocks
 0837. 🚀 perf: cache repeated calculations
 0596. ♻️ chore: update .gitignore
+0471. ✨ feat: support email verification
