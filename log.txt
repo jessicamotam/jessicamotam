@@ -62911,3 +62911,4 @@
 0151. ✅ test: add unit test for quiz service
 0964. ♻️ chore: clean up unused files
 0950. 🎨 style: reformat files with black
+0394. 🚀 perf: lazy-load components
