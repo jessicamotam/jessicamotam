@@ -68510,3 +68510,4 @@
 0128. ♻️ chore: rename env.example
 0609. 🐛 fix: handle 500 error in quiz API
 0337. 📚 docs: document token refresh logic
+0738. 🐛 fix: prevent crash on empty input
