@@ -51663,3 +51663,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0807. 🔧 refactor: remove redundant code blocks
 0739. 🎨 style: remove trailing whitespace
+0200. 🐛 fix: handle 500 error in quiz API
