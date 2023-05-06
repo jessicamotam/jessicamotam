@@ -85224,3 +85224,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0114. ♻️ chore: update .gitignore
 0739. 🎨 style: remove trailing whitespace
+0935. 📚 docs: update README with setup steps
