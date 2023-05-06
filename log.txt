@@ -26612,3 +26612,4 @@
 0275. 🎨 style: standardize quote style
 0950. 🎨 style: reformat files with black
 0953. 🎨 style: remove trailing whitespace
+0844. 📚 docs: update README with setup steps
