@@ -35584,3 +35584,4 @@
 0508. ✅ test: add unit test for quiz service
 0188. 🎨 style: apply consistent indentation
 0392. 🎨 style: remove trailing whitespace
+0207. 🐛 fix: prevent crash on empty input
