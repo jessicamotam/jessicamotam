@@ -7676,3 +7676,4 @@
 0721. 🚀 perf: optimize database query for quiz results
 0500. ✅ test: add integration test for /submit endpoint
 0123. ✨ feat: implement quiz timer feature
+0552. 🐛 fix: fix null pointer exception on login
