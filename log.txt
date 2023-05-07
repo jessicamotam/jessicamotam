@@ -56881,3 +56881,4 @@
 0439. 🐛 fix: correct typo in registration form
 0128. ♻️ chore: rename env.example
 0062. ♻️ chore: update .gitignore
+0960. ✅ test: increase coverage on auth module
