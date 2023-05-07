@@ -82128,3 +82128,4 @@
 0060. ♻️ chore: clean up unused files
 0140. 🐛 fix: handle 500 error in quiz API
 0650. ✅ test: add unit test for quiz service
+0526. ✨ feat: add user authentication
