@@ -88486,3 +88486,4 @@
 0657. 🎨 style: standardize quote style
 0840. 🔧 refactor: refactor quiz grading logic
 0551. 📚 docs: write FAQ section
+0603. 🐛 fix: fix broken CSS in mobile view
