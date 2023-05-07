@@ -4191,3 +4191,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0366. 🔧 refactor: remove redundant code blocks
 0182. 🔧 refactor: remove redundant code blocks
+0764. ✨ feat: add user authentication
