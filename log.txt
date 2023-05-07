@@ -59454,3 +59454,4 @@
 0922. 📚 docs: write FAQ section
 0088. 📚 docs: add API usage examples
 0829. 🔧 refactor: organize models into subfolders
+0671. 🐛 fix: fix null pointer exception on login
