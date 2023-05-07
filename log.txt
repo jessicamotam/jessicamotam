@@ -68140,3 +68140,4 @@
 0490. ✨ feat: create admin dashboard
 0469. 🚀 perf: lazy-load components
 0671. 🐛 fix: fix null pointer exception on login
+0944. ✨ feat: add user authentication
