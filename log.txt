@@ -16660,3 +16660,4 @@
 0388. 🎨 style: reformat files with black
 0037. 🐛 fix: correct typo in registration form
 0111. 📚 docs: update README with setup steps
+0876. ♻️ chore: rename env.example
