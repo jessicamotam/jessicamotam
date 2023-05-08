@@ -77897,3 +77897,4 @@
 0884. 📚 docs: clarify environment setup
 0358. 🚀 perf: reduce image load time
 0902. ✨ feat: enable dark mode toggle
+0977. 🔧 refactor: organize models into subfolders
