@@ -73938,3 +73938,4 @@
 0995. ✅ test: mock database connection in test suite
 0268. 🐛 fix: prevent crash on empty input
 0301. 🎨 style: apply consistent indentation
+0792. 🎨 style: standardize quote style
