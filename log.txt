@@ -3349,3 +3349,4 @@
 0117. ✅ test: increase coverage on auth module
 0629. 🔧 refactor: organize models into subfolders
 0378. 🐛 fix: prevent crash on empty input
+0685. ✅ test: test user registration edge cases
