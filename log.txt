@@ -42130,3 +42130,4 @@
 0707. 🎨 style: apply consistent indentation
 0763. 🔧 refactor: organize models into subfolders
 0100. ♻️ chore: update .gitignore
+0524. ♻️ chore: rename env.example
