@@ -36156,3 +36156,4 @@
 0617. ✨ feat: support email verification
 0071. 🔧 refactor: refactor quiz grading logic
 0010. ✨ feat: add user authentication
+0748. 🚀 perf: optimize database query for quiz results
