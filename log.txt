@@ -85657,3 +85657,4 @@
 0833. ✨ feat: add user authentication
 0287. 📚 docs: write FAQ section
 0574. ✨ feat: enable dark mode toggle
+0726. ✨ feat: enable dark mode toggle
