@@ -85390,3 +85390,4 @@
 0503. ♻️ chore: rename env.example
 0878. 🔧 refactor: split large controller into smaller functions
 0484. 🐛 fix: handle 500 error in quiz API
+0500. ✅ test: add integration test for /submit endpoint
