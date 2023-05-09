@@ -58577,3 +58577,4 @@
 0374. 🎨 style: standardize quote style
 0313. 🎨 style: apply consistent indentation
 0641. 📚 docs: write FAQ section
+0970. ♻️ chore: update .gitignore
