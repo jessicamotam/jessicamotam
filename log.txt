@@ -3585,3 +3585,4 @@
 0215. 🎨 style: reformat files with black
 0738. 🐛 fix: prevent crash on empty input
 0982. 🚀 perf: lazy-load components
+0708. ✅ test: add integration test for /submit endpoint
