@@ -65356,3 +65356,4 @@
 0147. ♻️ chore: bump dependencies
 0866. 📚 docs: add API usage examples
 0946. ✅ test: add unit test for quiz service
+0207. 🐛 fix: prevent crash on empty input
