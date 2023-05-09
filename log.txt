@@ -72317,3 +72317,4 @@
 0460. 📚 docs: write FAQ section
 0845. 🚀 perf: cache repeated calculations
 0266. 🔧 refactor: remove redundant code blocks
+0649. 📚 docs: update README with setup steps
