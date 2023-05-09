@@ -80580,3 +80580,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0463. 🚀 perf: reduce image load time
 0994. 🚀 perf: reduce image load time
+0786. ✨ feat: enable dark mode toggle
