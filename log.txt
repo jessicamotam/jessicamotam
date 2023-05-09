@@ -75470,3 +75470,4 @@
 0155. ✨ feat: create admin dashboard
 0556. ✨ feat: support email verification
 0124. 🎨 style: reformat files with black
+0960. ✅ test: increase coverage on auth module
