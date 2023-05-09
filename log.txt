@@ -37929,3 +37929,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0257. 📚 docs: clarify environment setup
 0210. 🎨 style: apply consistent indentation
+0861. ♻️ chore: clean up unused files
