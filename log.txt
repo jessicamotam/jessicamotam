@@ -35355,3 +35355,4 @@
 0879. 🎨 style: standardize quote style
 0367. 🐛 fix: fix null pointer exception on login
 0712. 🎨 style: apply consistent indentation
+0734. ✨ feat: add export to CSV option
