@@ -16919,3 +16919,4 @@
 0858. ♻️ chore: clean up unused files
 0618. ✨ feat: support email verification
 0291. 📚 docs: write FAQ section
+0668. 🚀 perf: optimize database query for quiz results
