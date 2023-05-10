@@ -46108,3 +46108,4 @@
 0133. 🐛 fix: fix null pointer exception on login
 0171. 🐛 fix: fix broken CSS in mobile view
 0890. 🔧 refactor: organize models into subfolders
+0854. ♻️ chore: rename env.example
