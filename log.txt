@@ -24527,3 +24527,4 @@
 0348. ✅ test: test user registration edge cases
 0609. 🐛 fix: handle 500 error in quiz API
 0112. ✨ feat: enable dark mode toggle
+0298. ♻️ chore: update .gitignore
