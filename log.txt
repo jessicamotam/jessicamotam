@@ -73496,3 +73496,4 @@
 0406. ✨ feat: add export to CSV option
 0830. 🎨 style: apply consistent indentation
 0031. 📚 docs: document token refresh logic
+0556. ✨ feat: support email verification
