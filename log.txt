@@ -87507,3 +87507,4 @@
 0734. ✨ feat: add export to CSV option
 0204. 🎨 style: standardize quote style
 0697. ♻️ chore: bump dependencies
+0795. 📚 docs: update README with setup steps
