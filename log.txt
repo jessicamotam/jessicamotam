@@ -13244,3 +13244,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0147. ♻️ chore: bump dependencies
 0770. ♻️ chore: rename env.example
+0156. 🎨 style: rename variables for clarity
