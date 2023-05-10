@@ -60966,3 +60966,4 @@
 0276. ✅ test: add integration test for /submit endpoint
 0962. ✨ feat: create admin dashboard
 0633. ✨ feat: add user authentication
+0960. ✅ test: increase coverage on auth module
