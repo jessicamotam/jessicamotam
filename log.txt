@@ -88049,3 +88049,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0647. 🐛 fix: prevent crash on empty input
 0402. 🎨 style: reformat files with black
+0679. ♻️ chore: bump dependencies
