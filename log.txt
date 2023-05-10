@@ -20284,3 +20284,4 @@
 0510. 🎨 style: rename variables for clarity
 0477. 🐛 fix: fix broken CSS in mobile view
 0136. 🚀 perf: lazy-load components
+0973. 🔧 refactor: organize models into subfolders
