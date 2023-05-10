@@ -2646,3 +2646,4 @@
 0559. 🔧 refactor: split large controller into smaller functions
 0149. ✨ feat: add export to CSV option
 0716. ✨ feat: implement quiz timer feature
+0420. 🚀 perf: reduce image load time
