@@ -8488,3 +8488,4 @@
 0593. 🐛 fix: correct typo in registration form
 0959. 🐛 fix: fix null pointer exception on login
 0725. 🚀 perf: lazy-load components
+0998. 🐛 fix: fix null pointer exception on login
