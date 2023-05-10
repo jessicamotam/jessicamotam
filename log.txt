@@ -63959,3 +63959,4 @@
 0631. ✨ feat: create admin dashboard
 0026. 🔧 refactor: clean up auth middleware
 0220. 🐛 fix: fix null pointer exception on login
+0485. 📚 docs: update README with setup steps
