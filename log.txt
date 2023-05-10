@@ -53655,3 +53655,4 @@
 0087. ✨ feat: add export to CSV option
 0460. 📚 docs: write FAQ section
 0059. ♻️ chore: bump dependencies
+0823. ✨ feat: add user authentication
