@@ -76317,3 +76317,4 @@
 0281. ✨ feat: support email verification
 0393. 🚀 perf: lazy-load components
 0850. ♻️ chore: rename env.example
+0596. ♻️ chore: update .gitignore
