@@ -84726,3 +84726,4 @@
 0287. 📚 docs: write FAQ section
 0401. 🚀 perf: reduce image load time
 0635. 🎨 style: apply consistent indentation
+0384. 📚 docs: clarify environment setup
