@@ -90334,3 +90334,4 @@
 0233. 🚀 perf: lazy-load components
 0143. ✨ feat: implement quiz timer feature
 0421. 🔧 refactor: split large controller into smaller functions
+0736. 🐛 fix: fix null pointer exception on login
