@@ -46446,3 +46446,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0500. ✅ test: add integration test for /submit endpoint
 0962. ✨ feat: create admin dashboard
+0889. 🚀 perf: lazy-load components
