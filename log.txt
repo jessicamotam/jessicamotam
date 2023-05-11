@@ -21774,3 +21774,4 @@
 0564. 📚 docs: clarify environment setup
 0336. ✨ feat: add export to CSV option
 0167. 🚀 perf: reduce image load time
+0531. 🐛 fix: prevent crash on empty input
