@@ -37985,3 +37985,4 @@
 0044. ✅ test: add unit test for quiz service
 0898. 🐛 fix: fix broken CSS in mobile view
 0479. 🐛 fix: fix null pointer exception on login
+0276. ✅ test: add integration test for /submit endpoint
