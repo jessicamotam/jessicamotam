@@ -53364,3 +53364,4 @@
 0516. ✅ test: add unit test for quiz service
 0127. 🐛 fix: fix null pointer exception on login
 0579. 📚 docs: clarify environment setup
+0090. ✅ test: increase coverage on auth module
