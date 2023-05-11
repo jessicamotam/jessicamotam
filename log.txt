@@ -78008,3 +78008,4 @@
 0899. 🚀 perf: cache repeated calculations
 0215. 🎨 style: reformat files with black
 0958. 🐛 fix: prevent crash on empty input
+0699. 🎨 style: standardize quote style
