@@ -90911,3 +90911,4 @@
 0009. ✨ feat: enable dark mode toggle
 0091. ✨ feat: add user authentication
 0801. ✨ feat: enable dark mode toggle
+0115. 🚀 perf: reduce image load time
