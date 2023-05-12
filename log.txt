@@ -6014,3 +6014,4 @@
 0065. ✅ test: add integration test for /submit endpoint
 0970. ♻️ chore: update .gitignore
 0080. ✨ feat: support email verification
+0598. 🔧 refactor: remove redundant code blocks
