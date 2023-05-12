@@ -4772,3 +4772,4 @@
 0953. 🎨 style: remove trailing whitespace
 0162. ♻️ chore: add GitHub actions badge
 0547. 📚 docs: write FAQ section
+0009. ✨ feat: enable dark mode toggle
