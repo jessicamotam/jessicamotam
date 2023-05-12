@@ -15968,3 +15968,4 @@
 0928. 🎨 style: apply consistent indentation
 0839. 🎨 style: apply consistent indentation
 0448. 🐛 fix: correct typo in registration form
+0844. 📚 docs: update README with setup steps
