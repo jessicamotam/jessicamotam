@@ -26125,3 +26125,4 @@
 0231. 🔧 refactor: clean up auth middleware
 0909. 🔧 refactor: organize models into subfolders
 0147. ♻️ chore: bump dependencies
+0630. 🚀 perf: lazy-load components
