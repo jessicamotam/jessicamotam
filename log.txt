@@ -30918,3 +30918,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0942. ✅ test: increase coverage on auth module
 0797. 📚 docs: add API usage examples
+0790. 📚 docs: write FAQ section
