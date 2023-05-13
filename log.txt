@@ -8997,3 +8997,4 @@
 0487. 🎨 style: reformat files with black
 0423. ✅ test: mock database connection in test suite
 0303. 🎨 style: rename variables for clarity
+0250. 📚 docs: update README with setup steps
