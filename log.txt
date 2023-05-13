@@ -89499,3 +89499,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0969. ✨ feat: create admin dashboard
 0095. ✅ test: mock database connection in test suite
+0864. 🐛 fix: correct typo in registration form
