@@ -1506,3 +1506,4 @@
 0010. ✨ feat: add user authentication
 0244. ✨ feat: add export to CSV option
 0530. 🔧 refactor: refactor quiz grading logic
+0614. 🚀 perf: reduce image load time
