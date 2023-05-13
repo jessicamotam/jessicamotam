@@ -42025,3 +42025,4 @@
 0180. ✨ feat: add export to CSV option
 0955. 🔧 refactor: remove redundant code blocks
 0757. 🔧 refactor: remove redundant code blocks
+0759. 🔧 refactor: organize models into subfolders
