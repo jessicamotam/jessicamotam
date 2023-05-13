@@ -65274,3 +65274,4 @@
 0593. 🐛 fix: correct typo in registration form
 0521. 🎨 style: standardize quote style
 0296. 🔧 refactor: organize models into subfolders
+0244. ✨ feat: add export to CSV option
