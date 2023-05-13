@@ -19966,3 +19966,4 @@
 0972. 🔧 refactor: refactor quiz grading logic
 0588. 🔧 refactor: organize models into subfolders
 0732. ♻️ chore: add GitHub actions badge
+0517. ✅ test: mock database connection in test suite
