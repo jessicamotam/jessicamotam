@@ -49702,3 +49702,4 @@
 0005. ✅ test: add unit test for quiz service
 0704. 🚀 perf: cache repeated calculations
 0188. 🎨 style: apply consistent indentation
+0759. 🔧 refactor: organize models into subfolders
