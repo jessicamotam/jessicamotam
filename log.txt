@@ -35348,3 +35348,4 @@
 0233. 🚀 perf: lazy-load components
 0438. ♻️ chore: bump dependencies
 0686. 🎨 style: standardize quote style
+0882. 🚀 perf: optimize database query for quiz results
