@@ -5582,3 +5582,4 @@
 0974. ✨ feat: add export to CSV option
 0146. 🎨 style: apply consistent indentation
 0843. 📚 docs: document token refresh logic
+0383. 🐛 fix: fix broken CSS in mobile view
