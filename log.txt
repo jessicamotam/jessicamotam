@@ -79754,3 +79754,4 @@
 0317. ✅ test: test user registration edge cases
 0837. 🚀 perf: cache repeated calculations
 0974. ✨ feat: add export to CSV option
+0383. 🐛 fix: fix broken CSS in mobile view
