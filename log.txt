@@ -5476,3 +5476,4 @@
 0491. 🚀 perf: lazy-load components
 0032. 🎨 style: apply consistent indentation
 0027. 📚 docs: clarify environment setup
+0626. 🎨 style: standardize quote style
