@@ -17155,3 +17155,4 @@
 0979. 🎨 style: standardize quote style
 0207. 🐛 fix: prevent crash on empty input
 0244. ✨ feat: add export to CSV option
+0278. 🔧 refactor: clean up auth middleware
