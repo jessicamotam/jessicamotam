@@ -21521,3 +21521,4 @@
 0665. ♻️ chore: update .gitignore
 0179. 🔧 refactor: split large controller into smaller functions
 0594. 🎨 style: reformat files with black
+0424. ✨ feat: add user authentication
