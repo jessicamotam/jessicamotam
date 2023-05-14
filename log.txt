@@ -43229,3 +43229,4 @@
 0702. ✨ feat: add user authentication
 0790. 📚 docs: write FAQ section
 0254. 🚀 perf: reduce image load time
+0715. ✨ feat: create admin dashboard
