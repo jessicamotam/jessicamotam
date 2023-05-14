@@ -18984,3 +18984,4 @@
 0197. 📚 docs: update README with setup steps
 0377. ✨ feat: add user authentication
 0353. ♻️ chore: rename env.example
+0938. 🎨 style: rename variables for clarity
