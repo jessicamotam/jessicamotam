@@ -57005,3 +57005,4 @@
 0147. ♻️ chore: bump dependencies
 0867. 🔧 refactor: refactor quiz grading logic
 0639. 🐛 fix: correct typo in registration form
+0531. 🐛 fix: prevent crash on empty input
