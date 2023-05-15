@@ -62982,3 +62982,4 @@
 0543. ✨ feat: support email verification
 0722. 📚 docs: add API usage examples
 0160. ♻️ chore: bump dependencies
+0932. ✅ test: add integration test for /submit endpoint
