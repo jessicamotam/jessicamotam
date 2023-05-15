@@ -86450,3 +86450,4 @@
 0357. ✅ test: add unit test for quiz service
 0044. ✅ test: add unit test for quiz service
 0331. 🐛 fix: fix broken CSS in mobile view
+0685. ✅ test: test user registration edge cases
