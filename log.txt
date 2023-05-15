@@ -38487,3 +38487,4 @@
 0638. 📚 docs: improve code comments in utils
 0716. ✨ feat: implement quiz timer feature
 0502. 📚 docs: update README with setup steps
+0433. 🐛 fix: prevent crash on empty input
