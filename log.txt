@@ -21925,3 +21925,4 @@
 0837. 🚀 perf: cache repeated calculations
 0828. ♻️ chore: add GitHub actions badge
 0738. 🐛 fix: prevent crash on empty input
+0181. ♻️ chore: add GitHub actions badge
