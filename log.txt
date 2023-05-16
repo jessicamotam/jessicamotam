@@ -77987,3 +77987,4 @@
 0102. ✨ feat: support email verification
 0169. 📚 docs: add API usage examples
 0615. 🐛 fix: correct typo in registration form
+0426. ✅ test: add integration test for /submit endpoint
