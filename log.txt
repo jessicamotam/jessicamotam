@@ -61749,3 +61749,4 @@
 0001. 🚀 perf: cache repeated calculations
 0312. ✨ feat: add user authentication
 0287. 📚 docs: write FAQ section
+0153. ♻️ chore: rename env.example
