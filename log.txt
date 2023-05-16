@@ -80663,3 +80663,4 @@
 0438. ♻️ chore: bump dependencies
 0226. 🚀 perf: lazy-load components
 0016. 🎨 style: apply consistent indentation
+0207. 🐛 fix: prevent crash on empty input
