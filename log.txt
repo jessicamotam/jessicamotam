@@ -84159,3 +84159,4 @@
 0042. 📚 docs: document token refresh logic
 0827. 🚀 perf: optimize database query for quiz results
 0247. 🎨 style: apply consistent indentation
+0693. 📚 docs: add API usage examples
