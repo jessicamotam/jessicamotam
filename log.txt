@@ -78026,3 +78026,4 @@
 0315. ✅ test: add integration test for /submit endpoint
 1000. ✅ test: increase coverage on auth module
 0340. 🚀 perf: optimize database query for quiz results
+0772. 🐛 fix: fix null pointer exception on login
