@@ -2156,3 +2156,4 @@
 0055. 📚 docs: update README with setup steps
 0014. 🔧 refactor: remove redundant code blocks
 0320. 📚 docs: update README with setup steps
+0178. ✨ feat: support email verification
