@@ -49589,3 +49589,4 @@
 0574. ✨ feat: enable dark mode toggle
 0035. ✅ test: increase coverage on auth module
 0408. ♻️ chore: add GitHub actions badge
+0113. ✨ feat: add user authentication
