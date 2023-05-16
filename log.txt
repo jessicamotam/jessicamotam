@@ -75109,3 +75109,4 @@
 0252. 🎨 style: remove trailing whitespace
 0017. ✅ test: mock database connection in test suite
 0856. 🐛 fix: fix null pointer exception on login
+0301. 🎨 style: apply consistent indentation
