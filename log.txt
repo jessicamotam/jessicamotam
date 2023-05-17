@@ -79536,3 +79536,4 @@
 0363. 📚 docs: clarify environment setup
 0504. 📚 docs: document token refresh logic
 0838. 🎨 style: standardize quote style
+0250. 📚 docs: update README with setup steps
