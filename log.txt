@@ -86957,3 +86957,4 @@
 0624. ✅ test: add unit test for quiz service
 0060. ♻️ chore: clean up unused files
 0790. 📚 docs: write FAQ section
+0423. ✅ test: mock database connection in test suite
