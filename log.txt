@@ -47243,3 +47243,4 @@
 0053. ✅ test: increase coverage on auth module
 0972. 🔧 refactor: refactor quiz grading logic
 0105. 🐛 fix: correct typo in registration form
+0664. ✅ test: add unit test for quiz service
