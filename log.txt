@@ -81363,3 +81363,4 @@
 0780. 📚 docs: add API usage examples
 0997. ✅ test: increase coverage on auth module
 0956. 📚 docs: clarify environment setup
+0529. 📚 docs: write FAQ section
