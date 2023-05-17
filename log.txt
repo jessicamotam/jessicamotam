@@ -36924,3 +36924,4 @@
 0106. 🎨 style: reformat files with black
 0099. 🚀 perf: reduce image load time
 0102. ✨ feat: support email verification
+0843. 📚 docs: document token refresh logic
