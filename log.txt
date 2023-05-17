@@ -64634,3 +64634,4 @@
 0518. ✨ feat: support email verification
 0935. 📚 docs: update README with setup steps
 0614. 🚀 perf: reduce image load time
+0393. 🚀 perf: lazy-load components
