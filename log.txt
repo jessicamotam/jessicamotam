@@ -83423,3 +83423,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0563. 📚 docs: clarify environment setup
 0433. 🐛 fix: prevent crash on empty input
+0543. ✨ feat: support email verification
