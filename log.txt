@@ -63380,3 +63380,4 @@
 0080. ✨ feat: support email verification
 0835. 🐛 fix: prevent crash on empty input
 0654. ✨ feat: create admin dashboard
+0787. ♻️ chore: rename env.example
