@@ -19144,3 +19144,4 @@
 0622. 🎨 style: apply consistent indentation
 0764. ✨ feat: add user authentication
 0259. 🚀 perf: lazy-load components
+0937. 🐛 fix: handle 500 error in quiz API
