@@ -42745,3 +42745,4 @@
 0714. 📚 docs: improve code comments in utils
 0668. 🚀 perf: optimize database query for quiz results
 0547. 📚 docs: write FAQ section
+0105. 🐛 fix: correct typo in registration form
