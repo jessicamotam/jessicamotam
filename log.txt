@@ -22270,3 +22270,4 @@
 0793. 📚 docs: clarify environment setup
 0021. ✨ feat: support email verification
 0446. 🎨 style: apply consistent indentation
+0666. 🐛 fix: fix broken CSS in mobile view
