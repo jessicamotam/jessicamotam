@@ -82098,3 +82098,4 @@
 0023. 📚 docs: clarify environment setup
 0483. 📚 docs: update README with setup steps
 0553. 🐛 fix: correct typo in registration form
+0538. 🐛 fix: fix broken CSS in mobile view
