@@ -40495,3 +40495,4 @@
 0858. ♻️ chore: clean up unused files
 0440. 📚 docs: update README with setup steps
 0695. ✨ feat: create admin dashboard
+0829. 🔧 refactor: organize models into subfolders
