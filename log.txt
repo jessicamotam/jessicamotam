@@ -3734,3 +3734,4 @@
 0648. ♻️ chore: bump dependencies
 0424. ✨ feat: add user authentication
 0886. ♻️ chore: clean up unused files
+0901. ✨ feat: add user authentication
