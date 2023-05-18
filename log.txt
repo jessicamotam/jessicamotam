@@ -41463,3 +41463,4 @@
 0178. ✨ feat: support email verification
 0147. ♻️ chore: bump dependencies
 0965. 🎨 style: reformat files with black
+0959. 🐛 fix: fix null pointer exception on login
