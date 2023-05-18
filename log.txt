@@ -15907,3 +15907,4 @@
 0393. 🚀 perf: lazy-load components
 0352. ✨ feat: add export to CSV option
 0732. ♻️ chore: add GitHub actions badge
+0198. 📚 docs: clarify environment setup
