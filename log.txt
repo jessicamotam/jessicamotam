@@ -35272,3 +35272,4 @@
 0830. 🎨 style: apply consistent indentation
 0278. 🔧 refactor: clean up auth middleware
 0967. ♻️ chore: add GitHub actions badge
+0827. 🚀 perf: optimize database query for quiz results
