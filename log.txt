@@ -56278,3 +56278,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0099. 🚀 perf: reduce image load time
 0820. 📚 docs: add API usage examples
+0397. 🐛 fix: handle 500 error in quiz API
