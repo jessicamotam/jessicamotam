@@ -5003,3 +5003,4 @@
 0989. 📚 docs: write FAQ section
 0078. ♻️ chore: update .gitignore
 0864. 🐛 fix: correct typo in registration form
+0192. ✨ feat: enable dark mode toggle
