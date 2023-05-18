@@ -55682,3 +55682,4 @@
 0648. ♻️ chore: bump dependencies
 0599. ✅ test: test user registration edge cases
 0599. ✅ test: test user registration edge cases
+0003. ✅ test: increase coverage on auth module
