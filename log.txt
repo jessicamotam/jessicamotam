@@ -57651,3 +57651,4 @@
 0570. 🎨 style: apply consistent indentation
 0512. 🚀 perf: reduce image load time
 0355. 🚀 perf: optimize database query for quiz results
+0483. 📚 docs: update README with setup steps
