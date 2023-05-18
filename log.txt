@@ -59261,3 +59261,4 @@
 0199. ✨ feat: create admin dashboard
 0876. ♻️ chore: rename env.example
 0187. ✨ feat: support email verification
+0101. 📚 docs: clarify environment setup
