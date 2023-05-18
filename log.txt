@@ -19125,3 +19125,4 @@
 0570. 🎨 style: apply consistent indentation
 0151. ✅ test: add unit test for quiz service
 0538. 🐛 fix: fix broken CSS in mobile view
+0971. 🎨 style: standardize quote style
