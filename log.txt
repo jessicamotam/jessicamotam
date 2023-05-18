@@ -3227,3 +3227,4 @@
 0493. ✨ feat: add user authentication
 0711. 🐛 fix: fix broken CSS in mobile view
 0856. 🐛 fix: fix null pointer exception on login
+0307. ✨ feat: support email verification
