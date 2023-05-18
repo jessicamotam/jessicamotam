@@ -50406,3 +50406,4 @@
 0490. ✨ feat: create admin dashboard
 0498. ✅ test: mock database connection in test suite
 0657. 🎨 style: standardize quote style
+0777. 📚 docs: document token refresh logic
