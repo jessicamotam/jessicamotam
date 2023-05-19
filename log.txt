@@ -84516,3 +84516,4 @@
 0683. ✅ test: mock database connection in test suite
 0033. 🎨 style: apply consistent indentation
 0550. 🔧 refactor: split large controller into smaller functions
+0670. ✨ feat: add export to CSV option
