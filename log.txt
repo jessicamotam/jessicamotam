@@ -49104,3 +49104,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0922. 📚 docs: write FAQ section
 0050. ✨ feat: enable dark mode toggle
+0626. 🎨 style: standardize quote style
