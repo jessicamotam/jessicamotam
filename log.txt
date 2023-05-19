@@ -72293,3 +72293,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0442. 🎨 style: standardize quote style
 0490. ✨ feat: create admin dashboard
+0415. 🐛 fix: handle 500 error in quiz API
