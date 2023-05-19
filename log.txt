@@ -23242,3 +23242,4 @@
 0226. 🚀 perf: lazy-load components
 0811. 🎨 style: reformat files with black
 0122. ✨ feat: support email verification
+0475. 🔧 refactor: clean up auth middleware
