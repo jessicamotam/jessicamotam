@@ -68222,3 +68222,4 @@
 0699. 🎨 style: standardize quote style
 0513. ♻️ chore: bump dependencies
 0365. 🚀 perf: reduce image load time
+0749. ✨ feat: support email verification
