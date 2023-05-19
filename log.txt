@@ -35960,3 +35960,4 @@
 0708. ✅ test: add integration test for /submit endpoint
 0755. 🚀 perf: cache repeated calculations
 0531. 🐛 fix: prevent crash on empty input
+0264. 🚀 perf: optimize database query for quiz results
