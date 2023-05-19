@@ -8757,3 +8757,4 @@
 0946. ✅ test: add unit test for quiz service
 0227. ✅ test: test user registration edge cases
 0605. ✨ feat: support email verification
+0200. 🐛 fix: handle 500 error in quiz API
