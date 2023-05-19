@@ -3209,3 +3209,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0146. 🎨 style: apply consistent indentation
 0639. 🐛 fix: correct typo in registration form
+0084. 🐛 fix: handle 500 error in quiz API
