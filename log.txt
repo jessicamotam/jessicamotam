@@ -7927,3 +7927,4 @@
 0677. 📚 docs: add API usage examples
 0249. ✅ test: increase coverage on auth module
 0502. 📚 docs: update README with setup steps
+0599. ✅ test: test user registration edge cases
