@@ -56183,3 +56183,4 @@
 0997. ✅ test: increase coverage on auth module
 0112. ✨ feat: enable dark mode toggle
 0235. 🐛 fix: fix null pointer exception on login
+0086. 🐛 fix: correct typo in registration form
