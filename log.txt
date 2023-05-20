@@ -13243,3 +13243,4 @@
 0908. ♻️ chore: bump dependencies
 0063. 🐛 fix: handle 500 error in quiz API
 0147. ♻️ chore: bump dependencies
+0770. ♻️ chore: rename env.example
