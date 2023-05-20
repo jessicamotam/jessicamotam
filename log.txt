@@ -81353,3 +81353,4 @@
 0226. 🚀 perf: lazy-load components
 0453. 🎨 style: standardize quote style
 0399. ✅ test: mock database connection in test suite
+0959. 🐛 fix: fix null pointer exception on login
