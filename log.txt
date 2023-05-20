@@ -28434,3 +28434,4 @@
 0291. 📚 docs: write FAQ section
 0115. 🚀 perf: reduce image load time
 0060. ♻️ chore: clean up unused files
+0981. 🚀 perf: lazy-load components
