@@ -54923,3 +54923,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0916. ♻️ chore: bump dependencies
 0056. ♻️ chore: rename env.example
+0725. 🚀 perf: lazy-load components
