@@ -59043,3 +59043,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0738. 🐛 fix: prevent crash on empty input
 0451. ✨ feat: support email verification
+0939. 📚 docs: update README with setup steps
