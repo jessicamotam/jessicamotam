@@ -3063,3 +3063,4 @@
 0434. 📚 docs: document token refresh logic
 0778. 📚 docs: write FAQ section
 0710. 🐛 fix: fix broken CSS in mobile view
+0081. 🐛 fix: fix null pointer exception on login
