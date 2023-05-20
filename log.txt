@@ -52012,3 +52012,4 @@
 0481. ✅ test: add unit test for quiz service
 0115. 🚀 perf: reduce image load time
 0288. 🔧 refactor: refactor quiz grading logic
+0706. ✨ feat: support email verification
