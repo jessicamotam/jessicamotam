@@ -79788,3 +79788,4 @@
 0636. ✅ test: increase coverage on auth module
 0860. 🔧 refactor: organize models into subfolders
 0779. 🔧 refactor: organize models into subfolders
+0860. 🔧 refactor: organize models into subfolders
