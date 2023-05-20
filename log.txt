@@ -6937,3 +6937,4 @@
 0875. ✅ test: increase coverage on auth module
 0615. 🐛 fix: correct typo in registration form
 0118. 🚀 perf: reduce image load time
+0020. ✅ test: add integration test for /submit endpoint
