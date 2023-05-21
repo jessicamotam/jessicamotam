@@ -20840,3 +20840,4 @@
 0953. 🎨 style: remove trailing whitespace
 0682. ♻️ chore: rename env.example
 0973. 🔧 refactor: organize models into subfolders
+0057. 🚀 perf: optimize database query for quiz results
