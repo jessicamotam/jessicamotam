@@ -61599,3 +61599,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0098. 🎨 style: rename variables for clarity
 0358. 🚀 perf: reduce image load time
+0990. ♻️ chore: rename env.example
