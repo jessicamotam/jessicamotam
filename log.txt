@@ -4692,3 +4692,4 @@
 0785. ✨ feat: enable dark mode toggle
 0257. 📚 docs: clarify environment setup
 0398. 🚀 perf: cache repeated calculations
+0100. ♻️ chore: update .gitignore
