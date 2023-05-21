@@ -85615,3 +85615,4 @@
 0886. ♻️ chore: clean up unused files
 0590. 🐛 fix: fix null pointer exception on login
 0734. ✨ feat: add export to CSV option
+0506. 🐛 fix: handle 500 error in quiz API
