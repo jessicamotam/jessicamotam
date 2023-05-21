@@ -34625,3 +34625,4 @@
 0412. ✅ test: increase coverage on auth module
 0269. ✅ test: test user registration edge cases
 0928. 🎨 style: apply consistent indentation
+0747. 🔧 refactor: clean up auth middleware
