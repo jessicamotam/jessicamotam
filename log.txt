@@ -82398,3 +82398,4 @@
 0862. ♻️ chore: bump dependencies
 0592. 📚 docs: add API usage examples
 0109. 🚀 perf: lazy-load components
+0909. 🔧 refactor: organize models into subfolders
