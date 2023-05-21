@@ -61303,3 +61303,4 @@
 0410. 🎨 style: reformat files with black
 0597. 🚀 perf: cache repeated calculations
 0943. 🎨 style: rename variables for clarity
+0562. 🔧 refactor: clean up auth middleware
