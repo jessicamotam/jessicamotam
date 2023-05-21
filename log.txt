@@ -58468,3 +58468,4 @@
 0886. ♻️ chore: clean up unused files
 0790. 📚 docs: write FAQ section
 0055. 📚 docs: update README with setup steps
+0243. 🔧 refactor: clean up auth middleware
