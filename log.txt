@@ -79062,3 +79062,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0767. 🔧 refactor: remove redundant code blocks
 0736. 🐛 fix: fix null pointer exception on login
+0793. 📚 docs: clarify environment setup
