@@ -1280,3 +1280,4 @@
 0657. 🎨 style: standardize quote style
 0191. 🔧 refactor: refactor quiz grading logic
 0515. 🚀 perf: optimize database query for quiz results
+0981. 🚀 perf: lazy-load components
