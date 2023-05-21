@@ -53736,3 +53736,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0997. ✅ test: increase coverage on auth module
 0352. ✨ feat: add export to CSV option
+0594. 🎨 style: reformat files with black
