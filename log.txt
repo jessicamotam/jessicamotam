@@ -37056,3 +37056,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0559. 🔧 refactor: split large controller into smaller functions
 0144. ✅ test: increase coverage on auth module
+0726. ✨ feat: enable dark mode toggle
