@@ -68462,3 +68462,4 @@
 0500. ✅ test: add integration test for /submit endpoint
 0213. ✅ test: add integration test for /submit endpoint
 0950. 🎨 style: reformat files with black
+0639. 🐛 fix: correct typo in registration form
