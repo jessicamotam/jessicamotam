@@ -85416,3 +85416,4 @@
 0099. 🚀 perf: reduce image load time
 0692. ✅ test: add integration test for /submit endpoint
 0473. 📚 docs: write FAQ section
+0844. 📚 docs: update README with setup steps
