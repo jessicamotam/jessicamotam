@@ -78897,3 +78897,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0726. ✨ feat: enable dark mode toggle
 0889. 🚀 perf: lazy-load components
+0800. 🚀 perf: optimize database query for quiz results
