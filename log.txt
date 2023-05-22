@@ -79937,3 +79937,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0148. 🔧 refactor: organize models into subfolders
 0926. 🔧 refactor: organize models into subfolders
+0329. 📚 docs: update README with setup steps
