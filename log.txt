@@ -52960,3 +52960,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0869. ♻️ chore: bump dependencies
 0878. 🔧 refactor: split large controller into smaller functions
+0153. ♻️ chore: rename env.example
