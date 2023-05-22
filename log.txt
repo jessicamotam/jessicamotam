@@ -25102,3 +25102,4 @@
 0010. ✨ feat: add user authentication
 0859. ✨ feat: create admin dashboard
 0003. ✅ test: increase coverage on auth module
+0551. 📚 docs: write FAQ section
