@@ -29986,3 +29986,4 @@
 0300. ✨ feat: add export to CSV option
 0947. 📚 docs: write FAQ section
 0080. ✨ feat: support email verification
+0870. ♻️ chore: clean up unused files
