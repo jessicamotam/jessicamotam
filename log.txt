@@ -90022,3 +90022,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0286. ✅ test: mock database connection in test suite
 0145. 📚 docs: improve code comments in utils
+0816. 🔧 refactor: organize models into subfolders
