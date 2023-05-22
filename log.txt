@@ -26606,3 +26606,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0659. 📚 docs: add API usage examples
 0366. 🔧 refactor: remove redundant code blocks
+0307. ✨ feat: support email verification
