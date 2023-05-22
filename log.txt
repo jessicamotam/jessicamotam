@@ -87022,3 +87022,4 @@
 0837. 🚀 perf: cache repeated calculations
 0469. 🚀 perf: lazy-load components
 0306. 🎨 style: apply consistent indentation
+0386. 🚀 perf: optimize database query for quiz results
