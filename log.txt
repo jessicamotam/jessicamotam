@@ -89924,3 +89924,4 @@
 0149. ✨ feat: add export to CSV option
 0947. 📚 docs: write FAQ section
 0448. 🐛 fix: correct typo in registration form
+0921. 🐛 fix: correct typo in registration form
