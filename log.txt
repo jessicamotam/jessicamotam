@@ -87965,3 +87965,4 @@
 0982. 🚀 perf: lazy-load components
 0894. ✅ test: add integration test for /submit endpoint
 0838. 🎨 style: standardize quote style
+0538. 🐛 fix: fix broken CSS in mobile view
