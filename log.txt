@@ -47084,3 +47084,4 @@
 0346. ✅ test: mock database connection in test suite
 0373. 📚 docs: document token refresh logic
 0959. 🐛 fix: fix null pointer exception on login
+0860. 🔧 refactor: organize models into subfolders
