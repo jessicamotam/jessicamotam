@@ -43835,3 +43835,4 @@
 0539. 🔧 refactor: organize models into subfolders
 0461. ✨ feat: add user authentication
 0740. 🐛 fix: resolve issue with date parsing
+0329. 📚 docs: update README with setup steps
