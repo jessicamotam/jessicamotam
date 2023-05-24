@@ -44966,3 +44966,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0110. 🐛 fix: prevent crash on empty input
 0988. 🐛 fix: fix broken CSS in mobile view
+0351. ✨ feat: add export to CSV option
