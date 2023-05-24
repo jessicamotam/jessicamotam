@@ -61184,3 +61184,4 @@
 0463. 🚀 perf: reduce image load time
 0091. ✨ feat: add user authentication
 0551. 📚 docs: write FAQ section
+0363. 📚 docs: clarify environment setup
