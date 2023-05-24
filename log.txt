@@ -4167,3 +4167,4 @@
 0523. ♻️ chore: bump dependencies
 0528. ♻️ chore: clean up unused files
 0803. ✅ test: mock database connection in test suite
+0876. ♻️ chore: rename env.example
