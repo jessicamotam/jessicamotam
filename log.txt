@@ -76738,3 +76738,4 @@
 0995. ✅ test: mock database connection in test suite
 0926. 🔧 refactor: organize models into subfolders
 0271. ✅ test: add unit test for quiz service
+0201. 🔧 refactor: clean up auth middleware
