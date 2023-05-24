@@ -21233,3 +21233,4 @@
 0334. 🚀 perf: cache repeated calculations
 0794. ♻️ chore: clean up unused files
 0027. 📚 docs: clarify environment setup
+0040. 🔧 refactor: clean up auth middleware
