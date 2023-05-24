@@ -51973,3 +51973,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0712. 🎨 style: apply consistent indentation
 0219. ✅ test: increase coverage on auth module
+0723. 🔧 refactor: remove redundant code blocks
