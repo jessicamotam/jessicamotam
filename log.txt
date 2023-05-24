@@ -65518,3 +65518,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0393. 🚀 perf: lazy-load components
 0438. ♻️ chore: bump dependencies
+0451. ✨ feat: support email verification
