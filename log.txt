@@ -39489,3 +39489,4 @@
 0348. ✅ test: test user registration edge cases
 0930. 🎨 style: apply consistent indentation
 0736. 🐛 fix: fix null pointer exception on login
+0268. 🐛 fix: prevent crash on empty input
