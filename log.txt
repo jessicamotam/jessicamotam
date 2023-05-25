@@ -26021,3 +26021,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0732. ♻️ chore: add GitHub actions badge
 0478. 🐛 fix: resolve issue with date parsing
+0258. 🐛 fix: prevent crash on empty input
