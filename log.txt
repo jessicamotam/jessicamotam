@@ -41619,3 +41619,4 @@
 0572. ✨ feat: add user authentication
 0796. 🔧 refactor: refactor quiz grading logic
 0598. 🔧 refactor: remove redundant code blocks
+0617. ✨ feat: support email verification
