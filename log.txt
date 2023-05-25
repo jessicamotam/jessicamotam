@@ -75564,3 +75564,4 @@
 0287. 📚 docs: write FAQ section
 0051. ✨ feat: enable dark mode toggle
 0128. ♻️ chore: rename env.example
+0305. ✨ feat: enable dark mode toggle
