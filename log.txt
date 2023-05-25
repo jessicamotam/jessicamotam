@@ -75397,3 +75397,4 @@
 0088. 📚 docs: add API usage examples
 0688. 🚀 perf: reduce image load time
 0993. ✨ feat: implement quiz timer feature
+0824. 🚀 perf: lazy-load components
