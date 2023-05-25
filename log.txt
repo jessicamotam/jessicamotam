@@ -34383,3 +34383,4 @@
 0335. ♻️ chore: update .gitignore
 0764. ✨ feat: add user authentication
 0036. 🔧 refactor: clean up auth middleware
+0540. ♻️ chore: add GitHub actions badge
