@@ -81898,3 +81898,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0994. 🚀 perf: reduce image load time
 0603. 🐛 fix: fix broken CSS in mobile view
+0278. 🔧 refactor: clean up auth middleware
