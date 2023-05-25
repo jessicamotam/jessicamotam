@@ -42937,3 +42937,4 @@
 0861. ♻️ chore: clean up unused files
 0330. ✅ test: test user registration edge cases
 0055. 📚 docs: update README with setup steps
+0996. ✅ test: test user registration edge cases
