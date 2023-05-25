@@ -45762,3 +45762,4 @@
 0599. ✅ test: test user registration edge cases
 0975. 🎨 style: apply consistent indentation
 0494. 🎨 style: rename variables for clarity
+0843. 📚 docs: document token refresh logic
