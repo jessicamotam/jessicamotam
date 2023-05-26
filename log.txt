@@ -12989,3 +12989,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0003. ✅ test: increase coverage on auth module
 0783. 🐛 fix: handle 500 error in quiz API
+0803. ✅ test: mock database connection in test suite
