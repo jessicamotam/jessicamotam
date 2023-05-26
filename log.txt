@@ -54952,3 +54952,4 @@
 0163. ✨ feat: implement quiz timer feature
 0164. 📚 docs: document token refresh logic
 0273. 🚀 perf: reduce image load time
+0726. ✨ feat: enable dark mode toggle
