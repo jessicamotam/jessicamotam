@@ -32377,3 +32377,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0965. 🎨 style: reformat files with black
 0666. 🐛 fix: fix broken CSS in mobile view
+0174. 📚 docs: clarify environment setup
