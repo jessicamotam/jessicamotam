@@ -44449,3 +44449,4 @@
 0161. ✨ feat: create admin dashboard
 0465. 🎨 style: rename variables for clarity
 0688. 🚀 perf: reduce image load time
+0072. 🚀 perf: optimize database query for quiz results
