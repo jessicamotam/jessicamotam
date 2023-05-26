@@ -1407,3 +1407,4 @@
 0382. 📚 docs: improve code comments in utils
 0305. ✨ feat: enable dark mode toggle
 0586. 🎨 style: remove trailing whitespace
+0511. 🐛 fix: fix broken CSS in mobile view
