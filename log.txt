@@ -49513,3 +49513,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0889. 🚀 perf: lazy-load components
 0089. 🔧 refactor: remove redundant code blocks
+0750. 🎨 style: apply consistent indentation
