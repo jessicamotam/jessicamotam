@@ -4529,3 +4529,4 @@
 1000. ✅ test: increase coverage on auth module
 0485. 📚 docs: update README with setup steps
 0054. ♻️ chore: update .gitignore
+0024. 📚 docs: write FAQ section
