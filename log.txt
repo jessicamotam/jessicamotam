@@ -79699,3 +79699,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0990. ♻️ chore: rename env.example
 0219. ✅ test: increase coverage on auth module
+0019. ✨ feat: enable dark mode toggle
