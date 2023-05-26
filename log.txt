@@ -90281,3 +90281,4 @@
 0225. 🚀 perf: reduce image load time
 0775. 🐛 fix: fix null pointer exception on login
 0811. 🎨 style: reformat files with black
+0923. ✨ feat: support email verification
