@@ -51963,3 +51963,4 @@
 0198. 📚 docs: clarify environment setup
 0801. ✨ feat: enable dark mode toggle
 0854. ♻️ chore: rename env.example
+0343. 🚀 perf: optimize database query for quiz results
