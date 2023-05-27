@@ -1212,3 +1212,4 @@
 0007. 🎨 style: rename variables for clarity
 0627. 📚 docs: document token refresh logic
 0749. ✨ feat: support email verification
+0262. 🎨 style: remove trailing whitespace
