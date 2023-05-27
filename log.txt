@@ -85257,3 +85257,4 @@
 0724. ✅ test: mock database connection in test suite
 0852. ✨ feat: enable dark mode toggle
 0264. 🚀 perf: optimize database query for quiz results
+0889. 🚀 perf: lazy-load components
