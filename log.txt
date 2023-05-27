@@ -23423,3 +23423,4 @@
 0349. ✅ test: increase coverage on auth module
 0384. 📚 docs: clarify environment setup
 0424. ✨ feat: add user authentication
+0187. ✨ feat: support email verification
