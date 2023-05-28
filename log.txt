@@ -543,3 +543,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0600. 🐛 fix: prevent crash on empty input
 0104. 🎨 style: apply consistent indentation
+0981. 🚀 perf: lazy-load components
