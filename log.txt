@@ -14814,3 +14814,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0565. ♻️ chore: add GitHub actions badge
 0052. 🎨 style: standardize quote style
+0742. 📚 docs: clarify environment setup
