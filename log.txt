@@ -89496,3 +89496,4 @@
 0617. ✨ feat: support email verification
 0997. ✅ test: increase coverage on auth module
 0084. 🐛 fix: handle 500 error in quiz API
+0107. 🐛 fix: prevent crash on empty input
