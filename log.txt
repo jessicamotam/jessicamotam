@@ -42196,3 +42196,4 @@
 0131. 📚 docs: write FAQ section
 0633. ✨ feat: add user authentication
 0338. ♻️ chore: add GitHub actions badge
+0115. 🚀 perf: reduce image load time
