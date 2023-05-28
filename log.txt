@@ -26792,3 +26792,4 @@
 0826. 📚 docs: clarify environment setup
 0994. 🚀 perf: reduce image load time
 0185. 📚 docs: write FAQ section
+0087. ✨ feat: add export to CSV option
