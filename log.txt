@@ -12347,3 +12347,4 @@
 0870. ♻️ chore: clean up unused files
 0800. 🚀 perf: optimize database query for quiz results
 0975. 🎨 style: apply consistent indentation
+0576. ♻️ chore: update .gitignore
