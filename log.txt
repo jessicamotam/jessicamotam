@@ -49058,3 +49058,4 @@
 0257. 📚 docs: clarify environment setup
 0185. 📚 docs: write FAQ section
 0889. 🚀 perf: lazy-load components
+0062. ♻️ chore: update .gitignore
