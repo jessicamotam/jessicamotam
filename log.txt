@@ -13986,3 +13986,4 @@
 0269. ✅ test: test user registration edge cases
 0648. ♻️ chore: bump dependencies
 0434. 📚 docs: document token refresh logic
+0450. 🐛 fix: fix broken CSS in mobile view
