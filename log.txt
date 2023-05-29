@@ -38254,3 +38254,4 @@
 0290. ✅ test: test user registration edge cases
 0290. ✅ test: test user registration edge cases
 0061. ✨ feat: create admin dashboard
+0279. ✨ feat: support email verification
