@@ -83618,3 +83618,4 @@
 0100. ♻️ chore: update .gitignore
 0706. ✨ feat: support email verification
 0394. 🚀 perf: lazy-load components
+0747. 🔧 refactor: clean up auth middleware
