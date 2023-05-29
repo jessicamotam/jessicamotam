@@ -90454,3 +90454,4 @@
 0719. 🎨 style: apply consistent indentation
 0896. 🚀 perf: reduce image load time
 0006. 🐛 fix: prevent crash on empty input
+0706. ✨ feat: support email verification
