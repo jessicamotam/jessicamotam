@@ -8920,3 +8920,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0653. 🐛 fix: prevent crash on empty input
 0824. 🚀 perf: lazy-load components
+0713. 🐛 fix: handle 500 error in quiz API
