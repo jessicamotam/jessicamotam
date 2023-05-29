@@ -3704,3 +3704,4 @@
 0875. ✅ test: increase coverage on auth module
 0673. 🐛 fix: correct typo in registration form
 0549. ✨ feat: enable dark mode toggle
+0970. ♻️ chore: update .gitignore
