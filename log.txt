@@ -47273,3 +47273,4 @@
 0942. ✅ test: increase coverage on auth module
 0524. ♻️ chore: rename env.example
 0279. ✨ feat: support email verification
+0075. ✅ test: mock database connection in test suite
