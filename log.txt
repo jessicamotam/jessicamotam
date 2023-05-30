@@ -3543,3 +3543,4 @@
 0104. 🎨 style: apply consistent indentation
 0827. 🚀 perf: optimize database query for quiz results
 0009. ✨ feat: enable dark mode toggle
+0613. 🐛 fix: prevent crash on empty input
