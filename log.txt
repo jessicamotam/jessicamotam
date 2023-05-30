@@ -31347,3 +31347,4 @@
 0823. ✨ feat: add user authentication
 0170. ✅ test: increase coverage on auth module
 0967. ♻️ chore: add GitHub actions badge
+0847. ♻️ chore: clean up unused files
