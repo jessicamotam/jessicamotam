@@ -66862,3 +66862,4 @@
 0615. 🐛 fix: correct typo in registration form
 0165. 🎨 style: remove trailing whitespace
 0401. 🚀 perf: reduce image load time
+0929. ✨ feat: support email verification
