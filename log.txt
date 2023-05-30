@@ -19314,3 +19314,4 @@
 0230. ✨ feat: create admin dashboard
 0087. ✨ feat: add export to CSV option
 0341. 🚀 perf: lazy-load components
+0086. 🐛 fix: correct typo in registration form
