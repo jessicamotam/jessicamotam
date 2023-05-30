@@ -2529,3 +2529,4 @@
 0572. ✨ feat: add user authentication
 0375. 🐛 fix: handle 500 error in quiz API
 0850. ♻️ chore: rename env.example
+0851. ✅ test: mock database connection in test suite
