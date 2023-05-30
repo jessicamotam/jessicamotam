@@ -73868,3 +73868,4 @@
 0470. 🎨 style: remove trailing whitespace
 0080. ✨ feat: support email verification
 0858. ♻️ chore: clean up unused files
+0084. 🐛 fix: handle 500 error in quiz API
