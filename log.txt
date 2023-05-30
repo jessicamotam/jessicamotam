@@ -62767,3 +62767,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0832. 🔧 refactor: remove redundant code blocks
 0115. 🚀 perf: reduce image load time
+0194. 🎨 style: standardize quote style
