@@ -71187,3 +71187,4 @@
 0142. ✨ feat: implement quiz timer feature
 0838. 🎨 style: standardize quote style
 0221. ✨ feat: add user authentication
+0518. ✨ feat: support email verification
