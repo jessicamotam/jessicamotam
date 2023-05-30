@@ -23258,3 +23258,4 @@
 0604. 📚 docs: add API usage examples
 0185. 📚 docs: write FAQ section
 0618. ✨ feat: support email verification
+0547. 📚 docs: write FAQ section
