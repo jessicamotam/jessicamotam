@@ -70289,3 +70289,4 @@
 0697. ♻️ chore: bump dependencies
 0669. ✨ feat: enable dark mode toggle
 0898. 🐛 fix: fix broken CSS in mobile view
+0894. ✅ test: add integration test for /submit endpoint
