@@ -71486,3 +71486,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0704. 🚀 perf: cache repeated calculations
 0256. ✅ test: mock database connection in test suite
+0049. 🐛 fix: handle 500 error in quiz API
