@@ -27993,3 +27993,4 @@
 0730. ✅ test: test user registration edge cases
 0352. ✨ feat: add export to CSV option
 0322. 🔧 refactor: split large controller into smaller functions
+0109. 🚀 perf: lazy-load components
