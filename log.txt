@@ -35083,3 +35083,4 @@
 0439. 🐛 fix: correct typo in registration form
 0173. 🚀 perf: cache repeated calculations
 0385. ♻️ chore: clean up unused files
+0483. 📚 docs: update README with setup steps
