@@ -60011,3 +60011,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0200. 🐛 fix: handle 500 error in quiz API
 0160. ♻️ chore: bump dependencies
+0030. 🐛 fix: fix null pointer exception on login
