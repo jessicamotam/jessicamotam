@@ -59029,3 +59029,4 @@
 0734. ✨ feat: add export to CSV option
 0281. ✨ feat: support email verification
 0101. 📚 docs: clarify environment setup
+0128. ♻️ chore: rename env.example
