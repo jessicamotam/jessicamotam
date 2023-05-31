@@ -74549,3 +74549,4 @@
 0939. 📚 docs: update README with setup steps
 0992. ♻️ chore: clean up unused files
 0117. ✅ test: increase coverage on auth module
+0524. ♻️ chore: rename env.example
