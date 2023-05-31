@@ -84711,3 +84711,4 @@
 0686. 🎨 style: standardize quote style
 0277. 🎨 style: standardize quote style
 0566. 📚 docs: write FAQ section
+0315. ✅ test: add integration test for /submit endpoint
