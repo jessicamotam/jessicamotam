@@ -49519,3 +49519,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0982. 🚀 perf: lazy-load components
 0647. 🐛 fix: prevent crash on empty input
+0702. ✨ feat: add user authentication
