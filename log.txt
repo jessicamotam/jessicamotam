@@ -21370,3 +21370,4 @@
 0320. 📚 docs: update README with setup steps
 0434. 📚 docs: document token refresh logic
 0332. 🎨 style: standardize quote style
+0469. 🚀 perf: lazy-load components
