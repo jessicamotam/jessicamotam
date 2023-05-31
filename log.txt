@@ -59298,3 +59298,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0968. 🎨 style: standardize quote style
 0939. 📚 docs: update README with setup steps
+0400. 🐛 fix: fix null pointer exception on login
