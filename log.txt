@@ -84059,3 +84059,4 @@
 0933. 📚 docs: clarify environment setup
 0786. ✨ feat: enable dark mode toggle
 0924. ✅ test: mock database connection in test suite
+0244. ✨ feat: add export to CSV option
