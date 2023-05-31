@@ -15501,3 +15501,4 @@
 0654. ✨ feat: create admin dashboard
 0753. 🔧 refactor: remove redundant code blocks
 0212. 🎨 style: standardize quote style
+0491. 🚀 perf: lazy-load components
