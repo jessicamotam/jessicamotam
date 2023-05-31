@@ -87556,3 +87556,4 @@
 0010. ✨ feat: add user authentication
 0885. ♻️ chore: update .gitignore
 0521. 🎨 style: standardize quote style
+0541. 🐛 fix: correct typo in registration form
