@@ -25548,3 +25548,4 @@
 0646. ✅ test: test user registration edge cases
 0297. 🎨 style: remove trailing whitespace
 0936. 🔧 refactor: organize models into subfolders
+0148. 🔧 refactor: organize models into subfolders
