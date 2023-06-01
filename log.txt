@@ -17195,3 +17195,4 @@
 0523. ♻️ chore: bump dependencies
 0947. 📚 docs: write FAQ section
 0867. 🔧 refactor: refactor quiz grading logic
+0747. 🔧 refactor: clean up auth middleware
