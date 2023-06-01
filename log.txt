@@ -67668,3 +67668,4 @@
 0499. 🎨 style: reformat files with black
 0380. 🐛 fix: fix null pointer exception on login
 0788. 📚 docs: add API usage examples
+0063. 🐛 fix: handle 500 error in quiz API
