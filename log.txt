@@ -19030,3 +19030,4 @@
 0606. 📚 docs: improve code comments in utils
 0178. ✨ feat: support email verification
 0499. 🎨 style: reformat files with black
+0440. 📚 docs: update README with setup steps
