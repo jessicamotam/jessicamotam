@@ -51108,3 +51108,4 @@
 0053. ✅ test: increase coverage on auth module
 0565. ♻️ chore: add GitHub actions badge
 0685. ✅ test: test user registration edge cases
+0631. ✨ feat: create admin dashboard
