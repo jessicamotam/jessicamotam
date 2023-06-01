@@ -41487,3 +41487,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0566. 📚 docs: write FAQ section
 0991. ♻️ chore: clean up unused files
+0779. 🔧 refactor: organize models into subfolders
