@@ -13001,3 +13001,4 @@
 0974. ✨ feat: add export to CSV option
 0880. 🐛 fix: fix broken CSS in mobile view
 0879. 🎨 style: standardize quote style
+0995. ✅ test: mock database connection in test suite
