@@ -60805,3 +60805,4 @@
 0908. ♻️ chore: bump dependencies
 0178. ✨ feat: support email verification
 0403. ✅ test: mock database connection in test suite
+0610. 🚀 perf: lazy-load components
