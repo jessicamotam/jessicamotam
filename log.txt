@@ -21492,3 +21492,4 @@
 0124. 🎨 style: reformat files with black
 0021. ✨ feat: support email verification
 0545. 🎨 style: standardize quote style
+0616. 🚀 perf: lazy-load components
