@@ -80661,3 +80661,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0240. 🔧 refactor: remove redundant code blocks
 0438. ♻️ chore: bump dependencies
+0226. 🚀 perf: lazy-load components
