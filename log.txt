@@ -72017,3 +72017,4 @@
 0595. ✨ feat: enable dark mode toggle
 0185. 📚 docs: write FAQ section
 0471. ✨ feat: support email verification
+0114. ♻️ chore: update .gitignore
