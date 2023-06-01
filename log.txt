@@ -29665,3 +29665,4 @@
 0449. ✅ test: add unit test for quiz service
 0438. ♻️ chore: bump dependencies
 0963. 🚀 perf: reduce image load time
+0403. ✅ test: mock database connection in test suite
