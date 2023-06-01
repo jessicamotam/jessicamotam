@@ -18514,3 +18514,4 @@
 0468. 📚 docs: update README with setup steps
 0681. ✨ feat: create admin dashboard
 0450. 🐛 fix: fix broken CSS in mobile view
+0854. ♻️ chore: rename env.example
