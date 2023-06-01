@@ -75906,3 +75906,4 @@
 0440. 📚 docs: update README with setup steps
 0566. 📚 docs: write FAQ section
 0739. 🎨 style: remove trailing whitespace
+0279. ✨ feat: support email verification
