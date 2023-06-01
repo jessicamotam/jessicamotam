@@ -39372,3 +39372,4 @@
 0184. 📚 docs: improve code comments in utils
 0399. ✅ test: mock database connection in test suite
 0287. 📚 docs: write FAQ section
+0434. 📚 docs: document token refresh logic
