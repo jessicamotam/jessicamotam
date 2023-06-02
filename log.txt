@@ -875,3 +875,4 @@
 0436. ✅ test: add integration test for /submit endpoint
 0833. ✨ feat: add user authentication
 0132. ✅ test: add unit test for quiz service
+0784. ♻️ chore: clean up unused files
