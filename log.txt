@@ -56832,3 +56832,4 @@
 0778. 📚 docs: write FAQ section
 0975. 🎨 style: apply consistent indentation
 0175. 📚 docs: add API usage examples
+0222. 🐛 fix: handle 500 error in quiz API
