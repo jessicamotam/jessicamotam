@@ -87811,3 +87811,4 @@
 0481. ✅ test: add unit test for quiz service
 0648. ♻️ chore: bump dependencies
 0579. 📚 docs: clarify environment setup
+0348. ✅ test: test user registration edge cases
