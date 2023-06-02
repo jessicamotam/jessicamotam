@@ -24784,3 +24784,4 @@
 0750. 🎨 style: apply consistent indentation
 0657. 🎨 style: standardize quote style
 0908. ♻️ chore: bump dependencies
+0108. 🎨 style: remove trailing whitespace
