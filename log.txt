@@ -56422,3 +56422,4 @@
 0095. ✅ test: mock database connection in test suite
 0160. ♻️ chore: bump dependencies
 0455. ♻️ chore: clean up unused files
+0737. 🐛 fix: handle 500 error in quiz API
