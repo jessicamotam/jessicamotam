@@ -47921,3 +47921,4 @@
 0709. ♻️ chore: bump dependencies
 0634. 🎨 style: reformat files with black
 0045. 🎨 style: apply consistent indentation
+0820. 📚 docs: add API usage examples
