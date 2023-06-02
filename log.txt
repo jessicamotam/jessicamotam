@@ -1822,3 +1822,4 @@
 0742. 📚 docs: clarify environment setup
 0528. ♻️ chore: clean up unused files
 0534. 🔧 refactor: split large controller into smaller functions
+0733. 🐛 fix: fix null pointer exception on login
