@@ -40646,3 +40646,4 @@
 0730. ✅ test: test user registration edge cases
 0442. 🎨 style: standardize quote style
 0189. 📚 docs: clarify environment setup
+0088. 📚 docs: add API usage examples
