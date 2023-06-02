@@ -84131,3 +84131,4 @@
 0678. ✨ feat: add user authentication
 0439. 🐛 fix: correct typo in registration form
 0994. 🚀 perf: reduce image load time
+0206. 🐛 fix: handle 500 error in quiz API
