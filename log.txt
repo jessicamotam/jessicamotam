@@ -36653,3 +36653,4 @@
 0437. 📚 docs: clarify environment setup
 0806. 📚 docs: improve code comments in utils
 0803. ✅ test: mock database connection in test suite
+0805. ♻️ chore: add GitHub actions badge
