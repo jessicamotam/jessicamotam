@@ -44598,3 +44598,4 @@
 0684. 🚀 perf: reduce image load time
 0816. 🔧 refactor: organize models into subfolders
 0759. 🔧 refactor: organize models into subfolders
+0147. ♻️ chore: bump dependencies
