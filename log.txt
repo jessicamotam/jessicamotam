@@ -20686,3 +20686,4 @@
 0165. 🎨 style: remove trailing whitespace
 0925. ✨ feat: add export to CSV option
 0269. ✅ test: test user registration edge cases
+0356. 📚 docs: write FAQ section
