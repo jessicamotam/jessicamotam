@@ -14063,3 +14063,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0008. 🚀 perf: reduce image load time
 0527. 🎨 style: remove trailing whitespace
+0978. 🐛 fix: prevent crash on empty input
