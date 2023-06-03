@@ -17945,3 +17945,4 @@
 0885. ♻️ chore: update .gitignore
 0823. ✨ feat: add user authentication
 0411. ✅ test: add unit test for quiz service
+0344. ♻️ chore: add GitHub actions badge
