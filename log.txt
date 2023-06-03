@@ -31096,3 +31096,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0468. 📚 docs: update README with setup steps
 0174. 📚 docs: clarify environment setup
+0562. 🔧 refactor: clean up auth middleware
