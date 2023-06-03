@@ -2449,3 +2449,4 @@
 0995. ✅ test: mock database connection in test suite
 0715. ✨ feat: create admin dashboard
 0204. 🎨 style: standardize quote style
+0253. 📚 docs: update README with setup steps
