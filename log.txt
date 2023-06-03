@@ -29720,3 +29720,4 @@
 0350. 🚀 perf: cache repeated calculations
 0947. 📚 docs: write FAQ section
 0901. ✨ feat: add user authentication
+0759. 🔧 refactor: organize models into subfolders
