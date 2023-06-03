@@ -86754,3 +86754,4 @@
 0641. 📚 docs: write FAQ section
 0934. ✨ feat: support email verification
 0143. ✨ feat: implement quiz timer feature
+0566. 📚 docs: write FAQ section
