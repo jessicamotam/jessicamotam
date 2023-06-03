@@ -13725,3 +13725,4 @@
 0720. ✨ feat: add export to CSV option
 0299. 🐛 fix: resolve issue with date parsing
 0602. 🔧 refactor: remove redundant code blocks
+0994. 🚀 perf: reduce image load time
