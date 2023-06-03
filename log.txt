@@ -5328,3 +5328,4 @@
 0623. 🎨 style: standardize quote style
 0589. 🐛 fix: fix broken CSS in mobile view
 0466. 🚀 perf: optimize database query for quiz results
+0258. 🐛 fix: prevent crash on empty input
