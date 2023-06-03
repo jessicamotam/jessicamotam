@@ -46349,3 +46349,4 @@
 0852. ✨ feat: enable dark mode toggle
 0585. 🚀 perf: lazy-load components
 0260. ✨ feat: create admin dashboard
+0066. 🔧 refactor: clean up auth middleware
