@@ -37707,3 +37707,4 @@
 0270. ♻️ chore: rename env.example
 0875. ✅ test: increase coverage on auth module
 0392. 🎨 style: remove trailing whitespace
+0157. ✅ test: mock database connection in test suite
