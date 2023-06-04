@@ -35615,3 +35615,4 @@
 0402. 🎨 style: reformat files with black
 0321. 🔧 refactor: organize models into subfolders
 0752. ✅ test: add integration test for /submit endpoint
+0456. 🚀 perf: optimize database query for quiz results
