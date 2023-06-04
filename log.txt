@@ -12383,3 +12383,4 @@
 0245. 🐛 fix: resolve issue with date parsing
 0838. 🎨 style: standardize quote style
 0228. 🔧 refactor: remove redundant code blocks
+0925. ✨ feat: add export to CSV option
