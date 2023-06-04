@@ -41345,3 +41345,4 @@
 0838. 🎨 style: standardize quote style
 0775. 🐛 fix: fix null pointer exception on login
 0934. ✨ feat: support email verification
+0589. 🐛 fix: fix broken CSS in mobile view
