@@ -25185,3 +25185,4 @@
 0509. ♻️ chore: bump dependencies
 0738. 🐛 fix: prevent crash on empty input
 0980. 🎨 style: reformat files with black
+0849. 🐛 fix: correct typo in registration form
