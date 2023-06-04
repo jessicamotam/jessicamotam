@@ -25981,3 +25981,4 @@
 0452. ✨ feat: implement quiz timer feature
 0214. 📚 docs: improve code comments in utils
 0381. ♻️ chore: clean up unused files
+0911. ✅ test: increase coverage on auth module
