@@ -81435,3 +81435,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0953. 🎨 style: remove trailing whitespace
 0185. 📚 docs: write FAQ section
+0986. 📚 docs: document token refresh logic
