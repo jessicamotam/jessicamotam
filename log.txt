@@ -37258,3 +37258,4 @@
 0528. ♻️ chore: clean up unused files
 0756. ✨ feat: support email verification
 0636. ✅ test: increase coverage on auth module
+0026. 🔧 refactor: clean up auth middleware
