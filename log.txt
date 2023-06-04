@@ -27919,3 +27919,4 @@
 0528. ♻️ chore: clean up unused files
 0335. ♻️ chore: update .gitignore
 0705. 🔧 refactor: refactor quiz grading logic
+0511. 🐛 fix: fix broken CSS in mobile view
