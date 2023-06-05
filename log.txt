@@ -71981,3 +71981,4 @@
 0979. 🎨 style: standardize quote style
 0820. 📚 docs: add API usage examples
 0426. ✅ test: add integration test for /submit endpoint
+0795. 📚 docs: update README with setup steps
