@@ -12200,3 +12200,4 @@
 0153. ♻️ chore: rename env.example
 0059. ♻️ chore: bump dependencies
 0750. 🎨 style: apply consistent indentation
+0931. 🚀 perf: reduce image load time
