@@ -71009,3 +71009,4 @@
 0558. ✨ feat: enable dark mode toggle
 0477. 🐛 fix: fix broken CSS in mobile view
 0348. ✅ test: test user registration edge cases
+0287. 📚 docs: write FAQ section
