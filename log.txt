@@ -31202,3 +31202,4 @@
 0117. ✅ test: increase coverage on auth module
 0513. ♻️ chore: bump dependencies
 0048. 📚 docs: update README with setup steps
+0989. 📚 docs: write FAQ section
