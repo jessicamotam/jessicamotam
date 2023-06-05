@@ -9010,3 +9010,4 @@
 0747. 🔧 refactor: clean up auth middleware
 0033. 🎨 style: apply consistent indentation
 0234. ♻️ chore: rename env.example
+0588. 🔧 refactor: organize models into subfolders
