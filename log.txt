@@ -72381,3 +72381,4 @@
 0854. ♻️ chore: rename env.example
 0218. 🔧 refactor: clean up auth middleware
 0739. 🎨 style: remove trailing whitespace
+0433. 🐛 fix: prevent crash on empty input
