@@ -14800,3 +14800,4 @@
 0133. 🐛 fix: fix null pointer exception on login
 0110. 🐛 fix: prevent crash on empty input
 0942. ✅ test: increase coverage on auth module
+0740. 🐛 fix: resolve issue with date parsing
