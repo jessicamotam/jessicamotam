@@ -87888,3 +87888,4 @@
 0773. 📚 docs: document token refresh logic
 0978. 🐛 fix: prevent crash on empty input
 0358. 🚀 perf: reduce image load time
+0871. ✅ test: add integration test for /submit endpoint
