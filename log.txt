@@ -34743,3 +34743,4 @@
 0444. ✅ test: add unit test for quiz service
 0849. 🐛 fix: correct typo in registration form
 0556. ✨ feat: support email verification
+0359. 🔧 refactor: clean up auth middleware
