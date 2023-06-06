@@ -46151,3 +46151,4 @@
 0861. ♻️ chore: clean up unused files
 0846. ✨ feat: implement quiz timer feature
 0186. ✅ test: test user registration edge cases
+0024. 📚 docs: write FAQ section
