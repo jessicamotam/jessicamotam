@@ -85502,3 +85502,4 @@
 0185. 📚 docs: write FAQ section
 0796. 🔧 refactor: refactor quiz grading logic
 0828. ♻️ chore: add GitHub actions badge
+0041. 🐛 fix: fix broken CSS in mobile view
