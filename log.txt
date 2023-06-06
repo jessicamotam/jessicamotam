@@ -43285,3 +43285,4 @@
 0135. ✅ test: test user registration edge cases
 0918. ✨ feat: enable dark mode toggle
 0229. 🚀 perf: optimize database query for quiz results
+0485. 📚 docs: update README with setup steps
