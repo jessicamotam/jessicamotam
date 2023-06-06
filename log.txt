@@ -25041,3 +25041,4 @@
 0923. ✨ feat: support email verification
 0205. 📚 docs: update README with setup steps
 0269. ✅ test: test user registration edge cases
+0676. 🐛 fix: prevent crash on empty input
