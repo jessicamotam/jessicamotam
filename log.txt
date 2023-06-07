@@ -78340,3 +78340,4 @@
 0524. ♻️ chore: rename env.example
 0649. 📚 docs: update README with setup steps
 0295. 🎨 style: remove trailing whitespace
+0504. 📚 docs: document token refresh logic
