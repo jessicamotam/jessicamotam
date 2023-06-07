@@ -22655,3 +22655,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0165. 🎨 style: remove trailing whitespace
 0421. 🔧 refactor: split large controller into smaller functions
+0117. ✅ test: increase coverage on auth module
