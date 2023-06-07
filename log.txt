@@ -58860,3 +58860,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0021. ✨ feat: support email verification
 0137. 🎨 style: rename variables for clarity
+0466. 🚀 perf: optimize database query for quiz results
