@@ -66661,3 +66661,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0306. 🎨 style: apply consistent indentation
 0300. ✨ feat: add export to CSV option
+0265. 🎨 style: reformat files with black
