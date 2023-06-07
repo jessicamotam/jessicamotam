@@ -23601,3 +23601,4 @@
 0407. 🚀 perf: cache repeated calculations
 0333. 🚀 perf: cache repeated calculations
 0837. 🚀 perf: cache repeated calculations
+0571. 🔧 refactor: clean up auth middleware
