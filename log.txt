@@ -1351,3 +1351,4 @@
 0260. ✨ feat: create admin dashboard
 0641. 📚 docs: write FAQ section
 0021. ✨ feat: support email verification
+0384. 📚 docs: clarify environment setup
