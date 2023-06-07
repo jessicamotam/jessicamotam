@@ -63029,3 +63029,4 @@
 0094. 📚 docs: document token refresh logic
 0831. 📚 docs: clarify environment setup
 0100. ♻️ chore: update .gitignore
+0201. 🔧 refactor: clean up auth middleware
