@@ -44766,3 +44766,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0964. ♻️ chore: clean up unused files
 0220. 🐛 fix: fix null pointer exception on login
+0612. ✅ test: test user registration edge cases
