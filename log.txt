@@ -25467,3 +25467,4 @@
 0466. 🚀 perf: optimize database query for quiz results
 0376. 🎨 style: apply consistent indentation
 0999. 🔧 refactor: split large controller into smaller functions
+0154. 🐛 fix: prevent crash on empty input
