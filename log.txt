@@ -24533,3 +24533,4 @@
 0424. ✨ feat: add user authentication
 0921. 🐛 fix: correct typo in registration form
 0546. 🐛 fix: fix null pointer exception on login
+0520. 🐛 fix: fix null pointer exception on login
