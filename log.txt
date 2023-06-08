@@ -87135,3 +87135,4 @@
 0178. ✨ feat: support email verification
 0890. 🔧 refactor: organize models into subfolders
 0905. ♻️ chore: bump dependencies
+0113. ✨ feat: add user authentication
