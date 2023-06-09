@@ -12760,3 +12760,4 @@
 0123. ✨ feat: implement quiz timer feature
 0388. 🎨 style: reformat files with black
 0719. 🎨 style: apply consistent indentation
+0610. 🚀 perf: lazy-load components
