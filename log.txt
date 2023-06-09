@@ -45797,3 +45797,4 @@
 0011. ✅ test: add unit test for quiz service
 0398. 🚀 perf: cache repeated calculations
 0232. 🎨 style: apply consistent indentation
+0589. 🐛 fix: fix broken CSS in mobile view
