@@ -36970,3 +36970,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0099. 🚀 perf: reduce image load time
 0778. 📚 docs: write FAQ section
+0976. ✨ feat: implement quiz timer feature
