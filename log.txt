@@ -31577,3 +31577,4 @@
 0466. 🚀 perf: optimize database query for quiz results
 0396. 🔧 refactor: split large controller into smaller functions
 0888. 🚀 perf: lazy-load components
+0207. 🐛 fix: prevent crash on empty input
