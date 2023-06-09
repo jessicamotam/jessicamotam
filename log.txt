@@ -24627,3 +24627,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0059. ♻️ chore: bump dependencies
 0730. ✅ test: test user registration edge cases
+0977. 🔧 refactor: organize models into subfolders
