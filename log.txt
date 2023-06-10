@@ -7873,3 +7873,4 @@
 0964. ♻️ chore: clean up unused files
 0657. 🎨 style: standardize quote style
 0917. ✅ test: add integration test for /submit endpoint
+0353. ♻️ chore: rename env.example
