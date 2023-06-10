@@ -19553,3 +19553,4 @@
 0706. ✨ feat: support email verification
 0381. ♻️ chore: clean up unused files
 0408. ♻️ chore: add GitHub actions badge
+0392. 🎨 style: remove trailing whitespace
