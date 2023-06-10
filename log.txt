@@ -53516,3 +53516,4 @@
 0913. 🚀 perf: optimize database query for quiz results
 0955. 🔧 refactor: remove redundant code blocks
 0076. 🎨 style: reformat files with black
+0029. 🚀 perf: lazy-load components
