@@ -6245,3 +6245,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0097. 🐛 fix: handle 500 error in quiz API
 0534. 🔧 refactor: split large controller into smaller functions
+0706. ✨ feat: support email verification
