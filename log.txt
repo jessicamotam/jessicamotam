@@ -27587,3 +27587,4 @@
 0037. 🐛 fix: correct typo in registration form
 0290. ✅ test: test user registration edge cases
 0739. 🎨 style: remove trailing whitespace
+0937. 🐛 fix: handle 500 error in quiz API
