@@ -60988,3 +60988,4 @@
 0663. 🚀 perf: reduce image load time
 0848. 📚 docs: update README with setup steps
 0431. 🎨 style: reformat files with black
+0895. ✨ feat: support email verification
