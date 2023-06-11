@@ -51551,3 +51551,4 @@
 0098. 🎨 style: rename variables for clarity
 0011. ✅ test: add unit test for quiz service
 0739. 🎨 style: remove trailing whitespace
+0316. 🐛 fix: fix broken CSS in mobile view
