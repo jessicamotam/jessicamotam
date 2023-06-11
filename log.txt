@@ -85835,3 +85835,4 @@
 0078. ♻️ chore: update .gitignore
 0388. 🎨 style: reformat files with black
 0158. 📚 docs: clarify environment setup
+0947. 📚 docs: write FAQ section
