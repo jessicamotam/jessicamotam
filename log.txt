@@ -13268,3 +13268,4 @@
 0141. 📚 docs: document token refresh logic
 0786. ✨ feat: enable dark mode toggle
 0952. 🔧 refactor: split large controller into smaller functions
+0429. ✨ feat: add user authentication
