@@ -86290,3 +86290,4 @@
 0186. ✅ test: test user registration edge cases
 0161. ✨ feat: create admin dashboard
 0134. ✨ feat: implement quiz timer feature
+0989. 📚 docs: write FAQ section
