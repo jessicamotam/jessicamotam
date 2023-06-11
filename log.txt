@@ -59418,3 +59418,4 @@
 0231. 🔧 refactor: clean up auth middleware
 0654. ✨ feat: create admin dashboard
 0296. 🔧 refactor: organize models into subfolders
+0599. ✅ test: test user registration edge cases
