@@ -10977,3 +10977,4 @@
 0966. 📚 docs: improve code comments in utils
 0893. 🐛 fix: handle 500 error in quiz API
 0746. ♻️ chore: add GitHub actions badge
+0797. 📚 docs: add API usage examples
