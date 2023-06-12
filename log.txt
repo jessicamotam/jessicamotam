@@ -37972,3 +37972,4 @@
 0843. 📚 docs: document token refresh logic
 0590. 🐛 fix: fix null pointer exception on login
 0733. 🐛 fix: fix null pointer exception on login
+0018. 🔧 refactor: organize models into subfolders
