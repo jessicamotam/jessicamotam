@@ -74264,3 +74264,4 @@
 0989. 📚 docs: write FAQ section
 0173. 🚀 perf: cache repeated calculations
 0768. 🎨 style: remove trailing whitespace
+0115. 🚀 perf: reduce image load time
