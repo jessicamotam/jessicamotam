@@ -75918,3 +75918,4 @@
 0485. 📚 docs: update README with setup steps
 0153. ♻️ chore: rename env.example
 0771. 🚀 perf: cache repeated calculations
+0676. 🐛 fix: prevent crash on empty input
