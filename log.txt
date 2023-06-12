@@ -24238,3 +24238,4 @@
 0582. ✨ feat: add export to CSV option
 0055. 📚 docs: update README with setup steps
 0377. ✨ feat: add user authentication
+0237. 🎨 style: standardize quote style
