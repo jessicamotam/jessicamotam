@@ -56729,3 +56729,4 @@
 0155. ✨ feat: create admin dashboard
 0775. 🐛 fix: fix null pointer exception on login
 0644. 🎨 style: apply consistent indentation
+0678. ✨ feat: add user authentication
