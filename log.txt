@@ -80030,3 +80030,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0169. 📚 docs: add API usage examples
 0587. 🔧 refactor: remove redundant code blocks
+0547. 📚 docs: write FAQ section
