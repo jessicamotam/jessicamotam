@@ -74300,3 +74300,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0586. 🎨 style: remove trailing whitespace
 0189. 📚 docs: clarify environment setup
+0068. 🐛 fix: fix null pointer exception on login
