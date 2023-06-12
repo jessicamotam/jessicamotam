@@ -26205,3 +26205,4 @@
 0115. 🚀 perf: reduce image load time
 0154. 🐛 fix: prevent crash on empty input
 1000. ✅ test: increase coverage on auth module
+0715. ✨ feat: create admin dashboard
