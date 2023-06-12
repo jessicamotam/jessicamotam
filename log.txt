@@ -64722,3 +64722,4 @@
 0334. 🚀 perf: cache repeated calculations
 0929. ✨ feat: support email verification
 0801. ✨ feat: enable dark mode toggle
+0171. 🐛 fix: fix broken CSS in mobile view
