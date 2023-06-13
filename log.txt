@@ -56,3 +56,4 @@
 0965. 🎨 style: reformat files with black
 0662. ♻️ chore: clean up unused files
 0433. 🐛 fix: prevent crash on empty input
+0561. 📚 docs: write FAQ section
