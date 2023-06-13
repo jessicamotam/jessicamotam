@@ -9825,3 +9825,4 @@
 0592. 📚 docs: add API usage examples
 0745. ✅ test: add unit test for quiz service
 0410. 🎨 style: reformat files with black
+0239. 🎨 style: standardize quote style
