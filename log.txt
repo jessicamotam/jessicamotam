@@ -70259,3 +70259,4 @@
 0776. ✅ test: add integration test for /submit endpoint
 0733. 🐛 fix: fix null pointer exception on login
 0063. 🐛 fix: handle 500 error in quiz API
+0513. ♻️ chore: bump dependencies
