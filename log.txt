@@ -41856,3 +41856,4 @@
 0569. 📚 docs: document token refresh logic
 0148. 🔧 refactor: organize models into subfolders
 0474. ✅ test: add unit test for quiz service
+0006. 🐛 fix: prevent crash on empty input
