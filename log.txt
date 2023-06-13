@@ -89276,3 +89276,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0732. ♻️ chore: add GitHub actions badge
 0088. 📚 docs: add API usage examples
+0244. ✨ feat: add export to CSV option
