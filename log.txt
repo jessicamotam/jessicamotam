@@ -88422,3 +88422,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0024. 📚 docs: write FAQ section
 0395. 📚 docs: write FAQ section
+0562. 🔧 refactor: clean up auth middleware
