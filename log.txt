@@ -23901,3 +23901,4 @@
 0217. 🚀 perf: reduce image load time
 0006. 🐛 fix: prevent crash on empty input
 0412. ✅ test: increase coverage on auth module
+0485. 📚 docs: update README with setup steps
