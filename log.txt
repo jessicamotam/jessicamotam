@@ -52290,3 +52290,4 @@
 0179. 🔧 refactor: split large controller into smaller functions
 0687. 🎨 style: remove trailing whitespace
 0434. 📚 docs: document token refresh logic
+0339. 📚 docs: update README with setup steps
