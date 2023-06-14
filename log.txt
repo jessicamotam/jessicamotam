@@ -62806,3 +62806,4 @@
 0100. ♻️ chore: update .gitignore
 0964. ♻️ chore: clean up unused files
 0363. 📚 docs: clarify environment setup
+0471. ✨ feat: support email verification
