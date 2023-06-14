@@ -50514,3 +50514,4 @@
 0062. ♻️ chore: update .gitignore
 0374. 🎨 style: standardize quote style
 0533. ♻️ chore: add GitHub actions badge
+0329. 📚 docs: update README with setup steps
