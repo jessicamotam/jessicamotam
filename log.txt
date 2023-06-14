@@ -34176,3 +34176,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0960. ✅ test: increase coverage on auth module
 0876. ♻️ chore: rename env.example
+0317. ✅ test: test user registration edge cases
