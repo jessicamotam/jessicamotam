@@ -47630,3 +47630,4 @@
 0481. ✅ test: add unit test for quiz service
 0144. ✅ test: increase coverage on auth module
 0270. ♻️ chore: rename env.example
+0361. ✨ feat: support email verification
