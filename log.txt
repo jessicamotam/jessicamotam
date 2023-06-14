@@ -51076,3 +51076,4 @@
 0634. 🎨 style: reformat files with black
 0100. ♻️ chore: update .gitignore
 0129. 🔧 refactor: organize models into subfolders
+0205. 📚 docs: update README with setup steps
