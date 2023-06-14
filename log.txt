@@ -49873,3 +49873,4 @@
 0419. 🎨 style: remove trailing whitespace
 0216. 🎨 style: rename variables for clarity
 0087. ✨ feat: add export to CSV option
+0801. ✨ feat: enable dark mode toggle
