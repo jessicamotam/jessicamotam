@@ -27703,3 +27703,4 @@
 0953. 🎨 style: remove trailing whitespace
 0508. ✅ test: add unit test for quiz service
 0868. ✅ test: add unit test for quiz service
+0849. 🐛 fix: correct typo in registration form
