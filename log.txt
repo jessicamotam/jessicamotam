@@ -89063,3 +89063,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0861. ♻️ chore: clean up unused files
 0948. 🐛 fix: fix broken CSS in mobile view
+0055. 📚 docs: update README with setup steps
