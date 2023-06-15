@@ -36117,3 +36117,4 @@
 0594. 🎨 style: reformat files with black
 0196. ♻️ chore: bump dependencies
 0059. ♻️ chore: bump dependencies
+0586. 🎨 style: remove trailing whitespace
