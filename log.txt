@@ -57811,3 +57811,4 @@
 0337. 📚 docs: document token refresh logic
 0177. 📚 docs: add API usage examples
 0239. 🎨 style: standardize quote style
+0205. 📚 docs: update README with setup steps
