@@ -32385,3 +32385,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0844. 📚 docs: update README with setup steps
 0255. 🔧 refactor: refactor quiz grading logic
+0125. ✅ test: add integration test for /submit endpoint
