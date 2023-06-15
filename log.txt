@@ -88685,3 +88685,4 @@
 0851. ✅ test: mock database connection in test suite
 0275. 🎨 style: standardize quote style
 0628. ♻️ chore: add GitHub actions badge
+0692. ✅ test: add integration test for /submit endpoint
