@@ -84401,3 +84401,4 @@
 0730. ✅ test: test user registration edge cases
 0740. 🐛 fix: resolve issue with date parsing
 0313. 🎨 style: apply consistent indentation
+0893. 🐛 fix: handle 500 error in quiz API
