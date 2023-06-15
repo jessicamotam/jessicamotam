@@ -70956,3 +70956,4 @@
 0639. 🐛 fix: correct typo in registration form
 0360. ✨ feat: add export to CSV option
 0851. ✅ test: mock database connection in test suite
+0349. ✅ test: increase coverage on auth module
