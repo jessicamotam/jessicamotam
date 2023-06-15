@@ -70527,3 +70527,4 @@
 0379. ✨ feat: support email verification
 0531. 🐛 fix: prevent crash on empty input
 0328. 🐛 fix: resolve issue with date parsing
+0320. 📚 docs: update README with setup steps
