@@ -78331,3 +78331,4 @@
 0548. 📚 docs: write FAQ section
 0287. 📚 docs: write FAQ section
 0539. 🔧 refactor: organize models into subfolders
+0140. 🐛 fix: handle 500 error in quiz API
