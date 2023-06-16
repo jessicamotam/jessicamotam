@@ -74105,3 +74105,4 @@
 0513. ♻️ chore: bump dependencies
 0167. 🚀 perf: reduce image load time
 0821. ✅ test: add integration test for /submit endpoint
+0610. 🚀 perf: lazy-load components
