@@ -52069,3 +52069,4 @@
 0368. 🚀 perf: lazy-load components
 0929. ✨ feat: support email verification
 0902. ✨ feat: enable dark mode toggle
+0746. ♻️ chore: add GitHub actions badge
