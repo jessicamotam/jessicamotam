@@ -72682,3 +72682,4 @@
 0761. ✅ test: add unit test for quiz service
 0080. ✨ feat: support email verification
 0640. ♻️ chore: bump dependencies
+0778. 📚 docs: write FAQ section
