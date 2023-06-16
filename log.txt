@@ -1694,3 +1694,4 @@
 0886. ♻️ chore: clean up unused files
 0452. ✨ feat: implement quiz timer feature
 0109. 🚀 perf: lazy-load components
+0248. 🐛 fix: handle 500 error in quiz API
