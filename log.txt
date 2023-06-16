@@ -16034,3 +16034,4 @@
 0092. 🚀 perf: reduce image load time
 0113. ✨ feat: add user authentication
 0166. 🚀 perf: cache repeated calculations
+0292. 📚 docs: clarify environment setup
