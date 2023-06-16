@@ -90619,3 +90619,4 @@
 0298. ♻️ chore: update .gitignore
 0489. 🔧 refactor: organize models into subfolders
 0349. ✅ test: increase coverage on auth module
+0297. 🎨 style: remove trailing whitespace
