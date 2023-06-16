@@ -78168,3 +78168,4 @@
 0916. ♻️ chore: bump dependencies
 0350. 🚀 perf: cache repeated calculations
 0042. 📚 docs: document token refresh logic
+0535. 📚 docs: write FAQ section
