@@ -46273,3 +46273,4 @@
 0512. 🚀 perf: reduce image load time
 0496. ✅ test: add integration test for /submit endpoint
 0150. 🎨 style: remove trailing whitespace
+0997. ✅ test: increase coverage on auth module
