@@ -19226,3 +19226,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0200. 🐛 fix: handle 500 error in quiz API
 0142. ✨ feat: implement quiz timer feature
+0828. ♻️ chore: add GitHub actions badge
