@@ -85927,3 +85927,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0582. ✨ feat: add export to CSV option
 0785. ✨ feat: enable dark mode toggle
+0290. ✅ test: test user registration edge cases
