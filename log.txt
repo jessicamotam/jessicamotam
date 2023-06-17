@@ -4297,3 +4297,4 @@
 0447. ♻️ chore: bump dependencies
 0783. 🐛 fix: handle 500 error in quiz API
 0132. ✅ test: add unit test for quiz service
+0526. ✨ feat: add user authentication
