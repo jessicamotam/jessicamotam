@@ -40491,3 +40491,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0837. 🚀 perf: cache repeated calculations
 0768. 🎨 style: remove trailing whitespace
+0188. 🎨 style: apply consistent indentation
