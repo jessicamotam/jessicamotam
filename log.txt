@@ -19062,3 +19062,4 @@
 0134. ✨ feat: implement quiz timer feature
 0586. 🎨 style: remove trailing whitespace
 0330. ✅ test: test user registration edge cases
+0026. 🔧 refactor: clean up auth middleware
