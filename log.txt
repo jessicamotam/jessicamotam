@@ -59321,3 +59321,4 @@
 0931. 🚀 perf: reduce image load time
 0939. 📚 docs: update README with setup steps
 0171. 🐛 fix: fix broken CSS in mobile view
+0352. ✨ feat: add export to CSV option
