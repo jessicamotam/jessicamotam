@@ -11502,3 +11502,4 @@
 0204. 🎨 style: standardize quote style
 0042. 📚 docs: document token refresh logic
 0984. ♻️ chore: clean up unused files
+0203. 🚀 perf: lazy-load components
