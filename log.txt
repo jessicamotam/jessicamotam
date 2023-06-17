@@ -12456,3 +12456,4 @@
 0992. ♻️ chore: clean up unused files
 0622. 🎨 style: apply consistent indentation
 0005. ✅ test: add unit test for quiz service
+0200. 🐛 fix: handle 500 error in quiz API
