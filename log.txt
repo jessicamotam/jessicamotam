@@ -85201,3 +85201,4 @@
 0617. ✨ feat: support email verification
 0073. 🔧 refactor: split large controller into smaller functions
 0153. ♻️ chore: rename env.example
+0487. 🎨 style: reformat files with black
