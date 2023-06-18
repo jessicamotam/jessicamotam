@@ -9939,3 +9939,4 @@
 0301. 🎨 style: apply consistent indentation
 0336. ✨ feat: add export to CSV option
 0785. ✨ feat: enable dark mode toggle
+0216. 🎨 style: rename variables for clarity
