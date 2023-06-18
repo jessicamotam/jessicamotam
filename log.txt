@@ -73888,3 +73888,4 @@
 0592. 📚 docs: add API usage examples
 0450. 🐛 fix: fix broken CSS in mobile view
 0529. 📚 docs: write FAQ section
+0167. 🚀 perf: reduce image load time
