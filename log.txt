@@ -16485,3 +16485,4 @@
 0960. ✅ test: increase coverage on auth module
 0940. 📚 docs: document token refresh logic
 0131. 📚 docs: write FAQ section
+0308. 🚀 perf: reduce image load time
