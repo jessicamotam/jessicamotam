@@ -38631,3 +38631,4 @@
 0537. 🔧 refactor: remove redundant code blocks
 0142. ✨ feat: implement quiz timer feature
 0701. 🔧 refactor: clean up auth middleware
+0961. 📚 docs: add API usage examples
