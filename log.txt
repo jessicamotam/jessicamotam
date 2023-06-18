@@ -4665,3 +4665,4 @@
 0122. ✨ feat: support email verification
 0754. 🐛 fix: handle 500 error in quiz API
 0433. 🐛 fix: prevent crash on empty input
+0326. 🚀 perf: cache repeated calculations
