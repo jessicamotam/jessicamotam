@@ -50251,3 +50251,4 @@
 0908. ♻️ chore: bump dependencies
 0980. 🎨 style: reformat files with black
 0806. 📚 docs: improve code comments in utils
+0688. 🚀 perf: reduce image load time
