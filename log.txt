@@ -16457,3 +16457,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0900. 🐛 fix: handle 500 error in quiz API
 0857. 🎨 style: rename variables for clarity
+0053. ✅ test: increase coverage on auth module
