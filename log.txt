@@ -86307,3 +86307,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0558. ✨ feat: enable dark mode toggle
 0675. 🔧 refactor: organize models into subfolders
+0107. 🐛 fix: prevent crash on empty input
