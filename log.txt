@@ -7763,3 +7763,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0094. 📚 docs: document token refresh logic
 0626. 🎨 style: standardize quote style
+0875. ✅ test: increase coverage on auth module
