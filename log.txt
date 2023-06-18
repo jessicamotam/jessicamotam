@@ -75365,3 +75365,4 @@
 0034. 📚 docs: improve code comments in utils
 0879. 🎨 style: standardize quote style
 0875. ✅ test: increase coverage on auth module
+0770. ♻️ chore: rename env.example
