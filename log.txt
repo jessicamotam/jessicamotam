@@ -81600,3 +81600,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0743. 🎨 style: apply consistent indentation
 0101. 📚 docs: clarify environment setup
+0783. 🐛 fix: handle 500 error in quiz API
