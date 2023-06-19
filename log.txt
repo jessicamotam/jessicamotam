@@ -87586,3 +87586,4 @@
 0585. 🚀 perf: lazy-load components
 0603. 🐛 fix: fix broken CSS in mobile view
 0096. 🐛 fix: prevent crash on empty input
+0638. 📚 docs: improve code comments in utils
