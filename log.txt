@@ -43734,3 +43734,4 @@
 0385. ♻️ chore: clean up unused files
 0112. ✨ feat: enable dark mode toggle
 0606. 📚 docs: improve code comments in utils
+0415. 🐛 fix: handle 500 error in quiz API
