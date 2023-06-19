@@ -8927,3 +8927,4 @@
 0429. ✨ feat: add user authentication
 0914. ✅ test: test user registration edge cases
 0790. 📚 docs: write FAQ section
+0469. 🚀 perf: lazy-load components
