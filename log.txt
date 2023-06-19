@@ -73023,3 +73023,4 @@
 0724. ✅ test: mock database connection in test suite
 0264. 🚀 perf: optimize database query for quiz results
 0471. ✨ feat: support email verification
+0797. 📚 docs: add API usage examples
