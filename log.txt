@@ -24067,3 +24067,4 @@
 0943. 🎨 style: rename variables for clarity
 0084. 🐛 fix: handle 500 error in quiz API
 0081. 🐛 fix: fix null pointer exception on login
+0109. 🚀 perf: lazy-load components
