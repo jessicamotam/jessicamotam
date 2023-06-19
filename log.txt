@@ -67366,3 +67366,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0322. 🔧 refactor: split large controller into smaller functions
 0333. 🚀 perf: cache repeated calculations
+0171. 🐛 fix: fix broken CSS in mobile view
