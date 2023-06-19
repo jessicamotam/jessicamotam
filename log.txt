@@ -84996,3 +84996,4 @@
 0715. ✨ feat: create admin dashboard
 0386. 🚀 perf: optimize database query for quiz results
 0966. 📚 docs: improve code comments in utils
+0006. 🐛 fix: prevent crash on empty input
