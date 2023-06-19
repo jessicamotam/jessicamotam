@@ -21475,3 +21475,4 @@
 0277. 🎨 style: standardize quote style
 0294. 🐛 fix: prevent crash on empty input
 0110. 🐛 fix: prevent crash on empty input
+0775. 🐛 fix: fix null pointer exception on login
