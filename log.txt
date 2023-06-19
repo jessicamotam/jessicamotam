@@ -1555,3 +1555,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0291. 📚 docs: write FAQ section
 0424. ✨ feat: add user authentication
+0218. 🔧 refactor: clean up auth middleware
