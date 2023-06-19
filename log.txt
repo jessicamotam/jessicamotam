@@ -12613,3 +12613,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0834. ✅ test: increase coverage on auth module
 0003. ✅ test: increase coverage on auth module
+0617. ✨ feat: support email verification
