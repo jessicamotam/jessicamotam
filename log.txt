@@ -6886,3 +6886,4 @@
 0337. 📚 docs: document token refresh logic
 0480. ♻️ chore: add GitHub actions badge
 0335. ♻️ chore: update .gitignore
+0914. ✅ test: test user registration edge cases
