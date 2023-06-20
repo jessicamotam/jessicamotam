@@ -39408,3 +39408,4 @@
 0991. ♻️ chore: clean up unused files
 0596. ♻️ chore: update .gitignore
 0768. 🎨 style: remove trailing whitespace
+0395. 📚 docs: write FAQ section
