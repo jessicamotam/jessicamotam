@@ -14552,3 +14552,4 @@
 0214. 📚 docs: improve code comments in utils
 0638. 📚 docs: improve code comments in utils
 0937. 🐛 fix: handle 500 error in quiz API
+0633. ✨ feat: add user authentication
