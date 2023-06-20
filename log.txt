@@ -8109,3 +8109,4 @@
 0482. ✨ feat: add export to CSV option
 0635. 🎨 style: apply consistent indentation
 0825. 🔧 refactor: split large controller into smaller functions
+0415. 🐛 fix: handle 500 error in quiz API
