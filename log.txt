@@ -42221,3 +42221,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0756. ✨ feat: support email verification
 0757. 🔧 refactor: remove redundant code blocks
+0974. ✨ feat: add export to CSV option
