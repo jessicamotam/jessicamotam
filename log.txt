@@ -31453,3 +31453,4 @@
 0461. ✨ feat: add user authentication
 0875. ✅ test: increase coverage on auth module
 0467. ✅ test: add integration test for /submit endpoint
+0735. ♻️ chore: add GitHub actions badge
