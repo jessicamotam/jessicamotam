@@ -39544,3 +39544,4 @@
 0482. ✨ feat: add export to CSV option
 0305. ✨ feat: enable dark mode toggle
 0549. ✨ feat: enable dark mode toggle
+0268. 🐛 fix: prevent crash on empty input
