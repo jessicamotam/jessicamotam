@@ -27625,3 +27625,4 @@
 0347. ♻️ chore: update .gitignore
 0382. 📚 docs: improve code comments in utils
 0758. 🚀 perf: optimize database query for quiz results
+0227. ✅ test: test user registration edge cases
