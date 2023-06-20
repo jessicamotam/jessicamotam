@@ -54341,3 +54341,4 @@
 0458. ✨ feat: create admin dashboard
 0880. 🐛 fix: fix broken CSS in mobile view
 0323. 📚 docs: clarify environment setup
+0329. 📚 docs: update README with setup steps
