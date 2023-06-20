@@ -13764,3 +13764,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0666. 🐛 fix: fix broken CSS in mobile view
 0532. 🔧 refactor: split large controller into smaller functions
+0524. ♻️ chore: rename env.example
