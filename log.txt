@@ -74247,3 +74247,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0879. 🎨 style: standardize quote style
 0545. 🎨 style: standardize quote style
+0400. 🐛 fix: fix null pointer exception on login
