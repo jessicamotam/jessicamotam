@@ -4746,3 +4746,4 @@
 0862. ♻️ chore: bump dependencies
 0106. 🎨 style: reformat files with black
 0244. ✨ feat: add export to CSV option
+0740. 🐛 fix: resolve issue with date parsing
