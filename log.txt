@@ -16146,3 +16146,4 @@
 0125. ✅ test: add integration test for /submit endpoint
 0020. ✅ test: add integration test for /submit endpoint
 0463. 🚀 perf: reduce image load time
+0889. 🚀 perf: lazy-load components
