@@ -46220,3 +46220,4 @@
 0997. ✅ test: increase coverage on auth module
 0478. 🐛 fix: resolve issue with date parsing
 0499. 🎨 style: reformat files with black
+0415. 🐛 fix: handle 500 error in quiz API
