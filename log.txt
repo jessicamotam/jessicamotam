@@ -44156,3 +44156,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0792. 🎨 style: standardize quote style
 0053. ✅ test: increase coverage on auth module
+0076. 🎨 style: reformat files with black
