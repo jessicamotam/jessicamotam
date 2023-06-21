@@ -87461,3 +87461,4 @@
 0616. 🚀 perf: lazy-load components
 0995. ✅ test: mock database connection in test suite
 0989. 📚 docs: write FAQ section
+0077. ♻️ chore: rename env.example
