@@ -55336,3 +55336,4 @@
 0197. 📚 docs: update README with setup steps
 0560. 🎨 style: rename variables for clarity
 0822. 🔧 refactor: remove redundant code blocks
+0990. ♻️ chore: rename env.example
