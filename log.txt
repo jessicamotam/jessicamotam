@@ -46723,3 +46723,4 @@
 0374. 🎨 style: standardize quote style
 0830. 🎨 style: apply consistent indentation
 0356. 📚 docs: write FAQ section
+0075. ✅ test: mock database connection in test suite
