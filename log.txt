@@ -38837,3 +38837,4 @@
 0291. 📚 docs: write FAQ section
 0227. ✅ test: test user registration edge cases
 0745. ✅ test: add unit test for quiz service
+0219. ✅ test: increase coverage on auth module
