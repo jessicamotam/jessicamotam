@@ -34502,3 +34502,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0570. 🎨 style: apply consistent indentation
 0225. 🚀 perf: reduce image load time
+0485. 📚 docs: update README with setup steps
