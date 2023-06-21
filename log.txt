@@ -56430,3 +56430,4 @@
 0827. 🚀 perf: optimize database query for quiz results
 0868. ✅ test: add unit test for quiz service
 0416. 🎨 style: rename variables for clarity
+0343. 🚀 perf: optimize database query for quiz results
