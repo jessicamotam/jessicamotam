@@ -12530,3 +12530,4 @@
 0318. 🔧 refactor: refactor quiz grading logic
 0524. ♻️ chore: rename env.example
 0356. 📚 docs: write FAQ section
+0377. ✨ feat: add user authentication
