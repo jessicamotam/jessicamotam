@@ -48674,3 +48674,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0949. 📚 docs: write FAQ section
 0812. 🔧 refactor: refactor quiz grading logic
+0504. 📚 docs: document token refresh logic
