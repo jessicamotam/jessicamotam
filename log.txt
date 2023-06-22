@@ -14411,3 +14411,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0072. 🚀 perf: optimize database query for quiz results
 0535. 📚 docs: write FAQ section
+0542. 🔧 refactor: organize models into subfolders
