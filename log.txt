@@ -16288,3 +16288,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0013. ✅ test: increase coverage on auth module
 0125. ✅ test: add integration test for /submit endpoint
+0504. 📚 docs: document token refresh logic
