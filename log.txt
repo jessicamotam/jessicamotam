@@ -89013,3 +89013,4 @@
 0421. 🔧 refactor: split large controller into smaller functions
 0949. 📚 docs: write FAQ section
 0274. 🔧 refactor: refactor quiz grading logic
+0457. 🐛 fix: handle 500 error in quiz API
