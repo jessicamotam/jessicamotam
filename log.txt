@@ -22573,3 +22573,4 @@
 0149. ✨ feat: add export to CSV option
 0153. ♻️ chore: rename env.example
 0412. ✅ test: increase coverage on auth module
+0268. 🐛 fix: prevent crash on empty input
