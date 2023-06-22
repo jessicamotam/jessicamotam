@@ -1367,3 +1367,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0374. 🎨 style: standardize quote style
 0944. ✨ feat: add user authentication
+0821. ✅ test: add integration test for /submit endpoint
