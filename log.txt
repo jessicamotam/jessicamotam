@@ -8716,3 +8716,4 @@
 0876. ♻️ chore: rename env.example
 0637. 🎨 style: apply consistent indentation
 0934. ✨ feat: support email verification
+0400. 🐛 fix: fix null pointer exception on login
