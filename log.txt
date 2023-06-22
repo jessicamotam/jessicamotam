@@ -73663,3 +73663,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0513. ♻️ chore: bump dependencies
 0010. ✨ feat: add user authentication
+0383. 🐛 fix: fix broken CSS in mobile view
