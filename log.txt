@@ -90714,3 +90714,4 @@
 0128. ♻️ chore: rename env.example
 0818. 🔧 refactor: remove redundant code blocks
 0641. 📚 docs: write FAQ section
+0329. 📚 docs: update README with setup steps
