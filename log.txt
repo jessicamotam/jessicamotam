@@ -37332,3 +37332,4 @@
 0085. ✨ feat: support email verification
 0289. 🐛 fix: resolve issue with date parsing
 0762. 🚀 perf: lazy-load components
+0970. ♻️ chore: update .gitignore
