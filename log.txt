@@ -84786,3 +84786,4 @@
 0582. ✨ feat: add export to CSV option
 0625. 🐛 fix: handle 500 error in quiz API
 0451. ✨ feat: support email verification
+0268. 🐛 fix: prevent crash on empty input
