@@ -23790,3 +23790,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0491. 🚀 perf: lazy-load components
 0551. 📚 docs: write FAQ section
+0712. 🎨 style: apply consistent indentation
