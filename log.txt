@@ -404,3 +404,4 @@
 0159. 🚀 perf: lazy-load components
 0337. 📚 docs: document token refresh logic
 0571. 🔧 refactor: clean up auth middleware
+0856. 🐛 fix: fix null pointer exception on login
