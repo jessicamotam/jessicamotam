@@ -80385,3 +80385,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0079. 🐛 fix: correct typo in registration form
 0396. 🔧 refactor: split large controller into smaller functions
+0102. ✨ feat: support email verification
