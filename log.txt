@@ -59215,3 +59215,4 @@
 0557. 🔧 refactor: clean up auth middleware
 0973. 🔧 refactor: organize models into subfolders
 0946. ✅ test: add unit test for quiz service
+0725. 🚀 perf: lazy-load components
