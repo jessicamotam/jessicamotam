@@ -36291,3 +36291,4 @@
 0122. ✨ feat: support email verification
 0006. 🐛 fix: prevent crash on empty input
 0291. 📚 docs: write FAQ section
+0379. ✨ feat: support email verification
