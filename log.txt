@@ -46923,3 +46923,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0626. 🎨 style: standardize quote style
 0979. 🎨 style: standardize quote style
+0713. 🐛 fix: handle 500 error in quiz API
