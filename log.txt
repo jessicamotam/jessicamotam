@@ -47560,3 +47560,4 @@
 0449. ✅ test: add unit test for quiz service
 0713. 🐛 fix: handle 500 error in quiz API
 0858. ♻️ chore: clean up unused files
+0536. ✨ feat: add user authentication
