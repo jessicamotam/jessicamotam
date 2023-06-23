@@ -89708,3 +89708,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0671. 🐛 fix: fix null pointer exception on login
 0227. ✅ test: test user registration edge cases
+0677. 📚 docs: add API usage examples
