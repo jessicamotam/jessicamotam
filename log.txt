@@ -54846,3 +54846,4 @@
 0403. ✅ test: mock database connection in test suite
 0447. ♻️ chore: bump dependencies
 0735. ♻️ chore: add GitHub actions badge
+0920. 🔧 refactor: organize models into subfolders
