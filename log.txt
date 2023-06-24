@@ -56096,3 +56096,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0946. ✅ test: add unit test for quiz service
 0313. 🎨 style: apply consistent indentation
+0066. 🔧 refactor: clean up auth middleware
