@@ -70215,3 +70215,4 @@
 0271. ✅ test: add unit test for quiz service
 0241. 📚 docs: add API usage examples
 0243. 🔧 refactor: clean up auth middleware
+0335. ♻️ chore: update .gitignore
