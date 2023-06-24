@@ -29292,3 +29292,4 @@
 0553. 🐛 fix: correct typo in registration form
 0657. 🎨 style: standardize quote style
 0154. 🐛 fix: prevent crash on empty input
+0157. ✅ test: mock database connection in test suite
