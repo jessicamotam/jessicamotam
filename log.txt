@@ -18359,3 +18359,4 @@
 0295. 🎨 style: remove trailing whitespace
 0784. ♻️ chore: clean up unused files
 0298. ♻️ chore: update .gitignore
+0128. ♻️ chore: rename env.example
