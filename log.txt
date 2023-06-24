@@ -51801,3 +51801,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0652. 🔧 refactor: organize models into subfolders
 0984. ♻️ chore: clean up unused files
+0159. 🚀 perf: lazy-load components
