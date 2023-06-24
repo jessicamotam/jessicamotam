@@ -59605,3 +59605,4 @@
 0820. 📚 docs: add API usage examples
 0624. ✅ test: add unit test for quiz service
 0251. ♻️ chore: update .gitignore
+0824. 🚀 perf: lazy-load components
