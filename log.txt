@@ -81799,3 +81799,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0356. 📚 docs: write FAQ section
 0565. ♻️ chore: add GitHub actions badge
+0576. ♻️ chore: update .gitignore
