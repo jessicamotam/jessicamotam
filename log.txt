@@ -77159,3 +77159,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0512. 🚀 perf: reduce image load time
 0662. ♻️ chore: clean up unused files
+0307. ✨ feat: support email verification
