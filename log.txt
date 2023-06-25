@@ -38954,3 +38954,4 @@
 0376. 🎨 style: apply consistent indentation
 0451. ✨ feat: support email verification
 0526. ✨ feat: add user authentication
+0879. 🎨 style: standardize quote style
