@@ -68165,3 +68165,4 @@
 0797. 📚 docs: add API usage examples
 0135. ✅ test: test user registration edge cases
 0399. ✅ test: mock database connection in test suite
+0713. 🐛 fix: handle 500 error in quiz API
