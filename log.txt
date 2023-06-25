@@ -29855,3 +29855,4 @@
 0165. 🎨 style: remove trailing whitespace
 0800. 🚀 perf: optimize database query for quiz results
 0600. 🐛 fix: prevent crash on empty input
+0699. 🎨 style: standardize quote style
