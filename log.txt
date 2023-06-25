@@ -36801,3 +36801,4 @@
 0987. ✨ feat: create admin dashboard
 0565. ♻️ chore: add GitHub actions badge
 0660. 🐛 fix: correct typo in registration form
+0456. 🚀 perf: optimize database query for quiz results
