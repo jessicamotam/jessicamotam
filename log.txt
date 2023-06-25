@@ -25383,3 +25383,4 @@
 0975. 🎨 style: apply consistent indentation
 0247. 🎨 style: apply consistent indentation
 0205. 📚 docs: update README with setup steps
+0942. ✅ test: increase coverage on auth module
