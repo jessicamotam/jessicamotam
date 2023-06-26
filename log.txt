@@ -3091,3 +3091,4 @@
 0287. 📚 docs: write FAQ section
 0715. ✨ feat: create admin dashboard
 0293. ✅ test: add integration test for /submit endpoint
+0186. ✅ test: test user registration edge cases
