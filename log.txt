@@ -16648,3 +16648,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0324. 📚 docs: document token refresh logic
 0242. ♻️ chore: clean up unused files
+0253. 📚 docs: update README with setup steps
