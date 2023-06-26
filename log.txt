@@ -24342,3 +24342,4 @@
 0131. 📚 docs: write FAQ section
 0310. 🔧 refactor: refactor quiz grading logic
 0392. 🎨 style: remove trailing whitespace
+0733. 🐛 fix: fix null pointer exception on login
