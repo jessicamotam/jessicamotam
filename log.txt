@@ -3920,3 +3920,4 @@
 0379. ✨ feat: support email verification
 0254. 🚀 perf: reduce image load time
 0555. ✨ feat: create admin dashboard
+0239. 🎨 style: standardize quote style
