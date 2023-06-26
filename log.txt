@@ -24339,3 +24339,4 @@
 0646. ✅ test: test user registration edge cases
 0544. 🔧 refactor: organize models into subfolders
 0869. ♻️ chore: bump dependencies
+0131. 📚 docs: write FAQ section
