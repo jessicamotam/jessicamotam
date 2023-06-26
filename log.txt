@@ -28797,3 +28797,4 @@
 0618. ✨ feat: support email verification
 0580. ♻️ chore: bump dependencies
 0852. ✨ feat: enable dark mode toggle
+0679. ♻️ chore: bump dependencies
