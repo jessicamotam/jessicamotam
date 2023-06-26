@@ -75868,3 +75868,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0556. ✨ feat: support email verification
 0086. 🐛 fix: correct typo in registration form
+0914. ✅ test: test user registration edge cases
