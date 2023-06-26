@@ -41210,3 +41210,4 @@
 0070. ✨ feat: implement quiz timer feature
 0049. 🐛 fix: handle 500 error in quiz API
 0835. 🐛 fix: prevent crash on empty input
+0028. 🎨 style: standardize quote style
