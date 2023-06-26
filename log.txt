@@ -66395,3 +66395,4 @@
 0409. 🚀 perf: lazy-load components
 0724. ✅ test: mock database connection in test suite
 0942. ✅ test: increase coverage on auth module
+0287. 📚 docs: write FAQ section
