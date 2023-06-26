@@ -15511,3 +15511,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0298. ♻️ chore: update .gitignore
 0792. 🎨 style: standardize quote style
+0440. 📚 docs: update README with setup steps
