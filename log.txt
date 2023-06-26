@@ -36469,3 +36469,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0349. ✅ test: increase coverage on auth module
 0715. ✨ feat: create admin dashboard
+0508. ✅ test: add unit test for quiz service
