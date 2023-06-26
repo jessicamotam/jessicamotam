@@ -46831,3 +46831,4 @@
 0453. 🎨 style: standardize quote style
 0218. 🔧 refactor: clean up auth middleware
 0052. 🎨 style: standardize quote style
+0982. 🚀 perf: lazy-load components
