@@ -86617,3 +86617,4 @@
 0970. ♻️ chore: update .gitignore
 0995. ✅ test: mock database connection in test suite
 0743. 🎨 style: apply consistent indentation
+0603. 🐛 fix: fix broken CSS in mobile view
