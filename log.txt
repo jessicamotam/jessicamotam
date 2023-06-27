@@ -71832,3 +71832,4 @@
 0351. ✨ feat: add export to CSV option
 0196. ♻️ chore: bump dependencies
 0467. ✅ test: add integration test for /submit endpoint
+0502. 📚 docs: update README with setup steps
