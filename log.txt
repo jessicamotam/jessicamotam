@@ -43674,3 +43674,4 @@
 0726. ✨ feat: enable dark mode toggle
 0370. 🚀 perf: reduce image load time
 0826. 📚 docs: clarify environment setup
+0250. 📚 docs: update README with setup steps
