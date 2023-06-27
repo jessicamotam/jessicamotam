@@ -7459,3 +7459,4 @@
 0237. 🎨 style: standardize quote style
 0514. 🐛 fix: fix broken CSS in mobile view
 0122. ✨ feat: support email verification
+0543. ✨ feat: support email verification
