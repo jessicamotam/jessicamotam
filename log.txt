@@ -69412,3 +69412,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0161. ✨ feat: create admin dashboard
 0197. 📚 docs: update README with setup steps
+0099. 🚀 perf: reduce image load time
