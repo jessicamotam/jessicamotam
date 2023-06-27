@@ -77078,3 +77078,4 @@
 0405. ✅ test: mock database connection in test suite
 0647. 🐛 fix: prevent crash on empty input
 0862. ♻️ chore: bump dependencies
+0843. 📚 docs: document token refresh logic
