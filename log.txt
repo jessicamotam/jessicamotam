@@ -81567,3 +81567,4 @@
 0005. ✅ test: add unit test for quiz service
 0505. ♻️ chore: add GitHub actions badge
 0910. 🎨 style: remove trailing whitespace
+0921. 🐛 fix: correct typo in registration form
