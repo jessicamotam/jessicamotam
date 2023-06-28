@@ -10811,3 +10811,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0764. ✨ feat: add user authentication
 0341. 🚀 perf: lazy-load components
+0485. 📚 docs: update README with setup steps
