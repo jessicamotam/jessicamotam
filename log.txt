@@ -36395,3 +36395,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0488. ♻️ chore: add GitHub actions badge
 0424. ✨ feat: add user authentication
+0974. ✨ feat: add export to CSV option
