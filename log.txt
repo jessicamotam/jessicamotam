@@ -17396,3 +17396,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0699. 🎨 style: standardize quote style
 0767. 🔧 refactor: remove redundant code blocks
+0116. ✨ feat: support email verification
