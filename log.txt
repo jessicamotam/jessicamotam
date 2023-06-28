@@ -14836,3 +14836,4 @@
 0423. ✅ test: mock database connection in test suite
 0218. 🔧 refactor: clean up auth middleware
 0279. ✨ feat: support email verification
+0293. ✅ test: add integration test for /submit endpoint
