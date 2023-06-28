@@ -44394,3 +44394,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0458. ✨ feat: create admin dashboard
 0394. 🚀 perf: lazy-load components
+0908. ♻️ chore: bump dependencies
