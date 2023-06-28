@@ -33704,3 +33704,4 @@
 0333. 🚀 perf: cache repeated calculations
 0035. ✅ test: increase coverage on auth module
 0786. ✨ feat: enable dark mode toggle
+0749. ✨ feat: support email verification
