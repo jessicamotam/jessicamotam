@@ -54129,3 +54129,4 @@
 0709. ♻️ chore: bump dependencies
 0944. ✨ feat: add user authentication
 0949. 📚 docs: write FAQ section
+0977. 🔧 refactor: organize models into subfolders
