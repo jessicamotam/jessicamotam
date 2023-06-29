@@ -48935,3 +48935,4 @@
 0927. ♻️ chore: bump dependencies
 0920. 🔧 refactor: organize models into subfolders
 0314. ✨ feat: implement quiz timer feature
+0730. ✅ test: test user registration edge cases
