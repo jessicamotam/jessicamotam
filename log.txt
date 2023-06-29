@@ -62521,3 +62521,4 @@
 0864. 🐛 fix: correct typo in registration form
 0762. 🚀 perf: lazy-load components
 0322. 🔧 refactor: split large controller into smaller functions
+0433. 🐛 fix: prevent crash on empty input
