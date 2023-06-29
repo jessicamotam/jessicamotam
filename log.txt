@@ -10143,3 +10143,4 @@
 0887. 📚 docs: add API usage examples
 0279. ✨ feat: support email verification
 0725. 🚀 perf: lazy-load components
+0905. ♻️ chore: bump dependencies
