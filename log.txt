@@ -90335,3 +90335,4 @@
 0143. ✨ feat: implement quiz timer feature
 0421. 🔧 refactor: split large controller into smaller functions
 0736. 🐛 fix: fix null pointer exception on login
+0419. 🎨 style: remove trailing whitespace
