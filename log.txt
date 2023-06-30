@@ -476,3 +476,4 @@
 0239. 🎨 style: standardize quote style
 0980. 🎨 style: reformat files with black
 0024. 📚 docs: write FAQ section
+0386. 🚀 perf: optimize database query for quiz results
