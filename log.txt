@@ -14906,3 +14906,4 @@
 0558. ✨ feat: enable dark mode toggle
 0520. 🐛 fix: fix null pointer exception on login
 0345. 📚 docs: document token refresh logic
+0435. ✅ test: add unit test for quiz service
