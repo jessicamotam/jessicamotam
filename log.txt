@@ -44945,3 +44945,4 @@
 0834. ✅ test: increase coverage on auth module
 0778. 📚 docs: write FAQ section
 0454. ♻️ chore: bump dependencies
+0504. 📚 docs: document token refresh logic
