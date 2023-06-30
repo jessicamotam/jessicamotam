@@ -29984,3 +29984,4 @@
 0347. ♻️ chore: update .gitignore
 0556. ✨ feat: support email verification
 0300. ✨ feat: add export to CSV option
+0947. 📚 docs: write FAQ section
