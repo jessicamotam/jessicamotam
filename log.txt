@@ -68056,3 +68056,4 @@
 0648. ♻️ chore: bump dependencies
 0284. ✨ feat: implement quiz timer feature
 0296. 🔧 refactor: organize models into subfolders
+0102. ✨ feat: support email verification
