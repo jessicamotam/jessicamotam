@@ -88724,3 +88724,4 @@
 0010. ✨ feat: add user authentication
 0501. ✨ feat: add export to CSV option
 0011. ✅ test: add unit test for quiz service
+0412. ✅ test: increase coverage on auth module
