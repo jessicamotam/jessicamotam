@@ -19266,3 +19266,4 @@
 0023. 📚 docs: clarify environment setup
 0764. ✨ feat: add user authentication
 0974. ✨ feat: add export to CSV option
+0880. 🐛 fix: fix broken CSS in mobile view
