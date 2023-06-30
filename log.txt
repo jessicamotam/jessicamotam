@@ -39840,3 +39840,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0685. ✅ test: test user registration edge cases
 0911. ✅ test: increase coverage on auth module
+0291. 📚 docs: write FAQ section
