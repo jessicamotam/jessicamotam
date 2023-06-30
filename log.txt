@@ -75910,3 +75910,4 @@
 0689. 🎨 style: reformat files with black
 0707. 🎨 style: apply consistent indentation
 0322. 🔧 refactor: split large controller into smaller functions
+0460. 📚 docs: write FAQ section
