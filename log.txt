@@ -13535,3 +13535,4 @@
 0838. 🎨 style: standardize quote style
 0082. 🔧 refactor: refactor quiz grading logic
 0850. ♻️ chore: rename env.example
+0085. ✨ feat: support email verification
