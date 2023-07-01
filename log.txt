@@ -554,3 +554,4 @@
 0133. 🐛 fix: fix null pointer exception on login
 0743. 🎨 style: apply consistent indentation
 0053. ✅ test: increase coverage on auth module
+0066. 🔧 refactor: clean up auth middleware
