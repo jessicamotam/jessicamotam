@@ -10340,3 +10340,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0576. ♻️ chore: update .gitignore
 0990. ♻️ chore: rename env.example
+0088. 📚 docs: add API usage examples
