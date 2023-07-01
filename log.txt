@@ -10669,3 +10669,4 @@
 0106. 🎨 style: reformat files with black
 0454. ♻️ chore: bump dependencies
 0312. ✨ feat: add user authentication
+0502. 📚 docs: update README with setup steps
