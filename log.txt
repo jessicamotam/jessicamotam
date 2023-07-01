@@ -2286,3 +2286,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0861. ♻️ chore: clean up unused files
 0146. 🎨 style: apply consistent indentation
+0710. 🐛 fix: fix broken CSS in mobile view
