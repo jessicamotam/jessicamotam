@@ -15519,3 +15519,4 @@
 0667. ✨ feat: add export to CSV option
 0463. 🚀 perf: reduce image load time
 0736. 🐛 fix: fix null pointer exception on login
+0788. 📚 docs: add API usage examples
