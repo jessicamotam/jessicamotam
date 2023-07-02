@@ -51945,3 +51945,4 @@
 0636. ✅ test: increase coverage on auth module
 0034. 📚 docs: improve code comments in utils
 0150. 🎨 style: remove trailing whitespace
+0833. ✨ feat: add user authentication
