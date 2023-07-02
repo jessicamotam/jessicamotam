@@ -17893,3 +17893,4 @@
 0855. 🎨 style: reformat files with black
 0135. ✅ test: test user registration edge cases
 0508. ✅ test: add unit test for quiz service
+0357. ✅ test: add unit test for quiz service
