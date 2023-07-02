@@ -80534,3 +80534,4 @@
 0633. ✨ feat: add user authentication
 0681. ✨ feat: create admin dashboard
 0805. ♻️ chore: add GitHub actions badge
+0854. ♻️ chore: rename env.example
