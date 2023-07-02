@@ -31756,3 +31756,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0377. ✨ feat: add user authentication
 0823. ✨ feat: add user authentication
+0790. 📚 docs: write FAQ section
