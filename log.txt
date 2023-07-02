@@ -48877,3 +48877,4 @@
 0914. ✅ test: test user registration edge cases
 0942. ✅ test: increase coverage on auth module
 0629. 🔧 refactor: organize models into subfolders
+0181. ♻️ chore: add GitHub actions badge
