@@ -31212,3 +31212,4 @@
 0623. 🎨 style: standardize quote style
 0552. 🐛 fix: fix null pointer exception on login
 0624. ✅ test: add unit test for quiz service
+0696. 🔧 refactor: clean up auth middleware
