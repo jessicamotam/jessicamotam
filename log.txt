@@ -15788,3 +15788,4 @@
 0330. ✅ test: test user registration edge cases
 0351. ✨ feat: add export to CSV option
 0098. 🎨 style: rename variables for clarity
+0525. ✅ test: mock database connection in test suite
