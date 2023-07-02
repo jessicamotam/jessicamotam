@@ -60221,3 +60221,4 @@
 0951. 🎨 style: rename variables for clarity
 0576. ♻️ chore: update .gitignore
 0948. 🐛 fix: fix broken CSS in mobile view
+0402. 🎨 style: reformat files with black
