@@ -81927,3 +81927,4 @@
 0939. 📚 docs: update README with setup steps
 0823. ✨ feat: add user authentication
 0960. ✅ test: increase coverage on auth module
+0824. 🚀 perf: lazy-load components
