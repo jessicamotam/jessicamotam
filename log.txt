@@ -62332,3 +62332,4 @@
 0964. ♻️ chore: clean up unused files
 0286. ✅ test: mock database connection in test suite
 0005. ✅ test: add unit test for quiz service
+0479. 🐛 fix: fix null pointer exception on login
