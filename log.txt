@@ -76349,3 +76349,4 @@
 0645. 🐛 fix: resolve issue with date parsing
 0365. 🚀 perf: reduce image load time
 0926. 🔧 refactor: organize models into subfolders
+0988. 🐛 fix: fix broken CSS in mobile view
