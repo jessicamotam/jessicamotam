@@ -511,3 +511,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0107. 🐛 fix: prevent crash on empty input
 0908. ♻️ chore: bump dependencies
+0842. 🎨 style: remove trailing whitespace
