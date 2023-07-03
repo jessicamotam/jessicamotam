@@ -35130,3 +35130,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0505. ♻️ chore: add GitHub actions badge
 0087. ✨ feat: add export to CSV option
+0468. 📚 docs: update README with setup steps
