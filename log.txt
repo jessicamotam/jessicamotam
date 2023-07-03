@@ -66617,3 +66617,4 @@
 0944. ✨ feat: add user authentication
 0248. 🐛 fix: handle 500 error in quiz API
 0096. 🐛 fix: prevent crash on empty input
+0838. 🎨 style: standardize quote style
