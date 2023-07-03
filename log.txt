@@ -80222,3 +80222,4 @@
 0231. 🔧 refactor: clean up auth middleware
 0760. 🐛 fix: resolve issue with date parsing
 0851. ✅ test: mock database connection in test suite
+0339. 📚 docs: update README with setup steps
