@@ -40293,3 +40293,4 @@
 0303. 🎨 style: rename variables for clarity
 0981. 🚀 perf: lazy-load components
 0588. 🔧 refactor: organize models into subfolders
+0923. ✨ feat: support email verification
