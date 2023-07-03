@@ -6151,3 +6151,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0812. 🔧 refactor: refactor quiz grading logic
 0200. 🐛 fix: handle 500 error in quiz API
+0280. ✅ test: add integration test for /submit endpoint
