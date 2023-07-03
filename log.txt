@@ -42715,3 +42715,4 @@
 0946. ✅ test: add unit test for quiz service
 0107. 🐛 fix: prevent crash on empty input
 0094. 📚 docs: document token refresh logic
+0801. ✨ feat: enable dark mode toggle
