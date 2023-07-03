@@ -31389,3 +31389,4 @@
 0923. ✨ feat: support email verification
 0948. 🐛 fix: fix broken CSS in mobile view
 0336. ✨ feat: add export to CSV option
+0854. ♻️ chore: rename env.example
