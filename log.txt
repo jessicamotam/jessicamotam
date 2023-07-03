@@ -42051,3 +42051,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0255. 🔧 refactor: refactor quiz grading logic
 0865. ♻️ chore: add GitHub actions badge
+0988. 🐛 fix: fix broken CSS in mobile view
