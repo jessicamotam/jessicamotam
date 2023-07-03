@@ -82096,3 +82096,4 @@
 0377. ✨ feat: add user authentication
 0933. 📚 docs: clarify environment setup
 0023. 📚 docs: clarify environment setup
+0483. 📚 docs: update README with setup steps
