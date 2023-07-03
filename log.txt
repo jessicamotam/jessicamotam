@@ -85426,3 +85426,4 @@
 0956. 📚 docs: clarify environment setup
 0860. 🔧 refactor: organize models into subfolders
 0579. 📚 docs: clarify environment setup
+0630. 🚀 perf: lazy-load components
