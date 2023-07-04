@@ -72181,3 +72181,4 @@
 0164. 📚 docs: document token refresh logic
 0733. 🐛 fix: fix null pointer exception on login
 0024. 📚 docs: write FAQ section
+0975. 🎨 style: apply consistent indentation
