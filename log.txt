@@ -27842,3 +27842,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0911. ✅ test: increase coverage on auth module
 0933. 📚 docs: clarify environment setup
+0581. ✅ test: add integration test for /submit endpoint
