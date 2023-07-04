@@ -27635,3 +27635,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0110. 🐛 fix: prevent crash on empty input
 0850. ♻️ chore: rename env.example
+0011. ✅ test: add unit test for quiz service
