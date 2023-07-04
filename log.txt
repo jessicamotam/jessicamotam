@@ -10530,3 +10530,4 @@
 0174. 📚 docs: clarify environment setup
 0417. 🎨 style: rename variables for clarity
 0347. ♻️ chore: update .gitignore
+0995. ✅ test: mock database connection in test suite
