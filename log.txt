@@ -58128,3 +58128,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0334. 🚀 perf: cache repeated calculations
 0664. ✅ test: add unit test for quiz service
+0827. 🚀 perf: optimize database query for quiz results
