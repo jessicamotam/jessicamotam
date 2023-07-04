@@ -38217,3 +38217,4 @@
 0985. 📚 docs: document token refresh logic
 0285. 🐛 fix: resolve issue with date parsing
 0431. 🎨 style: reformat files with black
+0923. ✨ feat: support email verification
