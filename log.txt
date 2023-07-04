@@ -6156,3 +6156,4 @@
 0284. ✨ feat: implement quiz timer feature
 0991. ♻️ chore: clean up unused files
 0529. 📚 docs: write FAQ section
+0461. ✨ feat: add user authentication
