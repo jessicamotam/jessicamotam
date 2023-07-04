@@ -43940,3 +43940,4 @@
 0387. ✨ feat: enable dark mode toggle
 0366. 🔧 refactor: remove redundant code blocks
 0018. 🔧 refactor: organize models into subfolders
+0605. ✨ feat: support email verification
