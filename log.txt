@@ -43690,3 +43690,4 @@
 0118. 🚀 perf: reduce image load time
 0545. 🎨 style: standardize quote style
 0680. ♻️ chore: add GitHub actions badge
+0990. ♻️ chore: rename env.example
