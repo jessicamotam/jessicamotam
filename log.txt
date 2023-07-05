@@ -74833,3 +74833,4 @@
 0209. ✨ feat: implement quiz timer feature
 0586. 🎨 style: remove trailing whitespace
 0349. ✅ test: increase coverage on auth module
+0609. 🐛 fix: handle 500 error in quiz API
