@@ -62304,3 +62304,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0272. 🔧 refactor: remove redundant code blocks
 0135. ✅ test: test user registration edge cases
+0287. 📚 docs: write FAQ section
