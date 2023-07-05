@@ -39944,3 +39944,4 @@
 0117. ✅ test: increase coverage on auth module
 0830. 🎨 style: apply consistent indentation
 0560. 🎨 style: rename variables for clarity
+0443. 🎨 style: standardize quote style
