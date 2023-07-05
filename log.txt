@@ -12787,3 +12787,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0261. 🔧 refactor: refactor quiz grading logic
 0454. ♻️ chore: bump dependencies
+0273. 🚀 perf: reduce image load time
