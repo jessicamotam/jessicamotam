@@ -57211,3 +57211,4 @@
 0027. 📚 docs: clarify environment setup
 0635. 🎨 style: apply consistent indentation
 0283. ♻️ chore: add GitHub actions badge
+0473. 📚 docs: write FAQ section
