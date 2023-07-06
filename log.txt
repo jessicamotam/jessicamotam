@@ -43485,3 +43485,4 @@
 0094. 📚 docs: document token refresh logic
 0055. 📚 docs: update README with setup steps
 0997. ✅ test: increase coverage on auth module
+0906. 📚 docs: add API usage examples
