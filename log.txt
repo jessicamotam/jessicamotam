@@ -12795,3 +12795,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0401. 🚀 perf: reduce image load time
 0940. 📚 docs: document token refresh logic
+0340. 🚀 perf: optimize database query for quiz results
