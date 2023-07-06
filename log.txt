@@ -36800,3 +36800,4 @@
 0249. ✅ test: increase coverage on auth module
 0987. ✨ feat: create admin dashboard
 0565. ♻️ chore: add GitHub actions badge
+0660. 🐛 fix: correct typo in registration form
