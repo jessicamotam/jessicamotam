@@ -33012,3 +33012,4 @@
 0556. ✨ feat: support email verification
 0174. 📚 docs: clarify environment setup
 0623. 🎨 style: standardize quote style
+0392. 🎨 style: remove trailing whitespace
