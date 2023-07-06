@@ -44751,3 +44751,4 @@
 0809. ♻️ chore: rename env.example
 0162. ♻️ chore: add GitHub actions badge
 0737. 🐛 fix: handle 500 error in quiz API
+0072. 🚀 perf: optimize database query for quiz results
