@@ -21689,3 +21689,4 @@
 0085. ✨ feat: support email verification
 0710. 🐛 fix: fix broken CSS in mobile view
 0543. ✨ feat: support email verification
+0565. ♻️ chore: add GitHub actions badge
