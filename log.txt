@@ -4554,3 +4554,4 @@
 0799. ♻️ chore: clean up unused files
 0503. ♻️ chore: rename env.example
 1000. ✅ test: increase coverage on auth module
+0284. ✨ feat: implement quiz timer feature
