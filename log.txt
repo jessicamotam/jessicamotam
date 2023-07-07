@@ -2830,3 +2830,4 @@
 0028. 🎨 style: standardize quote style
 0160. ♻️ chore: bump dependencies
 0136. 🚀 perf: lazy-load components
+0998. 🐛 fix: fix null pointer exception on login
