@@ -47136,3 +47136,4 @@
 0580. ♻️ chore: bump dependencies
 0373. 📚 docs: document token refresh logic
 0077. ♻️ chore: rename env.example
+0063. 🐛 fix: handle 500 error in quiz API
