@@ -37735,3 +37735,4 @@
 0476. 🚀 perf: reduce image load time
 0145. 📚 docs: improve code comments in utils
 0428. 🐛 fix: fix null pointer exception on login
+0035. ✅ test: increase coverage on auth module
