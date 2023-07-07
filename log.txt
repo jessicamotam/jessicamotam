@@ -82187,3 +82187,4 @@
 0170. ✅ test: increase coverage on auth module
 0862. ♻️ chore: bump dependencies
 0341. 🚀 perf: lazy-load components
+0473. 📚 docs: write FAQ section
