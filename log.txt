@@ -41799,3 +41799,4 @@
 0949. 📚 docs: write FAQ section
 0778. 📚 docs: write FAQ section
 0599. ✅ test: test user registration edge cases
+0290. ✅ test: test user registration edge cases
