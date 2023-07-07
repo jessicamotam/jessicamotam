@@ -14907,3 +14907,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0345. 📚 docs: document token refresh logic
 0435. ✅ test: add unit test for quiz service
+0791. 🔧 refactor: clean up auth middleware
