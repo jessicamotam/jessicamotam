@@ -38706,3 +38706,4 @@
 0454. ♻️ chore: bump dependencies
 0763. 🔧 refactor: organize models into subfolders
 0805. ♻️ chore: add GitHub actions badge
+0578. ✅ test: add integration test for /submit endpoint
