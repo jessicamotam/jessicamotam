@@ -72941,3 +72941,4 @@
 0052. 🎨 style: standardize quote style
 0997. ✅ test: increase coverage on auth module
 0994. 🚀 perf: reduce image load time
+0048. 📚 docs: update README with setup steps
