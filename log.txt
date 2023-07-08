@@ -55519,3 +55519,4 @@
 0407. 🚀 perf: cache repeated calculations
 0367. 🐛 fix: fix null pointer exception on login
 0530. 🔧 refactor: refactor quiz grading logic
+0144. ✅ test: increase coverage on auth module
