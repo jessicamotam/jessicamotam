@@ -64358,3 +64358,4 @@
 0037. 🐛 fix: correct typo in registration form
 0898. 🐛 fix: fix broken CSS in mobile view
 0463. 🚀 perf: reduce image load time
+0287. 📚 docs: write FAQ section
