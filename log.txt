@@ -14715,3 +14715,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0552. 🐛 fix: fix null pointer exception on login
 0551. 📚 docs: write FAQ section
+0066. 🔧 refactor: clean up auth middleware
