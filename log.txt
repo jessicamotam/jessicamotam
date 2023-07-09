@@ -45311,3 +45311,4 @@
 0027. 📚 docs: clarify environment setup
 0440. 📚 docs: update README with setup steps
 0357. ✅ test: add unit test for quiz service
+0866. 📚 docs: add API usage examples
