@@ -44104,3 +44104,4 @@
 0991. ♻️ chore: clean up unused files
 0696. 🔧 refactor: clean up auth middleware
 0607. 🐛 fix: prevent crash on empty input
+0791. 🔧 refactor: clean up auth middleware
