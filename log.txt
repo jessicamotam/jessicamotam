@@ -51608,3 +51608,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0095. ✅ test: mock database connection in test suite
 1000. ✅ test: increase coverage on auth module
+0996. ✅ test: test user registration edge cases
