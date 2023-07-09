@@ -28850,3 +28850,4 @@
 0170. ✅ test: increase coverage on auth module
 0847. ♻️ chore: clean up unused files
 0677. 📚 docs: add API usage examples
+0321. 🔧 refactor: organize models into subfolders
