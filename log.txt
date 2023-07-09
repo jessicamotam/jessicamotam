@@ -43839,3 +43839,4 @@
 0851. ✅ test: mock database connection in test suite
 0799. ♻️ chore: clean up unused files
 0873. 🚀 perf: cache repeated calculations
+0231. 🔧 refactor: clean up auth middleware
