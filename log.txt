@@ -15247,3 +15247,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0031. 📚 docs: document token refresh logic
 0353. ♻️ chore: rename env.example
+0450. 🐛 fix: fix broken CSS in mobile view
