@@ -12033,3 +12033,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0061. ✨ feat: create admin dashboard
 0117. ✅ test: increase coverage on auth module
+0367. 🐛 fix: fix null pointer exception on login
