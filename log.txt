@@ -66885,3 +66885,4 @@
 0529. 📚 docs: write FAQ section
 0030. 🐛 fix: fix null pointer exception on login
 0053. ✅ test: increase coverage on auth module
+0699. 🎨 style: standardize quote style
