@@ -36929,3 +36929,4 @@
 0916. ♻️ chore: bump dependencies
 0545. 🎨 style: standardize quote style
 0900. 🐛 fix: handle 500 error in quiz API
+0798. 🚀 perf: reduce image load time
