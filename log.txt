@@ -68542,3 +68542,4 @@
 0186. ✅ test: test user registration edge cases
 0330. ✅ test: test user registration edge cases
 0086. 🐛 fix: correct typo in registration form
+0524. ♻️ chore: rename env.example
