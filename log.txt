@@ -7335,3 +7335,4 @@
 0195. 📚 docs: clarify environment setup
 0010. ✨ feat: add user authentication
 0281. ✨ feat: support email verification
+0235. 🐛 fix: fix null pointer exception on login
