@@ -88258,3 +88258,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0195. 📚 docs: clarify environment setup
 0635. 🎨 style: apply consistent indentation
+0450. 🐛 fix: fix broken CSS in mobile view
