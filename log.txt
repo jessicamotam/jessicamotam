@@ -86896,3 +86896,4 @@
 0313. 🎨 style: apply consistent indentation
 0410. 🎨 style: reformat files with black
 0198. 📚 docs: clarify environment setup
+0353. ♻️ chore: rename env.example
