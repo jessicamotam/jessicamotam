@@ -80586,3 +80586,4 @@
 0914. ✅ test: test user registration edge cases
 0871. ✅ test: add integration test for /submit endpoint
 0940. 📚 docs: document token refresh logic
+0754. 🐛 fix: handle 500 error in quiz API
