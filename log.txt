@@ -196,3 +196,4 @@
 0475. 🔧 refactor: clean up auth middleware
 0251. ♻️ chore: update .gitignore
 0540. ♻️ chore: add GitHub actions badge
+0604. 📚 docs: add API usage examples
