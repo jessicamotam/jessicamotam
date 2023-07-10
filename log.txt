@@ -13889,3 +13889,4 @@
 0412. ✅ test: increase coverage on auth module
 0923. ✨ feat: support email verification
 0187. ✨ feat: support email verification
+0664. ✅ test: add unit test for quiz service
