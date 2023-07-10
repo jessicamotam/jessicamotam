@@ -27067,3 +27067,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0789. ✨ feat: create admin dashboard
 0320. 📚 docs: update README with setup steps
+0865. ♻️ chore: add GitHub actions badge
