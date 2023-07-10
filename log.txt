@@ -32367,3 +32367,4 @@
 0267. 📚 docs: improve code comments in utils
 0147. ♻️ chore: bump dependencies
 0856. 🐛 fix: fix null pointer exception on login
+0460. 📚 docs: write FAQ section
