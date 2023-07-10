@@ -61731,3 +61731,4 @@
 0820. 📚 docs: add API usage examples
 0850. ♻️ chore: rename env.example
 0232. 🎨 style: apply consistent indentation
+0057. 🚀 perf: optimize database query for quiz results
