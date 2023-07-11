@@ -7535,3 +7535,4 @@
 0950. 🎨 style: reformat files with black
 0836. 🚀 perf: optimize database query for quiz results
 0684. 🚀 perf: reduce image load time
+0077. ♻️ chore: rename env.example
