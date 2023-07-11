@@ -31915,3 +31915,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0357. ✅ test: add unit test for quiz service
 0473. 📚 docs: write FAQ section
+0112. ✨ feat: enable dark mode toggle
