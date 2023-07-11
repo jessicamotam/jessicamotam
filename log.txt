@@ -79209,3 +79209,4 @@
 0620. ✨ feat: implement quiz timer feature
 0036. 🔧 refactor: clean up auth middleware
 0931. 🚀 perf: reduce image load time
+0085. ✨ feat: support email verification
