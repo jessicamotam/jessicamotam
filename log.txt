@@ -78384,3 +78384,4 @@
 0734. ✨ feat: add export to CSV option
 0424. ✨ feat: add user authentication
 0443. 🎨 style: standardize quote style
+0751. 🐛 fix: handle 500 error in quiz API
