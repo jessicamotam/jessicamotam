@@ -9569,3 +9569,4 @@
 0980. 🎨 style: reformat files with black
 0930. 🎨 style: apply consistent indentation
 0622. 🎨 style: apply consistent indentation
+0816. 🔧 refactor: organize models into subfolders
