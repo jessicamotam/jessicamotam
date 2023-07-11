@@ -46775,3 +46775,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0704. 🚀 perf: cache repeated calculations
 0958. 🐛 fix: prevent crash on empty input
+0291. 📚 docs: write FAQ section
