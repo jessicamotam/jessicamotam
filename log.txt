@@ -78062,3 +78062,4 @@
 0990. ♻️ chore: rename env.example
 0348. ✅ test: test user registration edge cases
 0625. 🐛 fix: handle 500 error in quiz API
+0201. 🔧 refactor: clean up auth middleware
