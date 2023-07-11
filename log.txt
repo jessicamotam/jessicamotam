@@ -32718,3 +32718,4 @@
 0407. 🚀 perf: cache repeated calculations
 0600. 🐛 fix: prevent crash on empty input
 0906. 📚 docs: add API usage examples
+0026. 🔧 refactor: clean up auth middleware
