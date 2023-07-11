@@ -79380,3 +79380,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0536. ✨ feat: add user authentication
 0448. 🐛 fix: correct typo in registration form
+0791. 🔧 refactor: clean up auth middleware
