@@ -2700,3 +2700,4 @@
 0578. ✅ test: add integration test for /submit endpoint
 0866. 📚 docs: add API usage examples
 0255. 🔧 refactor: refactor quiz grading logic
+0493. ✨ feat: add user authentication
