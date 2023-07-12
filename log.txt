@@ -9425,3 +9425,4 @@
 0146. 🎨 style: apply consistent indentation
 0184. 📚 docs: improve code comments in utils
 0822. 🔧 refactor: remove redundant code blocks
+0374. 🎨 style: standardize quote style
