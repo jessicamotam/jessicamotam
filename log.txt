@@ -5948,3 +5948,4 @@
 0923. ✨ feat: support email verification
 0139. 📚 docs: document token refresh logic
 0665. ♻️ chore: update .gitignore
+0111. 📚 docs: update README with setup steps
