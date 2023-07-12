@@ -7485,3 +7485,4 @@
 0312. ✨ feat: add user authentication
 0592. 📚 docs: add API usage examples
 0349. ✅ test: increase coverage on auth module
+0858. ♻️ chore: clean up unused files
