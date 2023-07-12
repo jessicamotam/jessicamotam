@@ -17798,3 +17798,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0408. ♻️ chore: add GitHub actions badge
 0414. 🔧 refactor: remove redundant code blocks
+0315. ✅ test: add integration test for /submit endpoint
