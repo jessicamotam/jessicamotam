@@ -7172,3 +7172,4 @@
 0537. 🔧 refactor: remove redundant code blocks
 0412. ✅ test: increase coverage on auth module
 0438. ♻️ chore: bump dependencies
+0234. ♻️ chore: rename env.example
