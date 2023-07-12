@@ -8082,3 +8082,4 @@
 0977. 🔧 refactor: organize models into subfolders
 0720. ✨ feat: add export to CSV option
 0132. ✅ test: add unit test for quiz service
+0617. ✨ feat: support email verification
