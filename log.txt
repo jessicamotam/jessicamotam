@@ -53545,3 +53545,4 @@
 0980. 🎨 style: reformat files with black
 0576. ♻️ chore: update .gitignore
 0698. 🐛 fix: handle 500 error in quiz API
+0731. 🎨 style: standardize quote style
