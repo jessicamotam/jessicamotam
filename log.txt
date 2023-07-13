@@ -40504,3 +40504,4 @@
 0765. ♻️ chore: clean up unused files
 0240. 🔧 refactor: remove redundant code blocks
 0566. 📚 docs: write FAQ section
+0296. 🔧 refactor: organize models into subfolders
