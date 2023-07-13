@@ -26715,3 +26715,4 @@
 0471. ✨ feat: support email verification
 0225. 🚀 perf: reduce image load time
 0560. 🎨 style: rename variables for clarity
+0809. ♻️ chore: rename env.example
