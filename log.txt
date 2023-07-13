@@ -5637,3 +5637,4 @@
 0956. 📚 docs: clarify environment setup
 0906. 📚 docs: add API usage examples
 0268. 🐛 fix: prevent crash on empty input
+0568. 🐛 fix: handle 500 error in quiz API
