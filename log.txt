@@ -49970,3 +49970,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0729. 🔧 refactor: refactor quiz grading logic
 0098. 🎨 style: rename variables for clarity
+0923. ✨ feat: support email verification
