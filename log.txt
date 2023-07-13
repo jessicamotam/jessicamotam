@@ -89725,3 +89725,4 @@
 0886. ♻️ chore: clean up unused files
 0315. ✅ test: add integration test for /submit endpoint
 0999. 🔧 refactor: split large controller into smaller functions
+0317. ✅ test: test user registration edge cases
