@@ -72553,3 +72553,4 @@
 0485. 📚 docs: update README with setup steps
 0541. 🐛 fix: correct typo in registration form
 0288. 🔧 refactor: refactor quiz grading logic
+0848. 📚 docs: update README with setup steps
