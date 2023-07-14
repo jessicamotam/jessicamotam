@@ -71544,3 +71544,4 @@
 0830. 🎨 style: apply consistent indentation
 0414. 🔧 refactor: remove redundant code blocks
 0834. ✅ test: increase coverage on auth module
+0324. 📚 docs: document token refresh logic
