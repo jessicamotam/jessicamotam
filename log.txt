@@ -6807,3 +6807,4 @@
 0660. 🐛 fix: correct typo in registration form
 0935. 📚 docs: update README with setup steps
 0398. 🚀 perf: cache repeated calculations
+0273. 🚀 perf: reduce image load time
