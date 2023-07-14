@@ -69720,3 +69720,4 @@
 0376. 🎨 style: apply consistent indentation
 0830. 🎨 style: apply consistent indentation
 0656. 🎨 style: apply consistent indentation
+0895. ✨ feat: support email verification
