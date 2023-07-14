@@ -49972,3 +49972,4 @@
 0098. 🎨 style: rename variables for clarity
 0923. ✨ feat: support email verification
 0435. ✅ test: add unit test for quiz service
+0567. 📚 docs: add API usage examples
