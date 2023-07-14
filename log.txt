@@ -37596,3 +37596,4 @@
 0163. ✨ feat: implement quiz timer feature
 0514. 🐛 fix: fix broken CSS in mobile view
 0029. 🚀 perf: lazy-load components
+0243. 🔧 refactor: clean up auth middleware
