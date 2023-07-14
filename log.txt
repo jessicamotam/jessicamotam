@@ -90735,3 +90735,4 @@
 0594. 🎨 style: reformat files with black
 0307. ✨ feat: support email verification
 0575. ✅ test: add unit test for quiz service
+0945. ♻️ chore: add GitHub actions badge
