@@ -13715,3 +13715,4 @@
 0487. 🎨 style: reformat files with black
 0393. 🚀 perf: lazy-load components
 0809. ♻️ chore: rename env.example
+0676. 🐛 fix: prevent crash on empty input
