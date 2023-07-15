@@ -88271,3 +88271,4 @@
 0960. ✅ test: increase coverage on auth module
 0803. ✅ test: mock database connection in test suite
 0442. 🎨 style: standardize quote style
+0076. 🎨 style: reformat files with black
