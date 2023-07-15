@@ -43546,3 +43546,4 @@
 0620. ✨ feat: implement quiz timer feature
 0029. 🚀 perf: lazy-load components
 0239. 🎨 style: standardize quote style
+0835. 🐛 fix: prevent crash on empty input
