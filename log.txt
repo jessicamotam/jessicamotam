@@ -79980,3 +79980,4 @@
 0426. ✅ test: add integration test for /submit endpoint
 0477. 🐛 fix: fix broken CSS in mobile view
 0833. ✨ feat: add user authentication
+0085. ✨ feat: support email verification
