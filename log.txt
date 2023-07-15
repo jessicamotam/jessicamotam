@@ -10208,3 +10208,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0332. 🎨 style: standardize quote style
 0984. ♻️ chore: clean up unused files
+0430. 🐛 fix: fix null pointer exception on login
