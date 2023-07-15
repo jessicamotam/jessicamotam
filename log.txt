@@ -36955,3 +36955,4 @@
 0947. 📚 docs: write FAQ section
 0607. 🐛 fix: prevent crash on empty input
 0347. ♻️ chore: update .gitignore
+0618. ✨ feat: support email verification
