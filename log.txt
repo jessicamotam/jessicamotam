@@ -66777,3 +66777,4 @@
 0509. ♻️ chore: bump dependencies
 0339. 📚 docs: update README with setup steps
 0376. 🎨 style: apply consistent indentation
+0722. 📚 docs: add API usage examples
