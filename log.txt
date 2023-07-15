@@ -7612,3 +7612,4 @@
 0080. ✨ feat: support email verification
 0719. 🎨 style: apply consistent indentation
 0639. 🐛 fix: correct typo in registration form
+0139. 📚 docs: document token refresh logic
