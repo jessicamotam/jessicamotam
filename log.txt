@@ -1573,3 +1573,4 @@
 0706. ✨ feat: support email verification
 0693. 📚 docs: add API usage examples
 0414. 🔧 refactor: remove redundant code blocks
+0898. 🐛 fix: fix broken CSS in mobile view
