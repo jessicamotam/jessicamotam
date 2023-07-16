@@ -25938,3 +25938,4 @@
 0498. ✅ test: mock database connection in test suite
 0664. ✅ test: add unit test for quiz service
 0656. 🎨 style: apply consistent indentation
+0610. 🚀 perf: lazy-load components
