@@ -42823,3 +42823,4 @@
 0708. ✅ test: add integration test for /submit endpoint
 0715. ✨ feat: create admin dashboard
 0937. 🐛 fix: handle 500 error in quiz API
+0702. ✨ feat: add user authentication
