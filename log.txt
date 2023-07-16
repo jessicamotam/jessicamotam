@@ -83044,3 +83044,4 @@
 0284. ✨ feat: implement quiz timer feature
 0283. ♻️ chore: add GitHub actions badge
 0052. 🎨 style: standardize quote style
+0785. ✨ feat: enable dark mode toggle
