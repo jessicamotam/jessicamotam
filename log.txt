@@ -49760,3 +49760,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0613. 🐛 fix: prevent crash on empty input
 0077. ♻️ chore: rename env.example
+0786. ✨ feat: enable dark mode toggle
