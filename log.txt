@@ -85375,3 +85375,4 @@
 0008. 🚀 perf: reduce image load time
 0820. 📚 docs: add API usage examples
 0072. 🚀 perf: optimize database query for quiz results
+0792. 🎨 style: standardize quote style
