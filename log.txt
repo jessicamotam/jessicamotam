@@ -89867,3 +89867,4 @@
 0919. 🚀 perf: optimize database query for quiz results
 0216. 🎨 style: rename variables for clarity
 0449. ✅ test: add unit test for quiz service
+0958. 🐛 fix: prevent crash on empty input
