@@ -8928,3 +8928,4 @@
 0914. ✅ test: test user registration edge cases
 0790. 📚 docs: write FAQ section
 0469. 🚀 perf: lazy-load components
+0699. 🎨 style: standardize quote style
