@@ -16148,3 +16148,4 @@
 0463. 🚀 perf: reduce image load time
 0889. 🚀 perf: lazy-load components
 0999. 🔧 refactor: split large controller into smaller functions
+0625. 🐛 fix: handle 500 error in quiz API
