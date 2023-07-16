@@ -68498,3 +68498,4 @@
 0291. 📚 docs: write FAQ section
 0996. ✅ test: test user registration edge cases
 0939. 📚 docs: update README with setup steps
+0583. ✅ test: increase coverage on auth module
