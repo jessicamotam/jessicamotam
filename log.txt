@@ -27176,3 +27176,4 @@
 0720. ✨ feat: add export to CSV option
 0963. 🚀 perf: reduce image load time
 0543. ✨ feat: support email verification
+0417. 🎨 style: rename variables for clarity
