@@ -363,3 +363,4 @@
 0279. ✨ feat: support email verification
 0458. ✨ feat: create admin dashboard
 0183. 🔧 refactor: split large controller into smaller functions
+0048. 📚 docs: update README with setup steps
