@@ -32436,3 +32436,4 @@
 0431. 🎨 style: reformat files with black
 0318. 🔧 refactor: refactor quiz grading logic
 0016. 🎨 style: apply consistent indentation
+0593. 🐛 fix: correct typo in registration form
