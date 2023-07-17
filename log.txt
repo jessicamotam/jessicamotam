@@ -31762,3 +31762,4 @@
 0176. 🔧 refactor: remove redundant code blocks
 0807. 🔧 refactor: remove redundant code blocks
 0522. 🐛 fix: handle 500 error in quiz API
+0430. 🐛 fix: fix null pointer exception on login
