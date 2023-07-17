@@ -83347,3 +83347,4 @@
 0028. 🎨 style: standardize quote style
 0992. ♻️ chore: clean up unused files
 0983. 🔧 refactor: split large controller into smaller functions
+0589. 🐛 fix: fix broken CSS in mobile view
