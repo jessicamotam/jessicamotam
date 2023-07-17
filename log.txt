@@ -23521,3 +23521,4 @@
 0439. 🐛 fix: correct typo in registration form
 0480. ♻️ chore: add GitHub actions badge
 0764. ✨ feat: add user authentication
+0413. ✅ test: add integration test for /submit endpoint
