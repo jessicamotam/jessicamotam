@@ -605,3 +605,4 @@
 0879. 🎨 style: standardize quote style
 0241. 📚 docs: add API usage examples
 0508. ✅ test: add unit test for quiz service
+0698. 🐛 fix: handle 500 error in quiz API
