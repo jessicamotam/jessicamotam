@@ -30319,3 +30319,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0291. 📚 docs: write FAQ section
 0966. 📚 docs: improve code comments in utils
+0392. 🎨 style: remove trailing whitespace
