@@ -86977,3 +86977,4 @@
 0547. 📚 docs: write FAQ section
 0757. 🔧 refactor: remove redundant code blocks
 0114. ♻️ chore: update .gitignore
+0197. 📚 docs: update README with setup steps
