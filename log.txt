@@ -45485,3 +45485,4 @@
 0252. 🎨 style: remove trailing whitespace
 0625. 🐛 fix: handle 500 error in quiz API
 0856. 🐛 fix: fix null pointer exception on login
+0888. 🚀 perf: lazy-load components
