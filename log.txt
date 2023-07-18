@@ -50478,3 +50478,4 @@
 0794. ♻️ chore: clean up unused files
 0405. ✅ test: mock database connection in test suite
 0143. ✨ feat: implement quiz timer feature
+0505. ♻️ chore: add GitHub actions badge
