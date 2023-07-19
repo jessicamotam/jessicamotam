@@ -31478,3 +31478,4 @@
 0314. ✨ feat: implement quiz timer feature
 0170. ✅ test: increase coverage on auth module
 0914. ✅ test: test user registration edge cases
+0423. ✅ test: mock database connection in test suite
