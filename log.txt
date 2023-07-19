@@ -39896,3 +39896,4 @@
 0356. 📚 docs: write FAQ section
 0801. ✨ feat: enable dark mode toggle
 0697. ♻️ chore: bump dependencies
+0829. 🔧 refactor: organize models into subfolders
