@@ -86640,3 +86640,4 @@
 0664. ✅ test: add unit test for quiz service
 0153. ♻️ chore: rename env.example
 0469. 🚀 perf: lazy-load components
+0258. 🐛 fix: prevent crash on empty input
