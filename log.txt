@@ -21732,3 +21732,4 @@
 0614. 🚀 perf: reduce image load time
 0468. 📚 docs: update README with setup steps
 0043. ✅ test: add integration test for /submit endpoint
+0856. 🐛 fix: fix null pointer exception on login
