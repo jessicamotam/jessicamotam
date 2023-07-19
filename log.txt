@@ -15240,3 +15240,4 @@
 0087. ✨ feat: add export to CSV option
 0613. 🐛 fix: prevent crash on empty input
 0375. 🐛 fix: handle 500 error in quiz API
+0573. ✅ test: add integration test for /submit endpoint
