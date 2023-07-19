@@ -36054,3 +36054,4 @@
 0940. 📚 docs: document token refresh logic
 0410. 🎨 style: reformat files with black
 0635. 🎨 style: apply consistent indentation
+0278. 🔧 refactor: clean up auth middleware
