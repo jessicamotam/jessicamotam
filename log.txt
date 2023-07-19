@@ -42593,3 +42593,4 @@
 0508. ✅ test: add unit test for quiz service
 0252. 🎨 style: remove trailing whitespace
 0830. 🎨 style: apply consistent indentation
+0159. 🚀 perf: lazy-load components
