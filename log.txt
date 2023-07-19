@@ -39322,3 +39322,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0964. ♻️ chore: clean up unused files
 0227. ✅ test: test user registration edge cases
+0826. 📚 docs: clarify environment setup
