@@ -84603,3 +84603,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0867. 🔧 refactor: refactor quiz grading logic
 0078. ♻️ chore: update .gitignore
+0229. 🚀 perf: optimize database query for quiz results
