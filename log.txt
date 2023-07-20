@@ -81323,3 +81323,4 @@
 0502. 📚 docs: update README with setup steps
 0636. ✅ test: increase coverage on auth module
 0841. 🚀 perf: optimize database query for quiz results
+0443. 🎨 style: standardize quote style
