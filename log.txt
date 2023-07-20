@@ -73456,3 +73456,4 @@
 0896. 🚀 perf: reduce image load time
 0778. 📚 docs: write FAQ section
 0729. 🔧 refactor: refactor quiz grading logic
+0574. ✨ feat: enable dark mode toggle
