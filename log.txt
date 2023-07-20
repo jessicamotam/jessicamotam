@@ -8136,3 +8136,4 @@
 0781. 🚀 perf: reduce image load time
 0831. 📚 docs: clarify environment setup
 0116. ✨ feat: support email verification
+0616. 🚀 perf: lazy-load components
