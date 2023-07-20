@@ -45625,3 +45625,4 @@
 0789. ✨ feat: create admin dashboard
 0215. 🎨 style: reformat files with black
 0593. 🐛 fix: correct typo in registration form
+0901. ✨ feat: add user authentication
