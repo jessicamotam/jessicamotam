@@ -23783,3 +23783,4 @@
 0989. 📚 docs: write FAQ section
 0699. 🎨 style: standardize quote style
 0618. ✨ feat: support email verification
+0521. 🎨 style: standardize quote style
