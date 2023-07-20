@@ -90748,3 +90748,4 @@
 0424. ✨ feat: add user authentication
 0590. 🐛 fix: fix null pointer exception on login
 0569. 📚 docs: document token refresh logic
+0918. ✨ feat: enable dark mode toggle
