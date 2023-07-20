@@ -83252,3 +83252,4 @@
 0649. 📚 docs: update README with setup steps
 0756. ✨ feat: support email verification
 0387. ✨ feat: enable dark mode toggle
+0649. 📚 docs: update README with setup steps
