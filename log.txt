@@ -51994,3 +51994,4 @@
 0234. ♻️ chore: rename env.example
 0466. 🚀 perf: optimize database query for quiz results
 0291. 📚 docs: write FAQ section
+0422. 🔧 refactor: organize models into subfolders
