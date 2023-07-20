@@ -60587,3 +60587,4 @@
 0732. ♻️ chore: add GitHub actions badge
 0222. 🐛 fix: handle 500 error in quiz API
 0932. ✅ test: add integration test for /submit endpoint
+0798. 🚀 perf: reduce image load time
