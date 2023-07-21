@@ -21377,3 +21377,4 @@
 0233. 🚀 perf: lazy-load components
 0138. 🎨 style: rename variables for clarity
 0056. ♻️ chore: rename env.example
+0615. 🐛 fix: correct typo in registration form
