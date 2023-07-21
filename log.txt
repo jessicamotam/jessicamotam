@@ -65185,3 +65185,4 @@
 0946. ✅ test: add unit test for quiz service
 0569. 📚 docs: document token refresh logic
 0002. 🚀 perf: cache repeated calculations
+0672. 🐛 fix: fix broken CSS in mobile view
