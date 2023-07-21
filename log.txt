@@ -9482,3 +9482,4 @@
 0631. ✨ feat: create admin dashboard
 0537. 🔧 refactor: remove redundant code blocks
 0583. ✅ test: increase coverage on auth module
+0724. ✅ test: mock database connection in test suite
