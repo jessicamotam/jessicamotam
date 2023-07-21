@@ -72599,3 +72599,4 @@
 0892. ✅ test: add unit test for quiz service
 0572. ✨ feat: add user authentication
 0139. 📚 docs: document token refresh logic
+0427. ✅ test: mock database connection in test suite
