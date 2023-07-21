@@ -34728,3 +34728,4 @@
 0537. 🔧 refactor: remove redundant code blocks
 0561. 📚 docs: write FAQ section
 0431. 🎨 style: reformat files with black
+0667. ✨ feat: add export to CSV option
