@@ -21251,3 +21251,4 @@
 0103. 🔧 refactor: remove redundant code blocks
 0586. 🎨 style: remove trailing whitespace
 0394. 🚀 perf: lazy-load components
+0703. 🔧 refactor: clean up auth middleware
