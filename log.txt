@@ -12856,3 +12856,4 @@
 0762. 🚀 perf: lazy-load components
 0869. ♻️ chore: bump dependencies
 0557. 🔧 refactor: clean up auth middleware
+0911. ✅ test: increase coverage on auth module
