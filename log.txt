@@ -54399,3 +54399,4 @@
 0960. ✅ test: increase coverage on auth module
 0548. 📚 docs: write FAQ section
 0713. 🐛 fix: handle 500 error in quiz API
+0966. 📚 docs: improve code comments in utils
