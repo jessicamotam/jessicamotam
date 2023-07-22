@@ -11273,3 +11273,4 @@
 0144. ✅ test: increase coverage on auth module
 0338. ♻️ chore: add GitHub actions badge
 0322. 🔧 refactor: split large controller into smaller functions
+0113. ✨ feat: add user authentication
