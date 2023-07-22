@@ -69813,3 +69813,4 @@
 0563. 📚 docs: clarify environment setup
 0491. 🚀 perf: lazy-load components
 0832. 🔧 refactor: remove redundant code blocks
+0653. 🐛 fix: prevent crash on empty input
