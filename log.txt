@@ -53691,3 +53691,4 @@
 0784. ♻️ chore: clean up unused files
 0274. 🔧 refactor: refactor quiz grading logic
 0146. 🎨 style: apply consistent indentation
+0800. 🚀 perf: optimize database query for quiz results
