@@ -38580,3 +38580,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0743. 🎨 style: apply consistent indentation
 0869. ♻️ chore: bump dependencies
+0066. 🔧 refactor: clean up auth middleware
