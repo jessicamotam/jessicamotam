@@ -57977,3 +57977,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0641. 📚 docs: write FAQ section
 0275. 🎨 style: standardize quote style
+0795. 📚 docs: update README with setup steps
