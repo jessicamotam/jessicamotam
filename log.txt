@@ -50113,3 +50113,4 @@
 0010. ✨ feat: add user authentication
 0369. 🎨 style: standardize quote style
 0995. ✅ test: mock database connection in test suite
+0936. 🔧 refactor: organize models into subfolders
