@@ -559,3 +559,4 @@
 0492. 🎨 style: remove trailing whitespace
 0264. 🚀 perf: optimize database query for quiz results
 0185. 📚 docs: write FAQ section
+0982. 🚀 perf: lazy-load components
