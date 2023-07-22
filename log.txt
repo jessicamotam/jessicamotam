@@ -58231,3 +58231,4 @@
 0509. ♻️ chore: bump dependencies
 0746. ♻️ chore: add GitHub actions badge
 0593. 🐛 fix: correct typo in registration form
+0626. 🎨 style: standardize quote style
