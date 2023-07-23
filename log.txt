@@ -74819,3 +74819,4 @@
 0159. 🚀 perf: lazy-load components
 0867. 🔧 refactor: refactor quiz grading logic
 0816. 🔧 refactor: organize models into subfolders
+0995. ✅ test: mock database connection in test suite
