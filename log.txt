@@ -25136,3 +25136,4 @@
 0929. ✨ feat: support email verification
 0049. 🐛 fix: handle 500 error in quiz API
 0437. 📚 docs: clarify environment setup
+0675. 🔧 refactor: organize models into subfolders
