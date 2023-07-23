@@ -35927,3 +35927,4 @@
 0954. 🚀 perf: cache repeated calculations
 0024. 📚 docs: write FAQ section
 0836. 🚀 perf: optimize database query for quiz results
+0981. 🚀 perf: lazy-load components
