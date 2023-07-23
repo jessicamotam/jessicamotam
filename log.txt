@@ -20115,3 +20115,4 @@
 0847. ♻️ chore: clean up unused files
 0224. 🐛 fix: fix broken CSS in mobile view
 0285. 🐛 fix: resolve issue with date parsing
+0979. 🎨 style: standardize quote style
