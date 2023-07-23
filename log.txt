@@ -43343,3 +43343,4 @@
 0494. 🎨 style: rename variables for clarity
 0793. 📚 docs: clarify environment setup
 0192. ✨ feat: enable dark mode toggle
+0319. 🐛 fix: handle 500 error in quiz API
