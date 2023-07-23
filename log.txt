@@ -32574,3 +32574,4 @@
 0509. ♻️ chore: bump dependencies
 0272. 🔧 refactor: remove redundant code blocks
 0594. 🎨 style: reformat files with black
+0617. ✨ feat: support email verification
