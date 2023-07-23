@@ -37494,3 +37494,4 @@
 0136. 🚀 perf: lazy-load components
 0982. 🚀 perf: lazy-load components
 0905. ♻️ chore: bump dependencies
+0055. 📚 docs: update README with setup steps
