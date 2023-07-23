@@ -83274,3 +83274,4 @@
 0116. ✨ feat: support email verification
 0152. ✨ feat: add user authentication
 0742. 📚 docs: clarify environment setup
+0977. 🔧 refactor: organize models into subfolders
