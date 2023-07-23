@@ -48529,3 +48529,4 @@
 0346. ✅ test: mock database connection in test suite
 0963. 🚀 perf: reduce image load time
 0988. 🐛 fix: fix broken CSS in mobile view
+0889. 🚀 perf: lazy-load components
