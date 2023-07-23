@@ -25405,3 +25405,4 @@
 0702. ✨ feat: add user authentication
 0860. 🔧 refactor: organize models into subfolders
 0361. ✨ feat: support email verification
+0338. ♻️ chore: add GitHub actions badge
