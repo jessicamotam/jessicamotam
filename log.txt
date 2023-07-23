@@ -15288,3 +15288,4 @@
 0863. 🐛 fix: correct typo in registration form
 0267. 📚 docs: improve code comments in utils
 0701. 🔧 refactor: clean up auth middleware
+0798. 🚀 perf: reduce image load time
