@@ -71753,3 +71753,4 @@
 0453. 🎨 style: standardize quote style
 0084. 🐛 fix: handle 500 error in quiz API
 0976. ✨ feat: implement quiz timer feature
+0618. ✨ feat: support email verification
