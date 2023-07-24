@@ -24721,3 +24721,4 @@
 0539. 🔧 refactor: organize models into subfolders
 0379. ✨ feat: support email verification
 0703. 🔧 refactor: clean up auth middleware
+0675. 🔧 refactor: organize models into subfolders
