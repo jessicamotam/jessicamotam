@@ -71358,3 +71358,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0574. ✨ feat: enable dark mode toggle
 0659. 📚 docs: add API usage examples
+0880. 🐛 fix: fix broken CSS in mobile view
