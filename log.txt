@@ -85195,3 +85195,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0787. ♻️ chore: rename env.example
 0020. ✅ test: add integration test for /submit endpoint
+0439. 🐛 fix: correct typo in registration form
