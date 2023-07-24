@@ -79100,3 +79100,4 @@
 0716. ✨ feat: implement quiz timer feature
 0110. 🐛 fix: prevent crash on empty input
 0529. 📚 docs: write FAQ section
+0737. 🐛 fix: handle 500 error in quiz API
