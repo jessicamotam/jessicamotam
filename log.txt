@@ -4698,3 +4698,4 @@
 0875. ✅ test: increase coverage on auth module
 0778. 📚 docs: write FAQ section
 0555. ✨ feat: create admin dashboard
+0362. 📚 docs: add API usage examples
