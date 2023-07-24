@@ -53222,3 +53222,4 @@
 0716. ✨ feat: implement quiz timer feature
 0178. ✨ feat: support email verification
 0485. 📚 docs: update README with setup steps
+0383. 🐛 fix: fix broken CSS in mobile view
