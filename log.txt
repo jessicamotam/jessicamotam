@@ -77222,3 +77222,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0705. 🔧 refactor: refactor quiz grading logic
 0166. 🚀 perf: cache repeated calculations
+0766. 🎨 style: reformat files with black
