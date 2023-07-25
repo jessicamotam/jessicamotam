@@ -80202,3 +80202,4 @@
 0631. ✨ feat: create admin dashboard
 0849. 🐛 fix: correct typo in registration form
 0091. ✨ feat: add user authentication
+0942. ✅ test: increase coverage on auth module
