@@ -66385,3 +66385,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0938. 🎨 style: rename variables for clarity
 0663. 🚀 perf: reduce image load time
+0544. 🔧 refactor: organize models into subfolders
