@@ -17097,3 +17097,4 @@
 0385. ♻️ chore: clean up unused files
 0225. 🚀 perf: reduce image load time
 0847. ♻️ chore: clean up unused files
+0291. 📚 docs: write FAQ section
