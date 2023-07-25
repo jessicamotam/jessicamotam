@@ -42876,3 +42876,4 @@
 0778. 📚 docs: write FAQ section
 0725. 🚀 perf: lazy-load components
 0550. 🔧 refactor: split large controller into smaller functions
+0279. ✨ feat: support email verification
