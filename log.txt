@@ -46328,3 +46328,4 @@
 0811. 🎨 style: reformat files with black
 0313. 🎨 style: apply consistent indentation
 0722. 📚 docs: add API usage examples
+0291. 📚 docs: write FAQ section
