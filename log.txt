@@ -50358,3 +50358,4 @@
 0884. 📚 docs: clarify environment setup
 0022. 📚 docs: document token refresh logic
 0724. ✅ test: mock database connection in test suite
+0085. ✨ feat: support email verification
