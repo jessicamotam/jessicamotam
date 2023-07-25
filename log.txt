@@ -70860,3 +70860,4 @@
 0742. 📚 docs: clarify environment setup
 0726. ✨ feat: enable dark mode toggle
 0887. 📚 docs: add API usage examples
+0415. 🐛 fix: handle 500 error in quiz API
