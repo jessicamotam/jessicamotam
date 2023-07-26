@@ -21752,3 +21752,4 @@
 0447. ♻️ chore: bump dependencies
 0751. 🐛 fix: handle 500 error in quiz API
 0942. ✅ test: increase coverage on auth module
+0083. 🎨 style: reformat files with black
