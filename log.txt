@@ -35945,3 +35945,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0407. 🚀 perf: cache repeated calculations
 0018. 🔧 refactor: organize models into subfolders
+0654. ✨ feat: create admin dashboard
