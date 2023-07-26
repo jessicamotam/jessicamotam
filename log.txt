@@ -26299,3 +26299,4 @@
 0201. 🔧 refactor: clean up auth middleware
 0042. 📚 docs: document token refresh logic
 0650. ✅ test: add unit test for quiz service
+0764. ✨ feat: add user authentication
