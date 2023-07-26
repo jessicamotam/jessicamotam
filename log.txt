@@ -43226,3 +43226,4 @@
 0809. ♻️ chore: rename env.example
 0317. ✅ test: test user registration edge cases
 0794. ♻️ chore: clean up unused files
+0702. ✨ feat: add user authentication
