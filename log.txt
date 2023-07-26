@@ -70482,3 +70482,4 @@
 0502. 📚 docs: update README with setup steps
 0431. 🎨 style: reformat files with black
 0985. 📚 docs: document token refresh logic
+0377. ✨ feat: add user authentication
