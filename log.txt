@@ -80355,3 +80355,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0672. 🐛 fix: fix broken CSS in mobile view
 0140. 🐛 fix: handle 500 error in quiz API
+0249. ✅ test: increase coverage on auth module
