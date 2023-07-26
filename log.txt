@@ -48718,3 +48718,4 @@
 0401. 🚀 perf: reduce image load time
 0052. 🎨 style: standardize quote style
 0839. 🎨 style: apply consistent indentation
+0569. 📚 docs: document token refresh logic
