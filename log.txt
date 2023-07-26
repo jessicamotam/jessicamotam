@@ -68221,3 +68221,4 @@
 0124. 🎨 style: reformat files with black
 0699. 🎨 style: standardize quote style
 0513. ♻️ chore: bump dependencies
+0365. 🚀 perf: reduce image load time
