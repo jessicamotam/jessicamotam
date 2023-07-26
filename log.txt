@@ -86606,3 +86606,4 @@
 0308. 🚀 perf: reduce image load time
 0446. 🎨 style: apply consistent indentation
 0910. 🎨 style: remove trailing whitespace
+0731. 🎨 style: standardize quote style
