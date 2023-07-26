@@ -57089,3 +57089,4 @@
 0519. 📚 docs: document token refresh logic
 0530. 🔧 refactor: refactor quiz grading logic
 0186. ✅ test: test user registration edge cases
+0356. 📚 docs: write FAQ section
