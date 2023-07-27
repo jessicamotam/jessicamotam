@@ -78230,3 +78230,4 @@
 0794. ♻️ chore: clean up unused files
 0515. 🚀 perf: optimize database query for quiz results
 0335. ♻️ chore: update .gitignore
+0502. 📚 docs: update README with setup steps
