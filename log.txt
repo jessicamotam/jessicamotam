@@ -35456,3 +35456,4 @@
 0357. ✅ test: add unit test for quiz service
 0982. 🚀 perf: lazy-load components
 0129. 🔧 refactor: organize models into subfolders
+0072. 🚀 perf: optimize database query for quiz results
