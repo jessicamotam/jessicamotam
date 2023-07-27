@@ -26671,3 +26671,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0502. 📚 docs: update README with setup steps
 0330. ✅ test: test user registration edge cases
+0699. 🎨 style: standardize quote style
