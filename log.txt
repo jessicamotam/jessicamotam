@@ -79309,3 +79309,4 @@
 0683. ✅ test: mock database connection in test suite
 0399. ✅ test: mock database connection in test suite
 0309. 🔧 refactor: refactor quiz grading logic
+0433. 🐛 fix: prevent crash on empty input
