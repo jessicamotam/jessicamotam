@@ -11946,3 +11946,4 @@
 0681. ✨ feat: create admin dashboard
 0935. 📚 docs: update README with setup steps
 0595. ✨ feat: enable dark mode toggle
+0152. ✨ feat: add user authentication
