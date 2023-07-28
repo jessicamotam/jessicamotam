@@ -50195,3 +50195,4 @@
 0913. 🚀 perf: optimize database query for quiz results
 0545. 🎨 style: standardize quote style
 0183. 🔧 refactor: split large controller into smaller functions
+0231. 🔧 refactor: clean up auth middleware
