@@ -26063,3 +26063,4 @@
 0663. 🚀 perf: reduce image load time
 0139. 📚 docs: document token refresh logic
 0964. ♻️ chore: clean up unused files
+0096. 🐛 fix: prevent crash on empty input
