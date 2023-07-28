@@ -43797,3 +43797,4 @@
 0715. ✨ feat: create admin dashboard
 0490. ✨ feat: create admin dashboard
 0151. ✅ test: add unit test for quiz service
+0958. 🐛 fix: prevent crash on empty input
