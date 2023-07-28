@@ -32483,3 +32483,4 @@
 0035. ✅ test: increase coverage on auth module
 0778. 📚 docs: write FAQ section
 0054. ♻️ chore: update .gitignore
+0935. 📚 docs: update README with setup steps
