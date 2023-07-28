@@ -67590,3 +67590,4 @@
 0060. ♻️ chore: clean up unused files
 0221. ✨ feat: add user authentication
 0772. 🐛 fix: fix null pointer exception on login
+0222. 🐛 fix: handle 500 error in quiz API
