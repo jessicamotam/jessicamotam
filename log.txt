@@ -86108,3 +86108,4 @@
 0419. 🎨 style: remove trailing whitespace
 0672. 🐛 fix: fix broken CSS in mobile view
 0097. 🐛 fix: handle 500 error in quiz API
+0371. ✅ test: add integration test for /submit endpoint
