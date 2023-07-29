@@ -34131,3 +34131,4 @@
 0297. 🎨 style: remove trailing whitespace
 0144. ✅ test: increase coverage on auth module
 0396. 🔧 refactor: split large controller into smaller functions
+0971. 🎨 style: standardize quote style
