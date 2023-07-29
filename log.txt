@@ -43631,3 +43631,4 @@
 0606. 📚 docs: improve code comments in utils
 0013. ✅ test: increase coverage on auth module
 0790. 📚 docs: write FAQ section
+0271. ✅ test: add unit test for quiz service
