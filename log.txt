@@ -67797,3 +67797,4 @@
 0742. 📚 docs: clarify environment setup
 0607. 🐛 fix: prevent crash on empty input
 0756. ✨ feat: support email verification
+0037. 🐛 fix: correct typo in registration form
