@@ -89135,3 +89135,4 @@
 0974. ✨ feat: add export to CSV option
 0715. ✨ feat: create admin dashboard
 0505. ♻️ chore: add GitHub actions badge
+0197. 📚 docs: update README with setup steps
