@@ -79226,3 +79226,4 @@
 0144. ✅ test: increase coverage on auth module
 0997. ✅ test: increase coverage on auth module
 0987. ✨ feat: create admin dashboard
+0791. 🔧 refactor: clean up auth middleware
