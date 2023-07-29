@@ -10750,3 +10750,4 @@
 0003. ✅ test: increase coverage on auth module
 0781. 🚀 perf: reduce image load time
 0936. 🔧 refactor: organize models into subfolders
+0245. 🐛 fix: resolve issue with date parsing
