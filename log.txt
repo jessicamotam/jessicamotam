@@ -42101,3 +42101,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0527. 🎨 style: remove trailing whitespace
 0076. 🎨 style: reformat files with black
+0698. 🐛 fix: handle 500 error in quiz API
