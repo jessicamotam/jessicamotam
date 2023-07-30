@@ -64447,3 +64447,4 @@
 0794. ♻️ chore: clean up unused files
 0483. 📚 docs: update README with setup steps
 0604. 📚 docs: add API usage examples
+0378. 🐛 fix: prevent crash on empty input
