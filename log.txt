@@ -7225,3 +7225,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0594. 🎨 style: reformat files with black
 0415. 🐛 fix: handle 500 error in quiz API
+0710. 🐛 fix: fix broken CSS in mobile view
