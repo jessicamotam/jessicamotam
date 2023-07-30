@@ -5742,3 +5742,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0227. ✅ test: test user registration edge cases
 0646. ✅ test: test user registration edge cases
+0956. 📚 docs: clarify environment setup
