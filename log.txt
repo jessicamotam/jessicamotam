@@ -7506,3 +7506,4 @@
 0057. 🚀 perf: optimize database query for quiz results
 0319. 🐛 fix: handle 500 error in quiz API
 0070. ✨ feat: implement quiz timer feature
+0344. ♻️ chore: add GitHub actions badge
