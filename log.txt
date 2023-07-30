@@ -48581,3 +48581,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0948. 🐛 fix: fix broken CSS in mobile view
 0442. 🎨 style: standardize quote style
+0903. ✅ test: mock database connection in test suite
