@@ -84879,3 +84879,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0671. 🐛 fix: fix null pointer exception on login
 0037. 🐛 fix: correct typo in registration form
+0829. 🔧 refactor: organize models into subfolders
