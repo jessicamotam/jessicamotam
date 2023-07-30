@@ -16651,3 +16651,4 @@
 0253. 📚 docs: update README with setup steps
 0569. 📚 docs: document token refresh logic
 0734. ✨ feat: add export to CSV option
+0378. 🐛 fix: prevent crash on empty input
