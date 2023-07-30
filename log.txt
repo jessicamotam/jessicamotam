@@ -4337,3 +4337,4 @@
 0517. ✅ test: mock database connection in test suite
 0558. ✨ feat: enable dark mode toggle
 0406. ✨ feat: add export to CSV option
+0737. 🐛 fix: handle 500 error in quiz API
