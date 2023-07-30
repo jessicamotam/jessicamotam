@@ -29163,3 +29163,4 @@
 0348. ✅ test: test user registration edge cases
 0731. 🎨 style: standardize quote style
 0075. ✅ test: mock database connection in test suite
+0107. 🐛 fix: prevent crash on empty input
