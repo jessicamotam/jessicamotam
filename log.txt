@@ -14926,3 +14926,4 @@
 0901. ✨ feat: add user authentication
 0789. ✨ feat: create admin dashboard
 0302. ✨ feat: implement quiz timer feature
+0666. 🐛 fix: fix broken CSS in mobile view
