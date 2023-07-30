@@ -58605,3 +58605,4 @@
 0492. 🎨 style: remove trailing whitespace
 0518. ✨ feat: support email verification
 0915. 🚀 perf: cache repeated calculations
+0197. 📚 docs: update README with setup steps
