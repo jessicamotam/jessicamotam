@@ -11414,3 +11414,4 @@
 0192. ✨ feat: enable dark mode toggle
 0780. 📚 docs: add API usage examples
 0712. 🎨 style: apply consistent indentation
+0962. ✨ feat: create admin dashboard
