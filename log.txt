@@ -74181,3 +74181,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0100. ♻️ chore: update .gitignore
 0373. 📚 docs: document token refresh logic
+0609. 🐛 fix: handle 500 error in quiz API
