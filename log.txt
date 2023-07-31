@@ -73725,3 +73725,4 @@
 0343. 🚀 perf: optimize database query for quiz results
 0021. ✨ feat: support email verification
 0266. 🔧 refactor: remove redundant code blocks
+0319. 🐛 fix: handle 500 error in quiz API
