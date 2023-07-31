@@ -54796,3 +54796,4 @@
 0918. ✨ feat: enable dark mode toggle
 0771. 🚀 perf: cache repeated calculations
 0669. ✨ feat: enable dark mode toggle
+0380. 🐛 fix: fix null pointer exception on login
