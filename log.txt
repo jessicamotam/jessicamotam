@@ -46895,3 +46895,4 @@
 0071. 🔧 refactor: refactor quiz grading logic
 0997. ✅ test: increase coverage on auth module
 0174. 📚 docs: clarify environment setup
+0946. ✅ test: add unit test for quiz service
