@@ -9161,3 +9161,4 @@
 0196. ♻️ chore: bump dependencies
 0016. 🎨 style: apply consistent indentation
 0609. 🐛 fix: handle 500 error in quiz API
+0201. 🔧 refactor: clean up auth middleware
