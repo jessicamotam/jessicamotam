@@ -38974,3 +38974,4 @@
 0917. ✅ test: add integration test for /submit endpoint
 0128. ♻️ chore: rename env.example
 0126. 🎨 style: rename variables for clarity
+0136. 🚀 perf: lazy-load components
