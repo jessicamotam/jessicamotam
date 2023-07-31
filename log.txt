@@ -67645,3 +67645,4 @@
 0771. 🚀 perf: cache repeated calculations
 0636. ✅ test: increase coverage on auth module
 0244. ✨ feat: add export to CSV option
+0898. 🐛 fix: fix broken CSS in mobile view
