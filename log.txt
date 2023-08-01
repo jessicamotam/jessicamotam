@@ -36977,3 +36977,4 @@
 0640. ♻️ chore: bump dependencies
 0570. 🎨 style: apply consistent indentation
 0240. 🔧 refactor: remove redundant code blocks
+0809. ♻️ chore: rename env.example
