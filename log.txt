@@ -34939,3 +34939,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0818. 🔧 refactor: remove redundant code blocks
 0307. ✨ feat: support email verification
+0586. 🎨 style: remove trailing whitespace
