@@ -25371,3 +25371,4 @@
 0864. 🐛 fix: correct typo in registration form
 0880. 🐛 fix: fix broken CSS in mobile view
 0636. ✅ test: increase coverage on auth module
+0925. ✨ feat: add export to CSV option
