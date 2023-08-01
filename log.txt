@@ -38854,3 +38854,4 @@
 0968. 🎨 style: standardize quote style
 0135. ✅ test: test user registration edge cases
 0395. 📚 docs: write FAQ section
+0519. 📚 docs: document token refresh logic
