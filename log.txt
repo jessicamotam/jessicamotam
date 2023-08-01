@@ -64752,3 +64752,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0260. ✨ feat: create admin dashboard
 0502. 📚 docs: update README with setup steps
+0543. ✨ feat: support email verification
