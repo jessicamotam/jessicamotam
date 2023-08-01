@@ -33124,3 +33124,4 @@
 0093. ✅ test: add unit test for quiz service
 0469. 🚀 perf: lazy-load components
 0462. ♻️ chore: update .gitignore
+0451. ✨ feat: support email verification
