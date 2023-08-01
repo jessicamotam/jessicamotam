@@ -67463,3 +67463,4 @@
 0809. ♻️ chore: rename env.example
 0552. 🐛 fix: fix null pointer exception on login
 0562. 🔧 refactor: clean up auth middleware
+0078. ♻️ chore: update .gitignore
