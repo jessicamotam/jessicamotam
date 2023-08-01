@@ -56611,3 +56611,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0374. 🎨 style: standardize quote style
 0805. ♻️ chore: add GitHub actions badge
+0574. ✨ feat: enable dark mode toggle
