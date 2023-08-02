@@ -11322,3 +11322,4 @@
 0491. 🚀 perf: lazy-load components
 0071. 🔧 refactor: refactor quiz grading logic
 0147. ♻️ chore: bump dependencies
+0361. ✨ feat: support email verification
