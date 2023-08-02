@@ -60677,3 +60677,4 @@
 0970. ♻️ chore: update .gitignore
 0756. ✨ feat: support email verification
 0259. 🚀 perf: lazy-load components
+0152. ✨ feat: add user authentication
