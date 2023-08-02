@@ -40220,3 +40220,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0782. 📚 docs: improve code comments in utils
 0686. 🎨 style: standardize quote style
+0107. 🐛 fix: prevent crash on empty input
