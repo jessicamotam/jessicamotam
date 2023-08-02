@@ -86677,3 +86677,4 @@
 0172. 📚 docs: add API usage examples
 0608. 🔧 refactor: remove redundant code blocks
 0154. 🐛 fix: prevent crash on empty input
+0701. 🔧 refactor: clean up auth middleware
