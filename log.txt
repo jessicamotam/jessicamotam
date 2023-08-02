@@ -29227,3 +29227,4 @@
 0572. ✨ feat: add user authentication
 0543. ✨ feat: support email verification
 0628. ♻️ chore: add GitHub actions badge
+0292. 📚 docs: clarify environment setup
