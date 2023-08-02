@@ -38523,3 +38523,4 @@
 0221. ✨ feat: add user authentication
 0108. 🎨 style: remove trailing whitespace
 0725. 🚀 perf: lazy-load components
+0568. 🐛 fix: handle 500 error in quiz API
