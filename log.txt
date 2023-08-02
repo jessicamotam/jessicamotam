@@ -27935,3 +27935,4 @@
 0987. ✨ feat: create admin dashboard
 0375. 🐛 fix: handle 500 error in quiz API
 0177. 📚 docs: add API usage examples
+0110. 🐛 fix: prevent crash on empty input
