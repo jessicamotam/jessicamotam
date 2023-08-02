@@ -9741,3 +9741,4 @@
 0446. 🎨 style: apply consistent indentation
 0975. 🎨 style: apply consistent indentation
 0363. 📚 docs: clarify environment setup
+0197. 📚 docs: update README with setup steps
