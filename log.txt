@@ -75318,3 +75318,4 @@
 0036. 🔧 refactor: clean up auth middleware
 0767. 🔧 refactor: remove redundant code blocks
 0344. ♻️ chore: add GitHub actions badge
+0468. 📚 docs: update README with setup steps
