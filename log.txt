@@ -22066,3 +22066,4 @@
 0599. ✅ test: test user registration edge cases
 0635. 🎨 style: apply consistent indentation
 0212. 🎨 style: standardize quote style
+0031. 📚 docs: document token refresh logic
