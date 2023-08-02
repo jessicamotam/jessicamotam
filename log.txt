@@ -75182,3 +75182,4 @@
 0458. ✨ feat: create admin dashboard
 0565. ♻️ chore: add GitHub actions badge
 0768. 🎨 style: remove trailing whitespace
+0405. ✅ test: mock database connection in test suite
