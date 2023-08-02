@@ -48097,3 +48097,4 @@
 0651. ✨ feat: enable dark mode toggle
 0275. 🎨 style: standardize quote style
 0233. 🚀 perf: lazy-load components
+0934. ✨ feat: support email verification
