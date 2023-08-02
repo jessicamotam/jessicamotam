@@ -88596,3 +88596,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0133. 🐛 fix: fix null pointer exception on login
 0416. 🎨 style: rename variables for clarity
+0721. 🚀 perf: optimize database query for quiz results
