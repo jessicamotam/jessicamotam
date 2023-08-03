@@ -74255,3 +74255,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0491. 🚀 perf: lazy-load components
 0312. ✨ feat: add user authentication
+0747. 🔧 refactor: clean up auth middleware
