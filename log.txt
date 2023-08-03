@@ -35870,3 +35870,4 @@
 0259. 🚀 perf: lazy-load components
 0756. ✨ feat: support email verification
 0967. ♻️ chore: add GitHub actions badge
+0509. ♻️ chore: bump dependencies
