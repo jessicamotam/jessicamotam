@@ -23347,3 +23347,4 @@
 0197. 📚 docs: update README with setup steps
 0420. 🚀 perf: reduce image load time
 0096. 🐛 fix: prevent crash on empty input
+0218. 🔧 refactor: clean up auth middleware
