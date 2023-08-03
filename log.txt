@@ -54704,3 +54704,4 @@
 0440. 📚 docs: update README with setup steps
 0849. 🐛 fix: correct typo in registration form
 0505. ♻️ chore: add GitHub actions badge
+0286. ✅ test: mock database connection in test suite
