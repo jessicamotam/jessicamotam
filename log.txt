@@ -89353,3 +89353,4 @@
 0087. ✨ feat: add export to CSV option
 0122. ✨ feat: support email verification
 0565. ♻️ chore: add GitHub actions badge
+0731. 🎨 style: standardize quote style
