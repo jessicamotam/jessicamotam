@@ -72044,3 +72044,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0045. 🎨 style: apply consistent indentation
 0336. ✨ feat: add export to CSV option
+0813. 🔧 refactor: organize models into subfolders
