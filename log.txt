@@ -73375,3 +73375,4 @@
 0605. ✨ feat: support email verification
 0871. ✅ test: add integration test for /submit endpoint
 0204. 🎨 style: standardize quote style
+0384. 📚 docs: clarify environment setup
