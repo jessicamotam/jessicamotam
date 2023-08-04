@@ -27714,3 +27714,4 @@
 0997. ✅ test: increase coverage on auth module
 0150. 🎨 style: remove trailing whitespace
 0831. 📚 docs: clarify environment setup
+0960. ✅ test: increase coverage on auth module
