@@ -25794,3 +25794,4 @@
 0419. 🎨 style: remove trailing whitespace
 0030. 🐛 fix: fix null pointer exception on login
 0988. 🐛 fix: fix broken CSS in mobile view
+0547. 📚 docs: write FAQ section
