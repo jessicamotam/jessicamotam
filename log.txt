@@ -5047,3 +5047,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0198. 📚 docs: clarify environment setup
 0458. ✨ feat: create admin dashboard
+0205. 📚 docs: update README with setup steps
