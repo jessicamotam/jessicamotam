@@ -42703,3 +42703,4 @@
 0420. 🚀 perf: reduce image load time
 0843. 📚 docs: document token refresh logic
 0576. ♻️ chore: update .gitignore
+0820. 📚 docs: add API usage examples
