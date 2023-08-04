@@ -56071,3 +56071,4 @@
 0440. 📚 docs: update README with setup steps
 0680. ♻️ chore: add GitHub actions badge
 1000. ✅ test: increase coverage on auth module
+0371. ✅ test: add integration test for /submit endpoint
