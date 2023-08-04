@@ -12595,3 +12595,4 @@
 0825. 🔧 refactor: split large controller into smaller functions
 0143. ✨ feat: implement quiz timer feature
 0142. ✨ feat: implement quiz timer feature
+0914. ✅ test: test user registration edge cases
