@@ -87529,3 +87529,4 @@
 0345. 📚 docs: document token refresh logic
 0784. ♻️ chore: clean up unused files
 0963. 🚀 perf: reduce image load time
+0523. ♻️ chore: bump dependencies
