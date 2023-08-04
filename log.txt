@@ -40070,3 +40070,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0317. ✅ test: test user registration edge cases
 0031. 📚 docs: document token refresh logic
+0231. 🔧 refactor: clean up auth middleware
