@@ -70903,3 +70903,4 @@
 0003. ✅ test: increase coverage on auth module
 0681. ✨ feat: create admin dashboard
 0393. 🚀 perf: lazy-load components
+0738. 🐛 fix: prevent crash on empty input
