@@ -72716,3 +72716,4 @@
 0944. ✨ feat: add user authentication
 0483. 📚 docs: update README with setup steps
 0161. ✨ feat: create admin dashboard
+0491. 🚀 perf: lazy-load components
