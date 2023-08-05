@@ -5649,3 +5649,4 @@
 0158. 📚 docs: clarify environment setup
 0949. 📚 docs: write FAQ section
 0657. 🎨 style: standardize quote style
+0441. 📚 docs: add API usage examples
