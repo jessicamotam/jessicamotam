@@ -53099,3 +53099,4 @@
 0257. 📚 docs: clarify environment setup
 0715. ✨ feat: create admin dashboard
 0217. 🚀 perf: reduce image load time
+0066. 🔧 refactor: clean up auth middleware
