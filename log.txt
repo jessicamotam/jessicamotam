@@ -14394,3 +14394,4 @@
 0627. 📚 docs: document token refresh logic
 0563. 📚 docs: clarify environment setup
 0307. ✨ feat: support email verification
+0074. ♻️ chore: add GitHub actions badge
