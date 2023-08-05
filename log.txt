@@ -241,3 +241,4 @@
 0622. 🎨 style: apply consistent indentation
 0337. 📚 docs: document token refresh logic
 0403. ✅ test: mock database connection in test suite
+0946. ✅ test: add unit test for quiz service
