@@ -59446,3 +59446,4 @@
 0061. ✨ feat: create admin dashboard
 0120. ✅ test: add integration test for /submit endpoint
 0348. ✅ test: test user registration edge cases
+0127. 🐛 fix: fix null pointer exception on login
