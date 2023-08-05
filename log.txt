@@ -63524,3 +63524,4 @@
 0086. 🐛 fix: correct typo in registration form
 0402. 🎨 style: reformat files with black
 0565. ♻️ chore: add GitHub actions badge
+0433. 🐛 fix: prevent crash on empty input
