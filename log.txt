@@ -41382,3 +41382,4 @@
 0787. ♻️ chore: rename env.example
 0318. 🔧 refactor: refactor quiz grading logic
 0053. ✅ test: increase coverage on auth module
+0823. ✨ feat: add user authentication
