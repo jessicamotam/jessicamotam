@@ -65228,3 +65228,4 @@
 0151. ✅ test: add unit test for quiz service
 0183. 🔧 refactor: split large controller into smaller functions
 0169. 📚 docs: add API usage examples
+0724. ✅ test: mock database connection in test suite
