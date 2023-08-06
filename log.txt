@@ -17987,3 +17987,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0071. 🔧 refactor: refactor quiz grading logic
 0499. 🎨 style: reformat files with black
+0960. ✅ test: increase coverage on auth module
