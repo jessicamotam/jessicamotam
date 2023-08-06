@@ -42711,3 +42711,4 @@
 0254. 🚀 perf: reduce image load time
 0634. 🎨 style: reformat files with black
 0373. 📚 docs: document token refresh logic
+0114. ♻️ chore: update .gitignore
