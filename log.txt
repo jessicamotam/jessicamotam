@@ -60291,3 +60291,4 @@
 0388. 🎨 style: reformat files with black
 0011. ✅ test: add unit test for quiz service
 0256. ✅ test: mock database connection in test suite
+0947. 📚 docs: write FAQ section
