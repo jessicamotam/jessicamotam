@@ -53365,3 +53365,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0579. 📚 docs: clarify environment setup
 0090. ✅ test: increase coverage on auth module
+0535. 📚 docs: write FAQ section
