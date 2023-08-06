@@ -55497,3 +55497,4 @@
 0844. 📚 docs: update README with setup steps
 0943. 🎨 style: rename variables for clarity
 0735. ♻️ chore: add GitHub actions badge
+0736. 🐛 fix: fix null pointer exception on login
