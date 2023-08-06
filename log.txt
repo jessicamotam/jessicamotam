@@ -43636,3 +43636,4 @@
 0776. ✅ test: add integration test for /submit endpoint
 0005. ✅ test: add unit test for quiz service
 0464. 🎨 style: remove trailing whitespace
+0218. 🔧 refactor: clean up auth middleware
