@@ -13824,3 +13824,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0511. 🐛 fix: fix broken CSS in mobile view
 0679. ♻️ chore: bump dependencies
+0521. 🎨 style: standardize quote style
