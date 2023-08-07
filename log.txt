@@ -73680,3 +73680,4 @@
 0614. 🚀 perf: reduce image load time
 0811. 🎨 style: reformat files with black
 0187. ✨ feat: support email verification
+0686. 🎨 style: standardize quote style
