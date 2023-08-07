@@ -11396,3 +11396,4 @@
 0193. 🚀 perf: optimize database query for quiz results
 0075. ✅ test: mock database connection in test suite
 0095. ✅ test: mock database connection in test suite
+0942. ✅ test: increase coverage on auth module
