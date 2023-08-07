@@ -859,3 +859,4 @@
 0062. ♻️ chore: update .gitignore
 0463. 🚀 perf: reduce image load time
 0715. ✨ feat: create admin dashboard
+0324. 📚 docs: document token refresh logic
