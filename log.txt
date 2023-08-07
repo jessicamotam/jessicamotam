@@ -22912,3 +22912,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0032. 🎨 style: apply consistent indentation
 0637. 🎨 style: apply consistent indentation
+0978. 🐛 fix: prevent crash on empty input
