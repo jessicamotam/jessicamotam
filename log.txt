@@ -79652,3 +79652,4 @@
 0276. ✅ test: add integration test for /submit endpoint
 0642. 🚀 perf: optimize database query for quiz results
 0785. ✨ feat: enable dark mode toggle
+0633. ✨ feat: add user authentication
