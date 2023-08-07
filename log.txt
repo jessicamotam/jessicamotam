@@ -4808,3 +4808,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0257. 📚 docs: clarify environment setup
 0121. ✨ feat: support email verification
+0399. ✅ test: mock database connection in test suite
