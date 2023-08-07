@@ -40627,3 +40627,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0958. 🐛 fix: prevent crash on empty input
 0405. ✅ test: mock database connection in test suite
+0730. ✅ test: test user registration edge cases
