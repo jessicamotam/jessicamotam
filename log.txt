@@ -54393,3 +54393,4 @@
 0997. ✅ test: increase coverage on auth module
 0049. 🐛 fix: handle 500 error in quiz API
 0788. 📚 docs: add API usage examples
+0611. ✅ test: test user registration edge cases
