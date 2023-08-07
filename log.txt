@@ -13324,3 +13324,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0870. ♻️ chore: clean up unused files
 0675. 🔧 refactor: organize models into subfolders
+0599. ✅ test: test user registration edge cases
