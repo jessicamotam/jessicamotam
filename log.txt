@@ -34422,3 +34422,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0039. ✅ test: add integration test for /submit endpoint
 0076. 🎨 style: reformat files with black
+0420. 🚀 perf: reduce image load time
