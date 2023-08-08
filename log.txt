@@ -5382,3 +5382,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0198. 📚 docs: clarify environment setup
 0529. 📚 docs: write FAQ section
+0671. 🐛 fix: fix null pointer exception on login
