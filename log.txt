@@ -18884,3 +18884,4 @@
 0286. ✅ test: mock database connection in test suite
 0370. 🚀 perf: reduce image load time
 0310. 🔧 refactor: refactor quiz grading logic
+0706. ✨ feat: support email verification
