@@ -28381,3 +28381,4 @@
 0566. 📚 docs: write FAQ section
 0747. 🔧 refactor: clean up auth middleware
 0627. 📚 docs: document token refresh logic
+0763. 🔧 refactor: organize models into subfolders
