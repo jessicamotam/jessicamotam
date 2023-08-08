@@ -15838,3 +15838,4 @@
 0419. 🎨 style: remove trailing whitespace
 0081. 🐛 fix: fix null pointer exception on login
 0123. ✨ feat: implement quiz timer feature
+0502. 📚 docs: update README with setup steps
