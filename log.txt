@@ -13088,3 +13088,4 @@
 0092. 🚀 perf: reduce image load time
 0922. 📚 docs: write FAQ section
 0855. 🎨 style: reformat files with black
+0393. 🚀 perf: lazy-load components
