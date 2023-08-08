@@ -59783,3 +59783,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0470. 🎨 style: remove trailing whitespace
 0998. 🐛 fix: fix null pointer exception on login
+0600. 🐛 fix: prevent crash on empty input
