@@ -60134,3 +60134,4 @@
 0465. 🎨 style: rename variables for clarity
 0200. 🐛 fix: handle 500 error in quiz API
 0625. 🐛 fix: handle 500 error in quiz API
+0699. 🎨 style: standardize quote style
