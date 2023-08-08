@@ -80871,3 +80871,4 @@
 0755. 🚀 perf: cache repeated calculations
 0320. 📚 docs: update README with setup steps
 0488. ♻️ chore: add GitHub actions badge
+0064. 📚 docs: clarify environment setup
