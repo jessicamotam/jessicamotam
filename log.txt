@@ -78992,3 +78992,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0905. ♻️ chore: bump dependencies
 0035. ✅ test: increase coverage on auth module
+0358. 🚀 perf: reduce image load time
