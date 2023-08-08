@@ -1181,3 +1181,4 @@
 0175. 📚 docs: add API usage examples
 0146. 🎨 style: apply consistent indentation
 0250. 📚 docs: update README with setup steps
+0747. 🔧 refactor: clean up auth middleware
