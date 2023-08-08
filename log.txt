@@ -51468,3 +51468,4 @@
 0820. 📚 docs: add API usage examples
 0649. 📚 docs: update README with setup steps
 0338. ♻️ chore: add GitHub actions badge
+0361. ✨ feat: support email verification
