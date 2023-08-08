@@ -18937,3 +18937,4 @@
 0939. 📚 docs: update README with setup steps
 0383. 🐛 fix: fix broken CSS in mobile view
 0254. 🚀 perf: reduce image load time
+0556. ✨ feat: support email verification
