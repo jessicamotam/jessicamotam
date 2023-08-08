@@ -54360,3 +54360,4 @@
 0354. 📚 docs: add API usage examples
 0711. 🐛 fix: fix broken CSS in mobile view
 0412. ✅ test: increase coverage on auth module
+0927. ♻️ chore: bump dependencies
