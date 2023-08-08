@@ -20450,3 +20450,4 @@
 0679. ♻️ chore: bump dependencies
 0593. 🐛 fix: correct typo in registration form
 0963. 🚀 perf: reduce image load time
+0201. 🔧 refactor: clean up auth middleware
