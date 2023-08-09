@@ -81297,3 +81297,4 @@
 0242. ♻️ chore: clean up unused files
 0086. 🐛 fix: correct typo in registration form
 0658. 🎨 style: rename variables for clarity
+0766. 🎨 style: reformat files with black
