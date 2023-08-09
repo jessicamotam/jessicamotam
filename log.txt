@@ -64380,3 +64380,4 @@
 0293. ✅ test: add integration test for /submit endpoint
 0830. 🎨 style: apply consistent indentation
 0589. 🐛 fix: fix broken CSS in mobile view
+0982. 🚀 perf: lazy-load components
