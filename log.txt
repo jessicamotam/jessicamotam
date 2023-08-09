@@ -83645,3 +83645,4 @@
 0048. 📚 docs: update README with setup steps
 0862. ♻️ chore: bump dependencies
 0980. 🎨 style: reformat files with black
+0358. 🚀 perf: reduce image load time
