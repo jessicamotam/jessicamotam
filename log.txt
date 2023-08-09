@@ -3500,3 +3500,4 @@
 0429. ✨ feat: add user authentication
 0844. 📚 docs: update README with setup steps
 0485. 📚 docs: update README with setup steps
+0945. ♻️ chore: add GitHub actions badge
