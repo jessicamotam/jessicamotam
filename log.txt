@@ -36396,3 +36396,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0424. ✨ feat: add user authentication
 0974. ✨ feat: add export to CSV option
+0124. 🎨 style: reformat files with black
