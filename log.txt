@@ -53789,3 +53789,4 @@
 0273. 🚀 perf: reduce image load time
 0012. 🚀 perf: cache repeated calculations
 0539. 🔧 refactor: organize models into subfolders
+0379. ✨ feat: support email verification
