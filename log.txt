@@ -65890,3 +65890,4 @@
 0831. 📚 docs: clarify environment setup
 0194. 🎨 style: standardize quote style
 0298. ♻️ chore: update .gitignore
+0336. ✨ feat: add export to CSV option
