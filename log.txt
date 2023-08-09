@@ -3367,3 +3367,4 @@
 0212. 🎨 style: standardize quote style
 0425. 🔧 refactor: refactor quiz grading logic
 0285. 🐛 fix: resolve issue with date parsing
+0144. ✅ test: increase coverage on auth module
