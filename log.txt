@@ -75762,3 +75762,4 @@
 0949. 📚 docs: write FAQ section
 0339. 📚 docs: update README with setup steps
 0487. 🎨 style: reformat files with black
+0105. 🐛 fix: correct typo in registration form
