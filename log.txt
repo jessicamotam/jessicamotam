@@ -47589,3 +47589,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0083. 🎨 style: reformat files with black
 0798. 🚀 perf: reduce image load time
+0681. ✨ feat: create admin dashboard
