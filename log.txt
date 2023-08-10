@@ -26362,3 +26362,4 @@
 0537. 🔧 refactor: remove redundant code blocks
 0761. ✅ test: add unit test for quiz service
 0418. ✅ test: mock database connection in test suite
+0961. 📚 docs: add API usage examples
