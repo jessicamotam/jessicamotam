@@ -19588,3 +19588,4 @@
 0487. 🎨 style: reformat files with black
 0871. ✅ test: add integration test for /submit endpoint
 0128. ♻️ chore: rename env.example
+0605. ✨ feat: support email verification
