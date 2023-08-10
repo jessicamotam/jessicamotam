@@ -42320,3 +42320,4 @@
 0595. ✨ feat: enable dark mode toggle
 0237. 🎨 style: standardize quote style
 0409. 🚀 perf: lazy-load components
+0320. 📚 docs: update README with setup steps
