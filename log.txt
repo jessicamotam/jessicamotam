@@ -80477,3 +80477,4 @@
 0174. 📚 docs: clarify environment setup
 0334. 🚀 perf: cache repeated calculations
 0799. ♻️ chore: clean up unused files
+0604. 📚 docs: add API usage examples
