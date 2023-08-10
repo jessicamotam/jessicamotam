@@ -7461,3 +7461,4 @@
 0122. ✨ feat: support email verification
 0543. ✨ feat: support email verification
 0363. 📚 docs: clarify environment setup
+0626. 🎨 style: standardize quote style
