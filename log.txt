@@ -83713,3 +83713,4 @@
 0610. 🚀 perf: lazy-load components
 0574. ✨ feat: enable dark mode toggle
 0701. 🔧 refactor: clean up auth middleware
+0563. 📚 docs: clarify environment setup
