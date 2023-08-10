@@ -51412,3 +51412,4 @@
 0631. ✨ feat: create admin dashboard
 0335. ♻️ chore: update .gitignore
 0927. ♻️ chore: bump dependencies
+0649. 📚 docs: update README with setup steps
