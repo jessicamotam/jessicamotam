@@ -63761,3 +63761,4 @@
 0437. 📚 docs: clarify environment setup
 0122. ✨ feat: support email verification
 0794. ♻️ chore: clean up unused files
+0147. ♻️ chore: bump dependencies
