@@ -74928,3 +74928,4 @@
 0991. ♻️ chore: clean up unused files
 0690. 🚀 perf: lazy-load components
 0453. 🎨 style: standardize quote style
+0935. 📚 docs: update README with setup steps
