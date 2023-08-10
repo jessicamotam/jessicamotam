@@ -80017,3 +80017,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0313. 🎨 style: apply consistent indentation
 0391. 🐛 fix: fix null pointer exception on login
+0278. 🔧 refactor: clean up auth middleware
