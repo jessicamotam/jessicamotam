@@ -73381,3 +73381,4 @@
 0429. ✨ feat: add user authentication
 0047. 🎨 style: rename variables for clarity
 0019. ✨ feat: enable dark mode toggle
+0703. 🔧 refactor: clean up auth middleware
