@@ -31752,3 +31752,4 @@
 0648. ♻️ chore: bump dependencies
 0123. ✨ feat: implement quiz timer feature
 0556. ✨ feat: support email verification
+0960. ✅ test: increase coverage on auth module
