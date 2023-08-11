@@ -67775,3 +67775,4 @@
 0348. ✅ test: test user registration edge cases
 0556. ✨ feat: support email verification
 0788. 📚 docs: add API usage examples
+0889. 🚀 perf: lazy-load components
