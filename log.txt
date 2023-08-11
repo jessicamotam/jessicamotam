@@ -38249,3 +38249,4 @@
 0844. 📚 docs: update README with setup steps
 0568. 🐛 fix: handle 500 error in quiz API
 0222. 🐛 fix: handle 500 error in quiz API
+0344. ♻️ chore: add GitHub actions badge
