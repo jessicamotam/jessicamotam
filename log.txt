@@ -33621,3 +33621,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0397. 🐛 fix: handle 500 error in quiz API
 0887. 📚 docs: add API usage examples
+0471. ✨ feat: support email verification
