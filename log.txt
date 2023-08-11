@@ -37279,3 +37279,4 @@
 0624. ✅ test: add unit test for quiz service
 0734. ✨ feat: add export to CSV option
 0360. ✨ feat: add export to CSV option
+0996. ✅ test: test user registration edge cases
