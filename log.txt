@@ -90761,3 +90761,4 @@
 0891. ✨ feat: create admin dashboard
 0699. 🎨 style: standardize quote style
 0955. 🔧 refactor: remove redundant code blocks
+0923. ✨ feat: support email verification
