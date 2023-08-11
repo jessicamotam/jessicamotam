@@ -19973,3 +19973,4 @@
 0161. ✨ feat: create admin dashboard
 0214. 📚 docs: improve code comments in utils
 0810. 🔧 refactor: refactor quiz grading logic
+0791. 🔧 refactor: clean up auth middleware
