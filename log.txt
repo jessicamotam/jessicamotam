@@ -84318,3 +84318,4 @@
 0337. 📚 docs: document token refresh logic
 0716. ✨ feat: implement quiz timer feature
 0440. 📚 docs: update README with setup steps
+0895. ✨ feat: support email verification
