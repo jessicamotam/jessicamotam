@@ -50098,3 +50098,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0853. 🔧 refactor: refactor quiz grading logic
 0593. 🐛 fix: correct typo in registration form
+0380. 🐛 fix: fix null pointer exception on login
