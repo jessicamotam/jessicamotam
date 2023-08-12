@@ -84810,3 +84810,4 @@
 0973. 🔧 refactor: organize models into subfolders
 0431. 🎨 style: reformat files with black
 0616. 🚀 perf: lazy-load components
+0600. 🐛 fix: prevent crash on empty input
