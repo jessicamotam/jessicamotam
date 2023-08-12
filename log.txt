@@ -48010,3 +48010,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0672. 🐛 fix: fix broken CSS in mobile view
 0150. 🎨 style: remove trailing whitespace
+0609. 🐛 fix: handle 500 error in quiz API
