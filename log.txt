@@ -64231,3 +64231,4 @@
 0158. 📚 docs: clarify environment setup
 0813. 🔧 refactor: organize models into subfolders
 0655. 🚀 perf: cache repeated calculations
+0848. 📚 docs: update README with setup steps
