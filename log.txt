@@ -64800,3 +64800,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0059. ♻️ chore: bump dependencies
 0403. ✅ test: mock database connection in test suite
+0437. 📚 docs: clarify environment setup
