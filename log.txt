@@ -85242,3 +85242,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0153. ♻️ chore: rename env.example
 0223. 🔧 refactor: remove redundant code blocks
+0154. 🐛 fix: prevent crash on empty input
