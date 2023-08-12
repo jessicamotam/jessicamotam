@@ -2405,3 +2405,4 @@
 0685. ✅ test: test user registration edge cases
 0271. ✅ test: add unit test for quiz service
 0479. 🐛 fix: fix null pointer exception on login
+0953. 🎨 style: remove trailing whitespace
