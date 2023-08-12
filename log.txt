@@ -28579,3 +28579,4 @@
 0474. ✅ test: add unit test for quiz service
 0269. ✅ test: test user registration edge cases
 0497. 🔧 refactor: refactor quiz grading logic
+0781. 🚀 perf: reduce image load time
