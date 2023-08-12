@@ -7192,3 +7192,4 @@
 0545. 🎨 style: standardize quote style
 0447. ♻️ chore: bump dependencies
 0158. 📚 docs: clarify environment setup
+0978. 🐛 fix: prevent crash on empty input
