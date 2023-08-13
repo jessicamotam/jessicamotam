@@ -86731,3 +86731,4 @@
 0128. ♻️ chore: rename env.example
 0515. 🚀 perf: optimize database query for quiz results
 0080. ✨ feat: support email verification
+0595. ✨ feat: enable dark mode toggle
