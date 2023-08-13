@@ -74552,3 +74552,4 @@
 0524. ♻️ chore: rename env.example
 0564. 📚 docs: clarify environment setup
 0880. 🐛 fix: fix broken CSS in mobile view
+0828. ♻️ chore: add GitHub actions badge
