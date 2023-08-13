@@ -510,3 +510,4 @@
 0949. 📚 docs: write FAQ section
 0783. 🐛 fix: handle 500 error in quiz API
 0107. 🐛 fix: prevent crash on empty input
+0908. ♻️ chore: bump dependencies
