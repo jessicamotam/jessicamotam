@@ -19994,3 +19994,4 @@
 0502. 📚 docs: update README with setup steps
 0408. ♻️ chore: add GitHub actions badge
 0475. 🔧 refactor: clean up auth middleware
+0854. ♻️ chore: rename env.example
