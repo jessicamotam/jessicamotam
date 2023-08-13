@@ -80606,3 +80606,4 @@
 0362. 📚 docs: add API usage examples
 0474. ✅ test: add unit test for quiz service
 0422. 🔧 refactor: organize models into subfolders
+0856. 🐛 fix: fix null pointer exception on login
