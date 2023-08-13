@@ -12129,3 +12129,4 @@
 0108. 🎨 style: remove trailing whitespace
 0631. ✨ feat: create admin dashboard
 0353. ♻️ chore: rename env.example
+0965. 🎨 style: reformat files with black
