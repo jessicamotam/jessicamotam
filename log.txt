@@ -44463,3 +44463,4 @@
 0279. ✨ feat: support email verification
 0124. 🎨 style: reformat files with black
 0259. 🚀 perf: lazy-load components
+0479. 🐛 fix: fix null pointer exception on login
