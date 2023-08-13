@@ -76111,3 +76111,4 @@
 0682. ♻️ chore: rename env.example
 0186. ✅ test: test user registration edge cases
 0479. 🐛 fix: fix null pointer exception on login
+0072. 🚀 perf: optimize database query for quiz results
