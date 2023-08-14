@@ -13276,3 +13276,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0403. ✅ test: mock database connection in test suite
 0926. 🔧 refactor: organize models into subfolders
+0393. 🚀 perf: lazy-load components
