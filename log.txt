@@ -10566,3 +10566,4 @@
 0678. ✨ feat: add user authentication
 0037. 🐛 fix: correct typo in registration form
 0835. 🐛 fix: prevent crash on empty input
+0430. 🐛 fix: fix null pointer exception on login
