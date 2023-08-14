@@ -3860,3 +3860,4 @@
 0323. 📚 docs: clarify environment setup
 0128. ♻️ chore: rename env.example
 0342. 🚀 perf: cache repeated calculations
+0225. 🚀 perf: reduce image load time
