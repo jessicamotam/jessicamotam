@@ -46615,3 +46615,4 @@
 0189. 📚 docs: clarify environment setup
 0642. 🚀 perf: optimize database query for quiz results
 0365. 🚀 perf: reduce image load time
+0847. ♻️ chore: clean up unused files
