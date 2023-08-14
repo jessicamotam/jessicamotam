@@ -25527,3 +25527,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0668. 🚀 perf: optimize database query for quiz results
 0518. ✨ feat: support email verification
+0106. 🎨 style: reformat files with black
