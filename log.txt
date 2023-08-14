@@ -80714,3 +80714,4 @@
 0530. 🔧 refactor: refactor quiz grading logic
 0811. 🎨 style: reformat files with black
 0249. ✅ test: increase coverage on auth module
+0625. 🐛 fix: handle 500 error in quiz API
