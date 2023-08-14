@@ -3226,3 +3226,4 @@
 0752. ✅ test: add integration test for /submit endpoint
 0493. ✨ feat: add user authentication
 0711. 🐛 fix: fix broken CSS in mobile view
+0856. 🐛 fix: fix null pointer exception on login
