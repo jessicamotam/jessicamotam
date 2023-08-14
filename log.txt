@@ -38911,3 +38911,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0486. ✨ feat: add export to CSV option
 0329. 📚 docs: update README with setup steps
+0245. 🐛 fix: resolve issue with date parsing
