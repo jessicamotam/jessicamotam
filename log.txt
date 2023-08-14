@@ -61763,3 +61763,4 @@
 0826. 📚 docs: clarify environment setup
 0391. 🐛 fix: fix null pointer exception on login
 0880. 🐛 fix: fix broken CSS in mobile view
+0104. 🎨 style: apply consistent indentation
