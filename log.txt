@@ -10834,3 +10834,4 @@
 0956. 📚 docs: clarify environment setup
 0576. ♻️ chore: update .gitignore
 0635. 🎨 style: apply consistent indentation
+0569. 📚 docs: document token refresh logic
