@@ -50607,3 +50607,4 @@
 0099. 🚀 perf: reduce image load time
 0138. 🎨 style: rename variables for clarity
 0872. 🎨 style: rename variables for clarity
+0339. 📚 docs: update README with setup steps
