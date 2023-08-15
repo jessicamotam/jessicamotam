@@ -46672,3 +46672,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0556. ✨ feat: support email verification
 0982. 🚀 perf: lazy-load components
+0287. 📚 docs: write FAQ section
