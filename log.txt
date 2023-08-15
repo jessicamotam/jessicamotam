@@ -59715,3 +59715,4 @@
 0986. 📚 docs: document token refresh logic
 0527. 🎨 style: remove trailing whitespace
 0930. 🎨 style: apply consistent indentation
+0557. 🔧 refactor: clean up auth middleware
