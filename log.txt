@@ -47644,3 +47644,4 @@
 0009. ✨ feat: enable dark mode toggle
 0292. 📚 docs: clarify environment setup
 0078. ♻️ chore: update .gitignore
+0503. ♻️ chore: rename env.example
