@@ -6756,3 +6756,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0432. 🎨 style: apply consistent indentation
 0504. 📚 docs: document token refresh logic
+0647. 🐛 fix: prevent crash on empty input
