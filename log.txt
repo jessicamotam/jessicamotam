@@ -62506,3 +62506,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0759. 🔧 refactor: organize models into subfolders
 0605. ✨ feat: support email verification
+0635. 🎨 style: apply consistent indentation
