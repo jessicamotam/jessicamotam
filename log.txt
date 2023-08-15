@@ -1343,3 +1343,4 @@
 0169. 📚 docs: add API usage examples
 0736. 🐛 fix: fix null pointer exception on login
 0471. ✨ feat: support email verification
+0292. 📚 docs: clarify environment setup
