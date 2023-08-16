@@ -28072,3 +28072,4 @@
 0386. 🚀 perf: optimize database query for quiz results
 0486. ✨ feat: add export to CSV option
 0084. 🐛 fix: handle 500 error in quiz API
+0359. 🔧 refactor: clean up auth middleware
