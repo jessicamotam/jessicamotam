@@ -12907,3 +12907,4 @@
 0225. 🚀 perf: reduce image load time
 0062. ♻️ chore: update .gitignore
 0703. 🔧 refactor: clean up auth middleware
+0734. ✨ feat: add export to CSV option
