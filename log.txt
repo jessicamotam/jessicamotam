@@ -61748,3 +61748,4 @@
 0605. ✨ feat: support email verification
 0001. 🚀 perf: cache repeated calculations
 0312. ✨ feat: add user authentication
+0287. 📚 docs: write FAQ section
