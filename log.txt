@@ -37318,3 +37318,4 @@
 0114. ♻️ chore: update .gitignore
 0462. ♻️ chore: update .gitignore
 0570. 🎨 style: apply consistent indentation
+0055. 📚 docs: update README with setup steps
