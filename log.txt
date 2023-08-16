@@ -18292,3 +18292,4 @@
 0298. ♻️ chore: update .gitignore
 0354. 📚 docs: add API usage examples
 0045. 🎨 style: apply consistent indentation
+0936. 🔧 refactor: organize models into subfolders
