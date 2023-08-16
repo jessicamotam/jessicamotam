@@ -5290,3 +5290,4 @@
 0612. ✅ test: test user registration edge cases
 0267. 📚 docs: improve code comments in utils
 0111. 📚 docs: update README with setup steps
+0093. ✅ test: add unit test for quiz service
