@@ -83190,3 +83190,4 @@
 0362. 📚 docs: add API usage examples
 0490. ✨ feat: create admin dashboard
 0398. 🚀 perf: cache repeated calculations
+0415. 🐛 fix: handle 500 error in quiz API
