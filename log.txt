@@ -12471,3 +12471,4 @@
 0458. ✨ feat: create admin dashboard
 0378. 🐛 fix: prevent crash on empty input
 0594. 🎨 style: reformat files with black
+0406. ✨ feat: add export to CSV option
