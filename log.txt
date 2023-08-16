@@ -31395,3 +31395,4 @@
 0413. ✅ test: add integration test for /submit endpoint
 0991. ♻️ chore: clean up unused files
 0234. ♻️ chore: rename env.example
+0048. 📚 docs: update README with setup steps
