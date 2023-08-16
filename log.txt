@@ -6193,3 +6193,4 @@
 0908. ♻️ chore: bump dependencies
 0498. ✅ test: mock database connection in test suite
 0707. 🎨 style: apply consistent indentation
+0155. ✨ feat: create admin dashboard
