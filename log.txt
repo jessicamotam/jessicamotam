@@ -49951,3 +49951,4 @@
 0332. 🎨 style: standardize quote style
 0240. 🔧 refactor: remove redundant code blocks
 0870. ♻️ chore: clean up unused files
+0085. ✨ feat: support email verification
