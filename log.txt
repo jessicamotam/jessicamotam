@@ -37335,3 +37335,4 @@
 0970. ♻️ chore: update .gitignore
 0868. ✅ test: add unit test for quiz service
 0985. 📚 docs: document token refresh logic
+0170. ✅ test: increase coverage on auth module
