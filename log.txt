@@ -3186,3 +3186,4 @@
 0656. 🎨 style: apply consistent indentation
 0756. ✨ feat: support email verification
 0699. 🎨 style: standardize quote style
+0839. 🎨 style: apply consistent indentation
