@@ -27141,3 +27141,4 @@
 0244. ✨ feat: add export to CSV option
 0855. 🎨 style: reformat files with black
 0141. 📚 docs: document token refresh logic
+0319. 🐛 fix: handle 500 error in quiz API
