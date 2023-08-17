@@ -4261,3 +4261,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0750. 🎨 style: apply consistent indentation
 0036. 🔧 refactor: clean up auth middleware
+0412. ✅ test: increase coverage on auth module
