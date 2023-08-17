@@ -59600,3 +59600,4 @@
 0794. ♻️ chore: clean up unused files
 0998. 🐛 fix: fix null pointer exception on login
 0571. 🔧 refactor: clean up auth middleware
+0361. ✨ feat: support email verification
