@@ -31306,3 +31306,4 @@
 0108. 🎨 style: remove trailing whitespace
 0678. ✨ feat: add user authentication
 0964. ♻️ chore: clean up unused files
+0647. 🐛 fix: prevent crash on empty input
