@@ -46466,3 +46466,4 @@
 0247. 🎨 style: apply consistent indentation
 0339. 📚 docs: update README with setup steps
 0008. 🚀 perf: reduce image load time
+0558. ✨ feat: enable dark mode toggle
