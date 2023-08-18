@@ -48748,3 +48748,4 @@
 0837. 🚀 perf: cache repeated calculations
 0620. ✨ feat: implement quiz timer feature
 0909. 🔧 refactor: organize models into subfolders
+0808. 🚀 perf: optimize database query for quiz results
