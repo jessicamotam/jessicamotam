@@ -2686,3 +2686,4 @@
 0318. 🔧 refactor: refactor quiz grading logic
 0289. 🐛 fix: resolve issue with date parsing
 0727. ♻️ chore: add GitHub actions badge
+0221. ✨ feat: add user authentication
