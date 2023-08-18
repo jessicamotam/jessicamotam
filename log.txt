@@ -12564,3 +12564,4 @@
 0167. 🚀 perf: reduce image load time
 0944. ✨ feat: add user authentication
 0306. 🎨 style: apply consistent indentation
+0486. ✨ feat: add export to CSV option
