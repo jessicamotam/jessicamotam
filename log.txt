@@ -27646,3 +27646,4 @@
 0561. 📚 docs: write FAQ section
 0032. 🎨 style: apply consistent indentation
 0161. ✨ feat: create admin dashboard
+0198. 📚 docs: clarify environment setup
