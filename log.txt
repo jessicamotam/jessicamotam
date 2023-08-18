@@ -11985,3 +11985,4 @@
 0985. 📚 docs: document token refresh logic
 0442. 🎨 style: standardize quote style
 0112. ✨ feat: enable dark mode toggle
+0780. 📚 docs: add API usage examples
