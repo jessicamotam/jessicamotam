@@ -68586,3 +68586,4 @@
 0947. 📚 docs: write FAQ section
 0265. 🎨 style: reformat files with black
 0636. ✅ test: increase coverage on auth module
+0158. 📚 docs: clarify environment setup
