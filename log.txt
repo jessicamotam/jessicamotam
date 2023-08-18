@@ -34878,3 +34878,4 @@
 0153. ♻️ chore: rename env.example
 0059. ♻️ chore: bump dependencies
 0832. 🔧 refactor: remove redundant code blocks
+0756. ✨ feat: support email verification
