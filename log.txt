@@ -10484,3 +10484,4 @@
 0857. 🎨 style: rename variables for clarity
 0261. 🔧 refactor: refactor quiz grading logic
 0708. ✅ test: add integration test for /submit endpoint
+0221. ✨ feat: add user authentication
