@@ -37608,3 +37608,4 @@
 0241. 📚 docs: add API usage examples
 0783. 🐛 fix: handle 500 error in quiz API
 0012. 🚀 perf: cache repeated calculations
+0949. 📚 docs: write FAQ section
