@@ -77009,3 +77009,4 @@
 0249. ✅ test: increase coverage on auth module
 0073. 🔧 refactor: split large controller into smaller functions
 0139. 📚 docs: document token refresh logic
+0081. 🐛 fix: fix null pointer exception on login
