@@ -68807,3 +68807,4 @@
 0964. ♻️ chore: clean up unused files
 0613. 🐛 fix: prevent crash on empty input
 0051. ✨ feat: enable dark mode toggle
+0824. 🚀 perf: lazy-load components
