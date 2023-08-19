@@ -31188,3 +31188,4 @@
 0803. ✅ test: mock database connection in test suite
 0726. ✨ feat: enable dark mode toggle
 0425. 🔧 refactor: refactor quiz grading logic
+0258. 🐛 fix: prevent crash on empty input
