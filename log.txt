@@ -60340,3 +60340,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0509. ♻️ chore: bump dependencies
 0519. 📚 docs: document token refresh logic
+0021. ✨ feat: support email verification
