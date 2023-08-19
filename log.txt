@@ -26798,3 +26798,4 @@
 0339. 📚 docs: update README with setup steps
 0656. 🎨 style: apply consistent indentation
 0109. 🚀 perf: lazy-load components
+0856. 🐛 fix: fix null pointer exception on login
