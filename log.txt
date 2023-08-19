@@ -38081,3 +38081,4 @@
 0844. 📚 docs: update README with setup steps
 0762. 🚀 perf: lazy-load components
 0915. 🚀 perf: cache repeated calculations
+0356. 📚 docs: write FAQ section
