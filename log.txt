@@ -8832,3 +8832,4 @@
 0106. 🎨 style: reformat files with black
 0684. 🚀 perf: reduce image load time
 0450. 🐛 fix: fix broken CSS in mobile view
+0273. 🚀 perf: reduce image load time
