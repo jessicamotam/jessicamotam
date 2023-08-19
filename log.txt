@@ -51656,3 +51656,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0898. 🐛 fix: fix broken CSS in mobile view
 0300. ✨ feat: add export to CSV option
+0536. ✨ feat: add user authentication
