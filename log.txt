@@ -9399,3 +9399,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0102. ✨ feat: support email verification
 0082. 🔧 refactor: refactor quiz grading logic
+0391. 🐛 fix: fix null pointer exception on login
