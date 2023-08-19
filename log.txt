@@ -38003,3 +38003,4 @@
 0447. ♻️ chore: bump dependencies
 0789. ✨ feat: create admin dashboard
 0584. 🚀 perf: lazy-load components
+0268. 🐛 fix: prevent crash on empty input
