@@ -72420,3 +72420,4 @@
 0669. ✨ feat: enable dark mode toggle
 0957. 🐛 fix: fix null pointer exception on login
 0376. 🎨 style: apply consistent indentation
+0535. 📚 docs: write FAQ section
