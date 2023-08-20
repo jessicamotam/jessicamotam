@@ -86150,3 +86150,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0579. 📚 docs: clarify environment setup
 0287. 📚 docs: write FAQ section
+0451. ✨ feat: support email verification
