@@ -53998,3 +53998,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0249. ✅ test: increase coverage on auth module
 0044. ✅ test: add unit test for quiz service
+0711. 🐛 fix: fix broken CSS in mobile view
