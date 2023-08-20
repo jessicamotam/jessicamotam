@@ -77988,3 +77988,4 @@
 0169. 📚 docs: add API usage examples
 0615. 🐛 fix: correct typo in registration form
 0426. ✅ test: add integration test for /submit endpoint
+0647. 🐛 fix: prevent crash on empty input
