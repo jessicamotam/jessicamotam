@@ -10098,3 +10098,4 @@
 0876. ♻️ chore: rename env.example
 0439. 🐛 fix: correct typo in registration form
 0843. 📚 docs: document token refresh logic
+0075. ✅ test: mock database connection in test suite
