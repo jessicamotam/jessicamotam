@@ -45732,3 +45732,4 @@
 0385. ♻️ chore: clean up unused files
 0965. 🎨 style: reformat files with black
 0248. 🐛 fix: handle 500 error in quiz API
+0766. 🎨 style: reformat files with black
