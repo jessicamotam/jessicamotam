@@ -75485,3 +75485,4 @@
 0991. ♻️ chore: clean up unused files
 0139. 📚 docs: document token refresh logic
 0492. 🎨 style: remove trailing whitespace
+0186. ✅ test: test user registration edge cases
