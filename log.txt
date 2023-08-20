@@ -57059,3 +57059,4 @@
 0438. ♻️ chore: bump dependencies
 0192. ✨ feat: enable dark mode toggle
 0478. 🐛 fix: resolve issue with date parsing
+0898. 🐛 fix: fix broken CSS in mobile view
