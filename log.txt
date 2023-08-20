@@ -78401,3 +78401,4 @@
 0692. ✅ test: add integration test for /submit endpoint
 0295. 🎨 style: remove trailing whitespace
 0615. 🐛 fix: correct typo in registration form
+0275. 🎨 style: standardize quote style
