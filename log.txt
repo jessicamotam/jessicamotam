@@ -8756,3 +8756,4 @@
 0101. 📚 docs: clarify environment setup
 0946. ✅ test: add unit test for quiz service
 0227. ✅ test: test user registration edge cases
+0605. ✨ feat: support email verification
