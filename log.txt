@@ -29571,3 +29571,4 @@
 0394. 🚀 perf: lazy-load components
 0278. 🔧 refactor: clean up auth middleware
 0357. ✅ test: add unit test for quiz service
+0099. 🚀 perf: reduce image load time
