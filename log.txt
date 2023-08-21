@@ -51105,3 +51105,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0965. 🎨 style: reformat files with black
 0230. ✨ feat: create admin dashboard
+0053. ✅ test: increase coverage on auth module
