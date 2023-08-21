@@ -41974,3 +41974,4 @@
 0471. ✨ feat: support email verification
 0408. ♻️ chore: add GitHub actions badge
 0700. 🎨 style: rename variables for clarity
+0251. ♻️ chore: update .gitignore
