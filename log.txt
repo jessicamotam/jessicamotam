@@ -10742,3 +10742,4 @@
 0336. ✨ feat: add export to CSV option
 0060. ♻️ chore: clean up unused files
 0787. ♻️ chore: rename env.example
+0545. 🎨 style: standardize quote style
