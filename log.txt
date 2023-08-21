@@ -82718,3 +82718,4 @@
 0550. 🔧 refactor: split large controller into smaller functions
 0176. 🔧 refactor: remove redundant code blocks
 0586. 🎨 style: remove trailing whitespace
+0545. 🎨 style: standardize quote style
