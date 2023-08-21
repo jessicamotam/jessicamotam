@@ -4359,3 +4359,4 @@
 0254. 🚀 perf: reduce image load time
 0972. 🔧 refactor: refactor quiz grading logic
 0228. 🔧 refactor: remove redundant code blocks
+0747. 🔧 refactor: clean up auth middleware
