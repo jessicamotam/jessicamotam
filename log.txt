@@ -44980,3 +44980,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0217. 🚀 perf: reduce image load time
 0854. ♻️ chore: rename env.example
+0887. 📚 docs: add API usage examples
