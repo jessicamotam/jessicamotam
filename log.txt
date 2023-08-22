@@ -53722,3 +53722,4 @@
 0307. ✨ feat: support email verification
 0317. ✅ test: test user registration edge cases
 0068. 🐛 fix: fix null pointer exception on login
+0189. 📚 docs: clarify environment setup
