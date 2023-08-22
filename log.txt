@@ -17956,3 +17956,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0820. 📚 docs: add API usage examples
 0101. 📚 docs: clarify environment setup
+0406. ✨ feat: add export to CSV option
