@@ -7601,3 +7601,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0008. 🚀 perf: reduce image load time
 0614. 🚀 perf: reduce image load time
+0809. ♻️ chore: rename env.example
