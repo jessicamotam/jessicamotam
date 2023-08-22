@@ -20296,3 +20296,4 @@
 0916. ♻️ chore: bump dependencies
 0434. 📚 docs: document token refresh logic
 0558. ✨ feat: enable dark mode toggle
+0521. 🎨 style: standardize quote style
