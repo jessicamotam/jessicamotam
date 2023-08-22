@@ -6979,3 +6979,4 @@
 0104. 🎨 style: apply consistent indentation
 0076. 🎨 style: reformat files with black
 0392. 🎨 style: remove trailing whitespace
+0174. 📚 docs: clarify environment setup
