@@ -52569,3 +52569,4 @@
 0905. ♻️ chore: bump dependencies
 0957. 🐛 fix: fix null pointer exception on login
 0872. 🎨 style: rename variables for clarity
+0666. 🐛 fix: fix broken CSS in mobile view
