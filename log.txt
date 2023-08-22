@@ -7740,3 +7740,4 @@
 0499. 🎨 style: reformat files with black
 0469. 🚀 perf: lazy-load components
 0624. ✅ test: add unit test for quiz service
+0511. 🐛 fix: fix broken CSS in mobile view
