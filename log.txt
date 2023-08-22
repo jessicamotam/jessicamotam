@@ -27954,3 +27954,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0446. 🎨 style: apply consistent indentation
 0068. 🐛 fix: fix null pointer exception on login
+0609. 🐛 fix: handle 500 error in quiz API
