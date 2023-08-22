@@ -57444,3 +57444,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0671. 🐛 fix: fix null pointer exception on login
 0932. ✅ test: add integration test for /submit endpoint
+0889. 🚀 perf: lazy-load components
