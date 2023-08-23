@@ -64986,3 +64986,4 @@
 0950. 🎨 style: reformat files with black
 0578. ✅ test: add integration test for /submit endpoint
 0371. ✅ test: add integration test for /submit endpoint
+0596. ♻️ chore: update .gitignore
