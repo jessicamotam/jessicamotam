@@ -9245,3 +9245,4 @@
 0270. ♻️ chore: rename env.example
 0845. 🚀 perf: cache repeated calculations
 0310. 🔧 refactor: refactor quiz grading logic
+0308. 🚀 perf: reduce image load time
