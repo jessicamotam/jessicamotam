@@ -4011,3 +4011,4 @@
 0257. 📚 docs: clarify environment setup
 0138. 🎨 style: rename variables for clarity
 0630. 🚀 perf: lazy-load components
+0576. ♻️ chore: update .gitignore
