@@ -76410,3 +76410,4 @@
 0624. ✅ test: add unit test for quiz service
 0154. 🐛 fix: prevent crash on empty input
 0803. ✅ test: mock database connection in test suite
+0205. 📚 docs: update README with setup steps
