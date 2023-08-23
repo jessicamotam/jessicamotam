@@ -71164,3 +71164,4 @@
 0467. ✅ test: add integration test for /submit endpoint
 0928. 🎨 style: apply consistent indentation
 0285. 🐛 fix: resolve issue with date parsing
+0096. 🐛 fix: prevent crash on empty input
