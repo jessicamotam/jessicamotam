@@ -66534,3 +66534,4 @@
 0173. 🚀 perf: cache repeated calculations
 0363. 📚 docs: clarify environment setup
 0564. 📚 docs: clarify environment setup
+0243. 🔧 refactor: clean up auth middleware
