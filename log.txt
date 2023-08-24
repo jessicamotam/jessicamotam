@@ -23529,3 +23529,4 @@
 0152. ✨ feat: add user authentication
 0465. 🎨 style: rename variables for clarity
 0281. ✨ feat: support email verification
+0777. 📚 docs: document token refresh logic
