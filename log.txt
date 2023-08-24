@@ -73731,3 +73731,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0714. 📚 docs: improve code comments in utils
 0741. 🎨 style: apply consistent indentation
+0360. ✨ feat: add export to CSV option
