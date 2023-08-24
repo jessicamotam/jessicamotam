@@ -13545,3 +13545,4 @@
 0412. ✅ test: increase coverage on auth module
 0590. 🐛 fix: fix null pointer exception on login
 0166. 🚀 perf: cache repeated calculations
+0795. 📚 docs: update README with setup steps
