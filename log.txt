@@ -74335,3 +74335,4 @@
 0517. ✅ test: mock database connection in test suite
 0300. ✨ feat: add export to CSV option
 0244. ✨ feat: add export to CSV option
+0231. 🔧 refactor: clean up auth middleware
