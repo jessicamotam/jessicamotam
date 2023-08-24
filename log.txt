@@ -39920,3 +39920,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0326. 🚀 perf: cache repeated calculations
 0450. 🐛 fix: fix broken CSS in mobile view
+0820. 📚 docs: add API usage examples
