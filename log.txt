@@ -49748,3 +49748,4 @@
 0008. 🚀 perf: reduce image load time
 0779. 🔧 refactor: organize models into subfolders
 0687. 🎨 style: remove trailing whitespace
+0506. 🐛 fix: handle 500 error in quiz API
