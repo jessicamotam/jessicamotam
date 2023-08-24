@@ -23926,3 +23926,4 @@
 0405. ✅ test: mock database connection in test suite
 0080. ✨ feat: support email verification
 0273. 🚀 perf: reduce image load time
+0850. ♻️ chore: rename env.example
