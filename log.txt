@@ -36999,3 +36999,4 @@
 0470. 🎨 style: remove trailing whitespace
 0382. 📚 docs: improve code comments in utils
 0586. 🎨 style: remove trailing whitespace
+0761. ✅ test: add unit test for quiz service
