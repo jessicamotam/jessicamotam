@@ -79429,3 +79429,4 @@
 0987. ✨ feat: create admin dashboard
 0260. ✨ feat: create admin dashboard
 0740. 🐛 fix: resolve issue with date parsing
+0297. 🎨 style: remove trailing whitespace
