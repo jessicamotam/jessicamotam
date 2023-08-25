@@ -71692,3 +71692,4 @@
 0668. 🚀 perf: optimize database query for quiz results
 0663. 🚀 perf: reduce image load time
 0231. 🔧 refactor: clean up auth middleware
+0585. 🚀 perf: lazy-load components
