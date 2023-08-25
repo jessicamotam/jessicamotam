@@ -13507,3 +13507,4 @@
 0614. 🚀 perf: reduce image load time
 0965. 🎨 style: reformat files with black
 0483. 📚 docs: update README with setup steps
+0397. 🐛 fix: handle 500 error in quiz API
