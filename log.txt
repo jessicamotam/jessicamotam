@@ -56550,3 +56550,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0509. ♻️ chore: bump dependencies
 0757. 🔧 refactor: remove redundant code blocks
+0122. ✨ feat: support email verification
