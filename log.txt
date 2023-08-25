@@ -30124,3 +30124,4 @@
 0644. 🎨 style: apply consistent indentation
 0365. 🚀 perf: reduce image load time
 0155. ✨ feat: create admin dashboard
+0171. 🐛 fix: fix broken CSS in mobile view
