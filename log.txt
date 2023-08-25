@@ -45323,3 +45323,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0152. ✨ feat: add user authentication
 0107. 🐛 fix: prevent crash on empty input
+0235. 🐛 fix: fix null pointer exception on login
