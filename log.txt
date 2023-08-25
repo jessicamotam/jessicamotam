@@ -62334,3 +62334,4 @@
 0005. ✅ test: add unit test for quiz service
 0479. 🐛 fix: fix null pointer exception on login
 0753. 🔧 refactor: remove redundant code blocks
+0177. 📚 docs: add API usage examples
