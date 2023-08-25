@@ -18384,3 +18384,4 @@
 0016. 🎨 style: apply consistent indentation
 0955. 🔧 refactor: remove redundant code blocks
 0165. 🎨 style: remove trailing whitespace
+0320. 📚 docs: update README with setup steps
