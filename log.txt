@@ -61390,3 +61390,4 @@
 0029. 🚀 perf: lazy-load components
 0053. ✅ test: increase coverage on auth module
 0434. 📚 docs: document token refresh logic
+0605. ✨ feat: support email verification
