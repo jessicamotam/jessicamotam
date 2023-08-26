@@ -38922,3 +38922,4 @@
 0221. ✨ feat: add user authentication
 0793. 📚 docs: clarify environment setup
 0566. 📚 docs: write FAQ section
+0399. ✅ test: mock database connection in test suite
