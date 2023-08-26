@@ -19056,3 +19056,4 @@
 0823. ✨ feat: add user authentication
 0662. ♻️ chore: clean up unused files
 0177. 📚 docs: add API usage examples
+0026. 🔧 refactor: clean up auth middleware
