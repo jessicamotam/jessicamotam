@@ -80259,3 +80259,4 @@
 0731. 🎨 style: standardize quote style
 0555. ✨ feat: create admin dashboard
 0997. ✅ test: increase coverage on auth module
+0437. 📚 docs: clarify environment setup
