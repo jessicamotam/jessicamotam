@@ -12110,3 +12110,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0060. ♻️ chore: clean up unused files
 0362. 📚 docs: add API usage examples
+0653. 🐛 fix: prevent crash on empty input
