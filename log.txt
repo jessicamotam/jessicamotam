@@ -42955,3 +42955,4 @@
 0241. 📚 docs: add API usage examples
 0152. ✨ feat: add user authentication
 0735. ♻️ chore: add GitHub actions badge
+0894. ✅ test: add integration test for /submit endpoint
