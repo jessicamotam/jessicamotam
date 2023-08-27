@@ -12198,3 +12198,4 @@
 0245. 🐛 fix: resolve issue with date parsing
 0181. ♻️ chore: add GitHub actions badge
 0153. ♻️ chore: rename env.example
+0059. ♻️ chore: bump dependencies
