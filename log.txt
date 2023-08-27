@@ -84380,3 +84380,4 @@
 0416. 🎨 style: rename variables for clarity
 0322. 🔧 refactor: split large controller into smaller functions
 0274. 🔧 refactor: refactor quiz grading logic
+0982. 🚀 perf: lazy-load components
