@@ -1237,3 +1237,4 @@
 0109. 🚀 perf: lazy-load components
 0805. ♻️ chore: add GitHub actions badge
 0707. 🎨 style: apply consistent indentation
+0335. ♻️ chore: update .gitignore
