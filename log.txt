@@ -16324,3 +16324,4 @@
 0365. 🚀 perf: reduce image load time
 0545. 🎨 style: standardize quote style
 0335. ♻️ chore: update .gitignore
+0319. 🐛 fix: handle 500 error in quiz API
