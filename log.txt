@@ -35950,3 +35950,4 @@
 0910. 🎨 style: remove trailing whitespace
 0928. 🎨 style: apply consistent indentation
 0119. 📚 docs: improve code comments in utils
+0131. 📚 docs: write FAQ section
