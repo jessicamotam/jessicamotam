@@ -18052,3 +18052,4 @@
 0139. 📚 docs: document token refresh logic
 0731. 🎨 style: standardize quote style
 0315. ✅ test: add integration test for /submit endpoint
+0988. 🐛 fix: fix broken CSS in mobile view
