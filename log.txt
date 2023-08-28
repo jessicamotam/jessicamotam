@@ -62738,3 +62738,4 @@
 0768. 🎨 style: remove trailing whitespace
 0652. 🔧 refactor: organize models into subfolders
 0751. 🐛 fix: handle 500 error in quiz API
+0409. 🚀 perf: lazy-load components
