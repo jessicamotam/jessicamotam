@@ -26609,3 +26609,4 @@
 0307. ✨ feat: support email verification
 0437. 📚 docs: clarify environment setup
 0415. 🐛 fix: handle 500 error in quiz API
+0275. 🎨 style: standardize quote style
