@@ -51985,3 +51985,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0194. 🎨 style: standardize quote style
 0730. ✅ test: test user registration edge cases
+0355. 🚀 perf: optimize database query for quiz results
