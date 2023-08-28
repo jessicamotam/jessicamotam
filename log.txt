@@ -63987,3 +63987,4 @@
 0616. 🚀 perf: lazy-load components
 0501. ✨ feat: add export to CSV option
 0163. ✨ feat: implement quiz timer feature
+0660. 🐛 fix: correct typo in registration form
