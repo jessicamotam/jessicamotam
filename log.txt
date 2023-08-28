@@ -48633,3 +48633,4 @@
 0151. ✅ test: add unit test for quiz service
 0603. 🐛 fix: fix broken CSS in mobile view
 0923. ✨ feat: support email verification
+0647. 🐛 fix: prevent crash on empty input
