@@ -54031,3 +54031,4 @@
 0664. ✅ test: add unit test for quiz service
 0627. 📚 docs: document token refresh logic
 0357. ✅ test: add unit test for quiz service
+0833. ✨ feat: add user authentication
