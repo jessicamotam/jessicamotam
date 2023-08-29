@@ -24568,3 +24568,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0425. 🔧 refactor: refactor quiz grading logic
 0050. ✨ feat: enable dark mode toggle
+0879. 🎨 style: standardize quote style
