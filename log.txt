@@ -90255,3 +90255,4 @@
 0702. ✨ feat: add user authentication
 0540. ♻️ chore: add GitHub actions badge
 0996. ✅ test: test user registration edge cases
+0337. 📚 docs: document token refresh logic
