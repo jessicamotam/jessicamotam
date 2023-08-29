@@ -16035,3 +16035,4 @@
 0113. ✨ feat: add user authentication
 0166. 🚀 perf: cache repeated calculations
 0292. 📚 docs: clarify environment setup
+0234. ♻️ chore: rename env.example
