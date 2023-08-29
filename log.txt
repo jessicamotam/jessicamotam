@@ -51193,3 +51193,4 @@
 0646. ✅ test: test user registration edge cases
 0411. ✅ test: add unit test for quiz service
 0620. ✨ feat: implement quiz timer feature
+0746. ♻️ chore: add GitHub actions badge
