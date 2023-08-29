@@ -82518,3 +82518,4 @@
 0270. ♻️ chore: rename env.example
 0082. 🔧 refactor: refactor quiz grading logic
 0987. ✨ feat: create admin dashboard
+0116. ✨ feat: support email verification
