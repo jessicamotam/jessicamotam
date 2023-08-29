@@ -232,3 +232,4 @@
 0591. ♻️ chore: clean up unused files
 0837. 🚀 perf: cache repeated calculations
 0558. ✨ feat: enable dark mode toggle
+0329. 📚 docs: update README with setup steps
