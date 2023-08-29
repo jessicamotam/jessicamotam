@@ -11354,3 +11354,4 @@
 0569. 📚 docs: document token refresh logic
 0680. ♻️ chore: add GitHub actions badge
 0142. ✨ feat: implement quiz timer feature
+0099. 🚀 perf: reduce image load time
