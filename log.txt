@@ -84451,3 +84451,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0941. 🚀 perf: cache repeated calculations
 0742. 📚 docs: clarify environment setup
+0934. ✨ feat: support email verification
