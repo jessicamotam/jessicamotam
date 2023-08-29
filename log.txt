@@ -27538,3 +27538,4 @@
 0981. 🚀 perf: lazy-load components
 0686. 🎨 style: standardize quote style
 0694. 🎨 style: rename variables for clarity
+0949. 📚 docs: write FAQ section
