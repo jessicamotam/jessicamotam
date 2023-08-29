@@ -5715,3 +5715,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0879. 🎨 style: standardize quote style
 0282. 🔧 refactor: remove redundant code blocks
+0988. 🐛 fix: fix broken CSS in mobile view
