@@ -72263,3 +72263,4 @@
 0697. ♻️ chore: bump dependencies
 0674. 🔧 refactor: split large controller into smaller functions
 0227. ✅ test: test user registration edge cases
+0579. 📚 docs: clarify environment setup
