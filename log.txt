@@ -47581,3 +47581,4 @@
 0290. ✅ test: test user registration edge cases
 0749. ✨ feat: support email verification
 0074. ♻️ chore: add GitHub actions badge
+0765. ♻️ chore: clean up unused files
