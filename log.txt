@@ -35506,3 +35506,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0135. ✅ test: test user registration edge cases
 0993. ✨ feat: implement quiz timer feature
+0754. 🐛 fix: handle 500 error in quiz API
