@@ -2476,3 +2476,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0853. 🔧 refactor: refactor quiz grading logic
 0743. 🎨 style: apply consistent indentation
+0600. 🐛 fix: prevent crash on empty input
