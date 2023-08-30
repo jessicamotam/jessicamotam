@@ -2081,3 +2081,4 @@
 0547. 📚 docs: write FAQ section
 0351. ✨ feat: add export to CSV option
 0617. ✨ feat: support email verification
+0690. 🚀 perf: lazy-load components
