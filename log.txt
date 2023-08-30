@@ -9568,3 +9568,4 @@
 0271. ✅ test: add unit test for quiz service
 0980. 🎨 style: reformat files with black
 0930. 🎨 style: apply consistent indentation
+0622. 🎨 style: apply consistent indentation
