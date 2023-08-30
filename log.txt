@@ -40676,3 +40676,4 @@
 0012. 🚀 perf: cache repeated calculations
 0142. ✨ feat: implement quiz timer feature
 0619. ✨ feat: create admin dashboard
+0798. 🚀 perf: reduce image load time
