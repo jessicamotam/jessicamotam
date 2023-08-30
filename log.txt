@@ -9560,3 +9560,4 @@
 0594. 🎨 style: reformat files with black
 0509. ♻️ chore: bump dependencies
 0123. ✨ feat: implement quiz timer feature
+0483. 📚 docs: update README with setup steps
