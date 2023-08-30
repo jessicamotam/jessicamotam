@@ -47843,3 +47843,4 @@
 0219. ✅ test: increase coverage on auth module
 0111. 📚 docs: update README with setup steps
 0221. ✨ feat: add user authentication
+0895. ✨ feat: support email verification
