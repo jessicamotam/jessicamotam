@@ -23344,3 +23344,4 @@
 0582. ✨ feat: add export to CSV option
 0018. 🔧 refactor: organize models into subfolders
 0510. 🎨 style: rename variables for clarity
+0197. 📚 docs: update README with setup steps
