@@ -5939,3 +5939,4 @@
 0275. 🎨 style: standardize quote style
 0437. 📚 docs: clarify environment setup
 0860. 🔧 refactor: organize models into subfolders
+0762. 🚀 perf: lazy-load components
