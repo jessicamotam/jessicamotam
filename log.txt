@@ -58275,3 +58275,4 @@
 0161. ✨ feat: create admin dashboard
 0824. 🚀 perf: lazy-load components
 0484. 🐛 fix: handle 500 error in quiz API
+0372. ✨ feat: add user authentication
