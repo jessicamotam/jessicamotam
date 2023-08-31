@@ -8465,3 +8465,4 @@
 0928. 🎨 style: apply consistent indentation
 0643. 🎨 style: apply consistent indentation
 0041. 🐛 fix: fix broken CSS in mobile view
+0912. 📚 docs: document token refresh logic
