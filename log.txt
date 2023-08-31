@@ -66930,3 +66930,4 @@
 0379. ✨ feat: support email verification
 0486. ✨ feat: add export to CSV option
 0731. 🎨 style: standardize quote style
+0367. 🐛 fix: fix null pointer exception on login
