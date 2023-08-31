@@ -33468,3 +33468,4 @@
 0485. 📚 docs: update README with setup steps
 0097. 🐛 fix: handle 500 error in quiz API
 0593. 🐛 fix: correct typo in registration form
+0187. ✨ feat: support email verification
