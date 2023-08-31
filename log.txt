@@ -78665,3 +78665,4 @@
 0839. 🎨 style: apply consistent indentation
 0364. 🐛 fix: resolve issue with date parsing
 0486. ✨ feat: add export to CSV option
+0786. ✨ feat: enable dark mode toggle
