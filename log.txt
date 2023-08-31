@@ -58107,3 +58107,4 @@
 0752. ✅ test: add integration test for /submit endpoint
 0664. ✅ test: add unit test for quiz service
 0834. ✅ test: increase coverage on auth module
+0278. 🔧 refactor: clean up auth middleware
