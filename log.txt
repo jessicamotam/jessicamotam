@@ -16236,3 +16236,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0337. 📚 docs: document token refresh logic
 0111. 📚 docs: update README with setup steps
+0593. 🐛 fix: correct typo in registration form
