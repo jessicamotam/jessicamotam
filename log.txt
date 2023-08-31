@@ -61751,3 +61751,4 @@
 0287. 📚 docs: write FAQ section
 0153. ♻️ chore: rename env.example
 0691. 🎨 style: rename variables for clarity
+0906. 📚 docs: add API usage examples
