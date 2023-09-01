@@ -1735,3 +1735,4 @@
 0034. 📚 docs: improve code comments in utils
 0950. 🎨 style: reformat files with black
 0430. 🐛 fix: fix null pointer exception on login
+0672. 🐛 fix: fix broken CSS in mobile view
