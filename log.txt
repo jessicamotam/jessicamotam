@@ -69887,3 +69887,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0924. ✅ test: mock database connection in test suite
 0501. ✨ feat: add export to CSV option
+0560. 🎨 style: rename variables for clarity
