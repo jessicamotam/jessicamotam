@@ -58030,3 +58030,4 @@
 0965. 🎨 style: reformat files with black
 0164. 📚 docs: document token refresh logic
 0561. 📚 docs: write FAQ section
+0400. 🐛 fix: fix null pointer exception on login
