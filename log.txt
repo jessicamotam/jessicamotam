@@ -6935,3 +6935,4 @@
 0572. ✨ feat: add user authentication
 0764. ✨ feat: add user authentication
 0875. ✅ test: increase coverage on auth module
+0615. 🐛 fix: correct typo in registration form
