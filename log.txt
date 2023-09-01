@@ -27914,3 +27914,4 @@
 0722. 📚 docs: add API usage examples
 0415. 🐛 fix: handle 500 error in quiz API
 0246. ✅ test: add integration test for /submit endpoint
+0105. 🐛 fix: correct typo in registration form
