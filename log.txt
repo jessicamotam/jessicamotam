@@ -53757,3 +53757,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0213. ✅ test: add integration test for /submit endpoint
 0023. 📚 docs: clarify environment setup
+0205. 📚 docs: update README with setup steps
