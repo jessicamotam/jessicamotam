@@ -1780,3 +1780,4 @@
 0750. 🎨 style: apply consistent indentation
 0718. 🐛 fix: resolve issue with date parsing
 0289. 🐛 fix: resolve issue with date parsing
+0356. 📚 docs: write FAQ section
