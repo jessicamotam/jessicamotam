@@ -31066,3 +31066,4 @@
 0205. 📚 docs: update README with setup steps
 0118. 🚀 perf: reduce image load time
 0954. 🚀 perf: cache repeated calculations
+0920. 🔧 refactor: organize models into subfolders
