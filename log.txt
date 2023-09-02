@@ -36941,3 +36941,4 @@
 0122. ✨ feat: support email verification
 0205. 📚 docs: update README with setup steps
 0173. 🚀 perf: cache repeated calculations
+0257. 📚 docs: clarify environment setup
