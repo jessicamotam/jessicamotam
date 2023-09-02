@@ -7214,3 +7214,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0948. 🐛 fix: fix broken CSS in mobile view
 0585. 🚀 perf: lazy-load components
+0778. 📚 docs: write FAQ section
