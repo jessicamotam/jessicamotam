@@ -22250,3 +22250,4 @@
 0352. ✨ feat: add export to CSV option
 0770. ♻️ chore: rename env.example
 0358. 🚀 perf: reduce image load time
+0312. ✨ feat: add user authentication
