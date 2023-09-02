@@ -62500,3 +62500,4 @@
 0487. 🎨 style: reformat files with black
 0144. ✅ test: increase coverage on auth module
 0876. ♻️ chore: rename env.example
+0088. 📚 docs: add API usage examples
