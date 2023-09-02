@@ -58963,3 +58963,4 @@
 0179. 🔧 refactor: split large controller into smaller functions
 0262. 🎨 style: remove trailing whitespace
 0825. 🔧 refactor: split large controller into smaller functions
+0758. 🚀 perf: optimize database query for quiz results
