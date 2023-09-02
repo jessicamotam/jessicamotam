@@ -34795,3 +34795,4 @@
 0093. ✅ test: add unit test for quiz service
 0997. ✅ test: increase coverage on auth module
 0363. 📚 docs: clarify environment setup
+0475. 🔧 refactor: clean up auth middleware
