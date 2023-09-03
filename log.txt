@@ -219,3 +219,4 @@
 0381. ♻️ chore: clean up unused files
 0591. ♻️ chore: clean up unused files
 0059. ♻️ chore: bump dependencies
+0612. ✅ test: test user registration edge cases
