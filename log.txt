@@ -24915,3 +24915,4 @@
 0395. 📚 docs: write FAQ section
 0965. 🎨 style: reformat files with black
 0528. ♻️ chore: clean up unused files
+0056. ♻️ chore: rename env.example
