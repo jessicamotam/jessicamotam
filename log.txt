@@ -2069,3 +2069,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0033. 🎨 style: apply consistent indentation
 0731. 🎨 style: standardize quote style
+0323. 📚 docs: clarify environment setup
