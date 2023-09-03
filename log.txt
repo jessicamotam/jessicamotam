@@ -59855,3 +59855,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0934. ✨ feat: support email verification
 0634. 🎨 style: reformat files with black
+0353. ♻️ chore: rename env.example
