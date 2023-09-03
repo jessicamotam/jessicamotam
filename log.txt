@@ -4891,3 +4891,4 @@
 0347. ♻️ chore: update .gitignore
 0333. 🚀 perf: cache repeated calculations
 0668. 🚀 perf: optimize database query for quiz results
+0292. 📚 docs: clarify environment setup
