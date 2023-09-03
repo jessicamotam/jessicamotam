@@ -8200,3 +8200,4 @@
 0188. 🎨 style: apply consistent indentation
 0406. ✨ feat: add export to CSV option
 1000. ✅ test: increase coverage on auth module
+0377. ✨ feat: add user authentication
