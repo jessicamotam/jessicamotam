@@ -20150,3 +20150,4 @@
 0159. 🚀 perf: lazy-load components
 0074. ♻️ chore: add GitHub actions badge
 0755. 🚀 perf: cache repeated calculations
+0897. 🐛 fix: prevent crash on empty input
