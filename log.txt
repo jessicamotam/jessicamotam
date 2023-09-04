@@ -30724,3 +30724,4 @@
 0649. 📚 docs: update README with setup steps
 0487. 🎨 style: reformat files with black
 0362. 📚 docs: add API usage examples
+0278. 🔧 refactor: clean up auth middleware
