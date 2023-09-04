@@ -87826,3 +87826,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0537. 🔧 refactor: remove redundant code blocks
 0907. 🔧 refactor: split large controller into smaller functions
+0564. 📚 docs: clarify environment setup
