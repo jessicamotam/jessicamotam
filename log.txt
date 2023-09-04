@@ -88967,3 +88967,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0027. 📚 docs: clarify environment setup
 0346. ✅ test: mock database connection in test suite
+0909. 🔧 refactor: organize models into subfolders
