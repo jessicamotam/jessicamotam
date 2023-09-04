@@ -63202,3 +63202,4 @@
 0819. 🚀 perf: reduce image load time
 0131. 📚 docs: write FAQ section
 0686. 🎨 style: standardize quote style
+0734. ✨ feat: add export to CSV option
