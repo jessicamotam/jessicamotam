@@ -44932,3 +44932,4 @@
 0558. ✨ feat: enable dark mode toggle
 0624. ✅ test: add unit test for quiz service
 0431. 🎨 style: reformat files with black
+0545. 🎨 style: standardize quote style
