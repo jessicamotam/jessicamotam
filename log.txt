@@ -51578,3 +51578,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0610. 🚀 perf: lazy-load components
 0356. 📚 docs: write FAQ section
+0377. ✨ feat: add user authentication
