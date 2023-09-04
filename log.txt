@@ -39939,3 +39939,4 @@
 0677. 📚 docs: add API usage examples
 0526. ✨ feat: add user authentication
 0117. ✅ test: increase coverage on auth module
+0132. ✅ test: add unit test for quiz service
