@@ -11160,3 +11160,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0802. 🔧 refactor: remove redundant code blocks
 0248. 🐛 fix: handle 500 error in quiz API
+0798. 🚀 perf: reduce image load time
