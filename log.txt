@@ -15739,3 +15739,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0254. 🚀 perf: reduce image load time
 0404. 📚 docs: improve code comments in utils
+0090. ✅ test: increase coverage on auth module
