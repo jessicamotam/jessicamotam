@@ -12732,3 +12732,4 @@
 0439. 🐛 fix: correct typo in registration form
 0608. 🔧 refactor: remove redundant code blocks
 0520. 🐛 fix: fix null pointer exception on login
+0437. 📚 docs: clarify environment setup
