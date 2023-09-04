@@ -15624,3 +15624,4 @@
 0891. ✨ feat: create admin dashboard
 0541. 🐛 fix: correct typo in registration form
 0318. 🔧 refactor: refactor quiz grading logic
+0378. 🐛 fix: prevent crash on empty input
