@@ -89950,3 +89950,4 @@
 0055. 📚 docs: update README with setup steps
 0885. ♻️ chore: update .gitignore
 0447. ♻️ chore: bump dependencies
+0063. 🐛 fix: handle 500 error in quiz API
