@@ -47133,3 +47133,4 @@
 0173. 🚀 perf: cache repeated calculations
 0149. ✨ feat: add export to CSV option
 0836. 🚀 perf: optimize database query for quiz results
+0580. ♻️ chore: bump dependencies
