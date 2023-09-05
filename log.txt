@@ -6099,3 +6099,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0412. ✅ test: increase coverage on auth module
 0005. ✅ test: add unit test for quiz service
+0200. 🐛 fix: handle 500 error in quiz API
