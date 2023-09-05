@@ -71402,3 +71402,4 @@
 0178. ✨ feat: support email verification
 0555. ✨ feat: create admin dashboard
 0921. 🐛 fix: correct typo in registration form
+0935. 📚 docs: update README with setup steps
