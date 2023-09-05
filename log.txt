@@ -12426,3 +12426,4 @@
 0869. ♻️ chore: bump dependencies
 0191. 🔧 refactor: refactor quiz grading logic
 0166. 🚀 perf: cache repeated calculations
+0957. 🐛 fix: fix null pointer exception on login
