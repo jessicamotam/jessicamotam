@@ -83213,3 +83213,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0760. 🐛 fix: resolve issue with date parsing
 0619. ✨ feat: create admin dashboard
+0713. 🐛 fix: handle 500 error in quiz API
