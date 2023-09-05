@@ -15750,3 +15750,4 @@
 0086. 🐛 fix: correct typo in registration form
 0013. ✅ test: increase coverage on auth module
 0535. 📚 docs: write FAQ section
+0281. ✨ feat: support email verification
