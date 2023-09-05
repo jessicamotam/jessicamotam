@@ -66186,3 +66186,4 @@
 0923. ✨ feat: support email verification
 0843. 📚 docs: document token refresh logic
 0434. 📚 docs: document token refresh logic
+0243. 🔧 refactor: clean up auth middleware
