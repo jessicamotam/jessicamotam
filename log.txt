@@ -6093,3 +6093,4 @@
 0147. ♻️ chore: bump dependencies
 0693. 📚 docs: add API usage examples
 0012. 🚀 perf: cache repeated calculations
+0116. ✨ feat: support email verification
