@@ -55903,3 +55903,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0188. 🎨 style: apply consistent indentation
 0688. 🚀 perf: reduce image load time
+0630. 🚀 perf: lazy-load components
