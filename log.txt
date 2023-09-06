@@ -27653,3 +27653,4 @@
 0971. 🎨 style: standardize quote style
 0784. ♻️ chore: clean up unused files
 0291. 📚 docs: write FAQ section
+0401. 🚀 perf: reduce image load time
