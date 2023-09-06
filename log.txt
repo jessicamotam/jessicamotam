@@ -37213,3 +37213,4 @@
 0042. 📚 docs: document token refresh logic
 0159. 🚀 perf: lazy-load components
 0090. ✅ test: increase coverage on auth module
+0618. ✨ feat: support email verification
