@@ -75613,3 +75613,4 @@
 0986. 📚 docs: document token refresh logic
 0742. 📚 docs: clarify environment setup
 0881. 🔧 refactor: split large controller into smaller functions
+0616. 🚀 perf: lazy-load components
