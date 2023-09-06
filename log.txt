@@ -2129,3 +2129,4 @@
 0132. ✅ test: add unit test for quiz service
 0289. 🐛 fix: resolve issue with date parsing
 0071. 🔧 refactor: refactor quiz grading logic
+0025. 🚀 perf: optimize database query for quiz results
