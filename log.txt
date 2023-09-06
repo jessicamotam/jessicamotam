@@ -44743,3 +44743,4 @@
 0789. ✨ feat: create admin dashboard
 0116. ✨ feat: support email verification
 0510. 🎨 style: rename variables for clarity
+0029. 🚀 perf: lazy-load components
