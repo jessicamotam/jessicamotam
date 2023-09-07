@@ -14382,3 +14382,4 @@
 0716. ✨ feat: implement quiz timer feature
 0079. 🐛 fix: correct typo in registration form
 0083. 🎨 style: reformat files with black
+0735. ♻️ chore: add GitHub actions badge
