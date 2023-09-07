@@ -88641,3 +88641,4 @@
 0498. ✅ test: mock database connection in test suite
 0028. 🎨 style: standardize quote style
 0199. ✨ feat: create admin dashboard
+0393. 🚀 perf: lazy-load components
