@@ -66353,3 +66353,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0357. ✅ test: add unit test for quiz service
 0652. 🔧 refactor: organize models into subfolders
+0749. ✨ feat: support email verification
