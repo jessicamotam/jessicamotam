@@ -23167,3 +23167,4 @@
 0072. 🚀 perf: optimize database query for quiz results
 0798. 🚀 perf: reduce image load time
 0523. ♻️ chore: bump dependencies
+0391. 🐛 fix: fix null pointer exception on login
