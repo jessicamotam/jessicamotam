@@ -59841,3 +59841,4 @@
 0586. 🎨 style: remove trailing whitespace
 0894. ✅ test: add integration test for /submit endpoint
 0249. ✅ test: increase coverage on auth module
+0956. 📚 docs: clarify environment setup
