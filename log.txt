@@ -1313,3 +1313,4 @@
 0930. 🎨 style: apply consistent indentation
 0488. ♻️ chore: add GitHub actions badge
 0548. 📚 docs: write FAQ section
+0477. 🐛 fix: fix broken CSS in mobile view
