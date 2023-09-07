@@ -65759,3 +65759,4 @@
 0745. ✅ test: add unit test for quiz service
 0815. 🔧 refactor: split large controller into smaller functions
 0102. ✨ feat: support email verification
+0157. ✅ test: mock database connection in test suite
