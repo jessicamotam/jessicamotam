@@ -60101,3 +60101,4 @@
 0119. 📚 docs: improve code comments in utils
 0858. ♻️ chore: clean up unused files
 0187. ✨ feat: support email verification
+0948. 🐛 fix: fix broken CSS in mobile view
