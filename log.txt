@@ -74495,3 +74495,4 @@
 0062. ♻️ chore: update .gitignore
 0181. ♻️ chore: add GitHub actions badge
 0427. ✅ test: mock database connection in test suite
+0117. ✅ test: increase coverage on auth module
