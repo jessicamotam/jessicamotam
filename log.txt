@@ -87013,3 +87013,4 @@
 0070. ✨ feat: implement quiz timer feature
 0700. 🎨 style: rename variables for clarity
 0257. 📚 docs: clarify environment setup
+0552. 🐛 fix: fix null pointer exception on login
