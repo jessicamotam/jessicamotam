@@ -40731,3 +40731,4 @@
 0093. ✅ test: add unit test for quiz service
 0718. 🐛 fix: resolve issue with date parsing
 0670. ✨ feat: add export to CSV option
+0981. 🚀 perf: lazy-load components
