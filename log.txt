@@ -7369,3 +7369,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0923. ✨ feat: support email verification
 0484. 🐛 fix: handle 500 error in quiz API
+0562. 🔧 refactor: clean up auth middleware
