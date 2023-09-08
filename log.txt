@@ -19570,3 +19570,4 @@
 0525. ✅ test: mock database connection in test suite
 0866. 📚 docs: add API usage examples
 0360. ✨ feat: add export to CSV option
+0383. 🐛 fix: fix broken CSS in mobile view
