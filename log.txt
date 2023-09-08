@@ -29417,3 +29417,4 @@
 0111. 📚 docs: update README with setup steps
 0503. ♻️ chore: rename env.example
 0102. ✨ feat: support email verification
+0407. 🚀 perf: cache repeated calculations
