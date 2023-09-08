@@ -67396,3 +67396,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0084. 🐛 fix: handle 500 error in quiz API
 0861. ♻️ chore: clean up unused files
+0998. 🐛 fix: fix null pointer exception on login
