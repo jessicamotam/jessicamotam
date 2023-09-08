@@ -84246,3 +84246,4 @@
 0685. ✅ test: test user registration edge cases
 0316. 🐛 fix: fix broken CSS in mobile view
 0020. ✅ test: add integration test for /submit endpoint
+0551. 📚 docs: write FAQ section
