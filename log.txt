@@ -87096,3 +87096,4 @@
 0870. ♻️ chore: clean up unused files
 0610. 🚀 perf: lazy-load components
 0750. 🎨 style: apply consistent indentation
+0460. 📚 docs: write FAQ section
