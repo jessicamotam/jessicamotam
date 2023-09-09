@@ -88594,3 +88594,4 @@
 0035. ✅ test: increase coverage on auth module
 0219. ✅ test: increase coverage on auth module
 0520. 🐛 fix: fix null pointer exception on login
+0133. 🐛 fix: fix null pointer exception on login
