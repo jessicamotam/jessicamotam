@@ -55725,3 +55725,4 @@
 0685. ✅ test: test user registration edge cases
 0636. ✅ test: increase coverage on auth module
 0689. 🎨 style: reformat files with black
+0501. ✨ feat: add export to CSV option
