@@ -8288,3 +8288,4 @@
 0424. ✨ feat: add user authentication
 0648. ♻️ chore: bump dependencies
 0689. 🎨 style: reformat files with black
+0703. 🔧 refactor: clean up auth middleware
