@@ -61952,3 +61952,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0640. ♻️ chore: bump dependencies
 0268. 🐛 fix: prevent crash on empty input
+0344. ♻️ chore: add GitHub actions badge
