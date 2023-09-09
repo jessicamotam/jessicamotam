@@ -18792,3 +18792,4 @@
 0346. ✅ test: mock database connection in test suite
 0655. 🚀 perf: cache repeated calculations
 0618. ✨ feat: support email verification
+0503. ♻️ chore: rename env.example
