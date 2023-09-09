@@ -62979,3 +62979,4 @@
 0147. ♻️ chore: bump dependencies
 0282. 🔧 refactor: remove redundant code blocks
 0461. ✨ feat: add user authentication
+0543. ✨ feat: support email verification
