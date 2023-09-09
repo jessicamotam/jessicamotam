@@ -53504,3 +53504,4 @@
 0899. 🚀 perf: cache repeated calculations
 0396. 🔧 refactor: split large controller into smaller functions
 0375. 🐛 fix: handle 500 error in quiz API
+0220. 🐛 fix: fix null pointer exception on login
