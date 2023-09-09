@@ -48442,3 +48442,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0095. ✅ test: mock database connection in test suite
 0223. 🔧 refactor: remove redundant code blocks
+0036. 🔧 refactor: clean up auth middleware
