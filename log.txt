@@ -13190,3 +13190,4 @@
 0204. 🎨 style: standardize quote style
 0636. ✅ test: increase coverage on auth module
 0195. 📚 docs: clarify environment setup
+0542. 🔧 refactor: organize models into subfolders
