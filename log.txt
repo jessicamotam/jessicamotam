@@ -60453,3 +60453,4 @@
 0899. 🚀 perf: cache repeated calculations
 0754. 🐛 fix: handle 500 error in quiz API
 0835. 🐛 fix: prevent crash on empty input
+0276. ✅ test: add integration test for /submit endpoint
