@@ -59346,3 +59346,4 @@
 0749. ✨ feat: support email verification
 0271. ✅ test: add unit test for quiz service
 0063. 🐛 fix: handle 500 error in quiz API
+0721. 🚀 perf: optimize database query for quiz results
