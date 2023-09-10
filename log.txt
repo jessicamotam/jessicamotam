@@ -59791,3 +59791,4 @@
 0212. 🎨 style: standardize quote style
 0603. 🐛 fix: fix broken CSS in mobile view
 0566. 📚 docs: write FAQ section
+0752. ✅ test: add integration test for /submit endpoint
