@@ -38054,3 +38054,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0614. 🚀 perf: reduce image load time
 0460. 📚 docs: write FAQ section
+0326. 🚀 perf: cache repeated calculations
