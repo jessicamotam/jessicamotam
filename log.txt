@@ -30539,3 +30539,4 @@
 0839. 🎨 style: apply consistent indentation
 0380. 🐛 fix: fix null pointer exception on login
 0873. 🚀 perf: cache repeated calculations
+0511. 🐛 fix: fix broken CSS in mobile view
