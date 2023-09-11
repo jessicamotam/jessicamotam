@@ -30621,3 +30621,4 @@
 0372. ✨ feat: add user authentication
 0244. ✨ feat: add export to CSV option
 0499. 🎨 style: reformat files with black
+0503. ♻️ chore: rename env.example
