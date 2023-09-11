@@ -15949,3 +15949,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0711. 🐛 fix: fix broken CSS in mobile view
 0292. 📚 docs: clarify environment setup
+0630. 🚀 perf: lazy-load components
