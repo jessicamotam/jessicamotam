@@ -81050,3 +81050,4 @@
 0635. 🎨 style: apply consistent indentation
 0317. ✅ test: test user registration edge cases
 0279. ✨ feat: support email verification
+0094. 📚 docs: document token refresh logic
