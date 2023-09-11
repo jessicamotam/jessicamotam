@@ -61334,3 +61334,4 @@
 0357. ✅ test: add unit test for quiz service
 0702. ✨ feat: add user authentication
 0916. ♻️ chore: bump dependencies
+0841. 🚀 perf: optimize database query for quiz results
