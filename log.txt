@@ -18347,3 +18347,4 @@
 0585. 🚀 perf: lazy-load components
 0744. 🔧 refactor: remove redundant code blocks
 0570. 🎨 style: apply consistent indentation
+0973. 🔧 refactor: organize models into subfolders
