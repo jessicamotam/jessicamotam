@@ -26558,3 +26558,4 @@
 0620. ✨ feat: implement quiz timer feature
 0231. 🔧 refactor: clean up auth middleware
 0052. 🎨 style: standardize quote style
+0824. 🚀 perf: lazy-load components
