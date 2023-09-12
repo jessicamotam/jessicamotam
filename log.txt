@@ -88045,3 +88045,4 @@
 0105. 🐛 fix: correct typo in registration form
 0756. ✨ feat: support email verification
 0360. ✨ feat: add export to CSV option
+0334. 🚀 perf: cache repeated calculations
