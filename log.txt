@@ -72337,3 +72337,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0641. 📚 docs: write FAQ section
 0091. ✨ feat: add user authentication
+0030. 🐛 fix: fix null pointer exception on login
