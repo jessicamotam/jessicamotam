@@ -5891,3 +5891,4 @@
 0530. 🔧 refactor: refactor quiz grading logic
 0686. 🎨 style: standardize quote style
 0353. ♻️ chore: rename env.example
+0703. 🔧 refactor: clean up auth middleware
