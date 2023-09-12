@@ -6444,3 +6444,4 @@
 0966. 📚 docs: improve code comments in utils
 0824. 🚀 perf: lazy-load components
 0314. ✨ feat: implement quiz timer feature
+0307. ✨ feat: support email verification
