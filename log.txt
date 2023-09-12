@@ -58357,3 +58357,4 @@
 0090. ✅ test: increase coverage on auth module
 0410. 🎨 style: reformat files with black
 0636. ✅ test: increase coverage on auth module
+0147. ♻️ chore: bump dependencies
