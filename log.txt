@@ -13584,3 +13584,4 @@
 0161. ✨ feat: create admin dashboard
 0387. ✨ feat: enable dark mode toggle
 0252. 🎨 style: remove trailing whitespace
+0329. 📚 docs: update README with setup steps
