@@ -10799,3 +10799,4 @@
 0555. ✨ feat: create admin dashboard
 0301. 🎨 style: apply consistent indentation
 0951. 🎨 style: rename variables for clarity
+0383. 🐛 fix: fix broken CSS in mobile view
