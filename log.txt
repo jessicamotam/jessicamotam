@@ -23070,3 +23070,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0420. 🚀 perf: reduce image load time
 0499. 🎨 style: reformat files with black
+0114. ♻️ chore: update .gitignore
