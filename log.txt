@@ -60911,3 +60911,4 @@
 0635. 🎨 style: apply consistent indentation
 0523. ♻️ chore: bump dependencies
 0945. ♻️ chore: add GitHub actions badge
+0185. 📚 docs: write FAQ section
