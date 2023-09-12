@@ -14885,3 +14885,4 @@
 0356. 📚 docs: write FAQ section
 0189. 📚 docs: clarify environment setup
 0586. 🎨 style: remove trailing whitespace
+0718. 🐛 fix: resolve issue with date parsing
