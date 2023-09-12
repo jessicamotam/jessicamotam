@@ -26123,3 +26123,4 @@
 0122. ✨ feat: support email verification
 0390. 🎨 style: standardize quote style
 0231. 🔧 refactor: clean up auth middleware
+0909. 🔧 refactor: organize models into subfolders
