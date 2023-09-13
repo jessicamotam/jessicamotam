@@ -258,3 +258,4 @@
 0393. 🚀 perf: lazy-load components
 0336. ✨ feat: add export to CSV option
 0980. 🎨 style: reformat files with black
+0615. 🐛 fix: correct typo in registration form
