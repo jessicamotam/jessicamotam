@@ -24436,3 +24436,4 @@
 0239. 🎨 style: standardize quote style
 0061. ✨ feat: create admin dashboard
 0745. ✅ test: add unit test for quiz service
+0063. 🐛 fix: handle 500 error in quiz API
