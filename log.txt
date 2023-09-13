@@ -20529,3 +20529,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0790. 📚 docs: write FAQ section
 0456. 🚀 perf: optimize database query for quiz results
+0298. ♻️ chore: update .gitignore
