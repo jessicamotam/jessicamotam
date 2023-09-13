@@ -32641,3 +32641,4 @@
 0969. ✨ feat: create admin dashboard
 0859. ✨ feat: create admin dashboard
 0286. ✅ test: mock database connection in test suite
+0196. ♻️ chore: bump dependencies
