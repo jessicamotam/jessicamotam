@@ -61819,3 +61819,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0390. 🎨 style: standardize quote style
 0991. ♻️ chore: clean up unused files
+0747. 🔧 refactor: clean up auth middleware
