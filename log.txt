@@ -77628,3 +77628,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0054. ♻️ chore: update .gitignore
 0900. 🐛 fix: handle 500 error in quiz API
+0331. 🐛 fix: fix broken CSS in mobile view
