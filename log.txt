@@ -45403,3 +45403,4 @@
 0395. 📚 docs: write FAQ section
 0942. ✅ test: increase coverage on auth module
 0900. 🐛 fix: handle 500 error in quiz API
+0170. ✅ test: increase coverage on auth module
