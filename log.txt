@@ -68544,3 +68544,4 @@
 0086. 🐛 fix: correct typo in registration form
 0524. ♻️ chore: rename env.example
 0177. 📚 docs: add API usage examples
+0914. ✅ test: test user registration edge cases
