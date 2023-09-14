@@ -71677,3 +71677,4 @@
 0061. ✨ feat: create admin dashboard
 0779. 🔧 refactor: organize models into subfolders
 0356. 📚 docs: write FAQ section
+0722. 📚 docs: add API usage examples
