@@ -52430,3 +52430,4 @@
 0221. ✨ feat: add user authentication
 0051. ✨ feat: enable dark mode toggle
 0706. ✨ feat: support email verification
+0835. 🐛 fix: prevent crash on empty input
