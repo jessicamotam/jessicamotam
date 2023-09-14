@@ -16062,3 +16062,4 @@
 0354. 📚 docs: add API usage examples
 0696. 🔧 refactor: clean up auth middleware
 0705. 🔧 refactor: refactor quiz grading logic
+0491. 🚀 perf: lazy-load components
