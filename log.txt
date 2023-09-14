@@ -56608,3 +56608,4 @@
 0788. 📚 docs: add API usage examples
 0503. ♻️ chore: rename env.example
 0997. ✅ test: increase coverage on auth module
+0945. ♻️ chore: add GitHub actions badge
