@@ -36415,3 +36415,4 @@
 0108. 🎨 style: remove trailing whitespace
 0580. ♻️ chore: bump dependencies
 0586. 🎨 style: remove trailing whitespace
+0020. ✅ test: add integration test for /submit endpoint
