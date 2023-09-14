@@ -14174,3 +14174,4 @@
 0816. 🔧 refactor: organize models into subfolders
 0832. 🔧 refactor: remove redundant code blocks
 0535. 📚 docs: write FAQ section
+0998. 🐛 fix: fix null pointer exception on login
