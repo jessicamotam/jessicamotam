@@ -6656,3 +6656,4 @@
 0165. 🎨 style: remove trailing whitespace
 0762. 🚀 perf: lazy-load components
 0425. 🔧 refactor: refactor quiz grading logic
+0521. 🎨 style: standardize quote style
