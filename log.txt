@@ -33386,3 +33386,4 @@
 0470. 🎨 style: remove trailing whitespace
 0076. 🎨 style: reformat files with black
 0079. 🐛 fix: correct typo in registration form
+0762. 🚀 perf: lazy-load components
