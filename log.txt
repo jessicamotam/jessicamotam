@@ -13241,3 +13241,4 @@
 0052. 🎨 style: standardize quote style
 0766. 🎨 style: reformat files with black
 0908. ♻️ chore: bump dependencies
+0063. 🐛 fix: handle 500 error in quiz API
