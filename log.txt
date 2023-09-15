@@ -44364,3 +44364,4 @@
 0636. ✅ test: increase coverage on auth module
 0234. ♻️ chore: rename env.example
 0661. ✅ test: add integration test for /submit endpoint
+0665. ♻️ chore: update .gitignore
