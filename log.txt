@@ -71097,3 +71097,4 @@
 0870. ♻️ chore: clean up unused files
 0999. 🔧 refactor: split large controller into smaller functions
 0303. 🎨 style: rename variables for clarity
+0552. 🐛 fix: fix null pointer exception on login
