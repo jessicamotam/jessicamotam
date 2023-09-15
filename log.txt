@@ -24645,3 +24645,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0639. 🐛 fix: correct typo in registration form
 0335. ♻️ chore: update .gitignore
+0619. ✨ feat: create admin dashboard
