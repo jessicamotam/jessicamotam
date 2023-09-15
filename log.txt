@@ -89688,3 +89688,4 @@
 0987. ✨ feat: create admin dashboard
 0479. 🐛 fix: fix null pointer exception on login
 0931. 🚀 perf: reduce image load time
+0600. 🐛 fix: prevent crash on empty input
