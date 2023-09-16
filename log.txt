@@ -40796,3 +40796,4 @@
 0997. ✅ test: increase coverage on auth module
 0955. 🔧 refactor: remove redundant code blocks
 0267. 📚 docs: improve code comments in utils
+0287. 📚 docs: write FAQ section
