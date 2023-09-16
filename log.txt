@@ -12343,3 +12343,4 @@
 0942. ✅ test: increase coverage on auth module
 0047. 🎨 style: rename variables for clarity
 0093. ✅ test: add unit test for quiz service
+0080. ✨ feat: support email verification
