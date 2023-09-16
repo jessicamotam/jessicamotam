@@ -28622,3 +28622,4 @@
 0985. 📚 docs: document token refresh logic
 0386. 🚀 perf: optimize database query for quiz results
 0934. ✨ feat: support email verification
+0888. 🚀 perf: lazy-load components
