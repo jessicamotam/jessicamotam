@@ -80537,3 +80537,4 @@
 0854. ♻️ chore: rename env.example
 0339. 📚 docs: update README with setup steps
 0014. 🔧 refactor: remove redundant code blocks
+0727. ♻️ chore: add GitHub actions badge
