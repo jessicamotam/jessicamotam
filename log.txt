@@ -25241,3 +25241,4 @@
 0844. 📚 docs: update README with setup steps
 0206. 🐛 fix: handle 500 error in quiz API
 0783. 🐛 fix: handle 500 error in quiz API
+0522. 🐛 fix: handle 500 error in quiz API
