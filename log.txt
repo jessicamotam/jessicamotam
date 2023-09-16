@@ -88450,3 +88450,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0835. 🐛 fix: prevent crash on empty input
 0968. 🎨 style: standardize quote style
+0187. ✨ feat: support email verification
