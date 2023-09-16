@@ -18527,3 +18527,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0668. 🚀 perf: optimize database query for quiz results
 0100. ♻️ chore: update .gitignore
+0831. 📚 docs: clarify environment setup
