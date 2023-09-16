@@ -11100,3 +11100,4 @@
 0379. ✨ feat: support email verification
 0839. 🎨 style: apply consistent indentation
 0337. 📚 docs: document token refresh logic
+0693. 📚 docs: add API usage examples
