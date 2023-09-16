@@ -21933,3 +21933,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0782. 📚 docs: improve code comments in utils
 0572. ✨ feat: add user authentication
+0547. 📚 docs: write FAQ section
