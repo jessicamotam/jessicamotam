@@ -58356,3 +58356,4 @@
 0925. ✨ feat: add export to CSV option
 0090. ✅ test: increase coverage on auth module
 0410. 🎨 style: reformat files with black
+0636. ✅ test: increase coverage on auth module
