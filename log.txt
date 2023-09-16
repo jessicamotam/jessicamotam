@@ -55068,3 +55068,4 @@
 0160. ♻️ chore: bump dependencies
 0939. 📚 docs: update README with setup steps
 0270. ♻️ chore: rename env.example
+0229. 🚀 perf: optimize database query for quiz results
