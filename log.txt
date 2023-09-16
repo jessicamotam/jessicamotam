@@ -10979,3 +10979,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0797. 📚 docs: add API usage examples
 0636. ✅ test: increase coverage on auth module
+0746. ♻️ chore: add GitHub actions badge
