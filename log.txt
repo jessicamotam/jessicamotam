@@ -56707,3 +56707,4 @@
 0320. 📚 docs: update README with setup steps
 0696. 🔧 refactor: clean up auth middleware
 0841. 🚀 perf: optimize database query for quiz results
+0006. 🐛 fix: prevent crash on empty input
