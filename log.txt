@@ -29016,3 +29016,4 @@
 0501. ✨ feat: add export to CSV option
 0591. ♻️ chore: clean up unused files
 0332. 🎨 style: standardize quote style
+0353. ♻️ chore: rename env.example
