@@ -7258,3 +7258,4 @@
 0372. ✨ feat: add user authentication
 0672. 🐛 fix: fix broken CSS in mobile view
 0848. 📚 docs: update README with setup steps
+0888. 🚀 perf: lazy-load components
