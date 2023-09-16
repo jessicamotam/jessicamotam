@@ -35586,3 +35586,4 @@
 0392. 🎨 style: remove trailing whitespace
 0207. 🐛 fix: prevent crash on empty input
 0387. ✨ feat: enable dark mode toggle
+0582. ✨ feat: add export to CSV option
