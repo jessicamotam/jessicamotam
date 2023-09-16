@@ -67124,3 +67124,4 @@
 0257. 📚 docs: clarify environment setup
 0642. 🚀 perf: optimize database query for quiz results
 0246. ✅ test: add integration test for /submit endpoint
+0514. 🐛 fix: fix broken CSS in mobile view
