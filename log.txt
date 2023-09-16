@@ -35335,3 +35335,4 @@
 0146. 🎨 style: apply consistent indentation
 0524. ♻️ chore: rename env.example
 0074. ♻️ chore: add GitHub actions badge
+0603. 🐛 fix: fix broken CSS in mobile view
