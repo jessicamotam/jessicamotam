@@ -29631,3 +29631,4 @@
 0080. ✨ feat: support email verification
 0734. ✨ feat: add export to CSV option
 0653. 🐛 fix: prevent crash on empty input
+0603. 🐛 fix: fix broken CSS in mobile view
