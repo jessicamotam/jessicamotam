@@ -29089,3 +29089,4 @@
 0172. 📚 docs: add API usage examples
 0352. ✨ feat: add export to CSV option
 0891. ✨ feat: create admin dashboard
+0383. 🐛 fix: fix broken CSS in mobile view
