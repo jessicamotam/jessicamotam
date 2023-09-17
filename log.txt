@@ -6949,3 +6949,4 @@
 0854. ♻️ chore: rename env.example
 0923. ✨ feat: support email verification
 0304. 🔧 refactor: remove redundant code blocks
+0849. 🐛 fix: correct typo in registration form
