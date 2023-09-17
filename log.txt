@@ -89275,3 +89275,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0096. 🐛 fix: prevent crash on empty input
 0732. ♻️ chore: add GitHub actions badge
+0088. 📚 docs: add API usage examples
