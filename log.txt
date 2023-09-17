@@ -29327,3 +29327,4 @@
 0981. 🚀 perf: lazy-load components
 0393. 🚀 perf: lazy-load components
 0617. ✨ feat: support email verification
+0359. 🔧 refactor: clean up auth middleware
