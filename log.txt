@@ -38051,3 +38051,4 @@
 0670. ✨ feat: add export to CSV option
 0134. ✨ feat: implement quiz timer feature
 0989. 📚 docs: write FAQ section
+0258. 🐛 fix: prevent crash on empty input
