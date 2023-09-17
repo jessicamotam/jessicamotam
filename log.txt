@@ -24901,3 +24901,4 @@
 0167. 🚀 perf: reduce image load time
 0436. ✅ test: add integration test for /submit endpoint
 0224. 🐛 fix: fix broken CSS in mobile view
+0996. ✅ test: test user registration edge cases
