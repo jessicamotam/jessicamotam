@@ -67376,3 +67376,4 @@
 0764. ✨ feat: add user authentication
 0234. ♻️ chore: rename env.example
 0068. 🐛 fix: fix null pointer exception on login
+0787. ♻️ chore: rename env.example
