@@ -9951,3 +9951,4 @@
 0083. 🎨 style: reformat files with black
 0428. 🐛 fix: fix null pointer exception on login
 0090. ✅ test: increase coverage on auth module
+0742. 📚 docs: clarify environment setup
