@@ -26168,3 +26168,4 @@
 0411. ✅ test: add unit test for quiz service
 0953. 🎨 style: remove trailing whitespace
 0162. ♻️ chore: add GitHub actions badge
+0864. 🐛 fix: correct typo in registration form
