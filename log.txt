@@ -20998,3 +20998,4 @@
 0922. 📚 docs: write FAQ section
 0986. 📚 docs: document token refresh logic
 0664. ✅ test: add unit test for quiz service
+0051. ✨ feat: enable dark mode toggle
