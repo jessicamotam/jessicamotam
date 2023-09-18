@@ -40419,3 +40419,4 @@
 0079. 🐛 fix: correct typo in registration form
 0275. 🎨 style: standardize quote style
 0734. ✨ feat: add export to CSV option
+0709. ♻️ chore: bump dependencies
