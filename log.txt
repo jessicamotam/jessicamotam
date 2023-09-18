@@ -59698,3 +59698,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0049. 🐛 fix: handle 500 error in quiz API
 0278. 🔧 refactor: clean up auth middleware
+0710. 🐛 fix: fix broken CSS in mobile view
