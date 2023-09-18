@@ -12169,3 +12169,4 @@
 0704. 🚀 perf: cache repeated calculations
 0580. ♻️ chore: bump dependencies
 0927. ♻️ chore: bump dependencies
+0621. 🔧 refactor: clean up auth middleware
