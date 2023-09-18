@@ -58138,3 +58138,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0754. 🐛 fix: handle 500 error in quiz API
 0318. 🔧 refactor: refactor quiz grading logic
+0747. 🔧 refactor: clean up auth middleware
