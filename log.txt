@@ -46296,3 +46296,4 @@
 0412. ✅ test: increase coverage on auth module
 0553. 🐛 fix: correct typo in registration form
 0037. 🐛 fix: correct typo in registration form
+0122. ✨ feat: support email verification
