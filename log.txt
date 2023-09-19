@@ -62883,3 +62883,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0673. 🐛 fix: correct typo in registration form
 0380. 🐛 fix: fix null pointer exception on login
+0357. ✅ test: add unit test for quiz service
