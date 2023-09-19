@@ -28144,3 +28144,4 @@
 0291. 📚 docs: write FAQ section
 0881. 🔧 refactor: split large controller into smaller functions
 0371. ✅ test: add integration test for /submit endpoint
+0959. 🐛 fix: fix null pointer exception on login
