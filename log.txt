@@ -81334,3 +81334,4 @@
 0151. ✅ test: add unit test for quiz service
 0471. ✨ feat: support email verification
 0834. ✅ test: increase coverage on auth module
+0323. 📚 docs: clarify environment setup
