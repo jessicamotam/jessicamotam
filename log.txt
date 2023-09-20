@@ -13111,3 +13111,4 @@
 0273. 🚀 perf: reduce image load time
 0475. 🔧 refactor: clean up auth middleware
 0721. 🚀 perf: optimize database query for quiz results
+0276. ✅ test: add integration test for /submit endpoint
