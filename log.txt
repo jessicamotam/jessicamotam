@@ -17278,3 +17278,4 @@
 0447. ♻️ chore: bump dependencies
 0682. ♻️ chore: rename env.example
 0194. 🎨 style: standardize quote style
+0764. ✨ feat: add user authentication
