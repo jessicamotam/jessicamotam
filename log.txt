@@ -70054,3 +70054,4 @@
 0577. ✨ feat: implement quiz timer feature
 0501. ✨ feat: add export to CSV option
 0672. 🐛 fix: fix broken CSS in mobile view
+0967. ♻️ chore: add GitHub actions badge
