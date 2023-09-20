@@ -9710,3 +9710,4 @@
 0701. 🔧 refactor: clean up auth middleware
 0128. ♻️ chore: rename env.example
 0801. ✨ feat: enable dark mode toggle
+0792. 🎨 style: standardize quote style
