@@ -37329,3 +37329,4 @@
 0008. 🚀 perf: reduce image load time
 0467. ✅ test: add integration test for /submit endpoint
 0924. ✅ test: mock database connection in test suite
+0085. ✨ feat: support email verification
