@@ -26000,3 +26000,4 @@
 0940. 📚 docs: document token refresh logic
 0163. ✨ feat: implement quiz timer feature
 0528. ♻️ chore: clean up unused files
+0080. ✨ feat: support email verification
