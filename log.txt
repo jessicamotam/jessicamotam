@@ -55662,3 +55662,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0523. ♻️ chore: bump dependencies
 0733. 🐛 fix: fix null pointer exception on login
+0174. 📚 docs: clarify environment setup
