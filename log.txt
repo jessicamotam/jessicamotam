@@ -89145,3 +89145,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0654. ✨ feat: create admin dashboard
 0958. 🐛 fix: prevent crash on empty input
+0457. 🐛 fix: handle 500 error in quiz API
