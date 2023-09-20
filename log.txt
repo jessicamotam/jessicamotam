@@ -51526,3 +51526,4 @@
 0413. ✅ test: add integration test for /submit endpoint
 0593. 🐛 fix: correct typo in registration form
 0950. 🎨 style: reformat files with black
+0647. 🐛 fix: prevent crash on empty input
