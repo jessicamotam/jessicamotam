@@ -35919,3 +35919,4 @@
 0312. ✨ feat: add user authentication
 0058. ♻️ chore: add GitHub actions badge
 0114. ♻️ chore: update .gitignore
+0697. ♻️ chore: bump dependencies
