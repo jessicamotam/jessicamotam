@@ -45305,3 +45305,4 @@
 0271. ✅ test: add unit test for quiz service
 0949. 📚 docs: write FAQ section
 0409. 🚀 perf: lazy-load components
+0673. 🐛 fix: correct typo in registration form
