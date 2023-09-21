@@ -83379,3 +83379,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0111. 📚 docs: update README with setup steps
 0736. 🐛 fix: fix null pointer exception on login
+0257. 📚 docs: clarify environment setup
