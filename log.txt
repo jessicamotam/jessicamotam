@@ -38404,3 +38404,4 @@
 0150. 🎨 style: remove trailing whitespace
 0276. ✅ test: add integration test for /submit endpoint
 0410. 🎨 style: reformat files with black
+0978. 🐛 fix: prevent crash on empty input
