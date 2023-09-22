@@ -32874,3 +32874,4 @@
 0195. 📚 docs: clarify environment setup
 0224. 🐛 fix: fix broken CSS in mobile view
 0985. 📚 docs: document token refresh logic
+0732. ♻️ chore: add GitHub actions badge
