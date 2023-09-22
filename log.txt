@@ -63002,3 +63002,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0363. 📚 docs: clarify environment setup
 0101. 📚 docs: clarify environment setup
+0438. ♻️ chore: bump dependencies
