@@ -89247,3 +89247,4 @@
 0993. ✨ feat: implement quiz timer feature
 0167. 🚀 perf: reduce image load time
 0345. 📚 docs: document token refresh logic
+0749. ✨ feat: support email verification
