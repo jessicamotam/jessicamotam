@@ -10692,3 +10692,4 @@
 0984. ♻️ chore: clean up unused files
 0392. 🎨 style: remove trailing whitespace
 0279. ✨ feat: support email verification
+0292. 📚 docs: clarify environment setup
