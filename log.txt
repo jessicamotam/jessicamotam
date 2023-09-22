@@ -80083,3 +80083,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0736. 🐛 fix: fix null pointer exception on login
 0908. ♻️ chore: bump dependencies
+0594. 🎨 style: reformat files with black
