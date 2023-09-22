@@ -13025,3 +13025,4 @@
 0059. ♻️ chore: bump dependencies
 0047. 🎨 style: rename variables for clarity
 0990. ♻️ chore: rename env.example
+0187. ✨ feat: support email verification
