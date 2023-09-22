@@ -53074,3 +53074,4 @@
 0352. ✨ feat: add export to CSV option
 0113. ✨ feat: add user authentication
 0383. 🐛 fix: fix broken CSS in mobile view
+0901. ✨ feat: add user authentication
