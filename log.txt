@@ -5353,3 +5353,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0310. 🔧 refactor: refactor quiz grading logic
 0631. ✨ feat: create admin dashboard
+0430. 🐛 fix: fix null pointer exception on login
