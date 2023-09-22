@@ -41338,3 +41338,4 @@
 0257. 📚 docs: clarify environment setup
 0738. 🐛 fix: prevent crash on empty input
 0212. 🎨 style: standardize quote style
+0725. 🚀 perf: lazy-load components
