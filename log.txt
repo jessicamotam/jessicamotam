@@ -62324,3 +62324,4 @@
 0965. 🎨 style: reformat files with black
 0499. 🎨 style: reformat files with black
 0771. 🚀 perf: cache repeated calculations
+0531. 🐛 fix: prevent crash on empty input
