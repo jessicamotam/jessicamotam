@@ -17103,3 +17103,4 @@
 0209. ✨ feat: implement quiz timer feature
 0678. ✨ feat: add user authentication
 0565. ♻️ chore: add GitHub actions badge
+0433. 🐛 fix: prevent crash on empty input
