@@ -79780,3 +79780,4 @@
 0180. ✨ feat: add export to CSV option
 0727. ♻️ chore: add GitHub actions badge
 0216. 🎨 style: rename variables for clarity
+0195. 📚 docs: clarify environment setup
