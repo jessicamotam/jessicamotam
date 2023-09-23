@@ -16692,3 +16692,4 @@
 0686. 🎨 style: standardize quote style
 0605. ✨ feat: support email verification
 0641. 📚 docs: write FAQ section
+0437. 📚 docs: clarify environment setup
