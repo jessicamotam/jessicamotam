@@ -86340,3 +86340,4 @@
 0111. 📚 docs: update README with setup steps
 0584. 🚀 perf: lazy-load components
 0506. 🐛 fix: handle 500 error in quiz API
+0264. 🚀 perf: optimize database query for quiz results
