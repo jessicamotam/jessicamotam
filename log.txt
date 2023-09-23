@@ -80321,3 +80321,4 @@
 0731. 🎨 style: standardize quote style
 0426. ✅ test: add integration test for /submit endpoint
 0855. 🎨 style: reformat files with black
+0178. ✨ feat: support email verification
