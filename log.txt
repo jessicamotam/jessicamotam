@@ -5519,3 +5519,4 @@
 0377. ✨ feat: add user authentication
 0445. 📚 docs: improve code comments in utils
 0967. ♻️ chore: add GitHub actions badge
+0746. ♻️ chore: add GitHub actions badge
