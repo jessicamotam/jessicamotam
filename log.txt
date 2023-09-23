@@ -73922,3 +73922,4 @@
 0780. 📚 docs: add API usage examples
 0885. ♻️ chore: update .gitignore
 0244. ✨ feat: add export to CSV option
+0611. ✅ test: test user registration edge cases
