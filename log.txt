@@ -6831,3 +6831,4 @@
 0579. 📚 docs: clarify environment setup
 0477. 🐛 fix: fix broken CSS in mobile view
 0460. 📚 docs: write FAQ section
+0914. ✅ test: test user registration edge cases
