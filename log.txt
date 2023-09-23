@@ -67149,3 +67149,4 @@
 0887. 📚 docs: add API usage examples
 0312. ✨ feat: add user authentication
 0358. 🚀 perf: reduce image load time
+0329. 📚 docs: update README with setup steps
