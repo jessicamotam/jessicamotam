@@ -8561,3 +8561,4 @@
 0354. 📚 docs: add API usage examples
 0840. 🔧 refactor: refactor quiz grading logic
 0423. ✅ test: mock database connection in test suite
+0671. 🐛 fix: fix null pointer exception on login
