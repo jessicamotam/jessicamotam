@@ -11617,3 +11617,4 @@
 0265. 🎨 style: reformat files with black
 0296. 🔧 refactor: organize models into subfolders
 0255. 🔧 refactor: refactor quiz grading logic
+0553. 🐛 fix: correct typo in registration form
