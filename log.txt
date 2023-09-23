@@ -34171,3 +34171,4 @@
 0849. 🐛 fix: correct typo in registration form
 0058. ♻️ chore: add GitHub actions badge
 0174. 📚 docs: clarify environment setup
+0724. ✅ test: mock database connection in test suite
