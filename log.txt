@@ -3139,3 +3139,4 @@
 0605. ✨ feat: support email verification
 0980. 🎨 style: reformat files with black
 0767. 🔧 refactor: remove redundant code blocks
+0989. 📚 docs: write FAQ section
