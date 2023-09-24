@@ -49491,3 +49491,4 @@
 0776. ✅ test: add integration test for /submit endpoint
 0024. 📚 docs: write FAQ section
 0538. 🐛 fix: fix broken CSS in mobile view
+0031. 📚 docs: document token refresh logic
