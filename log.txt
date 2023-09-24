@@ -82783,3 +82783,4 @@
 0734. ✨ feat: add export to CSV option
 0447. ♻️ chore: bump dependencies
 0926. 🔧 refactor: organize models into subfolders
+0691. 🎨 style: rename variables for clarity
