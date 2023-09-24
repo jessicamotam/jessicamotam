@@ -14253,3 +14253,4 @@
 0362. 📚 docs: add API usage examples
 0178. ✨ feat: support email verification
 0505. ♻️ chore: add GitHub actions badge
+0109. 🚀 perf: lazy-load components
