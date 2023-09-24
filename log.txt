@@ -58809,3 +58809,4 @@
 0114. ♻️ chore: update .gitignore
 0944. ✨ feat: add user authentication
 0041. 🐛 fix: fix broken CSS in mobile view
+0887. 📚 docs: add API usage examples
