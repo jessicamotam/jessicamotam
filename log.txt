@@ -63081,3 +63081,4 @@
 0215. 🎨 style: reformat files with black
 0234. ♻️ chore: rename env.example
 0790. 📚 docs: write FAQ section
+0100. ♻️ chore: update .gitignore
