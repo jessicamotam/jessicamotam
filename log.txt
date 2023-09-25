@@ -85867,3 +85867,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0353. ♻️ chore: rename env.example
 0331. 🐛 fix: fix broken CSS in mobile view
+0850. ♻️ chore: rename env.example
