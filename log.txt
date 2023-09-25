@@ -7525,3 +7525,4 @@
 0631. ✨ feat: create admin dashboard
 0786. ✨ feat: enable dark mode toggle
 0711. 🐛 fix: fix broken CSS in mobile view
+0387. ✨ feat: enable dark mode toggle
