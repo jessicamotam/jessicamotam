@@ -66908,3 +66908,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0875. ✅ test: increase coverage on auth module
 0262. 🎨 style: remove trailing whitespace
+0665. ♻️ chore: update .gitignore
