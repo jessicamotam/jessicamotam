@@ -13039,3 +13039,4 @@
 0850. ♻️ chore: rename env.example
 0193. 🚀 perf: optimize database query for quiz results
 0788. 📚 docs: add API usage examples
+0900. 🐛 fix: handle 500 error in quiz API
