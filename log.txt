@@ -36531,3 +36531,4 @@
 0436. ✅ test: add integration test for /submit endpoint
 0469. 🚀 perf: lazy-load components
 0960. ✅ test: increase coverage on auth module
+0241. 📚 docs: add API usage examples
