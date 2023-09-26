@@ -43784,3 +43784,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0397. 🐛 fix: handle 500 error in quiz API
 0173. 🚀 perf: cache repeated calculations
+0443. 🎨 style: standardize quote style
