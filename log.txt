@@ -28717,3 +28717,4 @@
 0795. 📚 docs: update README with setup steps
 0464. 🎨 style: remove trailing whitespace
 0355. 🚀 perf: optimize database query for quiz results
+0856. 🐛 fix: fix null pointer exception on login
