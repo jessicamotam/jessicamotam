@@ -68203,3 +68203,4 @@
 0346. ✅ test: mock database connection in test suite
 0882. 🚀 perf: optimize database query for quiz results
 0512. 🚀 perf: reduce image load time
+0395. 📚 docs: write FAQ section
