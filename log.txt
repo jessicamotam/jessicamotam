@@ -6688,3 +6688,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0300. ✨ feat: add export to CSV option
 0715. ✨ feat: create admin dashboard
+0928. 🎨 style: apply consistent indentation
