@@ -73354,3 +73354,4 @@
 0173. 🚀 perf: cache repeated calculations
 0322. 🔧 refactor: split large controller into smaller functions
 0194. 🎨 style: standardize quote style
+0331. 🐛 fix: fix broken CSS in mobile view
