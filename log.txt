@@ -56054,3 +56054,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0189. 📚 docs: clarify environment setup
 0965. 🎨 style: reformat files with black
+0725. 🚀 perf: lazy-load components
