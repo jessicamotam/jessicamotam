@@ -50681,3 +50681,4 @@
 0333. 🚀 perf: cache repeated calculations
 0707. 🎨 style: apply consistent indentation
 0092. 🚀 perf: reduce image load time
+0441. 📚 docs: add API usage examples
