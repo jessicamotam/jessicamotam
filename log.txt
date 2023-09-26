@@ -53080,3 +53080,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0153. ♻️ chore: rename env.example
 0738. 🐛 fix: prevent crash on empty input
+0471. ✨ feat: support email verification
