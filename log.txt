@@ -5586,3 +5586,4 @@
 0526. ✨ feat: add user authentication
 0150. 🎨 style: remove trailing whitespace
 0918. ✨ feat: enable dark mode toggle
+0374. 🎨 style: standardize quote style
