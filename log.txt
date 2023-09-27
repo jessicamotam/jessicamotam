@@ -40340,3 +40340,4 @@
 0399. ✅ test: mock database connection in test suite
 0473. 📚 docs: write FAQ section
 0890. 🔧 refactor: organize models into subfolders
+0967. ♻️ chore: add GitHub actions badge
