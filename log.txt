@@ -7031,3 +7031,4 @@
 0494. 🎨 style: rename variables for clarity
 0607. 🐛 fix: prevent crash on empty input
 0920. 🔧 refactor: organize models into subfolders
+0725. 🚀 perf: lazy-load components
