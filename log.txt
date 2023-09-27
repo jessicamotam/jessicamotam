@@ -30656,3 +30656,4 @@
 0487. 🎨 style: reformat files with black
 0594. 🎨 style: reformat files with black
 0319. 🐛 fix: handle 500 error in quiz API
+0506. 🐛 fix: handle 500 error in quiz API
