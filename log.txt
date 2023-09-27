@@ -78219,3 +78219,4 @@
 0117. ✅ test: increase coverage on auth module
 0565. ♻️ chore: add GitHub actions badge
 0451. ✨ feat: support email verification
+0128. ♻️ chore: rename env.example
