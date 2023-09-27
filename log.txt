@@ -19957,3 +19957,4 @@
 0946. ✅ test: add unit test for quiz service
 0996. ✅ test: test user registration edge cases
 0876. ♻️ chore: rename env.example
+0520. 🐛 fix: fix null pointer exception on login
