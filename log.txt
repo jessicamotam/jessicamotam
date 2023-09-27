@@ -15556,3 +15556,4 @@
 0793. 📚 docs: clarify environment setup
 0171. 🐛 fix: fix broken CSS in mobile view
 0570. 🎨 style: apply consistent indentation
+0647. 🐛 fix: prevent crash on empty input
