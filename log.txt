@@ -35257,3 +35257,4 @@
 0749. ✨ feat: support email verification
 0503. ♻️ chore: rename env.example
 0632. 🎨 style: remove trailing whitespace
+0499. 🎨 style: reformat files with black
