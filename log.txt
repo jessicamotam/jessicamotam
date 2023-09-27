@@ -49105,3 +49105,4 @@
 0922. 📚 docs: write FAQ section
 0050. ✨ feat: enable dark mode toggle
 0626. 🎨 style: standardize quote style
+0408. ♻️ chore: add GitHub actions badge
