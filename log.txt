@@ -36451,3 +36451,4 @@
 0765. ♻️ chore: clean up unused files
 0864. 🐛 fix: correct typo in registration form
 0218. 🔧 refactor: clean up auth middleware
+0013. ✅ test: increase coverage on auth module
