@@ -76076,3 +76076,4 @@
 0942. ✅ test: increase coverage on auth module
 0838. 🎨 style: standardize quote style
 0364. 🐛 fix: resolve issue with date parsing
+0110. 🐛 fix: prevent crash on empty input
