@@ -88806,3 +88806,4 @@
 0055. 📚 docs: update README with setup steps
 0407. 🚀 perf: cache repeated calculations
 0323. 📚 docs: clarify environment setup
+0730. ✅ test: test user registration edge cases
