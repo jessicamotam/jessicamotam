@@ -74626,3 +74626,4 @@
 0869. ♻️ chore: bump dependencies
 0329. 📚 docs: update README with setup steps
 0972. 🔧 refactor: refactor quiz grading logic
+0086. 🐛 fix: correct typo in registration form
