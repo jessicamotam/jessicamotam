@@ -49608,3 +49608,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0770. ♻️ chore: rename env.example
 0746. ♻️ chore: add GitHub actions badge
+0194. 🎨 style: standardize quote style
