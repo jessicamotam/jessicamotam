@@ -42637,3 +42637,4 @@
 0556. ✨ feat: support email verification
 0942. ✅ test: increase coverage on auth module
 0244. ✨ feat: add export to CSV option
+0783. 🐛 fix: handle 500 error in quiz API
