@@ -60715,3 +60715,4 @@
 0185. 📚 docs: write FAQ section
 0864. 🐛 fix: correct typo in registration form
 0545. 🎨 style: standardize quote style
+0171. 🐛 fix: fix broken CSS in mobile view
