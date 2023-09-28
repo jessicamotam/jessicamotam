@@ -8731,3 +8731,4 @@
 0021. ✨ feat: support email verification
 0499. 🎨 style: reformat files with black
 0579. 📚 docs: clarify environment setup
+0522. 🐛 fix: handle 500 error in quiz API
