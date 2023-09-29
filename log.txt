@@ -6394,3 +6394,4 @@
 0249. ✅ test: increase coverage on auth module
 0076. 🎨 style: reformat files with black
 0240. 🔧 refactor: remove redundant code blocks
+0677. 📚 docs: add API usage examples
