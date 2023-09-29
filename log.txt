@@ -80983,3 +80983,4 @@
 0981. 🚀 perf: lazy-load components
 0076. 🎨 style: reformat files with black
 0451. ✨ feat: support email verification
+0795. 📚 docs: update README with setup steps
