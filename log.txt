@@ -42348,3 +42348,4 @@
 0637. 🎨 style: apply consistent indentation
 0627. 📚 docs: document token refresh logic
 0278. 🔧 refactor: clean up auth middleware
+0906. 📚 docs: add API usage examples
