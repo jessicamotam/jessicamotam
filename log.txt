@@ -90059,3 +90059,4 @@
 0333. 🚀 perf: cache repeated calculations
 0931. 🚀 perf: reduce image load time
 0001. 🚀 perf: cache repeated calculations
+0522. 🐛 fix: handle 500 error in quiz API
