@@ -63510,3 +63510,4 @@
 0811. 🎨 style: reformat files with black
 0097. 🐛 fix: handle 500 error in quiz API
 0292. 📚 docs: clarify environment setup
+0850. ♻️ chore: rename env.example
