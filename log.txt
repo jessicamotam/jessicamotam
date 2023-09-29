@@ -87089,3 +87089,4 @@
 0300. ✨ feat: add export to CSV option
 0399. ✅ test: mock database connection in test suite
 0354. 📚 docs: add API usage examples
+0422. 🔧 refactor: organize models into subfolders
