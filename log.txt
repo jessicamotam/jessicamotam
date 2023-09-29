@@ -52387,3 +52387,4 @@
 0336. ✨ feat: add export to CSV option
 0363. 📚 docs: clarify environment setup
 0258. 🐛 fix: prevent crash on empty input
+0078. ♻️ chore: update .gitignore
