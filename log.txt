@@ -2695,3 +2695,4 @@
 0448. 🐛 fix: correct typo in registration form
 0383. 🐛 fix: fix broken CSS in mobile view
 0552. 🐛 fix: fix null pointer exception on login
+0696. 🔧 refactor: clean up auth middleware
