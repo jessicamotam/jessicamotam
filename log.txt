@@ -90704,3 +90704,4 @@
 0161. ✨ feat: create admin dashboard
 0227. ✅ test: test user registration edge cases
 0332. 🎨 style: standardize quote style
+0279. ✨ feat: support email verification
