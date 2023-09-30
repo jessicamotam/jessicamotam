@@ -43863,3 +43863,4 @@
 0329. 📚 docs: update README with setup steps
 0298. ♻️ chore: update .gitignore
 0615. 🐛 fix: correct typo in registration form
+0258. 🐛 fix: prevent crash on empty input
