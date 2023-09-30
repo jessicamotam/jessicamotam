@@ -11217,3 +11217,4 @@
 0944. ✨ feat: add user authentication
 0341. 🚀 perf: lazy-load components
 0501. ✨ feat: add export to CSV option
+0648. ♻️ chore: bump dependencies
