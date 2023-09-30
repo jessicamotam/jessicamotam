@@ -22448,3 +22448,4 @@
 0460. 📚 docs: write FAQ section
 0587. 🔧 refactor: remove redundant code blocks
 0288. 🔧 refactor: refactor quiz grading logic
+0102. ✨ feat: support email verification
