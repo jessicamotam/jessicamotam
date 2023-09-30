@@ -58230,3 +58230,4 @@
 0928. 🎨 style: apply consistent indentation
 0509. ♻️ chore: bump dependencies
 0746. ♻️ chore: add GitHub actions badge
+0593. 🐛 fix: correct typo in registration form
