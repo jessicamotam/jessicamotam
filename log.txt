@@ -19223,3 +19223,4 @@
 0869. ♻️ chore: bump dependencies
 0490. ✨ feat: create admin dashboard
 0878. 🔧 refactor: split large controller into smaller functions
+0140. 🐛 fix: handle 500 error in quiz API
