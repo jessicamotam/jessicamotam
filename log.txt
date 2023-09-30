@@ -90110,3 +90110,4 @@
 0780. 📚 docs: add API usage examples
 0196. ♻️ chore: bump dependencies
 0895. ✨ feat: support email verification
+0743. 🎨 style: apply consistent indentation
