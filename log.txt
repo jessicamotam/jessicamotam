@@ -62307,3 +62307,4 @@
 0287. 📚 docs: write FAQ section
 0080. ✨ feat: support email verification
 0973. 🔧 refactor: organize models into subfolders
+0633. ✨ feat: add user authentication
