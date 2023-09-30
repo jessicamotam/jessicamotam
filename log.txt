@@ -64005,3 +64005,4 @@
 0699. 🎨 style: standardize quote style
 0626. 🎨 style: standardize quote style
 0372. ✨ feat: add user authentication
+0618. ✨ feat: support email verification
