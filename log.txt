@@ -30729,3 +30729,4 @@
 0292. 📚 docs: clarify environment setup
 0300. ✨ feat: add export to CSV option
 0640. ♻️ chore: bump dependencies
+0232. 🎨 style: apply consistent indentation
