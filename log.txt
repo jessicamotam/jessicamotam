@@ -86834,3 +86834,4 @@
 0361. ✨ feat: support email verification
 0479. 🐛 fix: fix null pointer exception on login
 0819. 🚀 perf: reduce image load time
+0869. ♻️ chore: bump dependencies
