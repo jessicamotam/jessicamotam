@@ -90742,3 +90742,4 @@
 0109. 🚀 perf: lazy-load components
 0990. ♻️ chore: rename env.example
 0003. ✅ test: increase coverage on auth module
+0338. ♻️ chore: add GitHub actions badge
