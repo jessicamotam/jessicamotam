@@ -33113,3 +33113,4 @@
 0363. 📚 docs: clarify environment setup
 0727. ♻️ chore: add GitHub actions badge
 0914. ✅ test: test user registration edge cases
+0629. 🔧 refactor: organize models into subfolders
