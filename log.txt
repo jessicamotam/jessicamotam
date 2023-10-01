@@ -30917,3 +30917,4 @@
 0761. ✅ test: add unit test for quiz service
 0775. 🐛 fix: fix null pointer exception on login
 0942. ✅ test: increase coverage on auth module
+0797. 📚 docs: add API usage examples
