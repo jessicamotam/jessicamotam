@@ -3242,3 +3242,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0350. 🚀 perf: cache repeated calculations
 0535. 📚 docs: write FAQ section
+0877. 🚀 perf: optimize database query for quiz results
