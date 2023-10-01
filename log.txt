@@ -62211,3 +62211,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0822. 🔧 refactor: remove redundant code blocks
 0610. 🚀 perf: lazy-load components
+0518. ✨ feat: support email verification
