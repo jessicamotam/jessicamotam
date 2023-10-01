@@ -17406,3 +17406,4 @@
 0300. ✨ feat: add export to CSV option
 0287. 📚 docs: write FAQ section
 0517. ✅ test: mock database connection in test suite
+0815. 🔧 refactor: split large controller into smaller functions
