@@ -52435,3 +52435,4 @@
 0986. 📚 docs: document token refresh logic
 0732. ♻️ chore: add GitHub actions badge
 0298. ♻️ chore: update .gitignore
+0095. ✅ test: mock database connection in test suite
