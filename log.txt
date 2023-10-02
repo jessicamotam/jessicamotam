@@ -22791,3 +22791,4 @@
 0196. ♻️ chore: bump dependencies
 0236. 🔧 refactor: remove redundant code blocks
 0086. 🐛 fix: correct typo in registration form
+0101. 📚 docs: clarify environment setup
