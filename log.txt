@@ -35026,3 +35026,4 @@
 0446. 🎨 style: apply consistent indentation
 0693. 📚 docs: add API usage examples
 0970. ♻️ chore: update .gitignore
+0762. 🚀 perf: lazy-load components
