@@ -50846,3 +50846,4 @@
 0388. 🎨 style: reformat files with black
 0223. 🔧 refactor: remove redundant code blocks
 1000. ✅ test: increase coverage on auth module
+0281. ✨ feat: support email verification
