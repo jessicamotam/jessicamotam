@@ -45487,3 +45487,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0888. 🚀 perf: lazy-load components
 0564. 📚 docs: clarify environment setup
+0243. 🔧 refactor: clean up auth middleware
