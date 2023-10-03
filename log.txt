@@ -10839,3 +10839,4 @@
 0185. 📚 docs: write FAQ section
 0223. 🔧 refactor: remove redundant code blocks
 0784. ♻️ chore: clean up unused files
+0198. 📚 docs: clarify environment setup
