@@ -30967,3 +30967,4 @@
 0827. 🚀 perf: optimize database query for quiz results
 0378. 🐛 fix: prevent crash on empty input
 0947. 📚 docs: write FAQ section
+0079. 🐛 fix: correct typo in registration form
