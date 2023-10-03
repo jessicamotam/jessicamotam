@@ -9462,3 +9462,4 @@
 0521. 🎨 style: standardize quote style
 0781. 🚀 perf: reduce image load time
 0754. 🐛 fix: handle 500 error in quiz API
+0936. 🔧 refactor: organize models into subfolders
