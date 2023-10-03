@@ -31781,3 +31781,4 @@
 0785. ✨ feat: enable dark mode toggle
 0467. ✅ test: add integration test for /submit endpoint
 0492. 🎨 style: remove trailing whitespace
+0520. 🐛 fix: fix null pointer exception on login
