@@ -54913,3 +54913,4 @@
 0490. ✨ feat: create admin dashboard
 0722. 📚 docs: add API usage examples
 0554. 📚 docs: improve code comments in utils
+0226. 🚀 perf: lazy-load components
