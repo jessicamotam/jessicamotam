@@ -16948,3 +16948,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0502. 📚 docs: update README with setup steps
 0339. 📚 docs: update README with setup steps
+0613. 🐛 fix: prevent crash on empty input
