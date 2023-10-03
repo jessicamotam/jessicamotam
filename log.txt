@@ -39701,3 +39701,4 @@
 0419. 🎨 style: remove trailing whitespace
 0372. ✨ feat: add user authentication
 0902. ✨ feat: enable dark mode toggle
+0775. 🐛 fix: fix null pointer exception on login
