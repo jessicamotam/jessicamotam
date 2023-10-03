@@ -43758,3 +43758,4 @@
 0021. ✨ feat: support email verification
 0612. ✅ test: test user registration edge cases
 0264. 🚀 perf: optimize database query for quiz results
+0844. 📚 docs: update README with setup steps
