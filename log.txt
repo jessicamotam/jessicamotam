@@ -70524,3 +70524,4 @@
 0341. 🚀 perf: lazy-load components
 0056. ♻️ chore: rename env.example
 0169. 📚 docs: add API usage examples
+0379. ✨ feat: support email verification
