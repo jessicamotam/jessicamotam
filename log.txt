@@ -41774,3 +41774,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0547. 📚 docs: write FAQ section
 0173. 🚀 perf: cache repeated calculations
+0354. 📚 docs: add API usage examples
