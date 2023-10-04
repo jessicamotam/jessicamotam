@@ -43444,3 +43444,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0708. ✅ test: add integration test for /submit endpoint
 0670. ✨ feat: add export to CSV option
+0746. ♻️ chore: add GitHub actions badge
