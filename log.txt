@@ -63921,3 +63921,4 @@
 0997. ✅ test: increase coverage on auth module
 0803. ✅ test: mock database connection in test suite
 0528. ♻️ chore: clean up unused files
+0003. ✅ test: increase coverage on auth module
