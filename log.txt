@@ -29466,3 +29466,4 @@
 0169. 📚 docs: add API usage examples
 0993. ✨ feat: implement quiz timer feature
 0707. 🎨 style: apply consistent indentation
+0433. 🐛 fix: prevent crash on empty input
