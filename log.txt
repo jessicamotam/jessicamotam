@@ -58,3 +58,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0561. 📚 docs: write FAQ section
 0115. 🚀 perf: reduce image load time
+0268. 🐛 fix: prevent crash on empty input
