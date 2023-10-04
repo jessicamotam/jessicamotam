@@ -35517,3 +35517,4 @@
 0989. 📚 docs: write FAQ section
 0536. ✨ feat: add user authentication
 0501. ✨ feat: add export to CSV option
+0725. 🚀 perf: lazy-load components
