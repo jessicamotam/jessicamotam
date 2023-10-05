@@ -88562,3 +88562,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0997. ✅ test: increase coverage on auth module
 0114. ♻️ chore: update .gitignore
+0618. ✨ feat: support email verification
