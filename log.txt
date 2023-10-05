@@ -39796,3 +39796,4 @@
 0499. 🎨 style: reformat files with black
 0401. 🚀 perf: reduce image load time
 0102. ✨ feat: support email verification
+0521. 🎨 style: standardize quote style
