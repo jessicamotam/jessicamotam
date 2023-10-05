@@ -53273,3 +53273,4 @@
 0952. 🔧 refactor: split large controller into smaller functions
 0860. 🔧 refactor: organize models into subfolders
 0698. 🐛 fix: handle 500 error in quiz API
+0105. 🐛 fix: correct typo in registration form
