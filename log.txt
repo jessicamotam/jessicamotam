@@ -37111,3 +37111,4 @@
 0551. 📚 docs: write FAQ section
 0890. 🔧 refactor: organize models into subfolders
 0195. 📚 docs: clarify environment setup
+0380. 🐛 fix: fix null pointer exception on login
