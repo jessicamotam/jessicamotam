@@ -76500,3 +76500,4 @@
 0536. ✨ feat: add user authentication
 0196. ♻️ chore: bump dependencies
 0456. 🚀 perf: optimize database query for quiz results
+0816. 🔧 refactor: organize models into subfolders
