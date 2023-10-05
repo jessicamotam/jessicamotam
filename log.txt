@@ -74922,3 +74922,4 @@
 0076. 🎨 style: reformat files with black
 0396. 🔧 refactor: split large controller into smaller functions
 0976. ✨ feat: implement quiz timer feature
+0710. 🐛 fix: fix broken CSS in mobile view
