@@ -35273,3 +35273,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0967. ♻️ chore: add GitHub actions badge
 0827. 🚀 perf: optimize database query for quiz results
+0308. 🚀 perf: reduce image load time
