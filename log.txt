@@ -61639,3 +61639,4 @@
 0583. ✅ test: increase coverage on auth module
 0488. ♻️ chore: add GitHub actions badge
 0313. 🎨 style: apply consistent indentation
+0329. 📚 docs: update README with setup steps
