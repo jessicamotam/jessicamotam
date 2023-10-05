@@ -21483,3 +21483,4 @@
 0062. ♻️ chore: update .gitignore
 0021. ✨ feat: support email verification
 0628. ♻️ chore: add GitHub actions badge
+0534. 🔧 refactor: split large controller into smaller functions
