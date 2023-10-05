@@ -55263,3 +55263,4 @@
 0845. 🚀 perf: cache repeated calculations
 0389. 📚 docs: improve code comments in utils
 0056. ♻️ chore: rename env.example
+0107. 🐛 fix: prevent crash on empty input
