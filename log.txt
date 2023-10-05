@@ -84179,3 +84179,4 @@
 0980. 🎨 style: reformat files with black
 0074. ♻️ chore: add GitHub actions badge
 0103. 🔧 refactor: remove redundant code blocks
+0501. ✨ feat: add export to CSV option
