@@ -27804,3 +27804,4 @@
 0861. ♻️ chore: clean up unused files
 0056. ♻️ chore: rename env.example
 0129. 🔧 refactor: organize models into subfolders
+0029. 🚀 perf: lazy-load components
