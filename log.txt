@@ -26013,3 +26013,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0920. 🔧 refactor: organize models into subfolders
 0735. ♻️ chore: add GitHub actions badge
+0580. ♻️ chore: bump dependencies
