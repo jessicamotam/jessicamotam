@@ -10338,3 +10338,4 @@
 0313. 🎨 style: apply consistent indentation
 0928. 🎨 style: apply consistent indentation
 0522. 🐛 fix: handle 500 error in quiz API
+0576. ♻️ chore: update .gitignore
