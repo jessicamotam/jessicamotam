@@ -44171,3 +44171,4 @@
 0281. ✨ feat: support email verification
 0651. ✨ feat: enable dark mode toggle
 0423. ✅ test: mock database connection in test suite
+0148. 🔧 refactor: organize models into subfolders
