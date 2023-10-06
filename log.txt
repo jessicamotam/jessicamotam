@@ -77589,3 +77589,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0420. 🚀 perf: reduce image load time
 0561. 📚 docs: write FAQ section
+0251. ♻️ chore: update .gitignore
