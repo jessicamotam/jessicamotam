@@ -63044,3 +63044,4 @@
 0929. ✨ feat: support email verification
 0031. 📚 docs: document token refresh logic
 0067. 🔧 refactor: remove redundant code blocks
+0415. 🐛 fix: handle 500 error in quiz API
