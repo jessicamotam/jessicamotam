@@ -17650,3 +17650,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0544. 🔧 refactor: organize models into subfolders
 0566. 📚 docs: write FAQ section
+0418. ✅ test: mock database connection in test suite
