@@ -86383,3 +86383,4 @@
 0476. 🚀 perf: reduce image load time
 0291. 📚 docs: write FAQ section
 0904. ✨ feat: implement quiz timer feature
+0374. 🎨 style: standardize quote style
