@@ -59480,3 +59480,4 @@
 0153. ♻️ chore: rename env.example
 0090. ✅ test: increase coverage on auth module
 0491. 🚀 perf: lazy-load components
+0549. ✨ feat: enable dark mode toggle
