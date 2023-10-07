@@ -26896,3 +26896,4 @@
 0844. 📚 docs: update README with setup steps
 0084. 🐛 fix: handle 500 error in quiz API
 0859. ✨ feat: create admin dashboard
+0201. 🔧 refactor: clean up auth middleware
