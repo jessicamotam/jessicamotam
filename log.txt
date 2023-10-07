@@ -61634,3 +61634,4 @@
 0083. 🎨 style: reformat files with black
 0036. 🔧 refactor: clean up auth middleware
 0732. ♻️ chore: add GitHub actions badge
+0652. 🔧 refactor: organize models into subfolders
