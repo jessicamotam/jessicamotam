@@ -39981,3 +39981,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0729. 🔧 refactor: refactor quiz grading logic
 0396. 🔧 refactor: split large controller into smaller functions
+0536. ✨ feat: add user authentication
