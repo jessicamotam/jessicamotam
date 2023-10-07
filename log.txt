@@ -72800,3 +72800,4 @@
 0286. ✅ test: mock database connection in test suite
 0956. 📚 docs: clarify environment setup
 0294. 🐛 fix: prevent crash on empty input
+0080. ✨ feat: support email verification
