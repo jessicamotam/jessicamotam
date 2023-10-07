@@ -66612,3 +66612,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0324. 📚 docs: document token refresh logic
 0552. 🐛 fix: fix null pointer exception on login
+0581. ✅ test: add integration test for /submit endpoint
