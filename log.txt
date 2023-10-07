@@ -75802,3 +75802,4 @@
 0483. 📚 docs: update README with setup steps
 0648. ♻️ chore: bump dependencies
 0890. 🔧 refactor: organize models into subfolders
+0864. 🐛 fix: correct typo in registration form
