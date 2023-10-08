@@ -31690,3 +31690,4 @@
 0618. ✨ feat: support email verification
 0121. ✨ feat: support email verification
 0327. 🔧 refactor: split large controller into smaller functions
+0127. 🐛 fix: fix null pointer exception on login
