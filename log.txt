@@ -55853,3 +55853,4 @@
 0884. 📚 docs: clarify environment setup
 0132. ✅ test: add unit test for quiz service
 0076. 🎨 style: reformat files with black
+0917. ✅ test: add integration test for /submit endpoint
