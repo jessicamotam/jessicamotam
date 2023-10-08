@@ -86983,3 +86983,4 @@
 0901. ✨ feat: add user authentication
 0466. 🚀 perf: optimize database query for quiz results
 0720. ✨ feat: add export to CSV option
+0112. ✨ feat: enable dark mode toggle
