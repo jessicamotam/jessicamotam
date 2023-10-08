@@ -50518,3 +50518,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0781. 🚀 perf: reduce image load time
 0058. ♻️ chore: add GitHub actions badge
+0239. 🎨 style: standardize quote style
