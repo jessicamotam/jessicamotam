@@ -64547,3 +64547,4 @@
 0313. 🎨 style: apply consistent indentation
 0828. ♻️ chore: add GitHub actions badge
 0068. 🐛 fix: fix null pointer exception on login
+0629. 🔧 refactor: organize models into subfolders
