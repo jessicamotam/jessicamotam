@@ -35406,3 +35406,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0929. ✨ feat: support email verification
 0162. ♻️ chore: add GitHub actions badge
+0860. 🔧 refactor: organize models into subfolders
