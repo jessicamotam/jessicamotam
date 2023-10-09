@@ -80543,3 +80543,4 @@
 0312. ✨ feat: add user authentication
 0961. 📚 docs: add API usage examples
 0880. 🐛 fix: fix broken CSS in mobile view
+0827. 🚀 perf: optimize database query for quiz results
