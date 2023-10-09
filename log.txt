@@ -88301,3 +88301,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0888. 🚀 perf: lazy-load components
 0707. 🎨 style: apply consistent indentation
+0826. 📚 docs: clarify environment setup
