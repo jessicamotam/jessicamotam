@@ -17579,3 +17579,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0850. ♻️ chore: rename env.example
 0766. 🎨 style: reformat files with black
+0316. 🐛 fix: fix broken CSS in mobile view
