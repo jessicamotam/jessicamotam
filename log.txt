@@ -4741,3 +4741,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0110. 🐛 fix: prevent crash on empty input
 0690. 🚀 perf: lazy-load components
+0639. 🐛 fix: correct typo in registration form
