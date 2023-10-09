@@ -62900,3 +62900,4 @@
 0476. 🚀 perf: reduce image load time
 0541. 🐛 fix: correct typo in registration form
 0279. ✨ feat: support email verification
+0111. 📚 docs: update README with setup steps
