@@ -36202,3 +36202,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0532. 🔧 refactor: split large controller into smaller functions
 0148. 🔧 refactor: organize models into subfolders
+0893. 🐛 fix: handle 500 error in quiz API
