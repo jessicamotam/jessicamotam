@@ -76176,3 +76176,4 @@
 0462. ♻️ chore: update .gitignore
 0311. 🎨 style: apply consistent indentation
 0147. ♻️ chore: bump dependencies
+0978. 🐛 fix: prevent crash on empty input
