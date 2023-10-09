@@ -42400,3 +42400,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0113. ✨ feat: add user authentication
 0475. 🔧 refactor: clean up auth middleware
+0851. ✅ test: mock database connection in test suite
