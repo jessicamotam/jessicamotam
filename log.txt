@@ -12222,3 +12222,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0968. 🎨 style: standardize quote style
 0291. 📚 docs: write FAQ section
+0788. 📚 docs: add API usage examples
