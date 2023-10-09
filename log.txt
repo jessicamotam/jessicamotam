@@ -69425,3 +69425,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0602. 🔧 refactor: remove redundant code blocks
 0397. 🐛 fix: handle 500 error in quiz API
+0151. ✅ test: add unit test for quiz service
