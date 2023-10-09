@@ -35696,3 +35696,4 @@
 0184. 📚 docs: improve code comments in utils
 0485. 📚 docs: update README with setup steps
 0593. 🐛 fix: correct typo in registration form
+0671. 🐛 fix: fix null pointer exception on login
