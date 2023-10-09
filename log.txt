@@ -16786,3 +16786,4 @@
 0065. ✅ test: add integration test for /submit endpoint
 0266. 🔧 refactor: remove redundant code blocks
 0500. ✅ test: add integration test for /submit endpoint
+0618. ✨ feat: support email verification
