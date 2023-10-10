@@ -84839,3 +84839,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0723. 🔧 refactor: remove redundant code blocks
 0085. ✨ feat: support email verification
+0158. 📚 docs: clarify environment setup
