@@ -86527,3 +86527,4 @@
 0116. ✨ feat: support email verification
 0857. 🎨 style: rename variables for clarity
 0064. 📚 docs: clarify environment setup
+0576. ♻️ chore: update .gitignore
