@@ -6997,3 +6997,4 @@
 0362. 📚 docs: add API usage examples
 0061. ✨ feat: create admin dashboard
 0520. 🐛 fix: fix null pointer exception on login
+0271. ✅ test: add unit test for quiz service
