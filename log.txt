@@ -78755,3 +78755,4 @@
 0199. ✨ feat: create admin dashboard
 0186. ✅ test: test user registration edge cases
 0732. ♻️ chore: add GitHub actions badge
+0990. ♻️ chore: rename env.example
