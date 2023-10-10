@@ -32473,3 +32473,4 @@
 0382. 📚 docs: improve code comments in utils
 0824. 🚀 perf: lazy-load components
 0045. 🎨 style: apply consistent indentation
+0097. 🐛 fix: handle 500 error in quiz API
