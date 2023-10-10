@@ -77776,3 +77776,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0256. ✅ test: mock database connection in test suite
 0198. 📚 docs: clarify environment setup
+0122. ✨ feat: support email verification
