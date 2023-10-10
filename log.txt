@@ -43786,3 +43786,4 @@
 0173. 🚀 perf: cache repeated calculations
 0443. 🎨 style: standardize quote style
 0527. 🎨 style: remove trailing whitespace
+0111. 📚 docs: update README with setup steps
