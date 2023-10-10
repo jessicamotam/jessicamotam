@@ -12737,3 +12737,4 @@
 0290. ✅ test: test user registration edge cases
 0684. 🚀 perf: reduce image load time
 0194. 🎨 style: standardize quote style
+0737. 🐛 fix: handle 500 error in quiz API
