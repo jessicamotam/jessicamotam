@@ -84758,3 +84758,4 @@
 0592. 📚 docs: add API usage examples
 0440. 📚 docs: update README with setup steps
 0323. 📚 docs: clarify environment setup
+0835. 🐛 fix: prevent crash on empty input
