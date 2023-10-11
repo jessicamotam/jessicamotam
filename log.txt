@@ -78767,3 +78767,4 @@
 0158. 📚 docs: clarify environment setup
 0448. 🐛 fix: correct typo in registration form
 0880. 🐛 fix: fix broken CSS in mobile view
+0264. 🚀 perf: optimize database query for quiz results
