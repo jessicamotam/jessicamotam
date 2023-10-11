@@ -56470,3 +56470,4 @@
 0789. ✨ feat: create admin dashboard
 0878. 🔧 refactor: split large controller into smaller functions
 0905. ♻️ chore: bump dependencies
+0041. 🐛 fix: fix broken CSS in mobile view
