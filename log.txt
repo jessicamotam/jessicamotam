@@ -52857,3 +52857,4 @@
 0464. 🎨 style: remove trailing whitespace
 0651. ✨ feat: enable dark mode toggle
 0674. 🔧 refactor: split large controller into smaller functions
+0701. 🔧 refactor: clean up auth middleware
