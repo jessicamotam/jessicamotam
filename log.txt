@@ -68747,3 +68747,4 @@
 0750. 🎨 style: apply consistent indentation
 0740. 🐛 fix: resolve issue with date parsing
 0499. 🎨 style: reformat files with black
+0960. ✅ test: increase coverage on auth module
