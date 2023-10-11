@@ -19556,3 +19556,4 @@
 0392. 🎨 style: remove trailing whitespace
 0422. 🔧 refactor: organize models into subfolders
 0646. ✅ test: test user registration edge cases
+0906. 📚 docs: add API usage examples
