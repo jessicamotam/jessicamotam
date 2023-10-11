@@ -62930,3 +62930,4 @@
 0947. 📚 docs: write FAQ section
 0962. ✨ feat: create admin dashboard
 0338. ♻️ chore: add GitHub actions badge
+0865. ♻️ chore: add GitHub actions badge
