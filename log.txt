@@ -12421,3 +12421,4 @@
 0659. 📚 docs: add API usage examples
 0722. 📚 docs: add API usage examples
 0222. 🐛 fix: handle 500 error in quiz API
+0409. 🚀 perf: lazy-load components
