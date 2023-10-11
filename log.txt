@@ -64047,3 +64047,4 @@
 0144. ✅ test: increase coverage on auth module
 0211. 🔧 refactor: remove redundant code blocks
 0668. 🚀 perf: optimize database query for quiz results
+0756. ✨ feat: support email verification
