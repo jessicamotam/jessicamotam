@@ -56201,3 +56201,4 @@
 0787. ♻️ chore: rename env.example
 0428. 🐛 fix: fix null pointer exception on login
 0003. ✅ test: increase coverage on auth module
+0137. 🎨 style: rename variables for clarity
