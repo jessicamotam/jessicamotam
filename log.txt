@@ -19755,3 +19755,4 @@
 0090. ✅ test: increase coverage on auth module
 0105. 🐛 fix: correct typo in registration form
 0260. ✨ feat: create admin dashboard
+0654. ✨ feat: create admin dashboard
