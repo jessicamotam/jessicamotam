@@ -56694,3 +56694,4 @@
 0884. 📚 docs: clarify environment setup
 0962. ✨ feat: create admin dashboard
 0387. ✨ feat: enable dark mode toggle
+0981. 🚀 perf: lazy-load components
