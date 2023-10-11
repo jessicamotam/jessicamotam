@@ -70753,3 +70753,4 @@
 0147. ♻️ chore: bump dependencies
 0098. 🎨 style: rename variables for clarity
 0739. 🎨 style: remove trailing whitespace
+0783. 🐛 fix: handle 500 error in quiz API
