@@ -18351,3 +18351,4 @@
 0730. ✅ test: test user registration edge cases
 0543. ✨ feat: support email verification
 0934. ✨ feat: support email verification
+0800. 🚀 perf: optimize database query for quiz results
