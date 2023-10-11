@@ -89420,3 +89420,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0718. 🐛 fix: resolve issue with date parsing
 0003. ✅ test: increase coverage on auth module
+0862. ♻️ chore: bump dependencies
