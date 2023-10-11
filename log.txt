@@ -87772,3 +87772,4 @@
 0170. ✅ test: increase coverage on auth module
 0825. 🔧 refactor: split large controller into smaller functions
 0947. 📚 docs: write FAQ section
+0080. ✨ feat: support email verification
