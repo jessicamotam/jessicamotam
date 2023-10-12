@@ -58002,3 +58002,4 @@
 0210. 🎨 style: apply consistent indentation
 0947. 📚 docs: write FAQ section
 0230. ✨ feat: create admin dashboard
+0477. 🐛 fix: fix broken CSS in mobile view
