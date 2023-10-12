@@ -20041,3 +20041,4 @@
 0731. 🎨 style: standardize quote style
 0691. 🎨 style: rename variables for clarity
 0399. ✅ test: mock database connection in test suite
+0957. 🐛 fix: fix null pointer exception on login
