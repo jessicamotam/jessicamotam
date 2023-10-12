@@ -61595,3 +61595,4 @@
 0635. 🎨 style: apply consistent indentation
 0018. 🔧 refactor: organize models into subfolders
 0650. ✅ test: add unit test for quiz service
+0923. ✨ feat: support email verification
