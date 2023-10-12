@@ -78608,3 +78608,4 @@
 0793. 📚 docs: clarify environment setup
 0150. 🎨 style: remove trailing whitespace
 0837. 🚀 perf: cache repeated calculations
+0441. 📚 docs: add API usage examples
