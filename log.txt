@@ -20198,3 +20198,4 @@
 0271. ✅ test: add unit test for quiz service
 0659. 📚 docs: add API usage examples
 0489. 🔧 refactor: organize models into subfolders
+0342. 🚀 perf: cache repeated calculations
