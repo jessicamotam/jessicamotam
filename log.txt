@@ -260,3 +260,4 @@
 0980. 🎨 style: reformat files with black
 0615. 🐛 fix: correct typo in registration form
 0839. 🎨 style: apply consistent indentation
+0495. 🔧 refactor: remove redundant code blocks
