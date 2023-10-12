@@ -85400,3 +85400,4 @@
 0410. 🎨 style: reformat files with black
 0323. 📚 docs: clarify environment setup
 0459. 🔧 refactor: organize models into subfolders
+0517. ✅ test: mock database connection in test suite
