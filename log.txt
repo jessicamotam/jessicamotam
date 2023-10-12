@@ -4389,3 +4389,4 @@
 0196. ♻️ chore: bump dependencies
 0460. 📚 docs: write FAQ section
 0975. 🎨 style: apply consistent indentation
+0890. 🔧 refactor: organize models into subfolders
