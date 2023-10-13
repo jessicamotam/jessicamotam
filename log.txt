@@ -63479,3 +63479,4 @@
 0690. 🚀 perf: lazy-load components
 0916. ♻️ chore: bump dependencies
 0313. 🎨 style: apply consistent indentation
+0511. 🐛 fix: fix broken CSS in mobile view
