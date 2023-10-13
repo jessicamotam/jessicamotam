@@ -54344,3 +54344,4 @@
 0329. 📚 docs: update README with setup steps
 0239. 🎨 style: standardize quote style
 0243. 🔧 refactor: clean up auth middleware
+0595. ✨ feat: enable dark mode toggle
