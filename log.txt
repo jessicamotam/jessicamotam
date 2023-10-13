@@ -65674,3 +65674,4 @@
 0254. 🚀 perf: reduce image load time
 0865. ♻️ chore: add GitHub actions badge
 0581. ✅ test: add integration test for /submit endpoint
+0748. 🚀 perf: optimize database query for quiz results
