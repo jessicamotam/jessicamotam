@@ -14331,3 +14331,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0956. 📚 docs: clarify environment setup
 0483. 📚 docs: update README with setup steps
+0391. 🐛 fix: fix null pointer exception on login
