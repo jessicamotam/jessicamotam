@@ -27331,3 +27331,4 @@
 0003. ✅ test: increase coverage on auth module
 0150. 🎨 style: remove trailing whitespace
 0742. 📚 docs: clarify environment setup
+0439. 🐛 fix: correct typo in registration form
