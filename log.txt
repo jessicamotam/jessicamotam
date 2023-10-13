@@ -57407,3 +57407,4 @@
 0051. ✨ feat: enable dark mode toggle
 0110. 🐛 fix: prevent crash on empty input
 0162. ♻️ chore: add GitHub actions badge
+0896. 🚀 perf: reduce image load time
