@@ -89322,3 +89322,4 @@
 0539. 🔧 refactor: organize models into subfolders
 0933. 📚 docs: clarify environment setup
 0862. ♻️ chore: bump dependencies
+0372. ✨ feat: add user authentication
