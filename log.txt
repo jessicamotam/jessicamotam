@@ -36573,3 +36573,4 @@
 0801. ✨ feat: enable dark mode toggle
 0016. 🎨 style: apply consistent indentation
 0884. 📚 docs: clarify environment setup
+0120. ✅ test: add integration test for /submit endpoint
