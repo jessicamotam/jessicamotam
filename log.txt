@@ -16793,3 +16793,4 @@
 0021. ✨ feat: support email verification
 0307. ✨ feat: support email verification
 0563. 📚 docs: clarify environment setup
+0049. 🐛 fix: handle 500 error in quiz API
