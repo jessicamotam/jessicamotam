@@ -35866,3 +35866,4 @@
 0879. 🎨 style: standardize quote style
 0022. 📚 docs: document token refresh logic
 1000. ✅ test: increase coverage on auth module
+0023. 📚 docs: clarify environment setup
