@@ -3970,3 +3970,4 @@
 0023. 📚 docs: clarify environment setup
 0871. ✅ test: add integration test for /submit endpoint
 0969. ✨ feat: create admin dashboard
+0567. 📚 docs: add API usage examples
