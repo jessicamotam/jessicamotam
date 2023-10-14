@@ -46893,3 +46893,4 @@
 0373. 📚 docs: document token refresh logic
 0252. 🎨 style: remove trailing whitespace
 0071. 🔧 refactor: refactor quiz grading logic
+0997. ✅ test: increase coverage on auth module
