@@ -72848,3 +72848,4 @@
 0205. 📚 docs: update README with setup steps
 0513. ♻️ chore: bump dependencies
 0583. ✅ test: increase coverage on auth module
+0974. ✨ feat: add export to CSV option
