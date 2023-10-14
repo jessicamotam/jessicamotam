@@ -85694,3 +85694,4 @@
 0979. 🎨 style: standardize quote style
 0359. 🔧 refactor: clean up auth middleware
 0770. ♻️ chore: rename env.example
+0905. ♻️ chore: bump dependencies
