@@ -49159,3 +49159,4 @@
 0451. ✨ feat: support email verification
 0196. ♻️ chore: bump dependencies
 0251. ♻️ chore: update .gitignore
+0543. ✨ feat: support email verification
