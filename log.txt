@@ -7528,3 +7528,4 @@
 0387. ✨ feat: enable dark mode toggle
 0501. ✨ feat: add export to CSV option
 0349. ✅ test: increase coverage on auth module
+0726. ✨ feat: enable dark mode toggle
