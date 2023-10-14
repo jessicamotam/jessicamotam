@@ -75390,3 +75390,4 @@
 0993. ✨ feat: implement quiz timer feature
 0152. ✨ feat: add user authentication
 0180. ✨ feat: add export to CSV option
+0219. ✅ test: increase coverage on auth module
