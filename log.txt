@@ -39236,3 +39236,4 @@
 0118. 🚀 perf: reduce image load time
 0858. ♻️ chore: clean up unused files
 0898. 🐛 fix: fix broken CSS in mobile view
+0181. ♻️ chore: add GitHub actions badge
