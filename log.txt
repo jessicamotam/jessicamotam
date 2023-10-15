@@ -30068,3 +30068,4 @@
 0657. 🎨 style: standardize quote style
 0735. ♻️ chore: add GitHub actions badge
 0252. 🎨 style: remove trailing whitespace
+0079. 🐛 fix: correct typo in registration form
