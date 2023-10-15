@@ -73265,3 +73265,4 @@
 0696. 🔧 refactor: clean up auth middleware
 0059. ♻️ chore: bump dependencies
 0667. ✨ feat: add export to CSV option
+0885. ♻️ chore: update .gitignore
