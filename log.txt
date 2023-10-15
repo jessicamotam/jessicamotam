@@ -11121,3 +11121,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0943. 🎨 style: rename variables for clarity
 0362. 📚 docs: add API usage examples
+0110. 🐛 fix: prevent crash on empty input
