@@ -23571,3 +23571,4 @@
 0402. 🎨 style: reformat files with black
 0680. ♻️ chore: add GitHub actions badge
 0038. 🎨 style: rename variables for clarity
+0109. 🚀 perf: lazy-load components
