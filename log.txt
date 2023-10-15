@@ -81365,3 +81365,4 @@
 0956. 📚 docs: clarify environment setup
 0529. 📚 docs: write FAQ section
 0558. ✨ feat: enable dark mode toggle
+0990. ♻️ chore: rename env.example
