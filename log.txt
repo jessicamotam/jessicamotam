@@ -50218,3 +50218,4 @@
 0458. ✨ feat: create admin dashboard
 0432. 🎨 style: apply consistent indentation
 0660. 🐛 fix: correct typo in registration form
+0030. 🐛 fix: fix null pointer exception on login
