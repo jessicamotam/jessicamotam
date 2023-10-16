@@ -74656,3 +74656,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0299. 🐛 fix: resolve issue with date parsing
 0336. ✨ feat: add export to CSV option
+0576. ♻️ chore: update .gitignore
