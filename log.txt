@@ -51282,3 +51282,4 @@
 0175. 📚 docs: add API usage examples
 0386. 🚀 perf: optimize database query for quiz results
 0483. 📚 docs: update README with setup steps
+0276. ✅ test: add integration test for /submit endpoint
