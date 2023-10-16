@@ -70538,3 +70538,4 @@
 0497. 🔧 refactor: refactor quiz grading logic
 0257. 📚 docs: clarify environment setup
 0859. ✨ feat: create admin dashboard
+0279. ✨ feat: support email verification
