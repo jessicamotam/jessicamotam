@@ -37729,3 +37729,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0055. 📚 docs: update README with setup steps
 0719. 🎨 style: apply consistent indentation
+0623. 🎨 style: standardize quote style
