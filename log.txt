@@ -22727,3 +22727,4 @@
 0389. 📚 docs: improve code comments in utils
 0868. ✅ test: add unit test for quiz service
 0188. 🎨 style: apply consistent indentation
+0617. ✨ feat: support email verification
