@@ -9027,3 +9027,4 @@
 0873. 🚀 perf: cache repeated calculations
 0662. ♻️ chore: clean up unused files
 0084. 🐛 fix: handle 500 error in quiz API
+0935. 📚 docs: update README with setup steps
