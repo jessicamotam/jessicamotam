@@ -52543,3 +52543,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0178. ✨ feat: support email verification
 0385. ♻️ chore: clean up unused files
+0353. ♻️ chore: rename env.example
