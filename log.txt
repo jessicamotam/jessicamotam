@@ -27415,3 +27415,4 @@
 0615. 🐛 fix: correct typo in registration form
 0476. 🚀 perf: reduce image load time
 0439. 🐛 fix: correct typo in registration form
+0231. 🔧 refactor: clean up auth middleware
