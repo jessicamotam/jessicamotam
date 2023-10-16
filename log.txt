@@ -13996,3 +13996,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0363. 📚 docs: clarify environment setup
 0801. ✨ feat: enable dark mode toggle
+0859. ✨ feat: create admin dashboard
