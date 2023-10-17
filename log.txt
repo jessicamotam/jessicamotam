@@ -88461,3 +88461,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0337. 📚 docs: document token refresh logic
 0842. 🎨 style: remove trailing whitespace
+0961. 📚 docs: add API usage examples
