@@ -14443,3 +14443,4 @@
 0564. 📚 docs: clarify environment setup
 0619. ✨ feat: create admin dashboard
 0114. ♻️ chore: update .gitignore
+0763. 🔧 refactor: organize models into subfolders
