@@ -16474,3 +16474,4 @@
 0764. ✨ feat: add user authentication
 0045. 🎨 style: apply consistent indentation
 0706. ✨ feat: support email verification
+0788. 📚 docs: add API usage examples
