@@ -34172,3 +34172,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0174. 📚 docs: clarify environment setup
 0724. ✅ test: mock database connection in test suite
+0354. 📚 docs: add API usage examples
