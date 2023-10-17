@@ -73420,3 +73420,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0101. 📚 docs: clarify environment setup
 0566. 📚 docs: write FAQ section
+0651. ✨ feat: enable dark mode toggle
