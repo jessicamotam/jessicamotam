@@ -35200,3 +35200,4 @@
 0923. ✨ feat: support email verification
 0118. 🚀 perf: reduce image load time
 0268. 🐛 fix: prevent crash on empty input
+0542. 🔧 refactor: organize models into subfolders
