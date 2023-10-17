@@ -25133,3 +25133,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0746. ♻️ chore: add GitHub actions badge
 0115. 🚀 perf: reduce image load time
+0929. ✨ feat: support email verification
