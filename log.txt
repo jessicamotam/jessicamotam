@@ -67025,3 +67025,4 @@
 0144. ✅ test: increase coverage on auth module
 0427. ✅ test: mock database connection in test suite
 0077. ♻️ chore: rename env.example
+0174. 📚 docs: clarify environment setup
