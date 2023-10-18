@@ -18062,3 +18062,4 @@
 0445. 📚 docs: improve code comments in utils
 0787. ♻️ chore: rename env.example
 0321. 🔧 refactor: organize models into subfolders
+0343. 🚀 perf: optimize database query for quiz results
