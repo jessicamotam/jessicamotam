@@ -60549,3 +60549,4 @@
 0559. 🔧 refactor: split large controller into smaller functions
 0780. 📚 docs: add API usage examples
 0321. 🔧 refactor: organize models into subfolders
+0646. ✅ test: test user registration edge cases
