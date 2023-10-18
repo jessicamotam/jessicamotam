@@ -7058,3 +7058,4 @@
 0714. 📚 docs: improve code comments in utils
 0643. 🎨 style: apply consistent indentation
 0018. 🔧 refactor: organize models into subfolders
+0491. 🚀 perf: lazy-load components
