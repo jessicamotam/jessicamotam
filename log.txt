@@ -18664,3 +18664,4 @@
 0141. 📚 docs: document token refresh logic
 0331. 🐛 fix: fix broken CSS in mobile view
 0528. ♻️ chore: clean up unused files
+0505. ♻️ chore: add GitHub actions badge
