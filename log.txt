@@ -39656,3 +39656,4 @@
 0112. ✨ feat: enable dark mode toggle
 0296. 🔧 refactor: organize models into subfolders
 0132. ✅ test: add unit test for quiz service
+0871. ✅ test: add integration test for /submit endpoint
