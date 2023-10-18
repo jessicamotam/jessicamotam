@@ -37151,3 +37151,4 @@
 0752. ✅ test: add integration test for /submit endpoint
 0714. 📚 docs: improve code comments in utils
 0538. 🐛 fix: fix broken CSS in mobile view
+0981. 🚀 perf: lazy-load components
