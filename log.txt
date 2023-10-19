@@ -6685,3 +6685,4 @@
 0337. 📚 docs: document token refresh logic
 0549. ✨ feat: enable dark mode toggle
 0267. 📚 docs: improve code comments in utils
+0207. 🐛 fix: prevent crash on empty input
