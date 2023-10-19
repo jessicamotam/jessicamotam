@@ -62588,3 +62588,4 @@
 0917. ✅ test: add integration test for /submit endpoint
 0896. 🚀 perf: reduce image load time
 0627. 📚 docs: document token refresh logic
+0116. ✨ feat: support email verification
