@@ -41879,3 +41879,4 @@
 0611. ✅ test: test user registration edge cases
 0964. ♻️ chore: clean up unused files
 0018. 🔧 refactor: organize models into subfolders
+0657. 🎨 style: standardize quote style
