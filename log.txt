@@ -53712,3 +53712,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0284. ✨ feat: implement quiz timer feature
 0185. 📚 docs: write FAQ section
+0387. ✨ feat: enable dark mode toggle
