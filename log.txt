@@ -65581,3 +65581,4 @@
 0839. 🎨 style: apply consistent indentation
 0493. ✨ feat: add user authentication
 0281. ✨ feat: support email verification
+0521. 🎨 style: standardize quote style
