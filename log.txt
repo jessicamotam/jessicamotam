@@ -75142,3 +75142,4 @@
 0093. ✅ test: add unit test for quiz service
 0960. ✅ test: increase coverage on auth module
 0361. ✨ feat: support email verification
+0420. 🚀 perf: reduce image load time
