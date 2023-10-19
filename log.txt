@@ -63385,3 +63385,4 @@
 0031. 📚 docs: document token refresh logic
 0504. 📚 docs: document token refresh logic
 0481. ✅ test: add unit test for quiz service
+0021. ✨ feat: support email verification
