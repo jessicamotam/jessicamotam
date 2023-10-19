@@ -31847,3 +31847,4 @@
 0167. 🚀 perf: reduce image load time
 0192. ✨ feat: enable dark mode toggle
 0115. 🚀 perf: reduce image load time
+0696. 🔧 refactor: clean up auth middleware
