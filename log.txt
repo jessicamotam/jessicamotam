@@ -2831,3 +2831,4 @@
 0160. ♻️ chore: bump dependencies
 0136. 🚀 perf: lazy-load components
 0998. 🐛 fix: fix null pointer exception on login
+0793. 📚 docs: clarify environment setup
