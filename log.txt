@@ -2151,3 +2151,4 @@
 0262. 🎨 style: remove trailing whitespace
 0079. 🐛 fix: correct typo in registration form
 0705. 🔧 refactor: refactor quiz grading logic
+0374. 🎨 style: standardize quote style
