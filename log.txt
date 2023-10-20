@@ -37487,3 +37487,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0431. 🎨 style: reformat files with black
 0846. ✨ feat: implement quiz timer feature
+0453. 🎨 style: standardize quote style
