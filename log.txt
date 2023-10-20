@@ -60464,3 +60464,4 @@
 0595. ✨ feat: enable dark mode toggle
 0360. ✨ feat: add export to CSV option
 0096. 🐛 fix: prevent crash on empty input
+0113. ✨ feat: add user authentication
