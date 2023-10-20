@@ -61017,3 +61017,4 @@
 0051. ✨ feat: enable dark mode toggle
 0053. ✅ test: increase coverage on auth module
 0562. 🔧 refactor: clean up auth middleware
+0848. 📚 docs: update README with setup steps
