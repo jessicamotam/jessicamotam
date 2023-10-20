@@ -10545,3 +10545,4 @@
 0785. ✨ feat: enable dark mode toggle
 0488. ♻️ chore: add GitHub actions badge
 0521. 🎨 style: standardize quote style
+0201. 🔧 refactor: clean up auth middleware
