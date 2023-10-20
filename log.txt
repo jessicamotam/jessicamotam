@@ -72704,3 +72704,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0335. ♻️ chore: update .gitignore
 0682. ♻️ chore: rename env.example
+0699. 🎨 style: standardize quote style
