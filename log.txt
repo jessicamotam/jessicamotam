@@ -5834,3 +5834,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0254. 🚀 perf: reduce image load time
 0783. 🐛 fix: handle 500 error in quiz API
+0984. ♻️ chore: clean up unused files
