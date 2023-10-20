@@ -71261,3 +71261,4 @@
 0335. ♻️ chore: update .gitignore
 0698. 🐛 fix: handle 500 error in quiz API
 0694. 🎨 style: rename variables for clarity
+0475. 🔧 refactor: clean up auth middleware
