@@ -45023,3 +45023,4 @@
 0731. 🎨 style: standardize quote style
 0508. ✅ test: add unit test for quiz service
 0863. 🐛 fix: correct typo in registration form
+0397. 🐛 fix: handle 500 error in quiz API
