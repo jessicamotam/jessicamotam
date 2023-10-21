@@ -11727,3 +11727,4 @@
 0093. ✅ test: add unit test for quiz service
 0898. 🐛 fix: fix broken CSS in mobile view
 0401. 🚀 perf: reduce image load time
+0344. ♻️ chore: add GitHub actions badge
