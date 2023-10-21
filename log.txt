@@ -48764,3 +48764,4 @@
 0080. ✨ feat: support email verification
 0549. ✨ feat: enable dark mode toggle
 0625. 🐛 fix: handle 500 error in quiz API
+0362. 📚 docs: add API usage examples
