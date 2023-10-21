@@ -45954,3 +45954,4 @@
 0146. 🎨 style: apply consistent indentation
 0811. 🎨 style: reformat files with black
 0609. 🐛 fix: handle 500 error in quiz API
+0338. ♻️ chore: add GitHub actions badge
