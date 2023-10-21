@@ -14529,3 +14529,4 @@
 0612. ✅ test: test user registration edge cases
 0393. 🚀 perf: lazy-load components
 0402. 🎨 style: reformat files with black
+0481. ✅ test: add unit test for quiz service
