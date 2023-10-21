@@ -30205,3 +30205,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0655. 🚀 perf: cache repeated calculations
 0124. 🎨 style: reformat files with black
+0278. 🔧 refactor: clean up auth middleware
