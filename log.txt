@@ -35199,3 +35199,4 @@
 0188. 🎨 style: apply consistent indentation
 0923. ✨ feat: support email verification
 0118. 🚀 perf: reduce image load time
+0268. 🐛 fix: prevent crash on empty input
