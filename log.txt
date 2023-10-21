@@ -82823,3 +82823,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0985. 📚 docs: document token refresh logic
 0837. 🚀 perf: cache repeated calculations
+0461. ✨ feat: add user authentication
