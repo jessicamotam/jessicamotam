@@ -80499,3 +80499,4 @@
 0054. ♻️ chore: update .gitignore
 0779. 🔧 refactor: organize models into subfolders
 0658. 🎨 style: rename variables for clarity
+0394. 🚀 perf: lazy-load components
