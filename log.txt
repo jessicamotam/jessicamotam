@@ -21935,3 +21935,4 @@
 0572. ✨ feat: add user authentication
 0547. 📚 docs: write FAQ section
 0537. 🔧 refactor: remove redundant code blocks
+0934. ✨ feat: support email verification
