@@ -28468,3 +28468,4 @@
 0790. 📚 docs: write FAQ section
 0345. 📚 docs: document token refresh logic
 0907. 🔧 refactor: split large controller into smaller functions
+0600. 🐛 fix: prevent crash on empty input
