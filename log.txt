@@ -3907,3 +3907,4 @@
 0644. 🎨 style: apply consistent indentation
 0506. 🐛 fix: handle 500 error in quiz API
 0993. ✨ feat: implement quiz timer feature
+0850. ♻️ chore: rename env.example
