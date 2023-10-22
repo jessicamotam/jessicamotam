@@ -11549,3 +11549,4 @@
 0949. 📚 docs: write FAQ section
 0249. ✅ test: increase coverage on auth module
 0654. ✨ feat: create admin dashboard
+0225. 🚀 perf: reduce image load time
