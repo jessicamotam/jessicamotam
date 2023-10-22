@@ -15935,3 +15935,4 @@
 0170. ✅ test: increase coverage on auth module
 0074. ♻️ chore: add GitHub actions badge
 0186. ✅ test: test user registration edge cases
+0553. 🐛 fix: correct typo in registration form
