@@ -16005,3 +16005,4 @@
 0230. ✨ feat: create admin dashboard
 0178. ✨ feat: support email verification
 0977. 🔧 refactor: organize models into subfolders
+0224. 🐛 fix: fix broken CSS in mobile view
