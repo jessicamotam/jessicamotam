@@ -65020,3 +65020,4 @@
 0956. 📚 docs: clarify environment setup
 0738. 🐛 fix: prevent crash on empty input
 0061. ✨ feat: create admin dashboard
+0926. 🔧 refactor: organize models into subfolders
