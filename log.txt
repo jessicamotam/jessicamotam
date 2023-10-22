@@ -57923,3 +57923,4 @@
 0017. ✅ test: mock database connection in test suite
 0483. 📚 docs: update README with setup steps
 0523. ♻️ chore: bump dependencies
+0641. 📚 docs: write FAQ section
