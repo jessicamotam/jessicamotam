@@ -30072,3 +30072,4 @@
 0227. ✅ test: test user registration edge cases
 0699. 🎨 style: standardize quote style
 0942. ✅ test: increase coverage on auth module
+0487. 🎨 style: reformat files with black
