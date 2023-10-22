@@ -9216,3 +9216,4 @@
 0964. ♻️ chore: clean up unused files
 0702. ✨ feat: add user authentication
 0207. 🐛 fix: prevent crash on empty input
+0036. 🔧 refactor: clean up auth middleware
