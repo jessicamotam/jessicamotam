@@ -52085,3 +52085,4 @@
 0136. 🚀 perf: lazy-load components
 0058. ♻️ chore: add GitHub actions badge
 0326. 🚀 perf: cache repeated calculations
+0566. 📚 docs: write FAQ section
