@@ -57872,3 +57872,4 @@
 0687. 🎨 style: remove trailing whitespace
 0836. 🚀 perf: optimize database query for quiz results
 0285. 🐛 fix: resolve issue with date parsing
+0731. 🎨 style: standardize quote style
