@@ -43748,3 +43748,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0620. ✨ feat: implement quiz timer feature
 0259. 🚀 perf: lazy-load components
+0710. 🐛 fix: fix broken CSS in mobile view
