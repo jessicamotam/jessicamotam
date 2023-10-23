@@ -41255,3 +41255,4 @@
 0320. 📚 docs: update README with setup steps
 0509. ♻️ chore: bump dependencies
 0304. 🔧 refactor: remove redundant code blocks
+0374. 🎨 style: standardize quote style
