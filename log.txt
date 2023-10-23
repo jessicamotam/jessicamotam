@@ -19119,3 +19119,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0374. 🎨 style: standardize quote style
 0157. ✅ test: mock database connection in test suite
+0275. 🎨 style: standardize quote style
