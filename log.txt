@@ -2659,3 +2659,4 @@
 0138. 🎨 style: rename variables for clarity
 0400. 🐛 fix: fix null pointer exception on login
 0299. 🐛 fix: resolve issue with date parsing
+0116. ✨ feat: support email verification
