@@ -51798,3 +51798,4 @@
 0114. ♻️ chore: update .gitignore
 0980. 🎨 style: reformat files with black
 0676. 🐛 fix: prevent crash on empty input
+0408. ♻️ chore: add GitHub actions badge
