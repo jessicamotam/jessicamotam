@@ -49671,3 +49671,4 @@
 0899. 🚀 perf: cache repeated calculations
 0335. ♻️ chore: update .gitignore
 0140. 🐛 fix: handle 500 error in quiz API
+0433. 🐛 fix: prevent crash on empty input
