@@ -16306,3 +16306,4 @@
 0995. ✅ test: mock database connection in test suite
 0096. 🐛 fix: prevent crash on empty input
 0164. 📚 docs: document token refresh logic
+0339. 📚 docs: update README with setup steps
