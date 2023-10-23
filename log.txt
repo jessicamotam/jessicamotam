@@ -12980,3 +12980,4 @@
 0977. 🔧 refactor: organize models into subfolders
 0244. ✨ feat: add export to CSV option
 0144. ✅ test: increase coverage on auth module
+0446. 🎨 style: apply consistent indentation
