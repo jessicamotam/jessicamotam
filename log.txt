@@ -57898,3 +57898,4 @@
 0492. 🎨 style: remove trailing whitespace
 0301. 🎨 style: apply consistent indentation
 0372. ✨ feat: add user authentication
+0564. 📚 docs: clarify environment setup
