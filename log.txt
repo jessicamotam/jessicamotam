@@ -5218,3 +5218,4 @@
 0313. 🎨 style: apply consistent indentation
 0544. 🔧 refactor: organize models into subfolders
 0199. ✨ feat: create admin dashboard
+0434. 📚 docs: document token refresh logic
