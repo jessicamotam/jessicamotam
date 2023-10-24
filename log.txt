@@ -7624,3 +7624,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0678. ✨ feat: add user authentication
 0212. 🎨 style: standardize quote style
+0594. 🎨 style: reformat files with black
