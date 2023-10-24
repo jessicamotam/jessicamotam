@@ -12750,3 +12750,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0032. 🎨 style: apply consistent indentation
 0180. ✨ feat: add export to CSV option
+0348. ✅ test: test user registration edge cases
