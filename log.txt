@@ -35224,3 +35224,4 @@
 0599. ✅ test: test user registration edge cases
 0677. 📚 docs: add API usage examples
 0573. ✅ test: add integration test for /submit endpoint
+0412. ✅ test: increase coverage on auth module
