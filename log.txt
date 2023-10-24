@@ -79853,3 +79853,4 @@
 0336. ✨ feat: add export to CSV option
 0685. ✅ test: test user registration edge cases
 0225. 🚀 perf: reduce image load time
+0901. ✨ feat: add user authentication
