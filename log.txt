@@ -9727,3 +9727,4 @@
 0596. ♻️ chore: update .gitignore
 0298. ♻️ chore: update .gitignore
 0699. 🎨 style: standardize quote style
+0159. 🚀 perf: lazy-load components
