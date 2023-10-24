@@ -33632,3 +33632,4 @@
 0270. ♻️ chore: rename env.example
 0599. ✅ test: test user registration edge cases
 0706. ✨ feat: support email verification
+0649. 📚 docs: update README with setup steps
