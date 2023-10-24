@@ -21448,3 +21448,4 @@
 0453. 🎨 style: standardize quote style
 0847. ♻️ chore: clean up unused files
 0191. 🔧 refactor: refactor quiz grading logic
+0647. 🐛 fix: prevent crash on empty input
