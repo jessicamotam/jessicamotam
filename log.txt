@@ -38397,3 +38397,4 @@
 0527. 🎨 style: remove trailing whitespace
 0991. ♻️ chore: clean up unused files
 0460. 📚 docs: write FAQ section
+0440. 📚 docs: update README with setup steps
