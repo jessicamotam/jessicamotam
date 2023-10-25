@@ -10029,3 +10029,4 @@
 0620. ✨ feat: implement quiz timer feature
 0159. 🚀 perf: lazy-load components
 0574. ✨ feat: enable dark mode toggle
+0364. 🐛 fix: resolve issue with date parsing
