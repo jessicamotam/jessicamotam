@@ -6668,3 +6668,4 @@
 0155. ✨ feat: create admin dashboard
 0203. 🚀 perf: lazy-load components
 0324. 📚 docs: document token refresh logic
+0551. 📚 docs: write FAQ section
