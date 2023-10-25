@@ -74751,3 +74751,4 @@
 0230. ✨ feat: create admin dashboard
 0312. ✨ feat: add user authentication
 0058. ♻️ chore: add GitHub actions badge
+0937. 🐛 fix: handle 500 error in quiz API
