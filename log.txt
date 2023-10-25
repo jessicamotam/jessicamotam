@@ -49740,3 +49740,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0412. ✅ test: increase coverage on auth module
 0888. 🚀 perf: lazy-load components
+0843. 📚 docs: document token refresh logic
