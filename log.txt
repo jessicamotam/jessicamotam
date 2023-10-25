@@ -78393,3 +78393,4 @@
 0215. 🎨 style: reformat files with black
 0115. 🚀 perf: reduce image load time
 0470. 🎨 style: remove trailing whitespace
+0169. 📚 docs: add API usage examples
