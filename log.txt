@@ -64399,3 +64399,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0149. ✨ feat: add export to CSV option
 0249. ✅ test: increase coverage on auth module
+0107. 🐛 fix: prevent crash on empty input
