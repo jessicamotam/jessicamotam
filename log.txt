@@ -62388,3 +62388,4 @@
 0231. 🔧 refactor: clean up auth middleware
 0123. ✨ feat: implement quiz timer feature
 0482. ✨ feat: add export to CSV option
+0051. ✨ feat: enable dark mode toggle
