@@ -67320,3 +67320,4 @@
 0172. 📚 docs: add API usage examples
 0730. ✅ test: test user registration edge cases
 0504. 📚 docs: document token refresh logic
+0877. 🚀 perf: optimize database query for quiz results
