@@ -25770,3 +25770,4 @@
 0460. 📚 docs: write FAQ section
 0908. ♻️ chore: bump dependencies
 0128. ♻️ chore: rename env.example
+0639. 🐛 fix: correct typo in registration form
