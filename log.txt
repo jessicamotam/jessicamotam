@@ -56783,3 +56783,4 @@
 0471. ✨ feat: support email verification
 0425. 🔧 refactor: refactor quiz grading logic
 0414. 🔧 refactor: remove redundant code blocks
+0835. 🐛 fix: prevent crash on empty input
