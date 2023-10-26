@@ -33691,3 +33691,4 @@
 0787. ♻️ chore: rename env.example
 0710. 🐛 fix: fix broken CSS in mobile view
 0608. 🔧 refactor: remove redundant code blocks
+0063. 🐛 fix: handle 500 error in quiz API
