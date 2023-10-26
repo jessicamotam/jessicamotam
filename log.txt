@@ -55189,3 +55189,4 @@
 0042. 📚 docs: document token refresh logic
 0319. 🐛 fix: handle 500 error in quiz API
 0062. ♻️ chore: update .gitignore
+0738. 🐛 fix: prevent crash on empty input
