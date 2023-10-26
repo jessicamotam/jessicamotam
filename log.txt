@@ -6905,3 +6905,4 @@
 0688. 🚀 perf: reduce image load time
 0759. 🔧 refactor: organize models into subfolders
 0275. 🎨 style: standardize quote style
+0221. ✨ feat: add user authentication
