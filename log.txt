@@ -38879,3 +38879,4 @@
 0022. 📚 docs: document token refresh logic
 0825. 🔧 refactor: split large controller into smaller functions
 0082. 🔧 refactor: refactor quiz grading logic
+0035. ✅ test: increase coverage on auth module
