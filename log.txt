@@ -43816,3 +43816,4 @@
 0093. ✅ test: add unit test for quiz service
 0080. ✨ feat: support email verification
 0058. ♻️ chore: add GitHub actions badge
+0923. ✨ feat: support email verification
