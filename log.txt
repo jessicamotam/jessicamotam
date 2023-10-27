@@ -50769,3 +50769,4 @@
 0567. 📚 docs: add API usage examples
 0106. 🎨 style: reformat files with black
 0868. ✅ test: add unit test for quiz service
+0708. ✅ test: add integration test for /submit endpoint
