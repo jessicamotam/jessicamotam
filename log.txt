@@ -15886,3 +15886,4 @@
 0275. 🎨 style: standardize quote style
 0183. 🔧 refactor: split large controller into smaller functions
 0377. ✨ feat: add user authentication
+0947. 📚 docs: write FAQ section
