@@ -23152,3 +23152,4 @@
 0851. ✅ test: mock database connection in test suite
 0024. 📚 docs: write FAQ section
 0161. ✨ feat: create admin dashboard
+0189. 📚 docs: clarify environment setup
