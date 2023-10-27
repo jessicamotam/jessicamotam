@@ -8308,3 +8308,4 @@
 0852. ✨ feat: enable dark mode toggle
 0282. 🔧 refactor: remove redundant code blocks
 0658. 🎨 style: rename variables for clarity
+0220. 🐛 fix: fix null pointer exception on login
