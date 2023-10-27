@@ -29050,3 +29050,4 @@
 0781. 🚀 perf: reduce image load time
 0316. 🐛 fix: fix broken CSS in mobile view
 0001. 🚀 perf: cache repeated calculations
+0062. ♻️ chore: update .gitignore
