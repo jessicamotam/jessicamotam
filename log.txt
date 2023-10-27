@@ -6604,3 +6604,4 @@
 0679. ♻️ chore: bump dependencies
 0826. 📚 docs: clarify environment setup
 0964. ♻️ chore: clean up unused files
+0828. ♻️ chore: add GitHub actions badge
