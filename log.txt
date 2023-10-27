@@ -81995,3 +81995,4 @@
 0003. ✅ test: increase coverage on auth module
 0269. ✅ test: test user registration edge cases
 0503. ♻️ chore: rename env.example
+0685. ✅ test: test user registration edge cases
