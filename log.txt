@@ -19738,3 +19738,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0156. 🎨 style: rename variables for clarity
 0386. 🚀 perf: optimize database query for quiz results
+0603. 🐛 fix: fix broken CSS in mobile view
