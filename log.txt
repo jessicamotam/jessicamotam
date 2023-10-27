@@ -33522,3 +33522,4 @@
 0115. 🚀 perf: reduce image load time
 0281. ✨ feat: support email verification
 0064. 📚 docs: clarify environment setup
+0834. ✅ test: increase coverage on auth module
