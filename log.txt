@@ -15296,3 +15296,4 @@
 0876. ♻️ chore: rename env.example
 0380. 🐛 fix: fix null pointer exception on login
 0105. 🐛 fix: correct typo in registration form
+0514. 🐛 fix: fix broken CSS in mobile view
