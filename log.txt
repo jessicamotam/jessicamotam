@@ -10094,3 +10094,4 @@
 0583. ✅ test: increase coverage on auth module
 0339. 📚 docs: update README with setup steps
 0802. 🔧 refactor: remove redundant code blocks
+0889. 🚀 perf: lazy-load components
