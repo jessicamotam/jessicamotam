@@ -89129,3 +89129,4 @@
 0037. 🐛 fix: correct typo in registration form
 0394. 🚀 perf: lazy-load components
 0353. ♻️ chore: rename env.example
+0963. 🚀 perf: reduce image load time
