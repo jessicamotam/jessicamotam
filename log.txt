@@ -42012,3 +42012,4 @@
 0950. 🎨 style: reformat files with black
 0538. 🐛 fix: fix broken CSS in mobile view
 0582. ✨ feat: add export to CSV option
+0489. 🔧 refactor: organize models into subfolders
