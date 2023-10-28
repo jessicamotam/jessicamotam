@@ -72262,3 +72262,4 @@
 0670. ✨ feat: add export to CSV option
 0697. ♻️ chore: bump dependencies
 0674. 🔧 refactor: split large controller into smaller functions
+0227. ✅ test: test user registration edge cases
