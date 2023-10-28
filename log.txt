@@ -32691,3 +32691,4 @@
 0567. 📚 docs: add API usage examples
 0925. ✨ feat: add export to CSV option
 0598. 🔧 refactor: remove redundant code blocks
+0949. 📚 docs: write FAQ section
