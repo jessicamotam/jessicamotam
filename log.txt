@@ -39654,3 +39654,4 @@
 0302. ✨ feat: implement quiz timer feature
 0899. 🚀 perf: cache repeated calculations
 0112. ✨ feat: enable dark mode toggle
+0296. 🔧 refactor: organize models into subfolders
