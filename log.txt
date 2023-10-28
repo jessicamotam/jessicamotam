@@ -58460,3 +58460,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0517. ✅ test: mock database connection in test suite
 0053. ✅ test: increase coverage on auth module
+0531. 🐛 fix: prevent crash on empty input
