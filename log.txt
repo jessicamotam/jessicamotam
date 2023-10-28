@@ -86125,3 +86125,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0162. ♻️ chore: add GitHub actions badge
 0298. ♻️ chore: update .gitignore
+0146. 🎨 style: apply consistent indentation
