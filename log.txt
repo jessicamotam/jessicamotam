@@ -14184,3 +14184,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0616. 🚀 perf: lazy-load components
 0789. ✨ feat: create admin dashboard
+0801. ✨ feat: enable dark mode toggle
