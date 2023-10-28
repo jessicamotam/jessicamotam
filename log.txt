@@ -88475,3 +88475,4 @@
 0579. 📚 docs: clarify environment setup
 0318. 🔧 refactor: refactor quiz grading logic
 0803. ✅ test: mock database connection in test suite
+0394. 🚀 perf: lazy-load components
