@@ -6412,3 +6412,4 @@
 0994. 🚀 perf: reduce image load time
 0116. ✨ feat: support email verification
 0649. 📚 docs: update README with setup steps
+0900. 🐛 fix: handle 500 error in quiz API
