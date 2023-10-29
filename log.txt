@@ -41947,3 +41947,4 @@
 0250. 📚 docs: update README with setup steps
 0548. 📚 docs: write FAQ section
 0498. ✅ test: mock database connection in test suite
+0933. 📚 docs: clarify environment setup
