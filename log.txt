@@ -9658,3 +9658,4 @@
 0225. 🚀 perf: reduce image load time
 0144. ✅ test: increase coverage on auth module
 0764. ✨ feat: add user authentication
+0118. 🚀 perf: reduce image load time
