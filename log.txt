@@ -49953,3 +49953,4 @@
 0870. ♻️ chore: clean up unused files
 0085. ✨ feat: support email verification
 0479. 🐛 fix: fix null pointer exception on login
+0466. 🚀 perf: optimize database query for quiz results
