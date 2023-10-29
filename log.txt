@@ -40832,3 +40832,4 @@
 0496. ✅ test: add integration test for /submit endpoint
 0285. 🐛 fix: resolve issue with date parsing
 0732. ♻️ chore: add GitHub actions badge
+0986. 📚 docs: document token refresh logic
