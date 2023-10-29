@@ -5599,3 +5599,4 @@
 0438. ♻️ chore: bump dependencies
 0853. 🔧 refactor: refactor quiz grading logic
 0588. 🔧 refactor: organize models into subfolders
+0359. 🔧 refactor: clean up auth middleware
