@@ -29873,3 +29873,4 @@
 0504. 📚 docs: document token refresh logic
 0609. 🐛 fix: handle 500 error in quiz API
 0524. ♻️ chore: rename env.example
+0543. ✨ feat: support email verification
