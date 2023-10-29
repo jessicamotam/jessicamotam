@@ -72256,3 +72256,4 @@
 0615. 🐛 fix: correct typo in registration form
 0815. 🔧 refactor: split large controller into smaller functions
 0106. 🎨 style: reformat files with black
+0049. 🐛 fix: handle 500 error in quiz API
