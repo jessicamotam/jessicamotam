@@ -48258,3 +48258,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0865. ♻️ chore: add GitHub actions badge
 0237. 🎨 style: standardize quote style
+0259. 🚀 perf: lazy-load components
