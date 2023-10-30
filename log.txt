@@ -34099,3 +34099,4 @@
 0870. ♻️ chore: clean up unused files
 0644. 🎨 style: apply consistent indentation
 0031. 📚 docs: document token refresh logic
+0187. ✨ feat: support email verification
