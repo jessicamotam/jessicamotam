@@ -90354,3 +90354,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0130. 🔧 refactor: split large controller into smaller functions
 0737. 🐛 fix: handle 500 error in quiz API
+0479. 🐛 fix: fix null pointer exception on login
