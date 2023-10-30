@@ -4367,3 +4367,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0953. 🎨 style: remove trailing whitespace
 0151. ✅ test: add unit test for quiz service
+0625. 🐛 fix: handle 500 error in quiz API
