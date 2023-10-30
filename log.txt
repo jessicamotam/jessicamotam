@@ -39202,3 +39202,4 @@
 0594. 🎨 style: reformat files with black
 0970. ♻️ chore: update .gitignore
 0567. 📚 docs: add API usage examples
+0197. 📚 docs: update README with setup steps
