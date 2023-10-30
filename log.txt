@@ -7337,3 +7337,4 @@
 0281. ✨ feat: support email verification
 0235. 🐛 fix: fix null pointer exception on login
 0979. 🎨 style: standardize quote style
+0967. ♻️ chore: add GitHub actions badge
