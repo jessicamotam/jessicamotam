@@ -69967,3 +69967,4 @@
 0230. ✨ feat: create admin dashboard
 0637. 🎨 style: apply consistent indentation
 0262. 🎨 style: remove trailing whitespace
+0013. ✅ test: increase coverage on auth module
