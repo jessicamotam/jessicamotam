@@ -9114,3 +9114,4 @@
 0323. 📚 docs: clarify environment setup
 0503. ♻️ chore: rename env.example
 0264. 🚀 perf: optimize database query for quiz results
+0560. 🎨 style: rename variables for clarity
