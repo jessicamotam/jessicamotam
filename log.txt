@@ -32865,3 +32865,4 @@
 0864. 🐛 fix: correct typo in registration form
 0466. 🚀 perf: optimize database query for quiz results
 0844. 📚 docs: update README with setup steps
+0337. 📚 docs: document token refresh logic
