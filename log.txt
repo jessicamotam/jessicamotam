@@ -3020,3 +3020,4 @@
 0541. 🐛 fix: correct typo in registration form
 0647. 🐛 fix: prevent crash on empty input
 0464. 🎨 style: remove trailing whitespace
+0760. 🐛 fix: resolve issue with date parsing
