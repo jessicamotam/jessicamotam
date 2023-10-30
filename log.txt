@@ -43769,3 +43769,4 @@
 0303. 🎨 style: rename variables for clarity
 0632. 🎨 style: remove trailing whitespace
 0381. ♻️ chore: clean up unused files
+0960. ✅ test: increase coverage on auth module
