@@ -90736,3 +90736,4 @@
 0307. ✨ feat: support email verification
 0575. ✅ test: add unit test for quiz service
 0945. ♻️ chore: add GitHub actions badge
+0588. 🔧 refactor: organize models into subfolders
