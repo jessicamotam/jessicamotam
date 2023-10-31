@@ -87515,3 +87515,4 @@
 0247. 🎨 style: apply consistent indentation
 0031. 📚 docs: document token refresh logic
 0372. ✨ feat: add user authentication
+0703. 🔧 refactor: clean up auth middleware
