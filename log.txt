@@ -43411,3 +43411,4 @@
 0353. ♻️ chore: rename env.example
 0615. 🐛 fix: correct typo in registration form
 0918. ✨ feat: enable dark mode toggle
+0979. 🎨 style: standardize quote style
