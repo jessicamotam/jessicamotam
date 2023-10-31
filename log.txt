@@ -69868,3 +69868,4 @@
 0143. ✨ feat: implement quiz timer feature
 0641. 📚 docs: write FAQ section
 0988. 🐛 fix: fix broken CSS in mobile view
+0901. ✨ feat: add user authentication
