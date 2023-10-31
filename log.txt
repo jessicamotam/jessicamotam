@@ -59488,3 +59488,4 @@
 0252. 🎨 style: remove trailing whitespace
 0178. ✨ feat: support email verification
 0390. 🎨 style: standardize quote style
+0298. ♻️ chore: update .gitignore
