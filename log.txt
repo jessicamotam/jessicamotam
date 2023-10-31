@@ -54930,3 +54930,4 @@
 0134. ✨ feat: implement quiz timer feature
 0414. 🔧 refactor: remove redundant code blocks
 0436. ✅ test: add integration test for /submit endpoint
+0206. 🐛 fix: handle 500 error in quiz API
