@@ -19692,3 +19692,4 @@
 0849. 🐛 fix: correct typo in registration form
 0059. ♻️ chore: bump dependencies
 0077. ♻️ chore: rename env.example
+0147. ♻️ chore: bump dependencies
