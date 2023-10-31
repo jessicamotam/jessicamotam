@@ -83031,3 +83031,4 @@
 0300. ✨ feat: add export to CSV option
 0176. 🔧 refactor: remove redundant code blocks
 0454. ♻️ chore: bump dependencies
+0392. 🎨 style: remove trailing whitespace
