@@ -46878,3 +46878,4 @@
 0859. ✨ feat: create admin dashboard
 0434. 📚 docs: document token refresh logic
 0590. 🐛 fix: fix null pointer exception on login
+0880. 🐛 fix: fix broken CSS in mobile view
