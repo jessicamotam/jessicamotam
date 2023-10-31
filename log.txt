@@ -31375,3 +31375,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0536. ✨ feat: add user authentication
 0555. ✨ feat: create admin dashboard
+0400. 🐛 fix: fix null pointer exception on login
