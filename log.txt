@@ -8494,3 +8494,4 @@
 0295. 🎨 style: remove trailing whitespace
 0660. 🐛 fix: correct typo in registration form
 0995. ✅ test: mock database connection in test suite
+0855. 🎨 style: reformat files with black
