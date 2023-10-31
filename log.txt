@@ -78681,3 +78681,4 @@
 0009. ✨ feat: enable dark mode toggle
 0437. 📚 docs: clarify environment setup
 0618. ✨ feat: support email verification
+0054. ♻️ chore: update .gitignore
