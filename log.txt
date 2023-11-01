@@ -73141,3 +73141,4 @@
 0354. 📚 docs: add API usage examples
 0750. 🎨 style: apply consistent indentation
 0188. 🎨 style: apply consistent indentation
+0320. 📚 docs: update README with setup steps
