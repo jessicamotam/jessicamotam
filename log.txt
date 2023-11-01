@@ -19268,3 +19268,4 @@
 0974. ✨ feat: add export to CSV option
 0880. 🐛 fix: fix broken CSS in mobile view
 0986. 📚 docs: document token refresh logic
+0454. ♻️ chore: bump dependencies
