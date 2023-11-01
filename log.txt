@@ -24694,3 +24694,4 @@
 0229. 🚀 perf: optimize database query for quiz results
 0438. ♻️ chore: bump dependencies
 0654. ✨ feat: create admin dashboard
+0331. 🐛 fix: fix broken CSS in mobile view
