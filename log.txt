@@ -47398,3 +47398,4 @@
 0657. 🎨 style: standardize quote style
 0121. ✨ feat: support email verification
 0864. 🐛 fix: correct typo in registration form
+0486. ✨ feat: add export to CSV option
