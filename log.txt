@@ -80680,3 +80680,4 @@
 0669. ✨ feat: enable dark mode toggle
 0912. 📚 docs: document token refresh logic
 0876. ♻️ chore: rename env.example
+0618. ✨ feat: support email verification
