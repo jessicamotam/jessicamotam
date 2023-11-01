@@ -65986,3 +65986,4 @@
 0225. 🚀 perf: reduce image load time
 0397. 🐛 fix: handle 500 error in quiz API
 0737. 🐛 fix: handle 500 error in quiz API
+0096. 🐛 fix: prevent crash on empty input
