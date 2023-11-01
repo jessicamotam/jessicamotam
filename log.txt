@@ -88235,3 +88235,4 @@
 0899. 🚀 perf: cache repeated calculations
 0906. 📚 docs: add API usage examples
 0961. 📚 docs: add API usage examples
+0613. 🐛 fix: prevent crash on empty input
