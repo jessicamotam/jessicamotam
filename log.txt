@@ -65545,3 +65545,4 @@
 0799. ♻️ chore: clean up unused files
 0212. 🎨 style: standardize quote style
 0003. ✅ test: increase coverage on auth module
+0461. ✨ feat: add user authentication
