@@ -87087,3 +87087,4 @@
 0147. ♻️ chore: bump dependencies
 0363. 📚 docs: clarify environment setup
 0300. ✨ feat: add export to CSV option
+0399. ✅ test: mock database connection in test suite
