@@ -41115,3 +41115,4 @@
 0730. ✅ test: test user registration edge cases
 0387. ✨ feat: enable dark mode toggle
 0185. 📚 docs: write FAQ section
+0244. ✨ feat: add export to CSV option
