@@ -8976,3 +8976,4 @@
 0644. 🎨 style: apply consistent indentation
 0419. 🎨 style: remove trailing whitespace
 0522. 🐛 fix: handle 500 error in quiz API
+0896. 🚀 perf: reduce image load time
