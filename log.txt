@@ -27751,3 +27751,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0429. ✨ feat: add user authentication
 0132. ✅ test: add unit test for quiz service
+0944. ✨ feat: add user authentication
