@@ -24871,3 +24871,4 @@
 0273. 🚀 perf: reduce image load time
 0454. ♻️ chore: bump dependencies
 0094. 📚 docs: document token refresh logic
+0181. ♻️ chore: add GitHub actions badge
