@@ -24869,3 +24869,4 @@
 0929. ✨ feat: support email verification
 0122. ✨ feat: support email verification
 0273. 🚀 perf: reduce image load time
+0454. ♻️ chore: bump dependencies
