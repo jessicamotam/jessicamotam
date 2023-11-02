@@ -42116,3 +42116,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0532. 🔧 refactor: split large controller into smaller functions
 0765. ♻️ chore: clean up unused files
+0923. ✨ feat: support email verification
