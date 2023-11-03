@@ -21625,3 +21625,4 @@
 0929. ✨ feat: support email verification
 0892. ✅ test: add unit test for quiz service
 0335. ♻️ chore: update .gitignore
+0513. ♻️ chore: bump dependencies
