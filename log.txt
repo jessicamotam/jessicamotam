@@ -6158,3 +6158,4 @@
 0529. 📚 docs: write FAQ section
 0461. ✨ feat: add user authentication
 0655. 🚀 perf: cache repeated calculations
+0096. 🐛 fix: prevent crash on empty input
