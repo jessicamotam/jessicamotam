@@ -10555,3 +10555,4 @@
 0563. 📚 docs: clarify environment setup
 0676. 🐛 fix: prevent crash on empty input
 0985. 📚 docs: document token refresh logic
+0020. ✅ test: add integration test for /submit endpoint
