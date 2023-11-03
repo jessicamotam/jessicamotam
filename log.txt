@@ -52125,3 +52125,4 @@
 0179. 🔧 refactor: split large controller into smaller functions
 0949. 📚 docs: write FAQ section
 0757. 🔧 refactor: remove redundant code blocks
+0361. ✨ feat: support email verification
