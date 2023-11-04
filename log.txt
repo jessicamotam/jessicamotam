@@ -36534,3 +36534,4 @@
 0241. 📚 docs: add API usage examples
 0971. 🎨 style: standardize quote style
 0194. 🎨 style: standardize quote style
+0685. ✅ test: test user registration edge cases
