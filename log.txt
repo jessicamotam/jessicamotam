@@ -76893,3 +76893,4 @@
 0028. 🎨 style: standardize quote style
 0180. ✨ feat: add export to CSV option
 0740. 🐛 fix: resolve issue with date parsing
+0588. 🔧 refactor: organize models into subfolders
