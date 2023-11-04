@@ -81688,3 +81688,4 @@
 0360. ✨ feat: add export to CSV option
 0333. 🚀 perf: cache repeated calculations
 0714. 📚 docs: improve code comments in utils
+0989. 📚 docs: write FAQ section
