@@ -64427,3 +64427,4 @@
 0363. 📚 docs: clarify environment setup
 0497. 🔧 refactor: refactor quiz grading logic
 0689. 🎨 style: reformat files with black
+0140. 🐛 fix: handle 500 error in quiz API
