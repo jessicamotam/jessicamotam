@@ -52272,3 +52272,4 @@
 0825. 🔧 refactor: split large controller into smaller functions
 0566. 📚 docs: write FAQ section
 0062. ♻️ chore: update .gitignore
+0653. 🐛 fix: prevent crash on empty input
