@@ -65261,3 +65261,4 @@
 0166. 🚀 perf: cache repeated calculations
 0635. 🎨 style: apply consistent indentation
 0977. 🔧 refactor: organize models into subfolders
+0194. 🎨 style: standardize quote style
