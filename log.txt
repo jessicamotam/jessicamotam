@@ -44185,3 +44185,4 @@
 0773. 📚 docs: document token refresh logic
 0458. ✨ feat: create admin dashboard
 0047. 🎨 style: rename variables for clarity
+0004. 🚀 perf: optimize database query for quiz results
