@@ -2181,3 +2181,4 @@
 0326. 🚀 perf: cache repeated calculations
 0867. 🔧 refactor: refactor quiz grading logic
 0560. 🎨 style: rename variables for clarity
+0125. ✅ test: add integration test for /submit endpoint
