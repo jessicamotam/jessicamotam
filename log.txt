@@ -90444,3 +90444,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0166. 🚀 perf: cache repeated calculations
 0576. ♻️ chore: update .gitignore
+0580. ♻️ chore: bump dependencies
