@@ -48006,3 +48006,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0632. 🎨 style: remove trailing whitespace
 0521. 🎨 style: standardize quote style
+0368. 🚀 perf: lazy-load components
