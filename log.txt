@@ -83221,3 +83221,4 @@
 0574. ✨ feat: enable dark mode toggle
 0432. 🎨 style: apply consistent indentation
 0774. 🔧 refactor: refactor quiz grading logic
+0308. 🚀 perf: reduce image load time
