@@ -10369,3 +10369,4 @@
 0766. 🎨 style: reformat files with black
 0175. 📚 docs: add API usage examples
 0727. ♻️ chore: add GitHub actions badge
+0378. 🐛 fix: prevent crash on empty input
