@@ -66925,3 +66925,4 @@
 0995. ✅ test: mock database connection in test suite
 0457. 🐛 fix: handle 500 error in quiz API
 0580. ♻️ chore: bump dependencies
+0567. 📚 docs: add API usage examples
