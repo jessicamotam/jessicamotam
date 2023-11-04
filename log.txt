@@ -36692,3 +36692,4 @@
 0056. ♻️ chore: rename env.example
 0112. ✨ feat: enable dark mode toggle
 0599. ✅ test: test user registration edge cases
+0641. 📚 docs: write FAQ section
