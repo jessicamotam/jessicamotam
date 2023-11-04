@@ -12663,3 +12663,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0540. ♻️ chore: add GitHub actions badge
 0506. 🐛 fix: handle 500 error in quiz API
+0158. 📚 docs: clarify environment setup
