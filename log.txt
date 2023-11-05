@@ -84829,3 +84829,4 @@
 0722. 📚 docs: add API usage examples
 0923. ✨ feat: support email verification
 0218. 🔧 refactor: clean up auth middleware
+0986. 📚 docs: document token refresh logic
