@@ -12039,3 +12039,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0084. 🐛 fix: handle 500 error in quiz API
 0528. ♻️ chore: clean up unused files
+0393. 🚀 perf: lazy-load components
