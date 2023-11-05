@@ -78387,3 +78387,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0390. 🎨 style: standardize quote style
 0277. 🎨 style: standardize quote style
+0898. 🐛 fix: fix broken CSS in mobile view
