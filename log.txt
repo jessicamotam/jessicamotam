@@ -60571,3 +60571,4 @@
 0866. 📚 docs: add API usage examples
 0964. ♻️ chore: clean up unused files
 0633. ✨ feat: add user authentication
+0206. 🐛 fix: handle 500 error in quiz API
