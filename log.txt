@@ -61010,3 +61010,4 @@
 0170. ✅ test: increase coverage on auth module
 0033. 🎨 style: apply consistent indentation
 0013. ✅ test: increase coverage on auth module
+0813. 🔧 refactor: organize models into subfolders
