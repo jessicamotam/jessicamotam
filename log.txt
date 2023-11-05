@@ -10304,3 +10304,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0379. ✨ feat: support email verification
 0374. 🎨 style: standardize quote style
+0751. 🐛 fix: handle 500 error in quiz API
