@@ -40537,3 +40537,4 @@
 0230. ✨ feat: create admin dashboard
 0670. ✨ feat: add export to CSV option
 0541. 🐛 fix: correct typo in registration form
+0728. 🔧 refactor: split large controller into smaller functions
