@@ -1534,3 +1534,4 @@
 0008. 🚀 perf: reduce image load time
 0209. ✨ feat: implement quiz timer feature
 0195. 📚 docs: clarify environment setup
+0425. 🔧 refactor: refactor quiz grading logic
