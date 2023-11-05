@@ -17840,3 +17840,4 @@
 0975. 🎨 style: apply consistent indentation
 0327. 🔧 refactor: split large controller into smaller functions
 0117. ✅ test: increase coverage on auth module
+0504. 📚 docs: document token refresh logic
