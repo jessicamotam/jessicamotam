@@ -39741,3 +39741,4 @@
 0834. ✅ test: increase coverage on auth module
 0044. ✅ test: add unit test for quiz service
 0646. ✅ test: test user registration edge cases
+0793. 📚 docs: clarify environment setup
