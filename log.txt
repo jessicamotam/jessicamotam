@@ -18737,3 +18737,4 @@
 0849. 🐛 fix: correct typo in registration form
 0412. ✅ test: increase coverage on auth module
 0030. 🐛 fix: fix null pointer exception on login
+0688. 🚀 perf: reduce image load time
