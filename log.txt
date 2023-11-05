@@ -54780,3 +54780,4 @@
 0513. ♻️ chore: bump dependencies
 0041. 🐛 fix: fix broken CSS in mobile view
 0596. ♻️ chore: update .gitignore
+0439. 🐛 fix: correct typo in registration form
