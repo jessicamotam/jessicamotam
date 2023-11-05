@@ -41909,3 +41909,4 @@
 0962. ✨ feat: create admin dashboard
 0312. ✨ feat: add user authentication
 0585. 🚀 perf: lazy-load components
+0725. 🚀 perf: lazy-load components
