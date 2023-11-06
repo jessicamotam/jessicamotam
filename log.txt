@@ -84835,3 +84835,4 @@
 0253. 📚 docs: update README with setup steps
 0935. 📚 docs: update README with setup steps
 0730. ✅ test: test user registration edge cases
+0651. ✨ feat: enable dark mode toggle
