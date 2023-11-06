@@ -22829,3 +22829,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0410. 🎨 style: reformat files with black
 0683. ✅ test: mock database connection in test suite
+0180. ✨ feat: add export to CSV option
