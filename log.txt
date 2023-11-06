@@ -50042,3 +50042,4 @@
 0169. 📚 docs: add API usage examples
 0465. 🎨 style: rename variables for clarity
 0849. 🐛 fix: correct typo in registration form
+0556. ✨ feat: support email verification
