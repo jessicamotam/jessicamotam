@@ -85471,3 +85471,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0152. ✨ feat: add user authentication
 0064. 📚 docs: clarify environment setup
+0557. 🔧 refactor: clean up auth middleware
