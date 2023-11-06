@@ -26893,3 +26893,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0958. 🐛 fix: prevent crash on empty input
 0595. ✨ feat: enable dark mode toggle
+0844. 📚 docs: update README with setup steps
