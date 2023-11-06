@@ -43004,3 +43004,4 @@
 0308. 🚀 perf: reduce image load time
 0571. 🔧 refactor: clean up auth middleware
 0260. ✨ feat: create admin dashboard
+0375. 🐛 fix: handle 500 error in quiz API
