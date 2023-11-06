@@ -24713,3 +24713,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0547. 📚 docs: write FAQ section
 0872. 🎨 style: rename variables for clarity
+0297. 🎨 style: remove trailing whitespace
