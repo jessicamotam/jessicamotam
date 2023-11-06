@@ -55717,3 +55717,4 @@
 0974. ✨ feat: add export to CSV option
 0779. 🔧 refactor: organize models into subfolders
 0449. ✅ test: add unit test for quiz service
+0525. ✅ test: mock database connection in test suite
