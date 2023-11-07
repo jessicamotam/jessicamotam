@@ -45818,3 +45818,4 @@
 0684. 🚀 perf: reduce image load time
 0200. 🐛 fix: handle 500 error in quiz API
 0655. 🚀 perf: cache repeated calculations
+0574. ✨ feat: enable dark mode toggle
