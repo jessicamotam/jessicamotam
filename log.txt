@@ -77446,3 +77446,4 @@
 0195. 📚 docs: clarify environment setup
 0815. 🔧 refactor: split large controller into smaller functions
 0297. 🎨 style: remove trailing whitespace
+0932. ✅ test: add integration test for /submit endpoint
