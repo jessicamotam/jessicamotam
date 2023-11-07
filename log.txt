@@ -9181,3 +9181,4 @@
 0025. 🚀 perf: optimize database query for quiz results
 0057. 🚀 perf: optimize database query for quiz results
 0268. 🐛 fix: prevent crash on empty input
+0763. 🔧 refactor: organize models into subfolders
