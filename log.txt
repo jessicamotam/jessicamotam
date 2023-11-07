@@ -2259,3 +2259,4 @@
 0879. 🎨 style: standardize quote style
 0523. ♻️ chore: bump dependencies
 0255. 🔧 refactor: refactor quiz grading logic
+0106. 🎨 style: reformat files with black
