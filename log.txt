@@ -15829,3 +15829,4 @@
 0513. ♻️ chore: bump dependencies
 0903. ✅ test: mock database connection in test suite
 0842. 🎨 style: remove trailing whitespace
+0307. ✨ feat: support email verification
