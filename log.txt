@@ -53388,3 +53388,4 @@
 0253. 📚 docs: update README with setup steps
 0282. 🔧 refactor: remove redundant code blocks
 0802. 🔧 refactor: remove redundant code blocks
+0361. ✨ feat: support email verification
