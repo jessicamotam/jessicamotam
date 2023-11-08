@@ -82722,3 +82722,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0711. 🐛 fix: fix broken CSS in mobile view
 0856. 🐛 fix: fix null pointer exception on login
+0838. 🎨 style: standardize quote style
