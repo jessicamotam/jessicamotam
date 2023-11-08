@@ -76954,3 +76954,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0050. ✨ feat: enable dark mode toggle
 0249. ✅ test: increase coverage on auth module
+0937. 🐛 fix: handle 500 error in quiz API
