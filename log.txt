@@ -87516,3 +87516,4 @@
 0031. 📚 docs: document token refresh logic
 0372. ✨ feat: add user authentication
 0703. 🔧 refactor: clean up auth middleware
+0386. 🚀 perf: optimize database query for quiz results
