@@ -10005,3 +10005,4 @@
 0160. ♻️ chore: bump dependencies
 0488. ♻️ chore: add GitHub actions badge
 0746. ♻️ chore: add GitHub actions badge
+0111. 📚 docs: update README with setup steps
