@@ -63181,3 +63181,4 @@
 0891. ✨ feat: create admin dashboard
 0749. ✨ feat: support email verification
 0702. ✨ feat: add user authentication
+0666. 🐛 fix: fix broken CSS in mobile view
