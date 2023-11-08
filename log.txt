@@ -28842,3 +28842,4 @@
 0830. 🎨 style: apply consistent indentation
 0732. ♻️ chore: add GitHub actions badge
 0458. ✨ feat: create admin dashboard
+0801. ✨ feat: enable dark mode toggle
