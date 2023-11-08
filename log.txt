@@ -59782,3 +59782,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0478. 🐛 fix: resolve issue with date parsing
 0470. 🎨 style: remove trailing whitespace
+0998. 🐛 fix: fix null pointer exception on login
