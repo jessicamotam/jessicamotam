@@ -72774,3 +72774,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0486. ✨ feat: add export to CSV option
 0192. ✨ feat: enable dark mode toggle
+0651. ✨ feat: enable dark mode toggle
