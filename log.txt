@@ -74094,3 +74094,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0310. 🔧 refactor: refactor quiz grading logic
 0039. ✅ test: add integration test for /submit endpoint
+0609. 🐛 fix: handle 500 error in quiz API
