@@ -24937,3 +24937,4 @@
 0473. 📚 docs: write FAQ section
 0327. 🔧 refactor: split large controller into smaller functions
 0449. ✅ test: add unit test for quiz service
+0225. 🚀 perf: reduce image load time
