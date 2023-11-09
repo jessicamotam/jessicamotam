@@ -19093,3 +19093,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0528. ♻️ chore: clean up unused files
 0687. 🎨 style: remove trailing whitespace
+0239. 🎨 style: standardize quote style
