@@ -49352,3 +49352,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0721. 🚀 perf: optimize database query for quiz results
 0949. 📚 docs: write FAQ section
+0017. ✅ test: mock database connection in test suite
