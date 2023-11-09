@@ -63157,3 +63157,4 @@
 0447. ♻️ chore: bump dependencies
 0681. ✨ feat: create admin dashboard
 0471. ✨ feat: support email verification
+0040. 🔧 refactor: clean up auth middleware
