@@ -86835,3 +86835,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0819. 🚀 perf: reduce image load time
 0869. ♻️ chore: bump dependencies
+0995. ✅ test: mock database connection in test suite
