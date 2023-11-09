@@ -33018,3 +33018,4 @@
 0795. 📚 docs: update README with setup steps
 0484. 🐛 fix: handle 500 error in quiz API
 0044. ✅ test: add unit test for quiz service
+0746. ♻️ chore: add GitHub actions badge
