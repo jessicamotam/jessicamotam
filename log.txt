@@ -81359,3 +81359,4 @@
 0963. 🚀 perf: reduce image load time
 0685. ✅ test: test user registration edge cases
 0672. 🐛 fix: fix broken CSS in mobile view
+0041. 🐛 fix: fix broken CSS in mobile view
