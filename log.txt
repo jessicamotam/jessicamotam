@@ -54964,3 +54964,4 @@
 0064. 📚 docs: clarify environment setup
 0134. ✨ feat: implement quiz timer feature
 0819. 🚀 perf: reduce image load time
+0029. 🚀 perf: lazy-load components
