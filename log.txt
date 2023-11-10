@@ -86485,3 +86485,4 @@
 0964. ♻️ chore: clean up unused files
 0019. ✨ feat: enable dark mode toggle
 0310. 🔧 refactor: refactor quiz grading logic
+0982. 🚀 perf: lazy-load components
