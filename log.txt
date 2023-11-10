@@ -63480,3 +63480,4 @@
 0916. ♻️ chore: bump dependencies
 0313. 🎨 style: apply consistent indentation
 0511. 🐛 fix: fix broken CSS in mobile view
+0477. 🐛 fix: fix broken CSS in mobile view
