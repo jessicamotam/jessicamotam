@@ -27145,3 +27145,4 @@
 0864. 🐛 fix: correct typo in registration form
 0507. 🔧 refactor: clean up auth middleware
 0255. 🔧 refactor: refactor quiz grading logic
+0733. 🐛 fix: fix null pointer exception on login
