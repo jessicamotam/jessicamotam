@@ -2432,3 +2432,4 @@
 0940. 📚 docs: document token refresh logic
 0762. 🚀 perf: lazy-load components
 0331. 🐛 fix: fix broken CSS in mobile view
+0561. 📚 docs: write FAQ section
