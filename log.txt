@@ -7512,3 +7512,4 @@
 0781. 🚀 perf: reduce image load time
 0923. ✨ feat: support email verification
 0068. 🐛 fix: fix null pointer exception on login
+0583. ✅ test: increase coverage on auth module
