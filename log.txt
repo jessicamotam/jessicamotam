@@ -82726,3 +82726,4 @@
 0144. ✅ test: increase coverage on auth module
 0670. ✨ feat: add export to CSV option
 0090. ✅ test: increase coverage on auth module
+0048. 📚 docs: update README with setup steps
