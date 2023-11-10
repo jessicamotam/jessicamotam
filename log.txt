@@ -8548,3 +8548,4 @@
 0463. 🚀 perf: reduce image load time
 0485. 📚 docs: update README with setup steps
 0922. 📚 docs: write FAQ section
+0159. 🚀 perf: lazy-load components
