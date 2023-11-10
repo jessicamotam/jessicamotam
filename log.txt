@@ -87410,3 +87410,4 @@
 0196. ♻️ chore: bump dependencies
 0416. 🎨 style: rename variables for clarity
 0969. ✨ feat: create admin dashboard
+0507. 🔧 refactor: clean up auth middleware
