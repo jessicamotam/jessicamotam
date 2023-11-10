@@ -35490,3 +35490,4 @@
 0500. ✅ test: add integration test for /submit endpoint
 0092. 🚀 perf: reduce image load time
 0460. 📚 docs: write FAQ section
+0159. 🚀 perf: lazy-load components
