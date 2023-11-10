@@ -78650,3 +78650,4 @@
 0940. 📚 docs: document token refresh logic
 0655. 🚀 perf: cache repeated calculations
 0303. 🎨 style: rename variables for clarity
+0660. 🐛 fix: correct typo in registration form
