@@ -84336,3 +84336,4 @@
 0225. 🚀 perf: reduce image load time
 0750. 🎨 style: apply consistent indentation
 0487. 🎨 style: reformat files with black
+0332. 🎨 style: standardize quote style
