@@ -76892,3 +76892,4 @@
 0099. 🚀 perf: reduce image load time
 0028. 🎨 style: standardize quote style
 0180. ✨ feat: add export to CSV option
+0740. 🐛 fix: resolve issue with date parsing
