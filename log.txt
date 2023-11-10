@@ -51040,3 +51040,4 @@
 0447. ♻️ chore: bump dependencies
 0204. 🎨 style: standardize quote style
 0312. ✨ feat: add user authentication
+0459. 🔧 refactor: organize models into subfolders
