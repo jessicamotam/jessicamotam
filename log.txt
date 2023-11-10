@@ -64720,3 +64720,4 @@
 0287. 📚 docs: write FAQ section
 0678. ✨ feat: add user authentication
 0334. 🚀 perf: cache repeated calculations
+0929. ✨ feat: support email verification
