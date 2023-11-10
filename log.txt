@@ -75312,3 +75312,4 @@
 0996. ✅ test: test user registration edge cases
 0362. 📚 docs: add API usage examples
 0188. 🎨 style: apply consistent indentation
+0378. 🐛 fix: prevent crash on empty input
