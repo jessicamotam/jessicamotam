@@ -3320,3 +3320,4 @@
 0512. 🚀 perf: reduce image load time
 0074. ♻️ chore: add GitHub actions badge
 0894. ✅ test: add integration test for /submit endpoint
+0277. 🎨 style: standardize quote style
