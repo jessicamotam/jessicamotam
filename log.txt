@@ -84985,3 +84985,4 @@
 0492. 🎨 style: remove trailing whitespace
 0024. 📚 docs: write FAQ section
 0615. 🐛 fix: correct typo in registration form
+0923. ✨ feat: support email verification
