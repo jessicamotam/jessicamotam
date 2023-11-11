@@ -63122,3 +63122,4 @@
 0720. ✨ feat: add export to CSV option
 0250. 📚 docs: update README with setup steps
 0460. 📚 docs: write FAQ section
+0471. ✨ feat: support email verification
