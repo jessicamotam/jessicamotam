@@ -50473,3 +50473,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0025. 🚀 perf: optimize database query for quiz results
 0170. ✅ test: increase coverage on auth module
+0068. 🐛 fix: fix null pointer exception on login
