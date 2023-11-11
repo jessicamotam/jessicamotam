@@ -80353,3 +80353,4 @@
 0429. ✨ feat: add user authentication
 0655. 🚀 perf: cache repeated calculations
 0367. 🐛 fix: fix null pointer exception on login
+0672. 🐛 fix: fix broken CSS in mobile view
