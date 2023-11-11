@@ -11904,3 +11904,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0700. 🎨 style: rename variables for clarity
 0011. ✅ test: add unit test for quiz service
+0171. 🐛 fix: fix broken CSS in mobile view
