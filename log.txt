@@ -36000,3 +36000,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0499. 🎨 style: reformat files with black
 0274. 🔧 refactor: refactor quiz grading logic
+0259. 🚀 perf: lazy-load components
