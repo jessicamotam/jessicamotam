@@ -30054,3 +30054,4 @@
 0292. 📚 docs: clarify environment setup
 0470. 🎨 style: remove trailing whitespace
 0709. ♻️ chore: bump dependencies
+0036. 🔧 refactor: clean up auth middleware
