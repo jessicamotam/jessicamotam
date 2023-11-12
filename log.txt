@@ -88401,3 +88401,4 @@
 0841. 🚀 perf: optimize database query for quiz results
 0072. 🚀 perf: optimize database query for quiz results
 0836. 🚀 perf: optimize database query for quiz results
+0880. 🐛 fix: fix broken CSS in mobile view
