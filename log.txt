@@ -4259,3 +4259,4 @@
 0390. 🎨 style: standardize quote style
 0456. 🚀 perf: optimize database query for quiz results
 0488. ♻️ chore: add GitHub actions badge
+0750. 🎨 style: apply consistent indentation
