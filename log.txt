@@ -10499,3 +10499,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0218. 🔧 refactor: clean up auth middleware
 0572. ✨ feat: add user authentication
+0800. 🚀 perf: optimize database query for quiz results
