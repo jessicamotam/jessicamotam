@@ -23727,3 +23727,4 @@
 0198. 📚 docs: clarify environment setup
 0695. ✨ feat: create admin dashboard
 0521. 🎨 style: standardize quote style
+0549. ✨ feat: enable dark mode toggle
