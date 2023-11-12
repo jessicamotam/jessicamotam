@@ -49075,3 +49075,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0991. ♻️ chore: clean up unused files
 0294. 🐛 fix: prevent crash on empty input
+0533. ♻️ chore: add GitHub actions badge
