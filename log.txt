@@ -179,3 +179,4 @@
 0869. ♻️ chore: bump dependencies
 0565. ♻️ chore: add GitHub actions badge
 0385. ♻️ chore: clean up unused files
+0590. 🐛 fix: fix null pointer exception on login
