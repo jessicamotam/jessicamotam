@@ -44607,3 +44607,4 @@
 0395. 📚 docs: write FAQ section
 0013. ✅ test: increase coverage on auth module
 0292. 📚 docs: clarify environment setup
+0749. ✨ feat: support email verification
