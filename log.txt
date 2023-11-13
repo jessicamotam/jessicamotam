@@ -27693,3 +27693,4 @@
 0862. ♻️ chore: bump dependencies
 0519. 📚 docs: document token refresh logic
 0962. ✨ feat: create admin dashboard
+0025. 🚀 perf: optimize database query for quiz results
