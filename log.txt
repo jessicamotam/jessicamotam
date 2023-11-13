@@ -5698,3 +5698,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0228. 🔧 refactor: remove redundant code blocks
 0181. ♻️ chore: add GitHub actions badge
+0994. 🚀 perf: reduce image load time
