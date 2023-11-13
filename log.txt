@@ -28335,3 +28335,4 @@
 0765. ♻️ chore: clean up unused files
 0769. ✨ feat: create admin dashboard
 0626. 🎨 style: standardize quote style
+0688. 🚀 perf: reduce image load time
