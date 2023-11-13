@@ -80103,3 +80103,4 @@
 0370. 🚀 perf: reduce image load time
 0326. 🚀 perf: cache repeated calculations
 0210. 🎨 style: apply consistent indentation
+0922. 📚 docs: write FAQ section
