@@ -7523,3 +7523,4 @@
 0761. ✅ test: add unit test for quiz service
 0765. ♻️ chore: clean up unused files
 0631. ✨ feat: create admin dashboard
+0786. ✨ feat: enable dark mode toggle
