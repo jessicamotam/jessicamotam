@@ -39711,3 +39711,4 @@
 0731. 🎨 style: standardize quote style
 0005. ✅ test: add unit test for quiz service
 0161. ✨ feat: create admin dashboard
+0696. 🔧 refactor: clean up auth middleware
