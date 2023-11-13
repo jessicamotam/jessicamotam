@@ -58506,3 +58506,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0914. ✅ test: test user registration edge cases
 0034. 📚 docs: improve code comments in utils
+0742. 📚 docs: clarify environment setup
