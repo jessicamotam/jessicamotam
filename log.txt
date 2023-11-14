@@ -20864,3 +20864,4 @@
 0925. ✨ feat: add export to CSV option
 0686. 🎨 style: standardize quote style
 0640. ♻️ chore: bump dependencies
+0350. 🚀 perf: cache repeated calculations
