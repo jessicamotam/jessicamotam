@@ -70610,3 +70610,4 @@
 0249. ✅ test: increase coverage on auth module
 0265. 🎨 style: reformat files with black
 0252. 🎨 style: remove trailing whitespace
+0781. 🚀 perf: reduce image load time
