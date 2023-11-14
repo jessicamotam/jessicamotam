@@ -76306,3 +76306,4 @@
 0160. ♻️ chore: bump dependencies
 0037. 🐛 fix: correct typo in registration form
 0712. 🎨 style: apply consistent indentation
+0570. 🎨 style: apply consistent indentation
