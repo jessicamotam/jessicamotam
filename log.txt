@@ -70504,3 +70504,4 @@
 0052. 🎨 style: standardize quote style
 0615. 🐛 fix: correct typo in registration form
 0348. ✅ test: test user registration edge cases
+0200. 🐛 fix: handle 500 error in quiz API
