@@ -25314,3 +25314,4 @@
 0262. 🎨 style: remove trailing whitespace
 0744. 🔧 refactor: remove redundant code blocks
 0595. ✨ feat: enable dark mode toggle
+0772. 🐛 fix: fix null pointer exception on login
