@@ -22991,3 +22991,4 @@
 0492. 🎨 style: remove trailing whitespace
 0297. 🎨 style: remove trailing whitespace
 0619. ✨ feat: create admin dashboard
+0507. 🔧 refactor: clean up auth middleware
