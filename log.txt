@@ -54701,3 +54701,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0764. ✨ feat: add user authentication
 0920. 🔧 refactor: organize models into subfolders
+0440. 📚 docs: update README with setup steps
