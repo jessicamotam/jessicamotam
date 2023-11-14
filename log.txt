@@ -17229,3 +17229,4 @@
 0103. 🔧 refactor: remove redundant code blocks
 0254. 🚀 perf: reduce image load time
 0490. ✨ feat: create admin dashboard
+0636. ✅ test: increase coverage on auth module
