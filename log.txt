@@ -88916,3 +88916,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0049. 🐛 fix: handle 500 error in quiz API
 0053. ✅ test: increase coverage on auth module
+0804. ♻️ chore: add GitHub actions badge
