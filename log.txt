@@ -47025,3 +47025,4 @@
 0473. 📚 docs: write FAQ section
 0706. ✨ feat: support email verification
 0207. 🐛 fix: prevent crash on empty input
+0149. ✨ feat: add export to CSV option
