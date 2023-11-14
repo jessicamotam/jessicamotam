@@ -69639,3 +69639,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0626. 🎨 style: standardize quote style
 0375. 🐛 fix: handle 500 error in quiz API
+0685. ✅ test: test user registration edge cases
