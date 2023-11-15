@@ -46533,3 +46533,4 @@
 0612. ✅ test: test user registration edge cases
 0329. 📚 docs: update README with setup steps
 0869. ♻️ chore: bump dependencies
+0099. 🚀 perf: reduce image load time
