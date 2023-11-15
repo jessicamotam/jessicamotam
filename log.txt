@@ -48643,3 +48643,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0831. 📚 docs: clarify environment setup
 0988. 🐛 fix: fix broken CSS in mobile view
+0415. 🐛 fix: handle 500 error in quiz API
