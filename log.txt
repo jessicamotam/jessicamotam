@@ -1138,3 +1138,4 @@
 0829. 🔧 refactor: organize models into subfolders
 0895. ✨ feat: support email verification
 0077. ♻️ chore: rename env.example
+0249. ✅ test: increase coverage on auth module
