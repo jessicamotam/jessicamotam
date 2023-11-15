@@ -55044,3 +55044,4 @@
 0986. 📚 docs: document token refresh logic
 0680. ♻️ chore: add GitHub actions badge
 0544. 🔧 refactor: organize models into subfolders
+0997. ✅ test: increase coverage on auth module
