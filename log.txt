@@ -51643,3 +51643,4 @@
 0778. 📚 docs: write FAQ section
 0699. 🎨 style: standardize quote style
 0242. ♻️ chore: clean up unused files
+0865. ♻️ chore: add GitHub actions badge
