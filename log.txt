@@ -58355,3 +58355,4 @@
 0982. 🚀 perf: lazy-load components
 0925. ✨ feat: add export to CSV option
 0090. ✅ test: increase coverage on auth module
+0410. 🎨 style: reformat files with black
