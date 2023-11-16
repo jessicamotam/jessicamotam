@@ -41809,3 +41809,4 @@
 0849. 🐛 fix: correct typo in registration form
 0765. ♻️ chore: clean up unused files
 0283. ♻️ chore: add GitHub actions badge
+0401. 🚀 perf: reduce image load time
