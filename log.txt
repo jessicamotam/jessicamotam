@@ -87463,3 +87463,4 @@
 0989. 📚 docs: write FAQ section
 0077. ♻️ chore: rename env.example
 0874. 🔧 refactor: split large controller into smaller functions
+0970. ♻️ chore: update .gitignore
