@@ -43724,3 +43724,4 @@
 0536. ✨ feat: add user authentication
 0257. 📚 docs: clarify environment setup
 0572. ✨ feat: add user authentication
+0988. 🐛 fix: fix broken CSS in mobile view
