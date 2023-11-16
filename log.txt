@@ -34158,3 +34158,4 @@
 0095. ✅ test: mock database connection in test suite
 0885. ♻️ chore: update .gitignore
 0097. 🐛 fix: handle 500 error in quiz API
+0064. 📚 docs: clarify environment setup
