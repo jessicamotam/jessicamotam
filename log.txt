@@ -85914,3 +85914,4 @@
 0954. 🚀 perf: cache repeated calculations
 0397. 🐛 fix: handle 500 error in quiz API
 0239. 🎨 style: standardize quote style
+0502. 📚 docs: update README with setup steps
