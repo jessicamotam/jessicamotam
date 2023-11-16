@@ -41098,3 +41098,4 @@
 0640. ♻️ chore: bump dependencies
 0261. 🔧 refactor: refactor quiz grading logic
 0096. 🐛 fix: prevent crash on empty input
+0535. 📚 docs: write FAQ section
