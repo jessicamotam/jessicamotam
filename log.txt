@@ -61689,3 +61689,4 @@
 0088. 📚 docs: add API usage examples
 0003. ✅ test: increase coverage on auth module
 0435. ✅ test: add unit test for quiz service
+0503. ♻️ chore: rename env.example
