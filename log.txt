@@ -80810,3 +80810,4 @@
 0556. ✨ feat: support email verification
 0373. 📚 docs: document token refresh logic
 0636. ✅ test: increase coverage on auth module
+0116. ✨ feat: support email verification
