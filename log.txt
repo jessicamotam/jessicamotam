@@ -63404,3 +63404,4 @@
 0887. 📚 docs: add API usage examples
 0981. 🚀 perf: lazy-load components
 0418. ✅ test: mock database connection in test suite
+0671. 🐛 fix: fix null pointer exception on login
