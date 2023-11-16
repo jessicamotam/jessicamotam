@@ -81393,3 +81393,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0232. 🎨 style: apply consistent indentation
 0650. ✅ test: add unit test for quiz service
+0410. 🎨 style: reformat files with black
