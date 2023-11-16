@@ -52478,3 +52478,4 @@
 0823. ✨ feat: add user authentication
 0833. ✨ feat: add user authentication
 0786. ✨ feat: enable dark mode toggle
+0196. ♻️ chore: bump dependencies
