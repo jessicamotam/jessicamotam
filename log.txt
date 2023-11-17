@@ -45881,3 +45881,4 @@
 0381. ♻️ chore: clean up unused files
 0253. 📚 docs: update README with setup steps
 0060. ♻️ chore: clean up unused files
+0286. ✅ test: mock database connection in test suite
