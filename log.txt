@@ -28719,3 +28719,4 @@
 0355. 🚀 perf: optimize database query for quiz results
 0856. 🐛 fix: fix null pointer exception on login
 0547. 📚 docs: write FAQ section
+0675. 🔧 refactor: organize models into subfolders
