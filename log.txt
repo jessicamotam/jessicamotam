@@ -62791,3 +62791,4 @@
 0440. 📚 docs: update README with setup steps
 0819. 🚀 perf: reduce image load time
 0862. ♻️ chore: bump dependencies
+0574. ✨ feat: enable dark mode toggle
