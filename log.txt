@@ -82360,3 +82360,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0353. ♻️ chore: rename env.example
 0505. ♻️ chore: add GitHub actions badge
+0472. 🐛 fix: fix null pointer exception on login
