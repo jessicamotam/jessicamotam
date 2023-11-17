@@ -81490,3 +81490,4 @@
 0503. ♻️ chore: rename env.example
 0949. 📚 docs: write FAQ section
 0615. 🐛 fix: correct typo in registration form
+0337. 📚 docs: document token refresh logic
