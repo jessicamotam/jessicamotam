@@ -49188,3 +49188,4 @@
 0061. ✨ feat: create admin dashboard
 0120. ✅ test: add integration test for /submit endpoint
 0372. ✨ feat: add user authentication
+0841. 🚀 perf: optimize database query for quiz results
