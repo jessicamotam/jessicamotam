@@ -28670,3 +28670,4 @@
 0786. ✨ feat: enable dark mode toggle
 0428. 🐛 fix: fix null pointer exception on login
 0185. 📚 docs: write FAQ section
+0111. 📚 docs: update README with setup steps
