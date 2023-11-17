@@ -2237,3 +2237,4 @@
 0655. 🚀 perf: cache repeated calculations
 0906. 📚 docs: add API usage examples
 0195. 📚 docs: clarify environment setup
+0940. 📚 docs: document token refresh logic
