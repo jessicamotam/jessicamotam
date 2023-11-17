@@ -24239,3 +24239,4 @@
 0055. 📚 docs: update README with setup steps
 0377. ✨ feat: add user authentication
 0237. 🎨 style: standardize quote style
+0996. ✅ test: test user registration edge cases
