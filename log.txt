@@ -11908,3 +11908,4 @@
 0405. ✅ test: mock database connection in test suite
 0248. 🐛 fix: handle 500 error in quiz API
 0077. ♻️ chore: rename env.example
+0739. 🎨 style: remove trailing whitespace
