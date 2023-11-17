@@ -57497,3 +57497,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0713. 🐛 fix: handle 500 error in quiz API
 0398. 🚀 perf: cache repeated calculations
+0063. 🐛 fix: handle 500 error in quiz API
