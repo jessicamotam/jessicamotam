@@ -65418,3 +65418,4 @@
 0064. 📚 docs: clarify environment setup
 0513. ♻️ chore: bump dependencies
 0565. ♻️ chore: add GitHub actions badge
+0122. ✨ feat: support email verification
