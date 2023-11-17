@@ -78176,3 +78176,4 @@
 0099. 🚀 perf: reduce image load time
 0121. ✨ feat: support email verification
 0477. 🐛 fix: fix broken CSS in mobile view
+0154. 🐛 fix: prevent crash on empty input
