@@ -33147,3 +33147,4 @@
 0438. ♻️ chore: bump dependencies
 0693. 📚 docs: add API usage examples
 0986. 📚 docs: document token refresh logic
+0568. 🐛 fix: handle 500 error in quiz API
