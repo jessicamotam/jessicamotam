@@ -7143,3 +7143,4 @@
 0521. 🎨 style: standardize quote style
 0435. ✅ test: add unit test for quiz service
 0101. 📚 docs: clarify environment setup
+0675. 🔧 refactor: organize models into subfolders
