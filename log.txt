@@ -75793,3 +75793,4 @@
 0665. ♻️ chore: update .gitignore
 0627. 📚 docs: document token refresh logic
 0821. ✅ test: add integration test for /submit endpoint
+0081. 🐛 fix: fix null pointer exception on login
