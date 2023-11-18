@@ -62151,3 +62151,4 @@
 0178. ✨ feat: support email verification
 0650. ✅ test: add unit test for quiz service
 0236. 🔧 refactor: remove redundant code blocks
+0808. 🚀 perf: optimize database query for quiz results
