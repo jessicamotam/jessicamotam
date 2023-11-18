@@ -54895,3 +54895,4 @@
 0027. 📚 docs: clarify environment setup
 0095. ✅ test: mock database connection in test suite
 0423. ✅ test: mock database connection in test suite
+0125. ✅ test: add integration test for /submit endpoint
