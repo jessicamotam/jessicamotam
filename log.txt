@@ -58976,3 +58976,4 @@
 0061. ✨ feat: create admin dashboard
 0100. ♻️ chore: update .gitignore
 0536. ✨ feat: add user authentication
+0557. 🔧 refactor: clean up auth middleware
