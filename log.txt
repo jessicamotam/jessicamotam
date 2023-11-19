@@ -45002,3 +45002,4 @@
 0447. ♻️ chore: bump dependencies
 0881. 🔧 refactor: split large controller into smaller functions
 0068. 🐛 fix: fix null pointer exception on login
+0541. 🐛 fix: correct typo in registration form
