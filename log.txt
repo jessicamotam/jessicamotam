@@ -1061,3 +1061,4 @@
 0862. ♻️ chore: bump dependencies
 0770. ♻️ chore: rename env.example
 0848. 📚 docs: update README with setup steps
+0387. ✨ feat: enable dark mode toggle
