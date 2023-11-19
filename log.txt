@@ -59192,3 +59192,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0985. 📚 docs: document token refresh logic
 0909. 🔧 refactor: organize models into subfolders
+0110. 🐛 fix: prevent crash on empty input
