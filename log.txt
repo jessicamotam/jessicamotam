@@ -84418,3 +84418,4 @@
 0976. ✨ feat: implement quiz timer feature
 0084. 🐛 fix: handle 500 error in quiz API
 0090. ✅ test: increase coverage on auth module
+0391. 🐛 fix: fix null pointer exception on login
