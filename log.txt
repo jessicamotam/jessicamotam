@@ -73484,3 +73484,4 @@
 0003. ✅ test: increase coverage on auth module
 0279. ✨ feat: support email verification
 0966. 📚 docs: improve code comments in utils
+0344. ♻️ chore: add GitHub actions badge
