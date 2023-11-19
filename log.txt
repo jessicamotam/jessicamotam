@@ -44571,3 +44571,4 @@
 0020. ✅ test: add integration test for /submit endpoint
 0668. 🚀 perf: optimize database query for quiz results
 0574. ✨ feat: enable dark mode toggle
+0092. 🚀 perf: reduce image load time
