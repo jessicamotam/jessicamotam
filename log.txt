@@ -8626,3 +8626,4 @@
 0024. 📚 docs: write FAQ section
 0993. ✨ feat: implement quiz timer feature
 0044. ✅ test: add unit test for quiz service
+0629. 🔧 refactor: organize models into subfolders
