@@ -10972,3 +10972,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0045. 🎨 style: apply consistent indentation
 0062. ♻️ chore: update .gitignore
+0536. ✨ feat: add user authentication
