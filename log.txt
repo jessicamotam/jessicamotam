@@ -58347,3 +58347,4 @@
 0151. ✅ test: add unit test for quiz service
 0564. 📚 docs: clarify environment setup
 0306. 🎨 style: apply consistent indentation
+0383. 🐛 fix: fix broken CSS in mobile view
