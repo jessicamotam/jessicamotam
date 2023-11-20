@@ -6365,3 +6365,4 @@
 0189. 📚 docs: clarify environment setup
 0583. ✅ test: increase coverage on auth module
 0077. ♻️ chore: rename env.example
+0297. 🎨 style: remove trailing whitespace
