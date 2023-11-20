@@ -67021,3 +67021,4 @@
 0637. 🎨 style: apply consistent indentation
 0861. ♻️ chore: clean up unused files
 0452. ✨ feat: implement quiz timer feature
+0430. 🐛 fix: fix null pointer exception on login
