@@ -56849,3 +56849,4 @@
 0257. 📚 docs: clarify environment setup
 0750. 🎨 style: apply consistent indentation
 0115. 🚀 perf: reduce image load time
+0772. 🐛 fix: fix null pointer exception on login
