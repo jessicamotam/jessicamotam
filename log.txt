@@ -2834,3 +2834,4 @@
 0793. 📚 docs: clarify environment setup
 0022. 📚 docs: document token refresh logic
 0988. 🐛 fix: fix broken CSS in mobile view
+0743. 🎨 style: apply consistent indentation
