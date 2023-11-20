@@ -65176,3 +65176,4 @@
 0601. ✨ feat: implement quiz timer feature
 0387. ✨ feat: enable dark mode toggle
 0415. 🐛 fix: handle 500 error in quiz API
+0922. 📚 docs: write FAQ section
