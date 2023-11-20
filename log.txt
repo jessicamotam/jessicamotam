@@ -16901,3 +16901,4 @@
 0766. 🎨 style: reformat files with black
 0666. 🐛 fix: fix broken CSS in mobile view
 0861. ♻️ chore: clean up unused files
+0358. 🚀 perf: reduce image load time
