@@ -20935,3 +20935,4 @@
 1000. ✅ test: increase coverage on auth module
 0482. ✨ feat: add export to CSV option
 0993. ✨ feat: implement quiz timer feature
+0723. 🔧 refactor: remove redundant code blocks
