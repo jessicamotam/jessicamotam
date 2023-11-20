@@ -41032,3 +41032,4 @@
 0032. 🎨 style: apply consistent indentation
 0447. ♻️ chore: bump dependencies
 0251. ♻️ chore: update .gitignore
+0040. 🔧 refactor: clean up auth middleware
