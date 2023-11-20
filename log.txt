@@ -79813,3 +79813,4 @@
 0951. 🎨 style: rename variables for clarity
 0883. 📚 docs: improve code comments in utils
 0281. ✨ feat: support email verification
+0393. 🚀 perf: lazy-load components
