@@ -25089,3 +25089,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0895. ✨ feat: support email verification
 0298. ♻️ chore: update .gitignore
+0835. 🐛 fix: prevent crash on empty input
