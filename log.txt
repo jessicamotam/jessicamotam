@@ -9292,3 +9292,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0215. 🎨 style: reformat files with black
 0713. 🐛 fix: handle 500 error in quiz API
+0381. ♻️ chore: clean up unused files
