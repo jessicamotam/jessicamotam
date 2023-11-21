@@ -50656,3 +50656,4 @@
 0906. 📚 docs: add API usage examples
 0228. 🔧 refactor: remove redundant code blocks
 0720. ✨ feat: add export to CSV option
+0187. ✨ feat: support email verification
