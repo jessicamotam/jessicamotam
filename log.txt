@@ -87400,3 +87400,4 @@
 0365. 🚀 perf: reduce image load time
 0942. ✅ test: increase coverage on auth module
 0536. ✨ feat: add user authentication
+0315. ✅ test: add integration test for /submit endpoint
