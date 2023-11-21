@@ -21936,3 +21936,4 @@
 0547. 📚 docs: write FAQ section
 0537. 🔧 refactor: remove redundant code blocks
 0934. ✨ feat: support email verification
+0197. 📚 docs: update README with setup steps
