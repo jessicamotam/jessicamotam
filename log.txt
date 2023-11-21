@@ -34315,3 +34315,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0401. 🚀 perf: reduce image load time
 0629. 🔧 refactor: organize models into subfolders
+0592. 📚 docs: add API usage examples
