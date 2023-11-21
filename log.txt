@@ -20304,3 +20304,4 @@
 0931. 🚀 perf: reduce image load time
 0505. ♻️ chore: add GitHub actions badge
 0641. 📚 docs: write FAQ section
+0231. 🔧 refactor: clean up auth middleware
