@@ -32693,3 +32693,4 @@
 0598. 🔧 refactor: remove redundant code blocks
 0949. 📚 docs: write FAQ section
 0198. 📚 docs: clarify environment setup
+0531. 🐛 fix: prevent crash on empty input
