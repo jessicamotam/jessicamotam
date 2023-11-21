@@ -10958,3 +10958,4 @@
 0345. 📚 docs: document token refresh logic
 0498. ✅ test: mock database connection in test suite
 0855. 🎨 style: reformat files with black
+0072. 🚀 perf: optimize database query for quiz results
