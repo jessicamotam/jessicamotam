@@ -84572,3 +84572,4 @@
 0250. 📚 docs: update README with setup steps
 0382. 📚 docs: improve code comments in utils
 0062. ♻️ chore: update .gitignore
+0678. ✨ feat: add user authentication
