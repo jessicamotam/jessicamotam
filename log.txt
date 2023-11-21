@@ -34146,3 +34146,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0548. 📚 docs: write FAQ section
 0646. ✅ test: test user registration edge cases
+0278. 🔧 refactor: clean up auth middleware
