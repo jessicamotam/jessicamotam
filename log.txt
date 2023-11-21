@@ -35630,3 +35630,4 @@
 0227. ✅ test: test user registration edge cases
 0849. 🐛 fix: correct typo in registration form
 0556. ✨ feat: support email verification
+0589. 🐛 fix: fix broken CSS in mobile view
