@@ -41039,3 +41039,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0499. 🎨 style: reformat files with black
 0779. 🔧 refactor: organize models into subfolders
+0052. 🎨 style: standardize quote style
