@@ -50344,3 +50344,4 @@
 0346. ✅ test: mock database connection in test suite
 0322. 🔧 refactor: split large controller into smaller functions
 0208. 🔧 refactor: clean up auth middleware
+0756. ✨ feat: support email verification
