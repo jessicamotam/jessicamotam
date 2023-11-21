@@ -35440,3 +35440,4 @@
 0335. ♻️ chore: update .gitignore
 0875. ✅ test: increase coverage on auth module
 0450. 🐛 fix: fix broken CSS in mobile view
+0194. 🎨 style: standardize quote style
