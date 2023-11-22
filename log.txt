@@ -2007,3 +2007,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0686. 🎨 style: standardize quote style
 0507. 🔧 refactor: clean up auth middleware
+0148. 🔧 refactor: organize models into subfolders
