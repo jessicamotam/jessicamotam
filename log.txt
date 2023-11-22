@@ -9443,3 +9443,4 @@
 0234. ♻️ chore: rename env.example
 0160. ♻️ chore: bump dependencies
 0624. ✅ test: add unit test for quiz service
+0843. 📚 docs: document token refresh logic
