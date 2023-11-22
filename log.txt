@@ -35573,3 +35573,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0665. ♻️ chore: update .gitignore
 0424. ✨ feat: add user authentication
+0320. 📚 docs: update README with setup steps
