@@ -85580,3 +85580,4 @@
 0801. ✨ feat: enable dark mode toggle
 0774. 🔧 refactor: refactor quiz grading logic
 0524. ♻️ chore: rename env.example
+0157. ✅ test: mock database connection in test suite
