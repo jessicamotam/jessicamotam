@@ -39683,3 +39683,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0870. ♻️ chore: clean up unused files
 0267. 📚 docs: improve code comments in utils
+0571. 🔧 refactor: clean up auth middleware
