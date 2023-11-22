@@ -8349,3 +8349,4 @@
 0273. 🚀 perf: reduce image load time
 0535. 📚 docs: write FAQ section
 0521. 🎨 style: standardize quote style
+0276. ✅ test: add integration test for /submit endpoint
