@@ -54557,3 +54557,4 @@
 0715. ✨ feat: create admin dashboard
 0180. ✨ feat: add export to CSV option
 0111. 📚 docs: update README with setup steps
+0419. 🎨 style: remove trailing whitespace
