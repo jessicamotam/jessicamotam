@@ -60841,3 +60841,4 @@
 0052. 🎨 style: standardize quote style
 0333. 🚀 perf: cache repeated calculations
 0239. 🎨 style: standardize quote style
+0958. 🐛 fix: prevent crash on empty input
