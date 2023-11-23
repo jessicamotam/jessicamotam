@@ -43867,3 +43867,4 @@
 0225. 🚀 perf: reduce image load time
 0450. 🐛 fix: fix broken CSS in mobile view
 0015. ✨ feat: implement quiz timer feature
+0523. ♻️ chore: bump dependencies
