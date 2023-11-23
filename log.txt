@@ -70146,3 +70146,4 @@
 0968. 🎨 style: standardize quote style
 0600. 🐛 fix: prevent crash on empty input
 0479. 🐛 fix: fix null pointer exception on login
+0829. 🔧 refactor: organize models into subfolders
