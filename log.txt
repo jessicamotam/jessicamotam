@@ -21657,3 +21657,4 @@
 0083. 🎨 style: reformat files with black
 0219. ✅ test: increase coverage on auth module
 0432. 🎨 style: apply consistent indentation
+0128. ♻️ chore: rename env.example
