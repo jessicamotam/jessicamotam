@@ -193,3 +193,4 @@
 0100. ♻️ chore: update .gitignore
 0667. ✨ feat: add export to CSV option
 0132. ✅ test: add unit test for quiz service
+0475. 🔧 refactor: clean up auth middleware
