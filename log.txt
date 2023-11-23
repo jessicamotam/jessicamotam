@@ -84047,3 +84047,4 @@
 0131. 📚 docs: write FAQ section
 0684. 🚀 perf: reduce image load time
 0490. ✨ feat: create admin dashboard
+0828. ♻️ chore: add GitHub actions badge
