@@ -23854,3 +23854,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0429. ✨ feat: add user authentication
 0015. ✨ feat: implement quiz timer feature
+0030. 🐛 fix: fix null pointer exception on login
