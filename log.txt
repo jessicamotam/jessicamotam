@@ -82258,3 +82258,4 @@
 0699. 🎨 style: standardize quote style
 0997. ✅ test: increase coverage on auth module
 0094. 📚 docs: document token refresh logic
+0514. 🐛 fix: fix broken CSS in mobile view
