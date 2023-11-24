@@ -10410,3 +10410,4 @@
 0895. ✨ feat: support email verification
 0687. 🎨 style: remove trailing whitespace
 0750. 🎨 style: apply consistent indentation
+0958. 🐛 fix: prevent crash on empty input
