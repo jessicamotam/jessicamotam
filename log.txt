@@ -10065,3 +10065,4 @@
 0028. 🎨 style: standardize quote style
 0455. ♻️ chore: clean up unused files
 0400. 🐛 fix: fix null pointer exception on login
+0460. 📚 docs: write FAQ section
