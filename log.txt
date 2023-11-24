@@ -35327,3 +35327,4 @@
 0644. 🎨 style: apply consistent indentation
 0154. 🐛 fix: prevent crash on empty input
 0606. 📚 docs: improve code comments in utils
+0935. 📚 docs: update README with setup steps
