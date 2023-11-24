@@ -22720,3 +22720,4 @@
 0019. ✨ feat: enable dark mode toggle
 0771. 🚀 perf: cache repeated calculations
 0922. 📚 docs: write FAQ section
+0888. 🚀 perf: lazy-load components
