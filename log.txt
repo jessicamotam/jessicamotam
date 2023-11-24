@@ -18156,3 +18156,4 @@
 0695. ✨ feat: create admin dashboard
 0347. ♻️ chore: update .gitignore
 0597. 🚀 perf: cache repeated calculations
+0793. 📚 docs: clarify environment setup
