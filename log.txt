@@ -60373,3 +60373,4 @@
 0820. 📚 docs: add API usage examples
 0597. 🚀 perf: cache repeated calculations
 0656. 🎨 style: apply consistent indentation
+0006. 🐛 fix: prevent crash on empty input
