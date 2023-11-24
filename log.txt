@@ -3816,3 +3816,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0487. 🎨 style: reformat files with black
 0084. 🐛 fix: handle 500 error in quiz API
+0198. 📚 docs: clarify environment setup
