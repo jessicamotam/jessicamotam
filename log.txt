@@ -58896,3 +58896,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0811. 🎨 style: reformat files with black
 0502. 📚 docs: update README with setup steps
+0316. 🐛 fix: fix broken CSS in mobile view
