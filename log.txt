@@ -19025,3 +19025,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0476. 🚀 perf: reduce image load time
 0471. ✨ feat: support email verification
+0692. ✅ test: add integration test for /submit endpoint
