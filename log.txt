@@ -44620,3 +44620,4 @@
 0388. 🎨 style: reformat files with black
 0078. ♻️ chore: update .gitignore
 0574. ✨ feat: enable dark mode toggle
+0041. 🐛 fix: fix broken CSS in mobile view
