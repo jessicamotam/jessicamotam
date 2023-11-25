@@ -65555,3 +65555,4 @@
 0667. ✨ feat: add export to CSV option
 0978. 🐛 fix: prevent crash on empty input
 0726. ✨ feat: enable dark mode toggle
+0380. 🐛 fix: fix null pointer exception on login
