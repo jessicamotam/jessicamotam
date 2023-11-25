@@ -494,3 +494,4 @@
 0606. 📚 docs: improve code comments in utils
 0977. 🔧 refactor: organize models into subfolders
 0748. 🚀 perf: optimize database query for quiz results
+0030. 🐛 fix: fix null pointer exception on login
