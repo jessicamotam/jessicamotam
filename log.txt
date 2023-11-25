@@ -21482,3 +21482,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0062. ♻️ chore: update .gitignore
 0021. ✨ feat: support email verification
+0628. ♻️ chore: add GitHub actions badge
