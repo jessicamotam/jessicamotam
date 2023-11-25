@@ -14713,3 +14713,4 @@
 0515. 🚀 perf: optimize database query for quiz results
 0884. 📚 docs: clarify environment setup
 0211. 🔧 refactor: remove redundant code blocks
+0552. 🐛 fix: fix null pointer exception on login
