@@ -59152,3 +59152,4 @@
 0330. ✅ test: test user registration edge cases
 0690. 🚀 perf: lazy-load components
 0027. 📚 docs: clarify environment setup
+0251. ♻️ chore: update .gitignore
