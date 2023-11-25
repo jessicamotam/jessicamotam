@@ -20468,3 +20468,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0958. 🐛 fix: prevent crash on empty input
 0370. 🚀 perf: reduce image load time
+0374. 🎨 style: standardize quote style
