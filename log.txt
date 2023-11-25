@@ -7904,3 +7904,4 @@
 0701. 🔧 refactor: clean up auth middleware
 0016. 🎨 style: apply consistent indentation
 0514. 🐛 fix: fix broken CSS in mobile view
+0690. 🚀 perf: lazy-load components
