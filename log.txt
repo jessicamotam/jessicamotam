@@ -46752,3 +46752,4 @@
 0910. 🎨 style: remove trailing whitespace
 0604. 📚 docs: add API usage examples
 0894. ✅ test: add integration test for /submit endpoint
+0556. ✨ feat: support email verification
