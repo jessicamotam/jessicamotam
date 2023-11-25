@@ -68088,3 +68088,4 @@
 0196. ♻️ chore: bump dependencies
 0463. 🚀 perf: reduce image load time
 0565. ♻️ chore: add GitHub actions badge
+0987. ✨ feat: create admin dashboard
