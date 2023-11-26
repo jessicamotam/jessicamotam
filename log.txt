@@ -30003,3 +30003,4 @@
 0755. 🚀 perf: cache repeated calculations
 0001. 🚀 perf: cache repeated calculations
 0178. ✨ feat: support email verification
+0433. 🐛 fix: prevent crash on empty input
