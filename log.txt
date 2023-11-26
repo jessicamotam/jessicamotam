@@ -6748,3 +6748,4 @@
 0212. 🎨 style: standardize quote style
 0471. ✨ feat: support email verification
 0564. 📚 docs: clarify environment setup
+0531. 🐛 fix: prevent crash on empty input
