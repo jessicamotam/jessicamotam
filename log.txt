@@ -73032,3 +73032,4 @@
 0633. ✨ feat: add user authentication
 0257. 📚 docs: clarify environment setup
 0383. 🐛 fix: fix broken CSS in mobile view
+0935. 📚 docs: update README with setup steps
