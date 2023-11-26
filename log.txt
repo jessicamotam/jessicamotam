@@ -10087,3 +10087,4 @@
 0501. ✨ feat: add export to CSV option
 0169. 📚 docs: add API usage examples
 0112. ✨ feat: enable dark mode toggle
+0247. 🎨 style: apply consistent indentation
