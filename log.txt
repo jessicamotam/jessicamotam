@@ -34077,3 +34077,4 @@
 0005. ✅ test: add unit test for quiz service
 0135. ✅ test: test user registration edge cases
 0379. ✨ feat: support email verification
+0856. 🐛 fix: fix null pointer exception on login
