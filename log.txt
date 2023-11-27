@@ -49313,3 +49313,4 @@
 0806. 📚 docs: improve code comments in utils
 0978. 🐛 fix: prevent crash on empty input
 0976. ✨ feat: implement quiz timer feature
+0641. 📚 docs: write FAQ section
