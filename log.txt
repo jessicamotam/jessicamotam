@@ -73625,3 +73625,4 @@
 0217. 🚀 perf: reduce image load time
 0738. 🐛 fix: prevent crash on empty input
 0984. ♻️ chore: clean up unused files
+0097. 🐛 fix: handle 500 error in quiz API
