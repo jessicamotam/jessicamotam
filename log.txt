@@ -48845,3 +48845,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0645. 🐛 fix: resolve issue with date parsing
 0664. ✅ test: add unit test for quiz service
+0219. ✅ test: increase coverage on auth module
