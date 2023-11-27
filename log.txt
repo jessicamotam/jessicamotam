@@ -77521,3 +77521,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0199. ✨ feat: create admin dashboard
 0421. 🔧 refactor: split large controller into smaller functions
+0795. 📚 docs: update README with setup steps
