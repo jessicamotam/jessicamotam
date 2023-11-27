@@ -75835,3 +75835,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0235. 🐛 fix: fix null pointer exception on login
 0186. ✅ test: test user registration edge cases
+0377. ✨ feat: add user authentication
