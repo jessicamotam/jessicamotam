@@ -62099,3 +62099,4 @@
 0253. 📚 docs: update README with setup steps
 0750. 🎨 style: apply consistent indentation
 0614. 🚀 perf: reduce image load time
+0501. ✨ feat: add export to CSV option
