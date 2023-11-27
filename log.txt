@@ -44605,3 +44605,4 @@
 0300. ✨ feat: add export to CSV option
 0324. 📚 docs: document token refresh logic
 0395. 📚 docs: write FAQ section
+0013. ✅ test: increase coverage on auth module
