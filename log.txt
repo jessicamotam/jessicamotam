@@ -2487,3 +2487,4 @@
 0755. 🚀 perf: cache repeated calculations
 0232. 🎨 style: apply consistent indentation
 0458. ✨ feat: create admin dashboard
+0567. 📚 docs: add API usage examples
