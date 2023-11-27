@@ -73129,3 +73129,4 @@
 0669. ✨ feat: enable dark mode toggle
 0910. 🎨 style: remove trailing whitespace
 0773. 📚 docs: document token refresh logic
+0217. 🚀 perf: reduce image load time
