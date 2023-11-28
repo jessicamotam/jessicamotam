@@ -13304,3 +13304,4 @@
 0575. ✅ test: add unit test for quiz service
 0173. 🚀 perf: cache repeated calculations
 0533. ♻️ chore: add GitHub actions badge
+0738. 🐛 fix: prevent crash on empty input
