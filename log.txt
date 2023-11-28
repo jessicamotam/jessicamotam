@@ -12308,3 +12308,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0249. ✅ test: increase coverage on auth module
 0805. ♻️ chore: add GitHub actions badge
+0132. ✅ test: add unit test for quiz service
