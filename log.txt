@@ -87783,3 +87783,4 @@
 0844. 📚 docs: update README with setup steps
 0315. ✅ test: add integration test for /submit endpoint
 0262. 🎨 style: remove trailing whitespace
+0641. 📚 docs: write FAQ section
