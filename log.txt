@@ -47993,3 +47993,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0650. ✅ test: add unit test for quiz service
 0813. 🔧 refactor: organize models into subfolders
+0201. 🔧 refactor: clean up auth middleware
