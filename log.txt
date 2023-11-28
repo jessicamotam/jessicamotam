@@ -5576,3 +5576,4 @@
 0017. ✅ test: mock database connection in test suite
 0004. 🚀 perf: optimize database query for quiz results
 0121. ✨ feat: support email verification
+0613. 🐛 fix: prevent crash on empty input
