@@ -6284,3 +6284,4 @@
 0995. ✅ test: mock database connection in test suite
 0271. ✅ test: add unit test for quiz service
 0836. 🚀 perf: optimize database query for quiz results
+0435. ✅ test: add unit test for quiz service
