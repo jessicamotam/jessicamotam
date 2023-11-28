@@ -13117,3 +13117,4 @@
 0045. 🎨 style: apply consistent indentation
 0865. ♻️ chore: add GitHub actions badge
 0993. ✨ feat: implement quiz timer feature
+0754. 🐛 fix: handle 500 error in quiz API
