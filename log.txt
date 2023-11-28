@@ -62396,3 +62396,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0387. ✨ feat: enable dark mode toggle
 0876. ♻️ chore: rename env.example
+0239. 🎨 style: standardize quote style
