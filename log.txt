@@ -17252,3 +17252,4 @@
 0834. ✅ test: increase coverage on auth module
 0382. 📚 docs: improve code comments in utils
 0646. ✅ test: test user registration edge cases
+0731. 🎨 style: standardize quote style
