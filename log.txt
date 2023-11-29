@@ -75025,3 +75025,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0994. 🚀 perf: reduce image load time
 0786. ✨ feat: enable dark mode toggle
+0383. 🐛 fix: fix broken CSS in mobile view
