@@ -80033,3 +80033,4 @@
 0547. 📚 docs: write FAQ section
 0070. ✨ feat: implement quiz timer feature
 0063. 🐛 fix: handle 500 error in quiz API
+0426. ✅ test: add integration test for /submit endpoint
