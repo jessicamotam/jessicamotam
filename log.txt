@@ -77880,3 +77880,4 @@
 0354. 📚 docs: add API usage examples
 0354. 📚 docs: add API usage examples
 0543. ✨ feat: support email verification
+0373. 📚 docs: document token refresh logic
