@@ -47149,3 +47149,4 @@
 0990. ♻️ chore: rename env.example
 0781. 🚀 perf: reduce image load time
 0026. 🔧 refactor: clean up auth middleware
+0265. 🎨 style: reformat files with black
