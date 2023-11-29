@@ -32876,3 +32876,4 @@
 0985. 📚 docs: document token refresh logic
 0732. ♻️ chore: add GitHub actions badge
 0157. ✅ test: mock database connection in test suite
+0187. ✨ feat: support email verification
