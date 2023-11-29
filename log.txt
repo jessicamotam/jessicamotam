@@ -30971,3 +30971,4 @@
 0487. 🎨 style: reformat files with black
 0114. ♻️ chore: update .gitignore
 0768. 🎨 style: remove trailing whitespace
+0803. ✅ test: mock database connection in test suite
