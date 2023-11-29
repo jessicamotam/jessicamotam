@@ -8174,3 +8174,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0782. 📚 docs: improve code comments in utils
 0216. 🎨 style: rename variables for clarity
+0485. 📚 docs: update README with setup steps
