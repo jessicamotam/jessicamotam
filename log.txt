@@ -25101,3 +25101,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0010. ✨ feat: add user authentication
 0859. ✨ feat: create admin dashboard
+0003. ✅ test: increase coverage on auth module
