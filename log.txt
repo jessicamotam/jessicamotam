@@ -67451,3 +67451,4 @@
 0869. ♻️ chore: bump dependencies
 0269. ✅ test: test user registration edge cases
 0916. ♻️ chore: bump dependencies
+0879. 🎨 style: standardize quote style
