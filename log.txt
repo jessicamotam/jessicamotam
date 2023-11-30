@@ -76695,3 +76695,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0960. ✅ test: increase coverage on auth module
 0062. ♻️ chore: update .gitignore
+0352. ✨ feat: add export to CSV option
