@@ -74206,3 +74206,4 @@
 0405. ✅ test: mock database connection in test suite
 0656. 🎨 style: apply consistent indentation
 0290. ✅ test: test user registration edge cases
+0369. 🎨 style: standardize quote style
