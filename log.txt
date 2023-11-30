@@ -8297,3 +8297,4 @@
 0167. 🚀 perf: reduce image load time
 0862. ♻️ chore: bump dependencies
 0930. 🎨 style: apply consistent indentation
+0488. ♻️ chore: add GitHub actions badge
