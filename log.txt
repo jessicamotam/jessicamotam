@@ -34107,3 +34107,4 @@
 0330. ✅ test: test user registration edge cases
 0711. 🐛 fix: fix broken CSS in mobile view
 0751. 🐛 fix: handle 500 error in quiz API
+0128. ♻️ chore: rename env.example
