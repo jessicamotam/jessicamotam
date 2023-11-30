@@ -84228,3 +84228,4 @@
 0638. 📚 docs: improve code comments in utils
 0555. ✨ feat: create admin dashboard
 0715. ✨ feat: create admin dashboard
+0235. 🐛 fix: fix null pointer exception on login
