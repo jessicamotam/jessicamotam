@@ -76589,3 +76589,4 @@
 0831. 📚 docs: clarify environment setup
 0837. 🚀 perf: cache repeated calculations
 0880. 🐛 fix: fix broken CSS in mobile view
+0663. 🚀 perf: reduce image load time
