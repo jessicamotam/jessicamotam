@@ -86812,3 +86812,4 @@
 0455. ♻️ chore: clean up unused files
 0586. 🎨 style: remove trailing whitespace
 0275. 🎨 style: standardize quote style
+0556. ✨ feat: support email verification
