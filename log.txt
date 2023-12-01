@@ -57225,3 +57225,4 @@
 0720. ✨ feat: add export to CSV option
 0488. ♻️ chore: add GitHub actions badge
 0272. 🔧 refactor: remove redundant code blocks
+0668. 🚀 perf: optimize database query for quiz results
