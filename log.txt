@@ -26377,3 +26377,4 @@
 0135. ✅ test: test user registration edge cases
 0774. 🔧 refactor: refactor quiz grading logic
 0737. 🐛 fix: handle 500 error in quiz API
+0308. 🚀 perf: reduce image load time
