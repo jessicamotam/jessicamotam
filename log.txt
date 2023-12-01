@@ -75979,3 +75979,4 @@
 0482. ✨ feat: add export to CSV option
 0428. 🐛 fix: fix null pointer exception on login
 0825. 🔧 refactor: split large controller into smaller functions
+0947. 📚 docs: write FAQ section
