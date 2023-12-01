@@ -66801,3 +66801,4 @@
 0574. ✨ feat: enable dark mode toggle
 0348. ✅ test: test user registration edge cases
 0357. ✅ test: add unit test for quiz service
+0037. 🐛 fix: correct typo in registration form
