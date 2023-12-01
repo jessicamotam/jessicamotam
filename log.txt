@@ -62983,3 +62983,4 @@
 0722. 📚 docs: add API usage examples
 0160. ♻️ chore: bump dependencies
 0932. ✅ test: add integration test for /submit endpoint
+0380. 🐛 fix: fix null pointer exception on login
