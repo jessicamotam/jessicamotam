@@ -19349,3 +19349,4 @@
 0852. ✨ feat: enable dark mode toggle
 0303. 🎨 style: rename variables for clarity
 0764. ✨ feat: add user authentication
+0122. ✨ feat: support email verification
