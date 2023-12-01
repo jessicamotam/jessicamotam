@@ -13745,3 +13745,4 @@
 0332. 🎨 style: standardize quote style
 0419. 🎨 style: remove trailing whitespace
 0586. 🎨 style: remove trailing whitespace
+0734. ✨ feat: add export to CSV option
