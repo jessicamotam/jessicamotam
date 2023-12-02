@@ -16854,3 +16854,4 @@
 0965. 🎨 style: reformat files with black
 0256. ✅ test: mock database connection in test suite
 0186. ✅ test: test user registration edge cases
+0626. 🎨 style: standardize quote style
