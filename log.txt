@@ -90393,3 +90393,4 @@
 0521. 🎨 style: standardize quote style
 0978. 🐛 fix: prevent crash on empty input
 0353. ♻️ chore: rename env.example
+0296. 🔧 refactor: organize models into subfolders
