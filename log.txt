@@ -4470,3 +4470,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0186. ✅ test: test user registration edge cases
 0754. 🐛 fix: handle 500 error in quiz API
+0787. ♻️ chore: rename env.example
