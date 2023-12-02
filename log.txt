@@ -89900,3 +89900,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0209. ✨ feat: implement quiz timer feature
 0890. 🔧 refactor: organize models into subfolders
+0368. 🚀 perf: lazy-load components
