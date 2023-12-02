@@ -32918,3 +32918,4 @@
 0502. 📚 docs: update README with setup steps
 0323. 📚 docs: clarify environment setup
 0128. ♻️ chore: rename env.example
+0292. 📚 docs: clarify environment setup
