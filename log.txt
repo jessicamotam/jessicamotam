@@ -87903,3 +87903,4 @@
 0869. ♻️ chore: bump dependencies
 0774. 🔧 refactor: refactor quiz grading logic
 0497. 🔧 refactor: refactor quiz grading logic
+0231. 🔧 refactor: clean up auth middleware
