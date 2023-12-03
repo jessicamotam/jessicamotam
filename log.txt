@@ -44154,3 +44154,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0930. 🎨 style: apply consistent indentation
 0296. 🔧 refactor: organize models into subfolders
+0792. 🎨 style: standardize quote style
