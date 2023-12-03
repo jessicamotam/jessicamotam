@@ -63286,3 +63286,4 @@
 0095. ✅ test: mock database connection in test suite
 0473. 📚 docs: write FAQ section
 0561. 📚 docs: write FAQ section
+0053. ✅ test: increase coverage on auth module
