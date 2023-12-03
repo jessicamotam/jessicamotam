@@ -29349,3 +29349,4 @@
 0747. 🔧 refactor: clean up auth middleware
 0789. ✨ feat: create admin dashboard
 0971. 🎨 style: standardize quote style
+0880. 🐛 fix: fix broken CSS in mobile view
