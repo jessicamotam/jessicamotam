@@ -64477,3 +64477,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0798. 🚀 perf: reduce image load time
 0170. ✅ test: increase coverage on auth module
+0982. 🚀 perf: lazy-load components
