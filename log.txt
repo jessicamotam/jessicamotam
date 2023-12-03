@@ -12529,3 +12529,4 @@
 0349. ✅ test: increase coverage on auth module
 0318. 🔧 refactor: refactor quiz grading logic
 0524. ♻️ chore: rename env.example
+0356. 📚 docs: write FAQ section
