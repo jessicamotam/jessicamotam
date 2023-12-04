@@ -6874,3 +6874,4 @@
 0060. ♻️ chore: clean up unused files
 0250. 📚 docs: update README with setup steps
 0966. 📚 docs: improve code comments in utils
+0898. 🐛 fix: fix broken CSS in mobile view
