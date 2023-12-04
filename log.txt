@@ -11117,3 +11117,4 @@
 0108. 🎨 style: remove trailing whitespace
 0566. 📚 docs: write FAQ section
 0396. 🔧 refactor: split large controller into smaller functions
+0963. 🚀 perf: reduce image load time
