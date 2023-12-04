@@ -48813,3 +48813,4 @@
 0395. 📚 docs: write FAQ section
 0767. 🔧 refactor: remove redundant code blocks
 0570. 🎨 style: apply consistent indentation
+0503. ♻️ chore: rename env.example
