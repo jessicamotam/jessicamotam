@@ -53978,3 +53978,4 @@
 0145. 📚 docs: improve code comments in utils
 0919. 🚀 perf: optimize database query for quiz results
 0271. ✅ test: add unit test for quiz service
+0934. ✨ feat: support email verification
