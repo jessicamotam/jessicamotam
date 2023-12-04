@@ -36655,3 +36655,4 @@
 0803. ✅ test: mock database connection in test suite
 0805. ♻️ chore: add GitHub actions badge
 0864. 🐛 fix: correct typo in registration form
+0026. 🔧 refactor: clean up auth middleware
