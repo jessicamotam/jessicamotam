@@ -5486,3 +5486,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0553. 🐛 fix: correct typo in registration form
 0344. ♻️ chore: add GitHub actions badge
+0688. 🚀 perf: reduce image load time
