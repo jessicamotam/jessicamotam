@@ -18601,3 +18601,4 @@
 0345. 📚 docs: document token refresh logic
 0506. 🐛 fix: handle 500 error in quiz API
 0622. 🎨 style: apply consistent indentation
+0621. 🔧 refactor: clean up auth middleware
