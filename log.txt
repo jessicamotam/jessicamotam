@@ -63175,3 +63175,4 @@
 0777. 📚 docs: document token refresh logic
 0685. ✅ test: test user registration edge cases
 0174. 📚 docs: clarify environment setup
+0256. ✅ test: mock database connection in test suite
