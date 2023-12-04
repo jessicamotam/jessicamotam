@@ -82548,3 +82548,4 @@
 0944. ✨ feat: add user authentication
 0633. ✨ feat: add user authentication
 0418. ✅ test: mock database connection in test suite
+0116. ✨ feat: support email verification
