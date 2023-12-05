@@ -88688,3 +88688,4 @@
 0692. ✅ test: add integration test for /submit endpoint
 0108. 🎨 style: remove trailing whitespace
 0799. ♻️ chore: clean up unused files
+0235. 🐛 fix: fix null pointer exception on login
