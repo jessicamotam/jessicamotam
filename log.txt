@@ -53079,3 +53079,4 @@
 0104. 🎨 style: apply consistent indentation
 0130. 🔧 refactor: split large controller into smaller functions
 0153. ♻️ chore: rename env.example
+0738. 🐛 fix: prevent crash on empty input
