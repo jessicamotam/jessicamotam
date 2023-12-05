@@ -39784,3 +39784,4 @@
 0502. 📚 docs: update README with setup steps
 0984. ♻️ chore: clean up unused files
 0615. 🐛 fix: correct typo in registration form
+0838. 🎨 style: standardize quote style
