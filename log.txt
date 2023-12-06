@@ -73612,3 +73612,4 @@
 0027. 📚 docs: clarify environment setup
 0919. 🚀 perf: optimize database query for quiz results
 0023. 📚 docs: clarify environment setup
+0281. ✨ feat: support email verification
