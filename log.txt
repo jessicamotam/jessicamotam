@@ -12811,3 +12811,4 @@
 0122. ✨ feat: support email verification
 0707. 🎨 style: apply consistent indentation
 0139. 📚 docs: document token refresh logic
+0956. 📚 docs: clarify environment setup
