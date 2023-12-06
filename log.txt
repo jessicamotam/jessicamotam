@@ -32607,3 +32607,4 @@
 0639. 🐛 fix: correct typo in registration form
 0720. ✨ feat: add export to CSV option
 0768. 🎨 style: remove trailing whitespace
+0676. 🐛 fix: prevent crash on empty input
