@@ -31330,3 +31330,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0143. ✨ feat: implement quiz timer feature
 0560. 🎨 style: rename variables for clarity
+0460. 📚 docs: write FAQ section
