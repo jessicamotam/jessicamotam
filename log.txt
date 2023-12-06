@@ -5741,3 +5741,4 @@
 0788. 📚 docs: add API usage examples
 0653. 🐛 fix: prevent crash on empty input
 0227. ✅ test: test user registration edge cases
+0646. ✅ test: test user registration edge cases
