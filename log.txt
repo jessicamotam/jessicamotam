@@ -32770,3 +32770,4 @@
 0862. ♻️ chore: bump dependencies
 0747. 🔧 refactor: clean up auth middleware
 0189. 📚 docs: clarify environment setup
+0339. 📚 docs: update README with setup steps
