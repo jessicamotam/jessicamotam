@@ -47693,3 +47693,4 @@
 0029. 🚀 perf: lazy-load components
 0627. 📚 docs: document token refresh logic
 0106. 🎨 style: reformat files with black
+0278. 🔧 refactor: clean up auth middleware
