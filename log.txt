@@ -22684,3 +22684,4 @@
 0640. ♻️ chore: bump dependencies
 0956. 📚 docs: clarify environment setup
 0801. ✨ feat: enable dark mode toggle
+0613. 🐛 fix: prevent crash on empty input
