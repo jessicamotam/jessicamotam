@@ -58908,3 +58908,4 @@
 0116. ✨ feat: support email verification
 0437. 📚 docs: clarify environment setup
 0361. ✨ feat: support email verification
+0779. 🔧 refactor: organize models into subfolders
