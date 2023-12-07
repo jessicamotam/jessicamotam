@@ -74385,3 +74385,4 @@
 0543. ✨ feat: support email verification
 0553. 🐛 fix: correct typo in registration form
 0308. 🚀 perf: reduce image load time
+0793. 📚 docs: clarify environment setup
