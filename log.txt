@@ -43357,3 +43357,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0622. 🎨 style: apply consistent indentation
 0580. ♻️ chore: bump dependencies
+0156. 🎨 style: rename variables for clarity
