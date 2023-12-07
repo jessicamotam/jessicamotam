@@ -16115,3 +16115,4 @@
 0275. 🎨 style: standardize quote style
 0889. 🚀 perf: lazy-load components
 0219. ✅ test: increase coverage on auth module
+0251. ♻️ chore: update .gitignore
