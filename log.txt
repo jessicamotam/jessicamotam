@@ -89926,3 +89926,4 @@
 0448. 🐛 fix: correct typo in registration form
 0921. 🐛 fix: correct typo in registration form
 0774. 🔧 refactor: refactor quiz grading logic
+0547. 📚 docs: write FAQ section
