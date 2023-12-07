@@ -24556,3 +24556,4 @@
 0555. ✨ feat: create admin dashboard
 0911. ✅ test: increase coverage on auth module
 0570. 🎨 style: apply consistent indentation
+0741. 🎨 style: apply consistent indentation
