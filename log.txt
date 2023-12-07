@@ -36435,3 +36435,4 @@
 0837. 🚀 perf: cache repeated calculations
 0999. 🔧 refactor: split large controller into smaller functions
 0738. 🐛 fix: prevent crash on empty input
+0251. ♻️ chore: update .gitignore
