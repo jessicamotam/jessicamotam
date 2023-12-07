@@ -29494,3 +29494,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0065. ✅ test: add integration test for /submit endpoint
 0253. 📚 docs: update README with setup steps
+0998. 🐛 fix: fix null pointer exception on login
