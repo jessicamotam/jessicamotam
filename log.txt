@@ -50653,3 +50653,4 @@
 0205. 📚 docs: update README with setup steps
 0022. 📚 docs: document token refresh logic
 0032. 🎨 style: apply consistent indentation
+0906. 📚 docs: add API usage examples
