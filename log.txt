@@ -7790,3 +7790,4 @@
 0778. 📚 docs: write FAQ section
 0654. ✨ feat: create admin dashboard
 0723. 🔧 refactor: remove redundant code blocks
+0205. 📚 docs: update README with setup steps
