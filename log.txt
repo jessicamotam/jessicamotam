@@ -64407,3 +64407,4 @@
 0219. ✅ test: increase coverage on auth module
 0848. 📚 docs: update README with setup steps
 0221. ✨ feat: add user authentication
+0893. 🐛 fix: handle 500 error in quiz API
