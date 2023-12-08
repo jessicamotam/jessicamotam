@@ -79335,3 +79335,4 @@
 0644. 🎨 style: apply consistent indentation
 0743. 🎨 style: apply consistent indentation
 0463. 🚀 perf: reduce image load time
+0834. ✅ test: increase coverage on auth module
