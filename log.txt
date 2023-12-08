@@ -57947,3 +57947,4 @@
 0426. ✅ test: add integration test for /submit endpoint
 0542. 🔧 refactor: organize models into subfolders
 0745. ✅ test: add unit test for quiz service
+0475. 🔧 refactor: clean up auth middleware
