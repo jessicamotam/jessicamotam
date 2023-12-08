@@ -21876,3 +21876,4 @@
 0203. 🚀 perf: lazy-load components
 0799. ♻️ chore: clean up unused files
 0985. 📚 docs: document token refresh logic
+0609. 🐛 fix: handle 500 error in quiz API
