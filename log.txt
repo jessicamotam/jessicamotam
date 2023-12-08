@@ -66298,3 +66298,4 @@
 0423. ✅ test: mock database connection in test suite
 0117. ✅ test: increase coverage on auth module
 0030. 🐛 fix: fix null pointer exception on login
+0223. 🔧 refactor: remove redundant code blocks
