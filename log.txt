@@ -56649,3 +56649,4 @@
 0843. 📚 docs: document token refresh logic
 0054. ♻️ chore: update .gitignore
 0254. 🚀 perf: reduce image load time
+0873. 🚀 perf: cache repeated calculations
