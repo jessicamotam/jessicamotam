@@ -39140,3 +39140,4 @@
 0005. ✅ test: add unit test for quiz service
 0402. 🎨 style: reformat files with black
 0499. 🎨 style: reformat files with black
+0075. ✅ test: mock database connection in test suite
