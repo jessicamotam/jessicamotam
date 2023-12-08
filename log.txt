@@ -45005,3 +45005,4 @@
 0541. 🐛 fix: correct typo in registration form
 0437. 📚 docs: clarify environment setup
 0038. 🎨 style: rename variables for clarity
+0538. 🐛 fix: fix broken CSS in mobile view
