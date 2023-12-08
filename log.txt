@@ -9545,3 +9545,4 @@
 0160. ♻️ chore: bump dependencies
 0661. ✅ test: add integration test for /submit endpoint
 0949. 📚 docs: write FAQ section
+0621. 🔧 refactor: clean up auth middleware
