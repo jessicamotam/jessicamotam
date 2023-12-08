@@ -23040,3 +23040,4 @@
 0692. ✅ test: add integration test for /submit endpoint
 0402. 🎨 style: reformat files with black
 0464. 🎨 style: remove trailing whitespace
+0994. 🚀 perf: reduce image load time
