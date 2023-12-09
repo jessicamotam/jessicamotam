@@ -57231,3 +57231,4 @@
 0933. 📚 docs: clarify environment setup
 0451. ✨ feat: support email verification
 0053. ✅ test: increase coverage on auth module
+0194. 🎨 style: standardize quote style
