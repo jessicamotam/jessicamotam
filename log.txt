@@ -37514,3 +37514,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0643. 🎨 style: apply consistent indentation
 0697. ♻️ chore: bump dependencies
+0831. 📚 docs: clarify environment setup
