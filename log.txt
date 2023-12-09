@@ -23149,3 +23149,4 @@
 0790. 📚 docs: write FAQ section
 0390. 🎨 style: standardize quote style
 0745. ✅ test: add unit test for quiz service
+0851. ✅ test: mock database connection in test suite
