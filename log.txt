@@ -22268,3 +22268,4 @@
 0381. ♻️ chore: clean up unused files
 0509. ♻️ chore: bump dependencies
 0793. 📚 docs: clarify environment setup
+0021. ✨ feat: support email verification
