@@ -73478,3 +73478,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0454. ♻️ chore: bump dependencies
 0561. 📚 docs: write FAQ section
+0440. 📚 docs: update README with setup steps
