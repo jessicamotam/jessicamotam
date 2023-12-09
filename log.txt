@@ -87755,3 +87755,4 @@
 0661. ✅ test: add integration test for /submit endpoint
 0828. ♻️ chore: add GitHub actions badge
 0341. 🚀 perf: lazy-load components
+0390. 🎨 style: standardize quote style
