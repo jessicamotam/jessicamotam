@@ -34848,3 +34848,4 @@
 0764. ✨ feat: add user authentication
 0635. 🎨 style: apply consistent indentation
 0504. 📚 docs: document token refresh logic
+0491. 🚀 perf: lazy-load components
