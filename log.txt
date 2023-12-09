@@ -66546,3 +66546,4 @@
 0263. 📚 docs: add API usage examples
 0884. 📚 docs: clarify environment setup
 0650. ✅ test: add unit test for quiz service
+0144. ✅ test: increase coverage on auth module
