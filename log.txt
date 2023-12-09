@@ -2471,3 +2471,4 @@
 0166. 🚀 perf: cache repeated calculations
 0543. ✨ feat: support email verification
 0008. 🚀 perf: reduce image load time
+0932. ✅ test: add integration test for /submit endpoint
