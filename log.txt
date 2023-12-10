@@ -85454,3 +85454,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0393. 🚀 perf: lazy-load components
 0132. ✅ test: add unit test for quiz service
+0370. 🚀 perf: reduce image load time
