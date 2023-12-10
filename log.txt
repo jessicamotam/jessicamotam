@@ -6009,3 +6009,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0905. ♻️ chore: bump dependencies
 0473. 📚 docs: write FAQ section
+0902. ✨ feat: enable dark mode toggle
