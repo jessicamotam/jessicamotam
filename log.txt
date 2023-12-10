@@ -25751,3 +25751,4 @@
 0253. 📚 docs: update README with setup steps
 0026. 🔧 refactor: clean up auth middleware
 0753. 🔧 refactor: remove redundant code blocks
+0898. 🐛 fix: fix broken CSS in mobile view
