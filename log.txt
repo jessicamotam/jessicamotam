@@ -1939,3 +1939,4 @@
 0291. 📚 docs: write FAQ section
 0828. ♻️ chore: add GitHub actions badge
 0241. 📚 docs: add API usage examples
+0935. 📚 docs: update README with setup steps
