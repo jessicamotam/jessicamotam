@@ -2850,3 +2850,4 @@
 0842. 🎨 style: remove trailing whitespace
 0716. ✨ feat: implement quiz timer feature
 0720. ✨ feat: add export to CSV option
+0678. ✨ feat: add user authentication
