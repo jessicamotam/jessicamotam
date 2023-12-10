@@ -14525,3 +14525,4 @@
 0518. ✨ feat: support email verification
 0447. ♻️ chore: bump dependencies
 0667. ✨ feat: add export to CSV option
+0072. 🚀 perf: optimize database query for quiz results
