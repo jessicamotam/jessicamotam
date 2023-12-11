@@ -4253,3 +4253,4 @@
 0059. ♻️ chore: bump dependencies
 0997. ✅ test: increase coverage on auth module
 0379. ✨ feat: support email verification
+0146. 🎨 style: apply consistent indentation
