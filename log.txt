@@ -73933,3 +73933,4 @@
 0126. 🎨 style: rename variables for clarity
 0998. 🐛 fix: fix null pointer exception on login
 0556. ✨ feat: support email verification
+0524. ♻️ chore: rename env.example
