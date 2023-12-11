@@ -19351,3 +19351,4 @@
 0764. ✨ feat: add user authentication
 0122. ✨ feat: support email verification
 0905. ♻️ chore: bump dependencies
+0227. ✅ test: test user registration edge cases
