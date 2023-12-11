@@ -78661,3 +78661,4 @@
 0617. ✨ feat: support email verification
 0209. ✨ feat: implement quiz timer feature
 0514. 🐛 fix: fix broken CSS in mobile view
+0571. 🔧 refactor: clean up auth middleware
