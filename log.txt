@@ -90710,3 +90710,4 @@
 0318. 🔧 refactor: refactor quiz grading logic
 0219. ✅ test: increase coverage on auth module
 0551. 📚 docs: write FAQ section
+0424. ✨ feat: add user authentication
