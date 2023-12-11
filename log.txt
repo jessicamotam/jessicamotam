@@ -29782,3 +29782,4 @@
 0928. 🎨 style: apply consistent indentation
 0699. 🎨 style: standardize quote style
 0451. ✨ feat: support email verification
+0026. 🔧 refactor: clean up auth middleware
