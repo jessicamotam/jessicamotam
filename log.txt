@@ -12871,3 +12871,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0722. 📚 docs: add API usage examples
 0725. 🚀 perf: lazy-load components
+0107. 🐛 fix: prevent crash on empty input
