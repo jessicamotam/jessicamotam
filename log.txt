@@ -52277,3 +52277,4 @@
 0256. ✅ test: mock database connection in test suite
 0181. ♻️ chore: add GitHub actions badge
 0275. 🎨 style: standardize quote style
+0066. 🔧 refactor: clean up auth middleware
