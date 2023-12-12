@@ -1783,3 +1783,4 @@
 0356. 📚 docs: write FAQ section
 0013. ✅ test: increase coverage on auth module
 0001. 🚀 perf: cache repeated calculations
+0269. ✅ test: test user registration edge cases
