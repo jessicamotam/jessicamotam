@@ -49311,3 +49311,4 @@
 0250. 📚 docs: update README with setup steps
 0034. 📚 docs: improve code comments in utils
 0806. 📚 docs: improve code comments in utils
+0978. 🐛 fix: prevent crash on empty input
