@@ -34371,3 +34371,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0865. ♻️ chore: add GitHub actions badge
 0429. ✨ feat: add user authentication
+0721. 🚀 perf: optimize database query for quiz results
