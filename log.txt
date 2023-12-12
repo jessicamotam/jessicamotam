@@ -43560,3 +43560,4 @@
 0314. ✨ feat: implement quiz timer feature
 0204. 🎨 style: standardize quote style
 0315. ✅ test: add integration test for /submit endpoint
+1000. ✅ test: increase coverage on auth module
