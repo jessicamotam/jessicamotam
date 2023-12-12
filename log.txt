@@ -4883,3 +4883,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0798. 🚀 perf: reduce image load time
 0175. 📚 docs: add API usage examples
+0613. 🐛 fix: prevent crash on empty input
