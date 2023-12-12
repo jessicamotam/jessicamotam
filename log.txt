@@ -84135,3 +84135,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0222. 🐛 fix: handle 500 error in quiz API
 0222. 🐛 fix: handle 500 error in quiz API
+0294. 🐛 fix: prevent crash on empty input
