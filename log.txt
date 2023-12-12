@@ -23264,3 +23264,4 @@
 0385. ♻️ chore: clean up unused files
 0407. 🚀 perf: cache repeated calculations
 0774. 🔧 refactor: refactor quiz grading logic
+0607. 🐛 fix: prevent crash on empty input
