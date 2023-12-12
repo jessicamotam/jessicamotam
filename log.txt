@@ -73180,3 +73180,4 @@
 0230. ✨ feat: create admin dashboard
 0576. ♻️ chore: update .gitignore
 0215. 🎨 style: reformat files with black
+0739. 🎨 style: remove trailing whitespace
