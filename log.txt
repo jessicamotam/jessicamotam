@@ -41994,3 +41994,4 @@
 0495. 🔧 refactor: remove redundant code blocks
 0733. 🐛 fix: fix null pointer exception on login
 0351. ✨ feat: add export to CSV option
+0250. 📚 docs: update README with setup steps
