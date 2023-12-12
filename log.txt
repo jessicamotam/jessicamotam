@@ -39699,3 +39699,4 @@
 0990. ♻️ chore: rename env.example
 0630. 🚀 perf: lazy-load components
 0419. 🎨 style: remove trailing whitespace
+0372. ✨ feat: add user authentication
