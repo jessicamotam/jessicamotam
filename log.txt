@@ -24333,3 +24333,4 @@
 0370. 🚀 perf: reduce image load time
 0111. 📚 docs: update README with setup steps
 0166. 🚀 perf: cache repeated calculations
+0195. 📚 docs: clarify environment setup
