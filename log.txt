@@ -21484,3 +21484,4 @@
 0021. ✨ feat: support email verification
 0628. ♻️ chore: add GitHub actions badge
 0534. 🔧 refactor: split large controller into smaller functions
+0614. 🚀 perf: reduce image load time
