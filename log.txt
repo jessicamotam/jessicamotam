@@ -52812,3 +52812,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0603. 🐛 fix: fix broken CSS in mobile view
 0977. 🔧 refactor: organize models into subfolders
+0028. 🎨 style: standardize quote style
