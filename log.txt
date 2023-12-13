@@ -10433,3 +10433,4 @@
 0846. ✨ feat: implement quiz timer feature
 0722. 📚 docs: add API usage examples
 0036. 🔧 refactor: clean up auth middleware
+0599. ✅ test: test user registration edge cases
