@@ -79224,3 +79224,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0429. ✨ feat: add user authentication
 0144. ✅ test: increase coverage on auth module
+0997. ✅ test: increase coverage on auth module
