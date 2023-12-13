@@ -7838,3 +7838,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0671. 🐛 fix: fix null pointer exception on login
 0242. ♻️ chore: clean up unused files
+0395. 📚 docs: write FAQ section
