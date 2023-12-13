@@ -17193,3 +17193,4 @@
 0557. 🔧 refactor: clean up auth middleware
 0252. 🎨 style: remove trailing whitespace
 0523. ♻️ chore: bump dependencies
+0947. 📚 docs: write FAQ section
