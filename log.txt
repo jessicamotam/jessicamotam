@@ -63569,3 +63569,4 @@
 0241. 📚 docs: add API usage examples
 0479. 🐛 fix: fix null pointer exception on login
 0758. 🚀 perf: optimize database query for quiz results
+0115. 🚀 perf: reduce image load time
