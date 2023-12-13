@@ -789,3 +789,4 @@
 0706. ✨ feat: support email verification
 0221. ✨ feat: add user authentication
 0664. ✅ test: add unit test for quiz service
+0646. ✅ test: test user registration edge cases
