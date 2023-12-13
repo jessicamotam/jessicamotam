@@ -62499,3 +62499,4 @@
 0369. 🎨 style: standardize quote style
 0487. 🎨 style: reformat files with black
 0144. ✅ test: increase coverage on auth module
+0876. ♻️ chore: rename env.example
