@@ -3714,3 +3714,4 @@
 0859. ✨ feat: create admin dashboard
 0051. ✨ feat: enable dark mode toggle
 0161. ✨ feat: create admin dashboard
+0616. 🚀 perf: lazy-load components
