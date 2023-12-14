@@ -50525,3 +50525,4 @@
 0768. 🎨 style: remove trailing whitespace
 0214. 📚 docs: improve code comments in utils
 0750. 🎨 style: apply consistent indentation
+0636. ✅ test: increase coverage on auth module
