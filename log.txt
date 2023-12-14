@@ -41513,3 +41513,4 @@
 0706. ✨ feat: support email verification
 0045. 🎨 style: apply consistent indentation
 0431. 🎨 style: reformat files with black
+0024. 📚 docs: write FAQ section
