@@ -72582,3 +72582,4 @@
 0914. ✅ test: test user registration edge cases
 0598. 🔧 refactor: remove redundant code blocks
 0520. 🐛 fix: fix null pointer exception on login
+0566. 📚 docs: write FAQ section
