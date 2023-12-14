@@ -34041,3 +34041,4 @@
 0780. 📚 docs: add API usage examples
 0406. ✨ feat: add export to CSV option
 0567. 📚 docs: add API usage examples
+0480. ♻️ chore: add GitHub actions badge
