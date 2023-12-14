@@ -36338,3 +36338,4 @@
 0545. 🎨 style: standardize quote style
 0252. 🎨 style: remove trailing whitespace
 0939. 📚 docs: update README with setup steps
+0369. 🎨 style: standardize quote style
