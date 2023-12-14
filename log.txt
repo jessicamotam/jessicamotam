@@ -69138,3 +69138,4 @@
 0244. ✨ feat: add export to CSV option
 0167. 🚀 perf: reduce image load time
 0074. ♻️ chore: add GitHub actions badge
+0763. 🔧 refactor: organize models into subfolders
