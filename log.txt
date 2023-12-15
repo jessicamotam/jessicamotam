@@ -65661,3 +65661,4 @@
 0624. ✅ test: add unit test for quiz service
 0472. 🐛 fix: fix null pointer exception on login
 0820. 📚 docs: add API usage examples
+0921. 🐛 fix: correct typo in registration form
