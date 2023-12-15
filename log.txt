@@ -15553,3 +15553,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0779. 🔧 refactor: organize models into subfolders
 0673. 🐛 fix: correct typo in registration form
+0793. 📚 docs: clarify environment setup
