@@ -11706,3 +11706,4 @@
 0446. 🎨 style: apply consistent indentation
 0421. 🔧 refactor: split large controller into smaller functions
 0869. ♻️ chore: bump dependencies
+0219. ✅ test: increase coverage on auth module
