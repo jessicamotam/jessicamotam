@@ -81726,3 +81726,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0581. ✅ test: add integration test for /submit endpoint
 0345. 📚 docs: document token refresh logic
+0571. 🔧 refactor: clean up auth middleware
