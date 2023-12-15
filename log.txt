@@ -36716,3 +36716,4 @@
 0714. 📚 docs: improve code comments in utils
 0242. ♻️ chore: clean up unused files
 0311. 🎨 style: apply consistent indentation
+0379. ✨ feat: support email verification
