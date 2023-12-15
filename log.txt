@@ -40089,3 +40089,4 @@
 0085. ✨ feat: support email verification
 0865. ♻️ chore: add GitHub actions badge
 0089. 🔧 refactor: remove redundant code blocks
+0036. 🔧 refactor: clean up auth middleware
