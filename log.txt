@@ -34279,3 +34279,4 @@
 0548. 📚 docs: write FAQ section
 0501. ✨ feat: add export to CSV option
 0394. 🚀 perf: lazy-load components
+0585. 🚀 perf: lazy-load components
