@@ -56736,3 +56736,4 @@
 0492. 🎨 style: remove trailing whitespace
 0091. ✨ feat: add user authentication
 0059. ♻️ chore: bump dependencies
+0826. 📚 docs: clarify environment setup
