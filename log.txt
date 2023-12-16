@@ -36780,3 +36780,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0266. 🔧 refactor: remove redundant code blocks
 0544. 🔧 refactor: organize models into subfolders
+0957. 🐛 fix: fix null pointer exception on login
