@@ -13163,3 +13163,4 @@
 0443. 🎨 style: standardize quote style
 0553. 🐛 fix: correct typo in registration form
 0055. 📚 docs: update README with setup steps
+0283. ♻️ chore: add GitHub actions badge
