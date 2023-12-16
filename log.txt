@@ -20734,3 +20734,4 @@
 0426. ✅ test: add integration test for /submit endpoint
 0446. 🎨 style: apply consistent indentation
 0957. 🐛 fix: fix null pointer exception on login
+0842. 🎨 style: remove trailing whitespace
