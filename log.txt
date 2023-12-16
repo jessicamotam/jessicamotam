@@ -15095,3 +15095,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0017. ✅ test: mock database connection in test suite
 0526. ✨ feat: add user authentication
+0593. 🐛 fix: correct typo in registration form
