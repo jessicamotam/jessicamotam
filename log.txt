@@ -1577,3 +1577,4 @@
 0385. ♻️ chore: clean up unused files
 0269. ✅ test: test user registration edge cases
 0223. 🔧 refactor: remove redundant code blocks
+0131. 📚 docs: write FAQ section
