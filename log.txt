@@ -60897,3 +60897,4 @@
 0649. 📚 docs: update README with setup steps
 0030. 🐛 fix: fix null pointer exception on login
 0912. 📚 docs: document token refresh logic
+0786. ✨ feat: enable dark mode toggle
