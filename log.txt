@@ -58652,3 +58652,4 @@
 0995. ✅ test: mock database connection in test suite
 0935. 📚 docs: update README with setup steps
 0709. ♻️ chore: bump dependencies
+0021. ✨ feat: support email verification
