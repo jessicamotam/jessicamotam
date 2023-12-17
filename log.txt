@@ -35775,3 +35775,4 @@
 0242. ♻️ chore: clean up unused files
 0667. ✨ feat: add export to CSV option
 0614. 🚀 perf: reduce image load time
+0077. ♻️ chore: rename env.example
