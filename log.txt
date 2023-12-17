@@ -72357,3 +72357,4 @@
 0521. 🎨 style: standardize quote style
 0395. 📚 docs: write FAQ section
 0086. 🐛 fix: correct typo in registration form
+0990. ♻️ chore: rename env.example
