@@ -78972,3 +78972,4 @@
 0670. ✨ feat: add export to CSV option
 0392. 🎨 style: remove trailing whitespace
 0672. 🐛 fix: fix broken CSS in mobile view
+0652. 🔧 refactor: organize models into subfolders
