@@ -800,3 +800,4 @@
 0964. ♻️ chore: clean up unused files
 0949. 📚 docs: write FAQ section
 0915. 🚀 perf: cache repeated calculations
+0018. 🔧 refactor: organize models into subfolders
