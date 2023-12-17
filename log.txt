@@ -805,3 +805,4 @@
 0859. ✨ feat: create admin dashboard
 0960. ✅ test: increase coverage on auth module
 0705. 🔧 refactor: refactor quiz grading logic
+0731. 🎨 style: standardize quote style
