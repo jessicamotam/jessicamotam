@@ -21854,3 +21854,4 @@
 0492. 🎨 style: remove trailing whitespace
 0555. ✨ feat: create admin dashboard
 0947. 📚 docs: write FAQ section
+0384. 📚 docs: clarify environment setup
