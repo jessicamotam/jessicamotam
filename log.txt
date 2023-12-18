@@ -57287,3 +57287,4 @@
 0017. ✅ test: mock database connection in test suite
 0529. 📚 docs: write FAQ section
 0950. 🎨 style: reformat files with black
+0871. ✅ test: add integration test for /submit endpoint
