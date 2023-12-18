@@ -2991,3 +2991,4 @@
 0091. ✨ feat: add user authentication
 0727. ♻️ chore: add GitHub actions badge
 0656. 🎨 style: apply consistent indentation
+0208. 🔧 refactor: clean up auth middleware
