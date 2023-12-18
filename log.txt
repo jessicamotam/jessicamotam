@@ -5628,3 +5628,4 @@
 0273. 🚀 perf: reduce image load time
 0011. ✅ test: add unit test for quiz service
 0611. ✅ test: test user registration edge cases
+0355. 🚀 perf: optimize database query for quiz results
