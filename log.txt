@@ -87244,3 +87244,4 @@
 0919. 🚀 perf: optimize database query for quiz results
 0650. ✅ test: add unit test for quiz service
 0848. 📚 docs: update README with setup steps
+0496. ✅ test: add integration test for /submit endpoint
