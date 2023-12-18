@@ -54714,3 +54714,4 @@
 0799. ♻️ chore: clean up unused files
 0267. 📚 docs: improve code comments in utils
 0150. 🎨 style: remove trailing whitespace
+0097. 🐛 fix: handle 500 error in quiz API
