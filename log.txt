@@ -15673,3 +15673,4 @@
 0637. 🎨 style: apply consistent indentation
 0829. 🔧 refactor: organize models into subfolders
 0098. 🎨 style: rename variables for clarity
+0084. 🐛 fix: handle 500 error in quiz API
