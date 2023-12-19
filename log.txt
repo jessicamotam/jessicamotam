@@ -9073,3 +9073,4 @@
 0881. 🔧 refactor: split large controller into smaller functions
 0770. ♻️ chore: rename env.example
 0415. 🐛 fix: handle 500 error in quiz API
+0781. 🚀 perf: reduce image load time
