@@ -1561,3 +1561,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0169. 📚 docs: add API usage examples
 0228. 🔧 refactor: remove redundant code blocks
+0730. ✅ test: test user registration edge cases
