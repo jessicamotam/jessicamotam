@@ -19627,3 +19627,4 @@
 0868. ✅ test: add unit test for quiz service
 0887. 📚 docs: add API usage examples
 0338. ♻️ chore: add GitHub actions badge
+0783. 🐛 fix: handle 500 error in quiz API
