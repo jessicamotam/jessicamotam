@@ -72500,3 +72500,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0589. 🐛 fix: fix broken CSS in mobile view
 0254. 🚀 perf: reduce image load time
+0593. 🐛 fix: correct typo in registration form
