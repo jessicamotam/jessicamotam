@@ -36078,3 +36078,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0227. ✅ test: test user registration edge cases
 0037. 🐛 fix: correct typo in registration form
+0250. 📚 docs: update README with setup steps
