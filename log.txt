@@ -61453,3 +61453,4 @@
 1000. ✅ test: increase coverage on auth module
 0251. ♻️ chore: update .gitignore
 0962. ✨ feat: create admin dashboard
+0509. ♻️ chore: bump dependencies
