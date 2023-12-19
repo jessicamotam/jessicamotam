@@ -2782,3 +2782,4 @@
 0523. ♻️ chore: bump dependencies
 0242. ♻️ chore: clean up unused files
 0036. 🔧 refactor: clean up auth middleware
+0233. 🚀 perf: lazy-load components
