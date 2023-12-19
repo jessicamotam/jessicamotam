@@ -29457,3 +29457,4 @@
 0887. 📚 docs: add API usage examples
 0878. 🔧 refactor: split large controller into smaller functions
 0665. ♻️ chore: update .gitignore
+0543. ✨ feat: support email verification
