@@ -14385,3 +14385,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0035. ✅ test: increase coverage on auth module
 0668. 🚀 perf: optimize database query for quiz results
+0279. ✨ feat: support email verification
