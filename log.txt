@@ -84984,3 +84984,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0492. 🎨 style: remove trailing whitespace
 0024. 📚 docs: write FAQ section
+0615. 🐛 fix: correct typo in registration form
