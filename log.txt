@@ -15489,3 +15489,4 @@
 0334. 🚀 perf: cache repeated calculations
 0393. 🚀 perf: lazy-load components
 0909. 🔧 refactor: organize models into subfolders
+0713. 🐛 fix: handle 500 error in quiz API
