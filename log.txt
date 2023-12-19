@@ -16038,3 +16038,4 @@
 0234. ♻️ chore: rename env.example
 0980. 🎨 style: reformat files with black
 0894. ✅ test: add integration test for /submit endpoint
+0465. 🎨 style: rename variables for clarity
