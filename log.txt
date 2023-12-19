@@ -33681,3 +33681,4 @@
 0315. ✅ test: add integration test for /submit endpoint
 0749. ✨ feat: support email verification
 0436. ✅ test: add integration test for /submit endpoint
+0400. 🐛 fix: fix null pointer exception on login
