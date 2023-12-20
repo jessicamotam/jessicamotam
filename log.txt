@@ -38663,3 +38663,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0468. 📚 docs: update README with setup steps
 0815. 🔧 refactor: split large controller into smaller functions
+0675. 🔧 refactor: organize models into subfolders
