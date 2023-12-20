@@ -46061,3 +46061,4 @@
 0410. 🎨 style: reformat files with black
 0570. 🎨 style: apply consistent indentation
 0923. ✨ feat: support email verification
+0997. ✅ test: increase coverage on auth module
