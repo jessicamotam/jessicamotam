@@ -1298,3 +1298,4 @@
 0636. ✅ test: increase coverage on auth module
 0838. 🎨 style: standardize quote style
 0487. 🎨 style: reformat files with black
+0515. 🚀 perf: optimize database query for quiz results
