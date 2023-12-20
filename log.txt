@@ -8483,3 +8483,4 @@
 0947. 📚 docs: write FAQ section
 0533. ♻️ chore: add GitHub actions badge
 0349. ✅ test: increase coverage on auth module
+0909. 🔧 refactor: organize models into subfolders
