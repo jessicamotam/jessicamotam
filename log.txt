@@ -88523,3 +88523,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0878. 🔧 refactor: split large controller into smaller functions
 0493. ✨ feat: add user authentication
+0440. 📚 docs: update README with setup steps
