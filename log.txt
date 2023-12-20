@@ -9818,3 +9818,4 @@
 0576. ♻️ chore: update .gitignore
 0792. 🎨 style: standardize quote style
 0956. 📚 docs: clarify environment setup
+0678. ✨ feat: add user authentication
