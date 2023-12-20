@@ -48133,3 +48133,4 @@
 0363. 📚 docs: clarify environment setup
 0440. 📚 docs: update README with setup steps
 0746. ♻️ chore: add GitHub actions badge
+0582. ✨ feat: add export to CSV option
