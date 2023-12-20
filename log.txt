@@ -244,3 +244,4 @@
 0946. ✅ test: add unit test for quiz service
 0424. ✨ feat: add user authentication
 0914. ✅ test: test user registration edge cases
+0829. 🔧 refactor: organize models into subfolders
