@@ -37663,3 +37663,4 @@
 0462. ♻️ chore: update .gitignore
 0017. ✅ test: mock database connection in test suite
 0569. 📚 docs: document token refresh logic
+0450. 🐛 fix: fix broken CSS in mobile view
