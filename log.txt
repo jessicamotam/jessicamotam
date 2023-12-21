@@ -20740,3 +20740,4 @@
 0186. ✅ test: test user registration edge cases
 0156. 🎨 style: rename variables for clarity
 0548. 📚 docs: write FAQ section
+0220. 🐛 fix: fix null pointer exception on login
