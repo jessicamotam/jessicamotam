@@ -5695,3 +5695,4 @@
 0944. ✨ feat: add user authentication
 0221. ✨ feat: add user authentication
 0362. 📚 docs: add API usage examples
+0450. 🐛 fix: fix broken CSS in mobile view
