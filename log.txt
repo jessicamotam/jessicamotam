@@ -78461,3 +78461,4 @@
 0683. ✅ test: mock database connection in test suite
 0098. 🎨 style: rename variables for clarity
 0190. 🎨 style: rename variables for clarity
+0567. 📚 docs: add API usage examples
