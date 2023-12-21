@@ -55751,3 +55751,4 @@
 0230. ✨ feat: create admin dashboard
 0579. 📚 docs: clarify environment setup
 0622. 🎨 style: apply consistent indentation
+0977. 🔧 refactor: organize models into subfolders
