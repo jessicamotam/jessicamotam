@@ -58513,3 +58513,4 @@
 0991. ♻️ chore: clean up unused files
 0292. 📚 docs: clarify environment setup
 0360. ✨ feat: add export to CSV option
+0775. 🐛 fix: fix null pointer exception on login
