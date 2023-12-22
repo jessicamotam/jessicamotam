@@ -80106,3 +80106,4 @@
 0922. 📚 docs: write FAQ section
 0875. ✅ test: increase coverage on auth module
 0109. 🚀 perf: lazy-load components
+0940. 📚 docs: document token refresh logic
