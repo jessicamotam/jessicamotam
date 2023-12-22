@@ -5843,3 +5843,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0480. ♻️ chore: add GitHub actions badge
 0977. 🔧 refactor: organize models into subfolders
+0654. ✨ feat: create admin dashboard
