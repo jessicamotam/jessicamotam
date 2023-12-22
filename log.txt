@@ -46702,3 +46702,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0210. 🎨 style: apply consistent indentation
 0866. 📚 docs: add API usage examples
+0742. 📚 docs: clarify environment setup
