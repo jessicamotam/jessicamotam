@@ -31603,3 +31603,4 @@
 0669. ✨ feat: enable dark mode toggle
 0407. 🚀 perf: cache repeated calculations
 0762. 🚀 perf: lazy-load components
+0886. ♻️ chore: clean up unused files
