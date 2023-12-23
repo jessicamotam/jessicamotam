@@ -15372,3 +15372,4 @@
 0335. ♻️ chore: update .gitignore
 0566. 📚 docs: write FAQ section
 0042. 📚 docs: document token refresh logic
+0219. ✅ test: increase coverage on auth module
