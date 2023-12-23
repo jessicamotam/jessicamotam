@@ -3799,3 +3799,4 @@
 0420. 🚀 perf: reduce image load time
 0350. 🚀 perf: cache repeated calculations
 0793. 📚 docs: clarify environment setup
+0066. 🔧 refactor: clean up auth middleware
