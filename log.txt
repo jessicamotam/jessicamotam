@@ -29976,3 +29976,4 @@
 0963. 🚀 perf: reduce image load time
 0549. ✨ feat: enable dark mode toggle
 0762. 🚀 perf: lazy-load components
+0375. 🐛 fix: handle 500 error in quiz API
