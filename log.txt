@@ -64120,3 +64120,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0265. 🎨 style: reformat files with black
 0442. 🎨 style: standardize quote style
+0995. ✅ test: mock database connection in test suite
