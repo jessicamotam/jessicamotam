@@ -40894,3 +40894,4 @@
 0080. ✨ feat: support email verification
 0105. 🐛 fix: correct typo in registration form
 0221. ✨ feat: add user authentication
+0936. 🔧 refactor: organize models into subfolders
