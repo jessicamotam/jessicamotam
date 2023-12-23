@@ -87494,3 +87494,4 @@
 0079. 🐛 fix: correct typo in registration form
 0070. ✨ feat: implement quiz timer feature
 0605. ✨ feat: support email verification
+0415. 🐛 fix: handle 500 error in quiz API
