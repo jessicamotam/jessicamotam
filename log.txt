@@ -81467,3 +81467,4 @@
 0481. ✅ test: add unit test for quiz service
 0777. 📚 docs: document token refresh logic
 0181. ♻️ chore: add GitHub actions badge
+0080. ✨ feat: support email verification
