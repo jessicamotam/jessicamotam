@@ -55806,3 +55806,4 @@
 0739. 🎨 style: remove trailing whitespace
 0194. 🎨 style: standardize quote style
 0031. 📚 docs: document token refresh logic
+0233. 🚀 perf: lazy-load components
