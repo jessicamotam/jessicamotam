@@ -11284,3 +11284,4 @@
 0234. ♻️ chore: rename env.example
 0008. 🚀 perf: reduce image load time
 0388. 🎨 style: reformat files with black
+0628. ♻️ chore: add GitHub actions badge
