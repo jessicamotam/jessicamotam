@@ -2574,3 +2574,4 @@
 0664. ✅ test: add unit test for quiz service
 0477. 🐛 fix: fix broken CSS in mobile view
 0904. ✨ feat: implement quiz timer feature
+0652. 🔧 refactor: organize models into subfolders
