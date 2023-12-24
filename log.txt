@@ -31325,3 +31325,4 @@
 0093. ✅ test: add unit test for quiz service
 0494. 🎨 style: rename variables for clarity
 0011. ✅ test: add unit test for quiz service
+0471. ✨ feat: support email verification
