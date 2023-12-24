@@ -44271,3 +44271,4 @@
 0610. 🚀 perf: lazy-load components
 0538. 🐛 fix: fix broken CSS in mobile view
 0768. 🎨 style: remove trailing whitespace
+0711. 🐛 fix: fix broken CSS in mobile view
