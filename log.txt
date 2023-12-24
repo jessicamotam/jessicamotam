@@ -72419,3 +72419,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0669. ✨ feat: enable dark mode toggle
 0957. 🐛 fix: fix null pointer exception on login
+0376. 🎨 style: apply consistent indentation
