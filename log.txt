@@ -83025,3 +83025,4 @@
 0087. ✨ feat: add export to CSV option
 0488. ♻️ chore: add GitHub actions badge
 0949. 📚 docs: write FAQ section
+0979. 🎨 style: standardize quote style
