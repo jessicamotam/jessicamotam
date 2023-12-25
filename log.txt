@@ -33291,3 +33291,4 @@
 0252. 🎨 style: remove trailing whitespace
 0400. 🐛 fix: fix null pointer exception on login
 0778. 📚 docs: write FAQ section
+0430. 🐛 fix: fix null pointer exception on login
