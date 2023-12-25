@@ -88066,3 +88066,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0921. 🐛 fix: correct typo in registration form
 0117. ✅ test: increase coverage on auth module
+0375. 🐛 fix: handle 500 error in quiz API
