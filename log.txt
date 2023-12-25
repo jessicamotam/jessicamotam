@@ -9074,3 +9074,4 @@
 0770. ♻️ chore: rename env.example
 0415. 🐛 fix: handle 500 error in quiz API
 0781. 🚀 perf: reduce image load time
+0735. ♻️ chore: add GitHub actions badge
