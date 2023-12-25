@@ -89651,3 +89651,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0585. 🚀 perf: lazy-load components
 0329. 📚 docs: update README with setup steps
+0437. 📚 docs: clarify environment setup
