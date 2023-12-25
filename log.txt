@@ -46437,3 +46437,4 @@
 0458. ✨ feat: create admin dashboard
 0659. 📚 docs: add API usage examples
 0285. 🐛 fix: resolve issue with date parsing
+0986. 📚 docs: document token refresh logic
