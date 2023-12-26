@@ -74248,3 +74248,4 @@
 0879. 🎨 style: standardize quote style
 0545. 🎨 style: standardize quote style
 0400. 🐛 fix: fix null pointer exception on login
+0900. 🐛 fix: handle 500 error in quiz API
