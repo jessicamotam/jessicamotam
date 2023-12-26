@@ -14780,3 +14780,4 @@
 0431. 🎨 style: reformat files with black
 0174. 📚 docs: clarify environment setup
 0231. 🔧 refactor: clean up auth middleware
+0482. ✨ feat: add export to CSV option
