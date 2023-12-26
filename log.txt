@@ -29368,3 +29368,4 @@
 0292. 📚 docs: clarify environment setup
 0603. 🐛 fix: fix broken CSS in mobile view
 0060. ♻️ chore: clean up unused files
+0347. ♻️ chore: update .gitignore
