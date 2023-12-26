@@ -12041,3 +12041,4 @@
 0528. ♻️ chore: clean up unused files
 0393. 🚀 perf: lazy-load components
 0838. 🎨 style: standardize quote style
+0063. 🐛 fix: handle 500 error in quiz API
