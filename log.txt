@@ -43887,3 +43887,4 @@
 0122. ✨ feat: support email verification
 0018. 🔧 refactor: organize models into subfolders
 0813. 🔧 refactor: organize models into subfolders
+0072. 🚀 perf: optimize database query for quiz results
