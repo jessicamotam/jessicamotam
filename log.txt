@@ -51770,3 +51770,4 @@
 0180. ✨ feat: add export to CSV option
 0024. 📚 docs: write FAQ section
 0463. 🚀 perf: reduce image load time
+0477. 🐛 fix: fix broken CSS in mobile view
