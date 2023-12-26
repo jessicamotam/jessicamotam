@@ -51166,3 +51166,4 @@
 0584. 🚀 perf: lazy-load components
 0689. 🎨 style: reformat files with black
 0330. ✅ test: test user registration edge cases
+0066. 🔧 refactor: clean up auth middleware
