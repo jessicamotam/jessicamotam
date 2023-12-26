@@ -85144,3 +85144,4 @@
 0535. 📚 docs: write FAQ section
 0837. 🚀 perf: cache repeated calculations
 0944. ✨ feat: add user authentication
+0391. 🐛 fix: fix null pointer exception on login
