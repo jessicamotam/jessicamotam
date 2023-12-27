@@ -80813,3 +80813,4 @@
 0116. ✨ feat: support email verification
 0751. 🐛 fix: handle 500 error in quiz API
 0463. 🚀 perf: reduce image load time
+0229. 🚀 perf: optimize database query for quiz results
