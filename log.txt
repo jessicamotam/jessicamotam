@@ -5434,3 +5434,4 @@
 0113. ✨ feat: add user authentication
 0176. 🔧 refactor: remove redundant code blocks
 0454. ♻️ chore: bump dependencies
+0483. 📚 docs: update README with setup steps
