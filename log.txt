@@ -44555,3 +44555,4 @@
 0598. 🔧 refactor: remove redundant code blocks
 0801. ✨ feat: enable dark mode toggle
 0094. 📚 docs: document token refresh logic
+0243. 🔧 refactor: clean up auth middleware
