@@ -11894,3 +11894,4 @@
 0438. ♻️ chore: bump dependencies
 0646. ✅ test: test user registration edge cases
 0664. ✅ test: add unit test for quiz service
+0778. 📚 docs: write FAQ section
