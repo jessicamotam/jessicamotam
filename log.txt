@@ -32815,3 +32815,4 @@
 0989. 📚 docs: write FAQ section
 0867. 🔧 refactor: refactor quiz grading logic
 0562. 🔧 refactor: clean up auth middleware
+0144. ✅ test: increase coverage on auth module
