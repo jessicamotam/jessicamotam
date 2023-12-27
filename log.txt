@@ -46441,3 +46441,4 @@
 0627. 📚 docs: document token refresh logic
 0873. 🚀 perf: cache repeated calculations
 0453. 🎨 style: standardize quote style
+0688. 🚀 perf: reduce image load time
