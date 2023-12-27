@@ -42825,3 +42825,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0702. ✨ feat: add user authentication
 0340. 🚀 perf: optimize database query for quiz results
+0573. ✅ test: add integration test for /submit endpoint
