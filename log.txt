@@ -86329,3 +86329,4 @@
 0943. 🎨 style: rename variables for clarity
 0274. 🔧 refactor: refactor quiz grading logic
 0770. ♻️ chore: rename env.example
+0254. 🚀 perf: reduce image load time
