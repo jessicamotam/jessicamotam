@@ -24614,3 +24614,4 @@
 0023. 📚 docs: clarify environment setup
 0563. 📚 docs: clarify environment setup
 0334. 🚀 perf: cache repeated calculations
+0021. ✨ feat: support email verification
