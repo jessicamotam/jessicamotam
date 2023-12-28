@@ -55593,3 +55593,4 @@
 0722. 📚 docs: add API usage examples
 0014. 🔧 refactor: remove redundant code blocks
 0935. 📚 docs: update README with setup steps
+0547. 📚 docs: write FAQ section
