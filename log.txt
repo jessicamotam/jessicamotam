@@ -30884,3 +30884,4 @@
 0043. ✅ test: add integration test for /submit endpoint
 0350. 🚀 perf: cache repeated calculations
 0180. ✨ feat: add export to CSV option
+0676. 🐛 fix: prevent crash on empty input
