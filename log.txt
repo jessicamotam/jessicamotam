@@ -62778,3 +62778,4 @@
 0803. ✅ test: mock database connection in test suite
 0997. ✅ test: increase coverage on auth module
 0052. 🎨 style: standardize quote style
+0973. 🔧 refactor: organize models into subfolders
