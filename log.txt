@@ -22914,3 +22914,4 @@
 0637. 🎨 style: apply consistent indentation
 0978. 🐛 fix: prevent crash on empty input
 0703. 🔧 refactor: clean up auth middleware
+0841. 🚀 perf: optimize database query for quiz results
