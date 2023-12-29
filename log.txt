@@ -90617,3 +90617,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0419. 🎨 style: remove trailing whitespace
 0298. ♻️ chore: update .gitignore
+0489. 🔧 refactor: organize models into subfolders
