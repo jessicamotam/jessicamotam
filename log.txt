@@ -51232,3 +51232,4 @@
 0789. ✨ feat: create admin dashboard
 0171. 🐛 fix: fix broken CSS in mobile view
 0342. 🚀 perf: cache repeated calculations
+0823. ✨ feat: add user authentication
