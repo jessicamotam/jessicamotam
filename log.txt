@@ -84550,3 +84550,4 @@
 0682. ♻️ chore: rename env.example
 0664. ✅ test: add unit test for quiz service
 0605. ✨ feat: support email verification
+0303. 🎨 style: rename variables for clarity
