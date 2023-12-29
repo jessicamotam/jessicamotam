@@ -7291,3 +7291,4 @@
 0650. ✅ test: add unit test for quiz service
 0527. 🎨 style: remove trailing whitespace
 0500. ✅ test: add integration test for /submit endpoint
+0110. 🐛 fix: prevent crash on empty input
