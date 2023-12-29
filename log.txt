@@ -74370,3 +74370,4 @@
 0106. 🎨 style: reformat files with black
 0439. 🐛 fix: correct typo in registration form
 0646. ✅ test: test user registration edge cases
+0797. 📚 docs: add API usage examples
