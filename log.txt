@@ -592,3 +592,4 @@
 0692. ✅ test: add integration test for /submit endpoint
 0296. 🔧 refactor: organize models into subfolders
 0960. ✅ test: increase coverage on auth module
+0809. ♻️ chore: rename env.example
