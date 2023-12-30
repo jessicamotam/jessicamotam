@@ -65225,3 +65225,4 @@
 0820. 📚 docs: add API usage examples
 0257. 📚 docs: clarify environment setup
 0599. ✅ test: test user registration edge cases
+0151. ✅ test: add unit test for quiz service
