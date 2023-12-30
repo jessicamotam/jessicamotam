@@ -54010,3 +54010,4 @@
 0150. 🎨 style: remove trailing whitespace
 0548. 📚 docs: write FAQ section
 0056. ♻️ chore: rename env.example
+0675. 🔧 refactor: organize models into subfolders
