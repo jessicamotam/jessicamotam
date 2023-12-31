@@ -32867,3 +32867,4 @@
 0844. 📚 docs: update README with setup steps
 0337. 📚 docs: document token refresh logic
 0900. 🐛 fix: handle 500 error in quiz API
+0080. ✨ feat: support email verification
