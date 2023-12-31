@@ -23395,3 +23395,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0898. 🐛 fix: fix broken CSS in mobile view
 0298. ♻️ chore: update .gitignore
+0035. ✅ test: increase coverage on auth module
