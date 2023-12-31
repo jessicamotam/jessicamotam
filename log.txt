@@ -72817,3 +72817,4 @@
 0970. ♻️ chore: update .gitignore
 0385. ♻️ chore: clean up unused files
 0960. ✅ test: increase coverage on auth module
+0549. ✨ feat: enable dark mode toggle
