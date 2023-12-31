@@ -27043,3 +27043,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0230. ✨ feat: create admin dashboard
 0307. ✨ feat: support email verification
+0563. 📚 docs: clarify environment setup
