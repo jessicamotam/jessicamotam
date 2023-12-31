@@ -41846,3 +41846,4 @@
 0765. ♻️ chore: clean up unused files
 0123. ✨ feat: implement quiz timer feature
 0343. 🚀 perf: optimize database query for quiz results
+0576. ♻️ chore: update .gitignore
