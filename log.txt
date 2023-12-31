@@ -25833,3 +25833,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0588. 🔧 refactor: organize models into subfolders
 0970. ♻️ chore: update .gitignore
+0475. 🔧 refactor: clean up auth middleware
