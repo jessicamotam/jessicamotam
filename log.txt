@@ -73155,3 +73155,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0935. 📚 docs: update README with setup steps
 0364. 🐛 fix: resolve issue with date parsing
+0866. 📚 docs: add API usage examples
