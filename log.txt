@@ -41575,3 +41575,4 @@
 0940. 📚 docs: document token refresh logic
 0788. 📚 docs: add API usage examples
 0470. 🎨 style: remove trailing whitespace
+0355. 🚀 perf: optimize database query for quiz results
