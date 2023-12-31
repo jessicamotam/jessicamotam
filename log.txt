@@ -19552,3 +19552,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0706. ✨ feat: support email verification
 0381. ♻️ chore: clean up unused files
+0408. ♻️ chore: add GitHub actions badge
