@@ -62946,3 +62946,4 @@
 0025. 🚀 perf: optimize database query for quiz results
 0317. ✅ test: test user registration edge cases
 0684. 🚀 perf: reduce image load time
+0018. 🔧 refactor: organize models into subfolders
