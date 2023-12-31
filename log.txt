@@ -90937,3 +90937,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0756. ✨ feat: support email verification
 0464. 🎨 style: remove trailing whitespace
+0564. 📚 docs: clarify environment setup
