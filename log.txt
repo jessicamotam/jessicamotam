@@ -52964,3 +52964,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0474. ✅ test: add unit test for quiz service
 0214. 📚 docs: improve code comments in utils
+0116. ✨ feat: support email verification
