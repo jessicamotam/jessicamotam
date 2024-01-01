@@ -61167,3 +61167,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0976. ✨ feat: implement quiz timer feature
 0781. 🚀 perf: reduce image load time
+0734. ✨ feat: add export to CSV option
