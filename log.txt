@@ -4265,3 +4265,4 @@
 0177. 📚 docs: add API usage examples
 0184. 📚 docs: improve code comments in utils
 0730. ✅ test: test user registration edge cases
+0076. 🎨 style: reformat files with black
