@@ -73570,3 +73570,4 @@
 0636. ✅ test: increase coverage on auth module
 0748. 🚀 perf: optimize database query for quiz results
 0686. 🎨 style: standardize quote style
+0220. 🐛 fix: fix null pointer exception on login
