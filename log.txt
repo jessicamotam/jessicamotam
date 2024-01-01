@@ -73678,3 +73678,4 @@
 0262. 🎨 style: remove trailing whitespace
 0987. ✨ feat: create admin dashboard
 0614. 🚀 perf: reduce image load time
+0811. 🎨 style: reformat files with black
