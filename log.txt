@@ -59131,3 +59131,4 @@
 0734. ✨ feat: add export to CSV option
 0931. 🚀 perf: reduce image load time
 0022. 📚 docs: document token refresh logic
+0131. 📚 docs: write FAQ section
