@@ -80052,3 +80052,4 @@
 0337. 📚 docs: document token refresh logic
 0227. ✅ test: test user registration edge cases
 0141. 📚 docs: document token refresh logic
+0041. 🐛 fix: fix broken CSS in mobile view
