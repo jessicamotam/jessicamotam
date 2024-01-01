@@ -50992,3 +50992,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0153. ♻️ chore: rename env.example
 0189. 📚 docs: clarify environment setup
+0180. ✨ feat: add export to CSV option
