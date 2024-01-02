@@ -42603,3 +42603,4 @@
 0487. 🎨 style: reformat files with black
 0165. 🎨 style: remove trailing whitespace
 0916. ♻️ chore: bump dependencies
+0706. ✨ feat: support email verification
