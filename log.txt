@@ -10034,3 +10034,4 @@
 0150. 🎨 style: remove trailing whitespace
 0037. 🐛 fix: correct typo in registration form
 0947. 📚 docs: write FAQ section
+0563. 📚 docs: clarify environment setup
