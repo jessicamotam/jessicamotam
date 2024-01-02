@@ -80394,3 +80394,4 @@
 0379. ✨ feat: support email verification
 0960. ✅ test: increase coverage on auth module
 0819. 🚀 perf: reduce image load time
+0865. ♻️ chore: add GitHub actions badge
