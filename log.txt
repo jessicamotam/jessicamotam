@@ -25078,3 +25078,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0524. ♻️ chore: rename env.example
 0204. 🎨 style: standardize quote style
+0473. 📚 docs: write FAQ section
