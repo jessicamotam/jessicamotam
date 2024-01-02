@@ -18087,3 +18087,4 @@
 0931. 🚀 perf: reduce image load time
 0631. ✨ feat: create admin dashboard
 0931. 🚀 perf: reduce image load time
+0121. ✨ feat: support email verification
