@@ -77790,3 +77790,4 @@
 0098. 🎨 style: rename variables for clarity
 0738. 🐛 fix: prevent crash on empty input
 0311. 🎨 style: apply consistent indentation
+0356. 📚 docs: write FAQ section
