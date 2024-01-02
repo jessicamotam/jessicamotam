@@ -4158,3 +4158,4 @@
 0545. 🎨 style: standardize quote style
 0922. 📚 docs: write FAQ section
 0026. 🔧 refactor: clean up auth middleware
+0770. ♻️ chore: rename env.example
