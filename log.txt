@@ -85068,3 +85068,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0705. 🔧 refactor: refactor quiz grading logic
 0352. ✨ feat: add export to CSV option
+0593. 🐛 fix: correct typo in registration form
