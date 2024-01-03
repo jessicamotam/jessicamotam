@@ -48132,3 +48132,4 @@
 0169. 📚 docs: add API usage examples
 0363. 📚 docs: clarify environment setup
 0440. 📚 docs: update README with setup steps
+0746. ♻️ chore: add GitHub actions badge
