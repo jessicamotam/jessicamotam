@@ -1127,3 +1127,4 @@
 0167. 🚀 perf: reduce image load time
 0021. ✨ feat: support email verification
 0061. ✨ feat: create admin dashboard
+0545. 🎨 style: standardize quote style
