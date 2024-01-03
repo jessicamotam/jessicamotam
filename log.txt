@@ -46214,3 +46214,4 @@
 0117. ✅ test: increase coverage on auth module
 0372. ✨ feat: add user authentication
 0833. ✨ feat: add user authentication
+0702. ✨ feat: add user authentication
