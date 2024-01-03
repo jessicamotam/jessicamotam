@@ -81923,3 +81923,4 @@
 0250. 📚 docs: update README with setup steps
 0349. ✅ test: increase coverage on auth module
 0187. ✨ feat: support email verification
+0569. 📚 docs: document token refresh logic
