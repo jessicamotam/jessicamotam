@@ -53879,3 +53879,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0632. 🎨 style: remove trailing whitespace
 0223. 🔧 refactor: remove redundant code blocks
+0848. 📚 docs: update README with setup steps
