@@ -62668,3 +62668,4 @@
 0024. 📚 docs: write FAQ section
 0202. 🔧 refactor: refactor quiz grading logic
 0050. ✨ feat: enable dark mode toggle
+0246. ✅ test: add integration test for /submit endpoint
