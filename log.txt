@@ -7014,3 +7014,4 @@
 0284. ✨ feat: implement quiz timer feature
 0678. ✨ feat: add user authentication
 0854. ♻️ chore: rename env.example
+0916. ♻️ chore: bump dependencies
