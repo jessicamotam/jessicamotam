@@ -53196,3 +53196,4 @@
 0566. 📚 docs: write FAQ section
 0544. 🔧 refactor: organize models into subfolders
 0824. 🚀 perf: lazy-load components
+0194. 🎨 style: standardize quote style
