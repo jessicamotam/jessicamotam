@@ -21967,3 +21967,4 @@
 0569. 📚 docs: document token refresh logic
 0852. ✨ feat: enable dark mode toggle
 0450. 🐛 fix: fix broken CSS in mobile view
+0086. 🐛 fix: correct typo in registration form
