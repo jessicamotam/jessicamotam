@@ -48956,3 +48956,4 @@
 0599. ✅ test: test user registration edge cases
 0281. ✨ feat: support email verification
 0033. 🎨 style: apply consistent indentation
+0251. ♻️ chore: update .gitignore
