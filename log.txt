@@ -74530,3 +74530,4 @@
 0873. 🚀 perf: cache repeated calculations
 0523. ♻️ chore: bump dependencies
 0552. 🐛 fix: fix null pointer exception on login
+0698. 🐛 fix: handle 500 error in quiz API
