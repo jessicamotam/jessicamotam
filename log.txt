@@ -72341,3 +72341,4 @@
 0601. ✨ feat: implement quiz timer feature
 0627. 📚 docs: document token refresh logic
 0261. 🔧 refactor: refactor quiz grading logic
+0790. 📚 docs: write FAQ section
