@@ -27326,3 +27326,4 @@
 0660. 🐛 fix: correct typo in registration form
 0450. 🐛 fix: fix broken CSS in mobile view
 0947. 📚 docs: write FAQ section
+0641. 📚 docs: write FAQ section
