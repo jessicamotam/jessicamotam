@@ -77634,3 +77634,4 @@
 0143. ✨ feat: implement quiz timer feature
 0920. 🔧 refactor: organize models into subfolders
 0864. 🐛 fix: correct typo in registration form
+0512. 🚀 perf: reduce image load time
