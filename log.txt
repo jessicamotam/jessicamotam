@@ -36982,3 +36982,4 @@
 0372. ✨ feat: add user authentication
 0750. 🎨 style: apply consistent indentation
 0890. 🔧 refactor: organize models into subfolders
+0706. ✨ feat: support email verification
