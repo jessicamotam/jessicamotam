@@ -42909,3 +42909,4 @@
 0174. 📚 docs: clarify environment setup
 0547. 📚 docs: write FAQ section
 0002. 🚀 perf: cache repeated calculations
+0726. ✨ feat: enable dark mode toggle
