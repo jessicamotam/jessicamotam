@@ -51812,3 +51812,4 @@
 0234. ♻️ chore: rename env.example
 0658. 🎨 style: rename variables for clarity
 0413. ✅ test: add integration test for /submit endpoint
+0066. 🔧 refactor: clean up auth middleware
