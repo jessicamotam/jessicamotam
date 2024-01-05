@@ -9966,3 +9966,4 @@
 0541. 🐛 fix: correct typo in registration form
 0659. 📚 docs: add API usage examples
 0475. 🔧 refactor: clean up auth middleware
+0820. 📚 docs: add API usage examples
