@@ -76380,3 +76380,4 @@
 0917. ✅ test: add integration test for /submit endpoint
 0795. 📚 docs: update README with setup steps
 0053. ✅ test: increase coverage on auth module
+0703. 🔧 refactor: clean up auth middleware
