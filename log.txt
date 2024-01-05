@@ -84668,3 +84668,4 @@
 0070. ✨ feat: implement quiz timer feature
 0746. ♻️ chore: add GitHub actions badge
 0956. 📚 docs: clarify environment setup
+0375. 🐛 fix: handle 500 error in quiz API
