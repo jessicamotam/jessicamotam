@@ -31183,3 +31183,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0526. ✨ feat: add user authentication
 0408. ♻️ chore: add GitHub actions badge
+0988. 🐛 fix: fix broken CSS in mobile view
