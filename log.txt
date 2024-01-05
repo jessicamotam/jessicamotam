@@ -985,3 +985,4 @@
 0966. 📚 docs: improve code comments in utils
 0344. ♻️ chore: add GitHub actions badge
 0986. 📚 docs: document token refresh logic
+0908. ♻️ chore: bump dependencies
