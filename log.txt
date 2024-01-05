@@ -41566,3 +41566,4 @@
 0923. ✨ feat: support email verification
 0233. 🚀 perf: lazy-load components
 0385. ♻️ chore: clean up unused files
+0713. 🐛 fix: handle 500 error in quiz API
