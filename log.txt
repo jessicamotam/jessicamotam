@@ -53752,3 +53752,4 @@
 0469. 🚀 perf: lazy-load components
 0632. 🎨 style: remove trailing whitespace
 0726. ✨ feat: enable dark mode toggle
+0080. ✨ feat: support email verification
