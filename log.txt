@@ -25284,3 +25284,4 @@
 0079. 🐛 fix: correct typo in registration form
 0383. 🐛 fix: fix broken CSS in mobile view
 0675. 🔧 refactor: organize models into subfolders
+0427. ✅ test: mock database connection in test suite
