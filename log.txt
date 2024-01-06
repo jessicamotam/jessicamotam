@@ -70965,3 +70965,4 @@
 0238. 🎨 style: apply consistent indentation
 0329. 📚 docs: update README with setup steps
 0665. ♻️ chore: update .gitignore
+0491. 🚀 perf: lazy-load components
