@@ -25196,3 +25196,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0579. 📚 docs: clarify environment setup
 0217. 🚀 perf: reduce image load time
+0524. ♻️ chore: rename env.example
