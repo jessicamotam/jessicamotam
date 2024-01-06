@@ -47165,3 +47165,4 @@
 0794. ♻️ chore: clean up unused files
 0510. 🎨 style: rename variables for clarity
 0253. 📚 docs: update README with setup steps
+0568. 🐛 fix: handle 500 error in quiz API
