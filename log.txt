@@ -87940,3 +87940,4 @@
 0293. ✅ test: add integration test for /submit endpoint
 0092. 🚀 perf: reduce image load time
 0106. 🎨 style: reformat files with black
+0412. ✅ test: increase coverage on auth module
