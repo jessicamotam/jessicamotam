@@ -264,3 +264,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0612. ✅ test: test user registration edge cases
 0445. 📚 docs: improve code comments in utils
+0104. 🎨 style: apply consistent indentation
