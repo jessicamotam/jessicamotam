@@ -6561,3 +6561,4 @@
 0021. ✨ feat: support email verification
 0746. ♻️ chore: add GitHub actions badge
 0982. 🚀 perf: lazy-load components
+0655. 🚀 perf: cache repeated calculations
