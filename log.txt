@@ -26811,3 +26811,4 @@
 0188. 🎨 style: apply consistent indentation
 0292. 📚 docs: clarify environment setup
 0939. 📚 docs: update README with setup steps
+0921. 🐛 fix: correct typo in registration form
