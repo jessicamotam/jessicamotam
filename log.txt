@@ -37725,3 +37725,4 @@
 0815. 🔧 refactor: split large controller into smaller functions
 0485. 📚 docs: update README with setup steps
 0335. ♻️ chore: update .gitignore
+0319. 🐛 fix: handle 500 error in quiz API
