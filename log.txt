@@ -15200,3 +15200,4 @@
 0023. 📚 docs: clarify environment setup
 0089. 🔧 refactor: remove redundant code blocks
 0747. 🔧 refactor: clean up auth middleware
+0384. 📚 docs: clarify environment setup
