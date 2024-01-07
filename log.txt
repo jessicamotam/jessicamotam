@@ -67764,3 +67764,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0005. ✅ test: add unit test for quiz service
 0601. ✨ feat: implement quiz timer feature
+0578. ✅ test: add integration test for /submit endpoint
