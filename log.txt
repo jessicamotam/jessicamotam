@@ -23339,3 +23339,4 @@
 0794. ♻️ chore: clean up unused files
 0811. 🎨 style: reformat files with black
 0520. 🐛 fix: fix null pointer exception on login
+0013. ✅ test: increase coverage on auth module
