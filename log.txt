@@ -22591,3 +22591,4 @@
 0078. ♻️ chore: update .gitignore
 0939. 📚 docs: update README with setup steps
 0551. 📚 docs: write FAQ section
+0541. 🐛 fix: correct typo in registration form
