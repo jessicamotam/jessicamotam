@@ -71725,3 +71725,4 @@
 0122. ✨ feat: support email verification
 0566. 📚 docs: write FAQ section
 0980. 🎨 style: reformat files with black
+0243. 🔧 refactor: clean up auth middleware
