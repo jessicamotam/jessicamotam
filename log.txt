@@ -14966,3 +14966,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0653. 🐛 fix: prevent crash on empty input
 0803. ✅ test: mock database connection in test suite
+0512. 🚀 perf: reduce image load time
