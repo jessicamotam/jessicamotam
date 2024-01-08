@@ -87348,3 +87348,4 @@
 0473. 📚 docs: write FAQ section
 0625. 🐛 fix: handle 500 error in quiz API
 0788. 📚 docs: add API usage examples
+0758. 🚀 perf: optimize database query for quiz results
