@@ -48202,3 +48202,4 @@
 0707. 🎨 style: apply consistent indentation
 0667. ✨ feat: add export to CSV option
 0388. 🎨 style: reformat files with black
+0836. 🚀 perf: optimize database query for quiz results
