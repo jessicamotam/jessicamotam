@@ -4352,3 +4352,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0778. 📚 docs: write FAQ section
 0805. ♻️ chore: add GitHub actions badge
+0401. 🚀 perf: reduce image load time
