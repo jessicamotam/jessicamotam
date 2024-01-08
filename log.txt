@@ -75510,3 +75510,4 @@
 0935. 📚 docs: update README with setup steps
 0822. 🔧 refactor: remove redundant code blocks
 0487. 🎨 style: reformat files with black
+0263. 📚 docs: add API usage examples
