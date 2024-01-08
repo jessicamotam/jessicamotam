@@ -13556,3 +13556,4 @@
 0664. ✅ test: add unit test for quiz service
 0390. 🎨 style: standardize quote style
 0279. ✨ feat: support email verification
+0515. 🚀 perf: optimize database query for quiz results
