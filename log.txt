@@ -11734,3 +11734,4 @@
 0179. 🔧 refactor: split large controller into smaller functions
 0843. 📚 docs: document token refresh logic
 0735. ♻️ chore: add GitHub actions badge
+0259. 🚀 perf: lazy-load components
