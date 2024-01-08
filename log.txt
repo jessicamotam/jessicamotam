@@ -13074,3 +13074,4 @@
 0875. ✅ test: increase coverage on auth module
 0337. 📚 docs: document token refresh logic
 0389. 📚 docs: improve code comments in utils
+0549. ✨ feat: enable dark mode toggle
