@@ -58609,3 +58609,4 @@
 0970. ♻️ chore: update .gitignore
 0514. 🐛 fix: fix broken CSS in mobile view
 0211. 🔧 refactor: remove redundant code blocks
+0106. 🎨 style: reformat files with black
