@@ -74724,3 +74724,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0278. 🔧 refactor: clean up auth middleware
 0517. ✅ test: mock database connection in test suite
+0087. ✨ feat: add export to CSV option
