@@ -68710,3 +68710,4 @@
 0198. 📚 docs: clarify environment setup
 0121. ✨ feat: support email verification
 0408. ♻️ chore: add GitHub actions badge
+0268. 🐛 fix: prevent crash on empty input
