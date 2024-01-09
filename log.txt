@@ -20209,3 +20209,4 @@
 0153. ♻️ chore: rename env.example
 0512. 🚀 perf: reduce image load time
 0293. ✅ test: add integration test for /submit endpoint
+0477. 🐛 fix: fix broken CSS in mobile view
