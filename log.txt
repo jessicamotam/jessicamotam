@@ -37889,3 +37889,4 @@
 0650. ✅ test: add unit test for quiz service
 0859. ✨ feat: create admin dashboard
 0898. 🐛 fix: fix broken CSS in mobile view
+0371. ✅ test: add integration test for /submit endpoint
