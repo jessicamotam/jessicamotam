@@ -18529,3 +18529,4 @@
 0100. ♻️ chore: update .gitignore
 0831. 📚 docs: clarify environment setup
 0131. 📚 docs: write FAQ section
+0930. 🎨 style: apply consistent indentation
