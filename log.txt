@@ -4275,3 +4275,4 @@
 0734. ✨ feat: add export to CSV option
 0929. ✨ feat: support email verification
 0759. 🔧 refactor: organize models into subfolders
+0339. 📚 docs: update README with setup steps
