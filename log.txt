@@ -32596,3 +32596,4 @@
 0747. 🔧 refactor: clean up auth middleware
 0572. ✨ feat: add user authentication
 0767. 🔧 refactor: remove redundant code blocks
+0049. 🐛 fix: handle 500 error in quiz API
