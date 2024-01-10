@@ -15872,3 +15872,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0536. ✨ feat: add user authentication
 0395. 📚 docs: write FAQ section
+0735. ♻️ chore: add GitHub actions badge
