@@ -46525,3 +46525,4 @@
 0583. ✅ test: increase coverage on auth module
 0052. 🎨 style: standardize quote style
 0006. 🐛 fix: prevent crash on empty input
+0151. ✅ test: add unit test for quiz service
