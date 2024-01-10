@@ -47515,3 +47515,4 @@
 0742. 📚 docs: clarify environment setup
 0773. 📚 docs: document token refresh logic
 0622. 🎨 style: apply consistent indentation
+0935. 📚 docs: update README with setup steps
