@@ -16165,3 +16165,4 @@
 0636. ✅ test: increase coverage on auth module
 0860. 🔧 refactor: organize models into subfolders
 0011. ✅ test: add unit test for quiz service
+0290. ✅ test: test user registration edge cases
