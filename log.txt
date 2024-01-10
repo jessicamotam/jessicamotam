@@ -56165,3 +56165,4 @@
 0301. 🎨 style: apply consistent indentation
 0842. 🎨 style: remove trailing whitespace
 0794. ♻️ chore: clean up unused files
+0243. 🔧 refactor: clean up auth middleware
