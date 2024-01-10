@@ -48153,3 +48153,4 @@
 0161. ✨ feat: create admin dashboard
 0384. 📚 docs: clarify environment setup
 0929. ✨ feat: support email verification
+0525. ✅ test: mock database connection in test suite
