@@ -32758,3 +32758,4 @@
 0657. 🎨 style: standardize quote style
 0199. ✨ feat: create admin dashboard
 0036. 🔧 refactor: clean up auth middleware
+0529. 📚 docs: write FAQ section
