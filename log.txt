@@ -87654,3 +87654,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0723. 🔧 refactor: remove redundant code blocks
 0971. 🎨 style: standardize quote style
+0482. ✨ feat: add export to CSV option
