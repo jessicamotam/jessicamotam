@@ -89450,3 +89450,4 @@
 0431. 🎨 style: reformat files with black
 0292. 📚 docs: clarify environment setup
 0076. 🎨 style: reformat files with black
+0835. 🐛 fix: prevent crash on empty input
