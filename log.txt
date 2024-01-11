@@ -52575,3 +52575,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0235. 🐛 fix: fix null pointer exception on login
 0698. 🐛 fix: handle 500 error in quiz API
+0513. ♻️ chore: bump dependencies
