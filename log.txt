@@ -34669,3 +34669,4 @@
 0902. ✨ feat: enable dark mode toggle
 0197. 📚 docs: update README with setup steps
 0416. 🎨 style: rename variables for clarity
+0296. 🔧 refactor: organize models into subfolders
