@@ -21091,3 +21091,4 @@
 0247. 🎨 style: apply consistent indentation
 0165. 🎨 style: remove trailing whitespace
 0353. ♻️ chore: rename env.example
+0741. 🎨 style: apply consistent indentation
