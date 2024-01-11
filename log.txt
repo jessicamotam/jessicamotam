@@ -38416,3 +38416,4 @@
 0424. ✨ feat: add user authentication
 0540. ♻️ chore: add GitHub actions badge
 0165. 🎨 style: remove trailing whitespace
+0268. 🐛 fix: prevent crash on empty input
