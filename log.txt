@@ -37829,3 +37829,4 @@
 0777. 📚 docs: document token refresh logic
 0862. ♻️ chore: bump dependencies
 0955. 🔧 refactor: remove redundant code blocks
+0544. 🔧 refactor: organize models into subfolders
