@@ -56813,3 +56813,4 @@
 0302. ✨ feat: implement quiz timer feature
 0706. ✨ feat: support email verification
 0085. ✨ feat: support email verification
+0549. ✨ feat: enable dark mode toggle
