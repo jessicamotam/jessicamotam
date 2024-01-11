@@ -73714,3 +73714,4 @@
 0412. ✅ test: increase coverage on auth module
 0083. 🎨 style: reformat files with black
 0778. 📚 docs: write FAQ section
+0065. ✅ test: add integration test for /submit endpoint
