@@ -34013,3 +34013,4 @@
 0090. ✅ test: increase coverage on auth module
 0227. ✅ test: test user registration edge cases
 0779. 🔧 refactor: organize models into subfolders
+0473. 📚 docs: write FAQ section
