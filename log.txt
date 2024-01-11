@@ -40367,3 +40367,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0364. 🐛 fix: resolve issue with date parsing
 0437. 📚 docs: clarify environment setup
+0287. 📚 docs: write FAQ section
