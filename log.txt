@@ -1612,3 +1612,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0666. 🐛 fix: fix broken CSS in mobile view
 0656. 🎨 style: apply consistent indentation
+0732. ♻️ chore: add GitHub actions badge
