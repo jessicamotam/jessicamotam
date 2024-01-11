@@ -21630,3 +21630,4 @@
 0251. ♻️ chore: update .gitignore
 0755. 🚀 perf: cache repeated calculations
 0272. 🔧 refactor: remove redundant code blocks
+0006. 🐛 fix: prevent crash on empty input
