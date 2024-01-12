@@ -58431,3 +58431,4 @@
 0209. ✨ feat: implement quiz timer feature
 0768. 🎨 style: remove trailing whitespace
 0125. ✅ test: add integration test for /submit endpoint
+0981. 🚀 perf: lazy-load components
