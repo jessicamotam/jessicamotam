@@ -55359,3 +55359,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0196. ♻️ chore: bump dependencies
 0186. ✅ test: test user registration edge cases
+0934. ✨ feat: support email verification
