@@ -58757,3 +58757,4 @@
 0429. ✨ feat: add user authentication
 0283. ♻️ chore: add GitHub actions badge
 0769. ✨ feat: create admin dashboard
+0147. ♻️ chore: bump dependencies
