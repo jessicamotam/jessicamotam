@@ -72949,3 +72949,4 @@
 0745. ✅ test: add unit test for quiz service
 0439. 🐛 fix: correct typo in registration form
 0144. ✅ test: increase coverage on auth module
+0568. 🐛 fix: handle 500 error in quiz API
