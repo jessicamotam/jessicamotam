@@ -1755,3 +1755,4 @@
 0580. ♻️ chore: bump dependencies
 0395. 📚 docs: write FAQ section
 0911. ✅ test: increase coverage on auth module
+0571. 🔧 refactor: clean up auth middleware
