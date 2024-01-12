@@ -62903,3 +62903,4 @@
 0111. 📚 docs: update README with setup steps
 0513. ♻️ chore: bump dependencies
 0650. ✅ test: add unit test for quiz service
+0461. ✨ feat: add user authentication
