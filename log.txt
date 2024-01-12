@@ -77017,3 +77017,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0833. ✨ feat: add user authentication
 0312. ✨ feat: add user authentication
+0929. ✨ feat: support email verification
