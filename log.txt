@@ -59419,3 +59419,4 @@
 0654. ✨ feat: create admin dashboard
 0296. 🔧 refactor: organize models into subfolders
 0599. ✅ test: test user registration edge cases
+0625. 🐛 fix: handle 500 error in quiz API
