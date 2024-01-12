@@ -89092,3 +89092,4 @@
 0334. 🚀 perf: cache repeated calculations
 0633. ✨ feat: add user authentication
 0951. 🎨 style: rename variables for clarity
+0690. 🚀 perf: lazy-load components
