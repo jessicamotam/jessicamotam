@@ -77726,3 +77726,4 @@
 0305. ✨ feat: enable dark mode toggle
 0219. ✅ test: increase coverage on auth module
 0759. 🔧 refactor: organize models into subfolders
+0986. 📚 docs: document token refresh logic
