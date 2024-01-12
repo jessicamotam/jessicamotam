@@ -69726,3 +69726,4 @@
 0406. ✨ feat: add export to CSV option
 0664. ✅ test: add unit test for quiz service
 0951. 🎨 style: rename variables for clarity
+0450. 🐛 fix: fix broken CSS in mobile view
