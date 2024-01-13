@@ -67378,3 +67378,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0787. ♻️ chore: rename env.example
 0840. 🔧 refactor: refactor quiz grading logic
+0265. 🎨 style: reformat files with black
