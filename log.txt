@@ -30551,3 +30551,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0482. ✨ feat: add export to CSV option
 0595. ✨ feat: enable dark mode toggle
+0735. ♻️ chore: add GitHub actions badge
