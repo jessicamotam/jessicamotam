@@ -35148,3 +35148,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0641. 📚 docs: write FAQ section
 0507. 🔧 refactor: clean up auth middleware
+0800. 🚀 perf: optimize database query for quiz results
