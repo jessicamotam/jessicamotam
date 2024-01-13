@@ -33776,3 +33776,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0144. ✅ test: increase coverage on auth module
 0875. ✅ test: increase coverage on auth module
+0181. ♻️ chore: add GitHub actions badge
