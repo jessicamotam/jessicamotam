@@ -23572,3 +23572,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0038. 🎨 style: rename variables for clarity
 0109. 🚀 perf: lazy-load components
+0237. 🎨 style: standardize quote style
