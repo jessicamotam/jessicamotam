@@ -63901,3 +63901,4 @@
 0986. 📚 docs: document token refresh logic
 0914. ✅ test: test user registration edge cases
 0571. 🔧 refactor: clean up auth middleware
+0013. ✅ test: increase coverage on auth module
