@@ -11435,3 +11435,4 @@
 0079. 🐛 fix: correct typo in registration form
 0512. 🚀 perf: reduce image load time
 0697. ♻️ chore: bump dependencies
+0584. 🚀 perf: lazy-load components
