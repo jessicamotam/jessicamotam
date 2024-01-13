@@ -23580,3 +23580,4 @@
 0869. ♻️ chore: bump dependencies
 0266. 🔧 refactor: remove redundant code blocks
 0844. 📚 docs: update README with setup steps
+0110. 🐛 fix: prevent crash on empty input
