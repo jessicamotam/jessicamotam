@@ -17418,3 +17418,4 @@
 0739. 🎨 style: remove trailing whitespace
 0869. ♻️ chore: bump dependencies
 0784. ♻️ chore: clean up unused files
+0607. 🐛 fix: prevent crash on empty input
