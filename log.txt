@@ -73682,3 +73682,4 @@
 0187. ✨ feat: support email verification
 0686. 🎨 style: standardize quote style
 0942. ✅ test: increase coverage on auth module
+0628. ♻️ chore: add GitHub actions badge
