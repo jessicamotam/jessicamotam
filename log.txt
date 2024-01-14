@@ -41080,3 +41080,4 @@
 0834. ✅ test: increase coverage on auth module
 0195. 📚 docs: clarify environment setup
 0161. ✨ feat: create admin dashboard
+0415. 🐛 fix: handle 500 error in quiz API
