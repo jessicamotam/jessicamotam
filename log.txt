@@ -44141,3 +44141,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0906. 📚 docs: add API usage examples
 0349. ✅ test: increase coverage on auth module
+0768. 🎨 style: remove trailing whitespace
