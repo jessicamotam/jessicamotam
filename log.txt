@@ -28761,3 +28761,4 @@
 0854. ♻️ chore: rename env.example
 0326. 🚀 perf: cache repeated calculations
 0437. 📚 docs: clarify environment setup
+0235. 🐛 fix: fix null pointer exception on login
