@@ -87982,3 +87982,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0874. 🔧 refactor: split large controller into smaller functions
 0895. ✨ feat: support email verification
+0429. ✨ feat: add user authentication
