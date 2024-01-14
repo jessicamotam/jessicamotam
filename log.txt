@@ -7980,3 +7980,4 @@
 0406. ✨ feat: add export to CSV option
 0306. 🎨 style: apply consistent indentation
 0777. 📚 docs: document token refresh logic
+0817. 🔧 refactor: remove redundant code blocks
