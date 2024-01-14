@@ -73529,3 +73529,4 @@
 0793. 📚 docs: clarify environment setup
 0640. ♻️ chore: bump dependencies
 0706. ✨ feat: support email verification
+0864. 🐛 fix: correct typo in registration form
