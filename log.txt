@@ -81813,3 +81813,4 @@
 0784. ♻️ chore: clean up unused files
 0853. 🔧 refactor: refactor quiz grading logic
 0863. 🐛 fix: correct typo in registration form
+0207. 🐛 fix: prevent crash on empty input
