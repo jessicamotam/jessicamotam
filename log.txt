@@ -12445,3 +12445,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0437. 📚 docs: clarify environment setup
 0189. 📚 docs: clarify environment setup
+0078. ♻️ chore: update .gitignore
