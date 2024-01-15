@@ -49984,3 +49984,4 @@
 0386. 🚀 perf: optimize database query for quiz results
 0422. 🔧 refactor: organize models into subfolders
 0518. ✨ feat: support email verification
+0411. ✅ test: add unit test for quiz service
