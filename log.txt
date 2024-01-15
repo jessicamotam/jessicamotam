@@ -78794,3 +78794,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0181. ♻️ chore: add GitHub actions badge
 0848. 📚 docs: update README with setup steps
+0024. 📚 docs: write FAQ section
