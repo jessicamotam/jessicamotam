@@ -81407,3 +81407,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0529. 📚 docs: write FAQ section
 0150. 🎨 style: remove trailing whitespace
+0618. ✨ feat: support email verification
