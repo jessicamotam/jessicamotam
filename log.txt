@@ -42847,3 +42847,4 @@
 0421. 🔧 refactor: split large controller into smaller functions
 0863. 🐛 fix: correct typo in registration form
 0558. ✨ feat: enable dark mode toggle
+0131. 📚 docs: write FAQ section
