@@ -58331,3 +58331,4 @@
 0627. 📚 docs: document token refresh logic
 0323. 📚 docs: clarify environment setup
 0488. ♻️ chore: add GitHub actions badge
+0493. ✨ feat: add user authentication
