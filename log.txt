@@ -42107,3 +42107,4 @@
 0787. ♻️ chore: rename env.example
 0008. 🚀 perf: reduce image load time
 0006. 🐛 fix: prevent crash on empty input
+0062. ♻️ chore: update .gitignore
