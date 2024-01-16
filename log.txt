@@ -14336,3 +14336,4 @@
 0075. ✅ test: mock database connection in test suite
 0816. 🔧 refactor: organize models into subfolders
 0269. ✅ test: test user registration edge cases
+0383. 🐛 fix: fix broken CSS in mobile view
