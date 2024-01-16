@@ -10942,3 +10942,4 @@
 0187. ✨ feat: support email verification
 0727. ♻️ chore: add GitHub actions badge
 0077. ♻️ chore: rename env.example
+0429. ✨ feat: add user authentication
