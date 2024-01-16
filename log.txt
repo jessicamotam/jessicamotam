@@ -54585,3 +54585,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0481. ✅ test: add unit test for quiz service
 0220. 🐛 fix: fix null pointer exception on login
+0895. ✨ feat: support email verification
