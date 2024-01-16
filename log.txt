@@ -8738,3 +8738,4 @@
 0693. 📚 docs: add API usage examples
 0931. 🚀 perf: reduce image load time
 0669. ✨ feat: enable dark mode toggle
+0125. ✅ test: add integration test for /submit endpoint
