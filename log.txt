@@ -67952,3 +67952,4 @@
 0253. 📚 docs: update README with setup steps
 0980. 🎨 style: reformat files with black
 0923. ✨ feat: support email verification
+0110. 🐛 fix: prevent crash on empty input
