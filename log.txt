@@ -36057,3 +36057,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0313. 🎨 style: apply consistent indentation
 0204. 🎨 style: standardize quote style
+0021. ✨ feat: support email verification
