@@ -47028,3 +47028,4 @@
 0149. ✨ feat: add export to CSV option
 0388. 🎨 style: reformat files with black
 0794. ♻️ chore: clean up unused files
+0226. 🚀 perf: lazy-load components
