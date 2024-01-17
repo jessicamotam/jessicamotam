@@ -42833,3 +42833,4 @@
 0376. 🎨 style: apply consistent indentation
 0079. 🐛 fix: correct typo in registration form
 0630. 🚀 perf: lazy-load components
+0473. 📚 docs: write FAQ section
