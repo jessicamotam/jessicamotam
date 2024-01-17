@@ -36428,3 +36428,4 @@
 0921. 🐛 fix: correct typo in registration form
 0317. ✅ test: test user registration edge cases
 0066. 🔧 refactor: clean up auth middleware
+0782. 📚 docs: improve code comments in utils
