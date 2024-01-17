@@ -78540,3 +78540,4 @@
 0336. ✨ feat: add export to CSV option
 0323. 📚 docs: clarify environment setup
 0535. 📚 docs: write FAQ section
+0328. 🐛 fix: resolve issue with date parsing
