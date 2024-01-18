@@ -83515,3 +83515,4 @@
 0238. 🎨 style: apply consistent indentation
 0526. ✨ feat: add user authentication
 0058. ♻️ chore: add GitHub actions badge
+0973. 🔧 refactor: organize models into subfolders
