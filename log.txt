@@ -12671,3 +12671,4 @@
 0995. ✅ test: mock database connection in test suite
 0128. ♻️ chore: rename env.example
 0115. 🚀 perf: reduce image load time
+0437. 📚 docs: clarify environment setup
