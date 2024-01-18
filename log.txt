@@ -41073,3 +41073,4 @@
 0175. 📚 docs: add API usage examples
 0592. 📚 docs: add API usage examples
 0362. 📚 docs: add API usage examples
+0588. 🔧 refactor: organize models into subfolders
