@@ -35511,3 +35511,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0788. 📚 docs: add API usage examples
 0687. 🎨 style: remove trailing whitespace
+0920. 🔧 refactor: organize models into subfolders
