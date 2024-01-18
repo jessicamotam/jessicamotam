@@ -36961,3 +36961,4 @@
 0548. 📚 docs: write FAQ section
 0412. ✅ test: increase coverage on auth module
 0753. 🔧 refactor: remove redundant code blocks
+0672. 🐛 fix: fix broken CSS in mobile view
