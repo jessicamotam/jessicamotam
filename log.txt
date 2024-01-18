@@ -42450,3 +42450,4 @@
 0509. ♻️ chore: bump dependencies
 0691. 🎨 style: rename variables for clarity
 0625. 🐛 fix: handle 500 error in quiz API
+0358. 🚀 perf: reduce image load time
