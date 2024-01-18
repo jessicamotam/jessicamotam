@@ -21439,3 +21439,4 @@
 0192. ✨ feat: enable dark mode toggle
 0272. 🔧 refactor: remove redundant code blocks
 0946. ✅ test: add unit test for quiz service
+0894. ✅ test: add integration test for /submit endpoint
