@@ -2439,3 +2439,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0737. 🐛 fix: handle 500 error in quiz API
 0491. 🚀 perf: lazy-load components
+0998. 🐛 fix: fix null pointer exception on login
