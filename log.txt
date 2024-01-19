@@ -27555,3 +27555,4 @@
 0216. 🎨 style: rename variables for clarity
 0938. 🎨 style: rename variables for clarity
 0456. 🚀 perf: optimize database query for quiz results
+0675. 🔧 refactor: organize models into subfolders
