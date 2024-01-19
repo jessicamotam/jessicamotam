@@ -33605,3 +33605,4 @@
 0987. ✨ feat: create admin dashboard
 0768. 🎨 style: remove trailing whitespace
 0296. 🔧 refactor: organize models into subfolders
+0408. ♻️ chore: add GitHub actions badge
