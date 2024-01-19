@@ -85341,3 +85341,4 @@
 0972. 🔧 refactor: refactor quiz grading logic
 0838. 🎨 style: standardize quote style
 0556. ✨ feat: support email verification
+0873. 🚀 perf: cache repeated calculations
