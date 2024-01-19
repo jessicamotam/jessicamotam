@@ -81303,3 +81303,4 @@
 0679. ♻️ chore: bump dependencies
 0952. 🔧 refactor: split large controller into smaller functions
 0165. 🎨 style: remove trailing whitespace
+0690. 🚀 perf: lazy-load components
