@@ -44511,3 +44511,4 @@
 0122. ✨ feat: support email verification
 0492. 🎨 style: remove trailing whitespace
 0277. 🎨 style: standardize quote style
+0076. 🎨 style: reformat files with black
