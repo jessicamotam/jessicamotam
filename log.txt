@@ -16390,3 +16390,4 @@
 0464. 🎨 style: remove trailing whitespace
 0866. 📚 docs: add API usage examples
 0546. 🐛 fix: fix null pointer exception on login
+0472. 🐛 fix: fix null pointer exception on login
