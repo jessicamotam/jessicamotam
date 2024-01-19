@@ -24797,3 +24797,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0874. 🔧 refactor: split large controller into smaller functions
 0407. 🚀 perf: cache repeated calculations
+0880. 🐛 fix: fix broken CSS in mobile view
