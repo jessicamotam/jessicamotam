@@ -52685,3 +52685,4 @@
 0761. ✅ test: add unit test for quiz service
 0679. ♻️ chore: bump dependencies
 0164. 📚 docs: document token refresh logic
+0676. 🐛 fix: prevent crash on empty input
