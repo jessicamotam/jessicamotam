@@ -15937,3 +15937,4 @@
 0186. ✅ test: test user registration edge cases
 0553. 🐛 fix: correct typo in registration form
 0672. 🐛 fix: fix broken CSS in mobile view
+0246. ✅ test: add integration test for /submit endpoint
