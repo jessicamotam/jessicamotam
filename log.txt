@@ -17733,3 +17733,4 @@
 0144. ✅ test: increase coverage on auth module
 0755. 🚀 perf: cache repeated calculations
 0869. ♻️ chore: bump dependencies
+0828. ♻️ chore: add GitHub actions badge
