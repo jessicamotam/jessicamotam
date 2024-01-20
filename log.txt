@@ -34056,3 +34056,4 @@
 0596. ♻️ chore: update .gitignore
 0664. ✅ test: add unit test for quiz service
 0704. 🚀 perf: cache repeated calculations
+0871. ✅ test: add integration test for /submit endpoint
