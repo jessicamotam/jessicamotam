@@ -59986,3 +59986,4 @@
 0770. ♻️ chore: rename env.example
 0914. ✅ test: test user registration edge cases
 0077. ♻️ chore: rename env.example
+0529. 📚 docs: write FAQ section
