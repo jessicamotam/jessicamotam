@@ -26154,3 +26154,4 @@
 0839. 🎨 style: apply consistent indentation
 0929. ✨ feat: support email verification
 0824. 🚀 perf: lazy-load components
+0365. 🚀 perf: reduce image load time
