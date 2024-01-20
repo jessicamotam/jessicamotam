@@ -27875,3 +27875,4 @@
 0112. ✨ feat: enable dark mode toggle
 0634. 🎨 style: reformat files with black
 0569. 📚 docs: document token refresh logic
+0400. 🐛 fix: fix null pointer exception on login
