@@ -56494,3 +56494,4 @@
 0583. ✅ test: increase coverage on auth module
 0158. 📚 docs: clarify environment setup
 0138. 🎨 style: rename variables for clarity
+0979. 🎨 style: standardize quote style
