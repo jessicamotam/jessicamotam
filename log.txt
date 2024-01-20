@@ -51127,3 +51127,4 @@
 0117. ✅ test: increase coverage on auth module
 0163. ✨ feat: implement quiz timer feature
 0145. 📚 docs: improve code comments in utils
+0568. 🐛 fix: handle 500 error in quiz API
