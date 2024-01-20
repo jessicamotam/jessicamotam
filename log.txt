@@ -22435,3 +22435,4 @@
 0502. 📚 docs: update README with setup steps
 0210. 🎨 style: apply consistent indentation
 0918. ✨ feat: enable dark mode toggle
+0153. ♻️ chore: rename env.example
