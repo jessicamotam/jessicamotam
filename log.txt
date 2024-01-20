@@ -51492,3 +51492,4 @@
 0619. ✨ feat: create admin dashboard
 0086. 🐛 fix: correct typo in registration form
 0892. ✅ test: add unit test for quiz service
+0893. 🐛 fix: handle 500 error in quiz API
