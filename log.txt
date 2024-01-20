@@ -44622,3 +44622,4 @@
 0574. ✨ feat: enable dark mode toggle
 0041. 🐛 fix: fix broken CSS in mobile view
 0760. 🐛 fix: resolve issue with date parsing
+0756. ✨ feat: support email verification
