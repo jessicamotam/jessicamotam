@@ -52660,3 +52660,4 @@
 0683. ✅ test: mock database connection in test suite
 0431. 🎨 style: reformat files with black
 0005. ✅ test: add unit test for quiz service
+0844. 📚 docs: update README with setup steps
