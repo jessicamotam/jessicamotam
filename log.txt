@@ -38931,3 +38931,4 @@
 0215. 🎨 style: reformat files with black
 0113. ✨ feat: add user authentication
 0938. 🎨 style: rename variables for clarity
+0459. 🔧 refactor: organize models into subfolders
