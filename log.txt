@@ -36105,3 +36105,4 @@
 0730. ✅ test: test user registration edge cases
 0731. 🎨 style: standardize quote style
 0584. 🚀 perf: lazy-load components
+0197. 📚 docs: update README with setup steps
