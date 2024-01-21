@@ -47948,3 +47948,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0735. ♻️ chore: add GitHub actions badge
 0809. ♻️ chore: rename env.example
+0366. 🔧 refactor: remove redundant code blocks
