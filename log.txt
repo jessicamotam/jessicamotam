@@ -81772,3 +81772,4 @@
 0852. ✨ feat: enable dark mode toggle
 0988. 🐛 fix: fix broken CSS in mobile view
 0312. ✨ feat: add user authentication
+0281. ✨ feat: support email verification
