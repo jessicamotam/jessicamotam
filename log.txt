@@ -43055,3 +43055,4 @@
 0990. ♻️ chore: rename env.example
 0394. 🚀 perf: lazy-load components
 0005. ✅ test: add unit test for quiz service
+0562. 🔧 refactor: clean up auth middleware
