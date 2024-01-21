@@ -1687,3 +1687,4 @@
 0180. ✨ feat: add export to CSV option
 0735. ♻️ chore: add GitHub actions badge
 0722. 📚 docs: add API usage examples
+0295. 🎨 style: remove trailing whitespace
