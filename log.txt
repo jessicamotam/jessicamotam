@@ -67872,3 +67872,4 @@
 0673. 🐛 fix: correct typo in registration form
 0408. ♻️ chore: add GitHub actions badge
 0607. 🐛 fix: prevent crash on empty input
+0962. ✨ feat: create admin dashboard
