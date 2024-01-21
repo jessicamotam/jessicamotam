@@ -25541,3 +25541,4 @@
 0356. 📚 docs: write FAQ section
 0975. 🎨 style: apply consistent indentation
 0383. 🐛 fix: fix broken CSS in mobile view
+0430. 🐛 fix: fix null pointer exception on login
