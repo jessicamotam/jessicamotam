@@ -84969,3 +84969,4 @@
 0188. 🎨 style: apply consistent indentation
 0653. 🐛 fix: prevent crash on empty input
 0912. 📚 docs: document token refresh logic
+0290. ✅ test: test user registration edge cases
