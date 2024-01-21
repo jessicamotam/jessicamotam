@@ -18519,3 +18519,4 @@
 0339. 📚 docs: update README with setup steps
 0288. 🔧 refactor: refactor quiz grading logic
 0539. 🔧 refactor: organize models into subfolders
+0792. 🎨 style: standardize quote style
