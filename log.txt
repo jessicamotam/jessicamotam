@@ -1458,3 +1458,4 @@
 0104. 🎨 style: apply consistent indentation
 0100. ♻️ chore: update .gitignore
 0577. ✨ feat: implement quiz timer feature
+0006. 🐛 fix: prevent crash on empty input
