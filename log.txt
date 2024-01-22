@@ -42936,3 +42936,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0861. ♻️ chore: clean up unused files
 0330. ✅ test: test user registration edge cases
+0055. 📚 docs: update README with setup steps
