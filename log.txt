@@ -64539,3 +64539,4 @@
 0448. 🐛 fix: correct typo in registration form
 0089. 🔧 refactor: remove redundant code blocks
 0304. 🔧 refactor: remove redundant code blocks
+0081. 🐛 fix: fix null pointer exception on login
