@@ -51110,3 +51110,4 @@
 0685. ✅ test: test user registration edge cases
 0631. ✨ feat: create admin dashboard
 0705. 🔧 refactor: refactor quiz grading logic
+0229. 🚀 perf: optimize database query for quiz results
