@@ -37090,3 +37090,4 @@
 0379. ✨ feat: support email verification
 0799. ♻️ chore: clean up unused files
 0080. ✨ feat: support email verification
+0640. ♻️ chore: bump dependencies
