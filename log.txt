@@ -3364,3 +3364,4 @@
 0616. 🚀 perf: lazy-load components
 0330. ✅ test: test user registration edge cases
 0845. 🚀 perf: cache repeated calculations
+0212. 🎨 style: standardize quote style
