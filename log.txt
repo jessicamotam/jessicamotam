@@ -82534,3 +82534,4 @@
 0925. ✨ feat: add export to CSV option
 0265. 🎨 style: reformat files with black
 0200. 🐛 fix: handle 500 error in quiz API
+0307. ✨ feat: support email verification
