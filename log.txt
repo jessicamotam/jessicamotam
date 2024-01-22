@@ -56102,3 +56102,4 @@
 0969. ✨ feat: create admin dashboard
 0861. ♻️ chore: clean up unused files
 0447. ♻️ chore: bump dependencies
+0086. 🐛 fix: correct typo in registration form
