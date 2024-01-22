@@ -22633,3 +22633,4 @@
 0933. 📚 docs: clarify environment setup
 0139. 📚 docs: document token refresh logic
 0761. ✅ test: add unit test for quiz service
+0543. ✨ feat: support email verification
