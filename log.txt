@@ -83880,3 +83880,4 @@
 0755. 🚀 perf: cache repeated calculations
 0899. 🚀 perf: cache repeated calculations
 0830. 🎨 style: apply consistent indentation
+0561. 📚 docs: write FAQ section
