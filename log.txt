@@ -58770,3 +58770,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0008. 🚀 perf: reduce image load time
 0043. ✅ test: add integration test for /submit endpoint
+0989. 📚 docs: write FAQ section
