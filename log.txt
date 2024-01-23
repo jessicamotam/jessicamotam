@@ -72618,3 +72618,4 @@
 0143. ✨ feat: implement quiz timer feature
 0852. ✨ feat: enable dark mode toggle
 0918. ✨ feat: enable dark mode toggle
+0136. 🚀 perf: lazy-load components
