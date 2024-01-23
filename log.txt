@@ -36056,3 +36056,4 @@
 0635. 🎨 style: apply consistent indentation
 0278. 🔧 refactor: clean up auth middleware
 0313. 🎨 style: apply consistent indentation
+0204. 🎨 style: standardize quote style
