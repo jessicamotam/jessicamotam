@@ -48544,3 +48544,4 @@
 0482. ✨ feat: add export to CSV option
 0244. ✨ feat: add export to CSV option
 0298. ♻️ chore: update .gitignore
+0918. ✨ feat: enable dark mode toggle
