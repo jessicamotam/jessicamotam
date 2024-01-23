@@ -64257,3 +64257,4 @@
 0792. 🎨 style: standardize quote style
 0087. ✨ feat: add export to CSV option
 0053. ✅ test: increase coverage on auth module
+0621. 🔧 refactor: clean up auth middleware
