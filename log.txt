@@ -13161,3 +13161,4 @@
 0792. 🎨 style: standardize quote style
 0076. 🎨 style: reformat files with black
 0443. 🎨 style: standardize quote style
+0553. 🐛 fix: correct typo in registration form
