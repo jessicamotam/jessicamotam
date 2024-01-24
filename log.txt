@@ -51702,3 +51702,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0101. 📚 docs: clarify environment setup
 0998. 🐛 fix: fix null pointer exception on login
+0874. 🔧 refactor: split large controller into smaller functions
