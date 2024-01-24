@@ -14971,3 +14971,4 @@
 0237. 🎨 style: standardize quote style
 0855. 🎨 style: reformat files with black
 0061. ✨ feat: create admin dashboard
+0927. ♻️ chore: bump dependencies
