@@ -48218,3 +48218,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0989. 📚 docs: write FAQ section
 0971. 🎨 style: standardize quote style
+0820. 📚 docs: add API usage examples
