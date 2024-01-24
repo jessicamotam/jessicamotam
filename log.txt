@@ -15691,3 +15691,4 @@
 0404. 📚 docs: improve code comments in utils
 0776. ✅ test: add integration test for /submit endpoint
 0440. 📚 docs: update README with setup steps
+0036. 🔧 refactor: clean up auth middleware
