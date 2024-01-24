@@ -46175,3 +46175,4 @@
 0925. ✨ feat: add export to CSV option
 0092. 🚀 perf: reduce image load time
 0989. 📚 docs: write FAQ section
+0317. ✅ test: test user registration edge cases
