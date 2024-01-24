@@ -57455,3 +57455,4 @@
 0257. 📚 docs: clarify environment setup
 0488. ♻️ chore: add GitHub actions badge
 0613. 🐛 fix: prevent crash on empty input
+0062. ♻️ chore: update .gitignore
