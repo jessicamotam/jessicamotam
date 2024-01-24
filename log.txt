@@ -66099,3 +66099,4 @@
 0925. ✨ feat: add export to CSV option
 0554. 📚 docs: improve code comments in utils
 0085. ✨ feat: support email verification
+0706. ✨ feat: support email verification
