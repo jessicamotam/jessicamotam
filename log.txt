@@ -43493,3 +43493,4 @@
 0642. 🚀 perf: optimize database query for quiz results
 0756. ✨ feat: support email verification
 0082. 🔧 refactor: refactor quiz grading logic
+0689. 🎨 style: reformat files with black
