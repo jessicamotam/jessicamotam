@@ -79229,3 +79229,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0604. 📚 docs: add API usage examples
 0116. ✨ feat: support email verification
+0483. 📚 docs: update README with setup steps
