@@ -51174,3 +51174,4 @@
 0673. 🐛 fix: correct typo in registration form
 0345. 📚 docs: document token refresh logic
 0860. 🔧 refactor: organize models into subfolders
+0451. ✨ feat: support email verification
