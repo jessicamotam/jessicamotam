@@ -27788,3 +27788,4 @@
 0390. 🎨 style: standardize quote style
 0501. ✨ feat: add export to CSV option
 0891. ✨ feat: create admin dashboard
+0791. 🔧 refactor: clean up auth middleware
