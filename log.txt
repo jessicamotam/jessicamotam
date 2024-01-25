@@ -38647,3 +38647,4 @@
 0904. ✨ feat: implement quiz timer feature
 0582. ✨ feat: add export to CSV option
 0775. 🐛 fix: fix null pointer exception on login
+0265. 🎨 style: reformat files with black
