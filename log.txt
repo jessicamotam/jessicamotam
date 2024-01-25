@@ -71292,3 +71292,4 @@
 0072. 🚀 perf: optimize database query for quiz results
 0300. ✨ feat: add export to CSV option
 0732. ♻️ chore: add GitHub actions badge
+0091. ✨ feat: add user authentication
