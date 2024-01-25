@@ -53357,3 +53357,4 @@
 0526. ✨ feat: add user authentication
 0600. 🐛 fix: prevent crash on empty input
 0122. ✨ feat: support email verification
+0259. 🚀 perf: lazy-load components
