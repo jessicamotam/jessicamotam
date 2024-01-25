@@ -74002,3 +74002,4 @@
 0393. 🚀 perf: lazy-load components
 0836. 🚀 perf: optimize database query for quiz results
 0223. 🔧 refactor: remove redundant code blocks
+0852. ✨ feat: enable dark mode toggle
