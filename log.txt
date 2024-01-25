@@ -2873,3 +2873,4 @@
 0185. 📚 docs: write FAQ section
 0324. 📚 docs: document token refresh logic
 0967. ♻️ chore: add GitHub actions badge
+0787. ♻️ chore: rename env.example
