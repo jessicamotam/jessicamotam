@@ -15003,3 +15003,4 @@
 0884. 📚 docs: clarify environment setup
 0537. 🔧 refactor: remove redundant code blocks
 0847. ♻️ chore: clean up unused files
+0791. 🔧 refactor: clean up auth middleware
