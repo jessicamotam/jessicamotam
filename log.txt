@@ -43619,3 +43619,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0003. ✅ test: increase coverage on auth module
 0161. ✨ feat: create admin dashboard
+0197. 📚 docs: update README with setup steps
