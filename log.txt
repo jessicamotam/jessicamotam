@@ -16155,3 +16155,4 @@
 0700. 🎨 style: rename variables for clarity
 0489. 🔧 refactor: organize models into subfolders
 0148. 🔧 refactor: organize models into subfolders
+0174. 📚 docs: clarify environment setup
