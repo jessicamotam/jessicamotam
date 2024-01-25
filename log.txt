@@ -73683,3 +73683,4 @@
 0686. 🎨 style: standardize quote style
 0942. ✅ test: increase coverage on auth module
 0628. ♻️ chore: add GitHub actions badge
+0107. 🐛 fix: prevent crash on empty input
