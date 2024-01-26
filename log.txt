@@ -32027,3 +32027,4 @@
 0962. ✨ feat: create admin dashboard
 0724. ✅ test: mock database connection in test suite
 0219. ✅ test: increase coverage on auth module
+0219. ✅ test: increase coverage on auth module
