@@ -57706,3 +57706,4 @@
 0670. ✨ feat: add export to CSV option
 0643. 🎨 style: apply consistent indentation
 0300. ✨ feat: add export to CSV option
+0751. 🐛 fix: handle 500 error in quiz API
