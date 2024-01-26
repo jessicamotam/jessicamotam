@@ -28161,3 +28161,4 @@
 0202. 🔧 refactor: refactor quiz grading logic
 0304. 🔧 refactor: remove redundant code blocks
 0449. ✅ test: add unit test for quiz service
+0531. 🐛 fix: prevent crash on empty input
