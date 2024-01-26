@@ -71123,3 +71123,4 @@
 0216. 🎨 style: rename variables for clarity
 0348. ✅ test: test user registration edge cases
 0250. 📚 docs: update README with setup steps
+0959. 🐛 fix: fix null pointer exception on login
