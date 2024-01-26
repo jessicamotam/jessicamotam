@@ -53773,3 +53773,4 @@
 0295. 🎨 style: remove trailing whitespace
 0716. ✨ feat: implement quiz timer feature
 0487. 🎨 style: reformat files with black
+0981. 🚀 perf: lazy-load components
