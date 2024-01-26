@@ -7764,3 +7764,4 @@
 0094. 📚 docs: document token refresh logic
 0626. 🎨 style: standardize quote style
 0875. ✅ test: increase coverage on auth module
+0110. 🐛 fix: prevent crash on empty input
