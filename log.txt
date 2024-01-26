@@ -3293,3 +3293,4 @@
 0601. ✨ feat: implement quiz timer feature
 0381. ♻️ chore: clean up unused files
 0429. ✨ feat: add user authentication
+0525. ✅ test: mock database connection in test suite
