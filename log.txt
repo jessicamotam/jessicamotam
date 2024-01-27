@@ -89186,3 +89186,4 @@
 0811. 🎨 style: reformat files with black
 0176. 🔧 refactor: remove redundant code blocks
 0769. ✨ feat: create admin dashboard
+0507. 🔧 refactor: clean up auth middleware
