@@ -48555,3 +48555,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0821. ✅ test: add integration test for /submit endpoint
 0185. 📚 docs: write FAQ section
+0544. 🔧 refactor: organize models into subfolders
