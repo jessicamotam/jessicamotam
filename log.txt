@@ -50000,3 +50000,4 @@
 0745. ✅ test: add unit test for quiz service
 0186. ✅ test: test user registration edge cases
 0690. 🚀 perf: lazy-load components
+0344. ♻️ chore: add GitHub actions badge
