@@ -51100,3 +51100,4 @@
 0575. ✅ test: add unit test for quiz service
 0142. ✨ feat: implement quiz timer feature
 0666. 🐛 fix: fix broken CSS in mobile view
+0735. ♻️ chore: add GitHub actions badge
