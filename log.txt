@@ -21528,3 +21528,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0203. 🚀 perf: lazy-load components
 0190. 🎨 style: rename variables for clarity
+0968. 🎨 style: standardize quote style
