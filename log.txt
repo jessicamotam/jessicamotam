@@ -4716,3 +4716,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0002. 🚀 perf: cache repeated calculations
 0144. ✅ test: increase coverage on auth module
+0361. ✨ feat: support email verification
