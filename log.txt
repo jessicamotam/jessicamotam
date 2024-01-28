@@ -50318,3 +50318,4 @@
 0852. ✨ feat: enable dark mode toggle
 0614. 🚀 perf: reduce image load time
 0998. 🐛 fix: fix null pointer exception on login
+0316. 🐛 fix: fix broken CSS in mobile view
