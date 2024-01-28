@@ -76916,3 +76916,4 @@
 0669. ✨ feat: enable dark mode toggle
 0335. ♻️ chore: update .gitignore
 0610. 🚀 perf: lazy-load components
+0502. 📚 docs: update README with setup steps
