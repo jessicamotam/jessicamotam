@@ -12197,3 +12197,4 @@
 0437. 📚 docs: clarify environment setup
 0245. 🐛 fix: resolve issue with date parsing
 0181. ♻️ chore: add GitHub actions badge
+0153. ♻️ chore: rename env.example
