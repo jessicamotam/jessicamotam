@@ -37096,3 +37096,4 @@
 0963. 🚀 perf: reduce image load time
 0459. 🔧 refactor: organize models into subfolders
 0523. ♻️ chore: bump dependencies
+0468. 📚 docs: update README with setup steps
