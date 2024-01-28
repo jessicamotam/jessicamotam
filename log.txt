@@ -71404,3 +71404,4 @@
 0921. 🐛 fix: correct typo in registration form
 0935. 📚 docs: update README with setup steps
 0449. ✅ test: add unit test for quiz service
+0100. ♻️ chore: update .gitignore
