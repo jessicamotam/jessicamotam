@@ -35075,3 +35075,4 @@
 0453. 🎨 style: standardize quote style
 0231. 🔧 refactor: clean up auth middleware
 1000. ✅ test: increase coverage on auth module
+0978. 🐛 fix: prevent crash on empty input
