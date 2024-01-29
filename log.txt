@@ -17189,3 +17189,4 @@
 0260. ✨ feat: create admin dashboard
 0799. ♻️ chore: clean up unused files
 0073. 🔧 refactor: split large controller into smaller functions
+0049. 🐛 fix: handle 500 error in quiz API
