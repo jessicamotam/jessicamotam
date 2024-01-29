@@ -29196,3 +29196,4 @@
 0448. 🐛 fix: correct typo in registration form
 0009. ✨ feat: enable dark mode toggle
 0784. ♻️ chore: clean up unused files
+0583. ✅ test: increase coverage on auth module
