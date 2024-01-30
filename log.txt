@@ -26166,3 +26166,4 @@
 0790. 📚 docs: write FAQ section
 0734. ✨ feat: add export to CSV option
 0411. ✅ test: add unit test for quiz service
+0953. 🎨 style: remove trailing whitespace
