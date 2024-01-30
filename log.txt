@@ -76610,3 +76610,4 @@
 0496. ✅ test: add integration test for /submit endpoint
 0960. ✅ test: increase coverage on auth module
 0038. 🎨 style: rename variables for clarity
+0893. 🐛 fix: handle 500 error in quiz API
