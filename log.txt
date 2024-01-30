@@ -28495,3 +28495,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0413. ✅ test: add integration test for /submit endpoint
 0372. ✨ feat: add user authentication
+0614. 🚀 perf: reduce image load time
