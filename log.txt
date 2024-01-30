@@ -8335,3 +8335,4 @@
 0209. ✨ feat: implement quiz timer feature
 0005. ✅ test: add unit test for quiz service
 0373. 📚 docs: document token refresh logic
+0186. ✅ test: test user registration edge cases
