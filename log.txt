@@ -42211,3 +42211,4 @@
 0042. 📚 docs: document token refresh logic
 0599. ✅ test: test user registration edge cases
 0706. ✨ feat: support email verification
+0246. ✅ test: add integration test for /submit endpoint
