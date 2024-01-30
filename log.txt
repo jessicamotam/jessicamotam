@@ -46322,3 +46322,4 @@
 0412. ✅ test: increase coverage on auth module
 0767. 🔧 refactor: remove redundant code blocks
 0448. 🐛 fix: correct typo in registration form
+0909. 🔧 refactor: organize models into subfolders
