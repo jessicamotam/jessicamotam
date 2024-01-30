@@ -1979,3 +1979,4 @@
 0886. ♻️ chore: clean up unused files
 0206. 🐛 fix: handle 500 error in quiz API
 0773. 📚 docs: document token refresh logic
+0566. 📚 docs: write FAQ section
