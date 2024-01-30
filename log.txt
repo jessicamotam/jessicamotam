@@ -145,3 +145,4 @@
 0420. 🚀 perf: reduce image load time
 0632. 🎨 style: remove trailing whitespace
 0916. ♻️ chore: bump dependencies
+0320. 📚 docs: update README with setup steps
