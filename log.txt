@@ -64746,3 +64746,4 @@
 0971. 🎨 style: standardize quote style
 0284. ✨ feat: implement quiz timer feature
 0764. ✨ feat: add user authentication
+0368. 🚀 perf: lazy-load components
