@@ -58969,3 +58969,4 @@
 0407. 🚀 perf: cache repeated calculations
 0245. 🐛 fix: resolve issue with date parsing
 0466. 🚀 perf: optimize database query for quiz results
+0584. 🚀 perf: lazy-load components
