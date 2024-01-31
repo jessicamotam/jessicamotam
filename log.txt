@@ -12498,3 +12498,4 @@
 0471. ✨ feat: support email verification
 0429. ✨ feat: add user authentication
 0042. 📚 docs: document token refresh logic
+0535. 📚 docs: write FAQ section
