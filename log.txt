@@ -85001,3 +85001,4 @@
 0498. ✅ test: mock database connection in test suite
 0262. 🎨 style: remove trailing whitespace
 0717. 🔧 refactor: refactor quiz grading logic
+0618. ✨ feat: support email verification
