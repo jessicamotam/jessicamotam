@@ -34798,3 +34798,4 @@
 0475. 🔧 refactor: clean up auth middleware
 0891. ✨ feat: create admin dashboard
 0474. ✅ test: add unit test for quiz service
+0556. ✨ feat: support email verification
