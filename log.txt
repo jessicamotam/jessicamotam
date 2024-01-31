@@ -28240,3 +28240,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0457. 🐛 fix: handle 500 error in quiz API
 0308. 🚀 perf: reduce image load time
+0665. ♻️ chore: update .gitignore
