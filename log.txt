@@ -6921,3 +6921,4 @@
 0927. ♻️ chore: bump dependencies
 0068. 🐛 fix: fix null pointer exception on login
 0902. ✨ feat: enable dark mode toggle
+0801. ✨ feat: enable dark mode toggle
