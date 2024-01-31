@@ -43920,3 +43920,4 @@
 0687. 🎨 style: remove trailing whitespace
 0317. ✅ test: test user registration edge cases
 0111. 📚 docs: update README with setup steps
+0027. 📚 docs: clarify environment setup
