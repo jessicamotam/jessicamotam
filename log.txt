@@ -66584,3 +66584,4 @@
 0279. ✨ feat: support email verification
 0111. 📚 docs: update README with setup steps
 0910. 🎨 style: remove trailing whitespace
+0958. 🐛 fix: prevent crash on empty input
