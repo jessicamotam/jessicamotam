@@ -64671,3 +64671,4 @@
 0502. 📚 docs: update README with setup steps
 0495. 🔧 refactor: remove redundant code blocks
 0876. ♻️ chore: rename env.example
+0556. ✨ feat: support email verification
