@@ -31073,3 +31073,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0430. 🐛 fix: fix null pointer exception on login
 0886. ♻️ chore: clean up unused files
+0607. 🐛 fix: prevent crash on empty input
