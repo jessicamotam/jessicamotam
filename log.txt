@@ -36969,3 +36969,4 @@
 0543. ✨ feat: support email verification
 0140. 🐛 fix: handle 500 error in quiz API
 0099. 🚀 perf: reduce image load time
+0778. 📚 docs: write FAQ section
