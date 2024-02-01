@@ -27179,3 +27179,4 @@
 0417. 🎨 style: rename variables for clarity
 0494. 🎨 style: rename variables for clarity
 0113. ✨ feat: add user authentication
+0701. 🔧 refactor: clean up auth middleware
