@@ -73419,3 +73419,4 @@
 0792. 🎨 style: standardize quote style
 0737. 🐛 fix: handle 500 error in quiz API
 0101. 📚 docs: clarify environment setup
+0566. 📚 docs: write FAQ section
