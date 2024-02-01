@@ -68238,3 +68238,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0028. 🎨 style: standardize quote style
 0284. ✨ feat: implement quiz timer feature
+0079. 🐛 fix: correct typo in registration form
