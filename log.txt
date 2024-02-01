@@ -52318,3 +52318,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0567. 📚 docs: add API usage examples
 0425. 🔧 refactor: refactor quiz grading logic
+0583. ✅ test: increase coverage on auth module
