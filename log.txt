@@ -22764,3 +22764,4 @@
 0214. 📚 docs: improve code comments in utils
 0687. 🎨 style: remove trailing whitespace
 0498. ✅ test: mock database connection in test suite
+0836. 🚀 perf: optimize database query for quiz results
