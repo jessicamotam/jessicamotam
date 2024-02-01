@@ -26599,3 +26599,4 @@
 0918. ✨ feat: enable dark mode toggle
 0677. 📚 docs: add API usage examples
 0352. ✨ feat: add export to CSV option
+0945. ♻️ chore: add GitHub actions badge
