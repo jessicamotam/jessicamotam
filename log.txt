@@ -2599,3 +2599,4 @@
 0778. 📚 docs: write FAQ section
 0617. ✨ feat: support email verification
 0118. 🚀 perf: reduce image load time
+0618. ✨ feat: support email verification
