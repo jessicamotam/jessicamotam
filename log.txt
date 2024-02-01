@@ -86301,3 +86301,4 @@
 0440. 📚 docs: update README with setup steps
 0971. 🎨 style: standardize quote style
 0908. ♻️ chore: bump dependencies
+0672. 🐛 fix: fix broken CSS in mobile view
