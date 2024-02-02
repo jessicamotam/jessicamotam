@@ -20489,3 +20489,4 @@
 0133. 🐛 fix: fix null pointer exception on login
 0249. ✅ test: increase coverage on auth module
 0310. 🔧 refactor: refactor quiz grading logic
+0408. ♻️ chore: add GitHub actions badge
