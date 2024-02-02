@@ -41083,3 +41083,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0076. 🎨 style: reformat files with black
 0574. ✨ feat: enable dark mode toggle
+0567. 📚 docs: add API usage examples
