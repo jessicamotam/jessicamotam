@@ -75866,3 +75866,4 @@
 0134. ✨ feat: implement quiz timer feature
 0228. 🔧 refactor: remove redundant code blocks
 0058. ♻️ chore: add GitHub actions badge
+0556. ✨ feat: support email verification
