@@ -71011,3 +71011,4 @@
 0348. ✅ test: test user registration edge cases
 0287. 📚 docs: write FAQ section
 0375. 🐛 fix: handle 500 error in quiz API
+0616. 🚀 perf: lazy-load components
