@@ -77187,3 +77187,4 @@
 0194. 🎨 style: standardize quote style
 0696. 🔧 refactor: clean up auth middleware
 0167. 🚀 perf: reduce image load time
+0023. 📚 docs: clarify environment setup
