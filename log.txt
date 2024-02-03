@@ -64612,3 +64612,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0292. 📚 docs: clarify environment setup
 0381. ♻️ chore: clean up unused files
+0617. ✨ feat: support email verification
