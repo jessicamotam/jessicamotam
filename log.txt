@@ -90868,3 +90868,4 @@
 0761. ✅ test: add unit test for quiz service
 0293. ✅ test: add integration test for /submit endpoint
 0857. 🎨 style: rename variables for clarity
+0081. 🐛 fix: fix null pointer exception on login
