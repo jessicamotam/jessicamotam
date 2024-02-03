@@ -87448,3 +87448,4 @@
 0661. ✅ test: add integration test for /submit endpoint
 0492. 🎨 style: remove trailing whitespace
 0058. ♻️ chore: add GitHub actions badge
+0981. 🚀 perf: lazy-load components
