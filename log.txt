@@ -82002,3 +82002,4 @@
 0389. 📚 docs: improve code comments in utils
 0840. 🔧 refactor: refactor quiz grading logic
 0090. ✅ test: increase coverage on auth module
+0368. 🚀 perf: lazy-load components
