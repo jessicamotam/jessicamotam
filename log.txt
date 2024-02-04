@@ -47296,3 +47296,4 @@
 0678. ✨ feat: add user authentication
 0295. 🎨 style: remove trailing whitespace
 0934. ✨ feat: support email verification
+0580. ♻️ chore: bump dependencies
