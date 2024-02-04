@@ -85809,3 +85809,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0433. 🐛 fix: prevent crash on empty input
 0272. 🔧 refactor: remove redundant code blocks
+0144. ✅ test: increase coverage on auth module
