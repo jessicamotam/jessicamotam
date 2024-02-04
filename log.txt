@@ -8056,3 +8056,4 @@
 0473. 📚 docs: write FAQ section
 0879. 🎨 style: standardize quote style
 0672. 🐛 fix: fix broken CSS in mobile view
+0317. ✅ test: test user registration edge cases
