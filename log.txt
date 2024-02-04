@@ -86,3 +86,4 @@
 0984. ♻️ chore: clean up unused files
 0906. 📚 docs: add API usage examples
 0425. 🔧 refactor: refactor quiz grading logic
+0398. 🚀 perf: cache repeated calculations
