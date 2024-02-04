@@ -57794,3 +57794,4 @@
 0697. ♻️ chore: bump dependencies
 0271. ✅ test: add unit test for quiz service
 0539. 🔧 refactor: organize models into subfolders
+0783. 🐛 fix: handle 500 error in quiz API
