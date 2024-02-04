@@ -21353,3 +21353,4 @@
 0942. ✅ test: increase coverage on auth module
 0870. ♻️ chore: clean up unused files
 0594. 🎨 style: reformat files with black
+0136. 🚀 perf: lazy-load components
