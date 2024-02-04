@@ -56320,3 +56320,4 @@
 0509. ♻️ chore: bump dependencies
 0720. ✨ feat: add export to CSV option
 0929. ✨ feat: support email verification
+0642. 🚀 perf: optimize database query for quiz results
