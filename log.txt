@@ -72639,3 +72639,4 @@
 0152. ✨ feat: add user authentication
 0235. 🐛 fix: fix null pointer exception on login
 0240. 🔧 refactor: remove redundant code blocks
+0294. 🐛 fix: prevent crash on empty input
