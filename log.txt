@@ -58116,3 +58116,4 @@
 0992. ♻️ chore: clean up unused files
 0330. ✅ test: test user registration edge cases
 0937. 🐛 fix: handle 500 error in quiz API
+0908. ♻️ chore: bump dependencies
