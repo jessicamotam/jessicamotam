@@ -87668,3 +87668,4 @@
 0786. ✨ feat: enable dark mode toggle
 0754. 🐛 fix: handle 500 error in quiz API
 0085. ✨ feat: support email verification
+0833. ✨ feat: add user authentication
