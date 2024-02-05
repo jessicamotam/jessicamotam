@@ -55067,3 +55067,4 @@
 0405. ✅ test: mock database connection in test suite
 0160. ♻️ chore: bump dependencies
 0939. 📚 docs: update README with setup steps
+0270. ♻️ chore: rename env.example
