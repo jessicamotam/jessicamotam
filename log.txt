@@ -14009,3 +14009,4 @@
 0541. 🐛 fix: correct typo in registration form
 0181. ♻️ chore: add GitHub actions badge
 0282. 🔧 refactor: remove redundant code blocks
+0244. ✨ feat: add export to CSV option
