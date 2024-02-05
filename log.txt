@@ -594,3 +594,4 @@
 0960. ✅ test: increase coverage on auth module
 0809. ♻️ chore: rename env.example
 0880. 🐛 fix: fix broken CSS in mobile view
+0134. ✨ feat: implement quiz timer feature
