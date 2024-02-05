@@ -61762,3 +61762,4 @@
 0947. 📚 docs: write FAQ section
 0826. 📚 docs: clarify environment setup
 0391. 🐛 fix: fix null pointer exception on login
+0880. 🐛 fix: fix broken CSS in mobile view
