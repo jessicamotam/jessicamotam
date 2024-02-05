@@ -9600,3 +9600,4 @@
 0230. ✨ feat: create admin dashboard
 0801. ✨ feat: enable dark mode toggle
 0261. 🔧 refactor: refactor quiz grading logic
+0331. 🐛 fix: fix broken CSS in mobile view
