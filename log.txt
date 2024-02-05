@@ -1067,3 +1067,4 @@
 0922. 📚 docs: write FAQ section
 0010. ✨ feat: add user authentication
 0461. ✨ feat: add user authentication
+0582. ✨ feat: add export to CSV option
