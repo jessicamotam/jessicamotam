@@ -14848,3 +14848,4 @@
 0267. 📚 docs: improve code comments in utils
 0805. ♻️ chore: add GitHub actions badge
 0128. ♻️ chore: rename env.example
+0013. ✅ test: increase coverage on auth module
