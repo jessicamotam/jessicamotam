@@ -72018,3 +72018,4 @@
 0185. 📚 docs: write FAQ section
 0471. ✨ feat: support email verification
 0114. ♻️ chore: update .gitignore
+0518. ✨ feat: support email verification
