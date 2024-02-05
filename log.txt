@@ -38428,3 +38428,4 @@
 0239. 🎨 style: standardize quote style
 0985. 📚 docs: document token refresh logic
 0381. ♻️ chore: clean up unused files
+0934. ✨ feat: support email verification
