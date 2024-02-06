@@ -39096,3 +39096,4 @@
 0086. 🐛 fix: correct typo in registration form
 0913. 🚀 perf: optimize database query for quiz results
 0509. ♻️ chore: bump dependencies
+0460. 📚 docs: write FAQ section
