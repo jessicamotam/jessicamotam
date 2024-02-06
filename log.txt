@@ -61490,3 +61490,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0504. 📚 docs: document token refresh logic
 0677. 📚 docs: add API usage examples
+0978. 🐛 fix: prevent crash on empty input
