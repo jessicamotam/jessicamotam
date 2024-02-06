@@ -66487,3 +66487,4 @@
 0431. 🎨 style: reformat files with black
 0627. 📚 docs: document token refresh logic
 0508. ✅ test: add unit test for quiz service
+0281. ✨ feat: support email verification
