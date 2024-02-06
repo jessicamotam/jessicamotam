@@ -25859,3 +25859,4 @@
 0362. 📚 docs: add API usage examples
 0103. 🔧 refactor: remove redundant code blocks
 0287. 📚 docs: write FAQ section
+0227. ✅ test: test user registration edge cases
