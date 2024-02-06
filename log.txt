@@ -14017,3 +14017,4 @@
 0641. 📚 docs: write FAQ section
 0904. ✨ feat: implement quiz timer feature
 0500. ✅ test: add integration test for /submit endpoint
+0140. 🐛 fix: handle 500 error in quiz API
