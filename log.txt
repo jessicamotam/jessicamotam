@@ -34147,3 +34147,4 @@
 0548. 📚 docs: write FAQ section
 0646. ✅ test: test user registration edge cases
 0278. 🔧 refactor: clean up auth middleware
+0992. ♻️ chore: clean up unused files
