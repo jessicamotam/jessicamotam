@@ -53366,3 +53366,4 @@
 0579. 📚 docs: clarify environment setup
 0090. ✅ test: increase coverage on auth module
 0535. 📚 docs: write FAQ section
+0051. ✨ feat: enable dark mode toggle
