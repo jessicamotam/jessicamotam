@@ -21146,3 +21146,4 @@
 1000. ✅ test: increase coverage on auth module
 0167. 🚀 perf: reduce image load time
 0156. 🎨 style: rename variables for clarity
+0714. 📚 docs: improve code comments in utils
