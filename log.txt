@@ -81912,3 +81912,4 @@
 0941. 🚀 perf: cache repeated calculations
 0607. 🐛 fix: prevent crash on empty input
 0218. 🔧 refactor: clean up auth middleware
+0468. 📚 docs: update README with setup steps
