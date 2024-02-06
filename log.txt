@@ -8471,3 +8471,4 @@
 0901. ✨ feat: add user authentication
 0397. 🐛 fix: handle 500 error in quiz API
 0842. 🎨 style: remove trailing whitespace
+0232. 🎨 style: apply consistent indentation
