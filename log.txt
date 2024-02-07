@@ -18565,3 +18565,4 @@
 0663. 🚀 perf: reduce image load time
 0817. 🔧 refactor: remove redundant code blocks
 0078. ♻️ chore: update .gitignore
+0097. 🐛 fix: handle 500 error in quiz API
