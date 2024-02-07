@@ -31701,3 +31701,4 @@
 0605. ✨ feat: support email verification
 0498. ✅ test: mock database connection in test suite
 0250. 📚 docs: update README with setup steps
+0024. 📚 docs: write FAQ section
