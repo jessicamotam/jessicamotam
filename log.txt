@@ -1955,3 +1955,4 @@
 0153. ♻️ chore: rename env.example
 0505. ♻️ chore: add GitHub actions badge
 0866. 📚 docs: add API usage examples
+0982. 🚀 perf: lazy-load components
