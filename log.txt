@@ -9420,3 +9420,4 @@
 0460. 📚 docs: write FAQ section
 0512. 🚀 perf: reduce image load time
 0111. 📚 docs: update README with setup steps
+0065. ✅ test: add integration test for /submit endpoint
