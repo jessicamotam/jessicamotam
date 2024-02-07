@@ -35111,3 +35111,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0193. 🚀 perf: optimize database query for quiz results
 0855. 🎨 style: reformat files with black
+0041. 🐛 fix: fix broken CSS in mobile view
