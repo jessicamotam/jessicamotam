@@ -35558,3 +35558,4 @@
 0167. 🚀 perf: reduce image load time
 0631. ✨ feat: create admin dashboard
 0223. 🔧 refactor: remove redundant code blocks
+0292. 📚 docs: clarify environment setup
