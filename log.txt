@@ -36421,3 +36421,4 @@
 0452. ✨ feat: implement quiz timer feature
 0173. 🚀 perf: cache repeated calculations
 0778. 📚 docs: write FAQ section
+0250. 📚 docs: update README with setup steps
