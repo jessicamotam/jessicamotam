@@ -14182,3 +14182,4 @@
 0031. 📚 docs: document token refresh logic
 0332. 🎨 style: standardize quote style
 0130. 🔧 refactor: split large controller into smaller functions
+0616. 🚀 perf: lazy-load components
