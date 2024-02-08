@@ -51575,3 +51575,4 @@
 0146. 🎨 style: apply consistent indentation
 0804. ♻️ chore: add GitHub actions badge
 0749. ✨ feat: support email verification
+0581. ✅ test: add integration test for /submit endpoint
