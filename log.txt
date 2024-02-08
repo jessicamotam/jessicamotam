@@ -5580,3 +5580,4 @@
 0358. 🚀 perf: reduce image load time
 0291. 📚 docs: write FAQ section
 0974. ✨ feat: add export to CSV option
+0146. 🎨 style: apply consistent indentation
