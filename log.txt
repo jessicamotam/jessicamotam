@@ -46522,3 +46522,4 @@
 0301. 🎨 style: apply consistent indentation
 0799. ♻️ chore: clean up unused files
 0484. 🐛 fix: handle 500 error in quiz API
+0583. ✅ test: increase coverage on auth module
