@@ -1107,3 +1107,4 @@
 0761. ✅ test: add unit test for quiz service
 0037. 🐛 fix: correct typo in registration form
 0109. 🚀 perf: lazy-load components
+0950. 🎨 style: reformat files with black
