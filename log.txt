@@ -440,3 +440,4 @@
 0875. ✅ test: increase coverage on auth module
 0844. 📚 docs: update README with setup steps
 0490. ✨ feat: create admin dashboard
+0538. 🐛 fix: fix broken CSS in mobile view
