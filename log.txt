@@ -77994,3 +77994,4 @@
 0524. ♻️ chore: rename env.example
 0735. ♻️ chore: add GitHub actions badge
 0446. 🎨 style: apply consistent indentation
+0080. ✨ feat: support email verification
