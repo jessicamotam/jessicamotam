@@ -65536,3 +65536,4 @@
 0419. 🎨 style: remove trailing whitespace
 0160. ♻️ chore: bump dependencies
 0819. 🚀 perf: reduce image load time
+0360. ✨ feat: add export to CSV option
