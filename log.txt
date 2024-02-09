@@ -78923,3 +78923,4 @@
 0682. ♻️ chore: rename env.example
 0985. 📚 docs: document token refresh logic
 0532. 🔧 refactor: split large controller into smaller functions
+0960. ✅ test: increase coverage on auth module
