@@ -2166,3 +2166,4 @@
 0549. ✨ feat: enable dark mode toggle
 0401. 🚀 perf: reduce image load time
 0679. ♻️ chore: bump dependencies
+0787. ♻️ chore: rename env.example
