@@ -5977,3 +5977,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0566. 📚 docs: write FAQ section
 0634. 🎨 style: reformat files with black
+0254. 🚀 perf: reduce image load time
