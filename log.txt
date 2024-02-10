@@ -4624,3 +4624,4 @@
 0402. 🎨 style: reformat files with black
 0767. 🔧 refactor: remove redundant code blocks
 0161. ✨ feat: create admin dashboard
+0971. 🎨 style: standardize quote style
