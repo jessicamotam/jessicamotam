@@ -30888,3 +30888,4 @@
 0022. 📚 docs: document token refresh logic
 0480. ♻️ chore: add GitHub actions badge
 0944. ✨ feat: add user authentication
+0625. 🐛 fix: handle 500 error in quiz API
