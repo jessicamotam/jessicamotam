@@ -88348,3 +88348,4 @@
 0262. 🎨 style: remove trailing whitespace
 0583. ✅ test: increase coverage on auth module
 0092. 🚀 perf: reduce image load time
+0197. 📚 docs: update README with setup steps
