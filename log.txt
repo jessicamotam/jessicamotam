@@ -69250,3 +69250,4 @@
 0152. ✨ feat: add user authentication
 0921. 🐛 fix: correct typo in registration form
 0425. 🔧 refactor: refactor quiz grading logic
+0562. 🔧 refactor: clean up auth middleware
