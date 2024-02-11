@@ -68331,3 +68331,4 @@
 0053. ✅ test: increase coverage on auth module
 0083. 🎨 style: reformat files with black
 0199. ✨ feat: create admin dashboard
+0376. 🎨 style: apply consistent indentation
