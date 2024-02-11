@@ -59790,3 +59790,4 @@
 0575. ✅ test: add unit test for quiz service
 0212. 🎨 style: standardize quote style
 0603. 🐛 fix: fix broken CSS in mobile view
+0566. 📚 docs: write FAQ section
