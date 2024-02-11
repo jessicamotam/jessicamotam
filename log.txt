@@ -29948,3 +29948,4 @@
 0471. ✨ feat: support email verification
 0151. ✅ test: add unit test for quiz service
 0558. ✨ feat: enable dark mode toggle
+0371. ✅ test: add integration test for /submit endpoint
