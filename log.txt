@@ -51690,3 +51690,4 @@
 0003. ✅ test: increase coverage on auth module
 0552. 🐛 fix: fix null pointer exception on login
 0205. 📚 docs: update README with setup steps
+0243. 🔧 refactor: clean up auth middleware
