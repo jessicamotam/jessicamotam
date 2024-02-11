@@ -38934,3 +38934,4 @@
 0459. 🔧 refactor: organize models into subfolders
 0406. ✨ feat: add export to CSV option
 0106. 🎨 style: reformat files with black
+0189. 📚 docs: clarify environment setup
