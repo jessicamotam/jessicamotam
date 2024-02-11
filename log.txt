@@ -31868,3 +31868,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0637. 🎨 style: apply consistent indentation
 0230. ✨ feat: create admin dashboard
+0187. ✨ feat: support email verification
