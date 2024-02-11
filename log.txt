@@ -1564,3 +1564,4 @@
 0730. ✅ test: test user registration edge cases
 0558. ✨ feat: enable dark mode toggle
 0620. ✨ feat: implement quiz timer feature
+0511. 🐛 fix: fix broken CSS in mobile view
