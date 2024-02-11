@@ -2020,3 +2020,4 @@
 0409. 🚀 perf: lazy-load components
 0398. 🚀 perf: cache repeated calculations
 0941. 🚀 perf: cache repeated calculations
+0335. ♻️ chore: update .gitignore
