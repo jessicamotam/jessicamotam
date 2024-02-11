@@ -70969,3 +70969,4 @@
 0576. ♻️ chore: update .gitignore
 0153. ♻️ chore: rename env.example
 0684. 🚀 perf: reduce image load time
+0588. 🔧 refactor: organize models into subfolders
