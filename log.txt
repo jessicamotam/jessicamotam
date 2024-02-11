@@ -50489,3 +50489,4 @@
 0390. 🎨 style: standardize quote style
 0363. 📚 docs: clarify environment setup
 0317. ✅ test: test user registration edge cases
+0524. ♻️ chore: rename env.example
