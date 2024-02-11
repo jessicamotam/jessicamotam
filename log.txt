@@ -9330,3 +9330,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0383. 🐛 fix: fix broken CSS in mobile view
 0948. 🐛 fix: fix broken CSS in mobile view
+0524. ♻️ chore: rename env.example
