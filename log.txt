@@ -12500,3 +12500,4 @@
 0042. 📚 docs: document token refresh logic
 0535. 📚 docs: write FAQ section
 0954. 🚀 perf: cache repeated calculations
+0133. 🐛 fix: fix null pointer exception on login
