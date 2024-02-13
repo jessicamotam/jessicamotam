@@ -64860,3 +64860,4 @@
 0706. ✨ feat: support email verification
 0976. ✨ feat: implement quiz timer feature
 0425. 🔧 refactor: refactor quiz grading logic
+0208. 🔧 refactor: clean up auth middleware
