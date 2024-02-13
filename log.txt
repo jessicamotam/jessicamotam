@@ -41669,3 +41669,4 @@
 0369. 🎨 style: standardize quote style
 0967. ♻️ chore: add GitHub actions badge
 0576. ♻️ chore: update .gitignore
+0231. 🔧 refactor: clean up auth middleware
