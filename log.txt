@@ -32232,3 +32232,4 @@
 0929. ✨ feat: support email verification
 0308. 🚀 perf: reduce image load time
 0136. 🚀 perf: lazy-load components
+0826. 📚 docs: clarify environment setup
