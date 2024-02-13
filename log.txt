@@ -8380,3 +8380,4 @@
 0784. ♻️ chore: clean up unused files
 0840. 🔧 refactor: refactor quiz grading logic
 0979. 🎨 style: standardize quote style
+0091. ✨ feat: add user authentication
