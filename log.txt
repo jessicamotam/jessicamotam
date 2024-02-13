@@ -35353,3 +35353,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0828. ♻️ chore: add GitHub actions badge
 0879. 🎨 style: standardize quote style
+0367. 🐛 fix: fix null pointer exception on login
