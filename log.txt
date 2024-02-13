@@ -58012,3 +58012,4 @@
 0617. ✨ feat: support email verification
 0706. ✨ feat: support email verification
 0217. 🚀 perf: reduce image load time
+0696. 🔧 refactor: clean up auth middleware
