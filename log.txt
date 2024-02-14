@@ -39354,3 +39354,4 @@
 0996. ✅ test: test user registration edge cases
 0886. ♻️ chore: clean up unused files
 0756. ✨ feat: support email verification
+0473. 📚 docs: write FAQ section
