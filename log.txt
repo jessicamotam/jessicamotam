@@ -48124,3 +48124,4 @@
 0351. ✨ feat: add export to CSV option
 0110. 🐛 fix: prevent crash on empty input
 0385. ♻️ chore: clean up unused files
+0862. ♻️ chore: bump dependencies
