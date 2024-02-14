@@ -77617,3 +77617,4 @@
 0889. 🚀 perf: lazy-load components
 0943. 🎨 style: rename variables for clarity
 0572. ✨ feat: add user authentication
+0948. 🐛 fix: fix broken CSS in mobile view
