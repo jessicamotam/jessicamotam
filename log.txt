@@ -32257,3 +32257,4 @@
 0028. 🎨 style: standardize quote style
 0973. 🔧 refactor: organize models into subfolders
 0666. 🐛 fix: fix broken CSS in mobile view
+0250. 📚 docs: update README with setup steps
