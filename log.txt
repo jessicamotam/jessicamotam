@@ -80396,3 +80396,4 @@
 0819. 🚀 perf: reduce image load time
 0865. ♻️ chore: add GitHub actions badge
 0842. 🎨 style: remove trailing whitespace
+0493. ✨ feat: add user authentication
