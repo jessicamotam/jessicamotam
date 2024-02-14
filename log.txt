@@ -90705,3 +90705,4 @@
 0227. ✅ test: test user registration edge cases
 0332. 🎨 style: standardize quote style
 0279. ✨ feat: support email verification
+0935. 📚 docs: update README with setup steps
