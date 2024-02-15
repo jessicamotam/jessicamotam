@@ -45205,3 +45205,4 @@
 0611. ✅ test: test user registration edge cases
 0619. ✨ feat: create admin dashboard
 0816. 🔧 refactor: organize models into subfolders
+0292. 📚 docs: clarify environment setup
