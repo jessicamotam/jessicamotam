@@ -9473,3 +9473,4 @@
 0966. 📚 docs: improve code comments in utils
 0385. ♻️ chore: clean up unused files
 0586. 🎨 style: remove trailing whitespace
+0055. 📚 docs: update README with setup steps
