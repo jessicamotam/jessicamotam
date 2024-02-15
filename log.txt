@@ -40829,3 +40829,4 @@
 0563. 📚 docs: clarify environment setup
 0807. 🔧 refactor: remove redundant code blocks
 0414. 🔧 refactor: remove redundant code blocks
+0496. ✅ test: add integration test for /submit endpoint
