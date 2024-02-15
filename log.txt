@@ -11377,3 +11377,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0745. ✅ test: add unit test for quiz service
 0636. ✅ test: increase coverage on auth module
+0829. 🔧 refactor: organize models into subfolders
