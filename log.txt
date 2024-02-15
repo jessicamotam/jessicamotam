@@ -20575,3 +20575,4 @@
 0995. ✅ test: mock database connection in test suite
 0523. ♻️ chore: bump dependencies
 0939. 📚 docs: update README with setup steps
+0747. 🔧 refactor: clean up auth middleware
