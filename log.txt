@@ -21685,3 +21685,4 @@
 0027. 📚 docs: clarify environment setup
 0978. 🐛 fix: prevent crash on empty input
 0401. 🚀 perf: reduce image load time
+0856. 🐛 fix: fix null pointer exception on login
