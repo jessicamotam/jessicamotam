@@ -68006,3 +68006,4 @@
 0555. ✨ feat: create admin dashboard
 0815. 🔧 refactor: split large controller into smaller functions
 0700. 🎨 style: rename variables for clarity
+0102. ✨ feat: support email verification
