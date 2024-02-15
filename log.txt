@@ -36198,3 +36198,4 @@
 0226. 🚀 perf: lazy-load components
 0273. 🚀 perf: reduce image load time
 0927. ♻️ chore: bump dependencies
+0740. 🐛 fix: resolve issue with date parsing
