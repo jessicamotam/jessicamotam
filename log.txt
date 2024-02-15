@@ -75725,3 +75725,4 @@
 0307. ✨ feat: support email verification
 0605. ✨ feat: support email verification
 0818. 🔧 refactor: remove redundant code blocks
+0249. ✅ test: increase coverage on auth module
