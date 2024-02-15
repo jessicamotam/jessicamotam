@@ -9617,3 +9617,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0336. ✨ feat: add export to CSV option
 0428. 🐛 fix: fix null pointer exception on login
+0197. 📚 docs: update README with setup steps
