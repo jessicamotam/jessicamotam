@@ -37814,3 +37814,4 @@
 0418. ✅ test: mock database connection in test suite
 0462. ♻️ chore: update .gitignore
 0560. 🎨 style: rename variables for clarity
+0567. 📚 docs: add API usage examples
