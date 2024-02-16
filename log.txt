@@ -57689,3 +57689,4 @@
 0290. ✅ test: test user registration edge cases
 0668. 🚀 perf: optimize database query for quiz results
 0129. 🔧 refactor: organize models into subfolders
+0127. 🐛 fix: fix null pointer exception on login
