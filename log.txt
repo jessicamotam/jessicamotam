@@ -85414,3 +85414,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0215. 🎨 style: reformat files with black
 0099. 🚀 perf: reduce image load time
+0692. ✅ test: add integration test for /submit endpoint
