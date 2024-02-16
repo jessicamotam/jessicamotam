@@ -22008,3 +22008,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0504. 📚 docs: document token refresh logic
 0286. ✅ test: mock database connection in test suite
+0347. ♻️ chore: update .gitignore
