@@ -9581,3 +9581,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0655. 🚀 perf: cache repeated calculations
 0526. ✨ feat: add user authentication
+0563. 📚 docs: clarify environment setup
