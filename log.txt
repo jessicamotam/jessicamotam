@@ -33613,3 +33613,4 @@
 0147. ♻️ chore: bump dependencies
 0510. 🎨 style: rename variables for clarity
 0030. 🐛 fix: fix null pointer exception on login
+0048. 📚 docs: update README with setup steps
