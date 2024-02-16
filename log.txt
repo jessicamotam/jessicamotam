@@ -20886,3 +20886,4 @@
 0558. ✨ feat: enable dark mode toggle
 0938. 🎨 style: rename variables for clarity
 0995. ✅ test: mock database connection in test suite
+0816. 🔧 refactor: organize models into subfolders
