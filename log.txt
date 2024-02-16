@@ -15030,3 +15030,4 @@
 0561. 📚 docs: write FAQ section
 0429. ✨ feat: add user authentication
 0071. 🔧 refactor: refactor quiz grading logic
+0397. 🐛 fix: handle 500 error in quiz API
