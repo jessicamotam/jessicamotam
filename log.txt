@@ -70230,3 +70230,4 @@
 0859. ✨ feat: create admin dashboard
 0658. 🎨 style: rename variables for clarity
 0717. 🔧 refactor: refactor quiz grading logic
+0116. ✨ feat: support email verification
