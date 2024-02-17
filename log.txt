@@ -43458,3 +43458,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0969. ✨ feat: create admin dashboard
 0181. ♻️ chore: add GitHub actions badge
+0391. 🐛 fix: fix null pointer exception on login
