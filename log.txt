@@ -80726,3 +80726,4 @@
 0722. 📚 docs: add API usage examples
 0641. 📚 docs: write FAQ section
 0965. 🎨 style: reformat files with black
+0181. ♻️ chore: add GitHub actions badge
