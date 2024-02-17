@@ -16358,3 +16358,4 @@
 0654. ✨ feat: create admin dashboard
 0023. 📚 docs: clarify environment setup
 0666. 🐛 fix: fix broken CSS in mobile view
+0500. ✅ test: add integration test for /submit endpoint
