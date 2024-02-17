@@ -3272,3 +3272,4 @@
 0369. 🎨 style: standardize quote style
 0971. 🎨 style: standardize quote style
 0194. 🎨 style: standardize quote style
+0893. 🐛 fix: handle 500 error in quiz API
