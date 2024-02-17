@@ -63291,3 +63291,4 @@
 0291. 📚 docs: write FAQ section
 0337. 📚 docs: document token refresh logic
 0314. ✨ feat: implement quiz timer feature
+0543. ✨ feat: support email verification
