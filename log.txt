@@ -25226,3 +25226,4 @@
 0402. 🎨 style: reformat files with black
 0831. 📚 docs: clarify environment setup
 0520. 🐛 fix: fix null pointer exception on login
+0241. 📚 docs: add API usage examples
