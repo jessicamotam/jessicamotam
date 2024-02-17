@@ -65962,3 +65962,4 @@
 0593. 🐛 fix: correct typo in registration form
 0422. 🔧 refactor: organize models into subfolders
 0862. ♻️ chore: bump dependencies
+0102. ✨ feat: support email verification
