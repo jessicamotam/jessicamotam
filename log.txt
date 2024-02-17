@@ -29798,3 +29798,4 @@
 0151. ✅ test: add unit test for quiz service
 0101. 📚 docs: clarify environment setup
 0747. 🔧 refactor: clean up auth middleware
+0097. 🐛 fix: handle 500 error in quiz API
