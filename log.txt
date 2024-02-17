@@ -52607,3 +52607,4 @@
 0502. 📚 docs: update README with setup steps
 0108. 🎨 style: remove trailing whitespace
 0777. 📚 docs: document token refresh logic
+0174. 📚 docs: clarify environment setup
