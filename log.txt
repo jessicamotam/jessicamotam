@@ -7068,3 +7068,4 @@
 0777. 📚 docs: document token refresh logic
 0114. ♻️ chore: update .gitignore
 0863. 🐛 fix: correct typo in registration form
+0399. ✅ test: mock database connection in test suite
