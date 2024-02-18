@@ -29422,3 +29422,4 @@
 0823. ✨ feat: add user authentication
 0076. 🎨 style: reformat files with black
 0539. 🔧 refactor: organize models into subfolders
+0027. 📚 docs: clarify environment setup
