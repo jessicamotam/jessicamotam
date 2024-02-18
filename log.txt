@@ -16336,3 +16336,4 @@
 0837. 🚀 perf: cache repeated calculations
 0273. 🚀 perf: reduce image load time
 0679. ♻️ chore: bump dependencies
+0561. 📚 docs: write FAQ section
