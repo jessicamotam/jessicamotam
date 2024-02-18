@@ -22979,3 +22979,4 @@
 0360. ✨ feat: add export to CSV option
 0624. ✅ test: add unit test for quiz service
 0922. 📚 docs: write FAQ section
+0580. ♻️ chore: bump dependencies
