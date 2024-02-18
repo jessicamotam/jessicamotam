@@ -3317,3 +3317,4 @@
 0094. 📚 docs: document token refresh logic
 0769. ✨ feat: create admin dashboard
 0666. 🐛 fix: fix broken CSS in mobile view
+0512. 🚀 perf: reduce image load time
