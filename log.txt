@@ -22838,3 +22838,4 @@
 0660. 🐛 fix: correct typo in registration form
 0745. ✅ test: add unit test for quiz service
 0011. ✅ test: add unit test for quiz service
+0693. 📚 docs: add API usage examples
