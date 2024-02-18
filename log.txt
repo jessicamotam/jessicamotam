@@ -77166,3 +77166,4 @@
 0578. ✅ test: add integration test for /submit endpoint
 0607. 🐛 fix: prevent crash on empty input
 0240. 🔧 refactor: remove redundant code blocks
+0345. 📚 docs: document token refresh logic
