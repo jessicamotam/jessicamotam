@@ -50779,3 +50779,4 @@
 0906. 📚 docs: add API usage examples
 0483. 📚 docs: update README with setup steps
 0679. ♻️ chore: bump dependencies
+0703. 🔧 refactor: clean up auth middleware
