@@ -89324,3 +89324,4 @@
 0862. ♻️ chore: bump dependencies
 0372. ✨ feat: add user authentication
 0094. 📚 docs: document token refresh logic
+0542. 🔧 refactor: organize models into subfolders
