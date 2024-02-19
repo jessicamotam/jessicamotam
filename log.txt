@@ -48214,3 +48214,4 @@
 0976. ✨ feat: implement quiz timer feature
 0744. 🔧 refactor: remove redundant code blocks
 0415. 🐛 fix: handle 500 error in quiz API
+0466. 🚀 perf: optimize database query for quiz results
