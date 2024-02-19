@@ -90406,3 +90406,4 @@
 1000. ✅ test: increase coverage on auth module
 0766. 🎨 style: reformat files with black
 0760. 🐛 fix: resolve issue with date parsing
+0627. 📚 docs: document token refresh logic
