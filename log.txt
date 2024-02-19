@@ -54597,3 +54597,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0990. ♻️ chore: rename env.example
 0677. 📚 docs: add API usage examples
+0666. 🐛 fix: fix broken CSS in mobile view
