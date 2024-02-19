@@ -90212,3 +90212,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0730. ✅ test: test user registration edge cases
 0237. 🎨 style: standardize quote style
+0270. ♻️ chore: rename env.example
