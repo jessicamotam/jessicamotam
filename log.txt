@@ -19674,3 +19674,4 @@
 0536. ✨ feat: add user authentication
 0789. ✨ feat: create admin dashboard
 0936. 🔧 refactor: organize models into subfolders
+0296. 🔧 refactor: organize models into subfolders
