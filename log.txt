@@ -75667,3 +75667,4 @@
 0439. 🐛 fix: correct typo in registration form
 0431. 🎨 style: reformat files with black
 0661. ✅ test: add integration test for /submit endpoint
+0502. 📚 docs: update README with setup steps
