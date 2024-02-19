@@ -2434,3 +2434,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0561. 📚 docs: write FAQ section
 0133. 🐛 fix: fix null pointer exception on login
+0288. 🔧 refactor: refactor quiz grading logic
