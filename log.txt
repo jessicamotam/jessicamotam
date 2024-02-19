@@ -40529,3 +40529,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0003. ✅ test: increase coverage on auth module
 0648. ♻️ chore: bump dependencies
+0525. ✅ test: mock database connection in test suite
