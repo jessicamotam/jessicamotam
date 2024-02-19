@@ -66504,3 +66504,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0720. ✨ feat: add export to CSV option
 0678. ✨ feat: add user authentication
+0748. 🚀 perf: optimize database query for quiz results
