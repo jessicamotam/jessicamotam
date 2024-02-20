@@ -47338,3 +47338,4 @@
 0985. 📚 docs: document token refresh logic
 0983. 🔧 refactor: split large controller into smaller functions
 0777. 📚 docs: document token refresh logic
+0593. 🐛 fix: correct typo in registration form
