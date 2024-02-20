@@ -71242,3 +71242,4 @@
 0149. ✨ feat: add export to CSV option
 0305. ✨ feat: enable dark mode toggle
 0566. 📚 docs: write FAQ section
+0537. 🔧 refactor: remove redundant code blocks
