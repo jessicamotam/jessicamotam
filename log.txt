@@ -38413,3 +38413,4 @@
 0706. ✨ feat: support email verification
 0452. ✨ feat: implement quiz timer feature
 0816. 🔧 refactor: organize models into subfolders
+0424. ✨ feat: add user authentication
