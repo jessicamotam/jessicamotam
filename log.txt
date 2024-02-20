@@ -63271,3 +63271,4 @@
 0151. ✅ test: add unit test for quiz service
 0578. ✅ test: add integration test for /submit endpoint
 0018. 🔧 refactor: organize models into subfolders
+0029. 🚀 perf: lazy-load components
