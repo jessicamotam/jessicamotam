@@ -56005,3 +56005,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0287. 📚 docs: write FAQ section
 0434. 📚 docs: document token refresh logic
+0437. 📚 docs: clarify environment setup
