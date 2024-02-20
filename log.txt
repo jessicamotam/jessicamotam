@@ -59238,3 +59238,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0356. 📚 docs: write FAQ section
 0626. 🎨 style: standardize quote style
+0659. 📚 docs: add API usage examples
