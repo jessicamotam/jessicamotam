@@ -36732,3 +36732,4 @@
 0146. 🎨 style: apply consistent indentation
 0867. 🔧 refactor: refactor quiz grading logic
 0283. ♻️ chore: add GitHub actions badge
+0603. 🐛 fix: fix broken CSS in mobile view
