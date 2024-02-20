@@ -49527,3 +49527,4 @@
 0761. ✅ test: add unit test for quiz service
 0960. ✅ test: increase coverage on auth module
 0710. 🐛 fix: fix broken CSS in mobile view
+0263. 📚 docs: add API usage examples
