@@ -5319,3 +5319,4 @@
 0650. ✅ test: add unit test for quiz service
 0210. 🎨 style: apply consistent indentation
 0712. 🎨 style: apply consistent indentation
+0040. 🔧 refactor: clean up auth middleware
