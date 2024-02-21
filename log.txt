@@ -31056,3 +31056,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0946. ✅ test: add unit test for quiz service
 0033. 🎨 style: apply consistent indentation
+0317. ✅ test: test user registration edge cases
