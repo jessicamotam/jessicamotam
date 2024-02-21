@@ -41427,3 +41427,4 @@
 0731. 🎨 style: standardize quote style
 0169. 📚 docs: add API usage examples
 0185. 📚 docs: write FAQ section
+0290. ✅ test: test user registration edge cases
