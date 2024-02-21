@@ -46137,3 +46137,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0867. 🔧 refactor: refactor quiz grading logic
 0568. 🐛 fix: handle 500 error in quiz API
+0207. 🐛 fix: prevent crash on empty input
