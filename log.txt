@@ -22585,3 +22585,4 @@
 0392. 🎨 style: remove trailing whitespace
 0467. ✅ test: add integration test for /submit endpoint
 0307. ✨ feat: support email verification
+0426. ✅ test: add integration test for /submit endpoint
