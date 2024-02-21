@@ -47633,3 +47633,4 @@
 0361. ✨ feat: support email verification
 0856. 🐛 fix: fix null pointer exception on login
 0900. 🐛 fix: handle 500 error in quiz API
+0019. ✨ feat: enable dark mode toggle
