@@ -11393,3 +11393,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0443. 🎨 style: standardize quote style
 0410. 🎨 style: reformat files with black
+0193. 🚀 perf: optimize database query for quiz results
