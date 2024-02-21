@@ -68546,3 +68546,4 @@
 0177. 📚 docs: add API usage examples
 0914. ✅ test: test user registration edge cases
 0619. ✨ feat: create admin dashboard
+0030. 🐛 fix: fix null pointer exception on login
