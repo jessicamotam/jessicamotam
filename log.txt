@@ -44480,3 +44480,4 @@
 0580. ♻️ chore: bump dependencies
 0699. 🎨 style: standardize quote style
 0572. ✨ feat: add user authentication
+0442. 🎨 style: standardize quote style
