@@ -26682,3 +26682,4 @@
 0580. ♻️ chore: bump dependencies
 0084. 🐛 fix: handle 500 error in quiz API
 0423. ✅ test: mock database connection in test suite
+0365. 🚀 perf: reduce image load time
