@@ -69867,3 +69867,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0143. ✨ feat: implement quiz timer feature
 0641. 📚 docs: write FAQ section
+0988. 🐛 fix: fix broken CSS in mobile view
