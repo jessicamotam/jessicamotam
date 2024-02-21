@@ -43882,3 +43882,4 @@
 0421. 🔧 refactor: split large controller into smaller functions
 0274. 🔧 refactor: refactor quiz grading logic
 0339. 📚 docs: update README with setup steps
+0536. ✨ feat: add user authentication
