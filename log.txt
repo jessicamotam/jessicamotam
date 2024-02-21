@@ -13857,3 +13857,4 @@
 0358. 🚀 perf: reduce image load time
 0895. ✨ feat: support email verification
 0458. ✨ feat: create admin dashboard
+0219. ✅ test: increase coverage on auth module
