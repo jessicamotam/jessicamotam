@@ -62587,3 +62587,4 @@
 0241. 📚 docs: add API usage examples
 0917. ✅ test: add integration test for /submit endpoint
 0896. 🚀 perf: reduce image load time
+0627. 📚 docs: document token refresh logic
