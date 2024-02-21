@@ -39156,3 +39156,4 @@
 0632. 🎨 style: remove trailing whitespace
 0265. 🎨 style: reformat files with black
 0211. 🔧 refactor: remove redundant code blocks
+0933. 📚 docs: clarify environment setup
