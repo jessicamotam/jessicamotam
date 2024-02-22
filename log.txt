@@ -36286,3 +36286,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0301. 🎨 style: apply consistent indentation
 0408. ♻️ chore: add GitHub actions badge
+0222. 🐛 fix: handle 500 error in quiz API
