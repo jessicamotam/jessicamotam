@@ -167,3 +167,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0019. ✨ feat: enable dark mode toggle
 0595. ✨ feat: enable dark mode toggle
+0068. 🐛 fix: fix null pointer exception on login
