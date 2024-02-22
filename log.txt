@@ -74784,3 +74784,4 @@
 0236. 🔧 refactor: remove redundant code blocks
 0099. 🚀 perf: reduce image load time
 0068. 🐛 fix: fix null pointer exception on login
+0860. 🔧 refactor: organize models into subfolders
