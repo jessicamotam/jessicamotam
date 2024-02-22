@@ -61248,3 +61248,4 @@
 0933. 📚 docs: clarify environment setup
 0332. 🎨 style: standardize quote style
 0783. 🐛 fix: handle 500 error in quiz API
+0785. ✨ feat: enable dark mode toggle
