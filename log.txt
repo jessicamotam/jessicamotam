@@ -90583,3 +90583,4 @@
 0932. ✅ test: add integration test for /submit endpoint
 0587. 🔧 refactor: remove redundant code blocks
 0118. 🚀 perf: reduce image load time
+0556. ✨ feat: support email verification
