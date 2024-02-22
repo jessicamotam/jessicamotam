@@ -38557,3 +38557,4 @@
 0111. 📚 docs: update README with setup steps
 0753. 🔧 refactor: remove redundant code blocks
 0403. ✅ test: mock database connection in test suite
+0127. 🐛 fix: fix null pointer exception on login
