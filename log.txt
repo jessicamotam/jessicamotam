@@ -85963,3 +85963,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0727. ♻️ chore: add GitHub actions badge
 0245. 🐛 fix: resolve issue with date parsing
+0378. 🐛 fix: prevent crash on empty input
