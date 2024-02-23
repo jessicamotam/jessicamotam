@@ -63174,3 +63174,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0777. 📚 docs: document token refresh logic
 0685. ✅ test: test user registration edge cases
+0174. 📚 docs: clarify environment setup
