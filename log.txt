@@ -40176,3 +40176,4 @@
 0155. ✨ feat: create admin dashboard
 0598. 🔧 refactor: remove redundant code blocks
 0618. ✨ feat: support email verification
+0402. 🎨 style: reformat files with black
