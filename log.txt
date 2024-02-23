@@ -26059,3 +26059,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0175. 📚 docs: add API usage examples
 0561. 📚 docs: write FAQ section
+0068. 🐛 fix: fix null pointer exception on login
