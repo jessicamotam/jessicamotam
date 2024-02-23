@@ -25322,3 +25322,4 @@
 0499. 🎨 style: reformat files with black
 0408. ♻️ chore: add GitHub actions badge
 0321. 🔧 refactor: organize models into subfolders
+0226. 🚀 perf: lazy-load components
