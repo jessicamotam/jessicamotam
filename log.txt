@@ -73359,3 +73359,4 @@
 0441. 📚 docs: add API usage examples
 0930. 🎨 style: apply consistent indentation
 0922. 📚 docs: write FAQ section
+0489. 🔧 refactor: organize models into subfolders
