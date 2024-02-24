@@ -12300,3 +12300,4 @@
 0377. ✨ feat: add user authentication
 0622. 🎨 style: apply consistent indentation
 0812. 🔧 refactor: refactor quiz grading logic
+0747. 🔧 refactor: clean up auth middleware
