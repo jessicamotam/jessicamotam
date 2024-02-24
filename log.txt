@@ -85415,3 +85415,4 @@
 0215. 🎨 style: reformat files with black
 0099. 🚀 perf: reduce image load time
 0692. ✅ test: add integration test for /submit endpoint
+0473. 📚 docs: write FAQ section
