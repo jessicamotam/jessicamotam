@@ -46067,3 +46067,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0272. 🔧 refactor: remove redundant code blocks
 0129. 🔧 refactor: organize models into subfolders
+0888. 🚀 perf: lazy-load components
