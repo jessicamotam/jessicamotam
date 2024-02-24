@@ -62550,3 +62550,4 @@
 0095. ✅ test: mock database connection in test suite
 0451. ✨ feat: support email verification
 0101. 📚 docs: clarify environment setup
+0860. 🔧 refactor: organize models into subfolders
