@@ -89913,3 +89913,4 @@
 0195. 📚 docs: clarify environment setup
 0439. 🐛 fix: correct typo in registration form
 0258. 🐛 fix: prevent crash on empty input
+0657. 🎨 style: standardize quote style
