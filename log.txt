@@ -58396,3 +58396,4 @@
 0308. 🚀 perf: reduce image load time
 0447. ♻️ chore: bump dependencies
 0332. 🎨 style: standardize quote style
+0970. ♻️ chore: update .gitignore
