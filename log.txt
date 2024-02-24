@@ -11163,3 +11163,4 @@
 0798. 🚀 perf: reduce image load time
 0818. 🔧 refactor: remove redundant code blocks
 0217. 🚀 perf: reduce image load time
+0543. ✨ feat: support email verification
