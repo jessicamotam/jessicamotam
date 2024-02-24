@@ -13667,3 +13667,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0682. ♻️ chore: rename env.example
 0033. 🎨 style: apply consistent indentation
+0800. 🚀 perf: optimize database query for quiz results
