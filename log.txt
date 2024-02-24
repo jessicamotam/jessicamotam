@@ -88482,3 +88482,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0415. 🐛 fix: handle 500 error in quiz API
 0364. 🐛 fix: resolve issue with date parsing
+0701. 🔧 refactor: clean up auth middleware
