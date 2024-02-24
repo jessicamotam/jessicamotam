@@ -38350,3 +38350,4 @@
 0008. 🚀 perf: reduce image load time
 0032. 🎨 style: apply consistent indentation
 0441. 📚 docs: add API usage examples
+0154. 🐛 fix: prevent crash on empty input
