@@ -50555,3 +50555,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0070. ✨ feat: implement quiz timer feature
 0375. 🐛 fix: handle 500 error in quiz API
+0170. ✅ test: increase coverage on auth module
