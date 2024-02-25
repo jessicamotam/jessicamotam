@@ -2769,3 +2769,4 @@
 0798. 🚀 perf: reduce image load time
 0250. 📚 docs: update README with setup steps
 0316. 🐛 fix: fix broken CSS in mobile view
+0265. 🎨 style: reformat files with black
