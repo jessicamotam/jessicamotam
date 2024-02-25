@@ -1124,3 +1124,4 @@
 0099. 🚀 perf: reduce image load time
 0997. ✅ test: increase coverage on auth module
 0542. 🔧 refactor: organize models into subfolders
+0167. 🚀 perf: reduce image load time
