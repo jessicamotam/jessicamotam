@@ -87795,3 +87795,4 @@
 0463. 🚀 perf: reduce image load time
 0792. 🎨 style: standardize quote style
 0633. ✨ feat: add user authentication
+0824. 🚀 perf: lazy-load components
