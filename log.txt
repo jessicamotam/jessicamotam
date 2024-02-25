@@ -51851,3 +51851,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0972. 🔧 refactor: refactor quiz grading logic
 0965. 🎨 style: reformat files with black
+0549. ✨ feat: enable dark mode toggle
