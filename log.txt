@@ -41837,3 +41837,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0311. 🎨 style: apply consistent indentation
 0478. 🐛 fix: resolve issue with date parsing
+0840. 🔧 refactor: refactor quiz grading logic
