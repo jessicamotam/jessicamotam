@@ -58490,3 +58490,4 @@
 0339. 📚 docs: update README with setup steps
 0572. ✨ feat: add user authentication
 0054. ♻️ chore: update .gitignore
+0504. 📚 docs: document token refresh logic
