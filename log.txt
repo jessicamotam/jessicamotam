@@ -47804,3 +47804,4 @@
 0109. 🚀 perf: lazy-load components
 0262. 🎨 style: remove trailing whitespace
 0519. 📚 docs: document token refresh logic
+0579. 📚 docs: clarify environment setup
