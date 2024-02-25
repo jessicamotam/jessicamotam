@@ -51560,3 +51560,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0365. 🚀 perf: reduce image load time
 0005. ✅ test: add unit test for quiz service
+0461. ✨ feat: add user authentication
