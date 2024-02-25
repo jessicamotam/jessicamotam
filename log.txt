@@ -43626,3 +43626,4 @@
 0677. 📚 docs: add API usage examples
 0453. 🎨 style: standardize quote style
 0831. 📚 docs: clarify environment setup
+0372. ✨ feat: add user authentication
