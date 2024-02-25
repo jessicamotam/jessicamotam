@@ -66251,3 +66251,4 @@
 0766. 🎨 style: reformat files with black
 0415. 🐛 fix: handle 500 error in quiz API
 0533. ♻️ chore: add GitHub actions badge
+0320. 📚 docs: update README with setup steps
