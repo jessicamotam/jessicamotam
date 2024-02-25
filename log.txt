@@ -26562,3 +26562,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0818. 🔧 refactor: remove redundant code blocks
 0083. 🎨 style: reformat files with black
+0443. 🎨 style: standardize quote style
