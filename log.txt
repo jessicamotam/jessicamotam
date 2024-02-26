@@ -38132,3 +38132,4 @@
 0592. 📚 docs: add API usage examples
 0207. 🐛 fix: prevent crash on empty input
 0181. ♻️ chore: add GitHub actions badge
+0751. 🐛 fix: handle 500 error in quiz API
