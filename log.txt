@@ -83470,3 +83470,4 @@
 0884. 📚 docs: clarify environment setup
 0583. ✅ test: increase coverage on auth module
 0335. ♻️ chore: update .gitignore
+0547. 📚 docs: write FAQ section
