@@ -18330,3 +18330,4 @@
 0406. ✨ feat: add export to CSV option
 0905. ♻️ chore: bump dependencies
 0761. ✅ test: add unit test for quiz service
+0368. 🚀 perf: lazy-load components
