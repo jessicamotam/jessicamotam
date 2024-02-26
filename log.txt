@@ -55665,3 +55665,4 @@
 0174. 📚 docs: clarify environment setup
 0478. 🐛 fix: resolve issue with date parsing
 0849. 🐛 fix: correct typo in registration form
+0299. 🐛 fix: resolve issue with date parsing
