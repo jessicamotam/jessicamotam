@@ -38744,3 +38744,4 @@
 0021. ✨ feat: support email verification
 0962. ✨ feat: create admin dashboard
 0937. 🐛 fix: handle 500 error in quiz API
+0565. ♻️ chore: add GitHub actions badge
