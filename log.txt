@@ -17486,3 +17486,4 @@
 0434. 📚 docs: document token refresh logic
 0806. 📚 docs: improve code comments in utils
 0488. ♻️ chore: add GitHub actions badge
+0185. 📚 docs: write FAQ section
