@@ -11016,3 +11016,4 @@
 0597. 🚀 perf: cache repeated calculations
 0027. 📚 docs: clarify environment setup
 0013. ✅ test: increase coverage on auth module
+0428. 🐛 fix: fix null pointer exception on login
