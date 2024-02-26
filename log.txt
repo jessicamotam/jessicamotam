@@ -11219,3 +11219,4 @@
 0501. ✨ feat: add export to CSV option
 0648. ♻️ chore: bump dependencies
 0010. ✨ feat: add user authentication
+0923. ✨ feat: support email verification
