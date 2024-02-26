@@ -74828,3 +74828,4 @@
 0939. 📚 docs: update README with setup steps
 0685. ✅ test: test user registration edge cases
 0531. 🐛 fix: prevent crash on empty input
+0056. ♻️ chore: rename env.example
