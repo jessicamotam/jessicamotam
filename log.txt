@@ -27,3 +27,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0020. ✅ test: add integration test for /submit endpoint
 0432. 🎨 style: apply consistent indentation
+0598. 🔧 refactor: remove redundant code blocks
