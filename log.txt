@@ -29932,3 +29932,4 @@
 0443. 🎨 style: standardize quote style
 0379. ✨ feat: support email verification
 0738. 🐛 fix: prevent crash on empty input
+0790. 📚 docs: write FAQ section
