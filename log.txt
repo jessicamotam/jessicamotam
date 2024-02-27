@@ -437,3 +437,4 @@
 0537. 🔧 refactor: remove redundant code blocks
 0074. ♻️ chore: add GitHub actions badge
 0001. 🚀 perf: cache repeated calculations
+0875. ✅ test: increase coverage on auth module
