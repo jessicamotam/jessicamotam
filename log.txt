@@ -16108,3 +16108,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0223. 🔧 refactor: remove redundant code blocks
 0941. 🚀 perf: cache repeated calculations
+0218. 🔧 refactor: clean up auth middleware
