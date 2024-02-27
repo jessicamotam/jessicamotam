@@ -57421,3 +57421,4 @@
 0917. ✅ test: add integration test for /submit endpoint
 0527. 🎨 style: remove trailing whitespace
 0980. 🎨 style: reformat files with black
+0833. ✨ feat: add user authentication
