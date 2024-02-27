@@ -24236,3 +24236,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0622. 🎨 style: apply consistent indentation
 0582. ✨ feat: add export to CSV option
+0055. 📚 docs: update README with setup steps
