@@ -54395,3 +54395,4 @@
 0788. 📚 docs: add API usage examples
 0611. ✅ test: test user registration edge cases
 0375. 🐛 fix: handle 500 error in quiz API
+0578. ✅ test: add integration test for /submit endpoint
