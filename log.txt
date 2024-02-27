@@ -84375,3 +84375,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0301. 🎨 style: apply consistent indentation
 0099. 🚀 perf: reduce image load time
+0171. 🐛 fix: fix broken CSS in mobile view
