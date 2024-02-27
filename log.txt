@@ -9973,3 +9973,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0358. 🚀 perf: reduce image load time
 0865. ♻️ chore: add GitHub actions badge
+0970. ♻️ chore: update .gitignore
