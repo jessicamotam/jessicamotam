@@ -75284,3 +75284,4 @@
 0855. 🎨 style: reformat files with black
 0298. ♻️ chore: update .gitignore
 0741. 🎨 style: apply consistent indentation
+0361. ✨ feat: support email verification
