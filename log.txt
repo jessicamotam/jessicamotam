@@ -15578,3 +15578,4 @@
 0214. 📚 docs: improve code comments in utils
 0941. 🚀 perf: cache repeated calculations
 0457. 🐛 fix: handle 500 error in quiz API
+0442. 🎨 style: standardize quote style
