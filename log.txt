@@ -13427,3 +13427,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0401. 🚀 perf: reduce image load time
 0425. 🔧 refactor: refactor quiz grading logic
+0607. 🐛 fix: prevent crash on empty input
