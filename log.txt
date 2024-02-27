@@ -19023,3 +19023,4 @@
 0824. 🚀 perf: lazy-load components
 0697. ♻️ chore: bump dependencies
 0484. 🐛 fix: handle 500 error in quiz API
+0476. 🚀 perf: reduce image load time
