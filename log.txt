@@ -90737,3 +90737,4 @@
 0575. ✅ test: add unit test for quiz service
 0945. ♻️ chore: add GitHub actions badge
 0588. 🔧 refactor: organize models into subfolders
+0900. 🐛 fix: handle 500 error in quiz API
