@@ -58655,3 +58655,4 @@
 0021. ✨ feat: support email verification
 0741. 🎨 style: apply consistent indentation
 0778. 📚 docs: write FAQ section
+0253. 📚 docs: update README with setup steps
