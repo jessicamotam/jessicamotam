@@ -66282,3 +66282,4 @@
 0335. ♻️ chore: update .gitignore
 0931. 🚀 perf: reduce image load time
 0234. ♻️ chore: rename env.example
+0009. ✨ feat: enable dark mode toggle
