@@ -4764,3 +4764,4 @@
 0873. 🚀 perf: cache repeated calculations
 0971. 🎨 style: standardize quote style
 0369. 🎨 style: standardize quote style
+0599. ✅ test: test user registration edge cases
