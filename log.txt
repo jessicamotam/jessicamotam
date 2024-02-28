@@ -55363,3 +55363,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0741. 🎨 style: apply consistent indentation
 0868. ✅ test: add unit test for quiz service
+0599. ✅ test: test user registration edge cases
