@@ -36931,3 +36931,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0798. 🚀 perf: reduce image load time
 0510. 🎨 style: rename variables for clarity
+0833. ✨ feat: add user authentication
