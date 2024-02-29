@@ -44168,3 +44168,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0985. 📚 docs: document token refresh logic
 0726. ✨ feat: enable dark mode toggle
+0281. ✨ feat: support email verification
