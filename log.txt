@@ -75334,3 +75334,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0923. ✨ feat: support email verification
 0164. 📚 docs: document token refresh logic
+0019. ✨ feat: enable dark mode toggle
