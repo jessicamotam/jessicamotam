@@ -64251,3 +64251,4 @@
 0308. 🚀 perf: reduce image load time
 0534. 🔧 refactor: split large controller into smaller functions
 0431. 🎨 style: reformat files with black
+0248. 🐛 fix: handle 500 error in quiz API
