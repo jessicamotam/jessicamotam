@@ -20221,3 +20221,4 @@
 0797. 📚 docs: add API usage examples
 0030. 🐛 fix: fix null pointer exception on login
 0791. 🔧 refactor: clean up auth middleware
+0417. 🎨 style: rename variables for clarity
