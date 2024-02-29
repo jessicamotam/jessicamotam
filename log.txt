@@ -15821,3 +15821,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0022. 📚 docs: document token refresh logic
 0538. 🐛 fix: fix broken CSS in mobile view
+0338. ♻️ chore: add GitHub actions badge
