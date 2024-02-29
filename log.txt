@@ -28593,3 +28593,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0950. 🎨 style: reformat files with black
 0642. 🚀 perf: optimize database query for quiz results
+0041. 🐛 fix: fix broken CSS in mobile view
