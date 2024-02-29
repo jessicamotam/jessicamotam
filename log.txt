@@ -10772,3 +10772,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0543. ✨ feat: support email verification
 0747. 🔧 refactor: clean up auth middleware
+0332. 🎨 style: standardize quote style
