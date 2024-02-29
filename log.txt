@@ -88656,3 +88656,4 @@
 0720. ✨ feat: add export to CSV option
 0391. 🐛 fix: fix null pointer exception on login
 0373. 📚 docs: document token refresh logic
+0895. ✨ feat: support email verification
