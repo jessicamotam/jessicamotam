@@ -24577,3 +24577,4 @@
 0101. 📚 docs: clarify environment setup
 0740. 🐛 fix: resolve issue with date parsing
 0097. 🐛 fix: handle 500 error in quiz API
+0107. 🐛 fix: prevent crash on empty input
