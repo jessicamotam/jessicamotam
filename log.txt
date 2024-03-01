@@ -49414,3 +49414,4 @@
 0298. ♻️ chore: update .gitignore
 0142. ✨ feat: implement quiz timer feature
 0513. ♻️ chore: bump dependencies
+0607. 🐛 fix: prevent crash on empty input
