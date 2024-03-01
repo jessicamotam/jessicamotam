@@ -63501,3 +63501,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0412. ✅ test: increase coverage on auth module
 0591. ♻️ chore: clean up unused files
+0707. 🎨 style: apply consistent indentation
