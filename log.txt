@@ -82133,3 +82133,4 @@
 0135. ✅ test: test user registration edge cases
 0241. 📚 docs: add API usage examples
 0042. 📚 docs: document token refresh logic
+0824. 🚀 perf: lazy-load components
