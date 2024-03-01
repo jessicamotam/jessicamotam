@@ -63120,3 +63120,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0973. 🔧 refactor: organize models into subfolders
 0720. ✨ feat: add export to CSV option
+0250. 📚 docs: update README with setup steps
