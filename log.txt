@@ -35209,3 +35209,4 @@
 0269. ✅ test: test user registration edge cases
 0122. ✨ feat: support email verification
 0565. ♻️ chore: add GitHub actions badge
+0420. 🚀 perf: reduce image load time
