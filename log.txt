@@ -8803,3 +8803,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0805. ♻️ chore: add GitHub actions badge
 0796. 🔧 refactor: refactor quiz grading logic
+0572. ✨ feat: add user authentication
