@@ -76616,3 +76616,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0462. ♻️ chore: update .gitignore
 0204. 🎨 style: standardize quote style
+0996. ✅ test: test user registration edge cases
