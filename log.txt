@@ -30981,3 +30981,4 @@
 0985. 📚 docs: document token refresh logic
 0982. 🚀 perf: lazy-load components
 0947. 📚 docs: write FAQ section
+0526. ✨ feat: add user authentication
