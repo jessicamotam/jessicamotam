@@ -22569,3 +22569,4 @@
 0943. 🎨 style: rename variables for clarity
 0013. ✅ test: increase coverage on auth module
 0005. ✅ test: add unit test for quiz service
+0390. 🎨 style: standardize quote style
