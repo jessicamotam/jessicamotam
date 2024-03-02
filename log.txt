@@ -33798,3 +33798,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0922. 📚 docs: write FAQ section
 0361. ✨ feat: support email verification
+0152. ✨ feat: add user authentication
