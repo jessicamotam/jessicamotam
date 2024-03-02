@@ -27255,3 +27255,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0234. ♻️ chore: rename env.example
 0361. ✨ feat: support email verification
+0592. 📚 docs: add API usage examples
