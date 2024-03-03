@@ -22902,3 +22902,4 @@
 0692. ✅ test: add integration test for /submit endpoint
 0966. 📚 docs: improve code comments in utils
 0212. 🎨 style: standardize quote style
+0221. ✨ feat: add user authentication
