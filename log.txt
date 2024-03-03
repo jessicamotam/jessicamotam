@@ -67743,3 +67743,4 @@
 0916. ♻️ chore: bump dependencies
 0952. 🔧 refactor: split large controller into smaller functions
 0891. ✨ feat: create admin dashboard
+0010. ✨ feat: add user authentication
