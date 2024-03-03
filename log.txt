@@ -16662,3 +16662,4 @@
 0111. 📚 docs: update README with setup steps
 0876. ♻️ chore: rename env.example
 0592. 📚 docs: add API usage examples
+0030. 🐛 fix: fix null pointer exception on login
