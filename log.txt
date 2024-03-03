@@ -76568,3 +76568,4 @@
 0947. 📚 docs: write FAQ section
 0377. ✨ feat: add user authentication
 0350. 🚀 perf: cache repeated calculations
+0118. 🚀 perf: reduce image load time
