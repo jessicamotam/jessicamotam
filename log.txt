@@ -31014,3 +31014,4 @@
 0158. 📚 docs: clarify environment setup
 0915. 🚀 perf: cache repeated calculations
 0583. ✅ test: increase coverage on auth module
+0628. ♻️ chore: add GitHub actions badge
