@@ -83722,3 +83722,4 @@
 0695. ✨ feat: create admin dashboard
 0490. ✨ feat: create admin dashboard
 0733. 🐛 fix: fix null pointer exception on login
+0165. 🎨 style: remove trailing whitespace
