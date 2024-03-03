@@ -59786,3 +59786,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0579. 📚 docs: clarify environment setup
 0102. ✨ feat: support email verification
+0715. ✨ feat: create admin dashboard
