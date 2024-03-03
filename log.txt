@@ -2730,3 +2730,4 @@
 0529. 📚 docs: write FAQ section
 0178. ✨ feat: support email verification
 0669. ✨ feat: enable dark mode toggle
+0422. 🔧 refactor: organize models into subfolders
