@@ -65245,3 +65245,4 @@
 0453. 🎨 style: standardize quote style
 0732. ♻️ chore: add GitHub actions badge
 0653. 🐛 fix: prevent crash on empty input
+0477. 🐛 fix: fix broken CSS in mobile view
