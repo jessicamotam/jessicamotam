@@ -54519,3 +54519,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0531. 🐛 fix: prevent crash on empty input
 0933. 📚 docs: clarify environment setup
+0234. ♻️ chore: rename env.example
