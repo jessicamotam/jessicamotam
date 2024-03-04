@@ -42153,3 +42153,4 @@
 0808. 🚀 perf: optimize database query for quiz results
 0954. 🚀 perf: cache repeated calculations
 0160. ♻️ chore: bump dependencies
+0736. 🐛 fix: fix null pointer exception on login
