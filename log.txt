@@ -14096,3 +14096,4 @@
 0326. 🚀 perf: cache repeated calculations
 0342. 🚀 perf: cache repeated calculations
 0140. 🐛 fix: handle 500 error in quiz API
+0330. ✅ test: test user registration edge cases
