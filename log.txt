@@ -2963,3 +2963,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0038. 🎨 style: rename variables for clarity
 0617. ✨ feat: support email verification
+0752. ✅ test: add integration test for /submit endpoint
