@@ -10898,3 +10898,4 @@
 0043. ✅ test: add integration test for /submit endpoint
 0688. 🚀 perf: reduce image load time
 0613. 🐛 fix: prevent crash on empty input
+0399. ✅ test: mock database connection in test suite
