@@ -1685,3 +1685,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0962. ✨ feat: create admin dashboard
 0180. ✨ feat: add export to CSV option
+0735. ♻️ chore: add GitHub actions badge
