@@ -47645,3 +47645,4 @@
 0292. 📚 docs: clarify environment setup
 0078. ♻️ chore: update .gitignore
 0503. ♻️ chore: rename env.example
+0734. ✨ feat: add export to CSV option
