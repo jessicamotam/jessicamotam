@@ -78842,3 +78842,4 @@
 0747. 🔧 refactor: clean up auth middleware
 0844. 📚 docs: update README with setup steps
 0682. ♻️ chore: rename env.example
+0790. 📚 docs: write FAQ section
