@@ -17185,3 +17185,4 @@
 0901. ✨ feat: add user authentication
 0796. 🔧 refactor: refactor quiz grading logic
 0785. ✨ feat: enable dark mode toggle
+0970. ♻️ chore: update .gitignore
