@@ -70254,3 +70254,4 @@
 0655. 🚀 perf: cache repeated calculations
 0577. ✨ feat: implement quiz timer feature
 0613. 🐛 fix: prevent crash on empty input
+0307. ✨ feat: support email verification
