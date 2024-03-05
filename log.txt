@@ -41105,3 +41105,4 @@
 0593. 🐛 fix: correct typo in registration form
 0818. 🔧 refactor: remove redundant code blocks
 0621. 🔧 refactor: clean up auth middleware
+0329. 📚 docs: update README with setup steps
