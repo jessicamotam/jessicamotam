@@ -50044,3 +50044,4 @@
 0849. 🐛 fix: correct typo in registration form
 0556. ✨ feat: support email verification
 0264. 🚀 perf: optimize database query for quiz results
+0483. 📚 docs: update README with setup steps
