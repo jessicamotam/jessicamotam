@@ -9441,3 +9441,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0879. 🎨 style: standardize quote style
 0234. ♻️ chore: rename env.example
+0160. ♻️ chore: bump dependencies
