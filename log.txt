@@ -38429,3 +38429,4 @@
 0985. 📚 docs: document token refresh logic
 0381. ♻️ chore: clean up unused files
 0934. ✨ feat: support email verification
+0899. 🚀 perf: cache repeated calculations
