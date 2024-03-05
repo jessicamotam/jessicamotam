@@ -61653,3 +61653,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0212. 🎨 style: standardize quote style
 0222. 🐛 fix: handle 500 error in quiz API
+0772. 🐛 fix: fix null pointer exception on login
