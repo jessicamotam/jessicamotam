@@ -14481,3 +14481,4 @@
 0256. ✅ test: mock database connection in test suite
 0028. 🎨 style: standardize quote style
 0884. 📚 docs: clarify environment setup
+0231. 🔧 refactor: clean up auth middleware
