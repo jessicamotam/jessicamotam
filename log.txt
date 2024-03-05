@@ -68574,3 +68574,4 @@
 0662. ♻️ chore: clean up unused files
 1000. ✅ test: increase coverage on auth module
 0798. 🚀 perf: reduce image load time
+0544. 🔧 refactor: organize models into subfolders
