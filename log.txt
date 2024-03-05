@@ -89071,3 +89071,4 @@
 0752. ✅ test: add integration test for /submit endpoint
 0500. ✅ test: add integration test for /submit endpoint
 0299. 🐛 fix: resolve issue with date parsing
+0006. 🐛 fix: prevent crash on empty input
