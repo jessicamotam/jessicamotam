@@ -14541,3 +14541,4 @@
 0419. 🎨 style: remove trailing whitespace
 0741. 🎨 style: apply consistent indentation
 0263. 📚 docs: add API usage examples
+0205. 📚 docs: update README with setup steps
