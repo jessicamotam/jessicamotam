@@ -61240,3 +61240,4 @@
 0447. ♻️ chore: bump dependencies
 0882. 🚀 perf: optimize database query for quiz results
 0327. 🔧 refactor: split large controller into smaller functions
+0420. 🚀 perf: reduce image load time
