@@ -29206,3 +29206,4 @@
 0024. 📚 docs: write FAQ section
 0049. 🐛 fix: handle 500 error in quiz API
 0762. 🚀 perf: lazy-load components
+0076. 🎨 style: reformat files with black
