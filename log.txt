@@ -64987,3 +64987,4 @@
 0578. ✅ test: add integration test for /submit endpoint
 0371. ✅ test: add integration test for /submit endpoint
 0596. ♻️ chore: update .gitignore
+0181. ♻️ chore: add GitHub actions badge
