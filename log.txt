@@ -3369,3 +3369,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0144. ✅ test: increase coverage on auth module
 0884. 📚 docs: clarify environment setup
+0391. 🐛 fix: fix null pointer exception on login
