@@ -17034,3 +17034,4 @@
 0334. 🚀 perf: cache repeated calculations
 0253. 📚 docs: update README with setup steps
 0438. ♻️ chore: bump dependencies
+0378. 🐛 fix: prevent crash on empty input
