@@ -385,3 +385,4 @@
 0358. 🚀 perf: reduce image load time
 0328. 🐛 fix: resolve issue with date parsing
 0968. 🎨 style: standardize quote style
+0521. 🎨 style: standardize quote style
