@@ -5295,3 +5295,4 @@
 0348. ✅ test: test user registration edge cases
 0019. ✨ feat: enable dark mode toggle
 0014. 🔧 refactor: remove redundant code blocks
+0020. ✅ test: add integration test for /submit endpoint
