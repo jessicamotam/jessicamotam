@@ -21039,3 +21039,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0709. ♻️ chore: bump dependencies
 0352. ✨ feat: add export to CSV option
+0307. ✨ feat: support email verification
