@@ -75558,3 +75558,4 @@
 0085. ✨ feat: support email verification
 0162. ♻️ chore: add GitHub actions badge
 0822. 🔧 refactor: remove redundant code blocks
+0487. 🎨 style: reformat files with black
