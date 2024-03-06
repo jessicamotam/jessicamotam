@@ -2526,3 +2526,4 @@
 0349. ✅ test: increase coverage on auth module
 0838. 🎨 style: standardize quote style
 0984. ♻️ chore: clean up unused files
+0572. ✨ feat: add user authentication
