@@ -55938,3 +55938,4 @@
 0724. ✅ test: mock database connection in test suite
 0589. 🐛 fix: fix broken CSS in mobile view
 0185. 📚 docs: write FAQ section
+0628. ♻️ chore: add GitHub actions badge
