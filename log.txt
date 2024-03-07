@@ -53058,3 +53058,4 @@
 0630. 🚀 perf: lazy-load components
 0234. ♻️ chore: rename env.example
 0831. 📚 docs: clarify environment setup
+0220. 🐛 fix: fix null pointer exception on login
