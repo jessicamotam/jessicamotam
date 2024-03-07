@@ -74689,3 +74689,4 @@
 0490. ✨ feat: create admin dashboard
 0870. ♻️ chore: clean up unused files
 0998. 🐛 fix: fix null pointer exception on login
+0580. ♻️ chore: bump dependencies
