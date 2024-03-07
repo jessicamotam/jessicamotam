@@ -10286,3 +10286,4 @@
 0108. 🎨 style: remove trailing whitespace
 0586. 🎨 style: remove trailing whitespace
 0059. ♻️ chore: bump dependencies
+0701. 🔧 refactor: clean up auth middleware
