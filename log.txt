@@ -77889,3 +77889,4 @@
 0064. 📚 docs: clarify environment setup
 0968. 🎨 style: standardize quote style
 0929. ✨ feat: support email verification
+0739. 🎨 style: remove trailing whitespace
