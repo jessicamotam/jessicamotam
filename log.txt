@@ -56030,3 +56030,4 @@
 0369. 🎨 style: standardize quote style
 0775. 🐛 fix: fix null pointer exception on login
 0056. ♻️ chore: rename env.example
+0679. ♻️ chore: bump dependencies
