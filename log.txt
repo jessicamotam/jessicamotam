@@ -35911,3 +35911,4 @@
 0508. ✅ test: add unit test for quiz service
 0044. ✅ test: add unit test for quiz service
 0295. 🎨 style: remove trailing whitespace
+0037. 🐛 fix: correct typo in registration form
