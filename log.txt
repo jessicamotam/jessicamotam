@@ -26580,3 +26580,4 @@
 0708. ✅ test: add integration test for /submit endpoint
 0914. ✅ test: test user registration edge cases
 0646. ✅ test: test user registration edge cases
+0055. 📚 docs: update README with setup steps
