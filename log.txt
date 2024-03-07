@@ -68884,3 +68884,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0185. 📚 docs: write FAQ section
 0477. 🐛 fix: fix broken CSS in mobile view
+0874. 🔧 refactor: split large controller into smaller functions
