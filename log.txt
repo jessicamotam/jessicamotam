@@ -35549,3 +35549,4 @@
 0634. 🎨 style: reformat files with black
 0132. ✅ test: add unit test for quiz service
 0812. 🔧 refactor: refactor quiz grading logic
+0358. 🚀 perf: reduce image load time
