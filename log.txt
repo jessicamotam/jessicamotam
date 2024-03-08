@@ -15465,3 +15465,4 @@
 0960. ✅ test: increase coverage on auth module
 0307. ✨ feat: support email verification
 0188. 🎨 style: apply consistent indentation
+0649. 📚 docs: update README with setup steps
