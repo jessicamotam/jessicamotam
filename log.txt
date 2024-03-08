@@ -62375,3 +62375,4 @@
 0347. ♻️ chore: update .gitignore
 0490. ✨ feat: create admin dashboard
 0603. 🐛 fix: fix broken CSS in mobile view
+0963. 🚀 perf: reduce image load time
