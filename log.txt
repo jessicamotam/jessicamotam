@@ -19322,3 +19322,4 @@
 0219. ✅ test: increase coverage on auth module
 0013. ✅ test: increase coverage on auth module
 0049. 🐛 fix: handle 500 error in quiz API
+0174. 📚 docs: clarify environment setup
