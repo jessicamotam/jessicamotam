@@ -6833,3 +6833,4 @@
 0460. 📚 docs: write FAQ section
 0914. ✅ test: test user registration edge cases
 0564. 📚 docs: clarify environment setup
+0372. ✨ feat: add user authentication
