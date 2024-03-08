@@ -15724,3 +15724,4 @@
 0275. 🎨 style: standardize quote style
 0499. 🎨 style: reformat files with black
 0875. ✅ test: increase coverage on auth module
+0794. ♻️ chore: clean up unused files
