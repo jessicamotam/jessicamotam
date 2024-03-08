@@ -55422,3 +55422,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0939. 📚 docs: update README with setup steps
 0042. 📚 docs: document token refresh logic
+0711. 🐛 fix: fix broken CSS in mobile view
