@@ -68187,3 +68187,4 @@
 0075. ✅ test: mock database connection in test suite
 0303. 🎨 style: rename variables for clarity
 0141. 📚 docs: document token refresh logic
+0556. ✨ feat: support email verification
