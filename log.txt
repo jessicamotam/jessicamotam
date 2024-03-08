@@ -81070,3 +81070,4 @@
 0483. 📚 docs: update README with setup steps
 0979. 🎨 style: standardize quote style
 0876. ♻️ chore: rename env.example
+0625. 🐛 fix: handle 500 error in quiz API
