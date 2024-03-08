@@ -25436,3 +25436,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0127. 🐛 fix: fix null pointer exception on login
 0471. ✨ feat: support email verification
+0160. ♻️ chore: bump dependencies
