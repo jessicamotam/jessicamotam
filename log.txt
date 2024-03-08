@@ -79789,3 +79789,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0779. 🔧 refactor: organize models into subfolders
 0860. 🔧 refactor: organize models into subfolders
+0372. ✨ feat: add user authentication
