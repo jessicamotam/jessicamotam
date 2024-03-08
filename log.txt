@@ -61087,3 +61087,4 @@
 0569. 📚 docs: document token refresh logic
 0991. ♻️ chore: clean up unused files
 0696. 🔧 refactor: clean up auth middleware
+0736. 🐛 fix: fix null pointer exception on login
