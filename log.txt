@@ -56410,3 +56410,4 @@
 0492. 🎨 style: remove trailing whitespace
 0113. ✨ feat: add user authentication
 0632. 🎨 style: remove trailing whitespace
+1000. ✅ test: increase coverage on auth module
