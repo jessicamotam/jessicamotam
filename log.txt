@@ -42228,3 +42228,4 @@
 0707. 🎨 style: apply consistent indentation
 0199. ✨ feat: create admin dashboard
 0707. 🎨 style: apply consistent indentation
+0929. ✨ feat: support email verification
