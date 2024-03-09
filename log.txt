@@ -85470,3 +85470,4 @@
 0709. ♻️ chore: bump dependencies
 0533. ♻️ chore: add GitHub actions badge
 0152. ✨ feat: add user authentication
+0064. 📚 docs: clarify environment setup
