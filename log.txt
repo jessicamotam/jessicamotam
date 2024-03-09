@@ -84414,3 +84414,4 @@
 0368. 🚀 perf: lazy-load components
 0161. ✨ feat: create admin dashboard
 0133. 🐛 fix: fix null pointer exception on login
+0477. 🐛 fix: fix broken CSS in mobile view
