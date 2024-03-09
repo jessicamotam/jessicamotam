@@ -40513,3 +40513,4 @@
 0113. ✨ feat: add user authentication
 0305. ✨ feat: enable dark mode toggle
 0325. 🎨 style: rename variables for clarity
+0721. 🚀 perf: optimize database query for quiz results
