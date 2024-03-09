@@ -41289,3 +41289,4 @@
 0852. ✨ feat: enable dark mode toggle
 0469. 🚀 perf: lazy-load components
 0941. 🚀 perf: cache repeated calculations
+0063. 🐛 fix: handle 500 error in quiz API
