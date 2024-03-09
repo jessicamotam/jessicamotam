@@ -18430,3 +18430,4 @@
 0300. ✨ feat: add export to CSV option
 0328. 🐛 fix: resolve issue with date parsing
 0189. 📚 docs: clarify environment setup
+0320. 📚 docs: update README with setup steps
