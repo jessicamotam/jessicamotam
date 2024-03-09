@@ -57184,3 +57184,4 @@
 0384. 📚 docs: clarify environment setup
 0409. 🚀 perf: lazy-load components
 0492. 🎨 style: remove trailing whitespace
+0603. 🐛 fix: fix broken CSS in mobile view
