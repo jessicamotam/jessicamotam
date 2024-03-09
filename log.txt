@@ -14429,3 +14429,4 @@
 0709. ♻️ chore: bump dependencies
 0860. 🔧 refactor: organize models into subfolders
 0352. ✨ feat: add export to CSV option
+0221. ✨ feat: add user authentication
