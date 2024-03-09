@@ -11267,3 +11267,4 @@
 0954. 🚀 perf: cache repeated calculations
 0548. 📚 docs: write FAQ section
 0287. 📚 docs: write FAQ section
+0114. ♻️ chore: update .gitignore
