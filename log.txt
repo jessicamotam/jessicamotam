@@ -10571,3 +10571,4 @@
 0461. ✨ feat: add user authentication
 0207. 🐛 fix: prevent crash on empty input
 0566. 📚 docs: write FAQ section
+0346. ✅ test: mock database connection in test suite
