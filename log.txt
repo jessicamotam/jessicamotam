@@ -84386,3 +84386,4 @@
 0579. 📚 docs: clarify environment setup
 0996. ✅ test: test user registration edge cases
 0152. ✨ feat: add user authentication
+0793. 📚 docs: clarify environment setup
