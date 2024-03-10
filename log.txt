@@ -85072,3 +85072,4 @@
 0124. 🎨 style: reformat files with black
 0098. 🎨 style: rename variables for clarity
 0263. 📚 docs: add API usage examples
+0934. ✨ feat: support email verification
