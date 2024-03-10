@@ -59302,3 +59302,4 @@
 0427. ✅ test: mock database connection in test suite
 0664. ✅ test: add unit test for quiz service
 0535. 📚 docs: write FAQ section
+0115. 🚀 perf: reduce image load time
