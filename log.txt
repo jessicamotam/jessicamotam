@@ -30178,3 +30178,4 @@
 0729. 🔧 refactor: refactor quiz grading logic
 0907. 🔧 refactor: split large controller into smaller functions
 0624. ✅ test: add unit test for quiz service
+0710. 🐛 fix: fix broken CSS in mobile view
