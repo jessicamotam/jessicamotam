@@ -57771,3 +57771,4 @@
 0009. ✨ feat: enable dark mode toggle
 0302. ✨ feat: implement quiz timer feature
 0804. ♻️ chore: add GitHub actions badge
+0586. 🎨 style: remove trailing whitespace
