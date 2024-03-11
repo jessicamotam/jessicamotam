@@ -58074,3 +58074,4 @@
 0868. ✅ test: add unit test for quiz service
 0554. 📚 docs: improve code comments in utils
 0625. 🐛 fix: handle 500 error in quiz API
+0294. 🐛 fix: prevent crash on empty input
