@@ -55471,3 +55471,4 @@
 0591. ♻️ chore: clean up unused files
 0202. 🔧 refactor: refactor quiz grading logic
 0900. 🐛 fix: handle 500 error in quiz API
+0679. ♻️ chore: bump dependencies
