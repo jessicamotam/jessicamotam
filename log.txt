@@ -71046,3 +71046,4 @@
 0910. 🎨 style: remove trailing whitespace
 0684. 🚀 perf: reduce image load time
 0494. 🎨 style: rename variables for clarity
+0507. 🔧 refactor: clean up auth middleware
