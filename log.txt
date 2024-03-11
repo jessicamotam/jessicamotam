@@ -530,3 +530,4 @@
 0410. 🎨 style: reformat files with black
 0692. ✅ test: add integration test for /submit endpoint
 0875. ✅ test: increase coverage on auth module
+0263. 📚 docs: add API usage examples
