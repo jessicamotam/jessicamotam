@@ -43019,3 +43019,4 @@
 0388. 🎨 style: reformat files with black
 0585. 🚀 perf: lazy-load components
 0224. 🐛 fix: fix broken CSS in mobile view
+0838. 🎨 style: standardize quote style
