@@ -84568,3 +84568,4 @@
 0393. 🚀 perf: lazy-load components
 0825. 🔧 refactor: split large controller into smaller functions
 0532. 🔧 refactor: split large controller into smaller functions
+0834. ✅ test: increase coverage on auth module
