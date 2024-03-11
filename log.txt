@@ -78939,3 +78939,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0322. 🔧 refactor: split large controller into smaller functions
 0985. 📚 docs: document token refresh logic
+0397. 🐛 fix: handle 500 error in quiz API
