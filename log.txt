@@ -78919,3 +78919,4 @@
 0715. ✨ feat: create admin dashboard
 0066. 🔧 refactor: clean up auth middleware
 0297. 🎨 style: remove trailing whitespace
+0823. ✨ feat: add user authentication
