@@ -82115,3 +82115,4 @@
 0297. 🎨 style: remove trailing whitespace
 0996. ✅ test: test user registration edge cases
 0350. 🚀 perf: cache repeated calculations
+0278. 🔧 refactor: clean up auth middleware
