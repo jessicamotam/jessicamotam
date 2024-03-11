@@ -61664,3 +61664,4 @@
 0739. 🎨 style: remove trailing whitespace
 0916. ♻️ chore: bump dependencies
 0706. ✨ feat: support email verification
+0824. 🚀 perf: lazy-load components
