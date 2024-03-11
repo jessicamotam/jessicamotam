@@ -73266,3 +73266,4 @@
 0059. ♻️ chore: bump dependencies
 0667. ✨ feat: add export to CSV option
 0885. ♻️ chore: update .gitignore
+0928. 🎨 style: apply consistent indentation
