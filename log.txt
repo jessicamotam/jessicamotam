@@ -6658,3 +6658,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0521. 🎨 style: standardize quote style
 0683. ✅ test: mock database connection in test suite
+0695. ✨ feat: create admin dashboard
