@@ -38118,3 +38118,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0080. ✨ feat: support email verification
 0674. 🔧 refactor: split large controller into smaller functions
+0057. 🚀 perf: optimize database query for quiz results
