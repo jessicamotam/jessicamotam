@@ -72678,3 +72678,4 @@
 0132. ✅ test: add unit test for quiz service
 0634. 🎨 style: reformat files with black
 0900. 🐛 fix: handle 500 error in quiz API
+0108. 🎨 style: remove trailing whitespace
