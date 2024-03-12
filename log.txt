@@ -9933,3 +9933,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0484. 🐛 fix: handle 500 error in quiz API
 0559. 🔧 refactor: split large controller into smaller functions
+0688. 🚀 perf: reduce image load time
