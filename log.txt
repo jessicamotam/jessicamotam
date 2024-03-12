@@ -17778,3 +17778,4 @@
 0973. 🔧 refactor: organize models into subfolders
 0988. 🐛 fix: fix broken CSS in mobile view
 0258. 🐛 fix: prevent crash on empty input
+0437. 📚 docs: clarify environment setup
