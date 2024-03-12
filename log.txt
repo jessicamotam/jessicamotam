@@ -43823,3 +43823,4 @@
 0970. ♻️ chore: update .gitignore
 0041. 🐛 fix: fix broken CSS in mobile view
 0901. ✨ feat: add user authentication
+0244. ✨ feat: add export to CSV option
