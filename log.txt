@@ -44675,3 +44675,4 @@
 0991. ♻️ chore: clean up unused files
 0276. ✅ test: add integration test for /submit endpoint
 0209. ✨ feat: implement quiz timer feature
+0701. 🔧 refactor: clean up auth middleware
