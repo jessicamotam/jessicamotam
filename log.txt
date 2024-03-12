@@ -14721,3 +14721,4 @@
 0458. ✨ feat: create admin dashboard
 0477. 🐛 fix: fix broken CSS in mobile view
 0689. 🎨 style: reformat files with black
+0506. 🐛 fix: handle 500 error in quiz API
