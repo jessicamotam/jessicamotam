@@ -5346,3 +5346,4 @@
 0752. ✅ test: add integration test for /submit endpoint
 0576. ♻️ chore: update .gitignore
 0479. 🐛 fix: fix null pointer exception on login
+0855. 🎨 style: reformat files with black
