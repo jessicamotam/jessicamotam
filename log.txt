@@ -60517,3 +60517,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0130. 🔧 refactor: split large controller into smaller functions
 0551. 📚 docs: write FAQ section
+0827. 🚀 perf: optimize database query for quiz results
