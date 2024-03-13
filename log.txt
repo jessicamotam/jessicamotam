@@ -85493,3 +85493,4 @@
 0513. ♻️ chore: bump dependencies
 0890. 🔧 refactor: organize models into subfolders
 0651. ✨ feat: enable dark mode toggle
+0833. ✨ feat: add user authentication
