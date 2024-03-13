@@ -6579,3 +6579,4 @@
 0864. 🐛 fix: correct typo in registration form
 0509. ♻️ chore: bump dependencies
 0458. ✨ feat: create admin dashboard
+0412. ✅ test: increase coverage on auth module
