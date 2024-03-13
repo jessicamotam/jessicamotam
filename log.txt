@@ -28640,3 +28640,4 @@
 0866. 📚 docs: add API usage examples
 0723. 🔧 refactor: remove redundant code blocks
 0576. ♻️ chore: update .gitignore
+0468. 📚 docs: update README with setup steps
