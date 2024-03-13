@@ -7035,3 +7035,4 @@
 0692. ✅ test: add integration test for /submit endpoint
 0587. 🔧 refactor: remove redundant code blocks
 0487. 🎨 style: reformat files with black
+0133. 🐛 fix: fix null pointer exception on login
