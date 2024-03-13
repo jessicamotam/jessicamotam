@@ -13273,3 +13273,4 @@
 0689. 🎨 style: reformat files with black
 0618. ✨ feat: support email verification
 0118. 🚀 perf: reduce image load time
+0998. 🐛 fix: fix null pointer exception on login
