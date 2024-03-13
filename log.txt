@@ -89672,3 +89672,4 @@
 0944. ✨ feat: add user authentication
 0230. ✨ feat: create admin dashboard
 0273. 🚀 perf: reduce image load time
+0977. 🔧 refactor: organize models into subfolders
