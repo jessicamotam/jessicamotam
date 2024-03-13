@@ -983,3 +983,4 @@
 0462. ♻️ chore: update .gitignore
 0990. ♻️ chore: rename env.example
 0966. 📚 docs: improve code comments in utils
+0344. ♻️ chore: add GitHub actions badge
