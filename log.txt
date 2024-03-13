@@ -42623,3 +42623,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0893. 🐛 fix: handle 500 error in quiz API
 0053. ✅ test: increase coverage on auth module
+0902. ✨ feat: enable dark mode toggle
