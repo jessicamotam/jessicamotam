@@ -63467,3 +63467,4 @@
 0490. ✨ feat: create admin dashboard
 0013. ✅ test: increase coverage on auth module
 0702. ✨ feat: add user authentication
+0698. 🐛 fix: handle 500 error in quiz API
