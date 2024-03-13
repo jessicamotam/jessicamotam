@@ -74712,3 +74712,4 @@
 0427. ✅ test: mock database connection in test suite
 0884. 📚 docs: clarify environment setup
 0493. ✨ feat: add user authentication
+0947. 📚 docs: write FAQ section
