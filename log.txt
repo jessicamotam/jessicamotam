@@ -21646,3 +21646,4 @@
 0579. 📚 docs: clarify environment setup
 0840. 🔧 refactor: refactor quiz grading logic
 0756. ✨ feat: support email verification
+0511. 🐛 fix: fix broken CSS in mobile view
