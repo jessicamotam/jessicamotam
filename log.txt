@@ -500,3 +500,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0348. ✅ test: test user registration edge cases
 0596. ♻️ chore: update .gitignore
+0287. 📚 docs: write FAQ section
