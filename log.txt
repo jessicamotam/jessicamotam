@@ -77427,3 +77427,4 @@
 0401. 🚀 perf: reduce image load time
 0288. 🔧 refactor: refactor quiz grading logic
 0509. ♻️ chore: bump dependencies
+0741. 🎨 style: apply consistent indentation
