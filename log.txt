@@ -12181,3 +12181,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 0438. ♻️ chore: bump dependencies
 0762. 🚀 perf: lazy-load components
+0343. 🚀 perf: optimize database query for quiz results
