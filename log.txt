@@ -63136,3 +63136,4 @@
 0004. 🚀 perf: optimize database query for quiz results
 0735. ♻️ chore: add GitHub actions badge
 0425. 🔧 refactor: refactor quiz grading logic
+0281. ✨ feat: support email verification
