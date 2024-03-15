@@ -72597,3 +72597,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0908. ♻️ chore: bump dependencies
 0892. ✅ test: add unit test for quiz service
+0572. ✨ feat: add user authentication
