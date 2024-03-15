@@ -45661,3 +45661,4 @@
 0612. ✅ test: test user registration edge cases
 0438. ♻️ chore: bump dependencies
 0636. ✅ test: increase coverage on auth module
+0409. 🚀 perf: lazy-load components
