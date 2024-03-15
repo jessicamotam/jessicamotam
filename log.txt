@@ -79110,3 +79110,4 @@
 0001. 🚀 perf: cache repeated calculations
 0892. ✅ test: add unit test for quiz service
 0173. 🚀 perf: cache repeated calculations
+0588. 🔧 refactor: organize models into subfolders
