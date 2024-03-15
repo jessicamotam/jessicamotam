@@ -38886,3 +38886,4 @@
 0551. 📚 docs: write FAQ section
 0762. 🚀 perf: lazy-load components
 0826. 📚 docs: clarify environment setup
+0531. 🐛 fix: prevent crash on empty input
