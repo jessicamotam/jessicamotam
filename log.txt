@@ -12059,3 +12059,4 @@
 0111. 📚 docs: update README with setup steps
 0656. 🎨 style: apply consistent indentation
 0895. ✨ feat: support email verification
+0917. ✅ test: add integration test for /submit endpoint
