@@ -36118,3 +36118,4 @@
 0196. ♻️ chore: bump dependencies
 0059. ♻️ chore: bump dependencies
 0586. 🎨 style: remove trailing whitespace
+0500. ✅ test: add integration test for /submit endpoint
