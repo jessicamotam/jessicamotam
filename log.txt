@@ -36192,3 +36192,4 @@
 0648. ♻️ chore: bump dependencies
 0646. ✅ test: test user registration edge cases
 0968. 🎨 style: standardize quote style
+0437. 📚 docs: clarify environment setup
