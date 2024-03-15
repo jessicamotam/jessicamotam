@@ -47981,3 +47981,4 @@
 0335. ♻️ chore: update .gitignore
 0609. 🐛 fix: handle 500 error in quiz API
 0463. 🚀 perf: reduce image load time
+0701. 🔧 refactor: clean up auth middleware
