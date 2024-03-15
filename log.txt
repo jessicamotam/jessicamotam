@@ -729,3 +729,4 @@
 0044. ✅ test: add unit test for quiz service
 0182. 🔧 refactor: remove redundant code blocks
 0383. 🐛 fix: fix broken CSS in mobile view
+0647. 🐛 fix: prevent crash on empty input
