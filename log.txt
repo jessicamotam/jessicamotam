@@ -2944,3 +2944,4 @@
 0764. ✨ feat: add user authentication
 0503. ♻️ chore: rename env.example
 0272. 🔧 refactor: remove redundant code blocks
+0522. 🐛 fix: handle 500 error in quiz API
