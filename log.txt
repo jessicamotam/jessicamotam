@@ -78077,3 +78077,4 @@
 0314. ✨ feat: implement quiz timer feature
 0876. ♻️ chore: rename env.example
 0506. 🐛 fix: handle 500 error in quiz API
+0144. ✅ test: increase coverage on auth module
