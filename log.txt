@@ -43652,3 +43652,4 @@
 0861. ♻️ chore: clean up unused files
 0960. ✅ test: increase coverage on auth module
 0255. 🔧 refactor: refactor quiz grading logic
+0518. ✨ feat: support email verification
