@@ -75603,3 +75603,4 @@
 0904. ✨ feat: implement quiz timer feature
 0048. 📚 docs: update README with setup steps
 0553. 🐛 fix: correct typo in registration form
+0307. ✨ feat: support email verification
