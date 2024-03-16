@@ -43030,3 +43030,4 @@
 0113. ✨ feat: add user authentication
 0506. 🐛 fix: handle 500 error in quiz API
 0965. 🎨 style: reformat files with black
+0553. 🐛 fix: correct typo in registration form
