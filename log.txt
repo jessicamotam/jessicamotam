@@ -42903,3 +42903,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0903. ✅ test: mock database connection in test suite
 0947. 📚 docs: write FAQ section
+0277. 🎨 style: standardize quote style
