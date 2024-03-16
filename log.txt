@@ -53166,3 +53166,4 @@
 0446. 🎨 style: apply consistent indentation
 0390. 🎨 style: standardize quote style
 0797. 📚 docs: add API usage examples
+0977. 🔧 refactor: organize models into subfolders
