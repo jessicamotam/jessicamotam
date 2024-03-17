@@ -51519,3 +51519,4 @@
 0199. ✨ feat: create admin dashboard
 0541. 🐛 fix: correct typo in registration form
 0898. 🐛 fix: fix broken CSS in mobile view
+0348. ✅ test: test user registration edge cases
