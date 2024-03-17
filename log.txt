@@ -37564,3 +37564,4 @@
 0035. ✅ test: increase coverage on auth module
 0998. 🐛 fix: fix null pointer exception on login
 0854. ♻️ chore: rename env.example
+0859. ✨ feat: create admin dashboard
