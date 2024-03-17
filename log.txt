@@ -67702,3 +67702,4 @@
 0630. 🚀 perf: lazy-load components
 0025. 🚀 perf: optimize database query for quiz results
 0095. ✅ test: mock database connection in test suite
+0131. 📚 docs: write FAQ section
