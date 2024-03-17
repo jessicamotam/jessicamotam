@@ -78974,3 +78974,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0652. 🔧 refactor: organize models into subfolders
 0891. ✨ feat: create admin dashboard
+0819. 🚀 perf: reduce image load time
