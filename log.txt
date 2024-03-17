@@ -20771,3 +20771,4 @@
 0399. ✅ test: mock database connection in test suite
 0117. ✅ test: increase coverage on auth module
 0908. ♻️ chore: bump dependencies
+0121. ✨ feat: support email verification
