@@ -5899,3 +5899,4 @@
 0706. ✨ feat: support email verification
 0956. 📚 docs: clarify environment setup
 0292. 📚 docs: clarify environment setup
+0521. 🎨 style: standardize quote style
