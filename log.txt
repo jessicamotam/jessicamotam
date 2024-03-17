@@ -88820,3 +88820,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0367. 🐛 fix: fix null pointer exception on login
 0473. 📚 docs: write FAQ section
+0725. 🚀 perf: lazy-load components
