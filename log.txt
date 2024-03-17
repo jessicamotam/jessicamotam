@@ -65376,3 +65376,4 @@
 0950. 🎨 style: reformat files with black
 0618. ✨ feat: support email verification
 0666. 🐛 fix: fix broken CSS in mobile view
+0531. 🐛 fix: prevent crash on empty input
