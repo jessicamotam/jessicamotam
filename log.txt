@@ -32677,3 +32677,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0311. 🎨 style: apply consistent indentation
 0401. 🚀 perf: reduce image load time
+0006. 🐛 fix: prevent crash on empty input
