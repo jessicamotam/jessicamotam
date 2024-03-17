@@ -14203,3 +14203,4 @@
 0461. ✨ feat: add user authentication
 0656. 🎨 style: apply consistent indentation
 0376. 🎨 style: apply consistent indentation
+0201. 🔧 refactor: clean up auth middleware
