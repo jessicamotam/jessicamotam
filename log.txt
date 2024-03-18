@@ -5471,3 +5471,4 @@
 0608. 🔧 refactor: remove redundant code blocks
 0968. 🎨 style: standardize quote style
 0563. 📚 docs: clarify environment setup
+0962. ✨ feat: create admin dashboard
