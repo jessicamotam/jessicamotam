@@ -25575,3 +25575,4 @@
 0690. 🚀 perf: lazy-load components
 0731. 🎨 style: standardize quote style
 0251. ♻️ chore: update .gitignore
+0198. 📚 docs: clarify environment setup
