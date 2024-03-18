@@ -84831,3 +84831,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0986. 📚 docs: document token refresh logic
 0761. ✅ test: add unit test for quiz service
+0249. ✅ test: increase coverage on auth module
