@@ -31373,3 +31373,4 @@
 0942. ✅ test: increase coverage on auth module
 0884. 📚 docs: clarify environment setup
 0746. ♻️ chore: add GitHub actions badge
+0536. ✨ feat: add user authentication
