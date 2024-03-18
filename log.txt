@@ -5301,3 +5301,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0136. 🚀 perf: lazy-load components
 0252. 🎨 style: remove trailing whitespace
+0903. ✅ test: mock database connection in test suite
