@@ -23077,3 +23077,4 @@
 0337. 📚 docs: document token refresh logic
 0355. 🚀 perf: optimize database query for quiz results
 0184. 📚 docs: improve code comments in utils
+0518. ✨ feat: support email verification
