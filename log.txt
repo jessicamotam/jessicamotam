@@ -1605,3 +1605,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0854. ♻️ chore: rename env.example
 0360. ✨ feat: add export to CSV option
+0423. ✅ test: mock database connection in test suite
