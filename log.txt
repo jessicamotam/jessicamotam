@@ -90283,3 +90283,4 @@
 0811. 🎨 style: reformat files with black
 0923. ✨ feat: support email verification
 0654. ✨ feat: create admin dashboard
+0772. 🐛 fix: fix null pointer exception on login
