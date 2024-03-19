@@ -29516,3 +29516,4 @@
 0925. ✨ feat: add export to CSV option
 0703. 🔧 refactor: clean up auth middleware
 0113. ✨ feat: add user authentication
+0614. 🚀 perf: reduce image load time
