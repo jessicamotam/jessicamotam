@@ -63492,3 +63492,4 @@
 0512. 🚀 perf: reduce image load time
 0663. 🚀 perf: reduce image load time
 0593. 🐛 fix: correct typo in registration form
+0141. 📚 docs: document token refresh logic
