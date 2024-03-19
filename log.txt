@@ -67894,3 +67894,4 @@
 0262. 🎨 style: remove trailing whitespace
 0769. ✨ feat: create admin dashboard
 0065. ✅ test: add integration test for /submit endpoint
+0517. ✅ test: mock database connection in test suite
