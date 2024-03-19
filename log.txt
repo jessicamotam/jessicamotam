@@ -81846,3 +81846,4 @@
 0879. 🎨 style: standardize quote style
 0237. 🎨 style: standardize quote style
 0589. 🐛 fix: fix broken CSS in mobile view
+0392. 🎨 style: remove trailing whitespace
