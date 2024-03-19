@@ -83033,3 +83033,4 @@
 0454. ♻️ chore: bump dependencies
 0392. 🎨 style: remove trailing whitespace
 0313. 🎨 style: apply consistent indentation
+0880. 🐛 fix: fix broken CSS in mobile view
