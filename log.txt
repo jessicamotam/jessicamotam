@@ -37398,3 +37398,4 @@
 0132. ✅ test: add unit test for quiz service
 0955. 🔧 refactor: remove redundant code blocks
 0316. 🐛 fix: fix broken CSS in mobile view
+0828. ♻️ chore: add GitHub actions badge
