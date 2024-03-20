@@ -48856,3 +48856,4 @@
 0460. 📚 docs: write FAQ section
 0816. 🔧 refactor: organize models into subfolders
 0969. ✨ feat: create admin dashboard
+0390. 🎨 style: standardize quote style
