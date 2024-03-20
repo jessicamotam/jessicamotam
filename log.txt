@@ -81231,3 +81231,4 @@
 0535. 📚 docs: write FAQ section
 0681. ✨ feat: create admin dashboard
 0021. ✨ feat: support email verification
+0931. 🚀 perf: reduce image load time
