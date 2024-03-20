@@ -90475,3 +90475,4 @@
 0525. ✅ test: mock database connection in test suite
 0286. ✅ test: mock database connection in test suite
 0374. 🎨 style: standardize quote style
+0324. 📚 docs: document token refresh logic
