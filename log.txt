@@ -45322,3 +45322,4 @@
 0887. 📚 docs: add API usage examples
 0603. 🐛 fix: fix broken CSS in mobile view
 0152. ✨ feat: add user authentication
+0107. 🐛 fix: prevent crash on empty input
