@@ -80959,3 +80959,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0319. 🐛 fix: handle 500 error in quiz API
 0972. 🔧 refactor: refactor quiz grading logic
+0898. 🐛 fix: fix broken CSS in mobile view
