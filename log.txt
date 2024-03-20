@@ -71397,3 +71397,4 @@
 0954. 🚀 perf: cache repeated calculations
 0068. 🐛 fix: fix null pointer exception on login
 0737. 🐛 fix: handle 500 error in quiz API
+0661. ✅ test: add integration test for /submit endpoint
