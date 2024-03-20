@@ -5019,3 +5019,4 @@
 0688. 🚀 perf: reduce image load time
 0049. 🐛 fix: handle 500 error in quiz API
 0254. 🚀 perf: reduce image load time
+0660. 🐛 fix: correct typo in registration form
