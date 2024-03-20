@@ -11861,3 +11861,4 @@
 0440. 📚 docs: update README with setup steps
 0531. 🐛 fix: prevent crash on empty input
 0332. 🎨 style: standardize quote style
+0739. 🎨 style: remove trailing whitespace
