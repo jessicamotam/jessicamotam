@@ -59114,3 +59114,4 @@
 0970. ♻️ chore: update .gitignore
 0942. ✅ test: increase coverage on auth module
 0308. 🚀 perf: reduce image load time
+0798. 🚀 perf: reduce image load time
