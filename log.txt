@@ -41891,3 +41891,4 @@
 0910. 🎨 style: remove trailing whitespace
 0220. 🐛 fix: fix null pointer exception on login
 0883. 📚 docs: improve code comments in utils
+0699. 🎨 style: standardize quote style
