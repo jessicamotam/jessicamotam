@@ -72584,3 +72584,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0566. 📚 docs: write FAQ section
 0221. ✨ feat: add user authentication
+0491. 🚀 perf: lazy-load components
