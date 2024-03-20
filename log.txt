@@ -28868,3 +28868,4 @@
 0792. 🎨 style: standardize quote style
 0021. ✨ feat: support email verification
 0524. ♻️ chore: rename env.example
+0473. 📚 docs: write FAQ section
