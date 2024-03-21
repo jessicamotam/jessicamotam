@@ -42378,3 +42378,4 @@
 0418. ✅ test: mock database connection in test suite
 0488. ♻️ chore: add GitHub actions badge
 0032. 🎨 style: apply consistent indentation
+0935. 📚 docs: update README with setup steps
