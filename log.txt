@@ -60804,3 +60804,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0908. ♻️ chore: bump dependencies
 0178. ✨ feat: support email verification
+0403. ✅ test: mock database connection in test suite
