@@ -52078,3 +52078,4 @@
 0291. 📚 docs: write FAQ section
 0643. 🎨 style: apply consistent indentation
 0787. ♻️ chore: rename env.example
+0770. ♻️ chore: rename env.example
