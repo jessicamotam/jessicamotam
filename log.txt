@@ -41818,3 +41818,4 @@
 0843. 📚 docs: document token refresh logic
 0186. ✅ test: test user registration edge cases
 0565. ♻️ chore: add GitHub actions badge
+0375. 🐛 fix: handle 500 error in quiz API
