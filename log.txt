@@ -57021,3 +57021,4 @@
 0508. ✅ test: add unit test for quiz service
 0309. 🔧 refactor: refactor quiz grading logic
 0892. ✅ test: add unit test for quiz service
+0026. 🔧 refactor: clean up auth middleware
