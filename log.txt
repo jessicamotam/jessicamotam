@@ -14647,3 +14647,4 @@
 0317. ✅ test: test user registration edge cases
 0898. 🐛 fix: fix broken CSS in mobile view
 0299. 🐛 fix: resolve issue with date parsing
+0077. ♻️ chore: rename env.example
