@@ -36248,3 +36248,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0935. 📚 docs: update README with setup steps
 0360. ✨ feat: add export to CSV option
+0839. 🎨 style: apply consistent indentation
