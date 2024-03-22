@@ -56613,3 +56613,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0574. ✨ feat: enable dark mode toggle
 0702. ✨ feat: add user authentication
+0940. 📚 docs: document token refresh logic
