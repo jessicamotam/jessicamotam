@@ -54938,3 +54938,4 @@
 0251. ♻️ chore: update .gitignore
 0529. 📚 docs: write FAQ section
 0416. 🎨 style: rename variables for clarity
+0248. 🐛 fix: handle 500 error in quiz API
