@@ -20660,3 +20660,4 @@
 0094. 📚 docs: document token refresh logic
 0563. 📚 docs: clarify environment setup
 0990. ♻️ chore: rename env.example
+0702. ✨ feat: add user authentication
