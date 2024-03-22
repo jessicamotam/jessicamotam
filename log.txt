@@ -6726,3 +6726,4 @@
 0649. 📚 docs: update README with setup steps
 0606. 📚 docs: improve code comments in utils
 0146. 🎨 style: apply consistent indentation
+0520. 🐛 fix: fix null pointer exception on login
