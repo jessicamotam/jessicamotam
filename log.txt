@@ -18314,3 +18314,4 @@
 0205. 📚 docs: update README with setup steps
 0680. ♻️ chore: add GitHub actions badge
 0666. 🐛 fix: fix broken CSS in mobile view
+0967. ♻️ chore: add GitHub actions badge
