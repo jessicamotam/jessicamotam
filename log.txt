@@ -19478,3 +19478,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0564. 📚 docs: clarify environment setup
 0375. 🐛 fix: handle 500 error in quiz API
+0756. ✨ feat: support email verification
