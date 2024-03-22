@@ -63116,3 +63116,4 @@
 0654. ✨ feat: create admin dashboard
 0136. 🚀 perf: lazy-load components
 0478. 🐛 fix: resolve issue with date parsing
+0207. 🐛 fix: prevent crash on empty input
