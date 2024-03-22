@@ -50792,3 +50792,4 @@
 0237. 🎨 style: standardize quote style
 0133. 🐛 fix: fix null pointer exception on login
 0018. 🔧 refactor: organize models into subfolders
+0252. 🎨 style: remove trailing whitespace
