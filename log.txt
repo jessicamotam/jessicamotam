@@ -4077,3 +4077,4 @@
 0664. ✅ test: add unit test for quiz service
 0404. 📚 docs: improve code comments in utils
 0956. 📚 docs: clarify environment setup
+0167. 🚀 perf: reduce image load time
