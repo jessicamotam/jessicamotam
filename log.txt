@@ -22797,3 +22797,4 @@
 0646. ✅ test: test user registration edge cases
 0732. ♻️ chore: add GitHub actions badge
 0379. ✨ feat: support email verification
+0165. 🎨 style: remove trailing whitespace
