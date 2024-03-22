@@ -62235,3 +62235,4 @@
 0009. ✨ feat: enable dark mode toggle
 0523. ♻️ chore: bump dependencies
 0785. ✨ feat: enable dark mode toggle
+0501. ✨ feat: add export to CSV option
