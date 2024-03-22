@@ -29922,3 +29922,4 @@
 0944. ✨ feat: add user authentication
 0076. 🎨 style: reformat files with black
 0552. 🐛 fix: fix null pointer exception on login
+0889. 🚀 perf: lazy-load components
