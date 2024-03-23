@@ -51026,3 +51026,4 @@
 0436. ✅ test: add integration test for /submit endpoint
 0960. ✅ test: increase coverage on auth module
 0283. ♻️ chore: add GitHub actions badge
+0639. 🐛 fix: correct typo in registration form
