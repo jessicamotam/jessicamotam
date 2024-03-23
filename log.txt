@@ -1089,3 +1089,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0798. 🚀 perf: reduce image load time
 0061. ✨ feat: create admin dashboard
+0905. ♻️ chore: bump dependencies
