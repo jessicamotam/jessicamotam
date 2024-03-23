@@ -36459,3 +36459,4 @@
 0688. 🚀 perf: reduce image load time
 0012. 🚀 perf: cache repeated calculations
 0307. ✨ feat: support email verification
+0521. 🎨 style: standardize quote style
