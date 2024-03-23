@@ -9040,3 +9040,4 @@
 0295. 🎨 style: remove trailing whitespace
 0328. 🐛 fix: resolve issue with date parsing
 0774. 🔧 refactor: refactor quiz grading logic
+0625. 🐛 fix: handle 500 error in quiz API
