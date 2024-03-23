@@ -10602,3 +10602,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0462. ♻️ chore: update .gitignore
 0222. 🐛 fix: handle 500 error in quiz API
+0956. 📚 docs: clarify environment setup
