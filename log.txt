@@ -29787,3 +29787,4 @@
 0722. 📚 docs: add API usage examples
 0301. 🎨 style: apply consistent indentation
 0310. 🔧 refactor: refactor quiz grading logic
+0393. 🚀 perf: lazy-load components
