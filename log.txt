@@ -1642,3 +1642,4 @@
 0142. ✨ feat: implement quiz timer feature
 0309. 🔧 refactor: refactor quiz grading logic
 0445. 📚 docs: improve code comments in utils
+0733. 🐛 fix: fix null pointer exception on login
