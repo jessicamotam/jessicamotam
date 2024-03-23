@@ -60917,3 +60917,4 @@
 0777. 📚 docs: document token refresh logic
 0146. 🎨 style: apply consistent indentation
 0848. 📚 docs: update README with setup steps
+0399. ✅ test: mock database connection in test suite
