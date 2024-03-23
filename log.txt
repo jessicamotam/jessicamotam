@@ -85356,3 +85356,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0824. 🚀 perf: lazy-load components
 0071. 🔧 refactor: refactor quiz grading logic
+0702. ✨ feat: add user authentication
