@@ -78209,3 +78209,4 @@
 0077. ♻️ chore: rename env.example
 0356. 📚 docs: write FAQ section
 0092. 🚀 perf: reduce image load time
+0617. ✨ feat: support email verification
