@@ -31674,3 +31674,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0094. 📚 docs: document token refresh logic
 0472. 🐛 fix: fix null pointer exception on login
+0338. ♻️ chore: add GitHub actions badge
