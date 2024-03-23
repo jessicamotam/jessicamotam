@@ -8498,3 +8498,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0341. 🚀 perf: lazy-load components
 0117. ✅ test: increase coverage on auth module
+0112. ✨ feat: enable dark mode toggle
