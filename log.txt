@@ -18708,3 +18708,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0582. ✨ feat: add export to CSV option
 0255. 🔧 refactor: refactor quiz grading logic
+0476. 🚀 perf: reduce image load time
