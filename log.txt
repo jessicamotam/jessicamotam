@@ -73658,3 +73658,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0300. ✨ feat: add export to CSV option
 0738. 🐛 fix: prevent crash on empty input
+0293. ✅ test: add integration test for /submit endpoint
