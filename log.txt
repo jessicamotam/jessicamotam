@@ -43385,3 +43385,4 @@
 0051. ✨ feat: enable dark mode toggle
 0549. ✨ feat: enable dark mode toggle
 0974. ✨ feat: add export to CSV option
+0623. 🎨 style: standardize quote style
