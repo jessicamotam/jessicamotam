@@ -14137,3 +14137,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0270. ♻️ chore: rename env.example
 0156. 🎨 style: rename variables for clarity
+0517. ✅ test: mock database connection in test suite
