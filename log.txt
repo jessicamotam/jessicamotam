@@ -24701,3 +24701,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0812. 🔧 refactor: refactor quiz grading logic
 0811. 🎨 style: reformat files with black
+0613. 🐛 fix: prevent crash on empty input
