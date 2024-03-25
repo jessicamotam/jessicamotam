@@ -34913,3 +34913,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0885. ♻️ chore: update .gitignore
 0050. ✨ feat: enable dark mode toggle
+0378. 🐛 fix: prevent crash on empty input
