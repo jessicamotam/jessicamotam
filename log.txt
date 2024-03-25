@@ -47355,3 +47355,4 @@
 0911. ✅ test: increase coverage on auth module
 0517. ✅ test: mock database connection in test suite
 0833. ✨ feat: add user authentication
+0875. ✅ test: increase coverage on auth module
