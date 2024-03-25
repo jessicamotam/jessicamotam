@@ -36164,3 +36164,4 @@
 0777. 📚 docs: document token refresh logic
 0508. ✅ test: add unit test for quiz service
 0103. 🔧 refactor: remove redundant code blocks
+0562. 🔧 refactor: clean up auth middleware
