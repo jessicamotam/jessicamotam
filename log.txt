@@ -84429,3 +84429,4 @@
 0933. 📚 docs: clarify environment setup
 0925. ✨ feat: add export to CSV option
 0672. 🐛 fix: fix broken CSS in mobile view
+0379. ✨ feat: support email verification
