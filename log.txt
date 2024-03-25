@@ -48614,3 +48614,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0249. ✅ test: increase coverage on auth module
 0843. 📚 docs: document token refresh logic
+0486. ✨ feat: add export to CSV option
