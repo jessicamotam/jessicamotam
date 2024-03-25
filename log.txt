@@ -41135,3 +41135,4 @@
 0808. 🚀 perf: optimize database query for quiz results
 0664. ✅ test: add unit test for quiz service
 0729. 🔧 refactor: refactor quiz grading logic
+0959. 🐛 fix: fix null pointer exception on login
