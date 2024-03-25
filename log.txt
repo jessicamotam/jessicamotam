@@ -63694,3 +63694,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0257. 📚 docs: clarify environment setup
 0353. ♻️ chore: rename env.example
+0756. ✨ feat: support email verification
