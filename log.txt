@@ -16841,3 +16841,4 @@
 0100. ♻️ chore: update .gitignore
 0151. ✅ test: add unit test for quiz service
 0879. 🎨 style: standardize quote style
+0531. 🐛 fix: prevent crash on empty input
