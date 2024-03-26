@@ -17151,3 +17151,4 @@
 0939. 📚 docs: update README with setup steps
 0458. ✨ feat: create admin dashboard
 0306. 🎨 style: apply consistent indentation
+0365. 🚀 perf: reduce image load time
