@@ -62039,3 +62039,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0927. ♻️ chore: bump dependencies
 0686. 🎨 style: standardize quote style
+0857. 🎨 style: rename variables for clarity
