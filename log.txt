@@ -89411,3 +89411,4 @@
 0785. ✨ feat: enable dark mode toggle
 0671. 🐛 fix: fix null pointer exception on login
 0648. ♻️ chore: bump dependencies
+0360. ✨ feat: add export to CSV option
