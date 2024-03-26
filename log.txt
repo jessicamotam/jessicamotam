@@ -62857,3 +62857,4 @@
 0580. ♻️ chore: bump dependencies
 0454. ♻️ chore: bump dependencies
 0194. 🎨 style: standardize quote style
+0487. 🎨 style: reformat files with black
