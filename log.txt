@@ -9043,3 +9043,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0147. ♻️ chore: bump dependencies
 0958. 🐛 fix: prevent crash on empty input
+0341. 🚀 perf: lazy-load components
