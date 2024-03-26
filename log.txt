@@ -51864,3 +51864,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0526. ✨ feat: add user authentication
 0946. ✅ test: add unit test for quiz service
+0666. 🐛 fix: fix broken CSS in mobile view
