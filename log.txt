@@ -34703,3 +34703,4 @@
 0950. 🎨 style: reformat files with black
 0539. 🔧 refactor: organize models into subfolders
 0750. 🎨 style: apply consistent indentation
+0956. 📚 docs: clarify environment setup
