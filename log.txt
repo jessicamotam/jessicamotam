@@ -10773,3 +10773,4 @@
 0543. ✨ feat: support email verification
 0747. 🔧 refactor: clean up auth middleware
 0332. 🎨 style: standardize quote style
+0312. ✨ feat: add user authentication
