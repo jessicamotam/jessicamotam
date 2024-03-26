@@ -56181,3 +56181,4 @@
 0447. ♻️ chore: bump dependencies
 0724. ✅ test: mock database connection in test suite
 0997. ✅ test: increase coverage on auth module
+0112. ✨ feat: enable dark mode toggle
