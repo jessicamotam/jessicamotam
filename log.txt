@@ -15059,3 +15059,4 @@
 0558. ✨ feat: enable dark mode toggle
 0668. 🚀 perf: optimize database query for quiz results
 0545. 🎨 style: standardize quote style
+0248. 🐛 fix: handle 500 error in quiz API
