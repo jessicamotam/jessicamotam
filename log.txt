@@ -44775,3 +44775,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0740. 🐛 fix: resolve issue with date parsing
 0117. ✅ test: increase coverage on auth module
+0544. 🔧 refactor: organize models into subfolders
