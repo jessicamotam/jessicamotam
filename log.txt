@@ -40259,3 +40259,4 @@
 0750. 🎨 style: apply consistent indentation
 0656. 🎨 style: apply consistent indentation
 0717. 🔧 refactor: refactor quiz grading logic
+0588. 🔧 refactor: organize models into subfolders
