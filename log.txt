@@ -47469,3 +47469,4 @@
 0334. 🚀 perf: cache repeated calculations
 0863. 🐛 fix: correct typo in registration form
 0372. ✨ feat: add user authentication
+0630. 🚀 perf: lazy-load components
