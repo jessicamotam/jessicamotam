@@ -83612,3 +83612,4 @@
 0776. ✅ test: add integration test for /submit endpoint
 0866. 📚 docs: add API usage examples
 0242. ♻️ chore: clean up unused files
+0036. 🔧 refactor: clean up auth middleware
