@@ -65655,3 +65655,4 @@
 0513. ♻️ chore: bump dependencies
 0262. 🎨 style: remove trailing whitespace
 0432. 🎨 style: apply consistent indentation
+0544. 🔧 refactor: organize models into subfolders
