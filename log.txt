@@ -87184,3 +87184,4 @@
 0205. 📚 docs: update README with setup steps
 0555. ✨ feat: create admin dashboard
 0752. ✅ test: add integration test for /submit endpoint
+0599. ✅ test: test user registration edge cases
