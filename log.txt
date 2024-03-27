@@ -81926,3 +81926,4 @@
 0569. 📚 docs: document token refresh logic
 0939. 📚 docs: update README with setup steps
 0823. ✨ feat: add user authentication
+0960. ✅ test: increase coverage on auth module
