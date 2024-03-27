@@ -21464,3 +21464,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0661. ✅ test: add integration test for /submit endpoint
 0306. 🎨 style: apply consistent indentation
+0896. 🚀 perf: reduce image load time
