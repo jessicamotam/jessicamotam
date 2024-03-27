@@ -90331,3 +90331,4 @@
 0166. 🚀 perf: cache repeated calculations
 0227. ✅ test: test user registration edge cases
 0805. ♻️ chore: add GitHub actions badge
+0233. 🚀 perf: lazy-load components
