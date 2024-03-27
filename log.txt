@@ -46635,3 +46635,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0158. 📚 docs: clarify environment setup
 0205. 📚 docs: update README with setup steps
+0428. 🐛 fix: fix null pointer exception on login
