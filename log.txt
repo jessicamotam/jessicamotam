@@ -46464,3 +46464,4 @@
 0434. 📚 docs: document token refresh logic
 0916. ♻️ chore: bump dependencies
 0247. 🎨 style: apply consistent indentation
+0339. 📚 docs: update README with setup steps
