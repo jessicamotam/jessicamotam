@@ -43520,3 +43520,4 @@
 0591. ♻️ chore: clean up unused files
 0742. 📚 docs: clarify environment setup
 0895. ✨ feat: support email verification
+0889. 🚀 perf: lazy-load components
