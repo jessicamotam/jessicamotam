@@ -49933,3 +49933,4 @@
 0720. ✨ feat: add export to CSV option
 0846. ✨ feat: implement quiz timer feature
 0388. 🎨 style: reformat files with black
+0084. 🐛 fix: handle 500 error in quiz API
