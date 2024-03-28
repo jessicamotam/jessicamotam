@@ -75629,3 +75629,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0587. 🔧 refactor: remove redundant code blocks
 0127. 🐛 fix: fix null pointer exception on login
+0371. ✅ test: add integration test for /submit endpoint
