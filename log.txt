@@ -7004,3 +7004,4 @@
 0956. 📚 docs: clarify environment setup
 0427. ✅ test: mock database connection in test suite
 0405. ✅ test: mock database connection in test suite
+0280. ✅ test: add integration test for /submit endpoint
