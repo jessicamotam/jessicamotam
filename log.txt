@@ -42387,3 +42387,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0074. ♻️ chore: add GitHub actions badge
 0546. 🐛 fix: fix null pointer exception on login
+0450. 🐛 fix: fix broken CSS in mobile view
