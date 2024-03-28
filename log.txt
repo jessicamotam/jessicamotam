@@ -66745,3 +66745,4 @@
 0388. 🎨 style: reformat files with black
 0046. 🎨 style: rename variables for clarity
 0924. ✅ test: mock database connection in test suite
+0380. 🐛 fix: fix null pointer exception on login
