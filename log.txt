@@ -87503,3 +87503,4 @@
 0076. 🎨 style: reformat files with black
 0166. 🚀 perf: cache repeated calculations
 0011. ✅ test: add unit test for quiz service
+0535. 📚 docs: write FAQ section
