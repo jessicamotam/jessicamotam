@@ -82941,3 +82941,4 @@
 0033. 🎨 style: apply consistent indentation
 0737. 🐛 fix: handle 500 error in quiz API
 0793. 📚 docs: clarify environment setup
+0765. ♻️ chore: clean up unused files
