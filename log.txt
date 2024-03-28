@@ -84900,3 +84900,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0326. 🚀 perf: cache repeated calculations
 0705. 🔧 refactor: refactor quiz grading logic
+0220. 🐛 fix: fix null pointer exception on login
