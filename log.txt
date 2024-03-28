@@ -21368,3 +21368,4 @@
 0756. ✨ feat: support email verification
 0988. 🐛 fix: fix broken CSS in mobile view
 0320. 📚 docs: update README with setup steps
+0434. 📚 docs: document token refresh logic
