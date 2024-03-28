@@ -41510,3 +41510,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0824. 🚀 perf: lazy-load components
 0891. ✨ feat: create admin dashboard
+0706. ✨ feat: support email verification
