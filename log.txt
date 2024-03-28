@@ -35985,3 +35985,4 @@
 0968. 🎨 style: standardize quote style
 0987. ✨ feat: create admin dashboard
 0305. ✨ feat: enable dark mode toggle
+0785. ✨ feat: enable dark mode toggle
