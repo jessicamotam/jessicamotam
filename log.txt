@@ -67923,3 +67923,4 @@
 0164. 📚 docs: document token refresh logic
 0108. 🎨 style: remove trailing whitespace
 0892. ✅ test: add unit test for quiz service
+0703. 🔧 refactor: clean up auth middleware
