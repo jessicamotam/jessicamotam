@@ -14771,3 +14771,4 @@
 0839. 🎨 style: apply consistent indentation
 0430. 🐛 fix: fix null pointer exception on login
 0022. 📚 docs: document token refresh logic
+0439. 🐛 fix: correct typo in registration form
