@@ -51991,3 +51991,4 @@
 0440. 📚 docs: update README with setup steps
 0591. ♻️ chore: clean up unused files
 0607. 🐛 fix: prevent crash on empty input
+0234. ♻️ chore: rename env.example
