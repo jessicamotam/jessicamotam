@@ -4801,3 +4801,4 @@
 0300. ✨ feat: add export to CSV option
 0024. 📚 docs: write FAQ section
 0839. 🎨 style: apply consistent indentation
+0466. 🚀 perf: optimize database query for quiz results
