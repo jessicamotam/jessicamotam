@@ -12534,3 +12534,4 @@
 0092. 🚀 perf: reduce image load time
 0107. 🐛 fix: prevent crash on empty input
 0769. ✨ feat: create admin dashboard
+0835. 🐛 fix: prevent crash on empty input
