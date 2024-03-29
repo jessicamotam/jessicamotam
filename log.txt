@@ -57330,3 +57330,4 @@
 0601. ✨ feat: implement quiz timer feature
 0035. ✅ test: increase coverage on auth module
 0509. ♻️ chore: bump dependencies
+0612. ✅ test: test user registration edge cases
