@@ -17075,3 +17075,4 @@
 0198. 📚 docs: clarify environment setup
 0784. ♻️ chore: clean up unused files
 0106. 🎨 style: reformat files with black
+0308. 🚀 perf: reduce image load time
