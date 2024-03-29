@@ -29647,3 +29647,4 @@
 0912. 📚 docs: document token refresh logic
 0117. ✅ test: increase coverage on auth module
 0876. ♻️ chore: rename env.example
+0772. 🐛 fix: fix null pointer exception on login
