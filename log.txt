@@ -12297,3 +12297,4 @@
 0117. ✅ test: increase coverage on auth module
 0925. ✨ feat: add export to CSV option
 0555. ✨ feat: create admin dashboard
+0377. ✨ feat: add user authentication
