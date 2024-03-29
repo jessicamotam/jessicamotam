@@ -43289,3 +43289,4 @@
 0121. ✨ feat: support email verification
 0378. 🐛 fix: prevent crash on empty input
 0283. ♻️ chore: add GitHub actions badge
+0541. 🐛 fix: correct typo in registration form
