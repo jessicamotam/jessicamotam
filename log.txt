@@ -88113,3 +88113,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0828. ♻️ chore: add GitHub actions badge
 0384. 📚 docs: clarify environment setup
+0770. ♻️ chore: rename env.example
