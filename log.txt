@@ -5477,3 +5477,4 @@
 0032. 🎨 style: apply consistent indentation
 0027. 📚 docs: clarify environment setup
 0626. 🎨 style: standardize quote style
+0121. ✨ feat: support email verification
