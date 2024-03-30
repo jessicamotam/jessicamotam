@@ -38923,3 +38923,4 @@
 0793. 📚 docs: clarify environment setup
 0566. 📚 docs: write FAQ section
 0399. ✅ test: mock database connection in test suite
+0828. ♻️ chore: add GitHub actions badge
