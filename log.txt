@@ -83639,3 +83639,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0753. 🔧 refactor: remove redundant code blocks
 0109. 🚀 perf: lazy-load components
+0882. 🚀 perf: optimize database query for quiz results
