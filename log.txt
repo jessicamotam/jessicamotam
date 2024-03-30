@@ -71558,3 +71558,4 @@
 0122. ✨ feat: support email verification
 0993. ✨ feat: implement quiz timer feature
 0362. 📚 docs: add API usage examples
+0607. 🐛 fix: prevent crash on empty input
