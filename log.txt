@@ -49664,3 +49664,4 @@
 0075. ✅ test: mock database connection in test suite
 0989. 📚 docs: write FAQ section
 0314. ✨ feat: implement quiz timer feature
+0353. ♻️ chore: rename env.example
