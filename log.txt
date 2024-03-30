@@ -49343,3 +49343,4 @@
 0103. 🔧 refactor: remove redundant code blocks
 0407. 🚀 perf: cache repeated calculations
 0918. ✨ feat: enable dark mode toggle
+0571. 🔧 refactor: clean up auth middleware
