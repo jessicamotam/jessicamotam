@@ -22613,3 +22613,4 @@
 0925. ✨ feat: add export to CSV option
 0817. 🔧 refactor: remove redundant code blocks
 0077. ♻️ chore: rename env.example
+0438. ♻️ chore: bump dependencies
