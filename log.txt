@@ -86595,3 +86595,4 @@
 0122. ✨ feat: support email verification
 0801. ✨ feat: enable dark mode toggle
 0962. ✨ feat: create admin dashboard
+0713. 🐛 fix: handle 500 error in quiz API
