@@ -6675,3 +6675,4 @@
 0156. 🎨 style: rename variables for clarity
 0989. 📚 docs: write FAQ section
 0978. 🐛 fix: prevent crash on empty input
+0489. 🔧 refactor: organize models into subfolders
