@@ -13499,3 +13499,4 @@
 0444. ✅ test: add unit test for quiz service
 0472. 🐛 fix: fix null pointer exception on login
 0387. ✨ feat: enable dark mode toggle
+0186. ✅ test: test user registration edge cases
