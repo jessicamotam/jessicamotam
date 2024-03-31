@@ -154,3 +154,4 @@
 0216. 🎨 style: rename variables for clarity
 0022. 📚 docs: document token refresh logic
 0329. 📚 docs: update README with setup steps
+0219. ✅ test: increase coverage on auth module
