@@ -80728,3 +80728,4 @@
 0965. 🎨 style: reformat files with black
 0181. ♻️ chore: add GitHub actions badge
 0336. ✨ feat: add export to CSV option
+0582. ✨ feat: add export to CSV option
