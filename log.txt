@@ -67342,3 +67342,4 @@
 0693. 📚 docs: add API usage examples
 0423. ✅ test: mock database connection in test suite
 0095. ✅ test: mock database connection in test suite
+0544. 🔧 refactor: organize models into subfolders
