@@ -5472,3 +5472,4 @@
 0968. 🎨 style: standardize quote style
 0563. 📚 docs: clarify environment setup
 0962. ✨ feat: create admin dashboard
+0457. 🐛 fix: handle 500 error in quiz API
