@@ -56176,3 +56176,4 @@
 0952. 🔧 refactor: split large controller into smaller functions
 0874. 🔧 refactor: split large controller into smaller functions
 0827. 🚀 perf: optimize database query for quiz results
+0696. 🔧 refactor: clean up auth middleware
