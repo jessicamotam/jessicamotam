@@ -9236,3 +9236,4 @@
 0502. 📚 docs: update README with setup steps
 0089. 🔧 refactor: remove redundant code blocks
 0734. ✨ feat: add export to CSV option
+0341. 🚀 perf: lazy-load components
