@@ -1982,3 +1982,4 @@
 0566. 📚 docs: write FAQ section
 0049. 🐛 fix: handle 500 error in quiz API
 0893. 🐛 fix: handle 500 error in quiz API
+0511. 🐛 fix: fix broken CSS in mobile view
