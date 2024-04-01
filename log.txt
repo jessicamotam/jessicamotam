@@ -80519,3 +80519,4 @@
 0855. 🎨 style: reformat files with black
 0440. 📚 docs: update README with setup steps
 0859. ✨ feat: create admin dashboard
+0536. ✨ feat: add user authentication
