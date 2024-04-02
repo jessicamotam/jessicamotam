@@ -27455,3 +27455,4 @@
 0750. 🎨 style: apply consistent indentation
 0703. 🔧 refactor: clean up auth middleware
 0688. 🚀 perf: reduce image load time
+0876. ♻️ chore: rename env.example
