@@ -27172,3 +27172,4 @@
 0646. ✅ test: test user registration edge cases
 0089. 🔧 refactor: remove redundant code blocks
 0791. 🔧 refactor: clean up auth middleware
+0850. ♻️ chore: rename env.example
