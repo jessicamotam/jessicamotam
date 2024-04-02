@@ -72417,3 +72417,4 @@
 0846. ✨ feat: implement quiz timer feature
 0180. ✨ feat: add export to CSV option
 0945. ♻️ chore: add GitHub actions badge
+0669. ✨ feat: enable dark mode toggle
