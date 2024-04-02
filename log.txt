@@ -73820,3 +73820,4 @@
 0365. 🚀 perf: reduce image load time
 0486. ✨ feat: add export to CSV option
 0590. 🐛 fix: fix null pointer exception on login
+0704. 🚀 perf: cache repeated calculations
