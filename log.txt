@@ -70799,3 +70799,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0627. 📚 docs: document token refresh logic
 0558. ✨ feat: enable dark mode toggle
+0721. 🚀 perf: optimize database query for quiz results
