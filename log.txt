@@ -56821,3 +56821,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0692. ✅ test: add integration test for /submit endpoint
 0709. ♻️ chore: bump dependencies
+0048. 📚 docs: update README with setup steps
