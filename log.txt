@@ -18689,3 +18689,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0894. ✅ test: add integration test for /submit endpoint
 0291. 📚 docs: write FAQ section
+0690. 🚀 perf: lazy-load components
