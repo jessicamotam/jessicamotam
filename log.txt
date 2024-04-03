@@ -68395,3 +68395,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0028. 🎨 style: standardize quote style
 0735. ♻️ chore: add GitHub actions badge
+0766. 🎨 style: reformat files with black
