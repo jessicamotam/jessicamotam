@@ -14974,3 +14974,4 @@
 0927. ♻️ chore: bump dependencies
 0921. 🐛 fix: correct typo in registration form
 0278. 🔧 refactor: clean up auth middleware
+0682. ♻️ chore: rename env.example
