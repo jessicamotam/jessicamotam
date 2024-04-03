@@ -39386,3 +39386,4 @@
 0332. 🎨 style: standardize quote style
 0716. ✨ feat: implement quiz timer feature
 0400. 🐛 fix: fix null pointer exception on login
+0079. 🐛 fix: correct typo in registration form
