@@ -112,3 +112,4 @@
 0604. 📚 docs: add API usage examples
 0442. 🎨 style: standardize quote style
 0399. ✅ test: mock database connection in test suite
+1000. ✅ test: increase coverage on auth module
