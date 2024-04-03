@@ -62449,3 +62449,4 @@
 0908. ♻️ chore: bump dependencies
 0596. ♻️ chore: update .gitignore
 0959. 🐛 fix: fix null pointer exception on login
+0936. 🔧 refactor: organize models into subfolders
