@@ -17621,3 +17621,4 @@
 0996. ✅ test: test user registration edge cases
 0234. ♻️ chore: rename env.example
 0194. 🎨 style: standardize quote style
+0085. ✨ feat: support email verification
