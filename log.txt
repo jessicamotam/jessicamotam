@@ -41476,3 +41476,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0473. 📚 docs: write FAQ section
 0899. 🚀 perf: cache repeated calculations
+0816. 🔧 refactor: organize models into subfolders
