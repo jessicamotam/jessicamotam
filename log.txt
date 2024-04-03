@@ -31274,3 +31274,4 @@
 0100. ♻️ chore: update .gitignore
 0890. 🔧 refactor: organize models into subfolders
 0881. 🔧 refactor: split large controller into smaller functions
+0378. 🐛 fix: prevent crash on empty input
