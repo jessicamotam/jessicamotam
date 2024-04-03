@@ -51588,3 +51588,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0850. ♻️ chore: rename env.example
 0252. 🎨 style: remove trailing whitespace
+0579. 📚 docs: clarify environment setup
