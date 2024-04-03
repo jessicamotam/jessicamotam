@@ -65166,3 +65166,4 @@
 0864. 🐛 fix: correct typo in registration form
 0262. 🎨 style: remove trailing whitespace
 0028. 🎨 style: standardize quote style
+0730. ✅ test: test user registration edge cases
