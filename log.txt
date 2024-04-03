@@ -40010,3 +40010,4 @@
 0361. ✨ feat: support email verification
 0716. ✨ feat: implement quiz timer feature
 0352. ✨ feat: add export to CSV option
+0380. 🐛 fix: fix null pointer exception on login
