@@ -71848,3 +71848,4 @@
 0409. 🚀 perf: lazy-load components
 0644. 🎨 style: apply consistent indentation
 0937. 🐛 fix: handle 500 error in quiz API
+0363. 📚 docs: clarify environment setup
