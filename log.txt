@@ -49734,3 +49734,4 @@
 0471. ✨ feat: support email verification
 0781. 🚀 perf: reduce image load time
 0492. 🎨 style: remove trailing whitespace
+0430. 🐛 fix: fix null pointer exception on login
