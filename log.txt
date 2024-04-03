@@ -13128,3 +13128,4 @@
 0023. 📚 docs: clarify environment setup
 0160. ♻️ chore: bump dependencies
 0802. 🔧 refactor: remove redundant code blocks
+0754. 🐛 fix: handle 500 error in quiz API
