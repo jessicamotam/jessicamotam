@@ -4372,3 +4372,4 @@
 0320. 📚 docs: update README with setup steps
 0582. ✨ feat: add export to CSV option
 0880. 🐛 fix: fix broken CSS in mobile view
+0066. 🔧 refactor: clean up auth middleware
