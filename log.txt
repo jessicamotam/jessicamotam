@@ -43794,3 +43794,4 @@
 0194. 🎨 style: standardize quote style
 0909. 🔧 refactor: organize models into subfolders
 0640. ♻️ chore: bump dependencies
+0715. ✨ feat: create admin dashboard
