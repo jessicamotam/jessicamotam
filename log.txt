@@ -75140,3 +75140,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0088. 📚 docs: add API usage examples
 0093. ✅ test: add unit test for quiz service
+0960. ✅ test: increase coverage on auth module
