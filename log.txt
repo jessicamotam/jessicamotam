@@ -14460,3 +14460,4 @@
 0086. 🐛 fix: correct typo in registration form
 0362. 📚 docs: add API usage examples
 0254. 🚀 perf: reduce image load time
+0660. 🐛 fix: correct typo in registration form
