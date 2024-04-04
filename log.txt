@@ -67174,3 +67174,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0364. 🐛 fix: resolve issue with date parsing
 0647. 🐛 fix: prevent crash on empty input
+0050. ✨ feat: enable dark mode toggle
