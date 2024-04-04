@@ -5285,3 +5285,4 @@
 0770. ♻️ chore: rename env.example
 0030. 🐛 fix: fix null pointer exception on login
 0625. 🐛 fix: handle 500 error in quiz API
+0029. 🚀 perf: lazy-load components
