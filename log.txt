@@ -52080,3 +52080,4 @@
 0787. ♻️ chore: rename env.example
 0770. ♻️ chore: rename env.example
 0500. ✅ test: add integration test for /submit endpoint
+0226. 🚀 perf: lazy-load components
