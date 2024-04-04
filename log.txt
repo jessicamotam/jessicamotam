@@ -21903,3 +21903,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0920. 🔧 refactor: organize models into subfolders
 0108. 🎨 style: remove trailing whitespace
+0125. ✅ test: add integration test for /submit endpoint
