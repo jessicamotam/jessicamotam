@@ -61904,3 +61904,4 @@
 0702. ✨ feat: add user authentication
 0315. ✅ test: add integration test for /submit endpoint
 0770. ♻️ chore: rename env.example
+0110. 🐛 fix: prevent crash on empty input
