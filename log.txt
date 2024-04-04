@@ -24514,3 +24514,4 @@
 0221. ✨ feat: add user authentication
 0035. ✅ test: increase coverage on auth module
 0786. ✨ feat: enable dark mode toggle
+0809. ♻️ chore: rename env.example
