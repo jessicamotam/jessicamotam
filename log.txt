@@ -86128,3 +86128,4 @@
 0146. 🎨 style: apply consistent indentation
 0102. ✨ feat: support email verification
 0517. ✅ test: mock database connection in test suite
+0649. 📚 docs: update README with setup steps
