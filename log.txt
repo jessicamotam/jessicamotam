@@ -1825,3 +1825,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0172. 📚 docs: add API usage examples
 0499. 🎨 style: reformat files with black
+0457. 🐛 fix: handle 500 error in quiz API
