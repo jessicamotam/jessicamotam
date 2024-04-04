@@ -72067,3 +72067,4 @@
 0124. 🎨 style: reformat files with black
 0526. ✨ feat: add user authentication
 0778. 📚 docs: write FAQ section
+0064. 📚 docs: clarify environment setup
