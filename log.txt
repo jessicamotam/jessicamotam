@@ -65845,3 +65845,4 @@
 0052. 🎨 style: standardize quote style
 0690. 🚀 perf: lazy-load components
 0275. 🎨 style: standardize quote style
+0948. 🐛 fix: fix broken CSS in mobile view
