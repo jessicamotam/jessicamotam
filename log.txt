@@ -77735,3 +77735,4 @@
 0549. ✨ feat: enable dark mode toggle
 0472. 🐛 fix: fix null pointer exception on login
 0460. 📚 docs: write FAQ section
+0136. 🚀 perf: lazy-load components
