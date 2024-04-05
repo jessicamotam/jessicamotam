@@ -63186,3 +63186,4 @@
 0490. ✨ feat: create admin dashboard
 0743. 🎨 style: apply consistent indentation
 0167. 🚀 perf: reduce image load time
+0548. 📚 docs: write FAQ section
