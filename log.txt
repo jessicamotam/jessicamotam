@@ -90480,3 +90480,4 @@
 0013. ✅ test: increase coverage on auth module
 0263. 📚 docs: add API usage examples
 0622. 🎨 style: apply consistent indentation
+0863. 🐛 fix: correct typo in registration form
