@@ -64424,3 +64424,4 @@
 0771. 🚀 perf: cache repeated calculations
 0710. 🐛 fix: fix broken CSS in mobile view
 0237. 🎨 style: standardize quote style
+0363. 📚 docs: clarify environment setup
