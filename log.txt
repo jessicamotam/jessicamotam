@@ -43590,3 +43590,4 @@
 0984. ♻️ chore: clean up unused files
 0545. 🎨 style: standardize quote style
 0938. 🎨 style: rename variables for clarity
+0798. 🚀 perf: reduce image load time
