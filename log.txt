@@ -28914,3 +28914,4 @@
 0786. ✨ feat: enable dark mode toggle
 0412. ✅ test: increase coverage on auth module
 0391. 🐛 fix: fix null pointer exception on login
+0848. 📚 docs: update README with setup steps
