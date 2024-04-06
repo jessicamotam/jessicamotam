@@ -6893,3 +6893,4 @@
 0662. ♻️ chore: clean up unused files
 0024. 📚 docs: write FAQ section
 0299. 🐛 fix: resolve issue with date parsing
+0136. 🚀 perf: lazy-load components
