@@ -7001,3 +7001,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0879. 🎨 style: standardize quote style
 0811. 🎨 style: reformat files with black
+0956. 📚 docs: clarify environment setup
