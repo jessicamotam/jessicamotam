@@ -63255,3 +63255,4 @@
 0766. 🎨 style: reformat files with black
 0305. ✨ feat: enable dark mode toggle
 0615. 🐛 fix: correct typo in registration form
+0189. 📚 docs: clarify environment setup
