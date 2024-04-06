@@ -30030,3 +30030,4 @@
 0824. 🚀 perf: lazy-load components
 0418. ✅ test: mock database connection in test suite
 0972. 🔧 refactor: refactor quiz grading logic
+0287. 📚 docs: write FAQ section
