@@ -1230,3 +1230,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0766. 🎨 style: reformat files with black
 0311. 🎨 style: apply consistent indentation
+0541. 🐛 fix: correct typo in registration form
