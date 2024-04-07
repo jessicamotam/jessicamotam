@@ -12514,3 +12514,4 @@
 0934. ✨ feat: support email verification
 0254. 🚀 perf: reduce image load time
 0549. ✨ feat: enable dark mode toggle
+0699. 🎨 style: standardize quote style
