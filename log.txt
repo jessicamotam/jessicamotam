@@ -8192,3 +8192,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0457. 🐛 fix: handle 500 error in quiz API
 0776. ✅ test: add integration test for /submit endpoint
+0384. 📚 docs: clarify environment setup
