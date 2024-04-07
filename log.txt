@@ -83806,3 +83806,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0833. ✨ feat: add user authentication
 0143. ✨ feat: implement quiz timer feature
+0050. ✨ feat: enable dark mode toggle
