@@ -42939,3 +42939,4 @@
 0055. 📚 docs: update README with setup steps
 0996. ✅ test: test user registration edge cases
 0364. 🐛 fix: resolve issue with date parsing
+0158. 📚 docs: clarify environment setup
