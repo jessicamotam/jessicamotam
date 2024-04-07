@@ -51140,3 +51140,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0596. ♻️ chore: update .gitignore
 0684. 🚀 perf: reduce image load time
+0676. 🐛 fix: prevent crash on empty input
