@@ -18566,3 +18566,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0078. ♻️ chore: update .gitignore
 0097. 🐛 fix: handle 500 error in quiz API
+0359. 🔧 refactor: clean up auth middleware
