@@ -81536,3 +81536,4 @@
 0372. ✨ feat: add user authentication
 0760. 🐛 fix: resolve issue with date parsing
 0679. ♻️ chore: bump dependencies
+0331. 🐛 fix: fix broken CSS in mobile view
