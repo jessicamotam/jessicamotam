@@ -41336,3 +41336,4 @@
 0935. 📚 docs: update README with setup steps
 0886. ♻️ chore: clean up unused files
 0257. 📚 docs: clarify environment setup
+0738. 🐛 fix: prevent crash on empty input
