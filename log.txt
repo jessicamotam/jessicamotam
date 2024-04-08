@@ -77285,3 +77285,4 @@
 0583. ✅ test: increase coverage on auth module
 0153. ♻️ chore: rename env.example
 0625. 🐛 fix: handle 500 error in quiz API
+0247. 🎨 style: apply consistent indentation
