@@ -75369,3 +75369,4 @@
 0715. ✨ feat: create admin dashboard
 0528. ♻️ chore: clean up unused files
 0028. 🎨 style: standardize quote style
+0100. ♻️ chore: update .gitignore
