@@ -23784,3 +23784,4 @@
 0699. 🎨 style: standardize quote style
 0618. ✨ feat: support email verification
 0521. 🎨 style: standardize quote style
+0835. 🐛 fix: prevent crash on empty input
