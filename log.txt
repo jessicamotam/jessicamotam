@@ -32478,3 +32478,4 @@
 0925. ✨ feat: add export to CSV option
 0573. ✅ test: add integration test for /submit endpoint
 0855. 🎨 style: reformat files with black
+0074. ♻️ chore: add GitHub actions badge
