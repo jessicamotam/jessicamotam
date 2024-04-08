@@ -64088,3 +64088,4 @@
 0094. 📚 docs: document token refresh logic
 0526. ✨ feat: add user authentication
 0279. ✨ feat: support email verification
+0542. 🔧 refactor: organize models into subfolders
