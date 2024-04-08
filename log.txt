@@ -13706,3 +13706,4 @@
 0896. 🚀 perf: reduce image load time
 0149. ✨ feat: add export to CSV option
 0371. ✅ test: add integration test for /submit endpoint
+0368. 🚀 perf: lazy-load components
