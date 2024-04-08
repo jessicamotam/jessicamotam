@@ -65385,3 +65385,4 @@
 0987. ✨ feat: create admin dashboard
 0277. 🎨 style: standardize quote style
 0778. 📚 docs: write FAQ section
+0713. 🐛 fix: handle 500 error in quiz API
