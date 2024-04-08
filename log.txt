@@ -51794,3 +51794,4 @@
 0917. ✅ test: add integration test for /submit endpoint
 0206. 🐛 fix: handle 500 error in quiz API
 0283. ♻️ chore: add GitHub actions badge
+0616. 🚀 perf: lazy-load components
