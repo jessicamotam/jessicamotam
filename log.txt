@@ -40133,3 +40133,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0495. 🔧 refactor: remove redundant code blocks
 0810. 🔧 refactor: refactor quiz grading logic
+0617. ✨ feat: support email verification
