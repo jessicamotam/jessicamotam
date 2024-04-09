@@ -35177,3 +35177,4 @@
 0501. ✨ feat: add export to CSV option
 0879. 🎨 style: standardize quote style
 0962. ✨ feat: create admin dashboard
+0448. 🐛 fix: correct typo in registration form
