@@ -69434,3 +69434,4 @@
 0444. ✅ test: add unit test for quiz service
 0791. 🔧 refactor: clean up auth middleware
 0330. ✅ test: test user registration edge cases
+0696. 🔧 refactor: clean up auth middleware
