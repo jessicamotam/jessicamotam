@@ -44025,3 +44025,4 @@
 0598. 🔧 refactor: remove redundant code blocks
 0885. ♻️ chore: update .gitignore
 0860. 🔧 refactor: organize models into subfolders
+0440. 📚 docs: update README with setup steps
