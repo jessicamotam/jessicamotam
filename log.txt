@@ -65829,3 +65829,4 @@
 0426. ✅ test: add integration test for /submit endpoint
 0164. 📚 docs: document token refresh logic
 0124. 🎨 style: reformat files with black
+0159. 🚀 perf: lazy-load components
