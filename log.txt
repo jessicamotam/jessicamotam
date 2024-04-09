@@ -8168,3 +8168,4 @@
 0292. 📚 docs: clarify environment setup
 0855. 🎨 style: reformat files with black
 0280. ✅ test: add integration test for /submit endpoint
+0571. 🔧 refactor: clean up auth middleware
