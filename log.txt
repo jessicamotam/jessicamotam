@@ -3062,3 +3062,4 @@
 0557. 🔧 refactor: clean up auth middleware
 0434. 📚 docs: document token refresh logic
 0778. 📚 docs: write FAQ section
+0710. 🐛 fix: fix broken CSS in mobile view
