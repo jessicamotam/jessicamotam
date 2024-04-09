@@ -27667,3 +27667,4 @@
 0679. ♻️ chore: bump dependencies
 0739. 🎨 style: remove trailing whitespace
 0128. ♻️ chore: rename env.example
+0479. 🐛 fix: fix null pointer exception on login
