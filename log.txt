@@ -70837,3 +70837,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0255. 🔧 refactor: refactor quiz grading logic
 0718. 🐛 fix: resolve issue with date parsing
+0612. ✅ test: test user registration edge cases
