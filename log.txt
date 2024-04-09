@@ -6819,3 +6819,4 @@
 0518. ✨ feat: support email verification
 0823. ✨ feat: add user authentication
 0352. ✨ feat: add export to CSV option
+0590. 🐛 fix: fix null pointer exception on login
