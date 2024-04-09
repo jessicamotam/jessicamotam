@@ -63695,3 +63695,4 @@
 0257. 📚 docs: clarify environment setup
 0353. ♻️ chore: rename env.example
 0756. ✨ feat: support email verification
+0642. 🚀 perf: optimize database query for quiz results
