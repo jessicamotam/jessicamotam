@@ -25183,3 +25183,4 @@
 0903. ✅ test: mock database connection in test suite
 0477. 🐛 fix: fix broken CSS in mobile view
 0509. ♻️ chore: bump dependencies
+0738. 🐛 fix: prevent crash on empty input
