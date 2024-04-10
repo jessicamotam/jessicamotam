@@ -367,3 +367,4 @@
 0688. 🚀 perf: reduce image load time
 0310. 🔧 refactor: refactor quiz grading logic
 0084. 🐛 fix: handle 500 error in quiz API
+0764. ✨ feat: add user authentication
