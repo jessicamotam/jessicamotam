@@ -14087,3 +14087,4 @@
 0456. 🚀 perf: optimize database query for quiz results
 0668. 🚀 perf: optimize database query for quiz results
 0997. ✅ test: increase coverage on auth module
+0961. 📚 docs: add API usage examples
