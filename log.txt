@@ -21237,3 +21237,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0038. 🎨 style: rename variables for clarity
 0727. ♻️ chore: add GitHub actions badge
+0379. ✨ feat: support email verification
