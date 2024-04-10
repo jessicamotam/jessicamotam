@@ -78679,3 +78679,4 @@
 0029. 🚀 perf: lazy-load components
 0531. 🐛 fix: prevent crash on empty input
 0009. ✨ feat: enable dark mode toggle
+0437. 📚 docs: clarify environment setup
