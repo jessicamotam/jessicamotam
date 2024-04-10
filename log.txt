@@ -63261,3 +63261,4 @@
 0277. 🎨 style: standardize quote style
 0627. 📚 docs: document token refresh logic
 0950. 🎨 style: reformat files with black
+0258. 🐛 fix: prevent crash on empty input
