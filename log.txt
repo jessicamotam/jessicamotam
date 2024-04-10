@@ -49988,3 +49988,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0764. ✨ feat: add user authentication
 0998. 🐛 fix: fix null pointer exception on login
+0020. ✅ test: add integration test for /submit endpoint
