@@ -31895,3 +31895,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0579. 📚 docs: clarify environment setup
 0376. 🎨 style: apply consistent indentation
+0986. 📚 docs: document token refresh logic
