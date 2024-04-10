@@ -31830,3 +31830,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0796. 🔧 refactor: refactor quiz grading logic
 0811. 🎨 style: reformat files with black
+0113. ✨ feat: add user authentication
