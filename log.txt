@@ -35798,3 +35798,4 @@
 0439. 🐛 fix: correct typo in registration form
 0351. ✨ feat: add export to CSV option
 0939. 📚 docs: update README with setup steps
+0037. 🐛 fix: correct typo in registration form
