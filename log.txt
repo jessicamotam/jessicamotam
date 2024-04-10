@@ -5510,3 +5510,4 @@
 0536. ✨ feat: add user authentication
 0553. 🐛 fix: correct typo in registration form
 0371. ✅ test: add integration test for /submit endpoint
+0914. ✅ test: test user registration edge cases
