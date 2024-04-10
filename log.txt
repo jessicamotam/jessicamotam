@@ -71775,3 +71775,4 @@
 0482. ✨ feat: add export to CSV option
 0339. 📚 docs: update README with setup steps
 0160. ♻️ chore: bump dependencies
+0378. 🐛 fix: prevent crash on empty input
