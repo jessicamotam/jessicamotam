@@ -5804,3 +5804,4 @@
 0238. 🎨 style: apply consistent indentation
 0140. 🐛 fix: handle 500 error in quiz API
 0824. 🚀 perf: lazy-load components
+0964. ♻️ chore: clean up unused files
