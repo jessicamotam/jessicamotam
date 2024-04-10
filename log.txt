@@ -3737,3 +3737,4 @@
 0901. ✨ feat: add user authentication
 0018. 🔧 refactor: organize models into subfolders
 0615. 🐛 fix: correct typo in registration form
+0356. 📚 docs: write FAQ section
