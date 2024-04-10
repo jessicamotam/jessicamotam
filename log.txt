@@ -7098,3 +7098,4 @@
 0616. 🚀 perf: lazy-load components
 0609. 🐛 fix: handle 500 error in quiz API
 0271. ✅ test: add unit test for quiz service
+0491. 🚀 perf: lazy-load components
