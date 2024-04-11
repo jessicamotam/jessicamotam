@@ -523,3 +523,4 @@
 0194. 🎨 style: standardize quote style
 0654. ✨ feat: create admin dashboard
 0899. 🚀 perf: cache repeated calculations
+0308. 🚀 perf: reduce image load time
