@@ -21286,3 +21286,4 @@
 0984. ♻️ chore: clean up unused files
 0875. ✅ test: increase coverage on auth module
 0318. 🔧 refactor: refactor quiz grading logic
+0547. 📚 docs: write FAQ section
