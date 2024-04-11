@@ -63093,3 +63093,4 @@
 0971. 🎨 style: standardize quote style
 0637. 🎨 style: apply consistent indentation
 0593. 🐛 fix: correct typo in registration form
+0848. 📚 docs: update README with setup steps
