@@ -65287,3 +65287,4 @@
 0149. ✨ feat: add export to CSV option
 0233. 🚀 perf: lazy-load components
 0903. ✅ test: mock database connection in test suite
+0648. ♻️ chore: bump dependencies
