@@ -16998,3 +16998,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0309. 🔧 refactor: refactor quiz grading logic
 0590. 🐛 fix: fix null pointer exception on login
+0361. ✨ feat: support email verification
