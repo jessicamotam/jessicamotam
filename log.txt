@@ -16593,3 +16593,4 @@
 0085. ✨ feat: support email verification
 0652. 🔧 refactor: organize models into subfolders
 0492. 🎨 style: remove trailing whitespace
+0493. ✨ feat: add user authentication
