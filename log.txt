@@ -62186,3 +62186,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0366. 🔧 refactor: remove redundant code blocks
 0248. 🐛 fix: handle 500 error in quiz API
+0393. 🚀 perf: lazy-load components
