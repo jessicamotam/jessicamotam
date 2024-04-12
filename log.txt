@@ -8179,3 +8179,4 @@
 0825. 🔧 refactor: split large controller into smaller functions
 0093. ✅ test: add unit test for quiz service
 0081. 🐛 fix: fix null pointer exception on login
+0733. 🐛 fix: fix null pointer exception on login
