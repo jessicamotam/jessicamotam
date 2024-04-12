@@ -4553,3 +4553,4 @@
 0187. ✨ feat: support email verification
 0799. ♻️ chore: clean up unused files
 0503. ♻️ chore: rename env.example
+1000. ✅ test: increase coverage on auth module
