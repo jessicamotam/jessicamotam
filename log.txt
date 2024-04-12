@@ -84330,3 +84330,4 @@
 0279. ✨ feat: support email verification
 0833. ✨ feat: add user authentication
 0346. ✅ test: mock database connection in test suite
+0580. ♻️ chore: bump dependencies
