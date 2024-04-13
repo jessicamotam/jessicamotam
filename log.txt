@@ -48622,3 +48622,4 @@
 0176. 🔧 refactor: remove redundant code blocks
 0956. 📚 docs: clarify environment setup
 0712. 🎨 style: apply consistent indentation
+0036. 🔧 refactor: clean up auth middleware
