@@ -12311,3 +12311,4 @@
 0132. ✅ test: add unit test for quiz service
 0633. ✨ feat: add user authentication
 0155. ✨ feat: create admin dashboard
+0621. 🔧 refactor: clean up auth middleware
