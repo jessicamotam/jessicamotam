@@ -7674,3 +7674,4 @@
 0461. ✨ feat: add user authentication
 0192. ✨ feat: enable dark mode toggle
 0721. 🚀 perf: optimize database query for quiz results
+0500. ✅ test: add integration test for /submit endpoint
