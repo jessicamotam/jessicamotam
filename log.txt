@@ -28153,3 +28153,4 @@
 0519. 📚 docs: document token refresh logic
 0116. ✨ feat: support email verification
 0226. 🚀 perf: lazy-load components
+0988. 🐛 fix: fix broken CSS in mobile view
