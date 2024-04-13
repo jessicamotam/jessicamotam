@@ -22576,3 +22576,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0729. 🔧 refactor: refactor quiz grading logic
 0878. 🔧 refactor: split large controller into smaller functions
+0233. 🚀 perf: lazy-load components
