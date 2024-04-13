@@ -18810,3 +18810,4 @@
 0646. ✅ test: test user registration edge cases
 0693. 📚 docs: add API usage examples
 0724. ✅ test: mock database connection in test suite
+0175. 📚 docs: add API usage examples
