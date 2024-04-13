@@ -37225,3 +37225,4 @@
 0298. ♻️ chore: update .gitignore
 0269. ✅ test: test user registration edge cases
 0827. 🚀 perf: optimize database query for quiz results
+0133. 🐛 fix: fix null pointer exception on login
