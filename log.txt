@@ -45518,3 +45518,4 @@
 0004. 🚀 perf: optimize database query for quiz results
 0819. 🚀 perf: reduce image load time
 0932. ✅ test: add integration test for /submit endpoint
+0502. 📚 docs: update README with setup steps
