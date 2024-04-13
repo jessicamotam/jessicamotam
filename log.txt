@@ -73645,3 +73645,4 @@
 0570. 🎨 style: apply consistent indentation
 0738. 🐛 fix: prevent crash on empty input
 0061. ✨ feat: create admin dashboard
+0257. 📚 docs: clarify environment setup
