@@ -86275,3 +86275,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0624. ✅ test: add unit test for quiz service
 0708. ✅ test: add integration test for /submit endpoint
+0896. 🚀 perf: reduce image load time
