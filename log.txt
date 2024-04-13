@@ -44621,3 +44621,4 @@
 0078. ♻️ chore: update .gitignore
 0574. ✨ feat: enable dark mode toggle
 0041. 🐛 fix: fix broken CSS in mobile view
+0760. 🐛 fix: resolve issue with date parsing
