@@ -77547,3 +77547,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0518. ✨ feat: support email verification
 0427. ✅ test: mock database connection in test suite
+0690. 🚀 perf: lazy-load components
