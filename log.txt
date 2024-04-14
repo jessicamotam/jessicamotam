@@ -85717,3 +85717,4 @@
 0070. ✨ feat: implement quiz timer feature
 0553. 🐛 fix: correct typo in registration form
 0412. ✅ test: increase coverage on auth module
+0781. 🚀 perf: reduce image load time
