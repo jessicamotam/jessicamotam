@@ -7084,3 +7084,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0733. 🐛 fix: fix null pointer exception on login
 0679. ♻️ chore: bump dependencies
+0760. 🐛 fix: resolve issue with date parsing
