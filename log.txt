@@ -15382,3 +15382,4 @@
 0194. 🎨 style: standardize quote style
 0778. 📚 docs: write FAQ section
 0812. 🔧 refactor: refactor quiz grading logic
+0521. 🎨 style: standardize quote style
