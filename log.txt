@@ -64173,3 +64173,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0178. ✨ feat: support email verification
 0818. 🔧 refactor: remove redundant code blocks
+0766. 🎨 style: reformat files with black
