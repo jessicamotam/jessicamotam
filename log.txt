@@ -25172,3 +25172,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0422. 🔧 refactor: organize models into subfolders
 0672. 🐛 fix: fix broken CSS in mobile view
+0611. ✅ test: test user registration edge cases
