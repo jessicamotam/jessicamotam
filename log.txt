@@ -48294,3 +48294,4 @@
 0686. 🎨 style: standardize quote style
 0602. 🔧 refactor: remove redundant code blocks
 0734. ✨ feat: add export to CSV option
+0998. 🐛 fix: fix null pointer exception on login
