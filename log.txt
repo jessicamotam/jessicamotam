@@ -6032,3 +6032,4 @@
 0242. ♻️ chore: clean up unused files
 0781. 🚀 perf: reduce image load time
 0260. ✨ feat: create admin dashboard
+0339. 📚 docs: update README with setup steps
