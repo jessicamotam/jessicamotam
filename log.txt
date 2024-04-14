@@ -30112,3 +30112,4 @@
 0017. ✅ test: mock database connection in test suite
 0394. 🚀 perf: lazy-load components
 0368. 🚀 perf: lazy-load components
+0111. 📚 docs: update README with setup steps
