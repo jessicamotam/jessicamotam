@@ -18311,3 +18311,4 @@
 0992. ♻️ chore: clean up unused files
 0775. 🐛 fix: fix null pointer exception on login
 0653. 🐛 fix: prevent crash on empty input
+0205. 📚 docs: update README with setup steps
