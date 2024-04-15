@@ -84077,3 +84077,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0867. 🔧 refactor: refactor quiz grading logic
 0198. 📚 docs: clarify environment setup
+0959. 🐛 fix: fix null pointer exception on login
