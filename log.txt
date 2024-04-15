@@ -42294,3 +42294,4 @@
 0693. 📚 docs: add API usage examples
 0637. 🎨 style: apply consistent indentation
 0546. 🐛 fix: fix null pointer exception on login
+0720. ✨ feat: add export to CSV option
