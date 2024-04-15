@@ -36090,3 +36090,4 @@
 0213. ✅ test: add integration test for /submit endpoint
 0442. 🎨 style: standardize quote style
 0682. ♻️ chore: rename env.example
+0064. 📚 docs: clarify environment setup
