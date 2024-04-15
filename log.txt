@@ -90018,3 +90018,4 @@
 0270. ♻️ chore: rename env.example
 0777. 📚 docs: document token refresh logic
 0934. ✨ feat: support email verification
+0441. 📚 docs: add API usage examples
