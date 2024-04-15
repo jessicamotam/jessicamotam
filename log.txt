@@ -20415,3 +20415,4 @@
 0749. ✨ feat: support email verification
 0884. 📚 docs: clarify environment setup
 0033. 🎨 style: apply consistent indentation
+0018. 🔧 refactor: organize models into subfolders
