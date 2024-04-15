@@ -77149,3 +77149,4 @@
 0300. ✨ feat: add export to CSV option
 0516. ✅ test: add unit test for quiz service
 0248. 🐛 fix: handle 500 error in quiz API
+0368. 🚀 perf: lazy-load components
