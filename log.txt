@@ -44594,3 +44594,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0889. 🚀 perf: lazy-load components
 0737. 🐛 fix: handle 500 error in quiz API
+0746. ♻️ chore: add GitHub actions badge
