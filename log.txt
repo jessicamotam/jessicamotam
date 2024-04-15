@@ -62788,3 +62788,4 @@
 0441. 📚 docs: add API usage examples
 0438. ♻️ chore: bump dependencies
 0680. ♻️ chore: add GitHub actions badge
+0440. 📚 docs: update README with setup steps
