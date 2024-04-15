@@ -67586,3 +67586,4 @@
 0596. ♻️ chore: update .gitignore
 0471. ✨ feat: support email verification
 0794. ♻️ chore: clean up unused files
+0135. ✅ test: test user registration edge cases
