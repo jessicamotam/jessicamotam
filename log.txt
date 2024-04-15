@@ -33444,3 +33444,4 @@
 0057. 🚀 perf: optimize database query for quiz results
 0617. ✨ feat: support email verification
 0503. ♻️ chore: rename env.example
+0399. ✅ test: mock database connection in test suite
