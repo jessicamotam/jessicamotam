@@ -62047,3 +62047,4 @@
 0410. 🎨 style: reformat files with black
 0954. 🚀 perf: cache repeated calculations
 0317. ✅ test: test user registration edge cases
+0148. 🔧 refactor: organize models into subfolders
