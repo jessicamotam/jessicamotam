@@ -28983,3 +28983,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0648. ♻️ chore: bump dependencies
 0412. ✅ test: increase coverage on auth module
+0323. 📚 docs: clarify environment setup
