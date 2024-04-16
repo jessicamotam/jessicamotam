@@ -20180,3 +20180,4 @@
 0356. 📚 docs: write FAQ section
 0111. 📚 docs: update README with setup steps
 0164. 📚 docs: document token refresh logic
+0358. 🚀 perf: reduce image load time
