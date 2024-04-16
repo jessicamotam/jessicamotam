@@ -50616,3 +50616,4 @@
 0525. ✅ test: mock database connection in test suite
 0216. 🎨 style: rename variables for clarity
 0149. ✨ feat: add export to CSV option
+0881. 🔧 refactor: split large controller into smaller functions
