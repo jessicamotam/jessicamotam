@@ -57917,3 +57917,4 @@
 0263. 📚 docs: add API usage examples
 0364. 🐛 fix: resolve issue with date parsing
 0100. ♻️ chore: update .gitignore
+0339. 📚 docs: update README with setup steps
