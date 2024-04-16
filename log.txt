@@ -37220,3 +37220,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0713. 🐛 fix: handle 500 error in quiz API
 0060. ♻️ chore: clean up unused files
+0589. 🐛 fix: fix broken CSS in mobile view
