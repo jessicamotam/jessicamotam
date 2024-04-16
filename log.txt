@@ -4082,3 +4082,4 @@
 0553. 🐛 fix: correct typo in registration form
 0159. 🚀 perf: lazy-load components
 0144. ✅ test: increase coverage on auth module
+0205. 📚 docs: update README with setup steps
