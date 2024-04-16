@@ -11124,3 +11124,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0131. 📚 docs: write FAQ section
 0874. 🔧 refactor: split large controller into smaller functions
+0244. ✨ feat: add export to CSV option
