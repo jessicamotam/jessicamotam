@@ -60022,3 +60022,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0522. 🐛 fix: handle 500 error in quiz API
 0469. 🚀 perf: lazy-load components
+0651. ✨ feat: enable dark mode toggle
