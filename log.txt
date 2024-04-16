@@ -28474,3 +28474,4 @@
 0108. 🎨 style: remove trailing whitespace
 0563. 📚 docs: clarify environment setup
 0931. 🚀 perf: reduce image load time
+0380. 🐛 fix: fix null pointer exception on login
