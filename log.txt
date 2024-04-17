@@ -57034,3 +57034,4 @@
 0508. ✅ test: add unit test for quiz service
 0408. ♻️ chore: add GitHub actions badge
 0058. ♻️ chore: add GitHub actions badge
+0651. ✨ feat: enable dark mode toggle
