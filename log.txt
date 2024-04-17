@@ -26581,3 +26581,4 @@
 0914. ✅ test: test user registration edge cases
 0646. ✅ test: test user registration edge cases
 0055. 📚 docs: update README with setup steps
+0725. 🚀 perf: lazy-load components
