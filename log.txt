@@ -86432,3 +86432,4 @@
 0990. ♻️ chore: rename env.example
 0885. ♻️ chore: update .gitignore
 0114. ♻️ chore: update .gitignore
+0307. ✨ feat: support email verification
