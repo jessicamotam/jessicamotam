@@ -59054,3 +59054,4 @@
 0160. ♻️ chore: bump dependencies
 0630. 🚀 perf: lazy-load components
 0706. ✨ feat: support email verification
+0440. 📚 docs: update README with setup steps
