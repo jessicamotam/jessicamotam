@@ -83378,3 +83378,4 @@
 0361. ✨ feat: support email verification
 0282. 🔧 refactor: remove redundant code blocks
 0111. 📚 docs: update README with setup steps
+0736. 🐛 fix: fix null pointer exception on login
