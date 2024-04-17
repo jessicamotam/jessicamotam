@@ -12367,3 +12367,4 @@
 0729. 🔧 refactor: refactor quiz grading logic
 0772. 🐛 fix: fix null pointer exception on login
 0207. 🐛 fix: prevent crash on empty input
+0355. 🚀 perf: optimize database query for quiz results
