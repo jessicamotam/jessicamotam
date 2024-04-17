@@ -17695,3 +17695,4 @@
 0605. ✨ feat: support email verification
 0215. 🎨 style: reformat files with black
 0447. ♻️ chore: bump dependencies
+0893. 🐛 fix: handle 500 error in quiz API
