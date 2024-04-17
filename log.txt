@@ -56845,3 +56845,4 @@
 0365. 🚀 perf: reduce image load time
 0271. ✅ test: add unit test for quiz service
 0636. ✅ test: increase coverage on auth module
+0227. ✅ test: test user registration edge cases
