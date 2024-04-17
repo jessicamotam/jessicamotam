@@ -40153,3 +40153,4 @@
 0398. 🚀 perf: cache repeated calculations
 0335. ♻️ chore: update .gitignore
 0790. 📚 docs: write FAQ section
+0621. 🔧 refactor: clean up auth middleware
