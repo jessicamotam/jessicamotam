@@ -19529,3 +19529,4 @@
 0670. ✨ feat: add export to CSV option
 0989. 📚 docs: write FAQ section
 0181. ♻️ chore: add GitHub actions badge
+0158. 📚 docs: clarify environment setup
