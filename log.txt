@@ -34095,3 +34095,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0350. 🚀 perf: cache repeated calculations
 0799. ♻️ chore: clean up unused files
+0758. 🚀 perf: optimize database query for quiz results
