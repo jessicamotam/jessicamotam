@@ -44658,3 +44658,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0125. ✅ test: add integration test for /submit endpoint
 0887. 📚 docs: add API usage examples
+0613. 🐛 fix: prevent crash on empty input
