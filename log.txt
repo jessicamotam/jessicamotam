@@ -40743,3 +40743,4 @@
 0819. 🚀 perf: reduce image load time
 0483. 📚 docs: update README with setup steps
 0806. 📚 docs: improve code comments in utils
+0317. ✅ test: test user registration edge cases
