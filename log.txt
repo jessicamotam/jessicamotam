@@ -33103,3 +33103,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0362. 📚 docs: add API usage examples
 0462. ♻️ chore: update .gitignore
+0476. 🚀 perf: reduce image load time
