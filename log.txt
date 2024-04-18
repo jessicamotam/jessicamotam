@@ -22090,3 +22090,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0026. 🔧 refactor: clean up auth middleware
 0580. ♻️ chore: bump dependencies
+0518. ✨ feat: support email verification
