@@ -2147,3 +2147,4 @@
 0269. ✅ test: test user registration edge cases
 0860. 🔧 refactor: organize models into subfolders
 0206. 🐛 fix: handle 500 error in quiz API
+0713. 🐛 fix: handle 500 error in quiz API
