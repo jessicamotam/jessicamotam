@@ -35006,3 +35006,4 @@
 0986. 📚 docs: document token refresh logic
 0252. 🎨 style: remove trailing whitespace
 0809. ♻️ chore: rename env.example
+0942. ✅ test: increase coverage on auth module
