@@ -59688,3 +59688,4 @@
 0787. ♻️ chore: rename env.example
 0086. 🐛 fix: correct typo in registration form
 0204. 🎨 style: standardize quote style
+0099. 🚀 perf: reduce image load time
