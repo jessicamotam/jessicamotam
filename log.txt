@@ -12683,3 +12683,4 @@
 0369. 🎨 style: standardize quote style
 0439. 🐛 fix: correct typo in registration form
 0391. 🐛 fix: fix null pointer exception on login
+0462. ♻️ chore: update .gitignore
