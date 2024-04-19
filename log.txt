@@ -58586,3 +58586,4 @@
 0028. 🎨 style: standardize quote style
 0649. 📚 docs: update README with setup steps
 0837. 🚀 perf: cache repeated calculations
+0703. 🔧 refactor: clean up auth middleware
