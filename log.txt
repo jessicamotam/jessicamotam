@@ -9304,3 +9304,4 @@
 0374. 🎨 style: standardize quote style
 0067. 🔧 refactor: remove redundant code blocks
 0375. 🐛 fix: handle 500 error in quiz API
+0547. 📚 docs: write FAQ section
