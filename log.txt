@@ -56636,3 +56636,4 @@
 0990. ♻️ chore: rename env.example
 0775. 🐛 fix: fix null pointer exception on login
 0195. 📚 docs: clarify environment setup
+0943. 🎨 style: rename variables for clarity
