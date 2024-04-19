@@ -81765,3 +81765,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0307. ✨ feat: support email verification
 0796. 🔧 refactor: refactor quiz grading logic
+0132. ✅ test: add unit test for quiz service
