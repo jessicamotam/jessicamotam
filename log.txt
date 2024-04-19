@@ -85692,3 +85692,4 @@
 0974. ✨ feat: add export to CSV option
 0547. 📚 docs: write FAQ section
 0979. 🎨 style: standardize quote style
+0359. 🔧 refactor: clean up auth middleware
