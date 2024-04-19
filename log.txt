@@ -14932,3 +14932,4 @@
 0149. ✨ feat: add export to CSV option
 0572. ✨ feat: add user authentication
 0684. 🚀 perf: reduce image load time
+0799. ♻️ chore: clean up unused files
