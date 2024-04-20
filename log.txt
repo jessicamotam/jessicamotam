@@ -6888,3 +6888,4 @@
 0335. ♻️ chore: update .gitignore
 0914. ✅ test: test user registration edge cases
 0465. 🎨 style: rename variables for clarity
+0311. 🎨 style: apply consistent indentation
