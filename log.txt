@@ -73262,3 +73262,4 @@
 0691. 🎨 style: rename variables for clarity
 0891. ✨ feat: create admin dashboard
 0464. 🎨 style: remove trailing whitespace
+0696. 🔧 refactor: clean up auth middleware
