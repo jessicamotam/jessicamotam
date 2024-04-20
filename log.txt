@@ -79726,3 +79726,4 @@
 0986. 📚 docs: document token refresh logic
 0412. ✅ test: increase coverage on auth module
 0266. 🔧 refactor: remove redundant code blocks
+0088. 📚 docs: add API usage examples
