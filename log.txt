@@ -27199,3 +27199,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0402. 🎨 style: reformat files with black
 0420. 🚀 perf: reduce image load time
+0368. 🚀 perf: lazy-load components
