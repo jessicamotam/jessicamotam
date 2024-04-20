@@ -16577,3 +16577,4 @@
 0521. 🎨 style: standardize quote style
 0560. 🎨 style: rename variables for clarity
 0768. 🎨 style: remove trailing whitespace
+0772. 🐛 fix: fix null pointer exception on login
