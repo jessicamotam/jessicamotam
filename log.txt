@@ -48631,3 +48631,4 @@
 0313. 🎨 style: apply consistent indentation
 0399. ✅ test: mock database connection in test suite
 0151. ✅ test: add unit test for quiz service
+0603. 🐛 fix: fix broken CSS in mobile view
