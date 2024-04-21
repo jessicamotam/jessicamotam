@@ -66245,3 +66245,4 @@
 0395. 📚 docs: write FAQ section
 0907. 🔧 refactor: split large controller into smaller functions
 0420. 🚀 perf: reduce image load time
+0935. 📚 docs: update README with setup steps
