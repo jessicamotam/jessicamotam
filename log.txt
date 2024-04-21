@@ -9729,3 +9729,4 @@
 0699. 🎨 style: standardize quote style
 0159. 🚀 perf: lazy-load components
 0341. 🚀 perf: lazy-load components
+0675. 🔧 refactor: organize models into subfolders
