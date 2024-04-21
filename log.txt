@@ -20243,3 +20243,4 @@
 0808. 🚀 perf: optimize database query for quiz results
 0110. 🐛 fix: prevent crash on empty input
 0636. ✅ test: increase coverage on auth module
+0556. ✨ feat: support email verification
