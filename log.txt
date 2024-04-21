@@ -26779,3 +26779,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0011. ✅ test: add unit test for quiz service
 0622. 🎨 style: apply consistent indentation
+0795. 📚 docs: update README with setup steps
