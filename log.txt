@@ -73157,3 +73157,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0866. 📚 docs: add API usage examples
 0957. 🐛 fix: fix null pointer exception on login
+0666. 🐛 fix: fix broken CSS in mobile view
