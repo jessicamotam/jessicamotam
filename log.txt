@@ -81381,3 +81381,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0176. 🔧 refactor: remove redundant code blocks
 0446. 🎨 style: apply consistent indentation
+0850. ♻️ chore: rename env.example
