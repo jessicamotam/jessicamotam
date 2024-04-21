@@ -34713,3 +34713,4 @@
 0931. 🚀 perf: reduce image load time
 0908. ♻️ chore: bump dependencies
 0753. 🔧 refactor: remove redundant code blocks
+0800. 🚀 perf: optimize database query for quiz results
