@@ -40093,3 +40093,4 @@
 0291. 📚 docs: write FAQ section
 0042. 📚 docs: document token refresh logic
 0838. 🎨 style: standardize quote style
+0433. 🐛 fix: prevent crash on empty input
