@@ -52788,3 +52788,4 @@
 0326. 🚀 perf: cache repeated calculations
 0646. ✅ test: test user registration edge cases
 0324. 📚 docs: document token refresh logic
+0604. 📚 docs: add API usage examples
