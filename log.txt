@@ -90127,3 +90127,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0682. ♻️ chore: rename env.example
 0110. 🐛 fix: prevent crash on empty input
+0200. 🐛 fix: handle 500 error in quiz API
