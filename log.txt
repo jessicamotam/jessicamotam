@@ -42322,3 +42322,4 @@
 0409. 🚀 perf: lazy-load components
 0320. 📚 docs: update README with setup steps
 0602. 🔧 refactor: remove redundant code blocks
+0790. 📚 docs: write FAQ section
