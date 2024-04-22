@@ -12818,3 +12818,4 @@
 0981. 🚀 perf: lazy-load components
 0845. 🚀 perf: cache repeated calculations
 0363. 📚 docs: clarify environment setup
+0770. ♻️ chore: rename env.example
