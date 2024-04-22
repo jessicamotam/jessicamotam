@@ -4962,3 +4962,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0299. 🐛 fix: resolve issue with date parsing
 0465. 🎨 style: rename variables for clarity
+0848. 📚 docs: update README with setup steps
