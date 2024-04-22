@@ -86683,3 +86683,4 @@
 0583. ✅ test: increase coverage on auth module
 0319. 🐛 fix: handle 500 error in quiz API
 0485. 📚 docs: update README with setup steps
+0557. 🔧 refactor: clean up auth middleware
