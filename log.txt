@@ -60968,3 +60968,4 @@
 0633. ✨ feat: add user authentication
 0960. ✅ test: increase coverage on auth module
 0243. 🔧 refactor: clean up auth middleware
+0128. ♻️ chore: rename env.example
