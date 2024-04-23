@@ -41507,3 +41507,4 @@
 0749. ✨ feat: support email verification
 0637. 🎨 style: apply consistent indentation
 0288. 🔧 refactor: refactor quiz grading logic
+0711. 🐛 fix: fix broken CSS in mobile view
