@@ -74323,3 +74323,4 @@
 0823. ✨ feat: add user authentication
 0681. ✨ feat: create admin dashboard
 0808. 🚀 perf: optimize database query for quiz results
+0378. 🐛 fix: prevent crash on empty input
