@@ -29179,3 +29179,4 @@
 0820. 📚 docs: add API usage examples
 0005. ✅ test: add unit test for quiz service
 0016. 🎨 style: apply consistent indentation
+0460. 📚 docs: write FAQ section
