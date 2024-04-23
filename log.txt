@@ -23860,3 +23860,4 @@
 0517. ✅ test: mock database connection in test suite
 0605. ✨ feat: support email verification
 0548. 📚 docs: write FAQ section
+0224. 🐛 fix: fix broken CSS in mobile view
