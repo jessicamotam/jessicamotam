@@ -70847,3 +70847,4 @@
 0302. ✨ feat: implement quiz timer feature
 0316. 🐛 fix: fix broken CSS in mobile view
 0520. 🐛 fix: fix null pointer exception on login
+0796. 🔧 refactor: refactor quiz grading logic
