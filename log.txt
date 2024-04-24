@@ -4847,3 +4847,4 @@
 0834. ✅ test: increase coverage on auth module
 0427. ✅ test: mock database connection in test suite
 0148. 🔧 refactor: organize models into subfolders
+0797. 📚 docs: add API usage examples
