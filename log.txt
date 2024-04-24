@@ -55432,3 +55432,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0494. 🎨 style: rename variables for clarity
 0230. ✨ feat: create admin dashboard
+0187. ✨ feat: support email verification
