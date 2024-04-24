@@ -3772,3 +3772,4 @@
 0964. ♻️ chore: clean up unused files
 0489. 🔧 refactor: organize models into subfolders
 0430. 🐛 fix: fix null pointer exception on login
+0701. 🔧 refactor: clean up auth middleware
