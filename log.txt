@@ -15453,3 +15453,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0848. 📚 docs: update README with setup steps
 0670. ✨ feat: add export to CSV option
+0262. 🎨 style: remove trailing whitespace
