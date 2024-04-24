@@ -36965,3 +36965,4 @@
 0866. 📚 docs: add API usage examples
 0790. 📚 docs: write FAQ section
 0476. 🚀 perf: reduce image load time
+0003. ✅ test: increase coverage on auth module
