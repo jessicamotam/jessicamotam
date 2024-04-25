@@ -54454,3 +54454,4 @@
 0092. 🚀 perf: reduce image load time
 0970. ♻️ chore: update .gitignore
 0796. 🔧 refactor: refactor quiz grading logic
+0110. 🐛 fix: prevent crash on empty input
