@@ -90944,3 +90944,4 @@
 0382. 📚 docs: improve code comments in utils
 0697. ♻️ chore: bump dependencies
 0921. 🐛 fix: correct typo in registration form
+0625. 🐛 fix: handle 500 error in quiz API
