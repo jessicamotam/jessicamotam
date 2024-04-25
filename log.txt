@@ -90650,3 +90650,4 @@
 0476. 🚀 perf: reduce image load time
 0267. 📚 docs: improve code comments in utils
 0217. 🚀 perf: reduce image load time
+0457. 🐛 fix: handle 500 error in quiz API
