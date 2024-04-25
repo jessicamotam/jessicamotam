@@ -54250,3 +54250,4 @@
 0260. ✨ feat: create admin dashboard
 0468. 📚 docs: update README with setup steps
 0117. ✅ test: increase coverage on auth module
+0599. ✅ test: test user registration edge cases
