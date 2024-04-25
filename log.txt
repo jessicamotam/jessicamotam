@@ -47060,3 +47060,4 @@
 0318. 🔧 refactor: refactor quiz grading logic
 0849. 🐛 fix: correct typo in registration form
 0909. 🔧 refactor: organize models into subfolders
+0221. ✨ feat: add user authentication
