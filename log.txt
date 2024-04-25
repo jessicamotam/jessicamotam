@@ -81762,3 +81762,4 @@
 0689. 🎨 style: reformat files with black
 0615. 🐛 fix: correct typo in registration form
 0980. 🎨 style: reformat files with black
+0066. 🔧 refactor: clean up auth middleware
