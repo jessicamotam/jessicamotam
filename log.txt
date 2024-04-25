@@ -32621,3 +32621,4 @@
 0912. 📚 docs: document token refresh logic
 0520. 🐛 fix: fix null pointer exception on login
 0666. 🐛 fix: fix broken CSS in mobile view
+0749. ✨ feat: support email verification
