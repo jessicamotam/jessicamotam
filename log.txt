@@ -48885,3 +48885,4 @@
 0617. ✨ feat: support email verification
 0136. 🚀 perf: lazy-load components
 0302. ✨ feat: implement quiz timer feature
+0621. 🔧 refactor: clean up auth middleware
