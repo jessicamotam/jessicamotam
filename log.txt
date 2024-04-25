@@ -18657,3 +18657,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0514. 🐛 fix: fix broken CSS in mobile view
 0567. 📚 docs: add API usage examples
+0428. 🐛 fix: fix null pointer exception on login
