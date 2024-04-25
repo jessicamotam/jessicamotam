@@ -20859,3 +20859,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0012. 🚀 perf: cache repeated calculations
 0967. ♻️ chore: add GitHub actions badge
+0900. 🐛 fix: handle 500 error in quiz API
