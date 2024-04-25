@@ -26821,3 +26821,4 @@
 0336. ✨ feat: add export to CSV option
 0057. 🚀 perf: optimize database query for quiz results
 0597. 🚀 perf: cache repeated calculations
+0429. ✨ feat: add user authentication
