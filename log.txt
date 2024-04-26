@@ -34026,3 +34026,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0121. ✨ feat: support email verification
 0597. 🚀 perf: cache repeated calculations
+0008. 🚀 perf: reduce image load time
