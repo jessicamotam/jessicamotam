@@ -67755,3 +67755,4 @@
 0952. 🔧 refactor: split large controller into smaller functions
 0153. ♻️ chore: rename env.example
 0808. 🚀 perf: optimize database query for quiz results
+0368. 🚀 perf: lazy-load components
