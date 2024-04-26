@@ -397,3 +397,4 @@
 0510. 🎨 style: rename variables for clarity
 0688. 🚀 perf: reduce image load time
 0329. 📚 docs: update README with setup steps
+0387. ✨ feat: enable dark mode toggle
