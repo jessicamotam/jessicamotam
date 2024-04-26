@@ -22692,3 +22692,4 @@
 0303. 🎨 style: rename variables for clarity
 0412. ✅ test: increase coverage on auth module
 0399. ✅ test: mock database connection in test suite
+0422. 🔧 refactor: organize models into subfolders
