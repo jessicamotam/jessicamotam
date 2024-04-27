@@ -9944,3 +9944,4 @@
 0435. ✅ test: add unit test for quiz service
 0349. ✅ test: increase coverage on auth module
 0592. 📚 docs: add API usage examples
+0336. ✨ feat: add export to CSV option
