@@ -43945,3 +43945,4 @@
 0086. 🐛 fix: correct typo in registration form
 0574. ✨ feat: enable dark mode toggle
 0353. ♻️ chore: rename env.example
+0451. ✨ feat: support email verification
