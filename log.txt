@@ -40475,3 +40475,4 @@
 0833. ✨ feat: add user authentication
 0239. 🎨 style: standardize quote style
 0392. 🎨 style: remove trailing whitespace
+0057. 🚀 perf: optimize database query for quiz results
