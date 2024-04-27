@@ -62374,3 +62374,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0347. ♻️ chore: update .gitignore
 0490. ✨ feat: create admin dashboard
+0603. 🐛 fix: fix broken CSS in mobile view
