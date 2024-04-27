@@ -972,3 +972,4 @@
 0100. ♻️ chore: update .gitignore
 0211. 🔧 refactor: remove redundant code blocks
 0433. 🐛 fix: prevent crash on empty input
+0430. 🐛 fix: fix null pointer exception on login
