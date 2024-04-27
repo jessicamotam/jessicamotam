@@ -43934,3 +43934,4 @@
 0547. 📚 docs: write FAQ section
 0636. ✅ test: increase coverage on auth module
 0700. 🎨 style: rename variables for clarity
+0351. ✨ feat: add export to CSV option
