@@ -4955,3 +4955,4 @@
 0221. ✨ feat: add user authentication
 0843. 📚 docs: document token refresh logic
 0101. 📚 docs: clarify environment setup
+0756. ✨ feat: support email verification
