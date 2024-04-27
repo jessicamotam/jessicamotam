@@ -32017,3 +32017,4 @@
 0257. 📚 docs: clarify environment setup
 0571. 🔧 refactor: clean up auth middleware
 0547. 📚 docs: write FAQ section
+0246. ✅ test: add integration test for /submit endpoint
