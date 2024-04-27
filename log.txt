@@ -24892,3 +24892,4 @@
 0151. ✅ test: add unit test for quiz service
 0141. 📚 docs: document token refresh logic
 0860. 🔧 refactor: organize models into subfolders
+0348. ✅ test: test user registration edge cases
