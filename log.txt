@@ -78654,3 +78654,4 @@
 0811. 🎨 style: reformat files with black
 0603. 🐛 fix: fix broken CSS in mobile view
 0434. 📚 docs: document token refresh logic
+0378. 🐛 fix: prevent crash on empty input
