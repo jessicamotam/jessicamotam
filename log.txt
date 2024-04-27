@@ -57065,3 +57065,4 @@
 0523. ♻️ chore: bump dependencies
 0318. 🔧 refactor: refactor quiz grading logic
 0972. 🔧 refactor: refactor quiz grading logic
+0500. ✅ test: add integration test for /submit endpoint
