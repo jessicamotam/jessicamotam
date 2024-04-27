@@ -41159,3 +41159,4 @@
 0962. ✨ feat: create admin dashboard
 0161. ✨ feat: create admin dashboard
 0006. 🐛 fix: prevent crash on empty input
+0513. ♻️ chore: bump dependencies
