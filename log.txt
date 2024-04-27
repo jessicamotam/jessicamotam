@@ -62749,3 +62749,4 @@
 0007. 🎨 style: rename variables for clarity
 0829. 🔧 refactor: organize models into subfolders
 0241. 📚 docs: add API usage examples
+0122. ✨ feat: support email verification
