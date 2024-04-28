@@ -2623,3 +2623,4 @@
 0062. ♻️ chore: update .gitignore
 0947. 📚 docs: write FAQ section
 0327. 🔧 refactor: split large controller into smaller functions
+0789. ✨ feat: create admin dashboard
