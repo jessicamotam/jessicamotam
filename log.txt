@@ -12279,3 +12279,4 @@
 0095. ✅ test: mock database connection in test suite
 0580. ♻️ chore: bump dependencies
 0975. 🎨 style: apply consistent indentation
+0636. ✅ test: increase coverage on auth module
