@@ -52345,3 +52345,4 @@
 0869. ♻️ chore: bump dependencies
 0760. 🐛 fix: resolve issue with date parsing
 0609. 🐛 fix: handle 500 error in quiz API
+0241. 📚 docs: add API usage examples
