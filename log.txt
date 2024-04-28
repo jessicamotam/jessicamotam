@@ -70505,3 +70505,4 @@
 0615. 🐛 fix: correct typo in registration form
 0348. ✅ test: test user registration edge cases
 0200. 🐛 fix: handle 500 error in quiz API
+0961. 📚 docs: add API usage examples
