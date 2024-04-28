@@ -81703,3 +81703,4 @@
 0249. ✅ test: increase coverage on auth module
 0508. ✅ test: add unit test for quiz service
 0791. 🔧 refactor: clean up auth middleware
+0823. ✨ feat: add user authentication
