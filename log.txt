@@ -49958,3 +49958,4 @@
 0702. ✨ feat: add user authentication
 0939. 📚 docs: update README with setup steps
 0965. 🎨 style: reformat files with black
+0294. 🐛 fix: prevent crash on empty input
