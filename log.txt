@@ -15563,3 +15563,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0918. ✨ feat: enable dark mode toggle
 0283. ♻️ chore: add GitHub actions badge
+0231. 🔧 refactor: clean up auth middleware
