@@ -63629,3 +63629,4 @@
 0524. ♻️ chore: rename env.example
 0738. 🐛 fix: prevent crash on empty input
 0614. 🚀 perf: reduce image load time
+0090. ✅ test: increase coverage on auth module
