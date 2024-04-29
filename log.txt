@@ -29165,3 +29165,4 @@
 0075. ✅ test: mock database connection in test suite
 0107. 🐛 fix: prevent crash on empty input
 0556. ✨ feat: support email verification
+0825. 🔧 refactor: split large controller into smaller functions
