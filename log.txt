@@ -65969,3 +65969,4 @@
 0850. ♻️ chore: rename env.example
 0319. 🐛 fix: handle 500 error in quiz API
 0866. 📚 docs: add API usage examples
+0981. 🚀 perf: lazy-load components
