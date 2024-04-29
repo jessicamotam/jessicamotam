@@ -48388,3 +48388,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0310. 🔧 refactor: refactor quiz grading logic
 0066. 🔧 refactor: clean up auth middleware
+0117. ✅ test: increase coverage on auth module
