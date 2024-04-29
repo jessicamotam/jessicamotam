@@ -35788,3 +35788,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0895. ✨ feat: support email verification
 0661. ✅ test: add integration test for /submit endpoint
+0657. 🎨 style: standardize quote style
