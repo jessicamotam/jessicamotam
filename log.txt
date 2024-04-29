@@ -72953,3 +72953,4 @@
 0219. ✅ test: increase coverage on auth module
 0144. ✅ test: increase coverage on auth module
 0321. 🔧 refactor: organize models into subfolders
+0830. 🎨 style: apply consistent indentation
