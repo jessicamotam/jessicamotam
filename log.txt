@@ -3788,3 +3788,4 @@
 0716. ✨ feat: implement quiz timer feature
 0277. 🎨 style: standardize quote style
 0097. 🐛 fix: handle 500 error in quiz API
+0435. ✅ test: add unit test for quiz service
