@@ -77358,3 +77358,4 @@
 0927. ♻️ chore: bump dependencies
 0377. ✨ feat: add user authentication
 0935. 📚 docs: update README with setup steps
+0491. 🚀 perf: lazy-load components
