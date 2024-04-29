@@ -66646,3 +66646,4 @@
 0498. ✅ test: mock database connection in test suite
 0650. ✅ test: add unit test for quiz service
 0453. 🎨 style: standardize quote style
+0065. ✅ test: add integration test for /submit endpoint
