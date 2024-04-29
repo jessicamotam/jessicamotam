@@ -80356,3 +80356,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0140. 🐛 fix: handle 500 error in quiz API
 0249. ✅ test: increase coverage on auth module
+0743. 🎨 style: apply consistent indentation
