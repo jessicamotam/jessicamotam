@@ -73956,3 +73956,4 @@
 0824. 🚀 perf: lazy-load components
 0417. 🎨 style: rename variables for clarity
 0853. 🔧 refactor: refactor quiz grading logic
+0684. 🚀 perf: reduce image load time
