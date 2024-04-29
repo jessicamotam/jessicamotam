@@ -52726,3 +52726,4 @@
 0507. 🔧 refactor: clean up auth middleware
 0465. 🎨 style: rename variables for clarity
 0208. 🔧 refactor: clean up auth middleware
+0839. 🎨 style: apply consistent indentation
