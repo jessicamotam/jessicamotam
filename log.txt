@@ -6628,3 +6628,4 @@
 0595. ✨ feat: enable dark mode toggle
 0594. 🎨 style: reformat files with black
 0684. 🚀 perf: reduce image load time
+0332. 🎨 style: standardize quote style
