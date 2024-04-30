@@ -12950,3 +12950,4 @@
 0944. ✨ feat: add user authentication
 0840. 🔧 refactor: refactor quiz grading logic
 0064. 📚 docs: clarify environment setup
+0084. 🐛 fix: handle 500 error in quiz API
