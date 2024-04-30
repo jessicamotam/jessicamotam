@@ -53141,3 +53141,4 @@
 0563. 📚 docs: clarify environment setup
 0688. 🚀 perf: reduce image load time
 0232. 🎨 style: apply consistent indentation
+0979. 🎨 style: standardize quote style
