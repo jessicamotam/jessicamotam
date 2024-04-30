@@ -73704,3 +73704,4 @@
 0241. 📚 docs: add API usage examples
 0995. ✅ test: mock database connection in test suite
 0256. ✅ test: mock database connection in test suite
+0329. 📚 docs: update README with setup steps
