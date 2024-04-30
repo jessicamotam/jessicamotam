@@ -58579,3 +58579,4 @@
 0641. 📚 docs: write FAQ section
 0970. ♻️ chore: update .gitignore
 0252. 🎨 style: remove trailing whitespace
+0058. ♻️ chore: add GitHub actions badge
