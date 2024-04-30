@@ -69800,3 +69800,4 @@
 0803. ✅ test: mock database connection in test suite
 0118. 🚀 perf: reduce image load time
 0399. ✅ test: mock database connection in test suite
+0647. 🐛 fix: prevent crash on empty input
