@@ -21138,3 +21138,4 @@
 0963. 🚀 perf: reduce image load time
 0382. 📚 docs: improve code comments in utils
 0011. ✅ test: add unit test for quiz service
+0611. ✅ test: test user registration edge cases
