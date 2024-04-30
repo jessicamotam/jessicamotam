@@ -50120,3 +50120,4 @@
 0929. ✨ feat: support email verification
 0195. 📚 docs: clarify environment setup
 0763. 🔧 refactor: organize models into subfolders
+0544. 🔧 refactor: organize models into subfolders
