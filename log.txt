@@ -10388,3 +10388,4 @@
 0617. ✨ feat: support email verification
 0396. 🔧 refactor: split large controller into smaller functions
 0503. ♻️ chore: rename env.example
+0049. 🐛 fix: handle 500 error in quiz API
