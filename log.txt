@@ -84421,3 +84421,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0825. 🔧 refactor: split large controller into smaller functions
 0614. 🚀 perf: reduce image load time
+0394. 🚀 perf: lazy-load components
