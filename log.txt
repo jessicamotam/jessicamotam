@@ -57636,3 +57636,4 @@
 0911. ✅ test: increase coverage on auth module
 0138. 🎨 style: rename variables for clarity
 0423. ✅ test: mock database connection in test suite
+0589. 🐛 fix: fix broken CSS in mobile view
