@@ -78967,3 +78967,4 @@
 0987. ✨ feat: create admin dashboard
 0771. 🚀 perf: cache repeated calculations
 0406. ✨ feat: add export to CSV option
+0254. 🚀 perf: reduce image load time
