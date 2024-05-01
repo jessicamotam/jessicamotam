@@ -42886,3 +42886,4 @@
 0327. 🔧 refactor: split large controller into smaller functions
 0437. 📚 docs: clarify environment setup
 0657. 🎨 style: standardize quote style
+0711. 🐛 fix: fix broken CSS in mobile view
