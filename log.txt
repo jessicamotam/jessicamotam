@@ -72693,3 +72693,4 @@
 0192. ✨ feat: enable dark mode toggle
 0053. ✅ test: increase coverage on auth module
 0529. 📚 docs: write FAQ section
+0580. ♻️ chore: bump dependencies
