@@ -78613,3 +78613,4 @@
 0231. 🔧 refactor: clean up auth middleware
 0244. ✨ feat: add export to CSV option
 0096. 🐛 fix: prevent crash on empty input
+0630. 🚀 perf: lazy-load components
