@@ -14645,3 +14645,4 @@
 0962. ✨ feat: create admin dashboard
 0834. ✅ test: increase coverage on auth module
 0317. ✅ test: test user registration edge cases
+0898. 🐛 fix: fix broken CSS in mobile view
