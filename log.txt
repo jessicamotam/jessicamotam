@@ -74037,3 +74037,4 @@
 0347. ♻️ chore: update .gitignore
 0836. 🚀 perf: optimize database query for quiz results
 0487. 🎨 style: reformat files with black
+0776. ✅ test: add integration test for /submit endpoint
