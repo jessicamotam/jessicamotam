@@ -30779,3 +30779,4 @@
 0925. ✨ feat: add export to CSV option
 0048. 📚 docs: update README with setup steps
 0240. 🔧 refactor: remove redundant code blocks
+0270. ♻️ chore: rename env.example
