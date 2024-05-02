@@ -2863,3 +2863,4 @@
 0020. ✅ test: add integration test for /submit endpoint
 0233. 🚀 perf: lazy-load components
 0736. 🐛 fix: fix null pointer exception on login
+0477. 🐛 fix: fix broken CSS in mobile view
