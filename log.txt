@@ -29427,3 +29427,4 @@
 0950. 🎨 style: reformat files with black
 0751. 🐛 fix: handle 500 error in quiz API
 0634. 🎨 style: reformat files with black
+0144. ✅ test: increase coverage on auth module
