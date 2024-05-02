@@ -52573,3 +52573,4 @@
 0009. ✨ feat: enable dark mode toggle
 0260. ✨ feat: create admin dashboard
 0736. 🐛 fix: fix null pointer exception on login
+0235. 🐛 fix: fix null pointer exception on login
