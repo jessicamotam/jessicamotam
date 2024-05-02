@@ -56960,3 +56960,4 @@
 0243. 🔧 refactor: clean up auth middleware
 0348. ✅ test: test user registration edge cases
 0641. 📚 docs: write FAQ section
+0257. 📚 docs: clarify environment setup
