@@ -21856,3 +21856,4 @@
 0947. 📚 docs: write FAQ section
 0384. 📚 docs: clarify environment setup
 0608. 🔧 refactor: remove redundant code blocks
+0159. 🚀 perf: lazy-load components
