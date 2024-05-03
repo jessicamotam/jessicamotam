@@ -68138,3 +68138,4 @@
 0941. 🚀 perf: cache repeated calculations
 0420. 🚀 perf: reduce image load time
 0490. ✨ feat: create admin dashboard
+0469. 🚀 perf: lazy-load components
