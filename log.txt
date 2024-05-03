@@ -31438,3 +31438,4 @@
 0778. 📚 docs: write FAQ section
 0024. 📚 docs: write FAQ section
 0143. ✨ feat: implement quiz timer feature
+0515. 🚀 perf: optimize database query for quiz results
