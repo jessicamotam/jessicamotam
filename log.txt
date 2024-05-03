@@ -70902,3 +70902,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0003. ✅ test: increase coverage on auth module
 0681. ✨ feat: create admin dashboard
+0393. 🚀 perf: lazy-load components
