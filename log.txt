@@ -61307,3 +61307,4 @@
 0445. 📚 docs: improve code comments in utils
 0905. ♻️ chore: bump dependencies
 0551. 📚 docs: write FAQ section
+0233. 🚀 perf: lazy-load components
