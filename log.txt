@@ -50398,3 +50398,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0336. ✨ feat: add export to CSV option
 0942. ✅ test: increase coverage on auth module
+0117. ✅ test: increase coverage on auth module
