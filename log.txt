@@ -50,3 +50,4 @@
 0198. 📚 docs: clarify environment setup
 0240. 🔧 refactor: remove redundant code blocks
 0211. 🔧 refactor: remove redundant code blocks
+0433. 🐛 fix: prevent crash on empty input
