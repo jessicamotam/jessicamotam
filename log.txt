@@ -56919,3 +56919,4 @@
 0502. 📚 docs: update README with setup steps
 0170. ✅ test: increase coverage on auth module
 0782. 📚 docs: improve code comments in utils
+0988. 🐛 fix: fix broken CSS in mobile view
