@@ -66809,3 +66809,4 @@
 0424. ✨ feat: add user authentication
 0353. ♻️ chore: rename env.example
 0041. 🐛 fix: fix broken CSS in mobile view
+0732. ♻️ chore: add GitHub actions badge
