@@ -57743,3 +57743,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0169. 📚 docs: add API usage examples
 0521. 🎨 style: standardize quote style
+0896. 🚀 perf: reduce image load time
