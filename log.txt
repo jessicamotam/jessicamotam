@@ -18656,3 +18656,4 @@
 0226. 🚀 perf: lazy-load components
 0653. 🐛 fix: prevent crash on empty input
 0514. 🐛 fix: fix broken CSS in mobile view
+0567. 📚 docs: add API usage examples
