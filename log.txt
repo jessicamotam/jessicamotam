@@ -3803,3 +3803,4 @@
 0052. 🎨 style: standardize quote style
 0513. ♻️ chore: bump dependencies
 0630. 🚀 perf: lazy-load components
+0320. 📚 docs: update README with setup steps
