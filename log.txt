@@ -70085,3 +70085,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0397. 🐛 fix: handle 500 error in quiz API
 0393. 🚀 perf: lazy-load components
+0808. 🚀 perf: optimize database query for quiz results
