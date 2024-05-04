@@ -60360,3 +60360,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0681. ✨ feat: create admin dashboard
 0984. ♻️ chore: clean up unused files
+0422. 🔧 refactor: organize models into subfolders
