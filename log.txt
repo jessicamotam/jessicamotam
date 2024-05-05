@@ -86972,3 +86972,4 @@
 0669. ✨ feat: enable dark mode toggle
 0843. 📚 docs: document token refresh logic
 0589. 🐛 fix: fix broken CSS in mobile view
+0607. 🐛 fix: prevent crash on empty input
