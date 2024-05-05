@@ -35790,3 +35790,4 @@
 0661. ✅ test: add integration test for /submit endpoint
 0657. 🎨 style: standardize quote style
 0278. 🔧 refactor: clean up auth middleware
+0613. 🐛 fix: prevent crash on empty input
