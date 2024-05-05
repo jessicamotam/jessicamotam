@@ -52725,3 +52725,4 @@
 0320. 📚 docs: update README with setup steps
 0507. 🔧 refactor: clean up auth middleware
 0465. 🎨 style: rename variables for clarity
+0208. 🔧 refactor: clean up auth middleware
