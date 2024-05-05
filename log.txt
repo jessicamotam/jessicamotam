@@ -16554,3 +16554,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0657. 🎨 style: standardize quote style
 0574. ✨ feat: enable dark mode toggle
+0231. 🔧 refactor: clean up auth middleware
