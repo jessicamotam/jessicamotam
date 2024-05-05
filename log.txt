@@ -32499,3 +32499,4 @@
 0518. ✨ feat: support email verification
 0669. ✨ feat: enable dark mode toggle
 0651. ✨ feat: enable dark mode toggle
+0375. 🐛 fix: handle 500 error in quiz API
