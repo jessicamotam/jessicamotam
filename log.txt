@@ -10445,3 +10445,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0303. 🎨 style: rename variables for clarity
 0080. ✨ feat: support email verification
+0827. 🚀 perf: optimize database query for quiz results
