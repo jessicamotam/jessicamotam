@@ -27474,3 +27474,4 @@
 0966. 📚 docs: improve code comments in utils
 0802. 🔧 refactor: remove redundant code blocks
 0530. 🔧 refactor: refactor quiz grading logic
+0020. ✅ test: add integration test for /submit endpoint
