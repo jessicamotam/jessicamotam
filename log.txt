@@ -78894,3 +78894,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0365. 🚀 perf: reduce image load time
 0612. ✅ test: test user registration edge cases
+0522. 🐛 fix: handle 500 error in quiz API
