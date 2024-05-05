@@ -40900,3 +40900,4 @@
 0594. 🎨 style: reformat files with black
 0923. ✨ feat: support email verification
 0501. ✨ feat: add export to CSV option
+0195. 📚 docs: clarify environment setup
