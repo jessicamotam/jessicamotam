@@ -21660,3 +21660,4 @@
 0128. ♻️ chore: rename env.example
 0451. ✨ feat: support email verification
 0899. 🚀 perf: cache repeated calculations
+0068. 🐛 fix: fix null pointer exception on login
