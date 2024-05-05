@@ -30276,3 +30276,4 @@
 0773. 📚 docs: document token refresh logic
 0766. 🎨 style: reformat files with black
 0088. 📚 docs: add API usage examples
+0713. 🐛 fix: handle 500 error in quiz API
