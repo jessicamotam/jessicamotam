@@ -32562,3 +32562,4 @@
 0313. 🎨 style: apply consistent indentation
 0306. 🎨 style: apply consistent indentation
 0753. 🔧 refactor: remove redundant code blocks
+0048. 📚 docs: update README with setup steps
