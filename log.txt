@@ -12817,3 +12817,4 @@
 0360. ✨ feat: add export to CSV option
 0981. 🚀 perf: lazy-load components
 0845. 🚀 perf: cache repeated calculations
+0363. 📚 docs: clarify environment setup
