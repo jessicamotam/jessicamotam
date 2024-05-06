@@ -71617,3 +71617,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0138. 🎨 style: rename variables for clarity
 0754. 🐛 fix: handle 500 error in quiz API
+0364. 🐛 fix: resolve issue with date parsing
