@@ -15804,3 +15804,4 @@
 0351. ✨ feat: add export to CSV option
 0570. 🎨 style: apply consistent indentation
 0433. 🐛 fix: prevent crash on empty input
+0538. 🐛 fix: fix broken CSS in mobile view
