@@ -3343,3 +3343,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0769. ✨ feat: create admin dashboard
 0706. ✨ feat: support email verification
+0249. ✅ test: increase coverage on auth module
