@@ -65932,3 +65932,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0329. 📚 docs: update README with setup steps
 0021. ✨ feat: support email verification
+0703. 🔧 refactor: clean up auth middleware
