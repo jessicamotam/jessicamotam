@@ -44436,3 +44436,4 @@
 0886. ♻️ chore: clean up unused files
 0970. ♻️ chore: update .gitignore
 0344. ♻️ chore: add GitHub actions badge
+0243. 🔧 refactor: clean up auth middleware
