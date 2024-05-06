@@ -68466,3 +68466,4 @@
 0141. 📚 docs: document token refresh logic
 0336. ✨ feat: add export to CSV option
 0758. 🚀 perf: optimize database query for quiz results
+0518. ✨ feat: support email verification
