@@ -35296,3 +35296,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0383. 🐛 fix: fix broken CSS in mobile view
 0700. 🎨 style: rename variables for clarity
+0492. 🎨 style: remove trailing whitespace
