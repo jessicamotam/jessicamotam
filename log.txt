@@ -89931,3 +89931,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0155. ✨ feat: create admin dashboard
 0211. 🔧 refactor: remove redundant code blocks
+0888. 🚀 perf: lazy-load components
