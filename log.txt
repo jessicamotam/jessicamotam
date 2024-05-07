@@ -15729,3 +15729,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0565. ♻️ chore: add GitHub actions badge
 0601. ✨ feat: implement quiz timer feature
+0095. ✅ test: mock database connection in test suite
