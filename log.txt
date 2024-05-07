@@ -33981,3 +33981,4 @@
 0332. 🎨 style: standardize quote style
 0478. 🐛 fix: resolve issue with date parsing
 0132. ✅ test: add unit test for quiz service
+0307. ✨ feat: support email verification
