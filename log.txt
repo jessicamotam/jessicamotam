@@ -13510,3 +13510,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0900. 🐛 fix: handle 500 error in quiz API
 0402. 🎨 style: reformat files with black
+0272. 🔧 refactor: remove redundant code blocks
