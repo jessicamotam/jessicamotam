@@ -64743,3 +64743,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0980. 🎨 style: reformat files with black
 0097. 🐛 fix: handle 500 error in quiz API
+0971. 🎨 style: standardize quote style
