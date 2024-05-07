@@ -21197,3 +21197,4 @@
 0373. 📚 docs: document token refresh logic
 0466. 🚀 perf: optimize database query for quiz results
 0390. 🎨 style: standardize quote style
+0580. ♻️ chore: bump dependencies
