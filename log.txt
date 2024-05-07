@@ -21824,3 +21824,4 @@
 0394. 🚀 perf: lazy-load components
 0833. ✨ feat: add user authentication
 0735. ♻️ chore: add GitHub actions badge
+0243. 🔧 refactor: clean up auth middleware
