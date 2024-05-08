@@ -82705,3 +82705,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0512. 🚀 perf: reduce image load time
 0830. 🎨 style: apply consistent indentation
+0486. ✨ feat: add export to CSV option
