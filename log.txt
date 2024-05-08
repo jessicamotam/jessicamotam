@@ -74418,3 +74418,4 @@
 0868. ✅ test: add unit test for quiz service
 0390. 🎨 style: standardize quote style
 0583. ✅ test: increase coverage on auth module
+0544. 🔧 refactor: organize models into subfolders
