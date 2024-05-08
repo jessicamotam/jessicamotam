@@ -14493,3 +14493,4 @@
 0345. 📚 docs: document token refresh logic
 0938. 🎨 style: rename variables for clarity
 0471. ✨ feat: support email verification
+0257. 📚 docs: clarify environment setup
