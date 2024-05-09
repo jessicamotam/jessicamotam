@@ -25441,3 +25441,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0603. 🐛 fix: fix broken CSS in mobile view
 0351. ✨ feat: add export to CSV option
+0118. 🚀 perf: reduce image load time
