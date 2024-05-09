@@ -33920,3 +33920,4 @@
 0942. ✅ test: increase coverage on auth module
 0808. 🚀 perf: optimize database query for quiz results
 0196. ♻️ chore: bump dependencies
+0212. 🎨 style: standardize quote style
