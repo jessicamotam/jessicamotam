@@ -63287,3 +63287,4 @@
 0473. 📚 docs: write FAQ section
 0561. 📚 docs: write FAQ section
 0053. ✅ test: increase coverage on auth module
+0141. 📚 docs: document token refresh logic
