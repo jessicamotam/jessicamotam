@@ -83987,3 +83987,4 @@
 0762. 🚀 perf: lazy-load components
 0469. 🚀 perf: lazy-load components
 0858. ♻️ chore: clean up unused files
+0639. 🐛 fix: correct typo in registration form
