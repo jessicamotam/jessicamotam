@@ -39036,3 +39036,4 @@
 0187. ✨ feat: support email verification
 0885. ♻️ chore: update .gitignore
 0770. ♻️ chore: rename env.example
+0545. 🎨 style: standardize quote style
