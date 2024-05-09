@@ -56467,3 +56467,4 @@
 0548. 📚 docs: write FAQ section
 0681. ✨ feat: create admin dashboard
 0936. 🔧 refactor: organize models into subfolders
+0789. ✨ feat: create admin dashboard
