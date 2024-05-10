@@ -60576,3 +60576,4 @@
 0287. 📚 docs: write FAQ section
 0463. 🚀 perf: reduce image load time
 0266. 🔧 refactor: remove redundant code blocks
+0809. ♻️ chore: rename env.example
