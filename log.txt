@@ -4906,3 +4906,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0400. 🐛 fix: fix null pointer exception on login
 0025. 🚀 perf: optimize database query for quiz results
+0358. 🚀 perf: reduce image load time
