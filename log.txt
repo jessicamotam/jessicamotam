@@ -29500,3 +29500,4 @@
 0105. 🐛 fix: correct typo in registration form
 0841. 🚀 perf: optimize database query for quiz results
 0844. 📚 docs: update README with setup steps
+0365. 🚀 perf: reduce image load time
