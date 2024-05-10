@@ -16810,3 +16810,4 @@
 0464. 🎨 style: remove trailing whitespace
 0232. 🎨 style: apply consistent indentation
 0052. 🎨 style: standardize quote style
+0960. ✅ test: increase coverage on auth module
