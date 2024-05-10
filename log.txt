@@ -65995,3 +65995,4 @@
 0141. 📚 docs: document token refresh logic
 0436. ✅ test: add integration test for /submit endpoint
 0603. 🐛 fix: fix broken CSS in mobile view
+0651. ✨ feat: enable dark mode toggle
