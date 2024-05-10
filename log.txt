@@ -17937,3 +17937,4 @@
 0997. ✅ test: increase coverage on auth module
 0675. 🔧 refactor: organize models into subfolders
 0015. ✨ feat: implement quiz timer feature
+0963. 🚀 perf: reduce image load time
