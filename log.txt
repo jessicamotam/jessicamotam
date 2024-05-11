@@ -4958,3 +4958,4 @@
 0756. ✨ feat: support email verification
 0539. 🔧 refactor: organize models into subfolders
 0203. 🚀 perf: lazy-load components
+0686. 🎨 style: standardize quote style
