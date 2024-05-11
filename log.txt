@@ -63611,3 +63611,4 @@
 0786. ✨ feat: enable dark mode toggle
 0262. 🎨 style: remove trailing whitespace
 0374. 🎨 style: standardize quote style
+0035. ✅ test: increase coverage on auth module
