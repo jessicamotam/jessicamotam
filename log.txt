@@ -75504,3 +75504,4 @@
 0790. 📚 docs: write FAQ section
 0693. 📚 docs: add API usage examples
 0021. ✨ feat: support email verification
+0489. 🔧 refactor: organize models into subfolders
