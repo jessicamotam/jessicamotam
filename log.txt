@@ -20832,3 +20832,4 @@
 0864. 🐛 fix: correct typo in registration form
 0837. 🚀 perf: cache repeated calculations
 0612. ✅ test: test user registration edge cases
+0592. 📚 docs: add API usage examples
