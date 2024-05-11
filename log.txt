@@ -27825,3 +27825,4 @@
 0317. ✅ test: test user registration edge cases
 0671. 🐛 fix: fix null pointer exception on login
 0600. 🐛 fix: prevent crash on empty input
+0380. 🐛 fix: fix null pointer exception on login
