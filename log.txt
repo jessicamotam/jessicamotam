@@ -18552,3 +18552,4 @@
 0454. ♻️ chore: bump dependencies
 0437. 📚 docs: clarify environment setup
 0787. ♻️ chore: rename env.example
+0781. 🚀 perf: reduce image load time
