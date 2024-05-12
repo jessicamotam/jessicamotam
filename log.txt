@@ -35655,3 +35655,4 @@
 0673. 🐛 fix: correct typo in registration form
 0751. 🐛 fix: handle 500 error in quiz API
 0776. ✅ test: add integration test for /submit endpoint
+0004. 🚀 perf: optimize database query for quiz results
