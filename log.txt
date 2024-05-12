@@ -57839,3 +57839,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0750. 🎨 style: apply consistent indentation
 0705. 🔧 refactor: refactor quiz grading logic
+0296. 🔧 refactor: organize models into subfolders
