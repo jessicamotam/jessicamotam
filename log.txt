@@ -30721,3 +30721,4 @@
 0253. 📚 docs: update README with setup steps
 0516. ✅ test: add unit test for quiz service
 0408. ♻️ chore: add GitHub actions badge
+0649. 📚 docs: update README with setup steps
