@@ -52259,3 +52259,4 @@
 0884. 📚 docs: clarify environment setup
 0685. ✅ test: test user registration edge cases
 0019. ✨ feat: enable dark mode toggle
+0117. ✅ test: increase coverage on auth module
