@@ -22748,3 +22748,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0697. ♻️ chore: bump dependencies
 0149. ✨ feat: add export to CSV option
+0097. 🐛 fix: handle 500 error in quiz API
