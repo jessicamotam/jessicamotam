@@ -8135,3 +8135,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0781. 🚀 perf: reduce image load time
 0831. 📚 docs: clarify environment setup
+0116. ✨ feat: support email verification
