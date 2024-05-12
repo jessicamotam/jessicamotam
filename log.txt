@@ -36446,3 +36446,4 @@
 0870. ♻️ chore: clean up unused files
 0659. 📚 docs: add API usage examples
 0780. 📚 docs: add API usage examples
+0024. 📚 docs: write FAQ section
