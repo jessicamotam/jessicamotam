@@ -15371,3 +15371,4 @@
 0579. 📚 docs: clarify environment setup
 0335. ♻️ chore: update .gitignore
 0566. 📚 docs: write FAQ section
+0042. 📚 docs: document token refresh logic
