@@ -51883,3 +51883,4 @@
 0863. 🐛 fix: correct typo in registration form
 0506. 🐛 fix: handle 500 error in quiz API
 0678. ✨ feat: add user authentication
+0206. 🐛 fix: handle 500 error in quiz API
