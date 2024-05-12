@@ -16685,3 +16685,4 @@
 0794. ♻️ chore: clean up unused files
 0524. ♻️ chore: rename env.example
 0025. 🚀 perf: optimize database query for quiz results
+0546. 🐛 fix: fix null pointer exception on login
