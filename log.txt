@@ -37537,3 +37537,4 @@
 0678. ✨ feat: add user authentication
 0768. 🎨 style: remove trailing whitespace
 0375. 🐛 fix: handle 500 error in quiz API
+0242. ♻️ chore: clean up unused files
