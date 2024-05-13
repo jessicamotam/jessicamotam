@@ -17767,3 +17767,4 @@
 0376. 🎨 style: apply consistent indentation
 0387. ✨ feat: enable dark mode toggle
 0196. ♻️ chore: bump dependencies
+0140. 🐛 fix: handle 500 error in quiz API
