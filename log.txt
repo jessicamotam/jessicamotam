@@ -81672,3 +81672,4 @@
 0965. 🎨 style: reformat files with black
 0988. 🐛 fix: fix broken CSS in mobile view
 0265. 🎨 style: reformat files with black
+0628. ♻️ chore: add GitHub actions badge
