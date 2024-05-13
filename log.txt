@@ -19913,3 +19913,4 @@
 0249. ✅ test: increase coverage on auth module
 0784. ♻️ chore: clean up unused files
 0260. ✨ feat: create admin dashboard
+0948. 🐛 fix: fix broken CSS in mobile view
