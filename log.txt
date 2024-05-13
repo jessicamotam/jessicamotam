@@ -79836,3 +79836,4 @@
 0580. ♻️ chore: bump dependencies
 0052. 🎨 style: standardize quote style
 0036. 🔧 refactor: clean up auth middleware
+0764. ✨ feat: add user authentication
