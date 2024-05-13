@@ -87698,3 +87698,4 @@
 0079. 🐛 fix: correct typo in registration form
 0953. 🎨 style: remove trailing whitespace
 0206. 🐛 fix: handle 500 error in quiz API
+0584. 🚀 perf: lazy-load components
