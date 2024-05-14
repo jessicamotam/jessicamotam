@@ -88202,3 +88202,4 @@
 0883. 📚 docs: improve code comments in utils
 0210. 🎨 style: apply consistent indentation
 0532. 🔧 refactor: split large controller into smaller functions
+0131. 📚 docs: write FAQ section
