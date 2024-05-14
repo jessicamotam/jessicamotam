@@ -21532,3 +21532,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0669. ✨ feat: enable dark mode toggle
 0035. ✅ test: increase coverage on auth module
+0294. 🐛 fix: prevent crash on empty input
