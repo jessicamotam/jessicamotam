@@ -61418,3 +61418,4 @@
 0163. ✨ feat: implement quiz timer feature
 0309. 🔧 refactor: refactor quiz grading logic
 0533. ♻️ chore: add GitHub actions badge
+0226. 🚀 perf: lazy-load components
