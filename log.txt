@@ -41453,3 +41453,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0042. 📚 docs: document token refresh logic
 0429. ✨ feat: add user authentication
+0116. ✨ feat: support email verification
