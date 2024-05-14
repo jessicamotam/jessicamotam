@@ -70454,3 +70454,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0440. 📚 docs: update README with setup steps
 0473. 📚 docs: write FAQ section
+0026. 🔧 refactor: clean up auth middleware
