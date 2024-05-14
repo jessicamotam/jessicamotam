@@ -88169,3 +88169,4 @@
 0215. 🎨 style: reformat files with black
 0708. ✅ test: add integration test for /submit endpoint
 0770. ♻️ chore: rename env.example
+0804. ♻️ chore: add GitHub actions badge
