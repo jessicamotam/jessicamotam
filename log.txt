@@ -65119,3 +65119,4 @@
 0345. 📚 docs: document token refresh logic
 0789. ✨ feat: create admin dashboard
 0158. 📚 docs: clarify environment setup
+0140. 🐛 fix: handle 500 error in quiz API
