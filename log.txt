@@ -40510,3 +40510,4 @@
 0270. ♻️ chore: rename env.example
 0596. ♻️ chore: update .gitignore
 0378. 🐛 fix: prevent crash on empty input
+0113. ✨ feat: add user authentication
