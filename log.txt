@@ -50038,3 +50038,4 @@
 0626. 🎨 style: standardize quote style
 0778. 📚 docs: write FAQ section
 0662. ♻️ chore: clean up unused files
+0305. ✨ feat: enable dark mode toggle
