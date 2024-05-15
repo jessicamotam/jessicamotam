@@ -4890,3 +4890,4 @@
 0337. 📚 docs: document token refresh logic
 0347. ♻️ chore: update .gitignore
 0333. 🚀 perf: cache repeated calculations
+0668. 🚀 perf: optimize database query for quiz results
