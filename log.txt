@@ -67139,3 +67139,4 @@
 0806. 📚 docs: improve code comments in utils
 0439. 🐛 fix: correct typo in registration form
 0549. ✨ feat: enable dark mode toggle
+0567. 📚 docs: add API usage examples
