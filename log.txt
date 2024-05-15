@@ -50327,3 +50327,4 @@
 0437. 📚 docs: clarify environment setup
 0335. ♻️ chore: update .gitignore
 0381. ♻️ chore: clean up unused files
+0361. ✨ feat: support email verification
