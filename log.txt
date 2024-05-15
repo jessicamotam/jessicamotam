@@ -29761,3 +29761,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0848. 📚 docs: update README with setup steps
 0250. 📚 docs: update README with setup steps
+0224. 🐛 fix: fix broken CSS in mobile view
