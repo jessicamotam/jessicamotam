@@ -12020,3 +12020,4 @@
 0311. 🎨 style: apply consistent indentation
 0071. 🔧 refactor: refactor quiz grading logic
 0623. 🎨 style: standardize quote style
+0595. ✨ feat: enable dark mode toggle
