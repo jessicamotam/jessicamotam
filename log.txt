@@ -3483,3 +3483,4 @@
 0317. ✅ test: test user registration edge cases
 0332. 🎨 style: standardize quote style
 0914. ✅ test: test user registration edge cases
+0185. 📚 docs: write FAQ section
