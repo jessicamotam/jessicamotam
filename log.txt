@@ -88696,3 +88696,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0519. 📚 docs: document token refresh logic
 0978. 🐛 fix: prevent crash on empty input
+0660. 🐛 fix: correct typo in registration form
