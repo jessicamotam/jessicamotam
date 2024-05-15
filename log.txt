@@ -14114,3 +14114,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0819. 🚀 perf: reduce image load time
 0954. 🚀 perf: cache repeated calculations
+0208. 🔧 refactor: clean up auth middleware
