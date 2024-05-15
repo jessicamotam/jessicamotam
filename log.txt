@@ -10910,3 +10910,4 @@
 0612. ✅ test: test user registration edge cases
 0777. 📚 docs: document token refresh logic
 0047. 🎨 style: rename variables for clarity
+0710. 🐛 fix: fix broken CSS in mobile view
