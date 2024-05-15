@@ -85721,3 +85721,4 @@
 0464. 🎨 style: remove trailing whitespace
 0720. ✨ feat: add export to CSV option
 0364. 🐛 fix: resolve issue with date parsing
+0678. ✨ feat: add user authentication
