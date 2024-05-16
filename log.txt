@@ -75963,3 +75963,4 @@
 0021. ✨ feat: support email verification
 0889. 🚀 perf: lazy-load components
 0332. 🎨 style: standardize quote style
+0736. 🐛 fix: fix null pointer exception on login
