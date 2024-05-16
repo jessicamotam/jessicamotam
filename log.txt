@@ -30277,3 +30277,4 @@
 0766. 🎨 style: reformat files with black
 0088. 📚 docs: add API usage examples
 0713. 🐛 fix: handle 500 error in quiz API
+0710. 🐛 fix: fix broken CSS in mobile view
