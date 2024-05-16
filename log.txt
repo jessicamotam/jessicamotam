@@ -29265,3 +29265,4 @@
 0596. ♻️ chore: update .gitignore
 0750. 🎨 style: apply consistent indentation
 0544. 🔧 refactor: organize models into subfolders
+0829. 🔧 refactor: organize models into subfolders
