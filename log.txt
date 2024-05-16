@@ -77435,3 +77435,4 @@
 0697. ♻️ chore: bump dependencies
 0572. ✨ feat: add user authentication
 0319. 🐛 fix: handle 500 error in quiz API
+0122. ✨ feat: support email verification
