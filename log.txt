@@ -80764,3 +80764,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0689. 🎨 style: reformat files with black
 0061. ✨ feat: create admin dashboard
+0509. ♻️ chore: bump dependencies
