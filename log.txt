@@ -25623,3 +25623,4 @@
 0904. ✨ feat: implement quiz timer feature
 0828. ♻️ chore: add GitHub actions badge
 0463. 🚀 perf: reduce image load time
+0939. 📚 docs: update README with setup steps
