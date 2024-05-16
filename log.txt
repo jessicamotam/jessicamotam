@@ -26379,3 +26379,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0308. 🚀 perf: reduce image load time
 0696. 🔧 refactor: clean up auth middleware
+0437. 📚 docs: clarify environment setup
