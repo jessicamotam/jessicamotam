@@ -40468,3 +40468,4 @@
 1000. ✅ test: increase coverage on auth module
 0148. 🔧 refactor: organize models into subfolders
 0519. 📚 docs: document token refresh logic
+0339. 📚 docs: update README with setup steps
