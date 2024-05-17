@@ -41309,3 +41309,4 @@
 0615. 🐛 fix: correct typo in registration form
 0582. ✨ feat: add export to CSV option
 0163. ✨ feat: implement quiz timer feature
+0279. ✨ feat: support email verification
