@@ -19160,3 +19160,4 @@
 0873. 🚀 perf: cache repeated calculations
 0100. ♻️ chore: update .gitignore
 0361. ✨ feat: support email verification
+0174. 📚 docs: clarify environment setup
