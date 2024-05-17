@@ -67067,3 +67067,4 @@
 0032. 🎨 style: apply consistent indentation
 0730. ✅ test: test user registration edge cases
 0205. 📚 docs: update README with setup steps
+0854. ♻️ chore: rename env.example
