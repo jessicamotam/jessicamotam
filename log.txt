@@ -88389,3 +88389,4 @@
 0343. 🚀 perf: optimize database query for quiz results
 0526. ✨ feat: add user authentication
 0501. ✨ feat: add export to CSV option
+0330. ✅ test: test user registration edge cases
