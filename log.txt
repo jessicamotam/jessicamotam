@@ -1474,3 +1474,4 @@
 0009. ✨ feat: enable dark mode toggle
 0157. ✅ test: mock database connection in test suite
 0779. 🔧 refactor: organize models into subfolders
+0650. ✅ test: add unit test for quiz service
