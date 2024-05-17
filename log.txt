@@ -4041,3 +4041,4 @@
 0005. ✅ test: add unit test for quiz service
 0423. ✅ test: mock database connection in test suite
 0697. ♻️ chore: bump dependencies
+0205. 📚 docs: update README with setup steps
