@@ -27652,3 +27652,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0971. 🎨 style: standardize quote style
 0784. ♻️ chore: clean up unused files
+0291. 📚 docs: write FAQ section
