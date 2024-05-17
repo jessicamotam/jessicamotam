@@ -38595,3 +38595,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0588. 🔧 refactor: organize models into subfolders
 0306. 🎨 style: apply consistent indentation
+0529. 📚 docs: write FAQ section
