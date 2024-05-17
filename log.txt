@@ -51175,3 +51175,4 @@
 0345. 📚 docs: document token refresh logic
 0860. 🔧 refactor: organize models into subfolders
 0451. ✨ feat: support email verification
+0803. ✅ test: mock database connection in test suite
