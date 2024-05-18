@@ -22165,3 +22165,4 @@
 0048. 📚 docs: update README with setup steps
 0487. 🎨 style: reformat files with black
 0335. ♻️ chore: update .gitignore
+0879. 🎨 style: standardize quote style
