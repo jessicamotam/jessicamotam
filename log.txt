@@ -62955,3 +62955,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0864. 🐛 fix: correct typo in registration form
 0860. 🔧 refactor: organize models into subfolders
+0596. ♻️ chore: update .gitignore
