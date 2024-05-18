@@ -80236,3 +80236,4 @@
 0044. ✅ test: add unit test for quiz service
 0712. 🎨 style: apply consistent indentation
 0052. 🎨 style: standardize quote style
+0354. 📚 docs: add API usage examples
