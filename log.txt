@@ -33580,3 +33580,4 @@
 0830. 🎨 style: apply consistent indentation
 0506. 🐛 fix: handle 500 error in quiz API
 0847. ♻️ chore: clean up unused files
+0258. 🐛 fix: prevent crash on empty input
