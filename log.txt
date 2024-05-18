@@ -21632,3 +21632,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0006. 🐛 fix: prevent crash on empty input
 0232. 🎨 style: apply consistent indentation
+0809. ♻️ chore: rename env.example
