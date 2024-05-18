@@ -60414,3 +60414,4 @@
 0348. ✅ test: test user registration edge cases
 0794. ♻️ chore: clean up unused files
 0367. 🐛 fix: fix null pointer exception on login
+0107. 🐛 fix: prevent crash on empty input
