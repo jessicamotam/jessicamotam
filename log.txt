@@ -12211,3 +12211,4 @@
 0161. ✨ feat: create admin dashboard
 0794. ♻️ chore: clean up unused files
 0640. ♻️ chore: bump dependencies
+0998. 🐛 fix: fix null pointer exception on login
