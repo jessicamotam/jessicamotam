@@ -12886,3 +12886,4 @@
 0085. ✨ feat: support email verification
 0296. 🔧 refactor: organize models into subfolders
 0664. ✅ test: add unit test for quiz service
+0157. ✅ test: mock database connection in test suite
