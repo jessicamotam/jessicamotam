@@ -82529,3 +82529,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0393. 🚀 perf: lazy-load components
 0988. 🐛 fix: fix broken CSS in mobile view
+0248. 🐛 fix: handle 500 error in quiz API
