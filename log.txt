@@ -47916,3 +47916,4 @@
 0970. ♻️ chore: update .gitignore
 0174. 📚 docs: clarify environment setup
 0386. 🚀 perf: optimize database query for quiz results
+0125. ✅ test: add integration test for /submit endpoint
