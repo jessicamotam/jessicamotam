@@ -54226,3 +54226,4 @@
 0933. 📚 docs: clarify environment setup
 0523. ♻️ chore: bump dependencies
 0155. ✨ feat: create admin dashboard
+0727. ♻️ chore: add GitHub actions badge
