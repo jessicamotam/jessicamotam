@@ -78054,3 +78054,4 @@
 0347. ♻️ chore: update .gitignore
 0900. 🐛 fix: handle 500 error in quiz API
 0862. ♻️ chore: bump dependencies
+0506. 🐛 fix: handle 500 error in quiz API
