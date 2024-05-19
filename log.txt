@@ -27359,3 +27359,4 @@
 0923. ✨ feat: support email verification
 0245. 🐛 fix: resolve issue with date parsing
 0687. 🎨 style: remove trailing whitespace
+0149. ✨ feat: add export to CSV option
