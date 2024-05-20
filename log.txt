@@ -13729,3 +13729,4 @@
 0203. 🚀 perf: lazy-load components
 0233. 🚀 perf: lazy-load components
 0035. ✅ test: increase coverage on auth module
+0805. ♻️ chore: add GitHub actions badge
