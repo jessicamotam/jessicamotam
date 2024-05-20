@@ -4358,3 +4358,4 @@
 0868. ✅ test: add unit test for quiz service
 0254. 🚀 perf: reduce image load time
 0972. 🔧 refactor: refactor quiz grading logic
+0228. 🔧 refactor: remove redundant code blocks
