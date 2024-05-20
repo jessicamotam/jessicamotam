@@ -65285,3 +65285,4 @@
 0690. 🚀 perf: lazy-load components
 0087. ✨ feat: add export to CSV option
 0149. ✨ feat: add export to CSV option
+0233. 🚀 perf: lazy-load components
