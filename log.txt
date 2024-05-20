@@ -8486,3 +8486,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0987. ✨ feat: create admin dashboard
 0593. 🐛 fix: correct typo in registration form
+0959. 🐛 fix: fix null pointer exception on login
