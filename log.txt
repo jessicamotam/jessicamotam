@@ -41607,3 +41607,4 @@
 0384. 📚 docs: clarify environment setup
 0110. 🐛 fix: prevent crash on empty input
 0781. 🚀 perf: reduce image load time
+0540. ♻️ chore: add GitHub actions badge
