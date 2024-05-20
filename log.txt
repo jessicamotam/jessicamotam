@@ -45565,3 +45565,4 @@
 0376. 🎨 style: apply consistent indentation
 0122. ✨ feat: support email verification
 0407. 🚀 perf: cache repeated calculations
+0985. 📚 docs: document token refresh logic
