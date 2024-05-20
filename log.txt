@@ -20134,3 +20134,4 @@
 0117. ✅ test: increase coverage on auth module
 0121. ✨ feat: support email verification
 0144. ✅ test: increase coverage on auth module
+0446. 🎨 style: apply consistent indentation
