@@ -87850,3 +87850,4 @@
 0312. ✨ feat: add user authentication
 0815. 🔧 refactor: split large controller into smaller functions
 0781. 🚀 perf: reduce image load time
+0368. 🚀 perf: lazy-load components
