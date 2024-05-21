@@ -85799,3 +85799,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0955. 🔧 refactor: remove redundant code blocks
 0100. ♻️ chore: update .gitignore
+0888. 🚀 perf: lazy-load components
