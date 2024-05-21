@@ -52248,3 +52248,4 @@
 0363. 📚 docs: clarify environment setup
 0490. ✨ feat: create admin dashboard
 0519. 📚 docs: document token refresh logic
+0682. ♻️ chore: rename env.example
