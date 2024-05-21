@@ -55749,3 +55749,4 @@
 0114. ♻️ chore: update .gitignore
 0472. 🐛 fix: fix null pointer exception on login
 0230. ✨ feat: create admin dashboard
+0579. 📚 docs: clarify environment setup
