@@ -48251,3 +48251,4 @@
 0773. 📚 docs: document token refresh logic
 0605. ✨ feat: support email verification
 0968. 🎨 style: standardize quote style
+0001. 🚀 perf: cache repeated calculations
