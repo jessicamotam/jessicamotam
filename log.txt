@@ -50590,3 +50590,4 @@
 0370. 🚀 perf: reduce image load time
 0325. 🎨 style: rename variables for clarity
 0664. ✅ test: add unit test for quiz service
+0394. 🚀 perf: lazy-load components
