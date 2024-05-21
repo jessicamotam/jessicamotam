@@ -55624,3 +55624,4 @@
 0088. 📚 docs: add API usage examples
 0035. ✅ test: increase coverage on auth module
 0056. ♻️ chore: rename env.example
+0005. ✅ test: add unit test for quiz service
