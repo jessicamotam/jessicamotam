@@ -77984,3 +77984,4 @@
 0438. ♻️ chore: bump dependencies
 0334. 🚀 perf: cache repeated calculations
 0853. 🔧 refactor: refactor quiz grading logic
+0102. ✨ feat: support email verification
