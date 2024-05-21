@@ -40339,3 +40339,4 @@
 0734. ✨ feat: add export to CSV option
 0399. ✅ test: mock database connection in test suite
 0473. 📚 docs: write FAQ section
+0890. 🔧 refactor: organize models into subfolders
