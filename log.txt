@@ -80339,3 +80339,4 @@
 0820. 📚 docs: add API usage examples
 0929. ✨ feat: support email verification
 0940. 📚 docs: document token refresh logic
+0646. ✅ test: test user registration edge cases
