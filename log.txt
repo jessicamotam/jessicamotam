@@ -55782,3 +55782,4 @@
 0005. ✅ test: add unit test for quiz service
 0297. 🎨 style: remove trailing whitespace
 0101. 📚 docs: clarify environment setup
+0096. 🐛 fix: prevent crash on empty input
