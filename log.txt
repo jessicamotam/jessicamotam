@@ -29188,3 +29188,4 @@
 0105. 🐛 fix: correct typo in registration form
 0279. ✨ feat: support email verification
 0561. 📚 docs: write FAQ section
+0877. 🚀 perf: optimize database query for quiz results
