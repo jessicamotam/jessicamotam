@@ -89600,3 +89600,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0121. ✨ feat: support email verification
 0118. 🚀 perf: reduce image load time
+0317. ✅ test: test user registration edge cases
