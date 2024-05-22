@@ -83371,3 +83371,4 @@
 0297. 🎨 style: remove trailing whitespace
 0645. 🐛 fix: resolve issue with date parsing
 0408. ♻️ chore: add GitHub actions badge
+0558. ✨ feat: enable dark mode toggle
