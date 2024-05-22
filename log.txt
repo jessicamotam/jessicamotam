@@ -76598,3 +76598,4 @@
 0102. ✨ feat: support email verification
 0984. ♻️ chore: clean up unused files
 0126. 🎨 style: rename variables for clarity
+0307. ✨ feat: support email verification
