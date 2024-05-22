@@ -54531,3 +54531,4 @@
 0913. 🚀 perf: optimize database query for quiz results
 0229. 🚀 perf: optimize database query for quiz results
 0589. 🐛 fix: fix broken CSS in mobile view
+0251. ♻️ chore: update .gitignore
