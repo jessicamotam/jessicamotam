@@ -50585,3 +50585,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0946. ✅ test: add unit test for quiz service
 0689. 🎨 style: reformat files with black
+0756. ✨ feat: support email verification
