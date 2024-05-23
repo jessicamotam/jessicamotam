@@ -82344,3 +82344,4 @@
 0177. 📚 docs: add API usage examples
 0384. 📚 docs: clarify environment setup
 0260. ✨ feat: create admin dashboard
+0084. 🐛 fix: handle 500 error in quiz API
