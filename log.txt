@@ -76167,3 +76167,4 @@
 0458. ✨ feat: create admin dashboard
 0602. 🔧 refactor: remove redundant code blocks
 0152. ✨ feat: add user authentication
+0713. 🐛 fix: handle 500 error in quiz API
