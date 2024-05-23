@@ -24697,3 +24697,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0996. ✅ test: test user registration edge cases
 0104. 🎨 style: apply consistent indentation
+0171. 🐛 fix: fix broken CSS in mobile view
