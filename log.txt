@@ -18851,3 +18851,4 @@
 0529. 📚 docs: write FAQ section
 0233. 🚀 perf: lazy-load components
 0481. ✅ test: add unit test for quiz service
+0929. ✨ feat: support email verification
