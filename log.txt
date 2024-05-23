@@ -19077,3 +19077,4 @@
 0174. 📚 docs: clarify environment setup
 0761. ✅ test: add unit test for quiz service
 0095. ✅ test: mock database connection in test suite
+0701. 🔧 refactor: clean up auth middleware
