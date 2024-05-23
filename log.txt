@@ -49624,3 +49624,4 @@
 0852. ✨ feat: enable dark mode toggle
 0552. 🐛 fix: fix null pointer exception on login
 0185. 📚 docs: write FAQ section
+0331. 🐛 fix: fix broken CSS in mobile view
