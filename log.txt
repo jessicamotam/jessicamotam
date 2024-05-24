@@ -55555,3 +55555,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0728. 🔧 refactor: split large controller into smaller functions
 0144. ✅ test: increase coverage on auth module
+0403. ✅ test: mock database connection in test suite
