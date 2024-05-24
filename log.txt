@@ -5700,3 +5700,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0994. 🚀 perf: reduce image load time
 0275. 🎨 style: standardize quote style
+0512. 🚀 perf: reduce image load time
