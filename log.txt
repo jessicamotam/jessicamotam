@@ -29512,3 +29512,4 @@
 0771. 🚀 perf: cache repeated calculations
 0477. 🐛 fix: fix broken CSS in mobile view
 0141. 📚 docs: document token refresh logic
+0338. ♻️ chore: add GitHub actions badge
