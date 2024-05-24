@@ -71347,3 +71347,4 @@
 0870. ♻️ chore: clean up unused files
 0170. ✅ test: increase coverage on auth module
 0615. 🐛 fix: correct typo in registration form
+0031. 📚 docs: document token refresh logic
