@@ -63034,3 +63034,4 @@
 0010. ✨ feat: add user authentication
 0438. ♻️ chore: bump dependencies
 0296. 🔧 refactor: organize models into subfolders
+0824. 🚀 perf: lazy-load components
