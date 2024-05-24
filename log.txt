@@ -69080,3 +69080,4 @@
 0792. 🎨 style: standardize quote style
 0452. ✨ feat: implement quiz timer feature
 0308. 🚀 perf: reduce image load time
+0440. 📚 docs: update README with setup steps
