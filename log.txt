@@ -10908,3 +10908,4 @@
 0604. 📚 docs: add API usage examples
 0719. 🎨 style: apply consistent indentation
 0612. ✅ test: test user registration edge cases
+0777. 📚 docs: document token refresh logic
