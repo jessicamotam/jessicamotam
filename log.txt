@@ -46022,3 +46022,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0861. ♻️ chore: clean up unused files
 0676. 🐛 fix: prevent crash on empty input
+0374. 🎨 style: standardize quote style
