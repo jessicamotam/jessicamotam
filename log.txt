@@ -83628,3 +83628,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0379. ✨ feat: support email verification
 0008. 🚀 perf: reduce image load time
+0836. 🚀 perf: optimize database query for quiz results
