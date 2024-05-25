@@ -15948,3 +15948,4 @@
 0861. ♻️ chore: clean up unused files
 0344. ♻️ chore: add GitHub actions badge
 0711. 🐛 fix: fix broken CSS in mobile view
+0292. 📚 docs: clarify environment setup
