@@ -63393,3 +63393,4 @@
 0852. ✨ feat: enable dark mode toggle
 0603. 🐛 fix: fix broken CSS in mobile view
 0865. ♻️ chore: add GitHub actions badge
+0775. 🐛 fix: fix null pointer exception on login
