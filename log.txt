@@ -87774,3 +87774,4 @@
 0947. 📚 docs: write FAQ section
 0080. ✨ feat: support email verification
 0056. ♻️ chore: rename env.example
+0505. ♻️ chore: add GitHub actions badge
