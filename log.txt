@@ -54181,3 +54181,4 @@
 0605. ✨ feat: support email verification
 0285. 🐛 fix: resolve issue with date parsing
 0484. 🐛 fix: handle 500 error in quiz API
+0467. ✅ test: add integration test for /submit endpoint
