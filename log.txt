@@ -28869,3 +28869,4 @@
 0021. ✨ feat: support email verification
 0524. ♻️ chore: rename env.example
 0473. 📚 docs: write FAQ section
+0589. 🐛 fix: fix broken CSS in mobile view
