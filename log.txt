@@ -27929,3 +27929,4 @@
 0829. 🔧 refactor: organize models into subfolders
 0538. 🐛 fix: fix broken CSS in mobile view
 0956. 📚 docs: clarify environment setup
+0097. 🐛 fix: handle 500 error in quiz API
