@@ -23421,3 +23421,4 @@
 0669. ✨ feat: enable dark mode toggle
 0926. 🔧 refactor: organize models into subfolders
 0349. ✅ test: increase coverage on auth module
+0384. 📚 docs: clarify environment setup
