@@ -34174,3 +34174,4 @@
 0724. ✅ test: mock database connection in test suite
 0354. 📚 docs: add API usage examples
 0779. 🔧 refactor: organize models into subfolders
+0960. ✅ test: increase coverage on auth module
