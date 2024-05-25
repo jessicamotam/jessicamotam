@@ -6170,3 +6170,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0154. 🐛 fix: prevent crash on empty input
 0351. ✨ feat: add export to CSV option
+0600. 🐛 fix: prevent crash on empty input
