@@ -35278,3 +35278,4 @@
 0670. ✨ feat: add export to CSV option
 0424. ✨ feat: add user authentication
 0617. ✨ feat: support email verification
+0929. ✨ feat: support email verification
