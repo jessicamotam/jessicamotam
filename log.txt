@@ -85958,3 +85958,4 @@
 0521. 🎨 style: standardize quote style
 0067. 🔧 refactor: remove redundant code blocks
 0332. 🎨 style: standardize quote style
+0779. 🔧 refactor: organize models into subfolders
