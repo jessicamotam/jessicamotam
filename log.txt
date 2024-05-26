@@ -73902,3 +73902,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0079. 🐛 fix: correct typo in registration form
 0863. 🐛 fix: correct typo in registration form
+0380. 🐛 fix: fix null pointer exception on login
