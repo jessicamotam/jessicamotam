@@ -71877,3 +71877,4 @@
 0596. ♻️ chore: update .gitignore
 0605. ✨ feat: support email verification
 0079. 🐛 fix: correct typo in registration form
+0388. 🎨 style: reformat files with black
