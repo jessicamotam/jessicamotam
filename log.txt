@@ -5174,3 +5174,4 @@
 0295. 🎨 style: remove trailing whitespace
 0110. 🐛 fix: prevent crash on empty input
 0798. 🚀 perf: reduce image load time
+0561. 📚 docs: write FAQ section
