@@ -31512,3 +31512,4 @@
 0354. 📚 docs: add API usage examples
 0560. 🎨 style: rename variables for clarity
 0767. 🔧 refactor: remove redundant code blocks
+0772. 🐛 fix: fix null pointer exception on login
