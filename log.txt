@@ -88339,3 +88339,4 @@
 0954. 🚀 perf: cache repeated calculations
 0601. ✨ feat: implement quiz timer feature
 0898. 🐛 fix: fix broken CSS in mobile view
+0367. 🐛 fix: fix null pointer exception on login
