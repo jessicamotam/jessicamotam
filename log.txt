@@ -13721,3 +13721,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0788. 📚 docs: add API usage examples
 0865. ♻️ chore: add GitHub actions badge
+0178. ✨ feat: support email verification
