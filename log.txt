@@ -33589,3 +33589,4 @@
 0337. 📚 docs: document token refresh logic
 0115. 🚀 perf: reduce image load time
 0627. 📚 docs: document token refresh logic
+0690. 🚀 perf: lazy-load components
