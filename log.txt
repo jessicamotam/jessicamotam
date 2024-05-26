@@ -37861,3 +37861,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0488. ♻️ chore: add GitHub actions badge
 0171. 🐛 fix: fix broken CSS in mobile view
+0102. ✨ feat: support email verification
