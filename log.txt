@@ -89848,3 +89848,4 @@
 0008. 🚀 perf: reduce image load time
 0062. ♻️ chore: update .gitignore
 0077. ♻️ chore: rename env.example
+0409. 🚀 perf: lazy-load components
