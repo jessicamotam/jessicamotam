@@ -23148,3 +23148,4 @@
 0685. ✅ test: test user registration edge cases
 0790. 📚 docs: write FAQ section
 0390. 🎨 style: standardize quote style
+0745. ✅ test: add unit test for quiz service
