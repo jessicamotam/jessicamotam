@@ -74268,3 +74268,4 @@
 0929. ✨ feat: support email verification
 0648. ♻️ chore: bump dependencies
 0305. ✨ feat: enable dark mode toggle
+0936. 🔧 refactor: organize models into subfolders
