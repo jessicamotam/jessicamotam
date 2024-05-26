@@ -23044,3 +23044,4 @@
 0695. ✨ feat: create admin dashboard
 0034. 📚 docs: improve code comments in utils
 0077. ♻️ chore: rename env.example
+0026. 🔧 refactor: clean up auth middleware
