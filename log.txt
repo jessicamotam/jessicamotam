@@ -58266,3 +58266,4 @@
 0265. 🎨 style: reformat files with black
 0967. ♻️ chore: add GitHub actions badge
 0548. 📚 docs: write FAQ section
+0203. 🚀 perf: lazy-load components
