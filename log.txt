@@ -88047,3 +88047,4 @@
 0360. ✨ feat: add export to CSV option
 0334. 🚀 perf: cache repeated calculations
 0957. 🐛 fix: fix null pointer exception on login
+0647. 🐛 fix: prevent crash on empty input
