@@ -39801,3 +39801,4 @@
 0128. ♻️ chore: rename env.example
 0959. 🐛 fix: fix null pointer exception on login
 0115. 🚀 perf: reduce image load time
+0264. 🚀 perf: optimize database query for quiz results
