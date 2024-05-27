@@ -77913,3 +77913,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0971. 🎨 style: standardize quote style
 0100. ♻️ chore: update .gitignore
+0368. 🚀 perf: lazy-load components
