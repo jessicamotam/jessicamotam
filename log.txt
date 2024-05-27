@@ -81667,3 +81667,4 @@
 0199. ✨ feat: create admin dashboard
 0686. 🎨 style: standardize quote style
 0956. 📚 docs: clarify environment setup
+0727. ♻️ chore: add GitHub actions badge
