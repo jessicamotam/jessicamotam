@@ -78996,3 +78996,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0189. 📚 docs: clarify environment setup
 0688. 🚀 perf: reduce image load time
+0756. ✨ feat: support email verification
