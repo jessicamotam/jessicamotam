@@ -2721,3 +2721,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0253. 📚 docs: update README with setup steps
 0635. 🎨 style: apply consistent indentation
+0321. 🔧 refactor: organize models into subfolders
