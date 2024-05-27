@@ -74219,3 +74219,4 @@
 0102. ✨ feat: support email verification
 0611. ✅ test: test user registration edge cases
 0069. 🎨 style: rename variables for clarity
+0627. 📚 docs: document token refresh logic
