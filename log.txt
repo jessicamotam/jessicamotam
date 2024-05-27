@@ -59710,3 +59710,4 @@
 0677. 📚 docs: add API usage examples
 0505. ♻️ chore: add GitHub actions badge
 0875. ✅ test: increase coverage on auth module
+0710. 🐛 fix: fix broken CSS in mobile view
