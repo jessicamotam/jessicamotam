@@ -5967,3 +5967,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0914. ✅ test: test user registration edge cases
 0732. ♻️ chore: add GitHub actions badge
+0034. 📚 docs: improve code comments in utils
