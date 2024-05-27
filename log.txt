@@ -90527,3 +90527,4 @@
 0186. ✅ test: test user registration edge cases
 0485. 📚 docs: update README with setup steps
 0869. ♻️ chore: bump dependencies
+0791. 🔧 refactor: clean up auth middleware
