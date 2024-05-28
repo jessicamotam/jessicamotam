@@ -68149,3 +68149,4 @@
 0416. 🎨 style: rename variables for clarity
 0786. ✨ feat: enable dark mode toggle
 0696. 🔧 refactor: clean up auth middleware
+0529. 📚 docs: write FAQ section
