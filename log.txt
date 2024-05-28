@@ -71361,3 +71361,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0518. ✨ feat: support email verification
 0210. 🎨 style: apply consistent indentation
+0879. 🎨 style: standardize quote style
