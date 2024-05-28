@@ -31704,3 +31704,4 @@
 0024. 📚 docs: write FAQ section
 0170. ✅ test: increase coverage on auth module
 0965. 🎨 style: reformat files with black
+0735. ♻️ chore: add GitHub actions badge
