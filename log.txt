@@ -64347,3 +64347,4 @@
 0620. ✨ feat: implement quiz timer feature
 0681. ✨ feat: create admin dashboard
 0896. 🚀 perf: reduce image load time
+0072. 🚀 perf: optimize database query for quiz results
