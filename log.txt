@@ -53871,3 +53871,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 0012. 🚀 perf: cache repeated calculations
 0473. 📚 docs: write FAQ section
+0021. ✨ feat: support email verification
