@@ -57874,3 +57874,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0731. 🎨 style: standardize quote style
 0617. ✨ feat: support email verification
+0636. ✅ test: increase coverage on auth module
