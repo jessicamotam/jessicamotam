@@ -37566,3 +37566,4 @@
 0854. ♻️ chore: rename env.example
 0859. ✨ feat: create admin dashboard
 0163. ✨ feat: implement quiz timer feature
+0281. ✨ feat: support email verification
