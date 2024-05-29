@@ -49259,3 +49259,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0329. 📚 docs: update README with setup steps
 0432. 🎨 style: apply consistent indentation
+0234. ♻️ chore: rename env.example
