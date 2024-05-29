@@ -28542,3 +28542,4 @@
 0265. 🎨 style: reformat files with black
 0949. 📚 docs: write FAQ section
 0882. 🚀 perf: optimize database query for quiz results
+0695. ✨ feat: create admin dashboard
