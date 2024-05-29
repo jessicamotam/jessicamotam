@@ -35212,3 +35212,4 @@
 0420. 🚀 perf: reduce image load time
 0185. 📚 docs: write FAQ section
 0953. 🎨 style: remove trailing whitespace
+0926. 🔧 refactor: organize models into subfolders
