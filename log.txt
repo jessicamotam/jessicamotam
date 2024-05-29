@@ -14548,3 +14548,4 @@
 0029. 🚀 perf: lazy-load components
 0925. ✨ feat: add export to CSV option
 0971. 🎨 style: standardize quote style
+0091. ✨ feat: add user authentication
