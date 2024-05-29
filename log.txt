@@ -70803,3 +70803,4 @@
 0924. ✅ test: mock database connection in test suite
 0691. 🎨 style: rename variables for clarity
 0880. 🐛 fix: fix broken CSS in mobile view
+0759. 🔧 refactor: organize models into subfolders
