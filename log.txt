@@ -10195,3 +10195,4 @@
 0575. ✅ test: add unit test for quiz service
 0207. 🐛 fix: prevent crash on empty input
 0766. 🎨 style: reformat files with black
+0270. ♻️ chore: rename env.example
