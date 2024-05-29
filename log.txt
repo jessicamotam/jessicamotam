@@ -56313,3 +56313,4 @@
 0956. 📚 docs: clarify environment setup
 0951. 🎨 style: rename variables for clarity
 0564. 📚 docs: clarify environment setup
+0525. ✅ test: mock database connection in test suite
