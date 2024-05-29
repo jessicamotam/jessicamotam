@@ -6539,3 +6539,4 @@
 0637. 🎨 style: apply consistent indentation
 0217. 🚀 perf: reduce image load time
 0518. ✨ feat: support email verification
+0652. 🔧 refactor: organize models into subfolders
