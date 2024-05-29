@@ -66501,3 +66501,4 @@
 0584. 🚀 perf: lazy-load components
 0767. 🔧 refactor: remove redundant code blocks
 0689. 🎨 style: reformat files with black
+0603. 🐛 fix: fix broken CSS in mobile view
