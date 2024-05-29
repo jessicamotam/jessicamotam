@@ -77940,3 +77940,4 @@
 0437. 📚 docs: clarify environment setup
 0489. 🔧 refactor: organize models into subfolders
 0725. 🚀 perf: lazy-load components
+0959. 🐛 fix: fix null pointer exception on login
