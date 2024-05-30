@@ -70763,3 +70763,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0252. 🎨 style: remove trailing whitespace
 0740. 🐛 fix: resolve issue with date parsing
+0651. ✨ feat: enable dark mode toggle
