@@ -15336,3 +15336,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0137. 🎨 style: rename variables for clarity
 0293. ✅ test: add integration test for /submit endpoint
+0788. 📚 docs: add API usage examples
