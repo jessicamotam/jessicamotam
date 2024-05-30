@@ -90933,3 +90933,4 @@
 0159. 🚀 perf: lazy-load components
 0665. ♻️ chore: update .gitignore
 0589. 🐛 fix: fix broken CSS in mobile view
+0432. 🎨 style: apply consistent indentation
