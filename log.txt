@@ -65761,3 +65761,4 @@
 0102. ✨ feat: support email verification
 0157. ✅ test: mock database connection in test suite
 0873. 🚀 perf: cache repeated calculations
+0529. 📚 docs: write FAQ section
