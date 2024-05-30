@@ -71318,3 +71318,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0558. ✨ feat: enable dark mode toggle
 0264. 🚀 perf: optimize database query for quiz results
+0212. 🎨 style: standardize quote style
