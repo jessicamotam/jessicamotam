@@ -29634,3 +29634,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0346. ✅ test: mock database connection in test suite
 0688. 🚀 perf: reduce image load time
+0994. 🚀 perf: reduce image load time
