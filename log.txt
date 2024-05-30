@@ -35868,3 +35868,4 @@
 1000. ✅ test: increase coverage on auth module
 0023. 📚 docs: clarify environment setup
 0259. 🚀 perf: lazy-load components
+0756. ✨ feat: support email verification
