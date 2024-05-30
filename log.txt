@@ -19862,3 +19862,4 @@
 0620. ✨ feat: implement quiz timer feature
 0750. 🎨 style: apply consistent indentation
 0181. ♻️ chore: add GitHub actions badge
+0222. 🐛 fix: handle 500 error in quiz API
