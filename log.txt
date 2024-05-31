@@ -15712,3 +15712,4 @@
 0405. ✅ test: mock database connection in test suite
 0684. 🚀 perf: reduce image load time
 0799. ♻️ chore: clean up unused files
+0770. ♻️ chore: rename env.example
