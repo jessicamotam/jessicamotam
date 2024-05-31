@@ -3977,3 +3977,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0473. 📚 docs: write FAQ section
 0865. ♻️ chore: add GitHub actions badge
+0512. 🚀 perf: reduce image load time
