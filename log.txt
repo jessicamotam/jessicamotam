@@ -4538,3 +4538,4 @@
 0501. ✨ feat: add export to CSV option
 0993. ✨ feat: implement quiz timer feature
 0785. ✨ feat: enable dark mode toggle
+0251. ♻️ chore: update .gitignore
