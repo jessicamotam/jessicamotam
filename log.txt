@@ -9347,3 +9347,4 @@
 0620. ✨ feat: implement quiz timer feature
 0427. ✅ test: mock database connection in test suite
 0060. ♻️ chore: clean up unused files
+0096. 🐛 fix: prevent crash on empty input
