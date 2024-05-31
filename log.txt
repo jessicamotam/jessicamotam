@@ -39377,3 +39377,4 @@
 0563. 📚 docs: clarify environment setup
 0028. 🎨 style: standardize quote style
 0240. 🔧 refactor: remove redundant code blocks
+0222. 🐛 fix: handle 500 error in quiz API
