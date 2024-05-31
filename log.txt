@@ -14166,3 +14166,4 @@
 0639. 🐛 fix: correct typo in registration form
 0640. ♻️ chore: bump dependencies
 0296. 🔧 refactor: organize models into subfolders
+0809. ♻️ chore: rename env.example
