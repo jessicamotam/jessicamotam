@@ -16821,3 +16821,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0371. ✅ test: add integration test for /submit endpoint
 0284. ✨ feat: implement quiz timer feature
+0558. ✨ feat: enable dark mode toggle
