@@ -59294,3 +59294,4 @@
 0312. ✨ feat: add user authentication
 0351. ✨ feat: add export to CSV option
 0742. 📚 docs: clarify environment setup
+0532. 🔧 refactor: split large controller into smaller functions
