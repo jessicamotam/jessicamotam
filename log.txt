@@ -63825,3 +63825,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0688. 🚀 perf: reduce image load time
 0901. ✨ feat: add user authentication
+0353. ♻️ chore: rename env.example
