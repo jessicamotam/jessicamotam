@@ -35851,3 +35851,4 @@
 0267. 📚 docs: improve code comments in utils
 0063. 🐛 fix: handle 500 error in quiz API
 0552. 🐛 fix: fix null pointer exception on login
+0090. ✅ test: increase coverage on auth module
