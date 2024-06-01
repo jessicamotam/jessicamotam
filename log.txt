@@ -51318,3 +51318,4 @@
 0326. 🚀 perf: cache repeated calculations
 0107. 🐛 fix: prevent crash on empty input
 0174. 📚 docs: clarify environment setup
+0450. 🐛 fix: fix broken CSS in mobile view
