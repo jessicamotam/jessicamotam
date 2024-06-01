@@ -43528,3 +43528,4 @@
 0144. ✅ test: increase coverage on auth module
 0412. ✅ test: increase coverage on auth module
 0671. 🐛 fix: fix null pointer exception on login
+0514. 🐛 fix: fix broken CSS in mobile view
