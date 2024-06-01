@@ -7662,3 +7662,4 @@
 0980. 🎨 style: reformat files with black
 0879. 🎨 style: standardize quote style
 0878. 🔧 refactor: split large controller into smaller functions
+0579. 📚 docs: clarify environment setup
