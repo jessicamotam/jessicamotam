@@ -82702,3 +82702,4 @@
 0997. ✅ test: increase coverage on auth module
 0774. 🔧 refactor: refactor quiz grading logic
 0049. 🐛 fix: handle 500 error in quiz API
+0711. 🐛 fix: fix broken CSS in mobile view
