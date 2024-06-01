@@ -61696,3 +61696,4 @@
 0888. 🚀 perf: lazy-load components
 0949. 📚 docs: write FAQ section
 0497. 🔧 refactor: refactor quiz grading logic
+0431. 🎨 style: reformat files with black
