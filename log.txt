@@ -75940,3 +75940,4 @@
 0417. 🎨 style: rename variables for clarity
 0151. ✅ test: add unit test for quiz service
 0905. ♻️ chore: bump dependencies
+0029. 🚀 perf: lazy-load components
