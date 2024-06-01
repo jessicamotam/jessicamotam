@@ -79338,3 +79338,4 @@
 0834. ✅ test: increase coverage on auth module
 0702. ✨ feat: add user authentication
 0237. 🎨 style: standardize quote style
+0234. ♻️ chore: rename env.example
