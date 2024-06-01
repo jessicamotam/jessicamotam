@@ -37110,3 +37110,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0551. 📚 docs: write FAQ section
 0890. 🔧 refactor: organize models into subfolders
+0195. 📚 docs: clarify environment setup
