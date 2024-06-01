@@ -22832,3 +22832,4 @@
 0180. ✨ feat: add export to CSV option
 0291. 📚 docs: write FAQ section
 0819. 🚀 perf: reduce image load time
+0178. ✨ feat: support email verification
