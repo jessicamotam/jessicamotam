@@ -89287,3 +89287,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0738. 🐛 fix: prevent crash on empty input
 0686. 🎨 style: standardize quote style
+0091. ✨ feat: add user authentication
