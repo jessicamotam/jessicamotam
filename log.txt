@@ -84104,3 +84104,4 @@
 0036. 🔧 refactor: clean up auth middleware
 0658. 🎨 style: rename variables for clarity
 0498. ✅ test: mock database connection in test suite
+0003. ✅ test: increase coverage on auth module
