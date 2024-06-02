@@ -17089,3 +17089,4 @@
 0054. ♻️ chore: update .gitignore
 0230. ✨ feat: create admin dashboard
 0092. 🚀 perf: reduce image load time
+0098. 🎨 style: rename variables for clarity
