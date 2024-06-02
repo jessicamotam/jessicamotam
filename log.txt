@@ -42685,3 +42685,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0239. 🎨 style: standardize quote style
 0596. ♻️ chore: update .gitignore
+0090. ✅ test: increase coverage on auth module
