@@ -78677,3 +78677,4 @@
 0402. 🎨 style: reformat files with black
 0580. ♻️ chore: bump dependencies
 0029. 🚀 perf: lazy-load components
+0531. 🐛 fix: prevent crash on empty input
