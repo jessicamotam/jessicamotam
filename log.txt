@@ -35925,3 +35925,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0202. 🔧 refactor: refactor quiz grading logic
 0954. 🚀 perf: cache repeated calculations
+0024. 📚 docs: write FAQ section
