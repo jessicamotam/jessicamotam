@@ -34189,3 +34189,4 @@
 0989. 📚 docs: write FAQ section
 0876. ♻️ chore: rename env.example
 0879. 🎨 style: standardize quote style
+0180. ✨ feat: add export to CSV option
