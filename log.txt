@@ -37775,3 +37775,4 @@
 0956. 📚 docs: clarify environment setup
 0661. ✅ test: add integration test for /submit endpoint
 0470. 🎨 style: remove trailing whitespace
+0276. ✅ test: add integration test for /submit endpoint
