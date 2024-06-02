@@ -68224,3 +68224,4 @@
 0365. 🚀 perf: reduce image load time
 0749. ✨ feat: support email verification
 0964. ♻️ chore: clean up unused files
+0735. ♻️ chore: add GitHub actions badge
