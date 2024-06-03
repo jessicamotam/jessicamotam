@@ -88097,3 +88097,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0118. 🚀 perf: reduce image load time
 0189. 📚 docs: clarify environment setup
+0708. ✅ test: add integration test for /submit endpoint
