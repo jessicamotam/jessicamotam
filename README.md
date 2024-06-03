@@ -4,8 +4,12 @@
 
 Sou uma graduanda de Estatística, formada em Biblioteconomia, mergulhando no mundo da programação, análise e ciência dos dados. 😊
 
-### Entre em contato:
+
+
+### Contato :
 [![Linkedin: Jéssica Mota](https://img.shields.io/badge/-jessicamota-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicadamotamenezes)](https://www.linkedin.com/in/jessicadamotamenezes/)
+
+
 
 ### Ferramentas e Tecnologias:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
