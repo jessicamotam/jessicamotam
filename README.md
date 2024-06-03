@@ -1,5 +1,11 @@
-# Oie, eu sou a Jéssica!
+# Oie, eu sou a Jéssica! 
 
-## Sou uma estudante de Estatística, formada em Biblioteconomia, apaixonada por análise, gestão e organização dos dados!
+### Constante aprendiz apaixonada por análise, gestão e organização dos dados!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+Sou uma graduanda de Estatística, formada em Biblioteconomia, mergulhando no mundo da programação, análise e ciência dos dados. 😊
+
+### Entre em contato:
+[![Linkedin: Jéssica Mota](https://img.shields.io/badge/-jessicamota-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicadamotamenezes)](https://www.linkedin.com/in/jessicadamotamenezes/)
+
+## Ferramentas e Tecnologias
+
