@@ -36297,3 +36297,4 @@
 0798. 🚀 perf: reduce image load time
 0361. ✨ feat: support email verification
 0607. 🐛 fix: prevent crash on empty input
+0596. ♻️ chore: update .gitignore
