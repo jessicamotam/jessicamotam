@@ -45893,3 +45893,4 @@
 0523. ♻️ chore: bump dependencies
 0455. ♻️ chore: clean up unused files
 0184. 📚 docs: improve code comments in utils
+0795. 📚 docs: update README with setup steps
