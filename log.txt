@@ -70053,3 +70053,4 @@
 0233. 🚀 perf: lazy-load components
 0577. ✨ feat: implement quiz timer feature
 0501. ✨ feat: add export to CSV option
+0672. 🐛 fix: fix broken CSS in mobile view
