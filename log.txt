@@ -34547,3 +34547,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0751. 🐛 fix: handle 500 error in quiz API
 0840. 🔧 refactor: refactor quiz grading logic
+0684. 🚀 perf: reduce image load time
