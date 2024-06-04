@@ -19131,3 +19131,4 @@
 0756. ✨ feat: support email verification
 0345. 📚 docs: document token refresh logic
 0609. 🐛 fix: handle 500 error in quiz API
+0283. ♻️ chore: add GitHub actions badge
