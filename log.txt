@@ -53098,3 +53098,4 @@
 0572. ✨ feat: add user authentication
 0257. 📚 docs: clarify environment setup
 0715. ✨ feat: create admin dashboard
+0217. 🚀 perf: reduce image load time
