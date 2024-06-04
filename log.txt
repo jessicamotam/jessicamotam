@@ -32599,3 +32599,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0295. 🎨 style: remove trailing whitespace
 0014. 🔧 refactor: remove redundant code blocks
+0738. 🐛 fix: prevent crash on empty input
