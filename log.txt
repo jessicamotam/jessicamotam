@@ -74260,3 +74260,4 @@
 0869. ♻️ chore: bump dependencies
 0631. ✨ feat: create admin dashboard
 0639. 🐛 fix: correct typo in registration form
+0789. ✨ feat: create admin dashboard
