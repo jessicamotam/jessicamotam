@@ -74027,3 +74027,4 @@
 0634. 🎨 style: reformat files with black
 0369. 🎨 style: standardize quote style
 0890. 🔧 refactor: organize models into subfolders
+0080. ✨ feat: support email verification
