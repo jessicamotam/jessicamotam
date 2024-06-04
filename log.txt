@@ -1282,3 +1282,4 @@
 0515. 🚀 perf: optimize database query for quiz results
 0981. 🚀 perf: lazy-load components
 0387. ✨ feat: enable dark mode toggle
+0826. 📚 docs: clarify environment setup
