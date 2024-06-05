@@ -45367,3 +45367,4 @@
 0045. 🎨 style: apply consistent indentation
 0378. 🐛 fix: prevent crash on empty input
 0727. ♻️ chore: add GitHub actions badge
+0854. ♻️ chore: rename env.example
