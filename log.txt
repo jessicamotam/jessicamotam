@@ -5428,3 +5428,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0403. ✅ test: mock database connection in test suite
 0293. ✅ test: add integration test for /submit endpoint
+0461. ✨ feat: add user authentication
