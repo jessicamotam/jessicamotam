@@ -7603,3 +7603,4 @@
 0614. 🚀 perf: reduce image load time
 0809. ♻️ chore: rename env.example
 0301. 🎨 style: apply consistent indentation
+0547. 📚 docs: write FAQ section
