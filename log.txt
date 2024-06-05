@@ -953,3 +953,4 @@
 0722. 📚 docs: add API usage examples
 0003. ✅ test: increase coverage on auth module
 0297. 🎨 style: remove trailing whitespace
+0315. ✅ test: add integration test for /submit endpoint
