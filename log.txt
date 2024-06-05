@@ -6679,3 +6679,4 @@
 0057. 🚀 perf: optimize database query for quiz results
 0200. 🐛 fix: handle 500 error in quiz API
 0087. ✨ feat: add export to CSV option
+0978. 🐛 fix: prevent crash on empty input
