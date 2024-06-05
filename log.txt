@@ -75229,3 +75229,4 @@
 0072. 🚀 perf: optimize database query for quiz results
 0551. 📚 docs: write FAQ section
 0361. ✨ feat: support email verification
+0957. 🐛 fix: fix null pointer exception on login
