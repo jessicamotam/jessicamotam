@@ -76083,3 +76083,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0291. 📚 docs: write FAQ section
 0375. 🐛 fix: handle 500 error in quiz API
+0719. 🎨 style: apply consistent indentation
