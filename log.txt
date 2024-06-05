@@ -47293,3 +47293,4 @@
 0473. 📚 docs: write FAQ section
 0685. ✅ test: test user registration edge cases
 0846. ✨ feat: implement quiz timer feature
+0678. ✨ feat: add user authentication
