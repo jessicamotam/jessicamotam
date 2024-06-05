@@ -35138,3 +35138,4 @@
 0575. ✅ test: add unit test for quiz service
 0099. 🚀 perf: reduce image load time
 0682. ♻️ chore: rename env.example
+0127. 🐛 fix: fix null pointer exception on login
