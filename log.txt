@@ -23612,3 +23612,4 @@
 0335. ♻️ chore: update .gitignore
 0441. 📚 docs: add API usage examples
 0977. 🔧 refactor: organize models into subfolders
+0312. ✨ feat: add user authentication
