@@ -24925,3 +24925,4 @@
 0241. 📚 docs: add API usage examples
 0022. 📚 docs: document token refresh logic
 0978. 🐛 fix: prevent crash on empty input
+0978. 🐛 fix: prevent crash on empty input
