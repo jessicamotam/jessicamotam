@@ -26376,3 +26376,4 @@
 0339. 📚 docs: update README with setup steps
 0135. ✅ test: test user registration edge cases
 0774. 🔧 refactor: refactor quiz grading logic
+0737. 🐛 fix: handle 500 error in quiz API
