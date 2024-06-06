@@ -18991,3 +18991,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0008. 🚀 perf: reduce image load time
 0290. ✅ test: test user registration edge cases
+0483. 📚 docs: update README with setup steps
