@@ -44375,3 +44375,4 @@
 0815. 🔧 refactor: split large controller into smaller functions
 0869. ♻️ chore: bump dependencies
 0159. 🚀 perf: lazy-load components
+0144. ✅ test: increase coverage on auth module
