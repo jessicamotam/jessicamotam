@@ -2327,3 +2327,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0950. 🎨 style: reformat files with black
 0592. 📚 docs: add API usage examples
+0605. ✨ feat: support email verification
