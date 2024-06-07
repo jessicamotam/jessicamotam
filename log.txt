@@ -71056,3 +71056,4 @@
 0100. ♻️ chore: update .gitignore
 0268. 🐛 fix: prevent crash on empty input
 0272. 🔧 refactor: remove redundant code blocks
+0838. 🎨 style: standardize quote style
