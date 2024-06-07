@@ -4377,3 +4377,4 @@
 0883. 📚 docs: improve code comments in utils
 0214. 📚 docs: improve code comments in utils
 0687. 🎨 style: remove trailing whitespace
+0477. 🐛 fix: fix broken CSS in mobile view
