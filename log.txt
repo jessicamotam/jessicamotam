@@ -27446,3 +27446,4 @@
 0254. 🚀 perf: reduce image load time
 0916. ♻️ chore: bump dependencies
 0576. ♻️ chore: update .gitignore
+0898. 🐛 fix: fix broken CSS in mobile view
