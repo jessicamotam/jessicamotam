@@ -84876,3 +84876,4 @@
 0122. ✨ feat: support email verification
 0610. 🚀 perf: lazy-load components
 0048. 📚 docs: update README with setup steps
+0588. 🔧 refactor: organize models into subfolders
