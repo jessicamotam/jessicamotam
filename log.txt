@@ -1861,3 +1861,4 @@
 0102. ✨ feat: support email verification
 0798. 🚀 perf: reduce image load time
 0534. 🔧 refactor: split large controller into smaller functions
+0620. ✨ feat: implement quiz timer feature
