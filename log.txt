@@ -27422,3 +27422,4 @@
 0452. ✨ feat: implement quiz timer feature
 0370. 🚀 perf: reduce image load time
 0348. ✅ test: test user registration edge cases
+0371. ✅ test: add integration test for /submit endpoint
