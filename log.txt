@@ -3594,3 +3594,4 @@
 0298. ♻️ chore: update .gitignore
 0222. 🐛 fix: handle 500 error in quiz API
 0188. 🎨 style: apply consistent indentation
+0354. 📚 docs: add API usage examples
