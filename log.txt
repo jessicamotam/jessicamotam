@@ -50777,3 +50777,4 @@
 0184. 📚 docs: improve code comments in utils
 0660. 🐛 fix: correct typo in registration form
 0906. 📚 docs: add API usage examples
+0483. 📚 docs: update README with setup steps
