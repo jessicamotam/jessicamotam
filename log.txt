@@ -74141,3 +74141,4 @@
 0065. ✅ test: add integration test for /submit endpoint
 0960. ✅ test: increase coverage on auth module
 0127. 🐛 fix: fix null pointer exception on login
+0636. ✅ test: increase coverage on auth module
