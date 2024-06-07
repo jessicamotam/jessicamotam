@@ -45053,3 +45053,4 @@
 0251. ♻️ chore: update .gitignore
 0348. ✅ test: test user registration edge cases
 0028. 🎨 style: standardize quote style
+0117. ✅ test: increase coverage on auth module
