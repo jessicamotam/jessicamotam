@@ -13195,3 +13195,4 @@
 0105. 🐛 fix: correct typo in registration form
 0580. ♻️ chore: bump dependencies
 0767. 🔧 refactor: remove redundant code blocks
+0378. 🐛 fix: prevent crash on empty input
