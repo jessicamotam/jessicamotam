@@ -71632,3 +71632,4 @@
 0392. 🎨 style: remove trailing whitespace
 0274. 🔧 refactor: refactor quiz grading logic
 0682. ♻️ chore: rename env.example
+0526. ✨ feat: add user authentication
