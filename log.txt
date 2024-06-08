@@ -19547,3 +19547,4 @@
 0842. 🎨 style: remove trailing whitespace
 0865. ♻️ chore: add GitHub actions badge
 0078. ♻️ chore: update .gitignore
+0264. 🚀 perf: optimize database query for quiz results
