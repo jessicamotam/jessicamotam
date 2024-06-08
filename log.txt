@@ -29323,3 +29323,4 @@
 0317. ✅ test: test user registration edge cases
 0173. 🚀 perf: cache repeated calculations
 0737. 🐛 fix: handle 500 error in quiz API
+0692. ✅ test: add integration test for /submit endpoint
