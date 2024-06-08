@@ -8572,3 +8572,4 @@
 0313. 🎨 style: apply consistent indentation
 0580. ♻️ chore: bump dependencies
 0741. 🎨 style: apply consistent indentation
+0702. ✨ feat: add user authentication
