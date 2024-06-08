@@ -39045,3 +39045,4 @@
 0969. ✨ feat: create admin dashboard
 0331. 🐛 fix: fix broken CSS in mobile view
 0746. ♻️ chore: add GitHub actions badge
+0994. 🚀 perf: reduce image load time
