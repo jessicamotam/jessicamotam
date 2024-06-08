@@ -133,3 +133,4 @@
 0927. ♻️ chore: bump dependencies
 0619. ✨ feat: create admin dashboard
 0886. ♻️ chore: clean up unused files
+0246. ✅ test: add integration test for /submit endpoint
