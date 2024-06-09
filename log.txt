@@ -16096,3 +16096,4 @@
 0015. ✨ feat: implement quiz timer feature
 0117. ✅ test: increase coverage on auth module
 0822. 🔧 refactor: remove redundant code blocks
+0246. ✅ test: add integration test for /submit endpoint
