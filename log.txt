@@ -72680,3 +72680,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0108. 🎨 style: remove trailing whitespace
 0761. ✅ test: add unit test for quiz service
+0080. ✨ feat: support email verification
