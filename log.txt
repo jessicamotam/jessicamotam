@@ -70109,3 +70109,4 @@
 0131. 📚 docs: write FAQ section
 0425. 🔧 refactor: refactor quiz grading logic
 0878. 🔧 refactor: split large controller into smaller functions
+0365. 🚀 perf: reduce image load time
