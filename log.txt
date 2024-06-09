@@ -55000,3 +55000,4 @@
 0116. ✨ feat: support email verification
 0061. ✨ feat: create admin dashboard
 0442. 🎨 style: standardize quote style
+0329. 📚 docs: update README with setup steps
