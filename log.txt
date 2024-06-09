@@ -19448,3 +19448,4 @@
 0925. ✨ feat: add export to CSV option
 0572. ✨ feat: add user authentication
 0419. 🎨 style: remove trailing whitespace
+0779. 🔧 refactor: organize models into subfolders
