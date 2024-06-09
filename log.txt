@@ -1604,3 +1604,4 @@
 0216. 🎨 style: rename variables for clarity
 0240. 🔧 refactor: remove redundant code blocks
 0854. ♻️ chore: rename env.example
+0360. ✨ feat: add export to CSV option
