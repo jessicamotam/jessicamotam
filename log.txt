@@ -16728,3 +16728,4 @@
 0887. 📚 docs: add API usage examples
 0341. 🚀 perf: lazy-load components
 0766. 🎨 style: reformat files with black
+0898. 🐛 fix: fix broken CSS in mobile view
