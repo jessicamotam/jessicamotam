@@ -15485,3 +15485,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0886. ♻️ chore: clean up unused files
 0537. 🔧 refactor: remove redundant code blocks
+0511. 🐛 fix: fix broken CSS in mobile view
