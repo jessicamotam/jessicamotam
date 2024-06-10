@@ -17065,3 +17065,4 @@
 0412. ✅ test: increase coverage on auth module
 0605. ✨ feat: support email verification
 0338. ♻️ chore: add GitHub actions badge
+0271. ✅ test: add unit test for quiz service
