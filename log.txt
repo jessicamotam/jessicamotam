@@ -59154,3 +59154,4 @@
 0027. 📚 docs: clarify environment setup
 0251. ♻️ chore: update .gitignore
 0910. 🎨 style: remove trailing whitespace
+0887. 📚 docs: add API usage examples
