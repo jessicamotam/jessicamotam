@@ -57348,3 +57348,4 @@
 0404. 📚 docs: improve code comments in utils
 0515. 🚀 perf: optimize database query for quiz results
 0321. 🔧 refactor: organize models into subfolders
+0375. 🐛 fix: handle 500 error in quiz API
