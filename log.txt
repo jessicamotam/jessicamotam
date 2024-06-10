@@ -18110,3 +18110,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0697. ♻️ chore: bump dependencies
 0726. ✨ feat: enable dark mode toggle
+0737. 🐛 fix: handle 500 error in quiz API
