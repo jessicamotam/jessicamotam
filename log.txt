@@ -50859,3 +50859,4 @@
 0059. ♻️ chore: bump dependencies
 0685. ✅ test: test user registration edge cases
 0842. 🎨 style: remove trailing whitespace
+0110. 🐛 fix: prevent crash on empty input
