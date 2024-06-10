@@ -48762,3 +48762,4 @@
 0922. 📚 docs: write FAQ section
 0479. 🐛 fix: fix null pointer exception on login
 0080. ✨ feat: support email verification
+0549. ✨ feat: enable dark mode toggle
