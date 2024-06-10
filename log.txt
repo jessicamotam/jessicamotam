@@ -2947,3 +2947,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0966. 📚 docs: improve code comments in utils
 0643. 🎨 style: apply consistent indentation
+0231. 🔧 refactor: clean up auth middleware
