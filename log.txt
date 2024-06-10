@@ -84201,3 +84201,4 @@
 0591. ♻️ chore: clean up unused files
 0780. 📚 docs: add API usage examples
 0640. ♻️ chore: bump dependencies
+0383. 🐛 fix: fix broken CSS in mobile view
