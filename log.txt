@@ -6279,3 +6279,4 @@
 0555. ✨ feat: create admin dashboard
 0097. 🐛 fix: handle 500 error in quiz API
 0083. 🎨 style: reformat files with black
+0746. ♻️ chore: add GitHub actions badge
