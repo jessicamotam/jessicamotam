@@ -85741,3 +85741,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0957. 🐛 fix: fix null pointer exception on login
 0005. ✅ test: add unit test for quiz service
+0805. ♻️ chore: add GitHub actions badge
