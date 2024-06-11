@@ -7626,3 +7626,4 @@
 0212. 🎨 style: standardize quote style
 0594. 🎨 style: reformat files with black
 0030. 🐛 fix: fix null pointer exception on login
+0506. 🐛 fix: handle 500 error in quiz API
