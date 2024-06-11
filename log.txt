@@ -51602,3 +51602,4 @@
 0485. 📚 docs: update README with setup steps
 0524. ♻️ chore: rename env.example
 0085. ✨ feat: support email verification
+0843. 📚 docs: document token refresh logic
