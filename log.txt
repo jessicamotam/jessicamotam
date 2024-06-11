@@ -10759,3 +10759,4 @@
 0351. ✨ feat: add export to CSV option
 0899. 🚀 perf: cache repeated calculations
 0273. 🚀 perf: reduce image load time
+0605. ✨ feat: support email verification
