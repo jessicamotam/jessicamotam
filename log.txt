@@ -21313,3 +21313,4 @@
 0348. ✅ test: test user registration edge cases
 0607. 🐛 fix: prevent crash on empty input
 0471. ✨ feat: support email verification
+0132. ✅ test: add unit test for quiz service
