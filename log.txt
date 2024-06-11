@@ -42722,3 +42722,4 @@
 0002. 🚀 perf: cache repeated calculations
 0315. ✅ test: add integration test for /submit endpoint
 0056. ♻️ chore: rename env.example
+0711. 🐛 fix: fix broken CSS in mobile view
