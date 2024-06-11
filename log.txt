@@ -21720,3 +21720,4 @@
 0579. 📚 docs: clarify environment setup
 0317. ✅ test: test user registration edge cases
 0251. ♻️ chore: update .gitignore
+0563. 📚 docs: clarify environment setup
