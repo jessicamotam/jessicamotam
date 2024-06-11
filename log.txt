@@ -49566,3 +49566,4 @@
 0281. ✨ feat: support email verification
 0256. ✅ test: mock database connection in test suite
 1000. ✅ test: increase coverage on auth module
+0226. 🚀 perf: lazy-load components
