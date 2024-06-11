@@ -88821,3 +88821,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0473. 📚 docs: write FAQ section
 0725. 🚀 perf: lazy-load components
+0100. ♻️ chore: update .gitignore
