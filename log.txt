@@ -78236,3 +78236,4 @@
 0225. 🚀 perf: reduce image load time
 0650. ✅ test: add unit test for quiz service
 0916. ♻️ chore: bump dependencies
+0835. 🐛 fix: prevent crash on empty input
