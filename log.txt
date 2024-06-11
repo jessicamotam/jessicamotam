@@ -51106,3 +51106,4 @@
 0965. 🎨 style: reformat files with black
 0230. ✨ feat: create admin dashboard
 0053. ✅ test: increase coverage on auth module
+0565. ♻️ chore: add GitHub actions badge
