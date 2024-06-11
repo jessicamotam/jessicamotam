@@ -40188,3 +40188,4 @@
 0263. 📚 docs: add API usage examples
 0766. 🎨 style: reformat files with black
 0957. 🐛 fix: fix null pointer exception on login
+0203. 🚀 perf: lazy-load components
