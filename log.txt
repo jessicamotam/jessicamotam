@@ -16772,3 +16772,4 @@
 0373. 📚 docs: document token refresh logic
 0140. 🐛 fix: handle 500 error in quiz API
 0113. ✨ feat: add user authentication
+0136. 🚀 perf: lazy-load components
