@@ -51699,3 +51699,4 @@
 0987. ✨ feat: create admin dashboard
 0301. 🎨 style: apply consistent indentation
 0060. ♻️ chore: clean up unused files
+0737. 🐛 fix: handle 500 error in quiz API
