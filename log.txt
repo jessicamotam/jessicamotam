@@ -65692,3 +65692,4 @@
 0158. 📚 docs: clarify environment setup
 0656. 🎨 style: apply consistent indentation
 0691. 🎨 style: rename variables for clarity
+0354. 📚 docs: add API usage examples
