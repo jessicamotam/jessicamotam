@@ -81551,3 +81551,4 @@
 0003. ✅ test: increase coverage on auth module
 0281. ✨ feat: support email verification
 0767. 🔧 refactor: remove redundant code blocks
+0324. 📚 docs: document token refresh logic
