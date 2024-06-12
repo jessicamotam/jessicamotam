@@ -49453,3 +49453,4 @@
 0090. ✅ test: increase coverage on auth module
 0024. 📚 docs: write FAQ section
 0927. ♻️ chore: bump dependencies
+0627. 📚 docs: document token refresh logic
