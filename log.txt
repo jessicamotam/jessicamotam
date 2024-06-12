@@ -37280,3 +37280,4 @@
 0734. ✨ feat: add export to CSV option
 0360. ✨ feat: add export to CSV option
 0996. ✅ test: test user registration edge cases
+0295. 🎨 style: remove trailing whitespace
