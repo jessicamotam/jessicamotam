@@ -82696,3 +82696,4 @@
 0606. 📚 docs: improve code comments in utils
 0273. 🚀 perf: reduce image load time
 0643. 🎨 style: apply consistent indentation
+0618. ✨ feat: support email verification
