@@ -10210,3 +10210,4 @@
 0984. ♻️ chore: clean up unused files
 0430. 🐛 fix: fix null pointer exception on login
 0382. 📚 docs: improve code comments in utils
+0472. 🐛 fix: fix null pointer exception on login
