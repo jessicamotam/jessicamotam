@@ -78768,3 +78768,4 @@
 0448. 🐛 fix: correct typo in registration form
 0880. 🐛 fix: fix broken CSS in mobile view
 0264. 🚀 perf: optimize database query for quiz results
+0568. 🐛 fix: handle 500 error in quiz API
