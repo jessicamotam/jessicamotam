@@ -44562,3 +44562,4 @@
 0503. ♻️ chore: rename env.example
 0282. 🔧 refactor: remove redundant code blocks
 0384. 📚 docs: clarify environment setup
+0658. 🎨 style: rename variables for clarity
