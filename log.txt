@@ -74587,3 +74587,4 @@
 0826. 📚 docs: clarify environment setup
 0628. ♻️ chore: add GitHub actions badge
 0596. ♻️ chore: update .gitignore
+0351. ✨ feat: add export to CSV option
