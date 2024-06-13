@@ -42997,3 +42997,4 @@
 0699. 🎨 style: standardize quote style
 0944. ✨ feat: add user authentication
 0065. ✅ test: add integration test for /submit endpoint
+0562. 🔧 refactor: clean up auth middleware
