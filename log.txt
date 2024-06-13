@@ -1917,3 +1917,4 @@
 0275. 🎨 style: standardize quote style
 0595. ✨ feat: enable dark mode toggle
 0343. 🚀 perf: optimize database query for quiz results
+0485. 📚 docs: update README with setup steps
