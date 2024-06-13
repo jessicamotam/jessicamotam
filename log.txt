@@ -30581,3 +30581,4 @@
 0087. ✨ feat: add export to CSV option
 0567. 📚 docs: add API usage examples
 0162. ♻️ chore: add GitHub actions badge
+0085. ✨ feat: support email verification
