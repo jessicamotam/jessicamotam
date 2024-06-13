@@ -52704,3 +52704,4 @@
 0683. ✅ test: mock database connection in test suite
 0817. 🔧 refactor: remove redundant code blocks
 0586. 🎨 style: remove trailing whitespace
+0097. 🐛 fix: handle 500 error in quiz API
