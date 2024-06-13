@@ -7884,3 +7884,4 @@
 0382. 📚 docs: improve code comments in utils
 0109. 🚀 perf: lazy-load components
 0955. 🔧 refactor: remove redundant code blocks
+0566. 📚 docs: write FAQ section
