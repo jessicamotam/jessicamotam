@@ -81579,3 +81579,4 @@
 0833. ✨ feat: add user authentication
 0281. ✨ feat: support email verification
 0179. 🔧 refactor: split large controller into smaller functions
+0320. 📚 docs: update README with setup steps
