@@ -81586,3 +81586,4 @@
 0126. 🎨 style: rename variables for clarity
 0666. 🐛 fix: fix broken CSS in mobile view
 0368. 🚀 perf: lazy-load components
+0934. ✨ feat: support email verification
