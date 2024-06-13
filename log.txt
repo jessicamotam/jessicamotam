@@ -32123,3 +32123,4 @@
 0976. ✨ feat: implement quiz timer feature
 0929. ✨ feat: support email verification
 0333. 🚀 perf: cache repeated calculations
+0387. ✨ feat: enable dark mode toggle
