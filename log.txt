@@ -77387,3 +77387,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0180. ✨ feat: add export to CSV option
 0489. 🔧 refactor: organize models into subfolders
+0879. 🎨 style: standardize quote style
