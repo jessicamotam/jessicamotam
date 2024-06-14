@@ -57974,3 +57974,4 @@
 0379. ✨ feat: support email verification
 0605. ✨ feat: support email verification
 0742. 📚 docs: clarify environment setup
+0647. 🐛 fix: prevent crash on empty input
