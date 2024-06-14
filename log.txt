@@ -36363,3 +36363,4 @@
 0001. 🚀 perf: cache repeated calculations
 0879. 🎨 style: standardize quote style
 0871. ✅ test: add integration test for /submit endpoint
+0652. 🔧 refactor: organize models into subfolders
