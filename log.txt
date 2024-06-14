@@ -798,3 +798,4 @@
 0334. 🚀 perf: cache repeated calculations
 0550. 🔧 refactor: split large controller into smaller functions
 0964. ♻️ chore: clean up unused files
+0949. 📚 docs: write FAQ section
