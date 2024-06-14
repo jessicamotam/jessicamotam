@@ -74143,3 +74143,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0636. ✅ test: increase coverage on auth module
 0410. 🎨 style: reformat files with black
+0041. 🐛 fix: fix broken CSS in mobile view
