@@ -67473,3 +67473,4 @@
 0731. 🎨 style: standardize quote style
 0052. 🎨 style: standardize quote style
 0764. ✨ feat: add user authentication
+0460. 📚 docs: write FAQ section
