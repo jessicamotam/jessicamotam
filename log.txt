@@ -21999,3 +21999,4 @@
 0493. ✨ feat: add user authentication
 0387. ✨ feat: enable dark mode toggle
 0583. ✅ test: increase coverage on auth module
+0796. 🔧 refactor: refactor quiz grading logic
