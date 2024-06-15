@@ -16805,3 +16805,4 @@
 0149. ✨ feat: add export to CSV option
 0497. 🔧 refactor: refactor quiz grading logic
 0165. 🎨 style: remove trailing whitespace
+0996. ✅ test: test user registration edge cases
