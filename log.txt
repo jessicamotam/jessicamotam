@@ -20954,3 +20954,4 @@
 0166. 🚀 perf: cache repeated calculations
 0361. ✨ feat: support email verification
 0485. 📚 docs: update README with setup steps
+0508. ✅ test: add unit test for quiz service
