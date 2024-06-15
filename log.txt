@@ -21372,3 +21372,4 @@
 0332. 🎨 style: standardize quote style
 0469. 🚀 perf: lazy-load components
 0149. ✨ feat: add export to CSV option
+0942. ✅ test: increase coverage on auth module
