@@ -36741,3 +36741,4 @@
 0993. ✨ feat: implement quiz timer feature
 0680. ♻️ chore: add GitHub actions badge
 0379. ✨ feat: support email verification
+0781. 🚀 perf: reduce image load time
