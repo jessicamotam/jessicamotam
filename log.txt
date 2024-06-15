@@ -2633,3 +2633,4 @@
 0971. 🎨 style: standardize quote style
 0458. ✨ feat: create admin dashboard
 0863. 🐛 fix: correct typo in registration form
+0642. 🚀 perf: optimize database query for quiz results
