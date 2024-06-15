@@ -65229,3 +65229,4 @@
 0183. 🔧 refactor: split large controller into smaller functions
 0169. 📚 docs: add API usage examples
 0724. ✅ test: mock database connection in test suite
+0144. ✅ test: increase coverage on auth module
