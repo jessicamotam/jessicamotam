@@ -1240,3 +1240,4 @@
 0335. ♻️ chore: update .gitignore
 0222. 🐛 fix: handle 500 error in quiz API
 0804. ♻️ chore: add GitHub actions badge
+0650. ✅ test: add unit test for quiz service
