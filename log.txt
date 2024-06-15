@@ -1246,3 +1246,4 @@
 0756. ✨ feat: support email verification
 0994. 🚀 perf: reduce image load time
 0904. ✨ feat: implement quiz timer feature
+0451. ✨ feat: support email verification
