@@ -77391,3 +77391,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0615. 🐛 fix: correct typo in registration form
 0287. 📚 docs: write FAQ section
+0750. 🎨 style: apply consistent indentation
