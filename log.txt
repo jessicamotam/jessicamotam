@@ -84229,3 +84229,4 @@
 0555. ✨ feat: create admin dashboard
 0715. ✨ feat: create admin dashboard
 0235. 🐛 fix: fix null pointer exception on login
+0454. ♻️ chore: bump dependencies
