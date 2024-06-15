@@ -82979,3 +82979,4 @@
 0992. ♻️ chore: clean up unused files
 0715. ✨ feat: create admin dashboard
 0559. 🔧 refactor: split large controller into smaller functions
+0281. ✨ feat: support email verification
