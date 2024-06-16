@@ -75488,3 +75488,4 @@
 0186. ✅ test: test user registration edge cases
 0216. 🎨 style: rename variables for clarity
 0232. 🎨 style: apply consistent indentation
+0850. ♻️ chore: rename env.example
