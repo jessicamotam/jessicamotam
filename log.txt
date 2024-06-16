@@ -22265,3 +22265,4 @@
 0960. ✅ test: increase coverage on auth module
 0357. ✅ test: add unit test for quiz service
 0733. 🐛 fix: fix null pointer exception on login
+0381. ♻️ chore: clean up unused files
