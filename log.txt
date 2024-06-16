@@ -26939,3 +26939,4 @@
 0098. 🎨 style: rename variables for clarity
 0558. ✨ feat: enable dark mode toggle
 0246. ✅ test: add integration test for /submit endpoint
+0551. 📚 docs: write FAQ section
