@@ -29651,3 +29651,4 @@
 0421. 🔧 refactor: split large controller into smaller functions
 0774. 🔧 refactor: refactor quiz grading logic
 0864. 🐛 fix: correct typo in registration form
+0520. 🐛 fix: fix null pointer exception on login
