@@ -4338,3 +4338,4 @@
 0558. ✨ feat: enable dark mode toggle
 0406. ✨ feat: add export to CSV option
 0737. 🐛 fix: handle 500 error in quiz API
+0761. ✅ test: add unit test for quiz service
