@@ -56525,3 +56525,4 @@
 0888. 🚀 perf: lazy-load components
 0933. 📚 docs: clarify environment setup
 0912. 📚 docs: document token refresh logic
+0625. 🐛 fix: handle 500 error in quiz API
