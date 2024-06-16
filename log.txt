@@ -41632,3 +41632,4 @@
 0370. 🚀 perf: reduce image load time
 0680. ♻️ chore: add GitHub actions badge
 0776. ✅ test: add integration test for /submit endpoint
+0501. ✨ feat: add export to CSV option
