@@ -34934,3 +34934,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0725. 🚀 perf: lazy-load components
 0479. 🐛 fix: fix null pointer exception on login
+0770. ♻️ chore: rename env.example
