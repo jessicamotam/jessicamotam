@@ -42335,3 +42335,4 @@
 0618. ✨ feat: support email verification
 0262. 🎨 style: remove trailing whitespace
 0056. ♻️ chore: rename env.example
+0499. 🎨 style: reformat files with black
