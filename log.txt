@@ -48826,3 +48826,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0315. ✅ test: add integration test for /submit endpoint
 0984. ♻️ chore: clean up unused files
+0502. 📚 docs: update README with setup steps
