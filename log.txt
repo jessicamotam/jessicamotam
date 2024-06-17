@@ -68336,3 +68336,4 @@
 0353. ♻️ chore: rename env.example
 0038. 🎨 style: rename variables for clarity
 0980. 🎨 style: reformat files with black
+0415. 🐛 fix: handle 500 error in quiz API
