@@ -63818,3 +63818,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0393. 🚀 perf: lazy-load components
 0406. ✨ feat: add export to CSV option
+0295. 🎨 style: remove trailing whitespace
