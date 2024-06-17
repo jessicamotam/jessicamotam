@@ -40096,3 +40096,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0822. 🔧 refactor: remove redundant code blocks
 0361. ✨ feat: support email verification
+0397. 🐛 fix: handle 500 error in quiz API
