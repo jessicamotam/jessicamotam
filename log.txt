@@ -1968,3 +1968,4 @@
 0663. 🚀 perf: reduce image load time
 0240. 🔧 refactor: remove redundant code blocks
 0249. ✅ test: increase coverage on auth module
+0459. 🔧 refactor: organize models into subfolders
