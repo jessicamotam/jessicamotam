@@ -11691,3 +11691,4 @@
 0249. ✅ test: increase coverage on auth module
 0238. 🎨 style: apply consistent indentation
 0767. 🔧 refactor: remove redundant code blocks
+0618. ✨ feat: support email verification
