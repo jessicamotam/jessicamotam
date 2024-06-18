@@ -42478,3 +42478,4 @@
 0462. ♻️ chore: update .gitignore
 0866. 📚 docs: add API usage examples
 0583. ✅ test: increase coverage on auth module
+0647. 🐛 fix: prevent crash on empty input
