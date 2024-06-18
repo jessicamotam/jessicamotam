@@ -3432,3 +3432,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0727. ♻️ chore: add GitHub actions badge
 0551. 📚 docs: write FAQ section
+0650. ✅ test: add unit test for quiz service
