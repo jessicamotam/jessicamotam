@@ -6095,3 +6095,4 @@
 0012. 🚀 perf: cache repeated calculations
 0116. ✨ feat: support email verification
 0826. 📚 docs: clarify environment setup
+0366. 🔧 refactor: remove redundant code blocks
