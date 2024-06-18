@@ -32287,3 +32287,4 @@
 0351. ✨ feat: add export to CSV option
 0709. ♻️ chore: bump dependencies
 0270. ♻️ chore: rename env.example
+0207. 🐛 fix: prevent crash on empty input
