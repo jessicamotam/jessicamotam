@@ -34555,3 +34555,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0736. 🐛 fix: fix null pointer exception on login
 0577. ✨ feat: implement quiz timer feature
+0120. ✅ test: add integration test for /submit endpoint
