@@ -4493,3 +4493,4 @@
 0673. 🐛 fix: correct typo in registration form
 0264. 🚀 perf: optimize database query for quiz results
 0123. ✨ feat: implement quiz timer feature
+0652. 🔧 refactor: organize models into subfolders
