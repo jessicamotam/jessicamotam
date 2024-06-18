@@ -73317,3 +73317,4 @@
 0165. 🎨 style: remove trailing whitespace
 0083. 🎨 style: reformat files with black
 0865. ♻️ chore: add GitHub actions badge
+0926. 🔧 refactor: organize models into subfolders
