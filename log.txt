@@ -41813,3 +41813,4 @@
 0536. ✨ feat: add user authentication
 0095. ✅ test: mock database connection in test suite
 0934. ✨ feat: support email verification
+0373. 📚 docs: document token refresh logic
