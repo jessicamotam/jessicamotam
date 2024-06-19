@@ -39880,3 +39880,4 @@
 0054. ♻️ chore: update .gitignore
 0545. 🎨 style: standardize quote style
 0984. ♻️ chore: clean up unused files
+0787. ♻️ chore: rename env.example
