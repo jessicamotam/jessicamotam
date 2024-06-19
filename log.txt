@@ -22304,3 +22304,4 @@
 0526. ✨ feat: add user authentication
 0809. ♻️ chore: rename env.example
 0476. 🚀 perf: reduce image load time
+0356. 📚 docs: write FAQ section
