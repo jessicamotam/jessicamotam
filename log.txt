@@ -75286,3 +75286,4 @@
 0741. 🎨 style: apply consistent indentation
 0361. ✨ feat: support email verification
 0591. ♻️ chore: clean up unused files
+0820. 📚 docs: add API usage examples
