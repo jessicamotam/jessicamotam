@@ -87883,3 +87883,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0861. ♻️ chore: clean up unused files
 0669. ✨ feat: enable dark mode toggle
+0520. 🐛 fix: fix null pointer exception on login
