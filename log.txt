@@ -41297,3 +41297,4 @@
 0265. 🎨 style: reformat files with black
 0484. 🐛 fix: handle 500 error in quiz API
 0009. ✨ feat: enable dark mode toggle
+0401. 🚀 perf: reduce image load time
