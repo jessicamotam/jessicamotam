@@ -50482,3 +50482,4 @@
 0298. ♻️ chore: update .gitignore
 0165. 🎨 style: remove trailing whitespace
 0731. 🎨 style: standardize quote style
+0801. ✨ feat: enable dark mode toggle
