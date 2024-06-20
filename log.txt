@@ -72578,3 +72578,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0171. 🐛 fix: fix broken CSS in mobile view
 0086. 🐛 fix: correct typo in registration form
+0874. 🔧 refactor: split large controller into smaller functions
