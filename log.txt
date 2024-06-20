@@ -33787,3 +33787,4 @@
 0441. 📚 docs: add API usage examples
 0332. 🎨 style: standardize quote style
 0363. 📚 docs: clarify environment setup
+0346. ✅ test: mock database connection in test suite
