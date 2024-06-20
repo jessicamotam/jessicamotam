@@ -9164,3 +9164,4 @@
 0201. 🔧 refactor: clean up auth middleware
 0648. ♻️ chore: bump dependencies
 0520. 🐛 fix: fix null pointer exception on login
+0011. ✅ test: add unit test for quiz service
