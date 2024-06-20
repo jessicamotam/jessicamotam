@@ -55747,3 +55747,4 @@
 0392. 🎨 style: remove trailing whitespace
 0186. ✅ test: test user registration edge cases
 0114. ♻️ chore: update .gitignore
+0472. 🐛 fix: fix null pointer exception on login
