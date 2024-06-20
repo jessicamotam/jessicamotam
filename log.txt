@@ -12492,3 +12492,4 @@
 0029. 🚀 perf: lazy-load components
 0919. 🚀 perf: optimize database query for quiz results
 0192. ✨ feat: enable dark mode toggle
+0048. 📚 docs: update README with setup steps
