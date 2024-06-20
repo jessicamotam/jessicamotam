@@ -85884,3 +85884,4 @@
 0640. ♻️ chore: bump dependencies
 0828. ♻️ chore: add GitHub actions badge
 0204. 🎨 style: standardize quote style
+0661. ✅ test: add integration test for /submit endpoint
