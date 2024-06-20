@@ -36943,3 +36943,4 @@
 0173. 🚀 perf: cache repeated calculations
 0257. 📚 docs: clarify environment setup
 0648. ♻️ chore: bump dependencies
+0668. 🚀 perf: optimize database query for quiz results
