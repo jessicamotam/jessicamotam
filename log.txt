@@ -86250,3 +86250,4 @@
 0438. ♻️ chore: bump dependencies
 0781. 🚀 perf: reduce image load time
 0937. 🐛 fix: handle 500 error in quiz API
+0869. ♻️ chore: bump dependencies
