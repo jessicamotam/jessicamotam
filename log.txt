@@ -49651,3 +49651,4 @@
 0358. 🚀 perf: reduce image load time
 0059. ♻️ chore: bump dependencies
 0066. 🔧 refactor: clean up auth middleware
+0459. 🔧 refactor: organize models into subfolders
