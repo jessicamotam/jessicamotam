@@ -39742,3 +39742,4 @@
 0044. ✅ test: add unit test for quiz service
 0646. ✅ test: test user registration edge cases
 0793. 📚 docs: clarify environment setup
+0821. ✅ test: add integration test for /submit endpoint
