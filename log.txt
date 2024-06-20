@@ -41795,3 +41795,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0533. ♻️ chore: add GitHub actions badge
 0228. 🔧 refactor: remove redundant code blocks
+0557. 🔧 refactor: clean up auth middleware
