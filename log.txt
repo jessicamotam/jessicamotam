@@ -75813,3 +75813,4 @@
 0731. 🎨 style: standardize quote style
 0939. 📚 docs: update README with setup steps
 0320. 📚 docs: update README with setup steps
+0547. 📚 docs: write FAQ section
