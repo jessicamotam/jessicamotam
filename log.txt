@@ -61924,3 +61924,4 @@
 0318. 🔧 refactor: refactor quiz grading logic
 0781. 🚀 perf: reduce image load time
 0018. 🔧 refactor: organize models into subfolders
+0678. ✨ feat: add user authentication
