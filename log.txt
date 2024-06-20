@@ -37229,3 +37229,4 @@
 0499. 🎨 style: reformat files with black
 0457. 🐛 fix: handle 500 error in quiz API
 1000. ✅ test: increase coverage on auth module
+0586. 🎨 style: remove trailing whitespace
