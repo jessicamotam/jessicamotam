@@ -49378,3 +49378,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0957. 🐛 fix: fix null pointer exception on login
 0503. ♻️ chore: rename env.example
+0811. 🎨 style: reformat files with black
