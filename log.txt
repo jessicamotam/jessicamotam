@@ -2718,3 +2718,4 @@
 0842. 🎨 style: remove trailing whitespace
 0402. 🎨 style: reformat files with black
 0955. 🔧 refactor: remove redundant code blocks
+0711. 🐛 fix: fix broken CSS in mobile view
