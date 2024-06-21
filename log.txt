@@ -26138,3 +26138,4 @@
 0312. ✨ feat: add user authentication
 0296. 🔧 refactor: organize models into subfolders
 0598. 🔧 refactor: remove redundant code blocks
+0319. 🐛 fix: handle 500 error in quiz API
