@@ -20077,3 +20077,4 @@
 0960. ✅ test: increase coverage on auth module
 0900. 🐛 fix: handle 500 error in quiz API
 0541. 🐛 fix: correct typo in registration form
+0491. 🚀 perf: lazy-load components
