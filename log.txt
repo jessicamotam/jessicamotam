@@ -33898,3 +33898,4 @@
 0761. ✅ test: add unit test for quiz service
 0294. 🐛 fix: prevent crash on empty input
 0862. ♻️ chore: bump dependencies
+0075. ✅ test: mock database connection in test suite
