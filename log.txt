@@ -26862,3 +26862,4 @@
 0560. 🎨 style: rename variables for clarity
 0786. ✨ feat: enable dark mode toggle
 0379. ✨ feat: support email verification
+0789. ✨ feat: create admin dashboard
