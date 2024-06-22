@@ -9814,3 +9814,4 @@
 0876. ♻️ chore: rename env.example
 0927. ♻️ chore: bump dependencies
 0151. ✅ test: add unit test for quiz service
+0392. 🎨 style: remove trailing whitespace
