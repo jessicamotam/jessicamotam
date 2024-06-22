@@ -23968,3 +23968,4 @@
 0466. 🚀 perf: optimize database query for quiz results
 0868. ✅ test: add unit test for quiz service
 0417. 🎨 style: rename variables for clarity
+0367. 🐛 fix: fix null pointer exception on login
