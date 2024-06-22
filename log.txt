@@ -80794,3 +80794,4 @@
 0946. ✅ test: add unit test for quiz service
 0712. 🎨 style: apply consistent indentation
 0248. 🐛 fix: handle 500 error in quiz API
+0776. ✅ test: add integration test for /submit endpoint
