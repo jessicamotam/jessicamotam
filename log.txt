@@ -60154,3 +60154,4 @@
 0584. 🚀 perf: lazy-load components
 0720. ✨ feat: add export to CSV option
 0976. ✨ feat: implement quiz timer feature
+0225. 🚀 perf: reduce image load time
