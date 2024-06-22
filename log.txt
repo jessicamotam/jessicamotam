@@ -5999,3 +5999,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0452. ✨ feat: implement quiz timer feature
 0397. 🐛 fix: handle 500 error in quiz API
+0611. ✅ test: test user registration edge cases
