@@ -3067,3 +3067,4 @@
 0152. ✨ feat: add user authentication
 0795. 📚 docs: update README with setup steps
 0590. 🐛 fix: fix null pointer exception on login
+0733. 🐛 fix: fix null pointer exception on login
