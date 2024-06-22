@@ -81376,3 +81376,4 @@
 0135. ✅ test: test user registration edge cases
 0766. 🎨 style: reformat files with black
 0898. 🐛 fix: fix broken CSS in mobile view
+0780. 📚 docs: add API usage examples
