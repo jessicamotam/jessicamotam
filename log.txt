@@ -88137,3 +88137,4 @@
 0764. ✨ feat: add user authentication
 0949. 📚 docs: write FAQ section
 0113. ✨ feat: add user authentication
+0856. 🐛 fix: fix null pointer exception on login
