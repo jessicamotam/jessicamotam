@@ -14951,3 +14951,4 @@
 0556. ✨ feat: support email verification
 0390. 🎨 style: standardize quote style
 0712. 🎨 style: apply consistent indentation
+0600. 🐛 fix: prevent crash on empty input
