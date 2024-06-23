@@ -28272,3 +28272,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0614. 🚀 perf: reduce image load time
 0822. 🔧 refactor: remove redundant code blocks
+0933. 📚 docs: clarify environment setup
