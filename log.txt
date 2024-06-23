@@ -32409,3 +32409,4 @@
 0551. 📚 docs: write FAQ section
 0978. 🐛 fix: prevent crash on empty input
 0811. 🎨 style: reformat files with black
+0136. 🚀 perf: lazy-load components
