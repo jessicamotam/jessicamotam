@@ -37215,3 +37215,4 @@
 0090. ✅ test: increase coverage on auth module
 0618. ✨ feat: support email verification
 0878. 🔧 refactor: split large controller into smaller functions
+0730. ✅ test: test user registration edge cases
