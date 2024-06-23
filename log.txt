@@ -64564,3 +64564,4 @@
 0376. 🎨 style: apply consistent indentation
 0969. ✨ feat: create admin dashboard
 0178. ✨ feat: support email verification
+0353. ♻️ chore: rename env.example
