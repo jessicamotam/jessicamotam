@@ -20688,3 +20688,4 @@
 0269. ✅ test: test user registration edge cases
 0356. 📚 docs: write FAQ section
 0653. 🐛 fix: prevent crash on empty input
+0865. ♻️ chore: add GitHub actions badge
