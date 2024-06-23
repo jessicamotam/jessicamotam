@@ -12441,3 +12441,4 @@
 0784. ♻️ chore: clean up unused files
 0408. ♻️ chore: add GitHub actions badge
 0439. 🐛 fix: correct typo in registration form
+0961. 📚 docs: add API usage examples
