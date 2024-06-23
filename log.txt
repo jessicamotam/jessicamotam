@@ -18796,3 +18796,4 @@
 0793. 📚 docs: clarify environment setup
 0994. 🚀 perf: reduce image load time
 0715. ✨ feat: create admin dashboard
+0948. 🐛 fix: fix broken CSS in mobile view
