@@ -75244,3 +75244,4 @@
 0325. 🎨 style: rename variables for clarity
 0953. 🎨 style: remove trailing whitespace
 0078. ♻️ chore: update .gitignore
+0329. 📚 docs: update README with setup steps
