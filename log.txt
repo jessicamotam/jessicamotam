@@ -42168,3 +42168,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0901. ✨ feat: add user authentication
 0589. 🐛 fix: fix broken CSS in mobile view
+0852. ✨ feat: enable dark mode toggle
