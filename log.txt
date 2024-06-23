@@ -68279,3 +68279,4 @@
 0064. 📚 docs: clarify environment setup
 0609. 🐛 fix: handle 500 error in quiz API
 0381. ♻️ chore: clean up unused files
+0100. ♻️ chore: update .gitignore
