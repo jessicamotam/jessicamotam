@@ -89819,3 +89819,4 @@
 0513. ♻️ chore: bump dependencies
 0764. ✨ feat: add user authentication
 0970. ♻️ chore: update .gitignore
+1000. ✅ test: increase coverage on auth module
