@@ -21111,3 +21111,4 @@
 0942. ✅ test: increase coverage on auth module
 0323. 📚 docs: clarify environment setup
 0549. ✨ feat: enable dark mode toggle
+0690. 🚀 perf: lazy-load components
