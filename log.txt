@@ -87204,3 +87204,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0585. 🚀 perf: lazy-load components
 0213. ✅ test: add integration test for /submit endpoint
+0647. 🐛 fix: prevent crash on empty input
