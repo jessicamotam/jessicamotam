@@ -76575,3 +76575,4 @@
 0260. ✨ feat: create admin dashboard
 0232. 🎨 style: apply consistent indentation
 0785. ✨ feat: enable dark mode toggle
+0824. 🚀 perf: lazy-load components
