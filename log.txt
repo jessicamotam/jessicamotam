@@ -81840,3 +81840,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0101. 📚 docs: clarify environment setup
 0095. ✅ test: mock database connection in test suite
+0866. 📚 docs: add API usage examples
