@@ -18356,3 +18356,4 @@
 0859. ✨ feat: create admin dashboard
 0388. 🎨 style: reformat files with black
 0689. 🎨 style: reformat files with black
+0295. 🎨 style: remove trailing whitespace
