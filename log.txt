@@ -30566,3 +30566,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0845. 🚀 perf: cache repeated calculations
 0242. ♻️ chore: clean up unused files
+0742. 📚 docs: clarify environment setup
