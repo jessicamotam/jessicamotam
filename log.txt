@@ -82567,3 +82567,4 @@
 0784. ♻️ chore: clean up unused files
 0794. ♻️ chore: clean up unused files
 0329. 📚 docs: update README with setup steps
+0219. ✅ test: increase coverage on auth module
