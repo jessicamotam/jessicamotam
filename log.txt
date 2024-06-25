@@ -86951,3 +86951,4 @@
 0174. 📚 docs: clarify environment setup
 0128. ♻️ chore: rename env.example
 0094. 📚 docs: document token refresh logic
+0988. 🐛 fix: fix broken CSS in mobile view
