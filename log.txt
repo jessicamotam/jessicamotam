@@ -41770,3 +41770,4 @@
 0495. 🔧 refactor: remove redundant code blocks
 0484. 🐛 fix: handle 500 error in quiz API
 0851. ✅ test: mock database connection in test suite
+0023. 📚 docs: clarify environment setup
