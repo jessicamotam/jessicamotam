@@ -71569,3 +71569,4 @@
 0749. ✨ feat: support email verification
 0491. 🚀 perf: lazy-load components
 0814. 🔧 refactor: remove redundant code blocks
+0144. ✅ test: increase coverage on auth module
