@@ -71152,3 +71152,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0177. 📚 docs: add API usage examples
 0717. 🔧 refactor: refactor quiz grading logic
+0900. 🐛 fix: handle 500 error in quiz API
