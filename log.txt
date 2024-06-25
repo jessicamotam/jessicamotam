@@ -75282,3 +75282,4 @@
 0962. ✨ feat: create admin dashboard
 0356. 📚 docs: write FAQ section
 0855. 🎨 style: reformat files with black
+0298. ♻️ chore: update .gitignore
