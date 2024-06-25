@@ -25870,3 +25870,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0437. 📚 docs: clarify environment setup
 0163. ✨ feat: implement quiz timer feature
+0595. ✨ feat: enable dark mode toggle
