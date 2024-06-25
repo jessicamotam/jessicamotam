@@ -8061,3 +8061,4 @@
 0334. 🚀 perf: cache repeated calculations
 0319. 🐛 fix: handle 500 error in quiz API
 0178. ✨ feat: support email verification
+0977. 🔧 refactor: organize models into subfolders
