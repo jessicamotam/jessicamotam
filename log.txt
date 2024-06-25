@@ -83955,3 +83955,4 @@
 0570. 🎨 style: apply consistent indentation
 0363. 📚 docs: clarify environment setup
 0710. 🐛 fix: fix broken CSS in mobile view
+0833. ✨ feat: add user authentication
