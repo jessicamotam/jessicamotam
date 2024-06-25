@@ -45734,3 +45734,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0766. 🎨 style: reformat files with black
 0124. 🎨 style: reformat files with black
+0196. ♻️ chore: bump dependencies
