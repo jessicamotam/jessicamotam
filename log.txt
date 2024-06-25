@@ -3851,3 +3851,4 @@
 0593. 🐛 fix: correct typo in registration form
 0272. 🔧 refactor: remove redundant code blocks
 0619. ✨ feat: create admin dashboard
+0731. 🎨 style: standardize quote style
