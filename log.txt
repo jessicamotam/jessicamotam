@@ -6312,3 +6312,4 @@
 0949. 📚 docs: write FAQ section
 0297. 🎨 style: remove trailing whitespace
 0266. 🔧 refactor: remove redundant code blocks
+0564. 📚 docs: clarify environment setup
