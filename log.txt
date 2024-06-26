@@ -43720,3 +43720,4 @@
 0640. ♻️ chore: bump dependencies
 0161. ✨ feat: create admin dashboard
 0764. ✨ feat: add user authentication
+0234. ♻️ chore: rename env.example
