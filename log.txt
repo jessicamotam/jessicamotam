@@ -68081,3 +68081,4 @@
 0098. 🎨 style: rename variables for clarity
 0377. ✨ feat: add user authentication
 0777. 📚 docs: document token refresh logic
+0989. 📚 docs: write FAQ section
