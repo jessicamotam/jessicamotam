@@ -23355,3 +23355,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0651. ✨ feat: enable dark mode toggle
 0232. 🎨 style: apply consistent indentation
+0136. 🚀 perf: lazy-load components
