@@ -39173,3 +39173,4 @@
 0346. ✅ test: mock database connection in test suite
 0501. ✨ feat: add export to CSV option
 0227. ✅ test: test user registration edge cases
+0648. ♻️ chore: bump dependencies
