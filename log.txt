@@ -65239,3 +65239,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0827. 🚀 perf: optimize database query for quiz results
 0613. 🐛 fix: prevent crash on empty input
+0357. ✅ test: add unit test for quiz service
