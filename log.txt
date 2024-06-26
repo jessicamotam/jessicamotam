@@ -58707,3 +58707,4 @@
 0412. ✅ test: increase coverage on auth module
 0858. ♻️ chore: clean up unused files
 0916. ♻️ chore: bump dependencies
+0594. 🎨 style: reformat files with black
