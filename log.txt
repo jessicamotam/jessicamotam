@@ -34256,3 +34256,4 @@
 0989. 📚 docs: write FAQ section
 0682. ♻️ chore: rename env.example
 0911. ✅ test: increase coverage on auth module
+0895. ✨ feat: support email verification
