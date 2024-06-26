@@ -74561,3 +74561,4 @@
 0715. ✨ feat: create admin dashboard
 0237. 🎨 style: standardize quote style
 0192. ✨ feat: enable dark mode toggle
+0625. 🐛 fix: handle 500 error in quiz API
