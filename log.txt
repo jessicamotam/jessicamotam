@@ -44654,3 +44654,4 @@
 0756. ✨ feat: support email verification
 0449. ✅ test: add unit test for quiz service
 0902. ✨ feat: enable dark mode toggle
+0107. 🐛 fix: prevent crash on empty input
