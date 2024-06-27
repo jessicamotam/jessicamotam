@@ -74644,3 +74644,4 @@
 0646. ✅ test: test user registration edge cases
 0842. 🎨 style: remove trailing whitespace
 0732. ♻️ chore: add GitHub actions badge
+0412. ✅ test: increase coverage on auth module
