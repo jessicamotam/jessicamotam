@@ -45064,3 +45064,4 @@
 0090. ✅ test: increase coverage on auth module
 0063. 🐛 fix: handle 500 error in quiz API
 0428. 🐛 fix: fix null pointer exception on login
+0834. ✅ test: increase coverage on auth module
