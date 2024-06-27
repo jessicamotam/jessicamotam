@@ -3605,3 +3605,4 @@
 0070. ✨ feat: implement quiz timer feature
 0363. 📚 docs: clarify environment setup
 0009. ✨ feat: enable dark mode toggle
+0239. 🎨 style: standardize quote style
