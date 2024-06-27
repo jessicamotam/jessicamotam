@@ -85213,3 +85213,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0833. ✨ feat: add user authentication
 0351. ✨ feat: add export to CSV option
+0694. 🎨 style: rename variables for clarity
