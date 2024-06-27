@@ -54298,3 +54298,4 @@
 0232. 🎨 style: apply consistent indentation
 0455. ♻️ chore: clean up unused files
 0842. 🎨 style: remove trailing whitespace
+0829. 🔧 refactor: organize models into subfolders
