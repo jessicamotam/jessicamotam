@@ -51553,3 +51553,4 @@
 0739. 🎨 style: remove trailing whitespace
 0316. 🐛 fix: fix broken CSS in mobile view
 0426. ✅ test: add integration test for /submit endpoint
+0349. ✅ test: increase coverage on auth module
