@@ -71235,3 +71235,4 @@
 0679. ♻️ chore: bump dependencies
 0096. 🐛 fix: prevent crash on empty input
 0547. 📚 docs: write FAQ section
+0026. 🔧 refactor: clean up auth middleware
