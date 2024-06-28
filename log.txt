@@ -36399,3 +36399,4 @@
 0124. 🎨 style: reformat files with black
 0709. ♻️ chore: bump dependencies
 0784. ♻️ chore: clean up unused files
+0180. ✨ feat: add export to CSV option
