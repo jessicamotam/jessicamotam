@@ -17692,3 +17692,4 @@
 0195. 📚 docs: clarify environment setup
 0540. ♻️ chore: add GitHub actions badge
 0955. 🔧 refactor: remove redundant code blocks
+0605. ✨ feat: support email verification
