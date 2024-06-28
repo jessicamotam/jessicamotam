@@ -58797,3 +58797,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0667. ✨ feat: add export to CSV option
 0376. 🎨 style: apply consistent indentation
+0245. 🐛 fix: resolve issue with date parsing
