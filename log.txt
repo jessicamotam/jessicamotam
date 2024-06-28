@@ -89174,3 +89174,4 @@
 0336. ✨ feat: add export to CSV option
 0296. 🔧 refactor: organize models into subfolders
 0204. 🎨 style: standardize quote style
+0408. ♻️ chore: add GitHub actions badge
