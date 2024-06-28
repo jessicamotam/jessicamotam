@@ -117,3 +117,4 @@
 0416. 🎨 style: rename variables for clarity
 0785. ✨ feat: enable dark mode toggle
 0934. ✨ feat: support email verification
+0532. 🔧 refactor: split large controller into smaller functions
