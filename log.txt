@@ -5058,3 +5058,4 @@
 0234. ♻️ chore: rename env.example
 0135. ✅ test: test user registration edge cases
 0731. 🎨 style: standardize quote style
+0293. ✅ test: add integration test for /submit endpoint
