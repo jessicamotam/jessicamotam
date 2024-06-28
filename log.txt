@@ -67165,3 +67165,4 @@
 0932. ✅ test: add integration test for /submit endpoint
 0584. 🚀 perf: lazy-load components
 0335. ♻️ chore: update .gitignore
+0222. 🐛 fix: handle 500 error in quiz API
