@@ -40116,3 +40116,4 @@
 0993. ✨ feat: implement quiz timer feature
 0420. 🚀 perf: reduce image load time
 0284. ✨ feat: implement quiz timer feature
+0265. 🎨 style: reformat files with black
