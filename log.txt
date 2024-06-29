@@ -89698,3 +89698,4 @@
 0413. ✅ test: add integration test for /submit endpoint
 0121. ✨ feat: support email verification
 0490. ✨ feat: create admin dashboard
+0713. 🐛 fix: handle 500 error in quiz API
