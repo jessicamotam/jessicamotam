@@ -71161,3 +71161,4 @@
 0340. 🚀 perf: optimize database query for quiz results
 0339. 📚 docs: update README with setup steps
 0650. ✅ test: add unit test for quiz service
+0467. ✅ test: add integration test for /submit endpoint
