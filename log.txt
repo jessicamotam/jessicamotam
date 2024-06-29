@@ -87289,3 +87289,4 @@
 0204. 🎨 style: standardize quote style
 0144. ✅ test: increase coverage on auth module
 0926. 🔧 refactor: organize models into subfolders
+0201. 🔧 refactor: clean up auth middleware
