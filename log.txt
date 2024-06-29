@@ -35437,3 +35437,4 @@
 0048. 📚 docs: update README with setup steps
 0862. ♻️ chore: bump dependencies
 0561. 📚 docs: write FAQ section
+0335. ♻️ chore: update .gitignore
