@@ -90720,3 +90720,4 @@
 0725. 🚀 perf: lazy-load components
 0499. 🎨 style: reformat files with black
 0325. 🎨 style: rename variables for clarity
+0356. 📚 docs: write FAQ section
