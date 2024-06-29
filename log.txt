@@ -77852,3 +77852,4 @@
 0424. ✨ feat: add user authentication
 0190. 🎨 style: rename variables for clarity
 0532. 🔧 refactor: split large controller into smaller functions
+0900. 🐛 fix: handle 500 error in quiz API
