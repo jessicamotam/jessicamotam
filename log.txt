@@ -38110,3 +38110,4 @@
 0309. 🔧 refactor: refactor quiz grading logic
 0709. ♻️ chore: bump dependencies
 0508. ✅ test: add unit test for quiz service
+0725. 🚀 perf: lazy-load components
