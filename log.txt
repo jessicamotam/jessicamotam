@@ -51701,3 +51701,4 @@
 0060. ♻️ chore: clean up unused files
 0737. 🐛 fix: handle 500 error in quiz API
 0101. 📚 docs: clarify environment setup
+0998. 🐛 fix: fix null pointer exception on login
