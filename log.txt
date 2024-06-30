@@ -25025,3 +25025,4 @@
 0080. ✨ feat: support email verification
 0833. ✨ feat: add user authentication
 0987. ✨ feat: create admin dashboard
+0576. ♻️ chore: update .gitignore
