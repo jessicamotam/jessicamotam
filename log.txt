@@ -62799,3 +62799,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0759. 🔧 refactor: organize models into subfolders
 0898. 🐛 fix: fix broken CSS in mobile view
+0281. ✨ feat: support email verification
