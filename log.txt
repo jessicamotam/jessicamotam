@@ -68835,3 +68835,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0538. 🐛 fix: fix broken CSS in mobile view
 0439. 🐛 fix: correct typo in registration form
+0133. 🐛 fix: fix null pointer exception on login
