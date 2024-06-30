@@ -67032,3 +67032,4 @@
 0061. ✨ feat: create admin dashboard
 0843. 📚 docs: document token refresh logic
 0584. 🚀 perf: lazy-load components
+0958. 🐛 fix: prevent crash on empty input
