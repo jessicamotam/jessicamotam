@@ -66887,3 +66887,4 @@
 0053. ✅ test: increase coverage on auth module
 0699. 🎨 style: standardize quote style
 0671. 🐛 fix: fix null pointer exception on login
+0384. 📚 docs: clarify environment setup
