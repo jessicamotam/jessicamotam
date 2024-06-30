@@ -39451,3 +39451,4 @@
 0501. ✨ feat: add export to CSV option
 0305. ✨ feat: enable dark mode toggle
 0718. 🐛 fix: resolve issue with date parsing
+0253. 📚 docs: update README with setup steps
