@@ -84484,3 +84484,4 @@
 0570. 🎨 style: apply consistent indentation
 0032. 🎨 style: apply consistent indentation
 0934. ✨ feat: support email verification
+0828. ♻️ chore: add GitHub actions badge
