@@ -37657,3 +37657,4 @@
 0183. 🔧 refactor: split large controller into smaller functions
 0447. ♻️ chore: bump dependencies
 0195. 📚 docs: clarify environment setup
+0253. 📚 docs: update README with setup steps
