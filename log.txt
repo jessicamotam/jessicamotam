@@ -83700,3 +83700,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0344. ♻️ chore: add GitHub actions badge
 0291. 📚 docs: write FAQ section
+0772. 🐛 fix: fix null pointer exception on login
