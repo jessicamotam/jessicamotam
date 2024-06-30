@@ -48452,3 +48452,4 @@
 0436. ✅ test: add integration test for /submit endpoint
 0605. ✨ feat: support email verification
 0475. 🔧 refactor: clean up auth middleware
+0840. 🔧 refactor: refactor quiz grading logic
