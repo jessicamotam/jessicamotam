@@ -56352,3 +56352,4 @@
 0210. 🎨 style: apply consistent indentation
 0095. ✅ test: mock database connection in test suite
 0172. 📚 docs: add API usage examples
+0485. 📚 docs: update README with setup steps
