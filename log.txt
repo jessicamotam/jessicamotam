@@ -82555,3 +82555,4 @@
 0942. ✅ test: increase coverage on auth module
 0546. 🐛 fix: fix null pointer exception on login
 0664. ✅ test: add unit test for quiz service
+0388. 🎨 style: reformat files with black
