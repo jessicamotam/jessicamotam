@@ -42397,3 +42397,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0588. 🔧 refactor: organize models into subfolders
 0139. 📚 docs: document token refresh logic
+0871. ✅ test: add integration test for /submit endpoint
