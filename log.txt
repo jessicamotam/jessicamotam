@@ -20079,3 +20079,4 @@
 0541. 🐛 fix: correct typo in registration form
 0491. 🚀 perf: lazy-load components
 0112. ✨ feat: enable dark mode toggle
+0133. 🐛 fix: fix null pointer exception on login
