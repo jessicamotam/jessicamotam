@@ -12721,3 +12721,4 @@
 0799. ♻️ chore: clean up unused files
 0154. 🐛 fix: prevent crash on empty input
 0141. 📚 docs: document token refresh logic
+0472. 🐛 fix: fix null pointer exception on login
