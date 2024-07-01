@@ -46102,3 +46102,4 @@
 0379. ✨ feat: support email verification
 0602. 🔧 refactor: remove redundant code blocks
 0205. 📚 docs: update README with setup steps
+0979. 🎨 style: standardize quote style
