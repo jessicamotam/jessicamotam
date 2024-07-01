@@ -5826,3 +5826,4 @@
 0356. 📚 docs: write FAQ section
 0895. ✨ feat: support email verification
 0666. 🐛 fix: fix broken CSS in mobile view
+0689. 🎨 style: reformat files with black
