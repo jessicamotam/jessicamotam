@@ -74756,3 +74756,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0166. 🚀 perf: cache repeated calculations
 0605. ✨ feat: support email verification
+0675. 🔧 refactor: organize models into subfolders
