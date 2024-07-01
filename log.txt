@@ -6097,3 +6097,4 @@
 0826. 📚 docs: clarify environment setup
 0366. 🔧 refactor: remove redundant code blocks
 0089. 🔧 refactor: remove redundant code blocks
+0412. ✅ test: increase coverage on auth module
