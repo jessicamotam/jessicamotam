@@ -14123,3 +14123,4 @@
 0079. 🐛 fix: correct typo in registration form
 0877. 🚀 perf: optimize database query for quiz results
 0603. 🐛 fix: fix broken CSS in mobile view
+0426. ✅ test: add integration test for /submit endpoint
