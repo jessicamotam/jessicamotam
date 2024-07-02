@@ -46362,3 +46362,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0487. 🎨 style: reformat files with black
 0993. ✨ feat: implement quiz timer feature
+0281. ✨ feat: support email verification
