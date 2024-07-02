@@ -20164,3 +20164,4 @@
 0386. 🚀 perf: optimize database query for quiz results
 0303. 🎨 style: rename variables for clarity
 0576. ♻️ chore: update .gitignore
+0479. 🐛 fix: fix null pointer exception on login
