@@ -60060,3 +60060,4 @@
 0388. 🎨 style: reformat files with black
 0329. 📚 docs: update README with setup steps
 0194. 🎨 style: standardize quote style
+0378. 🐛 fix: prevent crash on empty input
