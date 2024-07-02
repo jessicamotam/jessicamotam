@@ -65709,3 +65709,4 @@
 0165. 🎨 style: remove trailing whitespace
 0513. ♻️ chore: bump dependencies
 0270. ♻️ chore: rename env.example
+0724. ✅ test: mock database connection in test suite
