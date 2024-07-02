@@ -39142,3 +39142,4 @@
 0499. 🎨 style: reformat files with black
 0075. ✅ test: mock database connection in test suite
 0115. 🚀 perf: reduce image load time
+0788. 📚 docs: add API usage examples
