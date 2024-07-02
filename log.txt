@@ -72424,3 +72424,4 @@
 0326. 🚀 perf: cache repeated calculations
 0085. ✨ feat: support email verification
 0138. 🎨 style: rename variables for clarity
+0568. 🐛 fix: handle 500 error in quiz API
