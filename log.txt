@@ -35522,3 +35522,4 @@
 0997. ✅ test: increase coverage on auth module
 0106. 🎨 style: reformat files with black
 0202. 🔧 refactor: refactor quiz grading logic
+0685. ✅ test: test user registration edge cases
