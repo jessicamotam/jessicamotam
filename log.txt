@@ -32403,3 +32403,4 @@
 0530. 🔧 refactor: refactor quiz grading logic
 0395. 📚 docs: write FAQ section
 0343. 🚀 perf: optimize database query for quiz results
+0578. ✅ test: add integration test for /submit endpoint
