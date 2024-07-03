@@ -35525,3 +35525,4 @@
 0685. ✅ test: test user registration edge cases
 0329. 📚 docs: update README with setup steps
 0194. 🎨 style: standardize quote style
+0934. ✨ feat: support email verification
