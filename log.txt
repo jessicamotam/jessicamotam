@@ -60187,3 +60187,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0830. 🎨 style: apply consistent indentation
 0918. ✨ feat: enable dark mode toggle
+0395. 📚 docs: write FAQ section
