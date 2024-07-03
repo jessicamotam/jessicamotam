@@ -90638,3 +90638,4 @@
 0569. 📚 docs: document token refresh logic
 0059. ♻️ chore: bump dependencies
 0357. ✅ test: add unit test for quiz service
+0349. ✅ test: increase coverage on auth module
