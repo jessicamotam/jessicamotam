@@ -9370,3 +9370,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0333. 🚀 perf: cache repeated calculations
 0841. 🚀 perf: optimize database query for quiz results
+0480. ♻️ chore: add GitHub actions badge
