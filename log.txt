@@ -44968,3 +44968,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0351. ✨ feat: add export to CSV option
 0604. 📚 docs: add API usage examples
+0375. 🐛 fix: handle 500 error in quiz API
