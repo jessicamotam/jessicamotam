@@ -73469,3 +73469,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0994. 🚀 perf: reduce image load time
 0009. ✨ feat: enable dark mode toggle
+0473. 📚 docs: write FAQ section
