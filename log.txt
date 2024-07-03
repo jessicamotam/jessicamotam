@@ -53940,3 +53940,4 @@
 0079. 🐛 fix: correct typo in registration form
 0772. 🐛 fix: fix null pointer exception on login
 0687. 🎨 style: remove trailing whitespace
+0940. 📚 docs: document token refresh logic
