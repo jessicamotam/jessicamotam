@@ -85889,3 +85889,4 @@
 0678. ✨ feat: add user authentication
 0639. 🐛 fix: correct typo in registration form
 0971. 🎨 style: standardize quote style
+0406. ✨ feat: add export to CSV option
