@@ -51569,3 +51569,4 @@
 0961. 📚 docs: add API usage examples
 0548. 📚 docs: write FAQ section
 0388. 🎨 style: reformat files with black
+0227. ✅ test: test user registration edge cases
