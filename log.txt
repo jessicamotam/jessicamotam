@@ -49622,3 +49622,4 @@
 0739. 🎨 style: remove trailing whitespace
 0918. ✨ feat: enable dark mode toggle
 0852. ✨ feat: enable dark mode toggle
+0552. 🐛 fix: fix null pointer exception on login
