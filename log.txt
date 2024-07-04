@@ -88405,3 +88405,4 @@
 0269. ✅ test: test user registration edge cases
 0555. ✨ feat: create admin dashboard
 0678. ✨ feat: add user authentication
+0281. ✨ feat: support email verification
