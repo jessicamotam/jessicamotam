@@ -78495,3 +78495,4 @@
 0146. 🎨 style: apply consistent indentation
 0784. ♻️ chore: clean up unused files
 0330. ✅ test: test user registration edge cases
+0084. 🐛 fix: handle 500 error in quiz API
