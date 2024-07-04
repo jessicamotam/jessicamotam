@@ -47184,3 +47184,4 @@
 0356. 📚 docs: write FAQ section
 0775. 🐛 fix: fix null pointer exception on login
 0395. 📚 docs: write FAQ section
+0089. 🔧 refactor: remove redundant code blocks
