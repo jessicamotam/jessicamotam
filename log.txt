@@ -35479,3 +35479,4 @@
 0083. 🎨 style: reformat files with black
 0499. 🎨 style: reformat files with black
 0913. 🚀 perf: optimize database query for quiz results
+0545. 🎨 style: standardize quote style
