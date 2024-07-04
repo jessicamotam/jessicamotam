@@ -4135,3 +4135,4 @@
 0094. 📚 docs: document token refresh logic
 0982. 🚀 perf: lazy-load components
 0501. ✨ feat: add export to CSV option
+0512. 🚀 perf: reduce image load time
