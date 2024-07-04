@@ -77289,3 +77289,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0303. 🎨 style: rename variables for clarity
 0977. 🔧 refactor: organize models into subfolders
+0770. ♻️ chore: rename env.example
