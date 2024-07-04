@@ -14080,3 +14080,4 @@
 0576. ♻️ chore: update .gitignore
 0757. 🔧 refactor: remove redundant code blocks
 0093. ✅ test: add unit test for quiz service
+0429. ✨ feat: add user authentication
