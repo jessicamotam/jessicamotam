@@ -57892,3 +57892,4 @@
 0163. ✨ feat: implement quiz timer feature
 0536. ✨ feat: add user authentication
 0226. 🚀 perf: lazy-load components
+0319. 🐛 fix: handle 500 error in quiz API
