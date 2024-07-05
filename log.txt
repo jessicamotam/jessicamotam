@@ -8878,3 +8878,4 @@
 0300. ✨ feat: add export to CSV option
 0805. ♻️ chore: add GitHub actions badge
 0328. 🐛 fix: resolve issue with date parsing
+0963. 🚀 perf: reduce image load time
