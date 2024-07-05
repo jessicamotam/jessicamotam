@@ -8847,3 +8847,4 @@
 0501. ✨ feat: add export to CSV option
 0032. 🎨 style: apply consistent indentation
 0975. 🎨 style: apply consistent indentation
+0410. 🎨 style: reformat files with black
