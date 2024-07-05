@@ -81295,3 +81295,4 @@
 0908. ♻️ chore: bump dependencies
 0893. 🐛 fix: handle 500 error in quiz API
 0242. ♻️ chore: clean up unused files
+0086. 🐛 fix: correct typo in registration form
