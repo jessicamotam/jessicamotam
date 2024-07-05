@@ -51020,3 +51020,4 @@
 0256. ✅ test: mock database connection in test suite
 0053. ✅ test: increase coverage on auth module
 0336. ✨ feat: add export to CSV option
+0102. ✨ feat: support email verification
