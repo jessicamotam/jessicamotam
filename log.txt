@@ -54096,3 +54096,4 @@
 0448. 🐛 fix: correct typo in registration form
 0464. 🎨 style: remove trailing whitespace
 0974. ✨ feat: add export to CSV option
+0579. 📚 docs: clarify environment setup
