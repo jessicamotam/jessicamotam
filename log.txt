@@ -14178,3 +14178,4 @@
 0854. ♻️ chore: rename env.example
 0898. 🐛 fix: fix broken CSS in mobile view
 0574. ✨ feat: enable dark mode toggle
+0470. 🎨 style: remove trailing whitespace
