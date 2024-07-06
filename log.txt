@@ -65597,3 +65597,4 @@
 0799. ♻️ chore: clean up unused files
 0756. ✨ feat: support email verification
 0789. ✨ feat: create admin dashboard
+0800. 🚀 perf: optimize database query for quiz results
