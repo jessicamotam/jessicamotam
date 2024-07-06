@@ -34245,3 +34245,4 @@
 0035. ✅ test: increase coverage on auth module
 0117. ✅ test: increase coverage on auth module
 0086. 🐛 fix: correct typo in registration form
+0942. ✅ test: increase coverage on auth module
