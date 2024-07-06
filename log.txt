@@ -18861,3 +18861,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0345. 📚 docs: document token refresh logic
 0283. ♻️ chore: add GitHub actions badge
+0448. 🐛 fix: correct typo in registration form
