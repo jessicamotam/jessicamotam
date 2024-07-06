@@ -52533,3 +52533,4 @@
 0092. 🚀 perf: reduce image load time
 0968. 🎨 style: standardize quote style
 0555. ✨ feat: create admin dashboard
+0795. 📚 docs: update README with setup steps
