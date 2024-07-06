@@ -86575,3 +86575,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0600. 🐛 fix: prevent crash on empty input
 0388. 🎨 style: reformat files with black
+0170. ✅ test: increase coverage on auth module
