@@ -36604,3 +36604,4 @@
 0848. 📚 docs: update README with setup steps
 0669. ✨ feat: enable dark mode toggle
 0667. ✨ feat: add export to CSV option
+0768. 🎨 style: remove trailing whitespace
