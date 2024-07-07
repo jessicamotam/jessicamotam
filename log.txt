@@ -45417,3 +45417,4 @@
 0884. 📚 docs: clarify environment setup
 0372. ✨ feat: add user authentication
 0363. 📚 docs: clarify environment setup
+0971. 🎨 style: standardize quote style
