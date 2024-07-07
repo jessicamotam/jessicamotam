@@ -48589,3 +48589,4 @@
 0802. 🔧 refactor: remove redundant code blocks
 0996. ✅ test: test user registration edge cases
 0531. 🐛 fix: prevent crash on empty input
+0604. 📚 docs: add API usage examples
