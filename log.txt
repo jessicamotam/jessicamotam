@@ -13588,3 +13588,4 @@
 0637. 🎨 style: apply consistent indentation
 0788. 📚 docs: add API usage examples
 0036. 🔧 refactor: clean up auth middleware
+0887. 📚 docs: add API usage examples
