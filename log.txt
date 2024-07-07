@@ -81681,3 +81681,4 @@
 0798. 🚀 perf: reduce image load time
 0844. 📚 docs: update README with setup steps
 0988. 🐛 fix: fix broken CSS in mobile view
+0036. 🔧 refactor: clean up auth middleware
