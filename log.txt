@@ -11031,3 +11031,4 @@
 0597. 🚀 perf: cache repeated calculations
 0315. ✅ test: add integration test for /submit endpoint
 0139. 📚 docs: document token refresh logic
+0783. 🐛 fix: handle 500 error in quiz API
