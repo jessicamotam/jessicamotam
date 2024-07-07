@@ -78193,3 +78193,4 @@
 0204. 🎨 style: standardize quote style
 0530. 🔧 refactor: refactor quiz grading logic
 0521. 🎨 style: standardize quote style
+0391. 🐛 fix: fix null pointer exception on login
