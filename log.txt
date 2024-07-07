@@ -37747,3 +37747,4 @@
 0166. 🚀 perf: cache repeated calculations
 0886. ♻️ chore: clean up unused files
 0198. 📚 docs: clarify environment setup
+0779. 🔧 refactor: organize models into subfolders
