@@ -9501,3 +9501,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0078. ♻️ chore: update .gitignore
 0600. 🐛 fix: prevent crash on empty input
+0790. 📚 docs: write FAQ section
