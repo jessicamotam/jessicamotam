@@ -32487,3 +32487,4 @@
 0715. ✨ feat: create admin dashboard
 0257. 📚 docs: clarify environment setup
 0103. 🔧 refactor: remove redundant code blocks
+0206. 🐛 fix: handle 500 error in quiz API
