@@ -10356,3 +10356,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0534. 🔧 refactor: split large controller into smaller functions
 0706. ✨ feat: support email verification
+0111. 📚 docs: update README with setup steps
