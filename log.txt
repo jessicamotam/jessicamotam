@@ -80517,3 +80517,4 @@
 0726. ✨ feat: enable dark mode toggle
 0928. 🎨 style: apply consistent indentation
 0855. 🎨 style: reformat files with black
+0440. 📚 docs: update README with setup steps
