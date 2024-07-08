@@ -12495,3 +12495,4 @@
 0048. 📚 docs: update README with setup steps
 0663. 🚀 perf: reduce image load time
 0750. 🎨 style: apply consistent indentation
+0471. ✨ feat: support email verification
