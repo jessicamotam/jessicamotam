@@ -22338,3 +22338,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0996. ✅ test: test user registration edge cases
 0695. ✨ feat: create admin dashboard
+0307. ✨ feat: support email verification
