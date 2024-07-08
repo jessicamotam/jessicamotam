@@ -53805,3 +53805,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0190. 🎨 style: rename variables for clarity
 0383. 🐛 fix: fix broken CSS in mobile view
+0085. ✨ feat: support email verification
