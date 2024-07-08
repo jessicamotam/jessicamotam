@@ -46228,3 +46228,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0796. 🔧 refactor: refactor quiz grading logic
 0272. 🔧 refactor: remove redundant code blocks
+0290. ✅ test: test user registration edge cases
