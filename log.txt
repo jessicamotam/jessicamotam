@@ -67549,3 +67549,4 @@
 0419. 🎨 style: remove trailing whitespace
 0087. ✨ feat: add export to CSV option
 0106. 🎨 style: reformat files with black
+0615. 🐛 fix: correct typo in registration form
