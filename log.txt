@@ -38149,3 +38149,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0604. 📚 docs: add API usage examples
 0179. 🔧 refactor: split large controller into smaller functions
+0220. 🐛 fix: fix null pointer exception on login
