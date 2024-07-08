@@ -33594,3 +33594,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0910. 🎨 style: remove trailing whitespace
 0398. 🚀 perf: cache repeated calculations
+0099. 🚀 perf: reduce image load time
