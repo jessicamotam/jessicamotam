@@ -68270,3 +68270,4 @@
 0440. 📚 docs: update README with setup steps
 0140. 🐛 fix: handle 500 error in quiz API
 0852. ✨ feat: enable dark mode toggle
+0692. ✅ test: add integration test for /submit endpoint
