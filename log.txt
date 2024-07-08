@@ -73506,3 +73506,4 @@
 0076. 🎨 style: reformat files with black
 0959. 🐛 fix: fix null pointer exception on login
 0086. 🐛 fix: correct typo in registration form
+0364. 🐛 fix: resolve issue with date parsing
