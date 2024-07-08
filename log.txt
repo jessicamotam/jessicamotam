@@ -60671,3 +60671,4 @@
 0451. ✨ feat: support email verification
 0973. 🔧 refactor: organize models into subfolders
 0542. 🔧 refactor: organize models into subfolders
+0040. 🔧 refactor: clean up auth middleware
