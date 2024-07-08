@@ -19964,3 +19964,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0176. 🔧 refactor: remove redundant code blocks
 0972. 🔧 refactor: refactor quiz grading logic
+0588. 🔧 refactor: organize models into subfolders
