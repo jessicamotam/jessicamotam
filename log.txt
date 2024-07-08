@@ -22257,3 +22257,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0309. 🔧 refactor: refactor quiz grading logic
 0298. ♻️ chore: update .gitignore
+0294. 🐛 fix: prevent crash on empty input
