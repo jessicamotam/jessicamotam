@@ -60204,3 +60204,4 @@
 0350. 🚀 perf: cache repeated calculations
 0387. ✨ feat: enable dark mode toggle
 0957. 🐛 fix: fix null pointer exception on login
+0189. 📚 docs: clarify environment setup
