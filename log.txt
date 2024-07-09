@@ -90771,3 +90771,4 @@
 0953. 🎨 style: remove trailing whitespace
 0792. 🎨 style: standardize quote style
 0224. 🐛 fix: fix broken CSS in mobile view
+0483. 📚 docs: update README with setup steps
