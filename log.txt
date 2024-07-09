@@ -47397,3 +47397,4 @@
 0673. 🐛 fix: correct typo in registration form
 0657. 🎨 style: standardize quote style
 0121. ✨ feat: support email verification
+0864. 🐛 fix: correct typo in registration form
