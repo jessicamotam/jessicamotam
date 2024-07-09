@@ -72686,3 +72686,4 @@
 0303. 🎨 style: rename variables for clarity
 0891. ✨ feat: create admin dashboard
 0153. ♻️ chore: rename env.example
+0162. ♻️ chore: add GitHub actions badge
