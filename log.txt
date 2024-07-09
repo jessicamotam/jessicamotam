@@ -79695,3 +79695,4 @@
 0838. 🎨 style: standardize quote style
 0592. 📚 docs: add API usage examples
 0884. 📚 docs: clarify environment setup
+0981. 🚀 perf: lazy-load components
