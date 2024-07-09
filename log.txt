@@ -75809,3 +75809,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0864. 🐛 fix: correct typo in registration form
 0372. ✨ feat: add user authentication
+0612. ✅ test: test user registration edge cases
