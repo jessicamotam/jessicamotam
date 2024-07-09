@@ -73189,3 +73189,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0248. 🐛 fix: handle 500 error in quiz API
 0541. 🐛 fix: correct typo in registration form
+0624. ✅ test: add unit test for quiz service
