@@ -2311,3 +2311,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0575. ✅ test: add unit test for quiz service
 0574. ✨ feat: enable dark mode toggle
+0587. 🔧 refactor: remove redundant code blocks
