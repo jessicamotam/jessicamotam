@@ -753,3 +753,4 @@
 0418. ✅ test: mock database connection in test suite
 0169. 📚 docs: add API usage examples
 0027. 📚 docs: clarify environment setup
+0900. 🐛 fix: handle 500 error in quiz API
