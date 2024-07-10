@@ -63269,3 +63269,4 @@
 0013. ✅ test: increase coverage on auth module
 0801. ✨ feat: enable dark mode toggle
 0151. ✅ test: add unit test for quiz service
+0578. ✅ test: add integration test for /submit endpoint
