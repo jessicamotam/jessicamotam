@@ -89059,3 +89059,4 @@
 0797. 📚 docs: add API usage examples
 0830. 🎨 style: apply consistent indentation
 0553. 🐛 fix: correct typo in registration form
+0971. 🎨 style: standardize quote style
