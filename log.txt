@@ -41419,3 +41419,4 @@
 0684. 🚀 perf: reduce image load time
 0125. ✅ test: add integration test for /submit endpoint
 0401. 🚀 perf: reduce image load time
+0507. 🔧 refactor: clean up auth middleware
