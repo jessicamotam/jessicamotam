@@ -75834,3 +75834,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0775. 🐛 fix: fix null pointer exception on login
 0235. 🐛 fix: fix null pointer exception on login
+0186. ✅ test: test user registration edge cases
