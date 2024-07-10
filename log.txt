@@ -21178,3 +21178,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0865. ♻️ chore: add GitHub actions badge
 0221. ✨ feat: add user authentication
+0096. 🐛 fix: prevent crash on empty input
