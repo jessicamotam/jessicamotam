@@ -38703,3 +38703,4 @@
 0715. ✨ feat: create admin dashboard
 0368. 🚀 perf: lazy-load components
 0538. 🐛 fix: fix broken CSS in mobile view
+0454. ♻️ chore: bump dependencies
