@@ -40015,3 +40015,4 @@
 0382. 📚 docs: improve code comments in utils
 0602. 🔧 refactor: remove redundant code blocks
 0682. ♻️ chore: rename env.example
+0926. 🔧 refactor: organize models into subfolders
