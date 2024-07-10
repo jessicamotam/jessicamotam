@@ -81943,3 +81943,4 @@
 0612. ✅ test: test user registration edge cases
 0288. 🔧 refactor: refactor quiz grading logic
 0031. 📚 docs: document token refresh logic
+0960. ✅ test: increase coverage on auth module
