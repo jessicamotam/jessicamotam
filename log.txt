@@ -46089,3 +46089,4 @@
 0173. 🚀 perf: cache repeated calculations
 0585. 🚀 perf: lazy-load components
 0933. 📚 docs: clarify environment setup
+0468. 📚 docs: update README with setup steps
