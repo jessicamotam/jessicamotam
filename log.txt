@@ -43588,3 +43588,4 @@
 0921. 🐛 fix: correct typo in registration form
 0107. 🐛 fix: prevent crash on empty input
 0984. ♻️ chore: clean up unused files
+0545. 🎨 style: standardize quote style
