@@ -76228,3 +76228,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0727. ♻️ chore: add GitHub actions badge
 0124. 🎨 style: reformat files with black
+0025. 🚀 perf: optimize database query for quiz results
