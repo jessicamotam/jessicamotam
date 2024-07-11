@@ -37235,3 +37235,4 @@
 0678. ✨ feat: add user authentication
 0534. 🔧 refactor: split large controller into smaller functions
 0460. 📚 docs: write FAQ section
+0940. 📚 docs: document token refresh logic
