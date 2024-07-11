@@ -512,3 +512,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0908. ♻️ chore: bump dependencies
 0842. 🎨 style: remove trailing whitespace
+0307. ✨ feat: support email verification
