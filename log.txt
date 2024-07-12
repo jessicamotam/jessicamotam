@@ -83250,3 +83250,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0360. ✨ feat: add export to CSV option
 0649. 📚 docs: update README with setup steps
+0756. ✨ feat: support email verification
