@@ -47885,3 +47885,4 @@
 0906. 📚 docs: add API usage examples
 0506. 🐛 fix: handle 500 error in quiz API
 0107. 🐛 fix: prevent crash on empty input
+0488. ♻️ chore: add GitHub actions badge
