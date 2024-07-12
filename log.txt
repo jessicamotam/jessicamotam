@@ -70119,3 +70119,4 @@
 0167. 🚀 perf: reduce image load time
 0677. 📚 docs: add API usage examples
 0402. 🎨 style: reformat files with black
+0967. ♻️ chore: add GitHub actions badge
