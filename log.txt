@@ -36241,3 +36241,4 @@
 0844. 📚 docs: update README with setup steps
 0577. ✨ feat: implement quiz timer feature
 0340. 🚀 perf: optimize database query for quiz results
+0977. 🔧 refactor: organize models into subfolders
