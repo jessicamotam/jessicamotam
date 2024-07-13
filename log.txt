@@ -49052,3 +49052,4 @@
 0219. ✅ test: increase coverage on auth module
 0817. 🔧 refactor: remove redundant code blocks
 0245. 🐛 fix: resolve issue with date parsing
+0121. ✨ feat: support email verification
