@@ -72561,3 +72561,4 @@
 0695. ✨ feat: create admin dashboard
 0953. 🎨 style: remove trailing whitespace
 0424. ✨ feat: add user authentication
+0935. 📚 docs: update README with setup steps
