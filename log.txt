@@ -42551,3 +42551,4 @@
 0659. 📚 docs: add API usage examples
 0732. ♻️ chore: add GitHub actions badge
 0380. 🐛 fix: fix null pointer exception on login
+0989. 📚 docs: write FAQ section
