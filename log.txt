@@ -62421,3 +62421,4 @@
 0133. 🐛 fix: fix null pointer exception on login
 0579. 📚 docs: clarify environment setup
 0121. ✨ feat: support email verification
+0482. ✨ feat: add export to CSV option
