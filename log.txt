@@ -21079,3 +21079,4 @@
 0361. ✨ feat: support email verification
 0721. 🚀 perf: optimize database query for quiz results
 0074. ♻️ chore: add GitHub actions badge
+0359. 🔧 refactor: clean up auth middleware
