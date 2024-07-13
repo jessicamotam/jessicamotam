@@ -49804,3 +49804,4 @@
 0648. ♻️ chore: bump dependencies
 0097. 🐛 fix: handle 500 error in quiz API
 0656. 🎨 style: apply consistent indentation
+0556. ✨ feat: support email verification
