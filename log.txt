@@ -33673,3 +33673,4 @@
 0447. ♻️ chore: bump dependencies
 0292. 📚 docs: clarify environment setup
 0880. 🐛 fix: fix broken CSS in mobile view
+0591. ♻️ chore: clean up unused files
