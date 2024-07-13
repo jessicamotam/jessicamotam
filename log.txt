@@ -7393,3 +7393,4 @@
 0501. ✨ feat: add export to CSV option
 0409. 🚀 perf: lazy-load components
 0455. ♻️ chore: clean up unused files
+0775. 🐛 fix: fix null pointer exception on login
