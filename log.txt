@@ -9089,3 +9089,4 @@
 0756. ✨ feat: support email verification
 0211. 🔧 refactor: remove redundant code blocks
 0952. 🔧 refactor: split large controller into smaller functions
+0248. 🐛 fix: handle 500 error in quiz API
