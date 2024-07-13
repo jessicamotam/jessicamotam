@@ -23745,3 +23745,4 @@
 0725. 🚀 perf: lazy-load components
 0014. 🔧 refactor: remove redundant code blocks
 0187. ✨ feat: support email verification
+0193. 🚀 perf: optimize database query for quiz results
