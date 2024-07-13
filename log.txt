@@ -40841,3 +40841,4 @@
 0610. 🚀 perf: lazy-load components
 0333. 🚀 perf: cache repeated calculations
 0777. 📚 docs: document token refresh logic
+0923. ✨ feat: support email verification
