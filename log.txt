@@ -24044,3 +24044,4 @@
 0947. 📚 docs: write FAQ section
 0028. 🎨 style: standardize quote style
 0541. 🐛 fix: correct typo in registration form
+0258. 🐛 fix: prevent crash on empty input
