@@ -12473,3 +12473,4 @@
 0594. 🎨 style: reformat files with black
 0406. ✨ feat: add export to CSV option
 0079. 🐛 fix: correct typo in registration form
+0536. ✨ feat: add user authentication
