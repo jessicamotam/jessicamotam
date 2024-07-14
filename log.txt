@@ -88227,3 +88227,4 @@
 0706. ✨ feat: support email verification
 0901. ✨ feat: add user authentication
 0813. 🔧 refactor: organize models into subfolders
+0787. ♻️ chore: rename env.example
