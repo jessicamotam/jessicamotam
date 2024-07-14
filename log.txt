@@ -52204,3 +52204,4 @@
 0758. 🚀 perf: optimize database query for quiz results
 0122. ✨ feat: support email verification
 0549. ✨ feat: enable dark mode toggle
+0676. 🐛 fix: prevent crash on empty input
