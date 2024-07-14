@@ -50882,3 +50882,4 @@
 0821. ✅ test: add integration test for /submit endpoint
 0670. ✨ feat: add export to CSV option
 0713. 🐛 fix: handle 500 error in quiz API
+0605. ✨ feat: support email verification
