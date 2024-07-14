@@ -50740,3 +50740,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0045. 🎨 style: apply consistent indentation
 0662. ♻️ chore: clean up unused files
+0578. ✅ test: add integration test for /submit endpoint
