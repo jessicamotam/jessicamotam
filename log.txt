@@ -87690,3 +87690,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0898. 🐛 fix: fix broken CSS in mobile view
 0731. 🎨 style: standardize quote style
+0278. 🔧 refactor: clean up auth middleware
