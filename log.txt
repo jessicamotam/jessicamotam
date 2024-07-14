@@ -51508,3 +51508,4 @@
 0529. 📚 docs: write FAQ section
 0548. 📚 docs: write FAQ section
 0988. 🐛 fix: fix broken CSS in mobile view
+0777. 📚 docs: document token refresh logic
