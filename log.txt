@@ -5417,3 +5417,4 @@
 0031. 📚 docs: document token refresh logic
 0018. 🔧 refactor: organize models into subfolders
 0310. 🔧 refactor: refactor quiz grading logic
+0781. 🚀 perf: reduce image load time
