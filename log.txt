@@ -51075,3 +51075,4 @@
 0492. 🎨 style: remove trailing whitespace
 0634. 🎨 style: reformat files with black
 0100. ♻️ chore: update .gitignore
+0129. 🔧 refactor: organize models into subfolders
