@@ -28341,3 +28341,4 @@
 0541. 🐛 fix: correct typo in registration form
 0058. ♻️ chore: add GitHub actions badge
 0390. 🎨 style: standardize quote style
+0244. ✨ feat: add export to CSV option
