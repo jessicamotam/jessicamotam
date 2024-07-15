@@ -990,3 +990,4 @@
 0931. 🚀 perf: reduce image load time
 0529. 📚 docs: write FAQ section
 0869. ♻️ chore: bump dependencies
+0759. 🔧 refactor: organize models into subfolders
