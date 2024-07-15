@@ -30537,3 +30537,4 @@
 0987. ✨ feat: create admin dashboard
 0483. 📚 docs: update README with setup steps
 0839. 🎨 style: apply consistent indentation
+0380. 🐛 fix: fix null pointer exception on login
