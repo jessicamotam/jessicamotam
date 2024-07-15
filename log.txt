@@ -67213,3 +67213,4 @@
 0305. ✨ feat: enable dark mode toggle
 0458. ✨ feat: create admin dashboard
 0008. 🚀 perf: reduce image load time
+0484. 🐛 fix: handle 500 error in quiz API
