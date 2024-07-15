@@ -551,3 +551,4 @@
 0313. 🎨 style: apply consistent indentation
 0007. 🎨 style: rename variables for clarity
 0549. ✨ feat: enable dark mode toggle
+0133. 🐛 fix: fix null pointer exception on login
