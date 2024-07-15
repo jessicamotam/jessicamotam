@@ -30529,3 +30529,4 @@
 0468. 📚 docs: update README with setup steps
 0622. 🎨 style: apply consistent indentation
 0997. ✅ test: increase coverage on auth module
+0195. 📚 docs: clarify environment setup
