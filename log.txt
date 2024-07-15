@@ -80626,3 +80626,4 @@
 0197. 📚 docs: update README with setup steps
 0964. ♻️ chore: clean up unused files
 0962. ✨ feat: create admin dashboard
+0567. 📚 docs: add API usage examples
