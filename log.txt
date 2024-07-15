@@ -89143,3 +89143,4 @@
 0050. ✨ feat: enable dark mode toggle
 0257. 📚 docs: clarify environment setup
 0676. 🐛 fix: prevent crash on empty input
+0654. ✨ feat: create admin dashboard
