@@ -11784,3 +11784,4 @@
 0146. 🎨 style: apply consistent indentation
 0593. 🐛 fix: correct typo in registration form
 0460. 📚 docs: write FAQ section
+0754. 🐛 fix: handle 500 error in quiz API
