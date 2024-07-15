@@ -10075,3 +10075,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0566. 📚 docs: write FAQ section
 0281. ✨ feat: support email verification
+0243. 🔧 refactor: clean up auth middleware
