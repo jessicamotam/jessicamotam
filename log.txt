@@ -70767,3 +70767,4 @@
 0859. ✨ feat: create admin dashboard
 0914. ✅ test: test user registration edge cases
 0569. 📚 docs: document token refresh logic
+0698. 🐛 fix: handle 500 error in quiz API
