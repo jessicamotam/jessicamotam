@@ -31710,3 +31710,4 @@
 0623. 🎨 style: standardize quote style
 0228. 🔧 refactor: remove redundant code blocks
 0037. 🐛 fix: correct typo in registration form
+0503. ♻️ chore: rename env.example
