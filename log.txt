@@ -48385,3 +48385,4 @@
 0786. ✨ feat: enable dark mode toggle
 0274. 🔧 refactor: refactor quiz grading logic
 0144. ✅ test: increase coverage on auth module
+0613. 🐛 fix: prevent crash on empty input
