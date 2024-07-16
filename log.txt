@@ -29053,3 +29053,4 @@
 0062. ♻️ chore: update .gitignore
 0037. 🐛 fix: correct typo in registration form
 0289. 🐛 fix: resolve issue with date parsing
+0977. 🔧 refactor: organize models into subfolders
