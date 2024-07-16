@@ -52030,3 +52030,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0185. 📚 docs: write FAQ section
 0362. 📚 docs: add API usage examples
+0586. 🎨 style: remove trailing whitespace
