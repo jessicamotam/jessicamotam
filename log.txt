@@ -52459,3 +52459,4 @@
 0108. 🎨 style: remove trailing whitespace
 0181. ♻️ chore: add GitHub actions badge
 0682. ♻️ chore: rename env.example
+0699. 🎨 style: standardize quote style
