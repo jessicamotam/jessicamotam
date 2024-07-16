@@ -90266,3 +90266,4 @@
 0210. 🎨 style: apply consistent indentation
 0108. 🎨 style: remove trailing whitespace
 0970. ♻️ chore: update .gitignore
+0690. 🚀 perf: lazy-load components
