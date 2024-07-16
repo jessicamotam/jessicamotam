@@ -40836,3 +40836,4 @@
 0003. ✅ test: increase coverage on auth module
 0990. ♻️ chore: rename env.example
 0727. ♻️ chore: add GitHub actions badge
+0169. 📚 docs: add API usage examples
