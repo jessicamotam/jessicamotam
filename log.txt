@@ -12407,3 +12407,4 @@
 0357. ✅ test: add unit test for quiz service
 0098. 🎨 style: rename variables for clarity
 0101. 📚 docs: clarify environment setup
+0102. ✨ feat: support email verification
