@@ -12013,3 +12013,4 @@
 0869. ♻️ chore: bump dependencies
 0948. 🐛 fix: fix broken CSS in mobile view
 0662. ♻️ chore: clean up unused files
+0087. ✨ feat: add export to CSV option
