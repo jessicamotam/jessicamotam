@@ -49339,3 +49339,4 @@
 0453. 🎨 style: standardize quote style
 0566. 📚 docs: write FAQ section
 0230. ✨ feat: create admin dashboard
+0283. ♻️ chore: add GitHub actions badge
