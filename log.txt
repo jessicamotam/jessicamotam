@@ -32029,3 +32029,4 @@
 0219. ✅ test: increase coverage on auth module
 0219. ✅ test: increase coverage on auth module
 0550. 🔧 refactor: split large controller into smaller functions
+0160. ♻️ chore: bump dependencies
