@@ -12845,3 +12845,4 @@
 0100. ♻️ chore: update .gitignore
 0195. 📚 docs: clarify environment setup
 0511. 🐛 fix: fix broken CSS in mobile view
+0293. ✅ test: add integration test for /submit endpoint
