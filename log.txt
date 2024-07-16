@@ -71053,3 +71053,4 @@
 0227. ✅ test: test user registration edge cases
 0366. 🔧 refactor: remove redundant code blocks
 0568. 🐛 fix: handle 500 error in quiz API
+0100. ♻️ chore: update .gitignore
