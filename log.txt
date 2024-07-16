@@ -66891,3 +66891,4 @@
 0734. ✨ feat: add export to CSV option
 0985. 📚 docs: document token refresh logic
 0597. 🚀 perf: cache repeated calculations
+0024. 📚 docs: write FAQ section
