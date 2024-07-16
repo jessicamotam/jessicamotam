@@ -33344,3 +33344,4 @@
 0266. 🔧 refactor: remove redundant code blocks
 0929. ✨ feat: support email verification
 0307. ✨ feat: support email verification
+0320. 📚 docs: update README with setup steps
