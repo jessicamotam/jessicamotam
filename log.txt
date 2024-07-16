@@ -66582,3 +66582,4 @@
 0300. ✨ feat: add export to CSV option
 0019. ✨ feat: enable dark mode toggle
 0279. ✨ feat: support email verification
+0111. 📚 docs: update README with setup steps
