@@ -77055,3 +77055,4 @@
 0462. ♻️ chore: update .gitignore
 0535. 📚 docs: write FAQ section
 0617. ✨ feat: support email verification
+0228. 🔧 refactor: remove redundant code blocks
