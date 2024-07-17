@@ -26782,3 +26782,4 @@
 0795. 📚 docs: update README with setup steps
 0239. 🎨 style: standardize quote style
 0370. 🚀 perf: reduce image load time
+0207. 🐛 fix: prevent crash on empty input
