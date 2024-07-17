@@ -85131,3 +85131,4 @@
 0336. ✨ feat: add export to CSV option
 0795. 📚 docs: update README with setup steps
 0556. ✨ feat: support email verification
+0652. 🔧 refactor: organize models into subfolders
