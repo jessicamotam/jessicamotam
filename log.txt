@@ -34446,3 +34446,4 @@
 0862. ♻️ chore: bump dependencies
 0897. 🐛 fix: prevent crash on empty input
 0287. 📚 docs: write FAQ section
+0980. 🎨 style: reformat files with black
