@@ -30626,3 +30626,4 @@
 0626. 🎨 style: standardize quote style
 0373. 📚 docs: document token refresh logic
 0742. 📚 docs: clarify environment setup
+0900. 🐛 fix: handle 500 error in quiz API
