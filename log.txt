@@ -66882,3 +66882,4 @@
 0101. 📚 docs: clarify environment setup
 0237. 🎨 style: standardize quote style
 0887. 📚 docs: add API usage examples
+0529. 📚 docs: write FAQ section
