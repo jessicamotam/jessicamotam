@@ -35632,3 +35632,4 @@
 0556. ✨ feat: support email verification
 0589. 🐛 fix: fix broken CSS in mobile view
 0326. 🚀 perf: cache repeated calculations
+0491. 🚀 perf: lazy-load components
