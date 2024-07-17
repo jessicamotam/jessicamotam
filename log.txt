@@ -70144,3 +70144,4 @@
 0766. 🎨 style: reformat files with black
 0966. 📚 docs: improve code comments in utils
 0968. 🎨 style: standardize quote style
+0600. 🐛 fix: prevent crash on empty input
