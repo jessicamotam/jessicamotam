@@ -66207,3 +66207,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0599. ✅ test: test user registration edge cases
 0203. 🚀 perf: lazy-load components
+0588. 🔧 refactor: organize models into subfolders
