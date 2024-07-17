@@ -82108,3 +82108,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0468. 📚 docs: update README with setup steps
 0455. ♻️ chore: clean up unused files
+0539. 🔧 refactor: organize models into subfolders
