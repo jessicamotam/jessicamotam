@@ -38588,3 +38588,4 @@
 0605. ✨ feat: support email verification
 0265. 🎨 style: reformat files with black
 0547. 📚 docs: write FAQ section
+0604. 📚 docs: add API usage examples
