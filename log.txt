@@ -13139,3 +13139,4 @@
 0543. ✨ feat: support email verification
 0673. 🐛 fix: correct typo in registration form
 0509. ♻️ chore: bump dependencies
+0649. 📚 docs: update README with setup steps
