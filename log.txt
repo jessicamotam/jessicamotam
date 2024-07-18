@@ -22041,3 +22041,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0937. 🐛 fix: handle 500 error in quiz API
 0576. ♻️ chore: update .gitignore
+0393. 🚀 perf: lazy-load components
