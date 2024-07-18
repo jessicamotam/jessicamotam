@@ -30070,3 +30070,4 @@
 0252. 🎨 style: remove trailing whitespace
 0079. 🐛 fix: correct typo in registration form
 0227. ✅ test: test user registration edge cases
+0699. 🎨 style: standardize quote style
