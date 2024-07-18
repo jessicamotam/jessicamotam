@@ -43584,3 +43584,4 @@
 0700. 🎨 style: rename variables for clarity
 0077. ♻️ chore: rename env.example
 0033. 🎨 style: apply consistent indentation
+0922. 📚 docs: write FAQ section
