@@ -45358,3 +45358,4 @@
 0687. 🎨 style: remove trailing whitespace
 0712. 🎨 style: apply consistent indentation
 0156. 🎨 style: rename variables for clarity
+0194. 🎨 style: standardize quote style
