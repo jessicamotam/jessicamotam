@@ -80357,3 +80357,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0249. ✅ test: increase coverage on auth module
 0743. 🎨 style: apply consistent indentation
+0770. ♻️ chore: rename env.example
