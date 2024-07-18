@@ -72592,3 +72592,4 @@
 0781. 🚀 perf: reduce image load time
 0480. ♻️ chore: add GitHub actions badge
 0911. ✅ test: increase coverage on auth module
+0792. 🎨 style: standardize quote style
