@@ -56118,3 +56118,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0163. ✨ feat: implement quiz timer feature
 0942. ✅ test: increase coverage on auth module
+0576. ♻️ chore: update .gitignore
