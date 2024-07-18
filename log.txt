@@ -12550,3 +12550,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0630. 🚀 perf: lazy-load components
 0820. 📚 docs: add API usage examples
+0056. ♻️ chore: rename env.example
