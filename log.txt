@@ -22152,3 +22152,4 @@
 0554. 📚 docs: improve code comments in utils
 0297. 🎨 style: remove trailing whitespace
 0451. ✨ feat: support email verification
+0460. 📚 docs: write FAQ section
