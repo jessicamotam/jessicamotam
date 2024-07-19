@@ -26718,3 +26718,4 @@
 0809. ♻️ chore: rename env.example
 0149. ✨ feat: add export to CSV option
 0878. 🔧 refactor: split large controller into smaller functions
+0258. 🐛 fix: prevent crash on empty input
