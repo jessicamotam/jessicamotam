@@ -89996,3 +89996,4 @@
 0150. 🎨 style: remove trailing whitespace
 0739. 🎨 style: remove trailing whitespace
 0581. ✅ test: add integration test for /submit endpoint
+0373. 📚 docs: document token refresh logic
