@@ -45577,3 +45577,4 @@
 0149. ✨ feat: add export to CSV option
 0469. 🚀 perf: lazy-load components
 0774. 🔧 refactor: refactor quiz grading logic
+0428. 🐛 fix: fix null pointer exception on login
