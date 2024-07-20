@@ -57930,3 +57930,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0495. 🔧 refactor: remove redundant code blocks
 0593. 🐛 fix: correct typo in registration form
+0876. ♻️ chore: rename env.example
