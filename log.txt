@@ -22658,3 +22658,4 @@
 0117. ✅ test: increase coverage on auth module
 0083. 🎨 style: reformat files with black
 0090. ✅ test: increase coverage on auth module
+0998. 🐛 fix: fix null pointer exception on login
