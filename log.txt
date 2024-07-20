@@ -64931,3 +64931,4 @@
 0247. 🎨 style: apply consistent indentation
 0281. ✨ feat: support email verification
 0857. 🎨 style: rename variables for clarity
+0613. 🐛 fix: prevent crash on empty input
