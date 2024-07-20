@@ -90414,3 +90414,4 @@
 0498. ✅ test: mock database connection in test suite
 0322. 🔧 refactor: split large controller into smaller functions
 0466. 🚀 perf: optimize database query for quiz results
+0584. 🚀 perf: lazy-load components
