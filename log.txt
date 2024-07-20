@@ -4783,3 +4783,4 @@
 0135. ✅ test: test user registration edge cases
 0428. 🐛 fix: fix null pointer exception on login
 0546. 🐛 fix: fix null pointer exception on login
+0892. ✅ test: add unit test for quiz service
