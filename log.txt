@@ -81409,3 +81409,4 @@
 0150. 🎨 style: remove trailing whitespace
 0618. ✨ feat: support email verification
 0779. 🔧 refactor: organize models into subfolders
+0203. 🚀 perf: lazy-load components
