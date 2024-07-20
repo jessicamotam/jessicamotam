@@ -59051,3 +59051,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0401. 🚀 perf: reduce image load time
 0089. 🔧 refactor: remove redundant code blocks
+0160. ♻️ chore: bump dependencies
