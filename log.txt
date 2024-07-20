@@ -15119,3 +15119,4 @@
 0965. 🎨 style: reformat files with black
 0837. 🚀 perf: cache repeated calculations
 0809. ♻️ chore: rename env.example
+0521. 🎨 style: standardize quote style
