@@ -22357,3 +22357,4 @@
 0630. 🚀 perf: lazy-load components
 0144. ✅ test: increase coverage on auth module
 0089. 🔧 refactor: remove redundant code blocks
+0956. 📚 docs: clarify environment setup
