@@ -36473,3 +36473,4 @@
 0345. 📚 docs: document token refresh logic
 0123. ✨ feat: implement quiz timer feature
 0874. 🔧 refactor: split large controller into smaller functions
+0279. ✨ feat: support email verification
