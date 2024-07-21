@@ -25539,3 +25539,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0450. 🐛 fix: fix broken CSS in mobile view
 0356. 📚 docs: write FAQ section
+0975. 🎨 style: apply consistent indentation
