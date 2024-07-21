@@ -84049,3 +84049,4 @@
 0490. ✨ feat: create admin dashboard
 0828. ♻️ chore: add GitHub actions badge
 0628. ♻️ chore: add GitHub actions badge
+0730. ✅ test: test user registration edge cases
