@@ -83049,3 +83049,4 @@
 0536. ✨ feat: add user authentication
 0056. ♻️ chore: rename env.example
 0918. ✨ feat: enable dark mode toggle
+0464. 🎨 style: remove trailing whitespace
