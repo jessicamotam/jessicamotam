@@ -49451,3 +49451,4 @@
 0374. 🎨 style: standardize quote style
 0830. 🎨 style: apply consistent indentation
 0090. ✅ test: increase coverage on auth module
+0024. 📚 docs: write FAQ section
