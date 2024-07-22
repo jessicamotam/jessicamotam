@@ -63751,3 +63751,4 @@
 0343. 🚀 perf: optimize database query for quiz results
 0391. 🐛 fix: fix null pointer exception on login
 0840. 🔧 refactor: refactor quiz grading logic
+0090. ✅ test: increase coverage on auth module
