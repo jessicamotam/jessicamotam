@@ -785,3 +785,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0565. ♻️ chore: add GitHub actions badge
 0767. 🔧 refactor: remove redundant code blocks
+0178. ✨ feat: support email verification
