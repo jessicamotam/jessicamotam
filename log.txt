@@ -32497,3 +32497,4 @@
 0809. ♻️ chore: rename env.example
 0969. ✨ feat: create admin dashboard
 0518. ✨ feat: support email verification
+0669. ✨ feat: enable dark mode toggle
