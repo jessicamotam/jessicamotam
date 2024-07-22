@@ -18752,3 +18752,4 @@
 0170. ✅ test: increase coverage on auth module
 0857. 🎨 style: rename variables for clarity
 0354. 📚 docs: add API usage examples
+0627. 📚 docs: document token refresh logic
