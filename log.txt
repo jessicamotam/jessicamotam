@@ -51525,3 +51525,4 @@
 0789. ✨ feat: create admin dashboard
 0413. ✅ test: add integration test for /submit endpoint
 0593. 🐛 fix: correct typo in registration form
+0950. 🎨 style: reformat files with black
