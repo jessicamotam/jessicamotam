@@ -845,3 +845,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0633. ✨ feat: add user authentication
 0453. 🎨 style: standardize quote style
+0169. 📚 docs: add API usage examples
