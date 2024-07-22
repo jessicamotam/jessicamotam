@@ -68194,3 +68194,4 @@
 0155. ✨ feat: create admin dashboard
 0144. ✅ test: increase coverage on auth module
 0834. ✅ test: increase coverage on auth module
+0647. 🐛 fix: prevent crash on empty input
