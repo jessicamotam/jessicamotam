@@ -13741,3 +13741,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0225. 🚀 perf: reduce image load time
 0953. 🎨 style: remove trailing whitespace
+0666. 🐛 fix: fix broken CSS in mobile view
