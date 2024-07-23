@@ -64913,3 +64913,4 @@
 0662. ♻️ chore: clean up unused files
 0477. 🐛 fix: fix broken CSS in mobile view
 0010. ✨ feat: add user authentication
+0029. 🚀 perf: lazy-load components
