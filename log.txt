@@ -5241,3 +5241,4 @@
 0054. ♻️ chore: update .gitignore
 0237. 🎨 style: standardize quote style
 0202. 🔧 refactor: refactor quiz grading logic
+0297. 🎨 style: remove trailing whitespace
