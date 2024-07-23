@@ -61130,3 +61130,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0166. 🚀 perf: cache repeated calculations
 0486. ✨ feat: add export to CSV option
+0749. ✨ feat: support email verification
