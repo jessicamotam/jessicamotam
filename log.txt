@@ -88866,3 +88866,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0254. 🚀 perf: reduce image load time
 0545. 🎨 style: standardize quote style
+0049. 🐛 fix: handle 500 error in quiz API
