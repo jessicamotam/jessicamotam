@@ -87543,3 +87543,4 @@
 0781. 🚀 perf: reduce image load time
 0772. 🐛 fix: fix null pointer exception on login
 0225. 🚀 perf: reduce image load time
+0823. ✨ feat: add user authentication
