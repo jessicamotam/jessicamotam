@@ -10917,3 +10917,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0651. ✨ feat: enable dark mode toggle
 0609. 🐛 fix: handle 500 error in quiz API
+0044. ✅ test: add unit test for quiz service
