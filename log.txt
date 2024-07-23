@@ -40408,3 +40408,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0003. ✅ test: increase coverage on auth module
 0770. ♻️ chore: rename env.example
+0064. 📚 docs: clarify environment setup
