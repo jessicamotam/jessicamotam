@@ -446,3 +446,4 @@
 0305. ✨ feat: enable dark mode toggle
 0975. 🎨 style: apply consistent indentation
 0875. ✅ test: increase coverage on auth module
+0545. 🎨 style: standardize quote style
