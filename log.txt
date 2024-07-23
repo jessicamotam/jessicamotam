@@ -75449,3 +75449,4 @@
 0468. 📚 docs: update README with setup steps
 0231. 🔧 refactor: clean up auth middleware
 0114. ♻️ chore: update .gitignore
+0368. 🚀 perf: lazy-load components
