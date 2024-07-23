@@ -37536,3 +37536,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0678. ✨ feat: add user authentication
 0768. 🎨 style: remove trailing whitespace
+0375. 🐛 fix: handle 500 error in quiz API
