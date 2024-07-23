@@ -15228,3 +15228,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0518. ✨ feat: support email verification
 0359. 🔧 refactor: clean up auth middleware
+0271. ✅ test: add unit test for quiz service
