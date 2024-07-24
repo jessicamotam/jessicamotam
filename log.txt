@@ -17039,3 +17039,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0902. ✨ feat: enable dark mode toggle
 0750. 🎨 style: apply consistent indentation
+0563. 📚 docs: clarify environment setup
