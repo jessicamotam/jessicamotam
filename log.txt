@@ -73413,3 +73413,4 @@
 0381. ♻️ chore: clean up unused files
 0164. 📚 docs: document token refresh logic
 0003. ✅ test: increase coverage on auth module
+0343. 🚀 perf: optimize database query for quiz results
