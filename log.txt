@@ -16500,3 +16500,4 @@
 0995. ✅ test: mock database connection in test suite
 0281. ✨ feat: support email verification
 0373. 📚 docs: document token refresh logic
+0208. 🔧 refactor: clean up auth middleware
