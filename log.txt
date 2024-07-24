@@ -64885,3 +64885,4 @@
 0970. ♻️ chore: update .gitignore
 0505. ♻️ chore: add GitHub actions badge
 0199. ✨ feat: create admin dashboard
+0317. ✅ test: test user registration edge cases
