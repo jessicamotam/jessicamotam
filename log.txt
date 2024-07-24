@@ -49604,3 +49604,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0093. ✅ test: add unit test for quiz service
 0967. ♻️ chore: add GitHub actions badge
+0414. 🔧 refactor: remove redundant code blocks
