@@ -29187,3 +29187,4 @@
 0476. 🚀 perf: reduce image load time
 0105. 🐛 fix: correct typo in registration form
 0279. ✨ feat: support email verification
+0561. 📚 docs: write FAQ section
