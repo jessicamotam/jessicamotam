@@ -60366,3 +60366,4 @@
 0003. ✅ test: increase coverage on auth module
 0764. ✨ feat: add user authentication
 0817. 🔧 refactor: remove redundant code blocks
+0471. ✨ feat: support email verification
