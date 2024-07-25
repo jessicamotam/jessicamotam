@@ -25430,3 +25430,4 @@
 0184. 📚 docs: improve code comments in utils
 0876. ♻️ chore: rename env.example
 0509. ♻️ chore: bump dependencies
+0651. ✨ feat: enable dark mode toggle
