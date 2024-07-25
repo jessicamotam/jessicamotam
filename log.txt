@@ -71110,3 +71110,4 @@
 0459. 🔧 refactor: organize models into subfolders
 0824. 🚀 perf: lazy-load components
 0068. 🐛 fix: fix null pointer exception on login
+0484. 🐛 fix: handle 500 error in quiz API
