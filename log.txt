@@ -43755,3 +43755,4 @@
 0094. 📚 docs: document token refresh logic
 0495. 🔧 refactor: remove redundant code blocks
 0496. ✅ test: add integration test for /submit endpoint
+0021. ✨ feat: support email verification
