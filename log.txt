@@ -51407,3 +51407,4 @@
 0975. 🎨 style: apply consistent indentation
 0792. 🎨 style: standardize quote style
 0121. ✨ feat: support email verification
+0764. ✨ feat: add user authentication
