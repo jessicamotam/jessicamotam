@@ -86666,3 +86666,4 @@
 0970. ♻️ chore: update .gitignore
 0823. ✨ feat: add user authentication
 0908. ♻️ chore: bump dependencies
+0200. 🐛 fix: handle 500 error in quiz API
