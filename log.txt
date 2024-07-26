@@ -88746,3 +88746,4 @@
 0742. 📚 docs: clarify environment setup
 0278. 🔧 refactor: clean up auth middleware
 0212. 🎨 style: standardize quote style
+0518. ✨ feat: support email verification
