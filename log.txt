@@ -46031,3 +46031,4 @@
 0518. ✨ feat: support email verification
 0220. 🐛 fix: fix null pointer exception on login
 0764. ✨ feat: add user authentication
+0041. 🐛 fix: fix broken CSS in mobile view
