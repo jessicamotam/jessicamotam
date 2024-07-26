@@ -12298,3 +12298,4 @@
 0925. ✨ feat: add export to CSV option
 0555. ✨ feat: create admin dashboard
 0377. ✨ feat: add user authentication
+0622. 🎨 style: apply consistent indentation
