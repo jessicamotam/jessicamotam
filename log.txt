@@ -81795,3 +81795,4 @@
 0943. 🎨 style: rename variables for clarity
 0842. 🎨 style: remove trailing whitespace
 0834. ✅ test: increase coverage on auth module
+0925. ✨ feat: add export to CSV option
