@@ -1250,3 +1250,4 @@
 0152. ✨ feat: add user authentication
 0854. ♻️ chore: rename env.example
 0952. 🔧 refactor: split large controller into smaller functions
+0037. 🐛 fix: correct typo in registration form
