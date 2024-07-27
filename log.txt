@@ -81548,3 +81548,4 @@
 0529. 📚 docs: write FAQ section
 0691. 🎨 style: rename variables for clarity
 0430. 🐛 fix: fix null pointer exception on login
+0003. ✅ test: increase coverage on auth module
