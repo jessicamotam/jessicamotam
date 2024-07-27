@@ -64032,3 +64032,4 @@
 0301. 🎨 style: apply consistent indentation
 0423. ✅ test: mock database connection in test suite
 0655. 🚀 perf: cache repeated calculations
+0158. 📚 docs: clarify environment setup
