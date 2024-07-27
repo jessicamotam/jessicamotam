@@ -50785,3 +50785,4 @@
 0848. 📚 docs: update README with setup steps
 0249. ✅ test: increase coverage on auth module
 0312. ✨ feat: add user authentication
+0677. 📚 docs: add API usage examples
