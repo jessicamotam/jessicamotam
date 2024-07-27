@@ -12434,3 +12434,4 @@
 0340. 🚀 perf: optimize database query for quiz results
 0107. 🐛 fix: prevent crash on empty input
 0975. 🎨 style: apply consistent indentation
+0524. ♻️ chore: rename env.example
