@@ -88268,3 +88268,4 @@
 0101. 📚 docs: clarify environment setup
 0628. ♻️ chore: add GitHub actions badge
 0618. ✨ feat: support email verification
+0960. ✅ test: increase coverage on auth module
