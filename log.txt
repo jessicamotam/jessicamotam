@@ -50526,3 +50526,4 @@
 0214. 📚 docs: improve code comments in utils
 0750. 🎨 style: apply consistent indentation
 0636. ✅ test: increase coverage on auth module
+0021. ✨ feat: support email verification
