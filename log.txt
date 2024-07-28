@@ -47538,3 +47538,4 @@
 0929. ✨ feat: support email verification
 0759. 🔧 refactor: organize models into subfolders
 0192. ✨ feat: enable dark mode toggle
+0292. 📚 docs: clarify environment setup
