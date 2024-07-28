@@ -40898,3 +40898,4 @@
 0106. 🎨 style: reformat files with black
 0945. ♻️ chore: add GitHub actions badge
 0594. 🎨 style: reformat files with black
+0923. ✨ feat: support email verification
