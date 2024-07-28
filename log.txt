@@ -31960,3 +31960,4 @@
 0951. 🎨 style: rename variables for clarity
 0869. ♻️ chore: bump dependencies
 0632. 🎨 style: remove trailing whitespace
+0249. ✅ test: increase coverage on auth module
