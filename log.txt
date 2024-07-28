@@ -61975,3 +61975,4 @@
 0699. 🎨 style: standardize quote style
 0153. ♻️ chore: rename env.example
 0361. ✨ feat: support email verification
+0736. 🐛 fix: fix null pointer exception on login
