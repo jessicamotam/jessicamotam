@@ -7360,3 +7360,4 @@
 0023. 📚 docs: clarify environment setup
 0054. ♻️ chore: update .gitignore
 0380. 🐛 fix: fix null pointer exception on login
+0726. ✨ feat: enable dark mode toggle
