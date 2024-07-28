@@ -86333,3 +86333,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0665. ♻️ chore: update .gitignore
 0823. ✨ feat: add user authentication
+0787. ♻️ chore: rename env.example
