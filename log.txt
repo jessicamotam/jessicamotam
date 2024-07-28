@@ -55420,3 +55420,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0421. 🔧 refactor: split large controller into smaller functions
 0533. ♻️ chore: add GitHub actions badge
+0939. 📚 docs: update README with setup steps
