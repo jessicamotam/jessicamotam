@@ -12970,3 +12970,4 @@
 0426. ✅ test: add integration test for /submit endpoint
 0275. 🎨 style: standardize quote style
 0905. ♻️ chore: bump dependencies
+0929. ✨ feat: support email verification
