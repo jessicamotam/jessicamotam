@@ -15187,3 +15187,4 @@
 0648. ♻️ chore: bump dependencies
 0992. ♻️ chore: clean up unused files
 0352. ✨ feat: add export to CSV option
+0835. 🐛 fix: prevent crash on empty input
