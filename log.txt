@@ -54095,3 +54095,4 @@
 0298. ♻️ chore: update .gitignore
 0448. 🐛 fix: correct typo in registration form
 0464. 🎨 style: remove trailing whitespace
+0974. ✨ feat: add export to CSV option
