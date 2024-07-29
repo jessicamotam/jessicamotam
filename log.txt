@@ -63970,3 +63970,4 @@
 0543. ✨ feat: support email verification
 0849. 🐛 fix: correct typo in registration form
 0817. 🔧 refactor: remove redundant code blocks
+0797. 📚 docs: add API usage examples
