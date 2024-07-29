@@ -8662,3 +8662,4 @@
 0634. 🎨 style: reformat files with black
 0531. 🐛 fix: prevent crash on empty input
 0481. ✅ test: add unit test for quiz service
+0249. ✅ test: increase coverage on auth module
