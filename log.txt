@@ -6456,3 +6456,4 @@
 0873. 🚀 perf: cache repeated calculations
 0836. 🚀 perf: optimize database query for quiz results
 0901. ✨ feat: add user authentication
+0552. 🐛 fix: fix null pointer exception on login
