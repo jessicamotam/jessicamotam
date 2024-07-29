@@ -76159,3 +76159,4 @@
 0956. 📚 docs: clarify environment setup
 0986. 📚 docs: document token refresh logic
 0816. 🔧 refactor: organize models into subfolders
+0764. ✨ feat: add user authentication
