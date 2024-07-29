@@ -63852,3 +63852,4 @@
 0915. 🚀 perf: cache repeated calculations
 0787. ♻️ chore: rename env.example
 0964. ♻️ chore: clean up unused files
+0451. ✨ feat: support email verification
