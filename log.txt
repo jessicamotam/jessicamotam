@@ -10268,3 +10268,4 @@
 0203. 🚀 perf: lazy-load components
 0263. 📚 docs: add API usage examples
 0625. 🐛 fix: handle 500 error in quiz API
+0884. 📚 docs: clarify environment setup
