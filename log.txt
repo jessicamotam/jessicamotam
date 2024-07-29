@@ -39781,3 +39781,4 @@
 0356. 📚 docs: write FAQ section
 0605. ✨ feat: support email verification
 0356. 📚 docs: write FAQ section
+0502. 📚 docs: update README with setup steps
