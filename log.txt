@@ -88448,3 +88448,4 @@
 0523. ♻️ chore: bump dependencies
 0411. ✅ test: add unit test for quiz service
 0222. 🐛 fix: handle 500 error in quiz API
+0835. 🐛 fix: prevent crash on empty input
