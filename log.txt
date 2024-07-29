@@ -89857,3 +89857,4 @@
 0850. ♻️ chore: rename env.example
 0657. 🎨 style: standardize quote style
 0566. 📚 docs: write FAQ section
+0247. 🎨 style: apply consistent indentation
