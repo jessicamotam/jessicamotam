@@ -21964,3 +21964,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0167. 🚀 perf: reduce image load time
 0970. ♻️ chore: update .gitignore
+0569. 📚 docs: document token refresh logic
