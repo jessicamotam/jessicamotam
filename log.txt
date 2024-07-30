@@ -3894,3 +3894,4 @@
 0513. ♻️ chore: bump dependencies
 0876. ♻️ chore: rename env.example
 0588. 🔧 refactor: organize models into subfolders
+0287. 📚 docs: write FAQ section
