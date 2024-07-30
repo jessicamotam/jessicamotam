@@ -25017,3 +25017,4 @@
 0681. ✨ feat: create admin dashboard
 0556. ✨ feat: support email verification
 0395. 📚 docs: write FAQ section
+0512. 🚀 perf: reduce image load time
