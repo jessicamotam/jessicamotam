@@ -53326,3 +53326,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0291. 📚 docs: write FAQ section
 0450. 🐛 fix: fix broken CSS in mobile view
+0219. ✅ test: increase coverage on auth module
