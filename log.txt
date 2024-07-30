@@ -17374,3 +17374,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0008. 🚀 perf: reduce image load time
 0580. ♻️ chore: bump dependencies
+0248. 🐛 fix: handle 500 error in quiz API
