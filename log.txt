@@ -55882,3 +55882,4 @@
 0493. ✨ feat: add user authentication
 0158. 📚 docs: clarify environment setup
 0103. 🔧 refactor: remove redundant code blocks
+0489. 🔧 refactor: organize models into subfolders
