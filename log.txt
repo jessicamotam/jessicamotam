@@ -8499,3 +8499,4 @@
 0341. 🚀 perf: lazy-load components
 0117. ✅ test: increase coverage on auth module
 0112. ✨ feat: enable dark mode toggle
+0291. 📚 docs: write FAQ section
