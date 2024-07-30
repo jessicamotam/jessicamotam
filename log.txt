@@ -51853,3 +51853,4 @@
 0965. 🎨 style: reformat files with black
 0549. ✨ feat: enable dark mode toggle
 0268. 🐛 fix: prevent crash on empty input
+0484. 🐛 fix: handle 500 error in quiz API
