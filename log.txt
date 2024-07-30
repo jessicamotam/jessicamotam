@@ -83983,3 +83983,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0920. 🔧 refactor: organize models into subfolders
 0313. 🎨 style: apply consistent indentation
+0507. 🔧 refactor: clean up auth middleware
