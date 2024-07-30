@@ -28188,3 +28188,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0744. 🔧 refactor: remove redundant code blocks
 0503. ♻️ chore: rename env.example
+0480. ♻️ chore: add GitHub actions badge
