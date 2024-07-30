@@ -71370,3 +71370,4 @@
 0327. 🔧 refactor: split large controller into smaller functions
 0896. 🚀 perf: reduce image load time
 0398. 🚀 perf: cache repeated calculations
+0959. 🐛 fix: fix null pointer exception on login
