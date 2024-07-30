@@ -14882,3 +14882,4 @@
 0321. 🔧 refactor: organize models into subfolders
 0955. 🔧 refactor: remove redundant code blocks
 0448. 🐛 fix: correct typo in registration form
+0356. 📚 docs: write FAQ section
