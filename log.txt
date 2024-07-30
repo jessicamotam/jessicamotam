@@ -53942,3 +53942,4 @@
 0687. 🎨 style: remove trailing whitespace
 0940. 📚 docs: document token refresh logic
 0699. 🎨 style: standardize quote style
+0780. 📚 docs: add API usage examples
