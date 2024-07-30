@@ -40472,3 +40472,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0268. 🐛 fix: prevent crash on empty input
 0275. 🎨 style: standardize quote style
+0833. ✨ feat: add user authentication
