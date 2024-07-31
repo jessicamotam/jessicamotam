@@ -40399,3 +40399,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0099. 🚀 perf: reduce image load time
 0460. 📚 docs: write FAQ section
+0740. 🐛 fix: resolve issue with date parsing
