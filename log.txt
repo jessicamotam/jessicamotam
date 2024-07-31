@@ -39531,3 +39531,4 @@
 0739. 🎨 style: remove trailing whitespace
 0590. 🐛 fix: fix null pointer exception on login
 0252. 🎨 style: remove trailing whitespace
+0167. 🚀 perf: reduce image load time
