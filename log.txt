@@ -86198,3 +86198,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0028. 🎨 style: standardize quote style
 0300. ✨ feat: add export to CSV option
+0824. 🚀 perf: lazy-load components
