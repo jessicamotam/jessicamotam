@@ -28786,3 +28786,4 @@
 0620. ✨ feat: implement quiz timer feature
 0306. 🎨 style: apply consistent indentation
 0846. ✨ feat: implement quiz timer feature
+0049. 🐛 fix: handle 500 error in quiz API
