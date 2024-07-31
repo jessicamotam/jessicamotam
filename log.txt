@@ -15081,3 +15081,4 @@
 0361. ✨ feat: support email verification
 0029. 🚀 perf: lazy-load components
 0079. 🐛 fix: correct typo in registration form
+0257. 📚 docs: clarify environment setup
