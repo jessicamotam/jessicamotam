@@ -36631,3 +36631,4 @@
 0541. 🐛 fix: correct typo in registration form
 0469. 🚀 perf: lazy-load components
 0765. ♻️ chore: clean up unused files
+0068. 🐛 fix: fix null pointer exception on login
