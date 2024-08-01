@@ -66237,3 +66237,4 @@
 0292. 📚 docs: clarify environment setup
 0504. 📚 docs: document token refresh logic
 0506. 🐛 fix: handle 500 error in quiz API
+0866. 📚 docs: add API usage examples
