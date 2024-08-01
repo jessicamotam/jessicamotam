@@ -90843,3 +90843,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0752. ✅ test: add integration test for /submit endpoint
 0038. 🎨 style: rename variables for clarity
+0659. 📚 docs: add API usage examples
