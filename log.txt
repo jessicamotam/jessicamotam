@@ -33003,3 +33003,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0321. 🔧 refactor: organize models into subfolders
 0299. 🐛 fix: resolve issue with date parsing
+0937. 🐛 fix: handle 500 error in quiz API
