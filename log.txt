@@ -70575,3 +70575,4 @@
 0668. 🚀 perf: optimize database query for quiz results
 0011. ✅ test: add unit test for quiz service
 0679. ♻️ chore: bump dependencies
+0397. 🐛 fix: handle 500 error in quiz API
