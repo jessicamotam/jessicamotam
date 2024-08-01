@@ -21992,3 +21992,4 @@
 0844. 📚 docs: update README with setup steps
 0460. 📚 docs: write FAQ section
 0525. ✅ test: mock database connection in test suite
+0358. 🚀 perf: reduce image load time
