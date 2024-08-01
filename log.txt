@@ -55166,3 +55166,4 @@
 0956. 📚 docs: clarify environment setup
 0935. 📚 docs: update README with setup steps
 0287. 📚 docs: write FAQ section
+0266. 🔧 refactor: remove redundant code blocks
