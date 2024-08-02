@@ -14964,3 +14964,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0906. 📚 docs: add API usage examples
 0248. 🐛 fix: handle 500 error in quiz API
+0653. 🐛 fix: prevent crash on empty input
