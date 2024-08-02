@@ -66163,3 +66163,4 @@
 0193. 🚀 perf: optimize database query for quiz results
 0342. 🚀 perf: cache repeated calculations
 0135. ✅ test: test user registration edge cases
+0590. 🐛 fix: fix null pointer exception on login
