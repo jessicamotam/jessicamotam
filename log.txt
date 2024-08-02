@@ -75827,3 +75827,4 @@
 0612. ✅ test: test user registration edge cases
 0720. ✨ feat: add export to CSV option
 0190. 🎨 style: rename variables for clarity
+0473. 📚 docs: write FAQ section
