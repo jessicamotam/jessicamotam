@@ -4657,3 +4657,4 @@
 0614. 🚀 perf: reduce image load time
 0254. 🚀 perf: reduce image load time
 0672. 🐛 fix: fix broken CSS in mobile view
+0248. 🐛 fix: handle 500 error in quiz API
