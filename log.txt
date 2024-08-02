@@ -79921,3 +79921,4 @@
 0238. 🎨 style: apply consistent indentation
 0518. ✨ feat: support email verification
 0593. 🐛 fix: correct typo in registration form
+0219. ✅ test: increase coverage on auth module
