@@ -4199,3 +4199,4 @@
 0271. ✅ test: add unit test for quiz service
 0344. ♻️ chore: add GitHub actions badge
 0298. ♻️ chore: update .gitignore
+0666. 🐛 fix: fix broken CSS in mobile view
