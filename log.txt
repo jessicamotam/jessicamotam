@@ -29129,3 +29129,4 @@
 0501. ✨ feat: add export to CSV option
 0171. 🐛 fix: fix broken CSS in mobile view
 0599. ✅ test: test user registration edge cases
+0586. 🎨 style: remove trailing whitespace
