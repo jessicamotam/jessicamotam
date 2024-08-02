@@ -60622,3 +60622,4 @@
 0352. ✨ feat: add export to CSV option
 0227. ✅ test: test user registration edge cases
 0826. 📚 docs: clarify environment setup
+0618. ✨ feat: support email verification
