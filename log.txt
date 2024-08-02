@@ -17757,3 +17757,4 @@
 0204. 🎨 style: standardize quote style
 0938. 🎨 style: rename variables for clarity
 0475. 🔧 refactor: clean up auth middleware
+0839. 🎨 style: apply consistent indentation
