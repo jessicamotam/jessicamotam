@@ -39627,3 +39627,4 @@
 0993. ✨ feat: implement quiz timer feature
 0715. ✨ feat: create admin dashboard
 0796. 🔧 refactor: refactor quiz grading logic
+0006. 🐛 fix: prevent crash on empty input
