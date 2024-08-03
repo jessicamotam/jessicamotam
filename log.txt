@@ -36458,3 +36458,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0688. 🚀 perf: reduce image load time
 0012. 🚀 perf: cache repeated calculations
+0307. ✨ feat: support email verification
