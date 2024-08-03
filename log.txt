@@ -25224,3 +25224,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0596. ♻️ chore: update .gitignore
 0402. 🎨 style: reformat files with black
+0831. 📚 docs: clarify environment setup
