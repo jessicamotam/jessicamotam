@@ -53205,3 +53205,4 @@
 0487. 🎨 style: reformat files with black
 0735. ♻️ chore: add GitHub actions badge
 0665. ♻️ chore: update .gitignore
+0477. 🐛 fix: fix broken CSS in mobile view
