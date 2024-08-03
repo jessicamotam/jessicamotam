@@ -42684,3 +42684,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0285. 🐛 fix: resolve issue with date parsing
 0239. 🎨 style: standardize quote style
+0596. ♻️ chore: update .gitignore
