@@ -6424,3 +6424,4 @@
 0306. 🎨 style: apply consistent indentation
 0714. 📚 docs: improve code comments in utils
 0279. ✨ feat: support email verification
+0222. 🐛 fix: handle 500 error in quiz API
