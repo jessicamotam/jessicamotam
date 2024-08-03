@@ -37600,3 +37600,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0312. ✨ feat: add user authentication
 0391. 🐛 fix: fix null pointer exception on login
+0460. 📚 docs: write FAQ section
