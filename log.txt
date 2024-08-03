@@ -38440,3 +38440,4 @@
 0976. ✨ feat: implement quiz timer feature
 0142. ✨ feat: implement quiz timer feature
 0043. ✅ test: add integration test for /submit endpoint
+0006. 🐛 fix: prevent crash on empty input
