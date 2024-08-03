@@ -31219,3 +31219,4 @@
 0470. 🎨 style: remove trailing whitespace
 0798. 🚀 perf: reduce image load time
 0973. 🔧 refactor: organize models into subfolders
+0641. 📚 docs: write FAQ section
