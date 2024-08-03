@@ -34779,3 +34779,4 @@
 0502. 📚 docs: update README with setup steps
 0420. 🚀 perf: reduce image load time
 0091. ✨ feat: add user authentication
+0772. 🐛 fix: fix null pointer exception on login
