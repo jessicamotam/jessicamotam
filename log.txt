@@ -61711,3 +61711,4 @@
 0528. ♻️ chore: clean up unused files
 0870. ♻️ chore: clean up unused files
 0967. ♻️ chore: add GitHub actions badge
+0924. ✅ test: mock database connection in test suite
