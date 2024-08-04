@@ -64066,3 +64066,4 @@
 0833. ✨ feat: add user authentication
 0285. 🐛 fix: resolve issue with date parsing
 0628. ♻️ chore: add GitHub actions badge
+0935. 📚 docs: update README with setup steps
