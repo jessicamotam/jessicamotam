@@ -42752,3 +42752,4 @@
 0962. ✨ feat: create admin dashboard
 0637. 🎨 style: apply consistent indentation
 0287. 📚 docs: write FAQ section
+0485. 📚 docs: update README with setup steps
