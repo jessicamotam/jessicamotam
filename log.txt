@@ -21037,3 +21037,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0695. ✨ feat: create admin dashboard
 0607. 🐛 fix: prevent crash on empty input
+0709. ♻️ chore: bump dependencies
