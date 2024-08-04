@@ -61078,3 +61078,4 @@
 0915. 🚀 perf: cache repeated calculations
 0108. 🎨 style: remove trailing whitespace
 0834. ✅ test: increase coverage on auth module
+0935. 📚 docs: update README with setup steps
