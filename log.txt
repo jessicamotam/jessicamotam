@@ -21878,3 +21878,4 @@
 0985. 📚 docs: document token refresh logic
 0609. 🐛 fix: handle 500 error in quiz API
 0736. 🐛 fix: fix null pointer exception on login
+0203. 🚀 perf: lazy-load components
