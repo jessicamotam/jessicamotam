@@ -14778,3 +14778,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0119. 📚 docs: improve code comments in utils
 0431. 🎨 style: reformat files with black
+0174. 📚 docs: clarify environment setup
