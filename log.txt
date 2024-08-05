@@ -21762,3 +21762,4 @@
 0035. ✅ test: increase coverage on auth module
 0921. 🐛 fix: correct typo in registration form
 0144. ✅ test: increase coverage on auth module
+0692. ✅ test: add integration test for /submit endpoint
