@@ -65455,3 +65455,4 @@
 0660. 🐛 fix: correct typo in registration form
 0084. 🐛 fix: handle 500 error in quiz API
 0545. 🎨 style: standardize quote style
+0909. 🔧 refactor: organize models into subfolders
