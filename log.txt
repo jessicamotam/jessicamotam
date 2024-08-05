@@ -3440,3 +3440,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0556. ✨ feat: support email verification
 0327. 🔧 refactor: split large controller into smaller functions
+0029. 🚀 perf: lazy-load components
