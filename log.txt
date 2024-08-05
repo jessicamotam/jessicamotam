@@ -65609,3 +65609,4 @@
 0526. ✨ feat: add user authentication
 0865. ♻️ chore: add GitHub actions badge
 0971. 🎨 style: standardize quote style
+0397. 🐛 fix: handle 500 error in quiz API
