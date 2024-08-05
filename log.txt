@@ -80832,3 +80832,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0406. ✨ feat: add export to CSV option
 0898. 🐛 fix: fix broken CSS in mobile view
+0822. 🔧 refactor: remove redundant code blocks
