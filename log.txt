@@ -88346,3 +88346,4 @@
 0501. ✨ feat: add export to CSV option
 0068. 🐛 fix: fix null pointer exception on login
 0262. 🎨 style: remove trailing whitespace
+0583. ✅ test: increase coverage on auth module
