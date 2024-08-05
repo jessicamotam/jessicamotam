@@ -40471,3 +40471,4 @@
 0339. 📚 docs: update README with setup steps
 0383. 🐛 fix: fix broken CSS in mobile view
 0268. 🐛 fix: prevent crash on empty input
+0275. 🎨 style: standardize quote style
