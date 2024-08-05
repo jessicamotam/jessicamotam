@@ -82650,3 +82650,4 @@
 0109. 🚀 perf: lazy-load components
 0344. ♻️ chore: add GitHub actions badge
 0040. 🔧 refactor: clean up auth middleware
+0233. 🚀 perf: lazy-load components
