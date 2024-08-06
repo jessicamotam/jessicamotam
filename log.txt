@@ -84874,3 +84874,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0908. ♻️ chore: bump dependencies
 0122. ✨ feat: support email verification
+0610. 🚀 perf: lazy-load components
