@@ -45038,3 +45038,4 @@
 0781. 🚀 perf: reduce image load time
 0433. 🐛 fix: prevent crash on empty input
 0960. ✅ test: increase coverage on auth module
+0395. 📚 docs: write FAQ section
