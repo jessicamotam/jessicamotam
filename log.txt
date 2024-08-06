@@ -2775,3 +2775,4 @@
 0585. 🚀 perf: lazy-load components
 0265. 🎨 style: reformat files with black
 0695. ✨ feat: create admin dashboard
+0790. 📚 docs: write FAQ section
