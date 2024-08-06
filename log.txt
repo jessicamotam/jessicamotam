@@ -35240,3 +35240,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0576. ♻️ chore: update .gitignore
 0684. 🚀 perf: reduce image load time
+0448. 🐛 fix: correct typo in registration form
