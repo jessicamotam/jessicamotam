@@ -741,3 +741,4 @@
 0374. 🎨 style: standardize quote style
 0970. ♻️ chore: update .gitignore
 0774. 🔧 refactor: refactor quiz grading logic
+0165. 🎨 style: remove trailing whitespace
