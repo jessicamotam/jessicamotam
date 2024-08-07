@@ -87479,3 +87479,4 @@
 0996. ✅ test: test user registration edge cases
 0226. 🚀 perf: lazy-load components
 0061. ✨ feat: create admin dashboard
+0797. 📚 docs: add API usage examples
