@@ -90586,3 +90586,4 @@
 0556. ✨ feat: support email verification
 0308. 🚀 perf: reduce image load time
 0106. 🎨 style: reformat files with black
+0019. ✨ feat: enable dark mode toggle
