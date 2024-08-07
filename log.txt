@@ -87590,3 +87590,4 @@
 0507. 🔧 refactor: clean up auth middleware
 0974. ✨ feat: add export to CSV option
 0389. 📚 docs: improve code comments in utils
+0380. 🐛 fix: fix null pointer exception on login
