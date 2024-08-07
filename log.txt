@@ -74366,3 +74366,4 @@
 0234. ♻️ chore: rename env.example
 0480. ♻️ chore: add GitHub actions badge
 0795. 📚 docs: update README with setup steps
+0604. 📚 docs: add API usage examples
