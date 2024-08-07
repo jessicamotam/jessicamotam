@@ -23312,3 +23312,4 @@
 0447. ♻️ chore: bump dependencies
 0097. 🐛 fix: handle 500 error in quiz API
 0332. 🎨 style: standardize quote style
+0488. ♻️ chore: add GitHub actions badge
