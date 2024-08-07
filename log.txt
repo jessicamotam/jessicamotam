@@ -48231,3 +48231,4 @@
 0684. 🚀 perf: reduce image load time
 0860. 🔧 refactor: organize models into subfolders
 0360. ✨ feat: add export to CSV option
+0851. ✅ test: mock database connection in test suite
