@@ -81041,3 +81041,4 @@
 0901. ✨ feat: add user authentication
 0809. ♻️ chore: rename env.example
 0023. 📚 docs: clarify environment setup
+0671. 🐛 fix: fix null pointer exception on login
