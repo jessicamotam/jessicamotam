@@ -17772,3 +17772,4 @@
 0729. 🔧 refactor: refactor quiz grading logic
 0572. ✨ feat: add user authentication
 0402. 🎨 style: reformat files with black
+0369. 🎨 style: standardize quote style
