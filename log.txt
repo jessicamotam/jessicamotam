@@ -90785,3 +90785,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0783. 🐛 fix: handle 500 error in quiz API
 0828. ♻️ chore: add GitHub actions badge
+0190. 🎨 style: rename variables for clarity
