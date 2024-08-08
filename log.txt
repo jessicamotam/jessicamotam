@@ -50328,3 +50328,4 @@
 0335. ♻️ chore: update .gitignore
 0381. ♻️ chore: clean up unused files
 0361. ✨ feat: support email verification
+0786. ✨ feat: enable dark mode toggle
