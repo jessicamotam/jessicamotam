@@ -83206,3 +83206,4 @@
 0891. ✨ feat: create admin dashboard
 0669. ✨ feat: enable dark mode toggle
 0838. 🎨 style: standardize quote style
+0295. 🎨 style: remove trailing whitespace
