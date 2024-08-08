@@ -37142,3 +37142,4 @@
 0077. ♻️ chore: rename env.example
 0338. ♻️ chore: add GitHub actions badge
 0958. 🐛 fix: prevent crash on empty input
+0967. ♻️ chore: add GitHub actions badge
