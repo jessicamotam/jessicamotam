@@ -14598,3 +14598,4 @@
 0685. ✅ test: test user registration edge cases
 0305. ✨ feat: enable dark mode toggle
 0967. ♻️ chore: add GitHub actions badge
+0783. 🐛 fix: handle 500 error in quiz API
