@@ -8063,3 +8063,4 @@
 0178. ✨ feat: support email verification
 0977. 🔧 refactor: organize models into subfolders
 0587. 🔧 refactor: remove redundant code blocks
+0791. 🔧 refactor: clean up auth middleware
