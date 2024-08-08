@@ -46780,3 +46780,4 @@
 0471. ✨ feat: support email verification
 0505. ♻️ chore: add GitHub actions badge
 0583. ✅ test: increase coverage on auth module
+0127. 🐛 fix: fix null pointer exception on login
