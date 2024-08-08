@@ -20784,3 +20784,4 @@
 0658. 🎨 style: rename variables for clarity
 0806. 📚 docs: improve code comments in utils
 0694. 🎨 style: rename variables for clarity
+0450. 🐛 fix: fix broken CSS in mobile view
