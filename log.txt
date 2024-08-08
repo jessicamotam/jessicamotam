@@ -21638,3 +21638,4 @@
 0128. ♻️ chore: rename env.example
 0449. ✅ test: add unit test for quiz service
 0206. 🐛 fix: handle 500 error in quiz API
+0871. ✅ test: add integration test for /submit endpoint
