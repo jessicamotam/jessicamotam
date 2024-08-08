@@ -23475,3 +23475,4 @@
 0981. 🚀 perf: lazy-load components
 0178. ✨ feat: support email verification
 0205. 📚 docs: update README with setup steps
+0054. ♻️ chore: update .gitignore
