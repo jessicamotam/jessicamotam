@@ -57016,3 +57016,4 @@
 0459. 🔧 refactor: organize models into subfolders
 0319. 🐛 fix: handle 500 error in quiz API
 0867. 🔧 refactor: refactor quiz grading logic
+0791. 🔧 refactor: clean up auth middleware
