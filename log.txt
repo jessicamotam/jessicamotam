@@ -54500,3 +54500,4 @@
 0769. ✨ feat: create admin dashboard
 0097. 🐛 fix: handle 500 error in quiz API
 0237. 🎨 style: standardize quote style
+0029. 🚀 perf: lazy-load components
