@@ -82358,3 +82358,4 @@
 0266. 🔧 refactor: remove redundant code blocks
 0935. 📚 docs: update README with setup steps
 0428. 🐛 fix: fix null pointer exception on login
+0353. ♻️ chore: rename env.example
