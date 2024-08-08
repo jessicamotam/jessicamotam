@@ -8314,3 +8314,4 @@
 0873. 🚀 perf: cache repeated calculations
 0929. ✨ feat: support email verification
 0307. ✨ feat: support email verification
+0294. 🐛 fix: prevent crash on empty input
