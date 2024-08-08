@@ -25001,3 +25001,4 @@
 0475. 🔧 refactor: clean up auth middleware
 0819. 🚀 perf: reduce image load time
 0446. 🎨 style: apply consistent indentation
+0547. 📚 docs: write FAQ section
