@@ -63243,3 +63243,4 @@
 0320. 📚 docs: update README with setup steps
 0215. 🎨 style: reformat files with black
 0590. 🐛 fix: fix null pointer exception on login
+0316. 🐛 fix: fix broken CSS in mobile view
