@@ -89667,3 +89667,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0924. ✅ test: mock database connection in test suite
 0307. ✨ feat: support email verification
+0493. ✨ feat: add user authentication
