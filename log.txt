@@ -20522,3 +20522,4 @@
 0092. 🚀 perf: reduce image load time
 0428. 🐛 fix: fix null pointer exception on login
 0923. ✨ feat: support email verification
+0862. ♻️ chore: bump dependencies
