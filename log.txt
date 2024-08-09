@@ -15307,3 +15307,4 @@
 0709. ♻️ chore: bump dependencies
 0128. ♻️ chore: rename env.example
 0505. ♻️ chore: add GitHub actions badge
+0466. 🚀 perf: optimize database query for quiz results
