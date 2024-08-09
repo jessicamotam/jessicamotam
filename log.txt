@@ -36845,3 +36845,4 @@
 0095. ✅ test: mock database connection in test suite
 0593. 🐛 fix: correct typo in registration form
 0774. 🔧 refactor: refactor quiz grading logic
+0068. 🐛 fix: fix null pointer exception on login
