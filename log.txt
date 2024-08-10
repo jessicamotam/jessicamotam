@@ -10104,3 +10104,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0719. 🎨 style: apply consistent indentation
 0277. 🎨 style: standardize quote style
+0777. 📚 docs: document token refresh logic
