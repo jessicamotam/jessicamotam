@@ -61640,3 +61640,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0313. 🎨 style: apply consistent indentation
 0329. 📚 docs: update README with setup steps
+0641. 📚 docs: write FAQ section
