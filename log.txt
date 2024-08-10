@@ -34587,3 +34587,4 @@
 0454. ♻️ chore: bump dependencies
 0948. 🐛 fix: fix broken CSS in mobile view
 0292. 📚 docs: clarify environment setup
+0578. ✅ test: add integration test for /submit endpoint
