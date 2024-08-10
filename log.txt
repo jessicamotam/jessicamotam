@@ -9740,3 +9740,4 @@
 0370. 🚀 perf: reduce image load time
 0446. 🎨 style: apply consistent indentation
 0975. 🎨 style: apply consistent indentation
+0363. 📚 docs: clarify environment setup
