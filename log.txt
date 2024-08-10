@@ -339,3 +339,4 @@
 0834. ✅ test: increase coverage on auth module
 0735. ♻️ chore: add GitHub actions badge
 0390. 🎨 style: standardize quote style
+0976. ✨ feat: implement quiz timer feature
