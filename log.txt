@@ -10968,3 +10968,4 @@
 0949. 📚 docs: write FAQ section
 0528. ♻️ chore: clean up unused files
 0704. 🚀 perf: cache repeated calculations
+0900. 🐛 fix: handle 500 error in quiz API
