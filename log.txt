@@ -20955,3 +20955,4 @@
 0361. ✨ feat: support email verification
 0485. 📚 docs: update README with setup steps
 0508. ✅ test: add unit test for quiz service
+0742. 📚 docs: clarify environment setup
