@@ -44457,3 +44457,4 @@
 0347. ♻️ chore: update .gitignore
 0973. 🔧 refactor: organize models into subfolders
 0122. ✨ feat: support email verification
+0442. 🎨 style: standardize quote style
