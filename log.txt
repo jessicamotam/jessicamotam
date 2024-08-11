@@ -65808,3 +65808,4 @@
 0253. 📚 docs: update README with setup steps
 0053. ✅ test: increase coverage on auth module
 0010. ✨ feat: add user authentication
+0110. 🐛 fix: prevent crash on empty input
