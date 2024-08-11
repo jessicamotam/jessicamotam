@@ -41242,3 +41242,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0548. 📚 docs: write FAQ section
 0324. 📚 docs: document token refresh logic
+0002. 🚀 perf: cache repeated calculations
