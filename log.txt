@@ -1450,3 +1450,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0272. 🔧 refactor: remove redundant code blocks
 0262. 🎨 style: remove trailing whitespace
+0461. ✨ feat: add user authentication
