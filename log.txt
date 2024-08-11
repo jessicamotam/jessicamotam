@@ -87386,3 +87386,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0778. 📚 docs: write FAQ section
 0813. 🔧 refactor: organize models into subfolders
+0651. ✨ feat: enable dark mode toggle
