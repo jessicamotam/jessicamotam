@@ -80163,3 +80163,4 @@
 0496. ✅ test: add integration test for /submit endpoint
 0942. ✅ test: increase coverage on auth module
 0628. ♻️ chore: add GitHub actions badge
+0962. ✨ feat: create admin dashboard
