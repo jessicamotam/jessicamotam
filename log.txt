@@ -16131,3 +16131,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0882. 🚀 perf: optimize database query for quiz results
 0888. 🚀 perf: lazy-load components
+0472. 🐛 fix: fix null pointer exception on login
