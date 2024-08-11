@@ -81107,3 +81107,4 @@
 0036. 🔧 refactor: clean up auth middleware
 0525. ✅ test: mock database connection in test suite
 0962. ✨ feat: create admin dashboard
+0197. 📚 docs: update README with setup steps
