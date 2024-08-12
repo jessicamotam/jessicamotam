@@ -6968,3 +6968,4 @@
 0997. ✅ test: increase coverage on auth module
 0362. 📚 docs: add API usage examples
 0692. ✅ test: add integration test for /submit endpoint
+0535. 📚 docs: write FAQ section
