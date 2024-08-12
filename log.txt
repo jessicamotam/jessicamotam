@@ -83429,3 +83429,4 @@
 0311. 🎨 style: apply consistent indentation
 0758. 🚀 perf: optimize database query for quiz results
 0001. 🚀 perf: cache repeated calculations
+0566. 📚 docs: write FAQ section
