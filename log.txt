@@ -56844,3 +56844,4 @@
 0699. 🎨 style: standardize quote style
 0365. 🚀 perf: reduce image load time
 0271. ✅ test: add unit test for quiz service
+0636. ✅ test: increase coverage on auth module
