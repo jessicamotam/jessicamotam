@@ -10693,3 +10693,4 @@
 0392. 🎨 style: remove trailing whitespace
 0279. ✨ feat: support email verification
 0292. 📚 docs: clarify environment setup
+0195. 📚 docs: clarify environment setup
