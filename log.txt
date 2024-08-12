@@ -71047,3 +71047,4 @@
 0684. 🚀 perf: reduce image load time
 0494. 🎨 style: rename variables for clarity
 0507. 🔧 refactor: clean up auth middleware
+0725. 🚀 perf: lazy-load components
