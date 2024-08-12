@@ -12615,3 +12615,4 @@
 0003. ✅ test: increase coverage on auth module
 0617. ✨ feat: support email verification
 0025. 🚀 perf: optimize database query for quiz results
+0467. ✅ test: add integration test for /submit endpoint
