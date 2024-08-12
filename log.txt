@@ -12349,3 +12349,4 @@
 0975. 🎨 style: apply consistent indentation
 0576. ♻️ chore: update .gitignore
 0895. ✨ feat: support email verification
+0237. 🎨 style: standardize quote style
