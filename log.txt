@@ -75048,3 +75048,4 @@
 0348. ✅ test: test user registration edge cases
 0850. ♻️ chore: rename env.example
 0332. 🎨 style: standardize quote style
+0808. 🚀 perf: optimize database query for quiz results
