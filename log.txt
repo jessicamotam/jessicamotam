@@ -6942,3 +6942,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0316. 🐛 fix: fix broken CSS in mobile view
 0193. 🚀 perf: optimize database query for quiz results
+0621. 🔧 refactor: clean up auth middleware
