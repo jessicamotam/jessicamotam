@@ -14933,3 +14933,4 @@
 0572. ✨ feat: add user authentication
 0684. 🚀 perf: reduce image load time
 0799. ♻️ chore: clean up unused files
+0920. 🔧 refactor: organize models into subfolders
