@@ -7481,3 +7481,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0734. ✨ feat: add export to CSV option
 0396. 🔧 refactor: split large controller into smaller functions
+0738. 🐛 fix: prevent crash on empty input
