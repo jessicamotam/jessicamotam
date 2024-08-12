@@ -3222,3 +3222,4 @@
 0406. ✨ feat: add export to CSV option
 0187. ✨ feat: support email verification
 0495. 🔧 refactor: remove redundant code blocks
+0921. 🐛 fix: correct typo in registration form
