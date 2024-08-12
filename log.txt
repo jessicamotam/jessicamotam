@@ -90875,3 +90875,4 @@
 0585. 🚀 perf: lazy-load components
 0663. 🚀 perf: reduce image load time
 0830. 🎨 style: apply consistent indentation
+0159. 🚀 perf: lazy-load components
