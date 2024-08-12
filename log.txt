@@ -82938,3 +82938,4 @@
 0064. 📚 docs: clarify environment setup
 0080. ✨ feat: support email verification
 0234. ♻️ chore: rename env.example
+0033. 🎨 style: apply consistent indentation
