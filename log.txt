@@ -52768,3 +52768,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0480. ♻️ chore: add GitHub actions badge
 0680. ♻️ chore: add GitHub actions badge
+0879. 🎨 style: standardize quote style
