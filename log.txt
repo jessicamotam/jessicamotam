@@ -8639,3 +8639,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0971. 🎨 style: standardize quote style
 0105. 🐛 fix: correct typo in registration form
+0369. 🎨 style: standardize quote style
