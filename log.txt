@@ -80225,3 +80225,4 @@
 0339. 📚 docs: update README with setup steps
 0087. ✨ feat: add export to CSV option
 0021. ✨ feat: support email verification
+0477. 🐛 fix: fix broken CSS in mobile view
