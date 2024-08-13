@@ -55108,3 +55108,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0464. 🎨 style: remove trailing whitespace
 0186. ✅ test: test user registration edge cases
+0189. 📚 docs: clarify environment setup
