@@ -30148,3 +30148,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0452. ✨ feat: implement quiz timer feature
 0950. 🎨 style: reformat files with black
+0049. 🐛 fix: handle 500 error in quiz API
