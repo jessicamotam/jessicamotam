@@ -71493,3 +71493,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0233. 🚀 perf: lazy-load components
 0198. 📚 docs: clarify environment setup
+0456. 🚀 perf: optimize database query for quiz results
