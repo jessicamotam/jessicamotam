@@ -58635,3 +58635,4 @@
 0569. 📚 docs: document token refresh logic
 0899. 🚀 perf: cache repeated calculations
 0985. 📚 docs: document token refresh logic
+0491. 🚀 perf: lazy-load components
