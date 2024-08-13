@@ -18846,3 +18846,4 @@
 0719. 🎨 style: apply consistent indentation
 0970. ♻️ chore: update .gitignore
 0252. 🎨 style: remove trailing whitespace
+0821. ✅ test: add integration test for /submit endpoint
