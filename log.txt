@@ -8348,3 +8348,4 @@
 0462. ♻️ chore: update .gitignore
 0273. 🚀 perf: reduce image load time
 0535. 📚 docs: write FAQ section
+0521. 🎨 style: standardize quote style
