@@ -8391,3 +8391,4 @@
 0578. ✅ test: add integration test for /submit endpoint
 0824. 🚀 perf: lazy-load components
 0045. 🎨 style: apply consistent indentation
+0642. 🚀 perf: optimize database query for quiz results
