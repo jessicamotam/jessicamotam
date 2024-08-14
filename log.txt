@@ -37627,3 +37627,4 @@
 0984. ♻️ chore: clean up unused files
 0347. ♻️ chore: update .gitignore
 0427. ✅ test: mock database connection in test suite
+0736. 🐛 fix: fix null pointer exception on login
