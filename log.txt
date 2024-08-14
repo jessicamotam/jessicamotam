@@ -2789,3 +2789,4 @@
 0434. 📚 docs: document token refresh logic
 0795. 📚 docs: update README with setup steps
 0160. ♻️ chore: bump dependencies
+0186. ✅ test: test user registration edge cases
