@@ -36578,3 +36578,4 @@
 0360. ✨ feat: add export to CSV option
 0703. 🔧 refactor: clean up auth middleware
 0955. 🔧 refactor: remove redundant code blocks
+0722. 📚 docs: add API usage examples
