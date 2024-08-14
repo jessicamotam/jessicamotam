@@ -64718,3 +64718,4 @@
 0701. 🔧 refactor: clean up auth middleware
 0459. 🔧 refactor: organize models into subfolders
 0287. 📚 docs: write FAQ section
+0678. ✨ feat: add user authentication
