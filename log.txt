@@ -25411,3 +25411,4 @@
 0377. ✨ feat: add user authentication
 0939. 📚 docs: update README with setup steps
 0178. ✨ feat: support email verification
+0021. ✨ feat: support email verification
