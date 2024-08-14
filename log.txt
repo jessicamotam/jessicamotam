@@ -35318,3 +35318,4 @@
 0512. 🚀 perf: reduce image load time
 0648. ♻️ chore: bump dependencies
 0110. 🐛 fix: prevent crash on empty input
+0776. ✅ test: add integration test for /submit endpoint
