@@ -32016,3 +32016,4 @@
 0968. 🎨 style: standardize quote style
 0257. 📚 docs: clarify environment setup
 0571. 🔧 refactor: clean up auth middleware
+0547. 📚 docs: write FAQ section
