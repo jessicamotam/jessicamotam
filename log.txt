@@ -21479,3 +21479,4 @@
 0122. ✨ feat: support email verification
 0579. 📚 docs: clarify environment setup
 0708. ✅ test: add integration test for /submit endpoint
+0171. 🐛 fix: fix broken CSS in mobile view
