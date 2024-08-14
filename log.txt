@@ -19534,3 +19534,4 @@
 0077. ♻️ chore: rename env.example
 0724. ✅ test: mock database connection in test suite
 0454. ♻️ chore: bump dependencies
+0819. 🚀 perf: reduce image load time
