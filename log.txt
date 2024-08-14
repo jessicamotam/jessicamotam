@@ -83132,3 +83132,4 @@
 0059. ♻️ chore: bump dependencies
 0056. ♻️ chore: rename env.example
 0514. 🐛 fix: fix broken CSS in mobile view
+0237. 🎨 style: standardize quote style
