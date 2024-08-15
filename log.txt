@@ -33903,3 +33903,4 @@
 0770. ♻️ chore: rename env.example
 0761. ✅ test: add unit test for quiz service
 0078. ♻️ chore: update .gitignore
+0377. ✨ feat: add user authentication
