@@ -25772,3 +25772,4 @@
 0128. ♻️ chore: rename env.example
 0639. 🐛 fix: correct typo in registration form
 0019. ✨ feat: enable dark mode toggle
+0092. 🚀 perf: reduce image load time
