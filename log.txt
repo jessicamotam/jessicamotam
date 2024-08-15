@@ -90025,3 +90025,4 @@
 0816. 🔧 refactor: organize models into subfolders
 0175. 📚 docs: add API usage examples
 0704. 🚀 perf: cache repeated calculations
+0174. 📚 docs: clarify environment setup
