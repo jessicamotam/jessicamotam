@@ -64464,3 +64464,4 @@
 0387. ✨ feat: enable dark mode toggle
 0612. ✅ test: test user registration edge cases
 0338. ♻️ chore: add GitHub actions badge
+0244. ✨ feat: add export to CSV option
