@@ -53022,3 +53022,4 @@
 0086. 🐛 fix: correct typo in registration form
 0281. ✨ feat: support email verification
 0768. 🎨 style: remove trailing whitespace
+0668. 🚀 perf: optimize database query for quiz results
