@@ -25235,3 +25235,4 @@
 0678. ✨ feat: add user authentication
 0947. 📚 docs: write FAQ section
 0842. 🎨 style: remove trailing whitespace
+0584. 🚀 perf: lazy-load components
