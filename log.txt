@@ -63433,3 +63433,4 @@
 0526. ✨ feat: add user authentication
 0609. 🐛 fix: handle 500 error in quiz API
 0692. ✅ test: add integration test for /submit endpoint
+0192. ✨ feat: enable dark mode toggle
