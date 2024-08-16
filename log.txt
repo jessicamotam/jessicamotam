@@ -88750,3 +88750,4 @@
 0244. ✨ feat: add export to CSV option
 0788. 📚 docs: add API usage examples
 0467. ✅ test: add integration test for /submit endpoint
+0754. 🐛 fix: handle 500 error in quiz API
