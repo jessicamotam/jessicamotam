@@ -22993,3 +22993,4 @@
 0619. ✨ feat: create admin dashboard
 0507. 🔧 refactor: clean up auth middleware
 0122. ✨ feat: support email verification
+0004. 🚀 perf: optimize database query for quiz results
