@@ -10651,3 +10651,4 @@
 0341. 🚀 perf: lazy-load components
 0198. 📚 docs: clarify environment setup
 0059. ♻️ chore: bump dependencies
+0356. 📚 docs: write FAQ section
