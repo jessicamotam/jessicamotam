@@ -40091,3 +40091,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0036. 🔧 refactor: clean up auth middleware
 0291. 📚 docs: write FAQ section
+0042. 📚 docs: document token refresh logic
