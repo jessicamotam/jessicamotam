@@ -87484,3 +87484,4 @@
 0267. 📚 docs: improve code comments in utils
 0580. ♻️ chore: bump dependencies
 0999. 🔧 refactor: split large controller into smaller functions
+0706. ✨ feat: support email verification
