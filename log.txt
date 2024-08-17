@@ -77960,3 +77960,4 @@
 0499. 🎨 style: reformat files with black
 0849. 🐛 fix: correct typo in registration form
 0275. 🎨 style: standardize quote style
+0834. ✅ test: increase coverage on auth module
