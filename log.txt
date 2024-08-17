@@ -62423,3 +62423,4 @@
 0121. ✨ feat: support email verification
 0482. ✨ feat: add export to CSV option
 0637. 🎨 style: apply consistent indentation
+0259. 🚀 perf: lazy-load components
