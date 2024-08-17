@@ -6584,3 +6584,4 @@
 0037. 🐛 fix: correct typo in registration form
 0412. ✅ test: increase coverage on auth module
 0539. 🔧 refactor: organize models into subfolders
+0253. 📚 docs: update README with setup steps
