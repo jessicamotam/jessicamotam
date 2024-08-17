@@ -68969,3 +68969,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0697. ♻️ chore: bump dependencies
 0132. ✅ test: add unit test for quiz service
+0978. 🐛 fix: prevent crash on empty input
