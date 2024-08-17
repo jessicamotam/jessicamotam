@@ -51507,3 +51507,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0529. 📚 docs: write FAQ section
 0548. 📚 docs: write FAQ section
+0988. 🐛 fix: fix broken CSS in mobile view
