@@ -80744,3 +80744,4 @@
 0497. 🔧 refactor: refactor quiz grading logic
 0283. ♻️ chore: add GitHub actions badge
 0789. ✨ feat: create admin dashboard
+0558. ✨ feat: enable dark mode toggle
