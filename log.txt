@@ -739,3 +739,4 @@
 0519. 📚 docs: document token refresh logic
 0404. 📚 docs: improve code comments in utils
 0374. 🎨 style: standardize quote style
+0970. ♻️ chore: update .gitignore
