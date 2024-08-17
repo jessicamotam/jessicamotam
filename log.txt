@@ -24516,3 +24516,4 @@
 0786. ✨ feat: enable dark mode toggle
 0809. ♻️ chore: rename env.example
 0595. ✨ feat: enable dark mode toggle
+0955. 🔧 refactor: remove redundant code blocks
