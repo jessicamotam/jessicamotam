@@ -79410,3 +79410,4 @@
 0963. 🚀 perf: reduce image load time
 0795. 📚 docs: update README with setup steps
 0606. 📚 docs: improve code comments in utils
+0804. ♻️ chore: add GitHub actions badge
