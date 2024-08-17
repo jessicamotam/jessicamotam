@@ -31737,3 +31737,4 @@
 0536. ✨ feat: add user authentication
 0772. 🐛 fix: fix null pointer exception on login
 0861. ♻️ chore: clean up unused files
+0205. 📚 docs: update README with setup steps
