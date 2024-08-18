@@ -42631,3 +42631,4 @@
 0983. 🔧 refactor: split large controller into smaller functions
 0974. ✨ feat: add export to CSV option
 0179. 🔧 refactor: split large controller into smaller functions
+0307. ✨ feat: support email verification
