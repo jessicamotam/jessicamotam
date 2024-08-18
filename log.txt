@@ -53467,3 +53467,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0772. 🐛 fix: fix null pointer exception on login
 0964. ♻️ chore: clean up unused files
+0669. ✨ feat: enable dark mode toggle
