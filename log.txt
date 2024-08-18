@@ -32915,3 +32915,4 @@
 0308. 🚀 perf: reduce image load time
 0595. ✨ feat: enable dark mode toggle
 0832. 🔧 refactor: remove redundant code blocks
+0502. 📚 docs: update README with setup steps
