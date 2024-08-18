@@ -21963,3 +21963,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0589. 🐛 fix: fix broken CSS in mobile view
 0167. 🚀 perf: reduce image load time
+0970. ♻️ chore: update .gitignore
