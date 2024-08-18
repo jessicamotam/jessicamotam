@@ -83410,3 +83410,4 @@
 0965. 🎨 style: reformat files with black
 0088. 📚 docs: add API usage examples
 0862. ♻️ chore: bump dependencies
+0926. 🔧 refactor: organize models into subfolders
