@@ -82103,3 +82103,4 @@
 0145. 📚 docs: improve code comments in utils
 0738. 🐛 fix: prevent crash on empty input
 0189. 📚 docs: clarify environment setup
+0721. 🚀 perf: optimize database query for quiz results
