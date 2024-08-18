@@ -80481,3 +80481,4 @@
 0768. 🎨 style: remove trailing whitespace
 0641. 📚 docs: write FAQ section
 0517. ✅ test: mock database connection in test suite
+0053. ✅ test: increase coverage on auth module
