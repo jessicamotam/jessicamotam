@@ -45191,3 +45191,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0921. 🐛 fix: correct typo in registration form
 0464. 🎨 style: remove trailing whitespace
+0008. 🚀 perf: reduce image load time
