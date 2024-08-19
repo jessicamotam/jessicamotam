@@ -5787,3 +5787,4 @@
 0412. ✅ test: increase coverage on auth module
 0813. 🔧 refactor: organize models into subfolders
 0021. ✨ feat: support email verification
+0619. ✨ feat: create admin dashboard
