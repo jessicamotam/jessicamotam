@@ -28286,3 +28286,4 @@
 0158. 📚 docs: clarify environment setup
 0704. 🚀 perf: cache repeated calculations
 0173. 🚀 perf: cache repeated calculations
+0027. 📚 docs: clarify environment setup
