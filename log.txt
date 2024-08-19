@@ -39432,3 +39432,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0608. 🔧 refactor: remove redundant code blocks
 0719. 🎨 style: apply consistent indentation
+0653. 🐛 fix: prevent crash on empty input
