@@ -13274,3 +13274,4 @@
 0618. ✨ feat: support email verification
 0118. 🚀 perf: reduce image load time
 0998. 🐛 fix: fix null pointer exception on login
+0403. ✅ test: mock database connection in test suite
