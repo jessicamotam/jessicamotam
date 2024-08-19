@@ -3939,3 +3939,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0006. 🐛 fix: prevent crash on empty input
 0363. 📚 docs: clarify environment setup
+0569. 📚 docs: document token refresh logic
