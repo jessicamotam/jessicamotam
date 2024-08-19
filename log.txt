@@ -17319,3 +17319,4 @@
 0523. ♻️ chore: bump dependencies
 0994. 🚀 perf: reduce image load time
 0964. ♻️ chore: clean up unused files
+0111. 📚 docs: update README with setup steps
