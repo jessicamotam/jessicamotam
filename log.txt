@@ -49175,3 +49175,4 @@
 0696. 🔧 refactor: clean up auth middleware
 0646. ✅ test: test user registration edge cases
 0523. ♻️ chore: bump dependencies
+0518. ✨ feat: support email verification
