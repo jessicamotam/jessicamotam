@@ -5394,3 +5394,4 @@
 0939. 📚 docs: update README with setup steps
 0360. ✨ feat: add export to CSV option
 0360. ✨ feat: add export to CSV option
+0947. 📚 docs: write FAQ section
