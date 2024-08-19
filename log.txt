@@ -62734,3 +62734,4 @@
 0592. 📚 docs: add API usage examples
 0268. 🐛 fix: prevent crash on empty input
 0666. 🐛 fix: fix broken CSS in mobile view
+0575. ✅ test: add unit test for quiz service
