@@ -39549,3 +39549,4 @@
 0182. 🔧 refactor: remove redundant code blocks
 0103. 🔧 refactor: remove redundant code blocks
 0199. ✨ feat: create admin dashboard
+0531. 🐛 fix: prevent crash on empty input
