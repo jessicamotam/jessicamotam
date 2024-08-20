@@ -12681,3 +12681,4 @@
 0276. ✅ test: add integration test for /submit endpoint
 0810. 🔧 refactor: refactor quiz grading logic
 0369. 🎨 style: standardize quote style
+0439. 🐛 fix: correct typo in registration form
