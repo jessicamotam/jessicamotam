@@ -84487,3 +84487,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0176. 🔧 refactor: remove redundant code blocks
 0117. ✅ test: increase coverage on auth module
+0668. 🚀 perf: optimize database query for quiz results
