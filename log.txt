@@ -31138,3 +31138,4 @@
 0644. 🎨 style: apply consistent indentation
 0810. 🔧 refactor: refactor quiz grading logic
 0117. ✅ test: increase coverage on auth module
+0222. 🐛 fix: handle 500 error in quiz API
