@@ -43288,3 +43288,4 @@
 0485. 📚 docs: update README with setup steps
 0121. ✨ feat: support email verification
 0378. 🐛 fix: prevent crash on empty input
+0283. ♻️ chore: add GitHub actions badge
