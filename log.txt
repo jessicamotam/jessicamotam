@@ -82990,3 +82990,4 @@
 0051. ✨ feat: enable dark mode toggle
 0647. 🐛 fix: prevent crash on empty input
 0850. ♻️ chore: rename env.example
+0971. 🎨 style: standardize quote style
