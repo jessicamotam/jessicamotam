@@ -63483,3 +63483,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0318. 🔧 refactor: refactor quiz grading logic
 0796. 🔧 refactor: refactor quiz grading logic
+0895. ✨ feat: support email verification
