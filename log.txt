@@ -2092,3 +2092,4 @@
 0122. ✨ feat: support email verification
 0120. ✅ test: add integration test for /submit endpoint
 0812. 🔧 refactor: refactor quiz grading logic
+0625. 🐛 fix: handle 500 error in quiz API
