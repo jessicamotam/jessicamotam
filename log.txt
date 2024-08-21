@@ -10540,3 +10540,4 @@
 0437. 📚 docs: clarify environment setup
 0658. 🎨 style: rename variables for clarity
 0972. 🔧 refactor: refactor quiz grading logic
+0531. 🐛 fix: prevent crash on empty input
