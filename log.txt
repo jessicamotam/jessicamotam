@@ -11677,3 +11677,4 @@
 0476. 🚀 perf: reduce image load time
 0660. 🐛 fix: correct typo in registration form
 0806. 📚 docs: improve code comments in utils
+0283. ♻️ chore: add GitHub actions badge
