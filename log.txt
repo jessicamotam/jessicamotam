@@ -62812,3 +62812,4 @@
 0782. 📚 docs: improve code comments in utils
 0563. 📚 docs: clarify environment setup
 0008. 🚀 perf: reduce image load time
+0690. 🚀 perf: lazy-load components
