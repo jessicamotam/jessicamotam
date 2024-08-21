@@ -5665,3 +5665,4 @@
 0405. ✅ test: mock database connection in test suite
 0274. 🔧 refactor: refactor quiz grading logic
 0101. 📚 docs: clarify environment setup
+0514. 🐛 fix: fix broken CSS in mobile view
