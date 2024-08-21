@@ -47333,3 +47333,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0345. 📚 docs: document token refresh logic
 0344. ♻️ chore: add GitHub actions badge
+0880. 🐛 fix: fix broken CSS in mobile view
