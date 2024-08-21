@@ -8547,3 +8547,4 @@
 0941. 🚀 perf: cache repeated calculations
 0463. 🚀 perf: reduce image load time
 0485. 📚 docs: update README with setup steps
+0922. 📚 docs: write FAQ section
