@@ -11572,3 +11572,4 @@
 0892. ✅ test: add unit test for quiz service
 0481. ✅ test: add unit test for quiz service
 0523. ♻️ chore: bump dependencies
+0934. ✨ feat: support email verification
