@@ -41945,3 +41945,4 @@
 0114. ♻️ chore: update .gitignore
 0365. 🚀 perf: reduce image load time
 0250. 📚 docs: update README with setup steps
+0548. 📚 docs: write FAQ section
