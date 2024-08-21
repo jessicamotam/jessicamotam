@@ -40054,3 +40054,4 @@
 0335. ♻️ chore: update .gitignore
 0139. 📚 docs: document token refresh logic
 0379. ✨ feat: support email verification
+0735. ♻️ chore: add GitHub actions badge
