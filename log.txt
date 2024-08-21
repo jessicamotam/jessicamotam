@@ -72137,3 +72137,4 @@
 0689. 🎨 style: reformat files with black
 0053. ✅ test: increase coverage on auth module
 0799. ♻️ chore: clean up unused files
+0420. 🚀 perf: reduce image load time
