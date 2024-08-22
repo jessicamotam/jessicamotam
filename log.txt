@@ -61147,3 +61147,4 @@
 0612. ✅ test: test user registration edge cases
 0646. ✅ test: test user registration edge cases
 0250. 📚 docs: update README with setup steps
+0788. 📚 docs: add API usage examples
