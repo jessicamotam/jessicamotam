@@ -4488,3 +4488,4 @@
 0854. ♻️ chore: rename env.example
 0698. 🐛 fix: handle 500 error in quiz API
 0311. 🎨 style: apply consistent indentation
+0495. 🔧 refactor: remove redundant code blocks
