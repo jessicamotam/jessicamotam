@@ -3897,3 +3897,4 @@
 0287. 📚 docs: write FAQ section
 0856. 🐛 fix: fix null pointer exception on login
 0462. ♻️ chore: update .gitignore
+0768. 🎨 style: remove trailing whitespace
