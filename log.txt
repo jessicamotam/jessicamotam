@@ -3424,3 +3424,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0068. 🐛 fix: fix null pointer exception on login
 0846. ✨ feat: implement quiz timer feature
+0080. ✨ feat: support email verification
