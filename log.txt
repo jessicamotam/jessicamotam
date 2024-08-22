@@ -5020,3 +5020,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0254. 🚀 perf: reduce image load time
 0660. 🐛 fix: correct typo in registration form
+0939. 📚 docs: update README with setup steps
