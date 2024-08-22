@@ -29627,3 +29627,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0451. ✨ feat: support email verification
 0574. ✨ feat: enable dark mode toggle
+0338. ♻️ chore: add GitHub actions badge
