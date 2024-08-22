@@ -51802,3 +51802,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0984. ♻️ chore: clean up unused files
 0159. 🚀 perf: lazy-load components
+0102. ✨ feat: support email verification
