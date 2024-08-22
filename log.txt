@@ -50517,3 +50517,4 @@
 0329. 📚 docs: update README with setup steps
 0316. 🐛 fix: fix broken CSS in mobile view
 0781. 🚀 perf: reduce image load time
+0058. ♻️ chore: add GitHub actions badge
