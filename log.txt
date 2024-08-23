@@ -77470,3 +77470,4 @@
 0895. ✨ feat: support email verification
 0997. ✅ test: increase coverage on auth module
 0991. ♻️ chore: clean up unused files
+0036. 🔧 refactor: clean up auth middleware
