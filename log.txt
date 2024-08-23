@@ -34709,3 +34709,4 @@
 0986. 📚 docs: document token refresh logic
 0605. ✨ feat: support email verification
 0686. 🎨 style: standardize quote style
+0231. 🔧 refactor: clean up auth middleware
