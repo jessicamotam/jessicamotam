@@ -60857,3 +60857,4 @@
 0147. ♻️ chore: bump dependencies
 0990. ♻️ chore: rename env.example
 0359. 🔧 refactor: clean up auth middleware
+0691. 🎨 style: rename variables for clarity
