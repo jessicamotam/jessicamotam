@@ -21360,3 +21360,4 @@
 0798. 🚀 perf: reduce image load time
 0731. 🎨 style: standardize quote style
 0160. ♻️ chore: bump dependencies
+0021. ✨ feat: support email verification
