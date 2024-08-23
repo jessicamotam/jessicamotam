@@ -89260,3 +89260,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0908. ♻️ chore: bump dependencies
 0110. 🐛 fix: prevent crash on empty input
+0391. 🐛 fix: fix null pointer exception on login
