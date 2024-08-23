@@ -26390,3 +26390,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0602. 🔧 refactor: remove redundant code blocks
 0215. 🎨 style: reformat files with black
+0121. ✨ feat: support email verification
