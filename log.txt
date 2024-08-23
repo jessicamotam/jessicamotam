@@ -45819,3 +45819,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0655. 🚀 perf: cache repeated calculations
 0574. ✨ feat: enable dark mode toggle
+0703. 🔧 refactor: clean up auth middleware
