@@ -70344,3 +70344,4 @@
 0778. 📚 docs: write FAQ section
 0324. 📚 docs: document token refresh logic
 0345. 📚 docs: document token refresh logic
+0116. ✨ feat: support email verification
