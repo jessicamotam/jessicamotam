@@ -8053,3 +8053,4 @@
 0516. ✅ test: add unit test for quiz service
 0963. 🚀 perf: reduce image load time
 0540. ♻️ chore: add GitHub actions badge
+0473. 📚 docs: write FAQ section
