@@ -47512,3 +47512,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0606. 📚 docs: improve code comments in utils
 0131. 📚 docs: write FAQ section
+0742. 📚 docs: clarify environment setup
