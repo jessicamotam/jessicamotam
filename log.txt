@@ -39103,3 +39103,4 @@
 0350. 🚀 perf: cache repeated calculations
 0394. 🚀 perf: lazy-load components
 0144. ✅ test: increase coverage on auth module
+0040. 🔧 refactor: clean up auth middleware
