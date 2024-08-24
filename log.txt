@@ -66760,3 +66760,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0542. 🔧 refactor: organize models into subfolders
 0896. 🚀 perf: reduce image load time
+0397. 🐛 fix: handle 500 error in quiz API
