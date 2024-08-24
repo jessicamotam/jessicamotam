@@ -15421,3 +15421,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0711. 🐛 fix: fix broken CSS in mobile view
 0503. ♻️ chore: rename env.example
+0211. 🔧 refactor: remove redundant code blocks
