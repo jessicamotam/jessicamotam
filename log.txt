@@ -29759,3 +29759,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0017. ✅ test: mock database connection in test suite
 0880. 🐛 fix: fix broken CSS in mobile view
+0848. 📚 docs: update README with setup steps
