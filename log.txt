@@ -31422,3 +31422,4 @@
 0694. 🎨 style: rename variables for clarity
 0116. ✨ feat: support email verification
 0471. ✨ feat: support email verification
+0305. ✨ feat: enable dark mode toggle
