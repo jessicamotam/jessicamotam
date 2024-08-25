@@ -85481,3 +85481,4 @@
 0147. ♻️ chore: bump dependencies
 0325. 🎨 style: rename variables for clarity
 0096. 🐛 fix: prevent crash on empty input
+0998. 🐛 fix: fix null pointer exception on login
