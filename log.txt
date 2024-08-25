@@ -80447,3 +80447,4 @@
 0295. 🎨 style: remove trailing whitespace
 0341. 🚀 perf: lazy-load components
 0739. 🎨 style: remove trailing whitespace
+0706. ✨ feat: support email verification
