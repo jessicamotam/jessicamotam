@@ -7276,3 +7276,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0196. ♻️ chore: bump dependencies
 0834. ✅ test: increase coverage on auth module
+0088. 📚 docs: add API usage examples
