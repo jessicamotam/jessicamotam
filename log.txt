@@ -37412,3 +37412,4 @@
 0618. ✨ feat: support email verification
 0714. 📚 docs: improve code comments in utils
 0042. 📚 docs: document token refresh logic
+0696. 🔧 refactor: clean up auth middleware
