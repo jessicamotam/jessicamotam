@@ -71423,3 +71423,4 @@
 0121. ✨ feat: support email verification
 0842. 🎨 style: remove trailing whitespace
 0337. 📚 docs: document token refresh logic
+0010. ✨ feat: add user authentication
