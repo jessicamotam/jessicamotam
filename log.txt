@@ -23820,3 +23820,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0833. ✨ feat: add user authentication
 0942. ✅ test: increase coverage on auth module
+0369. 🎨 style: standardize quote style
