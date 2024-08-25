@@ -27712,3 +27712,4 @@
 0564. 📚 docs: clarify environment setup
 0479. 🐛 fix: fix null pointer exception on login
 0997. ✅ test: increase coverage on auth module
+0150. 🎨 style: remove trailing whitespace
