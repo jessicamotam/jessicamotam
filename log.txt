@@ -2968,3 +2968,4 @@
 0960. ✅ test: increase coverage on auth module
 0258. 🐛 fix: prevent crash on empty input
 0318. 🔧 refactor: refactor quiz grading logic
+0856. 🐛 fix: fix null pointer exception on login
