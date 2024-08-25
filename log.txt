@@ -88219,3 +88219,4 @@
 0585. 🚀 perf: lazy-load components
 0044. ✅ test: add unit test for quiz service
 0258. 🐛 fix: prevent crash on empty input
+0917. ✅ test: add integration test for /submit endpoint
