@@ -23100,3 +23100,4 @@
 0719. 🎨 style: apply consistent indentation
 0204. 🎨 style: standardize quote style
 0880. 🐛 fix: fix broken CSS in mobile view
+0697. ♻️ chore: bump dependencies
