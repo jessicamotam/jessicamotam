@@ -87333,3 +87333,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0924. ✅ test: mock database connection in test suite
 0129. 🔧 refactor: organize models into subfolders
+0320. 📚 docs: update README with setup steps
