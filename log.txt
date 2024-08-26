@@ -33950,3 +33950,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0638. 📚 docs: improve code comments in utils
 0953. 🎨 style: remove trailing whitespace
+0890. 🔧 refactor: organize models into subfolders
