@@ -65155,3 +65155,4 @@
 0639. 🐛 fix: correct typo in registration form
 0961. 📚 docs: add API usage examples
 0339. 📚 docs: update README with setup steps
+0989. 📚 docs: write FAQ section
