@@ -5015,3 +5015,4 @@
 0142. ✨ feat: implement quiz timer feature
 0785. ✨ feat: enable dark mode toggle
 0335. ♻️ chore: update .gitignore
+0692. ✅ test: add integration test for /submit endpoint
