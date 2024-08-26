@@ -11582,3 +11582,4 @@
 0749. ✨ feat: support email verification
 0600. 🐛 fix: prevent crash on empty input
 0174. 📚 docs: clarify environment setup
+0813. 🔧 refactor: organize models into subfolders
