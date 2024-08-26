@@ -588,3 +588,4 @@
 0300. ✨ feat: add export to CSV option
 0049. 🐛 fix: handle 500 error in quiz API
 0155. ✨ feat: create admin dashboard
+0085. ✨ feat: support email verification
