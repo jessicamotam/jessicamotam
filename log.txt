@@ -79507,3 +79507,4 @@
 0102. ✨ feat: support email verification
 0611. ✅ test: test user registration edge cases
 0174. 📚 docs: clarify environment setup
+0041. 🐛 fix: fix broken CSS in mobile view
