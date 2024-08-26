@@ -5678,3 +5678,4 @@
 0033. 🎨 style: apply consistent indentation
 0869. ♻️ chore: bump dependencies
 0473. 📚 docs: write FAQ section
+0064. 📚 docs: clarify environment setup
