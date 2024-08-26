@@ -67069,3 +67069,4 @@
 0205. 📚 docs: update README with setup steps
 0854. ♻️ chore: rename env.example
 0710. 🐛 fix: fix broken CSS in mobile view
+0487. 🎨 style: reformat files with black
