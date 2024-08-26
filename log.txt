@@ -45856,3 +45856,4 @@
 0687. 🎨 style: remove trailing whitespace
 0660. 🐛 fix: correct typo in registration form
 0781. 🚀 perf: reduce image load time
+0794. ♻️ chore: clean up unused files
