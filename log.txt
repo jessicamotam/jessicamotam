@@ -90899,3 +90899,4 @@
 0292. 📚 docs: clarify environment setup
 0423. ✅ test: mock database connection in test suite
 0959. 🐛 fix: fix null pointer exception on login
+0826. 📚 docs: clarify environment setup
