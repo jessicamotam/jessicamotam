@@ -48157,3 +48157,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0787. ♻️ chore: rename env.example
 0372. ✨ feat: add user authentication
+0657. 🎨 style: standardize quote style
