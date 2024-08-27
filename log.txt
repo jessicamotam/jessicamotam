@@ -28955,3 +28955,4 @@
 0580. ♻️ chore: bump dependencies
 0998. 🐛 fix: fix null pointer exception on login
 0633. ✨ feat: add user authentication
+0797. 📚 docs: add API usage examples
