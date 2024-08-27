@@ -83901,3 +83901,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0105. 🐛 fix: correct typo in registration form
 0770. ♻️ chore: rename env.example
+0947. 📚 docs: write FAQ section
