@@ -31741,3 +31741,4 @@
 0405. ✅ test: mock database connection in test suite
 0308. 🚀 perf: reduce image load time
 0533. ♻️ chore: add GitHub actions badge
+0227. ✅ test: test user registration edge cases
