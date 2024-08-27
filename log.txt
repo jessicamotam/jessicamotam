@@ -56455,3 +56455,4 @@
 0968. 🎨 style: standardize quote style
 0203. 🚀 perf: lazy-load components
 0771. 🚀 perf: cache repeated calculations
+0222. 🐛 fix: handle 500 error in quiz API
