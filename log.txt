@@ -18854,3 +18854,4 @@
 0929. ✨ feat: support email verification
 0332. 🎨 style: standardize quote style
 0609. 🐛 fix: handle 500 error in quiz API
+0152. ✨ feat: add user authentication
