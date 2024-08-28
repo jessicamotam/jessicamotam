@@ -19307,3 +19307,4 @@
 0179. 🔧 refactor: split large controller into smaller functions
 0268. 🐛 fix: prevent crash on empty input
 0294. 🐛 fix: prevent crash on empty input
+0583. ✅ test: increase coverage on auth module
