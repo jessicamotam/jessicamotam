@@ -65983,3 +65983,4 @@
 0679. ♻️ chore: bump dependencies
 0311. 🎨 style: apply consistent indentation
 0212. 🎨 style: standardize quote style
+0225. 🚀 perf: reduce image load time
