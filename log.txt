@@ -73589,3 +73589,4 @@
 0789. ✨ feat: create admin dashboard
 0531. 🐛 fix: prevent crash on empty input
 0094. 📚 docs: document token refresh logic
+0041. 🐛 fix: fix broken CSS in mobile view
