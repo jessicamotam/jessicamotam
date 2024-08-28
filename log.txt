@@ -4215,3 +4215,4 @@
 0368. 🚀 perf: lazy-load components
 0633. ✨ feat: add user authentication
 0323. 📚 docs: clarify environment setup
+0434. 📚 docs: document token refresh logic
