@@ -36254,3 +36254,4 @@
 0281. ✨ feat: support email verification
 0820. 📚 docs: add API usage examples
 0546. 🐛 fix: fix null pointer exception on login
+0621. 🔧 refactor: clean up auth middleware
