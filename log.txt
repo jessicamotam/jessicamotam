@@ -5643,3 +5643,4 @@
 0370. 🚀 perf: reduce image load time
 0866. 📚 docs: add API usage examples
 0931. 🚀 perf: reduce image load time
+0243. 🔧 refactor: clean up auth middleware
