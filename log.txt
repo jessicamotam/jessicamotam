@@ -38914,3 +38914,4 @@
 0245. 🐛 fix: resolve issue with date parsing
 0960. ✅ test: increase coverage on auth module
 0610. 🚀 perf: lazy-load components
+0935. 📚 docs: update README with setup steps
