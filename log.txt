@@ -38341,3 +38341,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0393. 🚀 perf: lazy-load components
 0754. 🐛 fix: handle 500 error in quiz API
+0879. 🎨 style: standardize quote style
