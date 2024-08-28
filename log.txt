@@ -89290,3 +89290,4 @@
 0091. ✨ feat: add user authentication
 0088. 📚 docs: add API usage examples
 0344. ♻️ chore: add GitHub actions badge
+0023. 📚 docs: clarify environment setup
