@@ -5169,3 +5169,4 @@
 0194. 🎨 style: standardize quote style
 0372. ✨ feat: add user authentication
 0045. 🎨 style: apply consistent indentation
+0747. 🔧 refactor: clean up auth middleware
