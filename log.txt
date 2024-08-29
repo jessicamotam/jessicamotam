@@ -14357,3 +14357,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0051. ✨ feat: enable dark mode toggle
 0450. 🐛 fix: fix broken CSS in mobile view
+0894. ✅ test: add integration test for /submit endpoint
