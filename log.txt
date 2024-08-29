@@ -52344,3 +52344,4 @@
 0481. ✅ test: add unit test for quiz service
 0869. ♻️ chore: bump dependencies
 0760. 🐛 fix: resolve issue with date parsing
+0609. 🐛 fix: handle 500 error in quiz API
