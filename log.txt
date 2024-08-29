@@ -4844,3 +4844,4 @@
 0234. ♻️ chore: rename env.example
 0150. 🎨 style: remove trailing whitespace
 0407. 🚀 perf: cache repeated calculations
+0834. ✅ test: increase coverage on auth module
