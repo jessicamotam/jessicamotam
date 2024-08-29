@@ -63630,3 +63630,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0614. 🚀 perf: reduce image load time
 0090. ✅ test: increase coverage on auth module
+0571. 🔧 refactor: clean up auth middleware
