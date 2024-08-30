@@ -8347,3 +8347,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0462. ♻️ chore: update .gitignore
 0273. 🚀 perf: reduce image load time
+0535. 📚 docs: write FAQ section
