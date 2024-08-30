@@ -59470,3 +59470,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0448. 🐛 fix: correct typo in registration form
 0513. ♻️ chore: bump dependencies
+0053. ✅ test: increase coverage on auth module
