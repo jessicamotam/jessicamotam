@@ -6712,3 +6712,4 @@
 0151. ✅ test: add unit test for quiz service
 0935. 📚 docs: update README with setup steps
 0535. 📚 docs: write FAQ section
+0136. 🚀 perf: lazy-load components
