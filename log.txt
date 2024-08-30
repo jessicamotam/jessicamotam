@@ -88850,3 +88850,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0400. 🐛 fix: fix null pointer exception on login
 0736. 🐛 fix: fix null pointer exception on login
+0852. ✨ feat: enable dark mode toggle
