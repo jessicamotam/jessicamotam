@@ -51388,3 +51388,4 @@
 0985. 📚 docs: document token refresh logic
 0873. 🚀 perf: cache repeated calculations
 0725. 🚀 perf: lazy-load components
+0994. 🚀 perf: reduce image load time
