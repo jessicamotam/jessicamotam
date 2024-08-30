@@ -77914,3 +77914,4 @@
 0971. 🎨 style: standardize quote style
 0100. ♻️ chore: update .gitignore
 0368. 🚀 perf: lazy-load components
+0197. 📚 docs: update README with setup steps
