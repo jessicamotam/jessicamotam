@@ -2639,3 +2639,4 @@
 0029. 🚀 perf: lazy-load components
 0617. ✨ feat: support email verification
 0101. 📚 docs: clarify environment setup
+0880. 🐛 fix: fix broken CSS in mobile view
