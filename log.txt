@@ -32225,3 +32225,4 @@
 0060. ♻️ chore: clean up unused files
 0091. ✨ feat: add user authentication
 0663. 🚀 perf: reduce image load time
+0473. 📚 docs: write FAQ section
