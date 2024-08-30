@@ -23437,3 +23437,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0603. 🐛 fix: fix broken CSS in mobile view
 0414. 🔧 refactor: remove redundant code blocks
+0203. 🚀 perf: lazy-load components
