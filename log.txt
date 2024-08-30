@@ -67319,3 +67319,4 @@
 0027. 📚 docs: clarify environment setup
 0172. 📚 docs: add API usage examples
 0730. ✅ test: test user registration edge cases
+0504. 📚 docs: document token refresh logic
