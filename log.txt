@@ -41515,3 +41515,4 @@
 0431. 🎨 style: reformat files with black
 0024. 📚 docs: write FAQ section
 0384. 📚 docs: clarify environment setup
+0843. 📚 docs: document token refresh logic
