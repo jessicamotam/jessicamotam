@@ -13287,3 +13287,4 @@
 0259. 🚀 perf: lazy-load components
 0682. ♻️ chore: rename env.example
 0443. 🎨 style: standardize quote style
+0078. ♻️ chore: update .gitignore
