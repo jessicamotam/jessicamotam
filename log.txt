@@ -69700,3 +69700,4 @@
 0291. 📚 docs: write FAQ section
 0964. ♻️ chore: clean up unused files
 0532. 🔧 refactor: split large controller into smaller functions
+0207. 🐛 fix: prevent crash on empty input
