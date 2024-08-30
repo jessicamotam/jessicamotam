@@ -73400,3 +73400,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0351. ✨ feat: add export to CSV option
 0156. 🎨 style: rename variables for clarity
+0633. ✨ feat: add user authentication
