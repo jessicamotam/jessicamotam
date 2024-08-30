@@ -62139,3 +62139,4 @@
 0885. ♻️ chore: update .gitignore
 0265. 🎨 style: reformat files with black
 0864. 🐛 fix: correct typo in registration form
+0779. 🔧 refactor: organize models into subfolders
