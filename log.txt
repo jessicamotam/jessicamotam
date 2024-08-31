@@ -23415,3 +23415,4 @@
 1000. ✅ test: increase coverage on auth module
 0682. ♻️ chore: rename env.example
 0264. 🚀 perf: optimize database query for quiz results
+0660. 🐛 fix: correct typo in registration form
