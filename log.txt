@@ -20501,3 +20501,4 @@
 0210. 🎨 style: apply consistent indentation
 0802. 🔧 refactor: remove redundant code blocks
 0945. ♻️ chore: add GitHub actions badge
+0863. 🐛 fix: correct typo in registration form
