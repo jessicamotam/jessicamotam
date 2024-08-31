@@ -78125,3 +78125,4 @@
 0168. ✅ test: add integration test for /submit endpoint
 0970. ♻️ chore: update .gitignore
 0509. ♻️ chore: bump dependencies
+0320. 📚 docs: update README with setup steps
