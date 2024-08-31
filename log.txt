@@ -6719,3 +6719,4 @@
 0035. ✅ test: increase coverage on auth module
 0275. 🎨 style: standardize quote style
 0521. 🎨 style: standardize quote style
+0627. 📚 docs: document token refresh logic
