@@ -49233,3 +49233,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0460. 📚 docs: write FAQ section
 0309. 🔧 refactor: refactor quiz grading logic
+0649. 📚 docs: update README with setup steps
