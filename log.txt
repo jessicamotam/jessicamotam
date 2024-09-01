@@ -60107,3 +60107,4 @@
 0349. ✅ test: increase coverage on auth module
 0490. ✨ feat: create admin dashboard
 0671. 🐛 fix: fix null pointer exception on login
+0832. 🔧 refactor: remove redundant code blocks
