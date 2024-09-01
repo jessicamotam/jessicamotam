@@ -26680,3 +26680,4 @@
 0631. ✨ feat: create admin dashboard
 0225. 🚀 perf: reduce image load time
 0580. ♻️ chore: bump dependencies
+0084. 🐛 fix: handle 500 error in quiz API
