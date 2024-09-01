@@ -19614,3 +19614,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0931. 🚀 perf: reduce image load time
 0997. ✅ test: increase coverage on auth module
+0238. 🎨 style: apply consistent indentation
