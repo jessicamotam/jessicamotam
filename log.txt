@@ -56880,3 +56880,4 @@
 0116. ✨ feat: support email verification
 0439. 🐛 fix: correct typo in registration form
 0128. ♻️ chore: rename env.example
+0062. ♻️ chore: update .gitignore
