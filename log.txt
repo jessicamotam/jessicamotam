@@ -26967,3 +26967,4 @@
 0251. ♻️ chore: update .gitignore
 0048. 📚 docs: update README with setup steps
 0673. 🐛 fix: correct typo in registration form
+0220. 🐛 fix: fix null pointer exception on login
