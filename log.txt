@@ -18152,3 +18152,4 @@
 0044. ✅ test: add unit test for quiz service
 0766. 🎨 style: reformat files with black
 0543. ✨ feat: support email verification
+0657. 🎨 style: standardize quote style
