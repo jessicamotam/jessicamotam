@@ -81896,3 +81896,4 @@
 0709. ♻️ chore: bump dependencies
 0001. 🚀 perf: cache repeated calculations
 0294. 🐛 fix: prevent crash on empty input
+0994. 🚀 perf: reduce image load time
