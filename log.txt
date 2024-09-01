@@ -84633,3 +84633,4 @@
 0931. 🚀 perf: reduce image load time
 0339. 📚 docs: update README with setup steps
 0554. 📚 docs: improve code comments in utils
+0154. 🐛 fix: prevent crash on empty input
