@@ -13062,3 +13062,4 @@
 0388. 🎨 style: reformat files with black
 0566. 📚 docs: write FAQ section
 0901. ✨ feat: add user authentication
+0105. 🐛 fix: correct typo in registration form
