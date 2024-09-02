@@ -9418,3 +9418,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0116. ✨ feat: support email verification
 0460. 📚 docs: write FAQ section
+0512. 🚀 perf: reduce image load time
