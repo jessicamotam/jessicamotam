@@ -61973,3 +61973,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0561. 📚 docs: write FAQ section
 0699. 🎨 style: standardize quote style
+0153. ♻️ chore: rename env.example
