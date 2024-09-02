@@ -17017,3 +17017,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0946. ✅ test: add unit test for quiz service
 0220. 🐛 fix: fix null pointer exception on login
+0764. ✨ feat: add user authentication
