@@ -10144,3 +10144,4 @@
 0279. ✨ feat: support email verification
 0725. 🚀 perf: lazy-load components
 0905. ♻️ chore: bump dependencies
+0771. 🚀 perf: cache repeated calculations
