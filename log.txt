@@ -1760,3 +1760,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0753. 🔧 refactor: remove redundant code blocks
 0844. 📚 docs: update README with setup steps
+0129. 🔧 refactor: organize models into subfolders
