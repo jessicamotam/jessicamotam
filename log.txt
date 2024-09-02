@@ -63888,3 +63888,4 @@
 0349. ✅ test: increase coverage on auth module
 0626. 🎨 style: standardize quote style
 0802. 🔧 refactor: remove redundant code blocks
+0759. 🔧 refactor: organize models into subfolders
