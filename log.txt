@@ -90351,3 +90351,4 @@
 0227. ✅ test: test user registration edge cases
 0566. 📚 docs: write FAQ section
 0896. 🚀 perf: reduce image load time
+0589. 🐛 fix: fix broken CSS in mobile view
