@@ -6728,3 +6728,4 @@
 0146. 🎨 style: apply consistent indentation
 0520. 🐛 fix: fix null pointer exception on login
 0499. 🎨 style: reformat files with black
+0672. 🐛 fix: fix broken CSS in mobile view
