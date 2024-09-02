@@ -18035,3 +18035,4 @@
 0563. 📚 docs: clarify environment setup
 0372. ✨ feat: add user authentication
 0405. ✅ test: mock database connection in test suite
+0847. ♻️ chore: clean up unused files
