@@ -89149,3 +89149,4 @@
 0837. 🚀 perf: cache repeated calculations
 0270. ♻️ chore: rename env.example
 0034. 📚 docs: improve code comments in utils
+0343. 🚀 perf: optimize database query for quiz results
