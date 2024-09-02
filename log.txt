@@ -73552,3 +73552,4 @@
 0423. ✅ test: mock database connection in test suite
 0202. 🔧 refactor: refactor quiz grading logic
 0107. 🐛 fix: prevent crash on empty input
+0159. 🚀 perf: lazy-load components
