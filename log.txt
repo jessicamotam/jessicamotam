@@ -62265,3 +62265,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0850. ♻️ chore: rename env.example
 0116. ✨ feat: support email verification
+0165. 🎨 style: remove trailing whitespace
