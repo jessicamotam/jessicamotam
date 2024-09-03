@@ -37916,3 +37916,4 @@
 0088. 📚 docs: add API usage examples
 0077. ♻️ chore: rename env.example
 0313. 🎨 style: apply consistent indentation
+0792. 🎨 style: standardize quote style
