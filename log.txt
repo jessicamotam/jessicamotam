@@ -13129,3 +13129,4 @@
 0160. ♻️ chore: bump dependencies
 0802. 🔧 refactor: remove redundant code blocks
 0754. 🐛 fix: handle 500 error in quiz API
+0724. ✅ test: mock database connection in test suite
