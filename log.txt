@@ -42680,3 +42680,4 @@
 0351. ✨ feat: add export to CSV option
 0370. 🚀 perf: reduce image load time
 0048. 📚 docs: update README with setup steps
+0833. ✨ feat: add user authentication
