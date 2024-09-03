@@ -40306,3 +40306,4 @@
 0197. 📚 docs: update README with setup steps
 0530. 🔧 refactor: refactor quiz grading logic
 0868. ✅ test: add unit test for quiz service
+0703. 🔧 refactor: clean up auth middleware
