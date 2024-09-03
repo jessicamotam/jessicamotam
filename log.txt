@@ -2117,3 +2117,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0722. 📚 docs: add API usage examples
 0192. ✨ feat: enable dark mode toggle
+0185. 📚 docs: write FAQ section
