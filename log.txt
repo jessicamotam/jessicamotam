@@ -41893,3 +41893,4 @@
 0883. 📚 docs: improve code comments in utils
 0699. 🎨 style: standardize quote style
 0182. 🔧 refactor: remove redundant code blocks
+0586. 🎨 style: remove trailing whitespace
