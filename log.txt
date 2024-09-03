@@ -74470,3 +74470,4 @@
 0558. ✨ feat: enable dark mode toggle
 0707. 🎨 style: apply consistent indentation
 0715. ✨ feat: create admin dashboard
+0218. 🔧 refactor: clean up auth middleware
