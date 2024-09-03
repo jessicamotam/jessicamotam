@@ -42530,3 +42530,4 @@
 0528. ♻️ chore: clean up unused files
 0308. 🚀 perf: reduce image load time
 0019. ✨ feat: enable dark mode toggle
+0733. 🐛 fix: fix null pointer exception on login
