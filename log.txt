@@ -29502,3 +29502,4 @@
 0844. 📚 docs: update README with setup steps
 0365. 🚀 perf: reduce image load time
 0404. 📚 docs: improve code comments in utils
+0341. 🚀 perf: lazy-load components
