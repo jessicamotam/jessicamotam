@@ -43075,3 +43075,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0464. 🎨 style: remove trailing whitespace
 0001. 🚀 perf: cache repeated calculations
+0567. 📚 docs: add API usage examples
