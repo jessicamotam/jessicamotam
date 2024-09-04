@@ -22886,3 +22886,4 @@
 0351. ✨ feat: add export to CSV option
 0788. 📚 docs: add API usage examples
 0931. 🚀 perf: reduce image load time
+0778. 📚 docs: write FAQ section
