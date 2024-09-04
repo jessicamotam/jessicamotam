@@ -4142,3 +4142,4 @@
 0769. ✨ feat: create admin dashboard
 0672. 🐛 fix: fix broken CSS in mobile view
 0371. ✅ test: add integration test for /submit endpoint
+0888. 🚀 perf: lazy-load components
