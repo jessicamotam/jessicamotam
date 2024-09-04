@@ -15032,3 +15032,4 @@
 0071. 🔧 refactor: refactor quiz grading logic
 0397. 🐛 fix: handle 500 error in quiz API
 0776. ✅ test: add integration test for /submit endpoint
+0290. ✅ test: test user registration edge cases
