@@ -49730,3 +49730,4 @@
 0572. ✨ feat: add user authentication
 0338. ♻️ chore: add GitHub actions badge
 0635. 🎨 style: apply consistent indentation
+0170. ✅ test: increase coverage on auth module
