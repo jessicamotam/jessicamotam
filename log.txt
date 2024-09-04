@@ -83761,3 +83761,4 @@
 0017. ✅ test: mock database connection in test suite
 0020. ✅ test: add integration test for /submit endpoint
 0152. ✨ feat: add user authentication
+0575. ✅ test: add unit test for quiz service
