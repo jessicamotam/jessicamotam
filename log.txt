@@ -75492,3 +75492,4 @@
 0749. ✨ feat: support email verification
 0039. ✅ test: add integration test for /submit endpoint
 0820. 📚 docs: add API usage examples
+0312. ✨ feat: add user authentication
