@@ -86472,3 +86472,4 @@
 0850. ♻️ chore: rename env.example
 0548. 📚 docs: write FAQ section
 0317. ✅ test: test user registration edge cases
+0724. ✅ test: mock database connection in test suite
