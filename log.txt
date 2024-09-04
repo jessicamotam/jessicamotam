@@ -20863,3 +20863,4 @@
 0549. ✨ feat: enable dark mode toggle
 0925. ✨ feat: add export to CSV option
 0686. 🎨 style: standardize quote style
+0640. ♻️ chore: bump dependencies
