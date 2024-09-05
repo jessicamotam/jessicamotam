@@ -24466,3 +24466,4 @@
 0704. 🚀 perf: cache repeated calculations
 0234. ♻️ chore: rename env.example
 0549. ✨ feat: enable dark mode toggle
+0568. 🐛 fix: handle 500 error in quiz API
