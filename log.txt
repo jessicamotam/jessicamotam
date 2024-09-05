@@ -90764,3 +90764,4 @@
 0923. ✨ feat: support email verification
 0441. 📚 docs: add API usage examples
 0987. ✨ feat: create admin dashboard
+0533. ♻️ chore: add GitHub actions badge
