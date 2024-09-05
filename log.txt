@@ -28557,3 +28557,4 @@
 0513. ♻️ chore: bump dependencies
 0657. 🎨 style: standardize quote style
 0396. 🔧 refactor: split large controller into smaller functions
+0933. 📚 docs: clarify environment setup
