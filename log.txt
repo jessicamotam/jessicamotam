@@ -66560,3 +66560,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0362. 📚 docs: add API usage examples
 0615. 🐛 fix: correct typo in registration form
+0521. 🎨 style: standardize quote style
