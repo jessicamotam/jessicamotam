@@ -80246,3 +80246,4 @@
 0643. 🎨 style: apply consistent indentation
 0366. 🔧 refactor: remove redundant code blocks
 0996. ✅ test: test user registration edge cases
+0198. 📚 docs: clarify environment setup
