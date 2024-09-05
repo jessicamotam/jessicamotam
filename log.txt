@@ -25512,3 +25512,4 @@
 0360. ✨ feat: add export to CSV option
 0374. 🎨 style: standardize quote style
 0266. 🔧 refactor: remove redundant code blocks
+0319. 🐛 fix: handle 500 error in quiz API
