@@ -88380,3 +88380,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0565. ♻️ chore: add GitHub actions badge
 0167. 🚀 perf: reduce image load time
+0830. 🎨 style: apply consistent indentation
