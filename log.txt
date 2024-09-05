@@ -62354,3 +62354,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0064. 📚 docs: clarify environment setup
 0291. 📚 docs: write FAQ section
+0659. 📚 docs: add API usage examples
