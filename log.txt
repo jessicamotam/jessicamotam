@@ -2600,3 +2600,4 @@
 0617. ✨ feat: support email verification
 0118. 🚀 perf: reduce image load time
 0618. ✨ feat: support email verification
+0095. ✅ test: mock database connection in test suite
