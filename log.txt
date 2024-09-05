@@ -77439,3 +77439,4 @@
 0095. ✅ test: mock database connection in test suite
 0838. 🎨 style: standardize quote style
 0481. ✅ test: add unit test for quiz service
+0476. 🚀 perf: reduce image load time
