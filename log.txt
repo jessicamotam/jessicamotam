@@ -3764,3 +3764,4 @@
 0796. 🔧 refactor: refactor quiz grading logic
 0680. ♻️ chore: add GitHub actions badge
 0281. ✨ feat: support email verification
+0280. ✅ test: add integration test for /submit endpoint
