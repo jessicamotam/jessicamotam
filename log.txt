@@ -73507,3 +73507,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0086. 🐛 fix: correct typo in registration form
 0364. 🐛 fix: resolve issue with date parsing
+0695. ✨ feat: create admin dashboard
