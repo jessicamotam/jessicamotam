@@ -85174,3 +85174,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0185. 📚 docs: write FAQ section
 0982. 🚀 perf: lazy-load components
+0800. 🚀 perf: optimize database query for quiz results
