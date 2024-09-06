@@ -17898,3 +17898,4 @@
 0190. 🎨 style: rename variables for clarity
 0677. 📚 docs: add API usage examples
 0132. ✅ test: add unit test for quiz service
+0843. 📚 docs: document token refresh logic
