@@ -60088,3 +60088,4 @@
 0626. 🎨 style: standardize quote style
 0603. 🐛 fix: fix broken CSS in mobile view
 0408. ♻️ chore: add GitHub actions badge
+0628. ♻️ chore: add GitHub actions badge
