@@ -28382,3 +28382,4 @@
 0747. 🔧 refactor: clean up auth middleware
 0627. 📚 docs: document token refresh logic
 0763. 🔧 refactor: organize models into subfolders
+0264. 🚀 perf: optimize database query for quiz results
