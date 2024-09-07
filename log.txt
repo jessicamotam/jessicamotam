@@ -30730,3 +30730,4 @@
 0300. ✨ feat: add export to CSV option
 0640. ♻️ chore: bump dependencies
 0232. 🎨 style: apply consistent indentation
+0981. 🚀 perf: lazy-load components
