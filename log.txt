@@ -37732,3 +37732,4 @@
 0623. 🎨 style: standardize quote style
 0250. 📚 docs: update README with setup steps
 0827. 🚀 perf: optimize database query for quiz results
+0476. 🚀 perf: reduce image load time
