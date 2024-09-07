@@ -89599,3 +89599,4 @@
 0980. 🎨 style: reformat files with black
 0480. ♻️ chore: add GitHub actions badge
 0121. ✨ feat: support email verification
+0118. 🚀 perf: reduce image load time
