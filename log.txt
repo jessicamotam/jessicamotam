@@ -75232,3 +75232,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0257. 📚 docs: clarify environment setup
 0727. ♻️ chore: add GitHub actions badge
+0478. 🐛 fix: resolve issue with date parsing
