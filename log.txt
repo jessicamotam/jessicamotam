@@ -37354,3 +37354,4 @@
 0593. 🐛 fix: correct typo in registration form
 0523. ♻️ chore: bump dependencies
 0012. 🚀 perf: cache repeated calculations
+0652. 🔧 refactor: organize models into subfolders
