@@ -36674,3 +36674,4 @@
 0619. ✨ feat: create admin dashboard
 0306. 🎨 style: apply consistent indentation
 0222. 🐛 fix: handle 500 error in quiz API
+0292. 📚 docs: clarify environment setup
