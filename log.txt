@@ -5985,3 +5985,4 @@
 0913. 🚀 perf: optimize database query for quiz results
 0196. ♻️ chore: bump dependencies
 0352. ✨ feat: add export to CSV option
+0924. ✅ test: mock database connection in test suite
