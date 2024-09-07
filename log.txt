@@ -81938,3 +81938,4 @@
 0023. 📚 docs: clarify environment setup
 0662. ♻️ chore: clean up unused files
 0248. 🐛 fix: handle 500 error in quiz API
+0864. 🐛 fix: correct typo in registration form
