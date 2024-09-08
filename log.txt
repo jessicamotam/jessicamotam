@@ -46541,3 +46541,4 @@
 0271. ✅ test: add unit test for quiz service
 0074. ♻️ chore: add GitHub actions badge
 0560. 🎨 style: rename variables for clarity
+0887. 📚 docs: add API usage examples
