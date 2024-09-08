@@ -38419,3 +38419,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0040. 🔧 refactor: clean up auth middleware
 0730. ✅ test: test user registration edge cases
+0148. 🔧 refactor: organize models into subfolders
