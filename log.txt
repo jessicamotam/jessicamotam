@@ -78559,3 +78559,4 @@
 0158. 📚 docs: clarify environment setup
 0349. ✅ test: increase coverage on auth module
 0795. 📚 docs: update README with setup steps
+0331. 🐛 fix: fix broken CSS in mobile view
