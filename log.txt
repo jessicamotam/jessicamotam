@@ -19762,3 +19762,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0169. 📚 docs: add API usage examples
 0710. 🐛 fix: fix broken CSS in mobile view
+0328. 🐛 fix: resolve issue with date parsing
