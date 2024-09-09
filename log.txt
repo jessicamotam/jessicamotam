@@ -78915,3 +78915,4 @@
 0046. 🎨 style: rename variables for clarity
 0546. 🐛 fix: fix null pointer exception on login
 0731. 🎨 style: standardize quote style
+0827. 🚀 perf: optimize database query for quiz results
