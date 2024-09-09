@@ -1305,3 +1305,4 @@
 0225. 🚀 perf: reduce image load time
 0745. ✅ test: add unit test for quiz service
 0945. ♻️ chore: add GitHub actions badge
+0956. 📚 docs: clarify environment setup
