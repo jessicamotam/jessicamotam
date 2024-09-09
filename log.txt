@@ -6933,3 +6933,4 @@
 0777. 📚 docs: document token refresh logic
 0625. 🐛 fix: handle 500 error in quiz API
 0572. ✨ feat: add user authentication
+0764. ✨ feat: add user authentication
