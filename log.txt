@@ -78367,3 +78367,4 @@
 0370. 🚀 perf: reduce image load time
 0205. 📚 docs: update README with setup steps
 0625. 🐛 fix: handle 500 error in quiz API
+0596. ♻️ chore: update .gitignore
