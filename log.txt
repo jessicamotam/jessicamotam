@@ -30327,3 +30327,4 @@
 0583. ✅ test: increase coverage on auth module
 0019. ✨ feat: enable dark mode toggle
 0860. 🔧 refactor: organize models into subfolders
+0790. 📚 docs: write FAQ section
