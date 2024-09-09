@@ -34473,3 +34473,4 @@
 0863. 🐛 fix: correct typo in registration form
 0682. ♻️ chore: rename env.example
 0831. 📚 docs: clarify environment setup
+0557. 🔧 refactor: clean up auth middleware
