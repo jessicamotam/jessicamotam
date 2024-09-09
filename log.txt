@@ -1953,3 +1953,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0685. ✅ test: test user registration edge cases
 0153. ♻️ chore: rename env.example
+0505. ♻️ chore: add GitHub actions badge
