@@ -18315,3 +18315,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0666. 🐛 fix: fix broken CSS in mobile view
 0967. ♻️ chore: add GitHub actions badge
+0875. ✅ test: increase coverage on auth module
