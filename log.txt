@@ -67613,3 +67613,4 @@
 0513. ♻️ chore: bump dependencies
 0395. 📚 docs: write FAQ section
 0381. ♻️ chore: clean up unused files
+0852. ✨ feat: enable dark mode toggle
