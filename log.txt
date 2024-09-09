@@ -421,3 +421,4 @@
 0060. ♻️ chore: clean up unused files
 0384. 📚 docs: clarify environment setup
 0668. 🚀 perf: optimize database query for quiz results
+0330. ✅ test: test user registration edge cases
