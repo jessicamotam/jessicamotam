@@ -42669,3 +42669,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0433. 🐛 fix: prevent crash on empty input
 0582. ✨ feat: add export to CSV option
+0707. 🎨 style: apply consistent indentation
