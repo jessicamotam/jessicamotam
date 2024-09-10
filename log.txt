@@ -49816,3 +49816,4 @@
 0315. ✅ test: add integration test for /submit endpoint
 0635. 🎨 style: apply consistent indentation
 0908. ♻️ chore: bump dependencies
+0887. 📚 docs: add API usage examples
