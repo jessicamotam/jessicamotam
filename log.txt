@@ -15522,3 +15522,4 @@
 0788. 📚 docs: add API usage examples
 0210. 🎨 style: apply consistent indentation
 0968. 🎨 style: standardize quote style
+0826. 📚 docs: clarify environment setup
