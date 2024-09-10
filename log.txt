@@ -18387,3 +18387,4 @@
 0320. 📚 docs: update README with setup steps
 0663. 🚀 perf: reduce image load time
 0678. ✨ feat: add user authentication
+0665. ♻️ chore: update .gitignore
