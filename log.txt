@@ -18030,3 +18030,4 @@
 0212. 🎨 style: standardize quote style
 0693. 📚 docs: add API usage examples
 0038. 🎨 style: rename variables for clarity
+0257. 📚 docs: clarify environment setup
