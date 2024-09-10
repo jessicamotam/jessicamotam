@@ -72590,3 +72590,4 @@
 0178. ✨ feat: support email verification
 0119. 📚 docs: improve code comments in utils
 0781. 🚀 perf: reduce image load time
+0480. ♻️ chore: add GitHub actions badge
