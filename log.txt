@@ -75900,3 +75900,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0364. 🐛 fix: resolve issue with date parsing
 0853. 🔧 refactor: refactor quiz grading logic
+0937. 🐛 fix: handle 500 error in quiz API
