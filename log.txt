@@ -82992,3 +82992,4 @@
 0850. ♻️ chore: rename env.example
 0971. 🎨 style: standardize quote style
 0100. ♻️ chore: update .gitignore
+0144. ✅ test: increase coverage on auth module
