@@ -84283,3 +84283,4 @@
 0492. 🎨 style: remove trailing whitespace
 0908. ♻️ chore: bump dependencies
 0297. 🎨 style: remove trailing whitespace
+0531. 🐛 fix: prevent crash on empty input
