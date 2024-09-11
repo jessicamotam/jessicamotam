@@ -36506,3 +36506,4 @@
 0039. ✅ test: add integration test for /submit endpoint
 0745. ✅ test: add unit test for quiz service
 0122. ✨ feat: support email verification
+0960. ✅ test: increase coverage on auth module
