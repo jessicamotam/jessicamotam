@@ -31917,3 +31917,4 @@
 0473. 📚 docs: write FAQ section
 0112. ✨ feat: enable dark mode toggle
 0025. 🚀 perf: optimize database query for quiz results
+0871. ✅ test: add integration test for /submit endpoint
