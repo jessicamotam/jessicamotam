@@ -16118,3 +16118,4 @@
 0251. ♻️ chore: update .gitignore
 0935. 📚 docs: update README with setup steps
 0450. 🐛 fix: fix broken CSS in mobile view
+0893. 🐛 fix: handle 500 error in quiz API
