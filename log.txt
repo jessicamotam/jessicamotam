@@ -30006,3 +30006,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0504. 📚 docs: document token refresh logic
 0890. 🔧 refactor: organize models into subfolders
+0319. 🐛 fix: handle 500 error in quiz API
