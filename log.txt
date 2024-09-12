@@ -35181,3 +35181,4 @@
 0916. ♻️ chore: bump dependencies
 0660. 🐛 fix: correct typo in registration form
 0613. 🐛 fix: prevent crash on empty input
+0531. 🐛 fix: prevent crash on empty input
