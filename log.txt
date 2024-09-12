@@ -90711,3 +90711,4 @@
 0219. ✅ test: increase coverage on auth module
 0551. 📚 docs: write FAQ section
 0424. ✨ feat: add user authentication
+0128. ♻️ chore: rename env.example
