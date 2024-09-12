@@ -16303,3 +16303,4 @@
 0403. ✅ test: mock database connection in test suite
 0460. 📚 docs: write FAQ section
 0960. ✅ test: increase coverage on auth module
+0995. ✅ test: mock database connection in test suite
