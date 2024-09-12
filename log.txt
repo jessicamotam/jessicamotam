@@ -29917,3 +29917,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0739. 🎨 style: remove trailing whitespace
 0191. 🔧 refactor: refactor quiz grading logic
+0775. 🐛 fix: fix null pointer exception on login
