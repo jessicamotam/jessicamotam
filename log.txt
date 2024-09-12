@@ -64213,3 +64213,4 @@
 0189. 📚 docs: clarify environment setup
 0460. 📚 docs: write FAQ section
 0431. 🎨 style: reformat files with black
+0894. ✅ test: add integration test for /submit endpoint
