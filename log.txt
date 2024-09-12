@@ -425,3 +425,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0331. 🐛 fix: fix broken CSS in mobile view
 0078. ♻️ chore: update .gitignore
+0381. ♻️ chore: clean up unused files
