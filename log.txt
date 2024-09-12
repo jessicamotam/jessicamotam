@@ -2896,3 +2896,4 @@
 0523. ♻️ chore: bump dependencies
 0524. ♻️ chore: rename env.example
 0053. ✅ test: increase coverage on auth module
+0654. ✨ feat: create admin dashboard
