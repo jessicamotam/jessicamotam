@@ -55840,3 +55840,4 @@
 0253. 📚 docs: update README with setup steps
 0301. 🎨 style: apply consistent indentation
 0537. 🔧 refactor: remove redundant code blocks
+0531. 🐛 fix: prevent crash on empty input
