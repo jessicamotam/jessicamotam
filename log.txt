@@ -74129,3 +74129,4 @@
 0452. ✨ feat: implement quiz timer feature
 0344. ♻️ chore: add GitHub actions badge
 0597. 🚀 perf: cache repeated calculations
+0701. 🔧 refactor: clean up auth middleware
