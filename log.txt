@@ -42851,3 +42851,4 @@
 0446. 🎨 style: apply consistent indentation
 0267. 📚 docs: improve code comments in utils
 0805. ♻️ chore: add GitHub actions badge
+0539. 🔧 refactor: organize models into subfolders
