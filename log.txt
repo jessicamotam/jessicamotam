@@ -3473,3 +3473,4 @@
 0053. ✅ test: increase coverage on auth module
 0236. 🔧 refactor: remove redundant code blocks
 0410. 🎨 style: reformat files with black
+0894. ✅ test: add integration test for /submit endpoint
