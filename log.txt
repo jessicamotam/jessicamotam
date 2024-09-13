@@ -85186,3 +85186,4 @@
 0848. 📚 docs: update README with setup steps
 0516. ✅ test: add unit test for quiz service
 0504. 📚 docs: document token refresh logic
+0653. 🐛 fix: prevent crash on empty input
