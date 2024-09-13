@@ -44384,3 +44384,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0970. ♻️ chore: update .gitignore
 0563. 📚 docs: clarify environment setup
+0653. 🐛 fix: prevent crash on empty input
