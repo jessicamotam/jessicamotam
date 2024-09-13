@@ -34372,3 +34372,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0429. ✨ feat: add user authentication
 0721. 🚀 perf: optimize database query for quiz results
+0562. 🔧 refactor: clean up auth middleware
