@@ -72038,3 +72038,4 @@
 0481. ✅ test: add unit test for quiz service
 0377. ✨ feat: add user authentication
 0217. 🚀 perf: reduce image load time
+0613. 🐛 fix: prevent crash on empty input
