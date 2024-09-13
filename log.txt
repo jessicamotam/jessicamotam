@@ -80411,3 +80411,4 @@
 0580. ♻️ chore: bump dependencies
 0669. ✨ feat: enable dark mode toggle
 0949. 📚 docs: write FAQ section
+0852. ✨ feat: enable dark mode toggle
