@@ -36525,3 +36525,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0573. ✅ test: add integration test for /submit endpoint
 0650. ✅ test: add unit test for quiz service
+0413. ✅ test: add integration test for /submit endpoint
