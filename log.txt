@@ -28721,3 +28721,4 @@
 0547. 📚 docs: write FAQ section
 0675. 🔧 refactor: organize models into subfolders
 0318. 🔧 refactor: refactor quiz grading logic
+0297. 🎨 style: remove trailing whitespace
