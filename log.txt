@@ -88559,3 +88559,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0150. 🎨 style: remove trailing whitespace
 0828. ♻️ chore: add GitHub actions badge
+0294. 🐛 fix: prevent crash on empty input
