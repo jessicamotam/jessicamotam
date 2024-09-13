@@ -9703,3 +9703,4 @@
 0257. 📚 docs: clarify environment setup
 0548. 📚 docs: write FAQ section
 0612. ✅ test: test user registration edge cases
+0963. 🚀 perf: reduce image load time
