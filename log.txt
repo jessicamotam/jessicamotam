@@ -7252,3 +7252,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0141. 📚 docs: document token refresh logic
 0969. ✨ feat: create admin dashboard
+0147. ♻️ chore: bump dependencies
