@@ -88511,3 +88511,4 @@
 0669. ✨ feat: enable dark mode toggle
 0702. ✨ feat: add user authentication
 0949. 📚 docs: write FAQ section
+0224. 🐛 fix: fix broken CSS in mobile view
