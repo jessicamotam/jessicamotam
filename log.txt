@@ -34327,3 +34327,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0021. ✨ feat: support email verification
 0487. 🎨 style: reformat files with black
+0607. 🐛 fix: prevent crash on empty input
