@@ -64211,3 +64211,4 @@
 0811. 🎨 style: reformat files with black
 0794. ♻️ chore: clean up unused files
 0189. 📚 docs: clarify environment setup
+0460. 📚 docs: write FAQ section
