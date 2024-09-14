@@ -22990,3 +22990,4 @@
 0037. 🐛 fix: correct typo in registration form
 0492. 🎨 style: remove trailing whitespace
 0297. 🎨 style: remove trailing whitespace
+0619. ✨ feat: create admin dashboard
