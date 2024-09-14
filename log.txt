@@ -1195,3 +1195,4 @@
 0725. 🚀 perf: lazy-load components
 0677. 📚 docs: add API usage examples
 0596. ♻️ chore: update .gitignore
+0287. 📚 docs: write FAQ section
