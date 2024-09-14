@@ -73755,3 +73755,4 @@
 0922. 📚 docs: write FAQ section
 0433. 🐛 fix: prevent crash on empty input
 0749. ✨ feat: support email verification
+0312. ✨ feat: add user authentication
