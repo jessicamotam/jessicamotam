@@ -9923,3 +9923,4 @@
 0332. 🎨 style: standardize quote style
 0695. ✨ feat: create admin dashboard
 0697. ♻️ chore: bump dependencies
+0889. 🚀 perf: lazy-load components
