@@ -43728,3 +43728,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0734. ✨ feat: add export to CSV option
 0414. 🔧 refactor: remove redundant code blocks
+0957. 🐛 fix: fix null pointer exception on login
