@@ -32462,3 +32462,4 @@
 0003. ✅ test: increase coverage on auth module
 0385. ♻️ chore: clean up unused files
 0283. ♻️ chore: add GitHub actions badge
+0710. 🐛 fix: fix broken CSS in mobile view
