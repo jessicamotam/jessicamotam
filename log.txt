@@ -51724,3 +51724,4 @@
 0508. ✅ test: add unit test for quiz service
 0143. ✨ feat: implement quiz timer feature
 0051. ✨ feat: enable dark mode toggle
+0929. ✨ feat: support email verification
