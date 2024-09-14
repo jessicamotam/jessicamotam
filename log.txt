@@ -13651,3 +13651,4 @@
 0563. 📚 docs: clarify environment setup
 0989. 📚 docs: write FAQ section
 0048. 📚 docs: update README with setup steps
+0771. 🚀 perf: cache repeated calculations
