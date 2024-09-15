@@ -49448,3 +49448,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0852. ✨ feat: enable dark mode toggle
 0849. 🐛 fix: correct typo in registration form
+0374. 🎨 style: standardize quote style
