@@ -18090,3 +18090,4 @@
 0121. ✨ feat: support email verification
 0173. 🚀 perf: cache repeated calculations
 0992. ♻️ chore: clean up unused files
+0219. ✅ test: increase coverage on auth module
