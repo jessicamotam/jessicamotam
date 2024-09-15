@@ -53931,3 +53931,4 @@
 0443. 🎨 style: standardize quote style
 0467. ✅ test: add integration test for /submit endpoint
 0244. ✨ feat: add export to CSV option
+0105. 🐛 fix: correct typo in registration form
