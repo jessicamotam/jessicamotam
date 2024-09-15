@@ -85664,3 +85664,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0670. ✨ feat: add export to CSV option
 0102. ✨ feat: support email verification
+0801. ✨ feat: enable dark mode toggle
