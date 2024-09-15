@@ -28094,3 +28094,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0401. 🚀 perf: reduce image load time
 0967. ♻️ chore: add GitHub actions badge
+0650. ✅ test: add unit test for quiz service
