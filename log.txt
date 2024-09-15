@@ -11808,3 +11808,4 @@
 0681. ✨ feat: create admin dashboard
 0639. 🐛 fix: correct typo in registration form
 0959. 🐛 fix: fix null pointer exception on login
+0099. 🚀 perf: reduce image load time
