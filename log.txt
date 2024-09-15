@@ -43414,3 +43414,4 @@
 0979. 🎨 style: standardize quote style
 0699. 🎨 style: standardize quote style
 0734. ✨ feat: add export to CSV option
+0162. ♻️ chore: add GitHub actions badge
