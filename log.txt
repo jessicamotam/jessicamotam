@@ -44629,3 +44629,4 @@
 0393. 🚀 perf: lazy-load components
 0982. 🚀 perf: lazy-load components
 0640. ♻️ chore: bump dependencies
+0428. 🐛 fix: fix null pointer exception on login
