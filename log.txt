@@ -49503,3 +49503,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0268. 🐛 fix: prevent crash on empty input
 0180. ✨ feat: add export to CSV option
+0219. ✅ test: increase coverage on auth module
