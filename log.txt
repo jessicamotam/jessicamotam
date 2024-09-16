@@ -72096,3 +72096,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0451. ✨ feat: support email verification
 0218. 🔧 refactor: clean up auth middleware
+0900. 🐛 fix: handle 500 error in quiz API
