@@ -70896,3 +70896,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0793. 📚 docs: clarify environment setup
 0530. 🔧 refactor: refactor quiz grading logic
+0605. ✨ feat: support email verification
