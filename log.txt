@@ -80136,3 +80136,4 @@
 0256. ✅ test: mock database connection in test suite
 0518. ✨ feat: support email verification
 0531. 🐛 fix: prevent crash on empty input
+0306. 🎨 style: apply consistent indentation
