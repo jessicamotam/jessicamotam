@@ -90196,3 +90196,4 @@
 0227. ✅ test: test user registration edge cases
 0824. 🚀 perf: lazy-load components
 0934. ✨ feat: support email verification
+0942. ✅ test: increase coverage on auth module
