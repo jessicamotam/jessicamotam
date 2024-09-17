@@ -25817,3 +25817,4 @@
 0952. 🔧 refactor: split large controller into smaller functions
 0633. ✨ feat: add user authentication
 0821. ✅ test: add integration test for /submit endpoint
+0882. 🚀 perf: optimize database query for quiz results
