@@ -38417,3 +38417,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0165. 🎨 style: remove trailing whitespace
 0268. 🐛 fix: prevent crash on empty input
+0040. 🔧 refactor: clean up auth middleware
