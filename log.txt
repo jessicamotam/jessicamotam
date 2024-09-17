@@ -90072,3 +90072,4 @@
 0573. ✅ test: add integration test for /submit endpoint
 0521. 🎨 style: standardize quote style
 0778. 📚 docs: write FAQ section
+0569. 📚 docs: document token refresh logic
