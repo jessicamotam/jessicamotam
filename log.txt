@@ -40368,3 +40368,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0437. 📚 docs: clarify environment setup
 0287. 📚 docs: write FAQ section
+0775. 🐛 fix: fix null pointer exception on login
