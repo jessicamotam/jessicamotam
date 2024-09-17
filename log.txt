@@ -81371,3 +81371,4 @@
 0819. 🚀 perf: reduce image load time
 0969. ✨ feat: create admin dashboard
 0057. 🚀 perf: optimize database query for quiz results
+0170. ✅ test: increase coverage on auth module
