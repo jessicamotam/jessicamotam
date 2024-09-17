@@ -11095,3 +11095,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0217. 🚀 perf: reduce image load time
 0589. 🐛 fix: fix broken CSS in mobile view
+0146. 🎨 style: apply consistent indentation
