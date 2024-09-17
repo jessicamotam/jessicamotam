@@ -83587,3 +83587,4 @@
 0412. ✅ test: increase coverage on auth module
 0093. ✅ test: add unit test for quiz service
 0240. 🔧 refactor: remove redundant code blocks
+0026. 🔧 refactor: clean up auth middleware
