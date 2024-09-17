@@ -33917,3 +33917,4 @@
 0309. 🔧 refactor: refactor quiz grading logic
 0206. 🐛 fix: handle 500 error in quiz API
 0534. 🔧 refactor: split large controller into smaller functions
+0942. ✅ test: increase coverage on auth module
