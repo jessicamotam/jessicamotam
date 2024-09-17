@@ -30934,3 +30934,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0721. 🚀 perf: optimize database query for quiz results
 0961. 📚 docs: add API usage examples
+0967. ♻️ chore: add GitHub actions badge
