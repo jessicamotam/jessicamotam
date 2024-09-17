@@ -46247,3 +46247,4 @@
 0704. 🚀 perf: cache repeated calculations
 0638. 📚 docs: improve code comments in utils
 0413. ✅ test: add integration test for /submit endpoint
+0535. 📚 docs: write FAQ section
