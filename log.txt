@@ -46179,3 +46179,4 @@
 0388. 🎨 style: reformat files with black
 0848. 📚 docs: update README with setup steps
 0536. ✨ feat: add user authentication
+0978. 🐛 fix: prevent crash on empty input
