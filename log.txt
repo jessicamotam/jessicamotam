@@ -68966,3 +68966,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0283. ♻️ chore: add GitHub actions badge
 0165. 🎨 style: remove trailing whitespace
+0613. 🐛 fix: prevent crash on empty input
