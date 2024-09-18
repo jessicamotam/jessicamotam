@@ -50515,3 +50515,4 @@
 0374. 🎨 style: standardize quote style
 0533. ♻️ chore: add GitHub actions badge
 0329. 📚 docs: update README with setup steps
+0316. 🐛 fix: fix broken CSS in mobile view
