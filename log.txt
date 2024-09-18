@@ -65770,3 +65770,4 @@
 0786. ✨ feat: enable dark mode toggle
 0141. 📚 docs: document token refresh logic
 0301. 🎨 style: apply consistent indentation
+0529. 📚 docs: write FAQ section
