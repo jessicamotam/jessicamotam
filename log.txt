@@ -44255,3 +44255,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0533. ♻️ chore: add GitHub actions badge
 0084. 🐛 fix: handle 500 error in quiz API
+0029. 🚀 perf: lazy-load components
