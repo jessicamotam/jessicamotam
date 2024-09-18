@@ -88090,3 +88090,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0437. 📚 docs: clarify environment setup
 0061. ✨ feat: create admin dashboard
+0595. ✨ feat: enable dark mode toggle
