@@ -48374,3 +48374,4 @@
 0706. ✨ feat: support email verification
 0005. ✅ test: add unit test for quiz service
 0651. ✨ feat: enable dark mode toggle
+0948. 🐛 fix: fix broken CSS in mobile view
