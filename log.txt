@@ -56968,3 +56968,4 @@
 0160. ♻️ chore: bump dependencies
 0509. ♻️ chore: bump dependencies
 0800. 🚀 perf: optimize database query for quiz results
+0747. 🔧 refactor: clean up auth middleware
