@@ -51536,3 +51536,4 @@
 0401. 🚀 perf: reduce image load time
 0901. ✨ feat: add user authentication
 0818. 🔧 refactor: remove redundant code blocks
+0504. 📚 docs: document token refresh logic
