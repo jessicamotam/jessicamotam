@@ -12004,3 +12004,4 @@
 0518. ✨ feat: support email verification
 0857. 🎨 style: rename variables for clarity
 0042. 📚 docs: document token refresh logic
+0068. 🐛 fix: fix null pointer exception on login
