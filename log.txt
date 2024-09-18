@@ -36698,3 +36698,4 @@
 0758. 🚀 perf: optimize database query for quiz results
 0759. 🔧 refactor: organize models into subfolders
 0525. ✅ test: mock database connection in test suite
+0590. 🐛 fix: fix null pointer exception on login
