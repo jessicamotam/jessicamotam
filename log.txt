@@ -13792,3 +13792,4 @@
 0793. 📚 docs: clarify environment setup
 0996. ✅ test: test user registration edge cases
 0090. ✅ test: increase coverage on auth module
+0395. 📚 docs: write FAQ section
