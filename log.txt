@@ -48136,3 +48136,4 @@
 0582. ✨ feat: add export to CSV option
 0178. ✨ feat: support email verification
 0409. 🚀 perf: lazy-load components
+0768. 🎨 style: remove trailing whitespace
