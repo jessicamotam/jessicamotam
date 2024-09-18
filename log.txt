@@ -36093,3 +36093,4 @@
 0064. 📚 docs: clarify environment setup
 0836. 🚀 perf: optimize database query for quiz results
 0867. 🔧 refactor: refactor quiz grading logic
+0848. 📚 docs: update README with setup steps
