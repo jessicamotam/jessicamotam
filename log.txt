@@ -16806,3 +16806,4 @@
 0497. 🔧 refactor: refactor quiz grading logic
 0165. 🎨 style: remove trailing whitespace
 0996. ✅ test: test user registration edge cases
+0958. 🐛 fix: prevent crash on empty input
