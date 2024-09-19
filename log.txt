@@ -54391,3 +54391,4 @@
 0621. 🔧 refactor: clean up auth middleware
 0221. ✨ feat: add user authentication
 0997. ✅ test: increase coverage on auth module
+0049. 🐛 fix: handle 500 error in quiz API
