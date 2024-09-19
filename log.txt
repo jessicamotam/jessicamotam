@@ -7324,3 +7324,4 @@
 0015. ✨ feat: implement quiz timer feature
 0689. 🎨 style: reformat files with black
 0532. 🔧 refactor: split large controller into smaller functions
+0848. 📚 docs: update README with setup steps
