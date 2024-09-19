@@ -90065,3 +90065,4 @@
 0940. 📚 docs: document token refresh logic
 0730. ✅ test: test user registration edge cases
 0845. 🚀 perf: cache repeated calculations
+0936. 🔧 refactor: organize models into subfolders
