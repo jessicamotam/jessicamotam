@@ -43776,3 +43776,4 @@
 0242. ♻️ chore: clean up unused files
 0033. 🎨 style: apply consistent indentation
 0365. 🚀 perf: reduce image load time
+0543. ✨ feat: support email verification
