@@ -49022,3 +49022,4 @@
 0212. 🎨 style: standardize quote style
 0586. 🎨 style: remove trailing whitespace
 0998. 🐛 fix: fix null pointer exception on login
+0488. ♻️ chore: add GitHub actions badge
