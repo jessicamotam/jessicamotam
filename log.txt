@@ -23048,3 +23048,4 @@
 0849. 🐛 fix: correct typo in registration form
 0874. 🔧 refactor: split large controller into smaller functions
 0230. ✨ feat: create admin dashboard
+0689. 🎨 style: reformat files with black
