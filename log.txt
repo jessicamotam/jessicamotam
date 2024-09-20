@@ -35237,3 +35237,4 @@
 0458. ✨ feat: create admin dashboard
 0318. 🔧 refactor: refactor quiz grading logic
 0069. 🎨 style: rename variables for clarity
+0154. 🐛 fix: prevent crash on empty input
