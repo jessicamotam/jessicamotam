@@ -74459,3 +74459,4 @@
 0431. 🎨 style: reformat files with black
 0242. ♻️ chore: clean up unused files
 0809. ♻️ chore: rename env.example
+0466. 🚀 perf: optimize database query for quiz results
