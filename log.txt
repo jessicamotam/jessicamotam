@@ -43814,3 +43814,4 @@
 0501. ✨ feat: add export to CSV option
 0650. ✅ test: add unit test for quiz service
 0093. ✅ test: add unit test for quiz service
+0080. ✨ feat: support email verification
