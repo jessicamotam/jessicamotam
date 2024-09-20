@@ -55126,3 +55126,4 @@
 0583. ✅ test: increase coverage on auth module
 0786. ✨ feat: enable dark mode toggle
 0085. ✨ feat: support email verification
+0066. 🔧 refactor: clean up auth middleware
