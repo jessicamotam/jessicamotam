@@ -29814,3 +29814,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0889. 🚀 perf: lazy-load components
 0077. ♻️ chore: rename env.example
+0862. ♻️ chore: bump dependencies
