@@ -17994,3 +17994,4 @@
 0374. 🎨 style: standardize quote style
 0186. ✅ test: test user registration edge cases
 0018. 🔧 refactor: organize models into subfolders
+0884. 📚 docs: clarify environment setup
