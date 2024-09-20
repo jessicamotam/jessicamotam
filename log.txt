@@ -36824,3 +36824,4 @@
 0667. ✨ feat: add export to CSV option
 0083. 🎨 style: reformat files with black
 0549. ✨ feat: enable dark mode toggle
+0895. ✨ feat: support email verification
