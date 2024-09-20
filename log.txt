@@ -7438,3 +7438,4 @@
 0078. ♻️ chore: update .gitignore
 0242. ♻️ chore: clean up unused files
 0580. ♻️ chore: bump dependencies
+0096. 🐛 fix: prevent crash on empty input
