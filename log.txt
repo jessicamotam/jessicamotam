@@ -8805,3 +8805,4 @@
 0796. 🔧 refactor: refactor quiz grading logic
 0572. ✨ feat: add user authentication
 0012. 🚀 perf: cache repeated calculations
+0480. ♻️ chore: add GitHub actions badge
