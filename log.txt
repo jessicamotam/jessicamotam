@@ -40479,3 +40479,4 @@
 0169. 📚 docs: add API usage examples
 0896. 🚀 perf: reduce image load time
 0090. ✅ test: increase coverage on auth module
+0804. ♻️ chore: add GitHub actions badge
