@@ -64313,3 +64313,4 @@
 0115. 🚀 perf: reduce image load time
 0162. ♻️ chore: add GitHub actions badge
 0881. 🔧 refactor: split large controller into smaller functions
+0268. 🐛 fix: prevent crash on empty input
