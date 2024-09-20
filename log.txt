@@ -67190,3 +67190,4 @@
 0606. 📚 docs: improve code comments in utils
 0219. ✅ test: increase coverage on auth module
 0427. ✅ test: mock database connection in test suite
+0359. 🔧 refactor: clean up auth middleware
