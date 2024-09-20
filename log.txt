@@ -62515,3 +62515,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0699. 🎨 style: standardize quote style
 0810. 🔧 refactor: refactor quiz grading logic
+0617. ✨ feat: support email verification
