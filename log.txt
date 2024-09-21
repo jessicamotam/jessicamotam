@@ -23565,3 +23565,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 0632. 🎨 style: remove trailing whitespace
 0240. 🔧 refactor: remove redundant code blocks
+0775. 🐛 fix: fix null pointer exception on login
