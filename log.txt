@@ -71535,3 +71535,4 @@
 0681. ✨ feat: create admin dashboard
 0657. 🎨 style: standardize quote style
 0596. ♻️ chore: update .gitignore
+0297. 🎨 style: remove trailing whitespace
