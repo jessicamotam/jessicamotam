@@ -24710,3 +24710,4 @@
 0996. ✅ test: test user registration edge cases
 0771. 🚀 perf: cache repeated calculations
 0941. 🚀 perf: cache repeated calculations
+0600. 🐛 fix: prevent crash on empty input
