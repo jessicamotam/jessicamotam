@@ -9716,3 +9716,4 @@
 0193. 🚀 perf: optimize database query for quiz results
 0993. ✨ feat: implement quiz timer feature
 0010. ✨ feat: add user authentication
+0362. 📚 docs: add API usage examples
