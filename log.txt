@@ -20981,3 +20981,4 @@
 0651. ✨ feat: enable dark mode toggle
 0468. 📚 docs: update README with setup steps
 0005. ✅ test: add unit test for quiz service
+0581. ✅ test: add integration test for /submit endpoint
