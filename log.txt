@@ -79079,3 +79079,4 @@
 0144. ✅ test: increase coverage on auth module
 0109. 🚀 perf: lazy-load components
 0889. 🚀 perf: lazy-load components
+0418. ✅ test: mock database connection in test suite
