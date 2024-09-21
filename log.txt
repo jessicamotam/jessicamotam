@@ -17111,3 +17111,4 @@
 0574. ✨ feat: enable dark mode toggle
 0678. ✨ feat: add user authentication
 0624. ✅ test: add unit test for quiz service
+0461. ✨ feat: add user authentication
