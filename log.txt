@@ -86114,3 +86114,4 @@
 0447. ♻️ chore: bump dependencies
 0188. 🎨 style: apply consistent indentation
 0323. 📚 docs: clarify environment setup
+0670. ✨ feat: add export to CSV option
