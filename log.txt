@@ -37497,3 +37497,4 @@
 0055. 📚 docs: update README with setup steps
 0197. 📚 docs: update README with setup steps
 0586. 🎨 style: remove trailing whitespace
+0956. 📚 docs: clarify environment setup
