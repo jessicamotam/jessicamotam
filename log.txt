@@ -15816,3 +15816,4 @@
 0190. 🎨 style: rename variables for clarity
 0854. ♻️ chore: rename env.example
 0016. 🎨 style: apply consistent indentation
+0579. 📚 docs: clarify environment setup
