@@ -47541,3 +47541,4 @@
 0292. 📚 docs: clarify environment setup
 0840. 🔧 refactor: refactor quiz grading logic
 0235. 🐛 fix: fix null pointer exception on login
+0779. 🔧 refactor: organize models into subfolders
