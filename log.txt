@@ -81176,3 +81176,4 @@
 0982. 🚀 perf: lazy-load components
 0742. 📚 docs: clarify environment setup
 0569. 📚 docs: document token refresh logic
+0378. 🐛 fix: prevent crash on empty input
