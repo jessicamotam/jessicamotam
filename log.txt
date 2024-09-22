@@ -34278,3 +34278,4 @@
 0507. 🔧 refactor: clean up auth middleware
 0548. 📚 docs: write FAQ section
 0501. ✨ feat: add export to CSV option
+0394. 🚀 perf: lazy-load components
