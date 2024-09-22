@@ -38493,3 +38493,4 @@
 0059. ♻️ chore: bump dependencies
 0648. ♻️ chore: bump dependencies
 0061. ✨ feat: create admin dashboard
+0539. 🔧 refactor: organize models into subfolders
