@@ -66289,3 +66289,4 @@
 0820. 📚 docs: add API usage examples
 0099. 🚀 perf: reduce image load time
 0813. 🔧 refactor: organize models into subfolders
+0542. 🔧 refactor: organize models into subfolders
