@@ -12870,3 +12870,4 @@
 0339. 📚 docs: update README with setup steps
 0544. 🔧 refactor: organize models into subfolders
 0722. 📚 docs: add API usage examples
+0725. 🚀 perf: lazy-load components
