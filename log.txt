@@ -85498,3 +85498,4 @@
 0010. ✨ feat: add user authentication
 0565. ♻️ chore: add GitHub actions badge
 0083. 🎨 style: reformat files with black
+0025. 🚀 perf: optimize database query for quiz results
