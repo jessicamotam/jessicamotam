@@ -75546,3 +75546,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0212. 🎨 style: standardize quote style
 0035. ✅ test: increase coverage on auth module
+0428. 🐛 fix: fix null pointer exception on login
