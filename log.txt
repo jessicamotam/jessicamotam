@@ -29346,3 +29346,4 @@
 0019. ✨ feat: enable dark mode toggle
 0052. 🎨 style: standardize quote style
 0177. 📚 docs: add API usage examples
+0747. 🔧 refactor: clean up auth middleware
