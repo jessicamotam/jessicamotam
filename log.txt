@@ -51579,3 +51579,4 @@
 0610. 🚀 perf: lazy-load components
 0356. 📚 docs: write FAQ section
 0377. ✨ feat: add user authentication
+0696. 🔧 refactor: clean up auth middleware
