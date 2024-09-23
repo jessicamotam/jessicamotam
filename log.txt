@@ -20544,3 +20544,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0277. 🎨 style: standardize quote style
 0222. 🐛 fix: handle 500 error in quiz API
+0876. ♻️ chore: rename env.example
