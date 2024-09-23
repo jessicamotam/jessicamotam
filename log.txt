@@ -47288,3 +47288,4 @@
 0844. 📚 docs: update README with setup steps
 0972. 🔧 refactor: refactor quiz grading logic
 0108. 🎨 style: remove trailing whitespace
+0029. 🚀 perf: lazy-load components
