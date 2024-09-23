@@ -22955,3 +22955,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0362. 📚 docs: add API usage examples
 0060. ♻️ chore: clean up unused files
+0585. 🚀 perf: lazy-load components
