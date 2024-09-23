@@ -48505,3 +48505,4 @@
 0690. 🚀 perf: lazy-load components
 0695. ✨ feat: create admin dashboard
 0997. ✅ test: increase coverage on auth module
+0515. 🚀 perf: optimize database query for quiz results
