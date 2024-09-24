@@ -45301,3 +45301,4 @@
 0234. ♻️ chore: rename env.example
 0905. ♻️ chore: bump dependencies
 0020. ✅ test: add integration test for /submit endpoint
+0116. ✨ feat: support email verification
