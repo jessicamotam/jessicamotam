@@ -88643,3 +88643,4 @@
 0199. ✨ feat: create admin dashboard
 0393. 🚀 perf: lazy-load components
 0680. ♻️ chore: add GitHub actions badge
+0578. ✅ test: add integration test for /submit endpoint
