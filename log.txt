@@ -60228,3 +60228,4 @@
 0502. 📚 docs: update README with setup steps
 0379. ✨ feat: support email verification
 0130. 🔧 refactor: split large controller into smaller functions
+0852. ✨ feat: enable dark mode toggle
