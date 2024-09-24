@@ -57612,3 +57612,4 @@
 0186. ✅ test: test user registration edge cases
 0415. 🐛 fix: handle 500 error in quiz API
 0657. 🎨 style: standardize quote style
+0197. 📚 docs: update README with setup steps
