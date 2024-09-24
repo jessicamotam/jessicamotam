@@ -69073,3 +69073,4 @@
 0335. ♻️ chore: update .gitignore
 0825. 🔧 refactor: split large controller into smaller functions
 0131. 📚 docs: write FAQ section
+0698. 🐛 fix: handle 500 error in quiz API
