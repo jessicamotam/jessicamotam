@@ -79350,3 +79350,4 @@
 0446. 🎨 style: apply consistent indentation
 0292. 📚 docs: clarify environment setup
 0488. ♻️ chore: add GitHub actions badge
+0576. ♻️ chore: update .gitignore
