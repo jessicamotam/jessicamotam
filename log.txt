@@ -43979,3 +43979,4 @@
 0626. 🎨 style: standardize quote style
 0294. 🐛 fix: prevent crash on empty input
 0611. ✅ test: test user registration edge cases
+0384. 📚 docs: clarify environment setup
