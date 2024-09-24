@@ -19757,3 +19757,4 @@
 0260. ✨ feat: create admin dashboard
 0654. ✨ feat: create admin dashboard
 0595. ✨ feat: enable dark mode toggle
+0025. 🚀 perf: optimize database query for quiz results
