@@ -81215,3 +81215,4 @@
 0492. 🎨 style: remove trailing whitespace
 0184. 📚 docs: improve code comments in utils
 0058. ♻️ chore: add GitHub actions badge
+0040. 🔧 refactor: clean up auth middleware
