@@ -88293,3 +88293,4 @@
 0580. ♻️ chore: bump dependencies
 0832. 🔧 refactor: remove redundant code blocks
 0686. 🎨 style: standardize quote style
+0558. ✨ feat: enable dark mode toggle
