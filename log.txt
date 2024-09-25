@@ -4799,3 +4799,4 @@
 0582. ✨ feat: add export to CSV option
 0570. 🎨 style: apply consistent indentation
 0300. ✨ feat: add export to CSV option
+0024. 📚 docs: write FAQ section
