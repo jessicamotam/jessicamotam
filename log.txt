@@ -21781,3 +21781,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0338. ♻️ chore: add GitHub actions badge
 0304. 🔧 refactor: remove redundant code blocks
+0491. 🚀 perf: lazy-load components
