@@ -21620,3 +21620,4 @@
 0474. ✅ test: add unit test for quiz service
 0536. ✨ feat: add user authentication
 0779. 🔧 refactor: organize models into subfolders
+0090. ✅ test: increase coverage on auth module
