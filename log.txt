@@ -47224,3 +47224,4 @@
 0263. 📚 docs: add API usage examples
 0003. ✅ test: increase coverage on auth module
 0563. 📚 docs: clarify environment setup
+0520. 🐛 fix: fix null pointer exception on login
