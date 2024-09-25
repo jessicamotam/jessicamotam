@@ -43220,3 +43220,4 @@
 0447. ♻️ chore: bump dependencies
 0505. ♻️ chore: add GitHub actions badge
 0745. ✅ test: add unit test for quiz service
+0451. ✨ feat: support email verification
