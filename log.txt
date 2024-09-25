@@ -12521,3 +12521,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0474. ✅ test: add unit test for quiz service
 0124. 🎨 style: reformat files with black
+0898. 🐛 fix: fix broken CSS in mobile view
