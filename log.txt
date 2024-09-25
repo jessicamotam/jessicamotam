@@ -14948,3 +14948,4 @@
 0528. ♻️ chore: clean up unused files
 0868. ✅ test: add unit test for quiz service
 0152. ✨ feat: add user authentication
+0556. ✨ feat: support email verification
