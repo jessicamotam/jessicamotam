@@ -33348,3 +33348,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0741. 🎨 style: apply consistent indentation
 0533. ♻️ chore: add GitHub actions badge
+0690. 🚀 perf: lazy-load components
