@@ -20854,3 +20854,4 @@
 0842. 🎨 style: remove trailing whitespace
 0493. ✨ feat: add user authentication
 0481. ✅ test: add unit test for quiz service
+0379. ✨ feat: support email verification
