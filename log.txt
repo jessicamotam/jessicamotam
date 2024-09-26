@@ -12660,3 +12660,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0287. 📚 docs: write FAQ section
 0729. 🔧 refactor: refactor quiz grading logic
+0304. 🔧 refactor: remove redundant code blocks
