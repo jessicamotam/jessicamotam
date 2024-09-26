@@ -27174,3 +27174,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0850. ♻️ chore: rename env.example
 0720. ✨ feat: add export to CSV option
+0963. 🚀 perf: reduce image load time
