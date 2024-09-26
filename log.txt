@@ -89124,3 +89124,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0442. 🎨 style: standardize quote style
 0349. ✅ test: increase coverage on auth module
+0447. ♻️ chore: bump dependencies
