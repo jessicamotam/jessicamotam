@@ -68924,3 +68924,4 @@
 0960. ✅ test: increase coverage on auth module
 0460. 📚 docs: write FAQ section
 0732. ♻️ chore: add GitHub actions badge
+0912. 📚 docs: document token refresh logic
