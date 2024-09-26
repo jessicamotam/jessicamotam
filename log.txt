@@ -78970,3 +78970,4 @@
 0254. 🚀 perf: reduce image load time
 0891. ✨ feat: create admin dashboard
 0670. ✨ feat: add export to CSV option
+0392. 🎨 style: remove trailing whitespace
