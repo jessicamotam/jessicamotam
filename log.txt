@@ -65812,3 +65812,4 @@
 0986. 📚 docs: document token refresh logic
 0028. 🎨 style: standardize quote style
 0451. ✨ feat: support email verification
+0527. 🎨 style: remove trailing whitespace
