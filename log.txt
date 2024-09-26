@@ -1817,3 +1817,4 @@
 0922. 📚 docs: write FAQ section
 0333. 🚀 perf: cache repeated calculations
 0275. 🎨 style: standardize quote style
+0977. 🔧 refactor: organize models into subfolders
