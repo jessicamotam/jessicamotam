@@ -55768,3 +55768,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0190. 🎨 style: rename variables for clarity
 0300. ✨ feat: add export to CSV option
+0783. 🐛 fix: handle 500 error in quiz API
