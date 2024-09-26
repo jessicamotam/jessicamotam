@@ -66635,3 +66635,4 @@
 0981. 🚀 perf: lazy-load components
 0235. 🐛 fix: fix null pointer exception on login
 0224. 🐛 fix: fix broken CSS in mobile view
+0835. 🐛 fix: prevent crash on empty input
