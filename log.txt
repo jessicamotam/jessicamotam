@@ -23501,3 +23501,4 @@
 0569. 📚 docs: document token refresh logic
 0771. 🚀 perf: cache repeated calculations
 0859. ✨ feat: create admin dashboard
+0291. 📚 docs: write FAQ section
