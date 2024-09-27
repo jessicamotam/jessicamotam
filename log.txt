@@ -16495,3 +16495,4 @@
 0697. ♻️ chore: bump dependencies
 0447. ♻️ chore: bump dependencies
 0702. ✨ feat: add user authentication
+0864. 🐛 fix: correct typo in registration form
