@@ -38669,3 +38669,4 @@
 0116. ✨ feat: support email verification
 0870. ♻️ chore: clean up unused files
 0892. ✅ test: add unit test for quiz service
+0095. ✅ test: mock database connection in test suite
