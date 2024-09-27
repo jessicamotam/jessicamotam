@@ -26394,3 +26394,4 @@
 0543. ✨ feat: support email verification
 0791. 🔧 refactor: clean up auth middleware
 0935. 📚 docs: update README with setup steps
+0505. ♻️ chore: add GitHub actions badge
