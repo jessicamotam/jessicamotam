@@ -76580,3 +76580,4 @@
 0407. 🚀 perf: cache repeated calculations
 0167. 🚀 perf: reduce image load time
 0756. ✨ feat: support email verification
+0754. 🐛 fix: handle 500 error in quiz API
