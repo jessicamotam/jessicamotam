@@ -38316,3 +38316,4 @@
 0126. 🎨 style: rename variables for clarity
 0589. 🐛 fix: fix broken CSS in mobile view
 0340. 🚀 perf: optimize database query for quiz results
+0231. 🔧 refactor: clean up auth middleware
