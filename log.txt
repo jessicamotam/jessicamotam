@@ -8597,3 +8597,4 @@
 0932. ✅ test: add integration test for /submit endpoint
 0892. ✅ test: add unit test for quiz service
 0150. 🎨 style: remove trailing whitespace
+0276. ✅ test: add integration test for /submit endpoint
