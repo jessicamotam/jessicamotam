@@ -72591,3 +72591,4 @@
 0119. 📚 docs: improve code comments in utils
 0781. 🚀 perf: reduce image load time
 0480. ♻️ chore: add GitHub actions badge
+0911. ✅ test: increase coverage on auth module
