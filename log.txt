@@ -71182,3 +71182,4 @@
 0526. ✨ feat: add user authentication
 0792. 🎨 style: standardize quote style
 0062. ♻️ chore: update .gitignore
+0395. 📚 docs: write FAQ section
