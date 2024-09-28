@@ -65222,3 +65222,4 @@
 0042. 📚 docs: document token refresh logic
 0683. ✅ test: mock database connection in test suite
 0229. 🚀 perf: optimize database query for quiz results
+0820. 📚 docs: add API usage examples
