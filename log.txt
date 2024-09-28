@@ -53474,3 +53474,4 @@
 0149. ✨ feat: add export to CSV option
 0750. 🎨 style: apply consistent indentation
 0533. ♻️ chore: add GitHub actions badge
+0279. ✨ feat: support email verification
