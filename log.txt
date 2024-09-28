@@ -62796,3 +62796,4 @@
 0011. ✅ test: add unit test for quiz service
 0437. 📚 docs: clarify environment setup
 0614. 🚀 perf: reduce image load time
+0206. 🐛 fix: handle 500 error in quiz API
