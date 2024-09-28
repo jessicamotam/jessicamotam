@@ -9865,3 +9865,4 @@
 0114. ♻️ chore: update .gitignore
 0488. ♻️ chore: add GitHub actions badge
 0479. 🐛 fix: fix null pointer exception on login
+0721. 🚀 perf: optimize database query for quiz results
