@@ -58882,3 +58882,4 @@
 0015. ✨ feat: implement quiz timer feature
 0405. ✅ test: mock database connection in test suite
 0377. ✨ feat: add user authentication
+0772. 🐛 fix: fix null pointer exception on login
