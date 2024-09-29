@@ -61190,3 +61190,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0079. 🐛 fix: correct typo in registration form
 0314. ✨ feat: implement quiz timer feature
+0251. ♻️ chore: update .gitignore
