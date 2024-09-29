@@ -10726,3 +10726,4 @@
 0142. ✨ feat: implement quiz timer feature
 0823. ✨ feat: add user authentication
 0182. 🔧 refactor: remove redundant code blocks
+0982. 🚀 perf: lazy-load components
