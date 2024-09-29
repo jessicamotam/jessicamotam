@@ -16956,3 +16956,4 @@
 0180. ✨ feat: add export to CSV option
 0023. 📚 docs: clarify environment setup
 0661. ✅ test: add integration test for /submit endpoint
+0629. 🔧 refactor: organize models into subfolders
