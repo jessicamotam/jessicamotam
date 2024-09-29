@@ -21704,3 +21704,4 @@
 0468. 📚 docs: update README with setup steps
 0699. 🎨 style: standardize quote style
 0074. ♻️ chore: add GitHub actions badge
+0258. 🐛 fix: prevent crash on empty input
