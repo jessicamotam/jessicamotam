@@ -3782,3 +3782,4 @@
 0103. 🔧 refactor: remove redundant code blocks
 0998. 🐛 fix: fix null pointer exception on login
 0135. ✅ test: test user registration edge cases
+0242. ♻️ chore: clean up unused files
