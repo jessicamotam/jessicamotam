@@ -23115,3 +23115,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0062. ♻️ chore: update .gitignore
 0080. ✨ feat: support email verification
+0582. ✨ feat: add export to CSV option
