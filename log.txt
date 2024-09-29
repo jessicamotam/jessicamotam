@@ -32708,3 +32708,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0029. 🚀 perf: lazy-load components
 0749. ✨ feat: support email verification
+0660. 🐛 fix: correct typo in registration form
