@@ -52293,3 +52293,4 @@
 0339. 📚 docs: update README with setup steps
 0697. ♻️ chore: bump dependencies
 0249. ✅ test: increase coverage on auth module
+0378. 🐛 fix: prevent crash on empty input
