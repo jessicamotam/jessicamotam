@@ -88786,3 +88786,4 @@
 0564. 📚 docs: clarify environment setup
 0037. 🐛 fix: correct typo in registration form
 0646. ✅ test: test user registration edge cases
+0006. 🐛 fix: prevent crash on empty input
