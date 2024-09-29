@@ -41821,3 +41821,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0321. 🔧 refactor: organize models into subfolders
 0472. 🐛 fix: fix null pointer exception on login
+0481. ✅ test: add unit test for quiz service
