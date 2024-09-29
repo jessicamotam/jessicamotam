@@ -65072,3 +65072,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0770. ♻️ chore: rename env.example
 0711. 🐛 fix: fix broken CSS in mobile view
+0926. 🔧 refactor: organize models into subfolders
