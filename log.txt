@@ -42491,3 +42491,4 @@
 0881. 🔧 refactor: split large controller into smaller functions
 0365. 🚀 perf: reduce image load time
 0305. ✨ feat: enable dark mode toggle
+0535. 📚 docs: write FAQ section
