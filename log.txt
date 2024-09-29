@@ -40068,3 +40068,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0308. 🚀 perf: reduce image load time
 0878. 🔧 refactor: split large controller into smaller functions
+0317. ✅ test: test user registration edge cases
