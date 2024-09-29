@@ -400,3 +400,4 @@
 0387. ✨ feat: enable dark mode toggle
 0555. ✨ feat: create admin dashboard
 0974. ✨ feat: add export to CSV option
+0401. 🚀 perf: reduce image load time
