@@ -35483,3 +35483,4 @@
 0037. 🐛 fix: correct typo in registration form
 0124. 🎨 style: reformat files with black
 0410. 🎨 style: reformat files with black
+0187. ✨ feat: support email verification
