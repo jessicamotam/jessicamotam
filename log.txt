@@ -56868,3 +56868,4 @@
 0821. ✅ test: add integration test for /submit endpoint
 0923. ✨ feat: support email verification
 0733. 🐛 fix: fix null pointer exception on login
+0996. ✅ test: test user registration edge cases
