@@ -77813,3 +77813,4 @@
 0117. ✅ test: increase coverage on auth module
 0067. 🔧 refactor: remove redundant code blocks
 0921. 🐛 fix: correct typo in registration form
+0185. 📚 docs: write FAQ section
