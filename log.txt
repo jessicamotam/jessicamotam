@@ -33366,3 +33366,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0711. 🐛 fix: fix broken CSS in mobile view
 0800. 🚀 perf: optimize database query for quiz results
+0977. 🔧 refactor: organize models into subfolders
