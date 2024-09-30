@@ -10080,3 +10080,4 @@
 0660. 🐛 fix: correct typo in registration form
 0061. ✨ feat: create admin dashboard
 0669. ✨ feat: enable dark mode toggle
+0275. 🎨 style: standardize quote style
