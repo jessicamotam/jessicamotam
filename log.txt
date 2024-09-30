@@ -64361,3 +64361,4 @@
 0287. 📚 docs: write FAQ section
 0331. 🐛 fix: fix broken CSS in mobile view
 0091. ✨ feat: add user authentication
+0790. 📚 docs: write FAQ section
