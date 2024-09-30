@@ -73436,3 +73436,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0944. ✨ feat: add user authentication
 0347. ♻️ chore: update .gitignore
+0522. 🐛 fix: handle 500 error in quiz API
