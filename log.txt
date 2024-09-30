@@ -31119,3 +31119,4 @@
 0199. ✨ feat: create admin dashboard
 0027. 📚 docs: clarify environment setup
 0659. 📚 docs: add API usage examples
+0433. 🐛 fix: prevent crash on empty input
