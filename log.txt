@@ -34572,3 +34572,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0077. ♻️ chore: rename env.example
 0719. 🎨 style: apply consistent indentation
+0629. 🔧 refactor: organize models into subfolders
