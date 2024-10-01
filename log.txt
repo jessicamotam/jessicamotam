@@ -13102,3 +13102,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0854. ♻️ chore: rename env.example
 0790. 📚 docs: write FAQ section
+0254. 🚀 perf: reduce image load time
