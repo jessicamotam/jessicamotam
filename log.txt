@@ -62479,3 +62479,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0482. ✨ feat: add export to CSV option
 0834. ✅ test: increase coverage on auth module
+0402. 🎨 style: reformat files with black
