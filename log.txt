@@ -22592,3 +22592,4 @@
 0939. 📚 docs: update README with setup steps
 0551. 📚 docs: write FAQ section
 0541. 🐛 fix: correct typo in registration form
+0293. ✅ test: add integration test for /submit endpoint
