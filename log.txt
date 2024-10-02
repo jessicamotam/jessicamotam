@@ -1375,3 +1375,4 @@
 0490. ✨ feat: create admin dashboard
 0440. 📚 docs: update README with setup steps
 0255. 🔧 refactor: refactor quiz grading logic
+0019. ✨ feat: enable dark mode toggle
