@@ -8317,3 +8317,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0448. 🐛 fix: correct typo in registration form
 0411. ✅ test: add unit test for quiz service
+0726. ✨ feat: enable dark mode toggle
