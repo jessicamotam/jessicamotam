@@ -30234,3 +30234,4 @@
 0194. 🎨 style: standardize quote style
 0452. ✨ feat: implement quiz timer feature
 0804. ♻️ chore: add GitHub actions badge
+0171. 🐛 fix: fix broken CSS in mobile view
