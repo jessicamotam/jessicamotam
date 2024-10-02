@@ -86579,3 +86579,4 @@
 0275. 🎨 style: standardize quote style
 0733. 🐛 fix: fix null pointer exception on login
 0906. 📚 docs: add API usage examples
+0973. 🔧 refactor: organize models into subfolders
