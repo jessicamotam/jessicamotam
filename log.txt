@@ -60574,3 +60574,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0468. 📚 docs: update README with setup steps
 0287. 📚 docs: write FAQ section
+0463. 🚀 perf: reduce image load time
