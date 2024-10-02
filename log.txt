@@ -60797,3 +60797,4 @@
 0556. ✨ feat: support email verification
 0718. 🐛 fix: resolve issue with date parsing
 0584. 🚀 perf: lazy-load components
+0778. 📚 docs: write FAQ section
