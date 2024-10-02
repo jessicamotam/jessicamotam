@@ -37714,3 +37714,4 @@
 0580. ♻️ chore: bump dependencies
 0875. ✅ test: increase coverage on auth module
 0561. 📚 docs: write FAQ section
+0257. 📚 docs: clarify environment setup
