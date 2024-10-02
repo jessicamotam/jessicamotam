@@ -61281,3 +61281,4 @@
 0056. ♻️ chore: rename env.example
 0512. 🚀 perf: reduce image load time
 0940. 📚 docs: document token refresh logic
+0547. 📚 docs: write FAQ section
