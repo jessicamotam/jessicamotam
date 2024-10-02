@@ -76775,3 +76775,4 @@
 0913. 🚀 perf: optimize database query for quiz results
 0838. 🎨 style: standardize quote style
 0182. 🔧 refactor: remove redundant code blocks
+0450. 🐛 fix: fix broken CSS in mobile view
