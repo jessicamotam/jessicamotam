@@ -3377,3 +3377,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0207. 🐛 fix: prevent crash on empty input
 0599. ✅ test: test user registration edge cases
+0949. 📚 docs: write FAQ section
