@@ -89245,3 +89245,4 @@
 0831. 📚 docs: clarify environment setup
 0386. 🚀 perf: optimize database query for quiz results
 0993. ✨ feat: implement quiz timer feature
+0167. 🚀 perf: reduce image load time
