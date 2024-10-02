@@ -47248,3 +47248,4 @@
 0474. ✅ test: add unit test for quiz service
 0940. 📚 docs: document token refresh logic
 0423. ✅ test: mock database connection in test suite
+0232. 🎨 style: apply consistent indentation
