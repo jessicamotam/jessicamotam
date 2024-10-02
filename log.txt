@@ -90731,3 +90731,4 @@
 0726. ✨ feat: enable dark mode toggle
 0831. 📚 docs: clarify environment setup
 0760. 🐛 fix: resolve issue with date parsing
+0708. ✅ test: add integration test for /submit endpoint
