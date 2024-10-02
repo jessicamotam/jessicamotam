@@ -14364,3 +14364,4 @@
 0065. ✅ test: add integration test for /submit endpoint
 0276. ✅ test: add integration test for /submit endpoint
 0468. 📚 docs: update README with setup steps
+0263. 📚 docs: add API usage examples
