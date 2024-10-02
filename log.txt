@@ -90847,3 +90847,4 @@
 0573. ✅ test: add integration test for /submit endpoint
 0671. 🐛 fix: fix null pointer exception on login
 0058. ♻️ chore: add GitHub actions badge
+0795. 📚 docs: update README with setup steps
