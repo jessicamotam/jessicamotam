@@ -37194,3 +37194,4 @@
 0009. ✨ feat: enable dark mode toggle
 0439. 🐛 fix: correct typo in registration form
 0144. ✅ test: increase coverage on auth module
+0690. 🚀 perf: lazy-load components
