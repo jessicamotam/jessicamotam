@@ -54358,3 +54358,4 @@
 0349. ✅ test: increase coverage on auth module
 0968. 🎨 style: standardize quote style
 0354. 📚 docs: add API usage examples
+0711. 🐛 fix: fix broken CSS in mobile view
