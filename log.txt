@@ -60252,3 +60252,4 @@
 0788. 📚 docs: add API usage examples
 0540. ♻️ chore: add GitHub actions badge
 0778. 📚 docs: write FAQ section
+0788. 📚 docs: add API usage examples
