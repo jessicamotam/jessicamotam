@@ -3129,3 +3129,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0338. ♻️ chore: add GitHub actions badge
 0095. ✅ test: mock database connection in test suite
+0041. 🐛 fix: fix broken CSS in mobile view
