@@ -87563,3 +87563,4 @@
 0147. ♻️ chore: bump dependencies
 0393. 🚀 perf: lazy-load components
 0686. 🎨 style: standardize quote style
+0908. ♻️ chore: bump dependencies
