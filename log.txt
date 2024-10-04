@@ -37601,3 +37601,4 @@
 0312. ✨ feat: add user authentication
 0391. 🐛 fix: fix null pointer exception on login
 0460. 📚 docs: write FAQ section
+0738. 🐛 fix: prevent crash on empty input
