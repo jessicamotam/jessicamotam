@@ -71702,3 +71702,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0278. 🔧 refactor: clean up auth middleware
 0998. 🐛 fix: fix null pointer exception on login
+0115. 🚀 perf: reduce image load time
