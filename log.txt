@@ -10238,3 +10238,4 @@
 0416. 🎨 style: rename variables for clarity
 0064. 📚 docs: clarify environment setup
 0058. ♻️ chore: add GitHub actions badge
+0985. 📚 docs: document token refresh logic
