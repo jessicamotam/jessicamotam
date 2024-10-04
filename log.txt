@@ -35183,3 +35183,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0531. 🐛 fix: prevent crash on empty input
 0146. 🎨 style: apply consistent indentation
+0496. ✅ test: add integration test for /submit endpoint
