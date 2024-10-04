@@ -10846,3 +10846,4 @@
 0662. ♻️ chore: clean up unused files
 0109. 🚀 perf: lazy-load components
 0244. ✨ feat: add export to CSV option
+0307. ✨ feat: support email verification
