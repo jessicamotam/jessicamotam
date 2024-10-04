@@ -89801,3 +89801,4 @@
 0048. 📚 docs: update README with setup steps
 0577. ✨ feat: implement quiz timer feature
 0415. 🐛 fix: handle 500 error in quiz API
+0826. 📚 docs: clarify environment setup
