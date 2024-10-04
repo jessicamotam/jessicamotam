@@ -54187,3 +54187,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0032. 🎨 style: apply consistent indentation
 0288. 🔧 refactor: refactor quiz grading logic
+0756. ✨ feat: support email verification
