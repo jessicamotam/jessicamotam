@@ -85919,3 +85919,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0602. 🔧 refactor: remove redundant code blocks
 0963. 🚀 perf: reduce image load time
+0792. 🎨 style: standardize quote style
