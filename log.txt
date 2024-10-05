@@ -39380,3 +39380,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0222. 🐛 fix: handle 500 error in quiz API
 0068. 🐛 fix: fix null pointer exception on login
+0409. 🚀 perf: lazy-load components
