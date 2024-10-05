@@ -3771,3 +3771,4 @@
 0922. 📚 docs: write FAQ section
 0964. ♻️ chore: clean up unused files
 0489. 🔧 refactor: organize models into subfolders
+0430. 🐛 fix: fix null pointer exception on login
