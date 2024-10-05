@@ -9575,3 +9575,4 @@
 0326. 🚀 perf: cache repeated calculations
 0861. ♻️ chore: clean up unused files
 0542. 🔧 refactor: organize models into subfolders
+0982. 🚀 perf: lazy-load components
