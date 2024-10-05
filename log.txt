@@ -71898,3 +71898,4 @@
 0046. 🎨 style: rename variables for clarity
 0613. 🐛 fix: prevent crash on empty input
 0851. ✅ test: mock database connection in test suite
+0989. 📚 docs: write FAQ section
