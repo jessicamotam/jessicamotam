@@ -16552,3 +16552,4 @@
 0771. 🚀 perf: cache repeated calculations
 0859. ✨ feat: create admin dashboard
 0041. 🐛 fix: fix broken CSS in mobile view
+0657. 🎨 style: standardize quote style
