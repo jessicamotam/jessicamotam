@@ -34650,3 +34650,4 @@
 0329. 📚 docs: update README with setup steps
 0847. ♻️ chore: clean up unused files
 0524. ♻️ chore: rename env.example
+0566. 📚 docs: write FAQ section
