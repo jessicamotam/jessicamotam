@@ -9911,3 +9911,4 @@
 0204. 🎨 style: standardize quote style
 0708. ✅ test: add integration test for /submit endpoint
 0564. 📚 docs: clarify environment setup
+0561. 📚 docs: write FAQ section
