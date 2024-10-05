@@ -33796,3 +33796,4 @@
 0693. 📚 docs: add API usage examples
 0402. 🎨 style: reformat files with black
 0489. 🔧 refactor: organize models into subfolders
+0922. 📚 docs: write FAQ section
