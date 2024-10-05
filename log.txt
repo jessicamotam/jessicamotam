@@ -56953,3 +56953,4 @@
 0432. 🎨 style: apply consistent indentation
 0942. ✅ test: increase coverage on auth module
 0809. ♻️ chore: rename env.example
+0531. 🐛 fix: prevent crash on empty input
