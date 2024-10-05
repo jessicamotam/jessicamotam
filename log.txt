@@ -31859,3 +31859,4 @@
 0337. 📚 docs: document token refresh logic
 0605. ✨ feat: support email verification
 0456. 🚀 perf: optimize database query for quiz results
+0611. ✅ test: test user registration edge cases
