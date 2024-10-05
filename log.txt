@@ -86690,3 +86690,4 @@
 0810. 🔧 refactor: refactor quiz grading logic
 0395. 📚 docs: write FAQ section
 0720. ✨ feat: add export to CSV option
+0085. ✨ feat: support email verification
