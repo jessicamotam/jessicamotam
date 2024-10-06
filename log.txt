@@ -7756,3 +7756,4 @@
 0548. 📚 docs: write FAQ section
 0804. ♻️ chore: add GitHub actions badge
 0450. 🐛 fix: fix broken CSS in mobile view
+0136. 🚀 perf: lazy-load components
