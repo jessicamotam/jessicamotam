@@ -50630,3 +50630,4 @@
 0722. 📚 docs: add API usage examples
 0699. 🎨 style: standardize quote style
 0425. 🔧 refactor: refactor quiz grading logic
+0258. 🐛 fix: prevent crash on empty input
