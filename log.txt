@@ -2570,3 +2570,4 @@
 0976. ✨ feat: implement quiz timer feature
 0160. ♻️ chore: bump dependencies
 0011. ✅ test: add unit test for quiz service
+0493. ✨ feat: add user authentication
