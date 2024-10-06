@@ -54237,3 +54237,4 @@
 0677. 📚 docs: add API usage examples
 0365. 🚀 perf: reduce image load time
 0008. 🚀 perf: reduce image load time
+0975. 🎨 style: apply consistent indentation
