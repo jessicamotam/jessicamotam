@@ -86136,3 +86136,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0317. ✅ test: test user registration edge cases
 0550. 🔧 refactor: split large controller into smaller functions
+0975. 🎨 style: apply consistent indentation
