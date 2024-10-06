@@ -40481,3 +40481,4 @@
 0090. ✅ test: increase coverage on auth module
 0804. ♻️ chore: add GitHub actions badge
 0222. 🐛 fix: handle 500 error in quiz API
+0918. ✨ feat: enable dark mode toggle
