@@ -61785,3 +61785,4 @@
 0601. ✨ feat: implement quiz timer feature
 0063. 🐛 fix: handle 500 error in quiz API
 0163. ✨ feat: implement quiz timer feature
+0698. 🐛 fix: handle 500 error in quiz API
