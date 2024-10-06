@@ -45208,3 +45208,4 @@
 0292. 📚 docs: clarify environment setup
 0963. 🚀 perf: reduce image load time
 0337. 📚 docs: document token refresh logic
+0050. ✨ feat: enable dark mode toggle
