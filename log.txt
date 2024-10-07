@@ -50782,3 +50782,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0133. 🐛 fix: fix null pointer exception on login
 0202. 🔧 refactor: refactor quiz grading logic
+0848. 📚 docs: update README with setup steps
