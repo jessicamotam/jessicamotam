@@ -55236,3 +55236,4 @@
 0585. 🚀 perf: lazy-load components
 0784. ♻️ chore: clean up unused files
 0819. 🚀 perf: reduce image load time
+0428. 🐛 fix: fix null pointer exception on login
