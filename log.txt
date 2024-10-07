@@ -80306,3 +80306,4 @@
 0061. ✨ feat: create admin dashboard
 0008. 🚀 perf: reduce image load time
 0523. ♻️ chore: bump dependencies
+0438. ♻️ chore: bump dependencies
