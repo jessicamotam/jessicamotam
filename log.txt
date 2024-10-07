@@ -67672,3 +67672,4 @@
 0483. 📚 docs: update README with setup steps
 0348. ✅ test: test user registration edge cases
 0347. ♻️ chore: update .gitignore
+0357. ✅ test: add unit test for quiz service
