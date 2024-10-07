@@ -40095,3 +40095,4 @@
 0838. 🎨 style: standardize quote style
 0433. 🐛 fix: prevent crash on empty input
 0822. 🔧 refactor: remove redundant code blocks
+0361. ✨ feat: support email verification
