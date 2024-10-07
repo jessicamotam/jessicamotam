@@ -39166,3 +39166,4 @@
 0012. 🚀 perf: cache repeated calculations
 0490. ✨ feat: create admin dashboard
 0964. ♻️ chore: clean up unused files
+0775. 🐛 fix: fix null pointer exception on login
