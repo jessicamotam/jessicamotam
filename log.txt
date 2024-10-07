@@ -48024,3 +48024,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0248. 🐛 fix: handle 500 error in quiz API
 0680. ♻️ chore: add GitHub actions badge
+0893. 🐛 fix: handle 500 error in quiz API
