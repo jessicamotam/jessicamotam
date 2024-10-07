@@ -3547,3 +3547,4 @@
 0461. ✨ feat: add user authentication
 0840. 🔧 refactor: refactor quiz grading logic
 0196. ♻️ chore: bump dependencies
+0611. ✅ test: test user registration edge cases
