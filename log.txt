@@ -61837,3 +61837,4 @@
 0420. 🚀 perf: reduce image load time
 0053. ✅ test: increase coverage on auth module
 0332. 🎨 style: standardize quote style
+0731. 🎨 style: standardize quote style
