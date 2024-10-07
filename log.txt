@@ -55437,3 +55437,4 @@
 0670. ✨ feat: add export to CSV option
 0450. 🐛 fix: fix broken CSS in mobile view
 0657. 🎨 style: standardize quote style
+0703. 🔧 refactor: clean up auth middleware
