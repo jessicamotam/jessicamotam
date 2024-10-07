@@ -21129,3 +21129,4 @@
 0845. 🚀 perf: cache repeated calculations
 0575. ✅ test: add unit test for quiz service
 0245. 🐛 fix: resolve issue with date parsing
+0065. ✅ test: add integration test for /submit endpoint
