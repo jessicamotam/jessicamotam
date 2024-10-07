@@ -11261,3 +11261,4 @@
 0388. 🎨 style: reformat files with black
 0716. ✨ feat: implement quiz timer feature
 0972. 🔧 refactor: refactor quiz grading logic
+0696. 🔧 refactor: clean up auth middleware
