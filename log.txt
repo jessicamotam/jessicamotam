@@ -29683,3 +29683,4 @@
 0360. ✨ feat: add export to CSV option
 0002. 🚀 perf: cache repeated calculations
 0017. ✅ test: mock database connection in test suite
+0440. 📚 docs: update README with setup steps
