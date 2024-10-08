@@ -36695,3 +36695,4 @@
 0641. 📚 docs: write FAQ section
 0607. 🐛 fix: prevent crash on empty input
 0267. 📚 docs: improve code comments in utils
+0758. 🚀 perf: optimize database query for quiz results
