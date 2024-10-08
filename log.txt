@@ -18479,3 +18479,4 @@
 0337. 📚 docs: document token refresh logic
 0252. 🎨 style: remove trailing whitespace
 0822. 🔧 refactor: remove redundant code blocks
+0584. 🚀 perf: lazy-load components
