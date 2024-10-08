@@ -31666,3 +31666,4 @@
 0554. 📚 docs: improve code comments in utils
 0595. ✨ feat: enable dark mode toggle
 0736. 🐛 fix: fix null pointer exception on login
+0144. ✅ test: increase coverage on auth module
