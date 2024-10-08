@@ -21523,3 +21523,4 @@
 0594. 🎨 style: reformat files with black
 0424. ✨ feat: add user authentication
 0502. 📚 docs: update README with setup steps
+0791. 🔧 refactor: clean up auth middleware
