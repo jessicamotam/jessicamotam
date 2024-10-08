@@ -72085,3 +72085,4 @@
 0507. 🔧 refactor: clean up auth middleware
 0301. 🎨 style: apply consistent indentation
 0720. ✨ feat: add export to CSV option
+0206. 🐛 fix: handle 500 error in quiz API
