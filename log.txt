@@ -3285,3 +3285,4 @@
 0905. ♻️ chore: bump dependencies
 0473. 📚 docs: write FAQ section
 0321. 🔧 refactor: organize models into subfolders
+0403. ✅ test: mock database connection in test suite
