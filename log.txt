@@ -23930,3 +23930,4 @@
 0152. ✨ feat: add user authentication
 0541. 🐛 fix: correct typo in registration form
 0604. 📚 docs: add API usage examples
+0552. 🐛 fix: fix null pointer exception on login
