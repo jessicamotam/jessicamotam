@@ -1996,3 +1996,4 @@
 0458. ✨ feat: create admin dashboard
 0080. ✨ feat: support email verification
 0992. ♻️ chore: clean up unused files
+0301. 🎨 style: apply consistent indentation
