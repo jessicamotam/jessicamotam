@@ -12309,3 +12309,4 @@
 0249. ✅ test: increase coverage on auth module
 0805. ♻️ chore: add GitHub actions badge
 0132. ✅ test: add unit test for quiz service
+0633. ✨ feat: add user authentication
