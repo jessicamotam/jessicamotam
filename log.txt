@@ -75169,3 +75169,4 @@
 0085. ✨ feat: support email verification
 0465. 🎨 style: rename variables for clarity
 0447. ♻️ chore: bump dependencies
+0057. 🚀 perf: optimize database query for quiz results
