@@ -9522,3 +9522,4 @@
 0150. 🎨 style: remove trailing whitespace
 0730. ✅ test: test user registration edge cases
 0997. ✅ test: increase coverage on auth module
+0692. ✅ test: add integration test for /submit endpoint
