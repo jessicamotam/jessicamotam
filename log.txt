@@ -87974,3 +87974,4 @@
 0563. 📚 docs: clarify environment setup
 0512. 🚀 perf: reduce image load time
 0832. 🔧 refactor: remove redundant code blocks
+0379. ✨ feat: support email verification
