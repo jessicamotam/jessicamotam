@@ -85748,3 +85748,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0438. ♻️ chore: bump dependencies
 0620. ✨ feat: implement quiz timer feature
+0518. ✨ feat: support email verification
