@@ -71545,3 +71545,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0834. ✅ test: increase coverage on auth module
 0324. 📚 docs: document token refresh logic
+0296. 🔧 refactor: organize models into subfolders
