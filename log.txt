@@ -54657,3 +54657,4 @@
 0306. 🎨 style: apply consistent indentation
 0539. 🔧 refactor: organize models into subfolders
 0651. ✨ feat: enable dark mode toggle
+0659. 📚 docs: add API usage examples
