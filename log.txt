@@ -19278,3 +19278,4 @@
 0330. ✅ test: test user registration edge cases
 0405. ✅ test: mock database connection in test suite
 0947. 📚 docs: write FAQ section
+0575. ✅ test: add unit test for quiz service
