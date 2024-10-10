@@ -6609,3 +6609,4 @@
 0799. ♻️ chore: clean up unused files
 0372. ✨ feat: add user authentication
 0914. ✅ test: test user registration edge cases
+0385. ♻️ chore: clean up unused files
