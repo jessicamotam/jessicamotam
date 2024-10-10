@@ -24,3 +24,4 @@
 0577. ✨ feat: implement quiz timer feature
 0542. 🔧 refactor: organize models into subfolders
 0758. 🚀 perf: optimize database query for quiz results
+0140. 🐛 fix: handle 500 error in quiz API
