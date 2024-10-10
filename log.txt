@@ -78699,3 +78699,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0773. 📚 docs: document token refresh logic
 0249. ✅ test: increase coverage on auth module
+0538. 🐛 fix: fix broken CSS in mobile view
