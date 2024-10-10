@@ -17875,3 +17875,4 @@
 0539. 🔧 refactor: organize models into subfolders
 0727. ♻️ chore: add GitHub actions badge
 0664. ✅ test: add unit test for quiz service
+0944. ✨ feat: add user authentication
