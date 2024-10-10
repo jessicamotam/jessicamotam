@@ -20588,3 +20588,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0390. 🎨 style: standardize quote style
 0508. ✅ test: add unit test for quiz service
+0499. 🎨 style: reformat files with black
