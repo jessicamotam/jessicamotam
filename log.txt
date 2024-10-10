@@ -69649,3 +69649,4 @@
 0664. ✅ test: add unit test for quiz service
 0809. ♻️ chore: rename env.example
 0406. ✨ feat: add export to CSV option
+0730. ✅ test: test user registration edge cases
