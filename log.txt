@@ -1858,3 +1858,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0058. ♻️ chore: add GitHub actions badge
 0823. ✨ feat: add user authentication
+0102. ✨ feat: support email verification
