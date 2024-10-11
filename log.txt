@@ -53491,3 +53491,4 @@
 0901. ✨ feat: add user authentication
 0076. 🎨 style: reformat files with black
 0933. 📚 docs: clarify environment setup
+0205. 📚 docs: update README with setup steps
