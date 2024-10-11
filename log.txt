@@ -418,3 +418,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0015. ✨ feat: implement quiz timer feature
 0879. 🎨 style: standardize quote style
+0060. ♻️ chore: clean up unused files
