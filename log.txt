@@ -56340,3 +56340,4 @@
 0348. ✅ test: test user registration edge cases
 0540. ♻️ chore: add GitHub actions badge
 0383. 🐛 fix: fix broken CSS in mobile view
+0621. 🔧 refactor: clean up auth middleware
