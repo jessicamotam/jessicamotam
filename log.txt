@@ -60225,3 +60225,4 @@
 0776. ✅ test: add integration test for /submit endpoint
 0061. ✨ feat: create admin dashboard
 0023. 📚 docs: clarify environment setup
+0502. 📚 docs: update README with setup steps
