@@ -26136,3 +26136,4 @@
 0307. ✨ feat: support email verification
 0056. ♻️ chore: rename env.example
 0312. ✨ feat: add user authentication
+0296. 🔧 refactor: organize models into subfolders
