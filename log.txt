@@ -21097,3 +21097,4 @@
 0192. ✨ feat: enable dark mode toggle
 0038. 🎨 style: rename variables for clarity
 0768. 🎨 style: remove trailing whitespace
+0835. 🐛 fix: prevent crash on empty input
