@@ -7096,3 +7096,4 @@
 0345. 📚 docs: document token refresh logic
 0927. ♻️ chore: bump dependencies
 0616. 🚀 perf: lazy-load components
+0609. 🐛 fix: handle 500 error in quiz API
