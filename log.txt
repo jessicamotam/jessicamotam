@@ -27360,3 +27360,4 @@
 0245. 🐛 fix: resolve issue with date parsing
 0687. 🎨 style: remove trailing whitespace
 0149. ✨ feat: add export to CSV option
+0544. 🔧 refactor: organize models into subfolders
