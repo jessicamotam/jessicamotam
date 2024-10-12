@@ -87792,3 +87792,4 @@
 0664. ✅ test: add unit test for quiz service
 0960. ✅ test: increase coverage on auth module
 0488. ♻️ chore: add GitHub actions badge
+0463. 🚀 perf: reduce image load time
