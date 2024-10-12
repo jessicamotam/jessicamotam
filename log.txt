@@ -65501,3 +65501,4 @@
 0444. ✅ test: add unit test for quiz service
 0199. ✨ feat: create admin dashboard
 0885. ♻️ chore: update .gitignore
+0833. ✨ feat: add user authentication
