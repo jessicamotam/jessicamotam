@@ -26192,3 +26192,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0216. 🎨 style: rename variables for clarity
 0757. 🔧 refactor: remove redundant code blocks
+0556. ✨ feat: support email verification
