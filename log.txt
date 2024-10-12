@@ -79442,3 +79442,4 @@
 0086. 🐛 fix: correct typo in registration form
 0165. 🎨 style: remove trailing whitespace
 0115. 🚀 perf: reduce image load time
+0564. 📚 docs: clarify environment setup
