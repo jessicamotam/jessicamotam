@@ -88406,3 +88406,4 @@
 0555. ✨ feat: create admin dashboard
 0678. ✨ feat: add user authentication
 0281. ✨ feat: support email verification
+0713. 🐛 fix: handle 500 error in quiz API
