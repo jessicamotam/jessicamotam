@@ -23192,3 +23192,4 @@
 0242. ♻️ chore: clean up unused files
 0958. 🐛 fix: prevent crash on empty input
 0463. 🚀 perf: reduce image load time
+0339. 📚 docs: update README with setup steps
