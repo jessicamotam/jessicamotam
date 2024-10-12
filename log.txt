@@ -33938,3 +33938,4 @@
 0584. 🚀 perf: lazy-load components
 0129. 🔧 refactor: organize models into subfolders
 0274. 🔧 refactor: refactor quiz grading logic
+0072. 🚀 perf: optimize database query for quiz results
