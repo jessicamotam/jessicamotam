@@ -78589,3 +78589,4 @@
 0742. 📚 docs: clarify environment setup
 0855. 🎨 style: reformat files with black
 0792. 🎨 style: standardize quote style
+0647. 🐛 fix: prevent crash on empty input
