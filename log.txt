@@ -49565,3 +49565,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0281. ✨ feat: support email verification
 0256. ✅ test: mock database connection in test suite
+1000. ✅ test: increase coverage on auth module
