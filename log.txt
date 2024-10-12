@@ -10768,3 +10768,4 @@
 0870. ♻️ chore: clean up unused files
 0649. 📚 docs: update README with setup steps
 0937. 🐛 fix: handle 500 error in quiz API
+0487. 🎨 style: reformat files with black
