@@ -2379,3 +2379,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0308. 🚀 perf: reduce image load time
 0793. 📚 docs: clarify environment setup
+0782. 📚 docs: improve code comments in utils
