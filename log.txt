@@ -75275,3 +75275,4 @@
 0689. 🎨 style: reformat files with black
 0689. 🎨 style: reformat files with black
 0464. 🎨 style: remove trailing whitespace
+0929. ✨ feat: support email verification
