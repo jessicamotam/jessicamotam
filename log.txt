@@ -90084,3 +90084,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0639. 🐛 fix: correct typo in registration form
 0990. ♻️ chore: rename env.example
+0156. 🎨 style: rename variables for clarity
