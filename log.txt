@@ -41949,3 +41949,4 @@
 0498. ✅ test: mock database connection in test suite
 0933. 📚 docs: clarify environment setup
 0844. 📚 docs: update README with setup steps
+0412. ✅ test: increase coverage on auth module
