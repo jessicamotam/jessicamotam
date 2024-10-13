@@ -7302,3 +7302,4 @@
 0986. 📚 docs: document token refresh logic
 0545. 🎨 style: standardize quote style
 0274. 🔧 refactor: refactor quiz grading logic
+0203. 🚀 perf: lazy-load components
