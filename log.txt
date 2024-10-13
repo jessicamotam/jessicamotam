@@ -6706,3 +6706,4 @@
 0622. 🎨 style: apply consistent indentation
 0713. 🐛 fix: handle 500 error in quiz API
 0401. 🚀 perf: reduce image load time
+0652. 🔧 refactor: organize models into subfolders
