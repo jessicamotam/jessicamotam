@@ -42635,3 +42635,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0533. ♻️ chore: add GitHub actions badge
 0556. ✨ feat: support email verification
+0942. ✅ test: increase coverage on auth module
