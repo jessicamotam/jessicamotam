@@ -65753,3 +65753,4 @@
 0660. 🐛 fix: correct typo in registration form
 0235. 🐛 fix: fix null pointer exception on login
 0888. 🚀 perf: lazy-load components
+0178. ✨ feat: support email verification
