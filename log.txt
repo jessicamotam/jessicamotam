@@ -40641,3 +40641,4 @@
 0401. 🚀 perf: reduce image load time
 0540. ♻️ chore: add GitHub actions badge
 0219. ✅ test: increase coverage on auth module
+0962. ✨ feat: create admin dashboard
