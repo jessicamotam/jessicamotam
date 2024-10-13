@@ -47555,3 +47555,4 @@
 0691. 🎨 style: rename variables for clarity
 0934. ✨ feat: support email verification
 0506. 🐛 fix: handle 500 error in quiz API
+0982. 🚀 perf: lazy-load components
