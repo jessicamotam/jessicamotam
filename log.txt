@@ -31100,3 +31100,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0757. 🔧 refactor: remove redundant code blocks
 0848. 📚 docs: update README with setup steps
+0798. 🚀 perf: reduce image load time
