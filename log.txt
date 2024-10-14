@@ -19196,3 +19196,4 @@
 0684. 🚀 perf: reduce image load time
 0130. 🔧 refactor: split large controller into smaller functions
 0171. 🐛 fix: fix broken CSS in mobile view
+0189. 📚 docs: clarify environment setup
