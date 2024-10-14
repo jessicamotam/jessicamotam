@@ -62183,3 +62183,4 @@
 0411. ✅ test: add unit test for quiz service
 0184. 📚 docs: improve code comments in utils
 0090. ✅ test: increase coverage on auth module
+0319. 🐛 fix: handle 500 error in quiz API
