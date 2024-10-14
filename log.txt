@@ -5882,3 +5882,4 @@
 0192. ✨ feat: enable dark mode toggle
 0021. ✨ feat: support email verification
 0083. 🎨 style: reformat files with black
+0003. ✅ test: increase coverage on auth module
