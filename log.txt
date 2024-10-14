@@ -56446,3 +56446,4 @@
 0092. 🚀 perf: reduce image load time
 0754. 🐛 fix: handle 500 error in quiz API
 0395. 📚 docs: write FAQ section
+0424. ✨ feat: add user authentication
