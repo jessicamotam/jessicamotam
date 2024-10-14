@@ -46029,3 +46029,4 @@
 0320. 📚 docs: update README with setup steps
 0269. ✅ test: test user registration edge cases
 0518. ✨ feat: support email verification
+0220. 🐛 fix: fix null pointer exception on login
