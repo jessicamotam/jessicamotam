@@ -67457,3 +67457,4 @@
 0249. ✅ test: increase coverage on auth module
 0408. ♻️ chore: add GitHub actions badge
 0052. 🎨 style: standardize quote style
+0102. ✨ feat: support email verification
