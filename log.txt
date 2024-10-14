@@ -34092,3 +34092,4 @@
 0021. ✨ feat: support email verification
 0239. 🎨 style: standardize quote style
 0574. ✨ feat: enable dark mode toggle
+0206. 🐛 fix: handle 500 error in quiz API
