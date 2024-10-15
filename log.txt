@@ -40598,3 +40598,4 @@
 0962. ✨ feat: create admin dashboard
 0345. 📚 docs: document token refresh logic
 0933. 📚 docs: clarify environment setup
+0676. 🐛 fix: prevent crash on empty input
