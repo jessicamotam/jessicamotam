@@ -18745,3 +18745,4 @@
 0734. ✨ feat: add export to CSV option
 0869. ♻️ chore: bump dependencies
 0485. 📚 docs: update README with setup steps
+0689. 🎨 style: reformat files with black
