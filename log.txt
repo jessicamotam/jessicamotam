@@ -40666,3 +40666,4 @@
 0242. ♻️ chore: clean up unused files
 0210. 🎨 style: apply consistent indentation
 0518. ✨ feat: support email verification
+0172. 📚 docs: add API usage examples
