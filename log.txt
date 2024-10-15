@@ -20773,3 +20773,4 @@
 0908. ♻️ chore: bump dependencies
 0121. ✨ feat: support email verification
 0329. 📚 docs: update README with setup steps
+0798. 🚀 perf: reduce image load time
