@@ -47242,3 +47242,4 @@
 0485. 📚 docs: update README with setup steps
 0053. ✅ test: increase coverage on auth module
 0972. 🔧 refactor: refactor quiz grading logic
+0105. 🐛 fix: correct typo in registration form
