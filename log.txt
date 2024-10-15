@@ -78799,3 +78799,4 @@
 0242. ♻️ chore: clean up unused files
 0843. 📚 docs: document token refresh logic
 0596. ♻️ chore: update .gitignore
+0171. 🐛 fix: fix broken CSS in mobile view
