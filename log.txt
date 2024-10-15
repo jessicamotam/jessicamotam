@@ -29095,3 +29095,4 @@
 0332. 🎨 style: standardize quote style
 0583. ✅ test: increase coverage on auth module
 0017. ✅ test: mock database connection in test suite
+0483. 📚 docs: update README with setup steps
