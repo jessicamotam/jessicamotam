@@ -69652,3 +69652,4 @@
 0730. ✅ test: test user registration edge cases
 0037. 🐛 fix: correct typo in registration form
 0124. 🎨 style: reformat files with black
+0664. ✅ test: add unit test for quiz service
