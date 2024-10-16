@@ -17670,3 +17670,4 @@
 0419. 🎨 style: remove trailing whitespace
 0444. ✅ test: add unit test for quiz service
 0957. 🐛 fix: fix null pointer exception on login
+0287. 📚 docs: write FAQ section
