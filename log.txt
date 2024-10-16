@@ -20319,3 +20319,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0524. ♻️ chore: rename env.example
 0209. ✨ feat: implement quiz timer feature
+0701. 🔧 refactor: clean up auth middleware
