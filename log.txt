@@ -31417,3 +31417,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0666. 🐛 fix: fix broken CSS in mobile view
 0554. 📚 docs: improve code comments in utils
+0227. ✅ test: test user registration edge cases
