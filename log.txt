@@ -51809,3 +51809,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0363. 📚 docs: clarify environment setup
 0749. ✨ feat: support email verification
+0234. ♻️ chore: rename env.example
