@@ -19317,3 +19317,4 @@
 0086. 🐛 fix: correct typo in registration form
 0568. 🐛 fix: handle 500 error in quiz API
 0059. ♻️ chore: bump dependencies
+0227. ✅ test: test user registration edge cases
