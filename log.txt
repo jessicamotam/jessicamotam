@@ -36402,3 +36402,4 @@
 0180. ✨ feat: add export to CSV option
 0583. ✅ test: increase coverage on auth module
 0962. ✨ feat: create admin dashboard
+0848. 📚 docs: update README with setup steps
