@@ -66971,3 +66971,4 @@
 0844. 📚 docs: update README with setup steps
 0168. ✅ test: add integration test for /submit endpoint
 0565. ♻️ chore: add GitHub actions badge
+0692. ✅ test: add integration test for /submit endpoint
