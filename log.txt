@@ -19695,3 +19695,4 @@
 0147. ♻️ chore: bump dependencies
 0655. 🚀 perf: cache repeated calculations
 0754. 🐛 fix: handle 500 error in quiz API
+0451. ✨ feat: support email verification
