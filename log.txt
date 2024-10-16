@@ -45509,3 +45509,4 @@
 0022. 📚 docs: document token refresh logic
 0775. 🐛 fix: fix null pointer exception on login
 0354. 📚 docs: add API usage examples
+0672. 🐛 fix: fix broken CSS in mobile view
