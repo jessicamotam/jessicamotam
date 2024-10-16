@@ -72,3 +72,4 @@
 0071. 🔧 refactor: refactor quiz grading logic
 0353. ♻️ chore: rename env.example
 0324. 📚 docs: document token refresh logic
+0415. 🐛 fix: handle 500 error in quiz API
