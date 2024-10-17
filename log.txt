@@ -26025,3 +26025,4 @@
 0369. 🎨 style: standardize quote style
 0977. 🔧 refactor: organize models into subfolders
 0549. ✨ feat: enable dark mode toggle
+0937. 🐛 fix: handle 500 error in quiz API
