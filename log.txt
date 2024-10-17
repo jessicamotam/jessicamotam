@@ -74840,3 +74840,4 @@
 0250. 📚 docs: update README with setup steps
 0066. 🔧 refactor: clean up auth middleware
 0076. 🎨 style: reformat files with black
+0393. 🚀 perf: lazy-load components
