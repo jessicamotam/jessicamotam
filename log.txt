@@ -25501,3 +25501,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0095. ✅ test: mock database connection in test suite
 0657. 🎨 style: standardize quote style
+0395. 📚 docs: write FAQ section
