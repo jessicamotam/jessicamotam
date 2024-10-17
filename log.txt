@@ -26387,3 +26387,4 @@
 0003. ✅ test: increase coverage on auth module
 0261. 🔧 refactor: refactor quiz grading logic
 0620. ✨ feat: implement quiz timer feature
+0880. 🐛 fix: fix broken CSS in mobile view
