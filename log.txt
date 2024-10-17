@@ -81035,3 +81035,4 @@
 0230. ✨ feat: create admin dashboard
 0980. 🎨 style: reformat files with black
 0672. 🐛 fix: fix broken CSS in mobile view
+0676. 🐛 fix: prevent crash on empty input
