@@ -78036,3 +78036,4 @@
 0495. 🔧 refactor: remove redundant code blocks
 0397. 🐛 fix: handle 500 error in quiz API
 0518. ✨ feat: support email verification
+0378. 🐛 fix: prevent crash on empty input
