@@ -88261,3 +88261,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0726. ✨ feat: enable dark mode toggle
 0562. 🔧 refactor: clean up auth middleware
+0148. 🔧 refactor: organize models into subfolders
