@@ -2516,3 +2516,4 @@
 0870. ♻️ chore: clean up unused files
 0375. 🐛 fix: handle 500 error in quiz API
 0620. ✨ feat: implement quiz timer feature
+0086. 🐛 fix: correct typo in registration form
