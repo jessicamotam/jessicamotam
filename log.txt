@@ -56275,3 +56275,4 @@
 0537. 🔧 refactor: remove redundant code blocks
 0361. ✨ feat: support email verification
 0251. ♻️ chore: update .gitignore
+0040. 🔧 refactor: clean up auth middleware
