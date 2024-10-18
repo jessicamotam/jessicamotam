@@ -40321,3 +40321,4 @@
 0598. 🔧 refactor: remove redundant code blocks
 0872. 🎨 style: rename variables for clarity
 0232. 🎨 style: apply consistent indentation
+0562. 🔧 refactor: clean up auth middleware
