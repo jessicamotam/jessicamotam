@@ -56897,3 +56897,4 @@
 0199. ✨ feat: create admin dashboard
 0112. ✨ feat: enable dark mode toggle
 0352. ✨ feat: add export to CSV option
+0700. 🎨 style: rename variables for clarity
