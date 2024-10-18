@@ -20177,3 +20177,4 @@
 0847. ♻️ chore: clean up unused files
 0117. ✅ test: increase coverage on auth module
 0027. 📚 docs: clarify environment setup
+0356. 📚 docs: write FAQ section
