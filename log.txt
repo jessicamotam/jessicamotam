@@ -14676,3 +14676,4 @@
 0971. 🎨 style: standardize quote style
 0021. ✨ feat: support email verification
 0418. ✅ test: mock database connection in test suite
+0646. ✅ test: test user registration edge cases
