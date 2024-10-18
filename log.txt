@@ -33173,3 +33173,4 @@
 0555. ✨ feat: create admin dashboard
 0720. ✨ feat: add export to CSV option
 0988. 🐛 fix: fix broken CSS in mobile view
+0594. 🎨 style: reformat files with black
