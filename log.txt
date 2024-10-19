@@ -14211,3 +14211,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0443. 🎨 style: standardize quote style
 0254. 🚀 perf: reduce image load time
+0097. 🐛 fix: handle 500 error in quiz API
