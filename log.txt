@@ -62390,3 +62390,4 @@
 0482. ✨ feat: add export to CSV option
 0051. ✨ feat: enable dark mode toggle
 0095. ✅ test: mock database connection in test suite
+0205. 📚 docs: update README with setup steps
