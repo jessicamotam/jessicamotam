@@ -52460,3 +52460,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0682. ♻️ chore: rename env.example
 0699. 🎨 style: standardize quote style
+0249. ✅ test: increase coverage on auth module
