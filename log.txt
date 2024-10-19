@@ -55433,3 +55433,4 @@
 0494. 🎨 style: rename variables for clarity
 0230. ✨ feat: create admin dashboard
 0187. ✨ feat: support email verification
+0181. ♻️ chore: add GitHub actions badge
