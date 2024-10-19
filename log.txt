@@ -37906,3 +37906,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0863. 🐛 fix: correct typo in registration form
 0876. ♻️ chore: rename env.example
+0884. 📚 docs: clarify environment setup
