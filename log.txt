@@ -24607,3 +24607,4 @@
 0345. 📚 docs: document token refresh logic
 0895. ✨ feat: support email verification
 0926. 🔧 refactor: organize models into subfolders
+0659. 📚 docs: add API usage examples
