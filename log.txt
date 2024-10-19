@@ -22736,3 +22736,4 @@
 0062. ♻️ chore: update .gitignore
 0408. ♻️ chore: add GitHub actions badge
 0713. 🐛 fix: handle 500 error in quiz API
+0484. 🐛 fix: handle 500 error in quiz API
