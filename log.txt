@@ -89746,3 +89746,4 @@
 0776. ✅ test: add integration test for /submit endpoint
 0368. 🚀 perf: lazy-load components
 0416. 🎨 style: rename variables for clarity
+0701. 🔧 refactor: clean up auth middleware
