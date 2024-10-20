@@ -64229,3 +64229,4 @@
 0765. ♻️ chore: clean up unused files
 0828. ♻️ chore: add GitHub actions badge
 0158. 📚 docs: clarify environment setup
+0813. 🔧 refactor: organize models into subfolders
