@@ -60900,3 +60900,4 @@
 0786. ✨ feat: enable dark mode toggle
 0786. ✨ feat: enable dark mode toggle
 0566. 📚 docs: write FAQ section
+0953. 🎨 style: remove trailing whitespace
