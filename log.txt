@@ -12963,3 +12963,4 @@
 0990. ♻️ chore: rename env.example
 0297. 🎨 style: remove trailing whitespace
 0916. ♻️ chore: bump dependencies
+0855. 🎨 style: reformat files with black
