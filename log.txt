@@ -61266,3 +61266,4 @@
 0570. 🎨 style: apply consistent indentation
 0890. 🔧 refactor: organize models into subfolders
 0573. ✅ test: add integration test for /submit endpoint
+0107. 🐛 fix: prevent crash on empty input
