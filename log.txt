@@ -25222,3 +25222,4 @@
 0682. ♻️ chore: rename env.example
 0506. 🐛 fix: handle 500 error in quiz API
 0331. 🐛 fix: fix broken CSS in mobile view
+0596. ♻️ chore: update .gitignore
