@@ -85353,3 +85353,4 @@
 0163. ✨ feat: implement quiz timer feature
 0971. 🎨 style: standardize quote style
 0575. ✅ test: add unit test for quiz service
+0538. 🐛 fix: fix broken CSS in mobile view
