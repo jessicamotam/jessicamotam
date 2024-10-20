@@ -50641,3 +50641,4 @@
 0117. ✅ test: increase coverage on auth module
 0839. 🎨 style: apply consistent indentation
 0762. 🚀 perf: lazy-load components
+0957. 🐛 fix: fix null pointer exception on login
