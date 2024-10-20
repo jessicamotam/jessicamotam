@@ -270,3 +270,4 @@
 0441. 📚 docs: add API usage examples
 0471. ✨ feat: support email verification
 0084. 🐛 fix: handle 500 error in quiz API
+0539. 🔧 refactor: organize models into subfolders
