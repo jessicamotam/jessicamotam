@@ -71380,3 +71380,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0643. 🎨 style: apply consistent indentation
 0205. 📚 docs: update README with setup steps
+0429. ✨ feat: add user authentication
