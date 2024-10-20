@@ -38388,3 +38388,4 @@
 0314. ✨ feat: implement quiz timer feature
 0674. 🔧 refactor: split large controller into smaller functions
 0559. 🔧 refactor: split large controller into smaller functions
+0192. ✨ feat: enable dark mode toggle
