@@ -29102,3 +29102,4 @@
 0250. 📚 docs: update README with setup steps
 0096. 🐛 fix: prevent crash on empty input
 0187. ✨ feat: support email verification
+0574. ✨ feat: enable dark mode toggle
