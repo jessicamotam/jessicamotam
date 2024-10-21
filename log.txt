@@ -32288,3 +32288,4 @@
 0709. ♻️ chore: bump dependencies
 0270. ♻️ chore: rename env.example
 0207. 🐛 fix: prevent crash on empty input
+0725. 🚀 perf: lazy-load components
