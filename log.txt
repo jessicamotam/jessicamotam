@@ -40198,3 +40198,4 @@
 0047. 🎨 style: rename variables for clarity
 0556. ✨ feat: support email verification
 0438. ♻️ chore: bump dependencies
+0369. 🎨 style: standardize quote style
