@@ -70602,3 +70602,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0833. ✨ feat: add user authentication
 0058. ♻️ chore: add GitHub actions badge
+0625. 🐛 fix: handle 500 error in quiz API
