@@ -16481,3 +16481,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0358. 🚀 perf: reduce image load time
 0395. 📚 docs: write FAQ section
+0862. ♻️ chore: bump dependencies
