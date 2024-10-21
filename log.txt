@@ -64166,3 +64166,4 @@
 0093. ✅ test: add unit test for quiz service
 0781. 🚀 perf: reduce image load time
 0418. ✅ test: mock database connection in test suite
+0428. 🐛 fix: fix null pointer exception on login
