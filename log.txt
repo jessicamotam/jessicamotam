@@ -53480,3 +53480,4 @@
 0170. ✅ test: increase coverage on auth module
 0765. ♻️ chore: clean up unused files
 0243. 🔧 refactor: clean up auth middleware
+0688. 🚀 perf: reduce image load time
