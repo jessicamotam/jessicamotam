@@ -80395,3 +80395,4 @@
 0960. ✅ test: increase coverage on auth module
 0819. 🚀 perf: reduce image load time
 0865. ♻️ chore: add GitHub actions badge
+0842. 🎨 style: remove trailing whitespace
