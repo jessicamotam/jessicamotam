@@ -74610,3 +74610,4 @@
 0187. ✨ feat: support email verification
 0971. 🎨 style: standardize quote style
 0090. ✅ test: increase coverage on auth module
+0898. 🐛 fix: fix broken CSS in mobile view
