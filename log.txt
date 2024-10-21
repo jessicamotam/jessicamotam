@@ -23,3 +23,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0577. ✨ feat: implement quiz timer feature
 0542. 🔧 refactor: organize models into subfolders
+0758. 🚀 perf: optimize database query for quiz results
