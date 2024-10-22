@@ -16704,3 +16704,4 @@
 0873. 🚀 perf: cache repeated calculations
 0454. ♻️ chore: bump dependencies
 0345. 📚 docs: document token refresh logic
+0097. 🐛 fix: handle 500 error in quiz API
