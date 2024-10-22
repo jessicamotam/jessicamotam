@@ -5349,3 +5349,4 @@
 0855. 🎨 style: reformat files with black
 0002. 🚀 perf: cache repeated calculations
 0252. 🎨 style: remove trailing whitespace
+0279. ✨ feat: support email verification
