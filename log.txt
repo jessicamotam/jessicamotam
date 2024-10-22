@@ -19558,3 +19558,4 @@
 0646. ✅ test: test user registration edge cases
 0906. 📚 docs: add API usage examples
 0538. 🐛 fix: fix broken CSS in mobile view
+0838. 🎨 style: standardize quote style
