@@ -65889,3 +65889,4 @@
 0708. ✅ test: add integration test for /submit endpoint
 0831. 📚 docs: clarify environment setup
 0194. 🎨 style: standardize quote style
+0298. ♻️ chore: update .gitignore
