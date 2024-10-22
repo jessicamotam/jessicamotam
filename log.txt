@@ -23874,3 +23874,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0988. 🐛 fix: fix broken CSS in mobile view
 0336. ✨ feat: add export to CSV option
+0306. 🎨 style: apply consistent indentation
