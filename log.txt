@@ -18182,3 +18182,4 @@
 0027. 📚 docs: clarify environment setup
 0135. ✅ test: test user registration edge cases
 0357. ✅ test: add unit test for quiz service
+0724. ✅ test: mock database connection in test suite
