@@ -86526,3 +86526,4 @@
 0118. 🚀 perf: reduce image load time
 0116. ✨ feat: support email verification
 0857. 🎨 style: rename variables for clarity
+0064. 📚 docs: clarify environment setup
