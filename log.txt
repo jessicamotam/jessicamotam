@@ -48249,3 +48249,4 @@
 0458. ✨ feat: create admin dashboard
 0504. 📚 docs: document token refresh logic
 0773. 📚 docs: document token refresh logic
+0605. ✨ feat: support email verification
