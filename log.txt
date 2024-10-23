@@ -8226,3 +8226,4 @@
 0136. 🚀 perf: lazy-load components
 0843. 📚 docs: document token refresh logic
 0294. 🐛 fix: prevent crash on empty input
+0463. 🚀 perf: reduce image load time
