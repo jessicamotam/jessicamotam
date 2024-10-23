@@ -6797,3 +6797,4 @@
 0166. 🚀 perf: cache repeated calculations
 0954. 🚀 perf: cache repeated calculations
 0209. ✨ feat: implement quiz timer feature
+0241. 📚 docs: add API usage examples
