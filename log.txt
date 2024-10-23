@@ -7578,3 +7578,4 @@
 0358. 🚀 perf: reduce image load time
 0614. 🚀 perf: reduce image load time
 0068. 🐛 fix: fix null pointer exception on login
+0540. ♻️ chore: add GitHub actions badge
