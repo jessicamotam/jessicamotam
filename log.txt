@@ -81674,3 +81674,4 @@
 0265. 🎨 style: reformat files with black
 0628. ♻️ chore: add GitHub actions badge
 0903. ✅ test: mock database connection in test suite
+0258. 🐛 fix: prevent crash on empty input
