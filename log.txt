@@ -55276,3 +55276,4 @@
 0809. ♻️ chore: rename env.example
 0262. 🎨 style: remove trailing whitespace
 0513. ♻️ chore: bump dependencies
+0140. 🐛 fix: handle 500 error in quiz API
