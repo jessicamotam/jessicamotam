@@ -8619,3 +8619,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0323. 📚 docs: clarify environment setup
 0379. ✨ feat: support email verification
+0599. ✅ test: test user registration edge cases
