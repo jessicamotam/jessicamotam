@@ -78189,3 +78189,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0195. 📚 docs: clarify environment setup
 0974. ✨ feat: add export to CSV option
+0685. ✅ test: test user registration edge cases
