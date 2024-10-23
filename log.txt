@@ -868,3 +868,4 @@
 0301. 🎨 style: apply consistent indentation
 0720. ✨ feat: add export to CSV option
 0806. 📚 docs: improve code comments in utils
+0849. 🐛 fix: correct typo in registration form
