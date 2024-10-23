@@ -42172,3 +42172,4 @@
 0517. ✅ test: mock database connection in test suite
 0703. 🔧 refactor: clean up auth middleware
 0050. ✨ feat: enable dark mode toggle
+0169. 📚 docs: add API usage examples
