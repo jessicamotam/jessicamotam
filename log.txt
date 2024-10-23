@@ -89701,3 +89701,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0176. 🔧 refactor: remove redundant code blocks
 0251. ♻️ chore: update .gitignore
+0387. ✨ feat: enable dark mode toggle
