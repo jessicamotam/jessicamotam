@@ -59637,3 +59637,4 @@
 0922. 📚 docs: write FAQ section
 0344. ♻️ chore: add GitHub actions badge
 0615. 🐛 fix: correct typo in registration form
+0574. ✨ feat: enable dark mode toggle
