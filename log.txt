@@ -9841,3 +9841,4 @@
 0463. 🚀 perf: reduce image load time
 0057. 🚀 perf: optimize database query for quiz results
 0475. 🔧 refactor: clean up auth middleware
+0133. 🐛 fix: fix null pointer exception on login
