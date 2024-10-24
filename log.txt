@@ -51470,3 +51470,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0361. ✨ feat: support email verification
 0221. ✨ feat: add user authentication
+0491. 🚀 perf: lazy-load components
