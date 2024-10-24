@@ -38541,3 +38541,4 @@
 0315. ✅ test: add integration test for /submit endpoint
 0082. 🔧 refactor: refactor quiz grading logic
 0645. 🐛 fix: resolve issue with date parsing
+0281. ✨ feat: support email verification
