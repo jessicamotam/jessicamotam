@@ -64803,3 +64803,4 @@
 0437. 📚 docs: clarify environment setup
 0326. 🚀 perf: cache repeated calculations
 0605. ✨ feat: support email verification
+0359. 🔧 refactor: clean up auth middleware
