@@ -76403,3 +76403,4 @@
 0042. 📚 docs: document token refresh logic
 0693. 📚 docs: add API usage examples
 0518. ✨ feat: support email verification
+0651. ✨ feat: enable dark mode toggle
