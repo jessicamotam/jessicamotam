@@ -14513,3 +14513,4 @@
 0819. 🚀 perf: reduce image load time
 0842. 🎨 style: remove trailing whitespace
 0588. 🔧 refactor: organize models into subfolders
+0317. ✅ test: test user registration edge cases
