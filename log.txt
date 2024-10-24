@@ -18389,3 +18389,4 @@
 0678. ✨ feat: add user authentication
 0665. ♻️ chore: update .gitignore
 0333. 🚀 perf: cache repeated calculations
+0675. 🔧 refactor: organize models into subfolders
