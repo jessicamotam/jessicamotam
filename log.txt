@@ -78601,3 +78601,4 @@
 0149. ✨ feat: add export to CSV option
 0655. 🚀 perf: cache repeated calculations
 0328. 🐛 fix: resolve issue with date parsing
+0111. 📚 docs: update README with setup steps
