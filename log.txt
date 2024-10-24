@@ -77581,3 +77581,4 @@
 0055. 📚 docs: update README with setup steps
 0928. 🎨 style: apply consistent indentation
 0415. 🐛 fix: handle 500 error in quiz API
+0384. 📚 docs: clarify environment setup
