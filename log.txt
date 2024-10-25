@@ -51544,3 +51544,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0596. ♻️ chore: update .gitignore
 0801. ✨ feat: enable dark mode toggle
+0731. 🎨 style: standardize quote style
