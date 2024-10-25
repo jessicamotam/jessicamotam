@@ -48236,3 +48236,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0523. ♻️ chore: bump dependencies
 0162. ♻️ chore: add GitHub actions badge
+0684. 🚀 perf: reduce image load time
