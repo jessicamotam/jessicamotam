@@ -28540,3 +28540,4 @@
 0008. 🚀 perf: reduce image load time
 0972. 🔧 refactor: refactor quiz grading logic
 0265. 🎨 style: reformat files with black
+0949. 📚 docs: write FAQ section
