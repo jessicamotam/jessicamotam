@@ -766,3 +766,4 @@
 0343. 🚀 perf: optimize database query for quiz results
 0742. 📚 docs: clarify environment setup
 0292. 📚 docs: clarify environment setup
+0572. ✨ feat: add user authentication
