@@ -78480,3 +78480,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0327. 🔧 refactor: split large controller into smaller functions
 0358. 🚀 perf: reduce image load time
+0324. 📚 docs: document token refresh logic
