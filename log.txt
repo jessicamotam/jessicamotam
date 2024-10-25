@@ -45103,3 +45103,4 @@
 0543. ✨ feat: support email verification
 0273. 🚀 perf: reduce image load time
 0781. 🚀 perf: reduce image load time
+0488. ♻️ chore: add GitHub actions badge
