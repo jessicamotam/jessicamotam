@@ -63506,3 +63506,4 @@
 0253. 📚 docs: update README with setup steps
 0543. ✨ feat: support email verification
 0105. 🐛 fix: correct typo in registration form
+0299. 🐛 fix: resolve issue with date parsing
