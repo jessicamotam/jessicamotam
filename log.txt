@@ -14287,3 +14287,4 @@
 0462. ♻️ chore: update .gitignore
 0211. 🔧 refactor: remove redundant code blocks
 0603. 🐛 fix: fix broken CSS in mobile view
+0529. 📚 docs: write FAQ section
