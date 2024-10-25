@@ -13979,3 +13979,4 @@
 0217. 🚀 perf: reduce image load time
 0740. 🐛 fix: resolve issue with date parsing
 0645. 🐛 fix: resolve issue with date parsing
+0430. 🐛 fix: fix null pointer exception on login
