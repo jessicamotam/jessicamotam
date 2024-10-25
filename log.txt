@@ -23253,3 +23253,4 @@
 0994. 🚀 perf: reduce image load time
 0839. 🎨 style: apply consistent indentation
 0556. ✨ feat: support email verification
+0640. ♻️ chore: bump dependencies
