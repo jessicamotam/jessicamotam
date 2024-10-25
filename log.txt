@@ -47529,3 +47529,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0898. 🐛 fix: fix broken CSS in mobile view
 0667. ✨ feat: add export to CSV option
+0063. 🐛 fix: handle 500 error in quiz API
