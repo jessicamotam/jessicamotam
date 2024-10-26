@@ -15049,3 +15049,4 @@
 0992. ♻️ chore: clean up unused files
 0508. ✅ test: add unit test for quiz service
 0411. ✅ test: add unit test for quiz service
+0085. ✨ feat: support email verification
