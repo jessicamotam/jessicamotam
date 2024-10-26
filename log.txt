@@ -31526,3 +31526,4 @@
 0573. ✅ test: add integration test for /submit endpoint
 0311. 🎨 style: apply consistent indentation
 0010. ✨ feat: add user authentication
+0565. ♻️ chore: add GitHub actions badge
