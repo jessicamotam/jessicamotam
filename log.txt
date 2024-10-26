@@ -52049,3 +52049,4 @@
 0962. ✨ feat: create admin dashboard
 0713. 🐛 fix: handle 500 error in quiz API
 0693. 📚 docs: add API usage examples
+0509. ♻️ chore: bump dependencies
