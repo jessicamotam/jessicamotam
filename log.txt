@@ -33647,3 +33647,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0771. 🚀 perf: cache repeated calculations
 0973. 🔧 refactor: organize models into subfolders
+0932. ✅ test: add integration test for /submit endpoint
