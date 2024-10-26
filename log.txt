@@ -11987,3 +11987,4 @@
 0112. ✨ feat: enable dark mode toggle
 0780. 📚 docs: add API usage examples
 0236. 🔧 refactor: remove redundant code blocks
+0320. 📚 docs: update README with setup steps
