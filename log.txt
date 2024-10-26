@@ -80511,3 +80511,4 @@
 0482. ✨ feat: add export to CSV option
 0915. 🚀 perf: cache repeated calculations
 0459. 🔧 refactor: organize models into subfolders
+0066. 🔧 refactor: clean up auth middleware
