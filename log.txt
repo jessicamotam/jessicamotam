@@ -1762,3 +1762,4 @@
 0844. 📚 docs: update README with setup steps
 0129. 🔧 refactor: organize models into subfolders
 0962. ✨ feat: create admin dashboard
+0617. ✨ feat: support email verification
