@@ -81320,3 +81320,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0920. 🔧 refactor: organize models into subfolders
 0637. 🎨 style: apply consistent indentation
+0502. 📚 docs: update README with setup steps
