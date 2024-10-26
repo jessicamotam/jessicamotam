@@ -38711,3 +38711,4 @@
 0923. ✨ feat: support email verification
 0683. ✅ test: mock database connection in test suite
 0390. 🎨 style: standardize quote style
+0018. 🔧 refactor: organize models into subfolders
