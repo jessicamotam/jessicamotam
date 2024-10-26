@@ -36853,3 +36853,4 @@
 0247. 🎨 style: apply consistent indentation
 0941. 🚀 perf: cache repeated calculations
 0149. ✨ feat: add export to CSV option
+0739. 🎨 style: remove trailing whitespace
