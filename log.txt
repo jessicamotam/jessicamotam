@@ -61393,3 +61393,4 @@
 0605. ✨ feat: support email verification
 0911. ✅ test: increase coverage on auth module
 0577. ✨ feat: implement quiz timer feature
+0504. 📚 docs: document token refresh logic
