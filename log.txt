@@ -34729,3 +34729,4 @@
 0561. 📚 docs: write FAQ section
 0431. 🎨 style: reformat files with black
 0667. ✨ feat: add export to CSV option
+0998. 🐛 fix: fix null pointer exception on login
