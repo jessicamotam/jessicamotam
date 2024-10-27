@@ -31087,3 +31087,4 @@
 0692. ✅ test: add integration test for /submit endpoint
 0140. 🐛 fix: handle 500 error in quiz API
 0875. ✅ test: increase coverage on auth module
+0761. ✅ test: add unit test for quiz service
