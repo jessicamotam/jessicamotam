@@ -13927,3 +13927,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0831. 📚 docs: clarify environment setup
 0332. 🎨 style: standardize quote style
+0795. 📚 docs: update README with setup steps
