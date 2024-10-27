@@ -83183,3 +83183,4 @@
 0337. 📚 docs: document token refresh logic
 0543. ✨ feat: support email verification
 0084. 🐛 fix: handle 500 error in quiz API
+0672. 🐛 fix: fix broken CSS in mobile view
