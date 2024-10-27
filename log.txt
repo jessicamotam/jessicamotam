@@ -70380,3 +70380,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0896. 🚀 perf: reduce image load time
 0099. 🚀 perf: reduce image load time
+0750. 🎨 style: apply consistent indentation
