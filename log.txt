@@ -34762,3 +34762,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0345. 📚 docs: document token refresh logic
 0811. 🎨 style: reformat files with black
+0232. 🎨 style: apply consistent indentation
