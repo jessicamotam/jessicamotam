@@ -6155,3 +6155,4 @@
 0667. ✨ feat: add export to CSV option
 0284. ✨ feat: implement quiz timer feature
 0991. ♻️ chore: clean up unused files
+0529. 📚 docs: write FAQ section
