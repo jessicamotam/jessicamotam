@@ -2494,3 +2494,4 @@
 0358. 🚀 perf: reduce image load time
 0089. 🔧 refactor: remove redundant code blocks
 0877. 🚀 perf: optimize database query for quiz results
+0897. 🐛 fix: prevent crash on empty input
