@@ -76118,3 +76118,4 @@
 0706. ✨ feat: support email verification
 0194. 🎨 style: standardize quote style
 0512. 🚀 perf: reduce image load time
+0621. 🔧 refactor: clean up auth middleware
