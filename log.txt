@@ -14762,3 +14762,4 @@
 0069. 🎨 style: rename variables for clarity
 0673. 🐛 fix: correct typo in registration form
 0336. ✨ feat: add export to CSV option
+0040. 🔧 refactor: clean up auth middleware
