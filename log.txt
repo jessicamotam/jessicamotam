@@ -23781,3 +23781,4 @@
 0823. ✨ feat: add user authentication
 0475. 🔧 refactor: clean up auth middleware
 0989. 📚 docs: write FAQ section
+0699. 🎨 style: standardize quote style
