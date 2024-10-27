@@ -51808,3 +51808,4 @@
 0960. ✅ test: increase coverage on auth module
 0711. 🐛 fix: fix broken CSS in mobile view
 0363. 📚 docs: clarify environment setup
+0749. ✨ feat: support email verification
