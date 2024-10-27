@@ -41556,3 +41556,4 @@
 0011. ✅ test: add unit test for quiz service
 0372. ✨ feat: add user authentication
 0583. ✅ test: increase coverage on auth module
+0207. 🐛 fix: prevent crash on empty input
