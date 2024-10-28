@@ -13517,3 +13517,4 @@
 0597. 🚀 perf: cache repeated calculations
 0265. 🎨 style: reformat files with black
 0553. 🐛 fix: correct typo in registration form
+0291. 📚 docs: write FAQ section
