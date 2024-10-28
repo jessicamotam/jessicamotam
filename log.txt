@@ -7339,3 +7339,4 @@
 0979. 🎨 style: standardize quote style
 0967. ♻️ chore: add GitHub actions badge
 0928. 🎨 style: apply consistent indentation
+0721. 🚀 perf: optimize database query for quiz results
