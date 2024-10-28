@@ -47546,3 +47546,4 @@
 0329. 📚 docs: update README with setup steps
 0681. ✨ feat: create admin dashboard
 0972. 🔧 refactor: refactor quiz grading logic
+0226. 🚀 perf: lazy-load components
