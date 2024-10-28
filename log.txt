@@ -40105,3 +40105,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0600. 🐛 fix: prevent crash on empty input
 0463. 🚀 perf: reduce image load time
+0219. ✅ test: increase coverage on auth module
