@@ -64366,3 +64366,4 @@
 0496. ✅ test: add integration test for /submit endpoint
 0015. ✨ feat: implement quiz timer feature
 0471. ✨ feat: support email verification
+0003. ✅ test: increase coverage on auth module
