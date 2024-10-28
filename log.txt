@@ -10981,3 +10981,4 @@
 0636. ✅ test: increase coverage on auth module
 0746. ♻️ chore: add GitHub actions badge
 0591. ♻️ chore: clean up unused files
+0958. 🐛 fix: prevent crash on empty input
