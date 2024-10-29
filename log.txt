@@ -61117,3 +61117,4 @@
 0820. 📚 docs: add API usage examples
 0778. 📚 docs: write FAQ section
 0751. 🐛 fix: handle 500 error in quiz API
+0253. 📚 docs: update README with setup steps
