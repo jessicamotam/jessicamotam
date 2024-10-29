@@ -36865,3 +36865,4 @@
 0350. 🚀 perf: cache repeated calculations
 0062. ♻️ chore: update .gitignore
 0469. 🚀 perf: lazy-load components
+0546. 🐛 fix: fix null pointer exception on login
