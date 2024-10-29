@@ -11239,3 +11239,4 @@
 0660. 🐛 fix: correct typo in registration form
 0911. ✅ test: increase coverage on auth module
 0235. 🐛 fix: fix null pointer exception on login
+0281. ✨ feat: support email verification
