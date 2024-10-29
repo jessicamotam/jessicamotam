@@ -75685,3 +75685,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0951. 🎨 style: rename variables for clarity
 0793. 📚 docs: clarify environment setup
+0897. 🐛 fix: prevent crash on empty input
