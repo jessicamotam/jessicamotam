@@ -15725,3 +15725,4 @@
 0499. 🎨 style: reformat files with black
 0875. ✅ test: increase coverage on auth module
 0794. ♻️ chore: clean up unused files
+0990. ♻️ chore: rename env.example
