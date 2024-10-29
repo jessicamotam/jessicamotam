@@ -39235,3 +39235,4 @@
 0164. 📚 docs: document token refresh logic
 0118. 🚀 perf: reduce image load time
 0858. ♻️ chore: clean up unused files
+0898. 🐛 fix: fix broken CSS in mobile view
