@@ -84545,3 +84545,4 @@
 0663. 🚀 perf: reduce image load time
 0933. 📚 docs: clarify environment setup
 0830. 🎨 style: apply consistent indentation
+0298. ♻️ chore: update .gitignore
