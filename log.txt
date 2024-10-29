@@ -26071,3 +26071,4 @@
 0855. 🎨 style: reformat files with black
 0628. ♻️ chore: add GitHub actions badge
 0697. ♻️ chore: bump dependencies
+0819. 🚀 perf: reduce image load time
