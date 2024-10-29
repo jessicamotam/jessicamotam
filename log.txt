@@ -43242,3 +43242,4 @@
 0515. 🚀 perf: optimize database query for quiz results
 0863. 🐛 fix: correct typo in registration form
 0600. 🐛 fix: prevent crash on empty input
+0441. 📚 docs: add API usage examples
