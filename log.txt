@@ -8191,3 +8191,4 @@
 0583. ✅ test: increase coverage on auth module
 0511. 🐛 fix: fix broken CSS in mobile view
 0457. 🐛 fix: handle 500 error in quiz API
+0776. ✅ test: add integration test for /submit endpoint
