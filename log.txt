@@ -30302,3 +30302,4 @@
 0188. 🎨 style: apply consistent indentation
 0962. ✨ feat: create admin dashboard
 0084. 🐛 fix: handle 500 error in quiz API
+0305. ✨ feat: enable dark mode toggle
