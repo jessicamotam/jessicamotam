@@ -11688,3 +11688,4 @@
 0424. ✨ feat: add user authentication
 0656. 🎨 style: apply consistent indentation
 0466. 🚀 perf: optimize database query for quiz results
+0249. ✅ test: increase coverage on auth module
