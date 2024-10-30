@@ -10575,3 +10575,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0404. 📚 docs: improve code comments in utils
 0402. 🎨 style: reformat files with black
+0566. 📚 docs: write FAQ section
