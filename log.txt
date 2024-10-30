@@ -25019,3 +25019,4 @@
 0395. 📚 docs: write FAQ section
 0512. 🚀 perf: reduce image load time
 0994. 🚀 perf: reduce image load time
+0640. ♻️ chore: bump dependencies
