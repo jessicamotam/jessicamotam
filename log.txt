@@ -50409,3 +50409,4 @@
 0777. 📚 docs: document token refresh logic
 0548. 📚 docs: write FAQ section
 0914. ✅ test: test user registration edge cases
+0875. ✅ test: increase coverage on auth module
