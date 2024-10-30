@@ -19058,3 +19058,4 @@
 0177. 📚 docs: add API usage examples
 0026. 🔧 refactor: clean up auth middleware
 0792. 🎨 style: standardize quote style
+0568. 🐛 fix: handle 500 error in quiz API
