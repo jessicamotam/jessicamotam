@@ -41635,3 +41635,4 @@
 0501. ✨ feat: add export to CSV option
 0170. ✅ test: increase coverage on auth module
 0251. ♻️ chore: update .gitignore
+0428. 🐛 fix: fix null pointer exception on login
