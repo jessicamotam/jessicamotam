@@ -23718,3 +23718,4 @@
 0901. ✨ feat: add user authentication
 0947. 📚 docs: write FAQ section
 0914. ✅ test: test user registration edge cases
+0433. 🐛 fix: prevent crash on empty input
