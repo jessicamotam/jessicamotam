@@ -75821,3 +75821,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0115. 🚀 perf: reduce image load time
 0616. 🚀 perf: lazy-load components
+0305. ✨ feat: enable dark mode toggle
