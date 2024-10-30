@@ -357,3 +357,4 @@
 0907. 🔧 refactor: split large controller into smaller functions
 0253. 📚 docs: update README with setup steps
 0623. 🎨 style: standardize quote style
+0986. 📚 docs: document token refresh logic
