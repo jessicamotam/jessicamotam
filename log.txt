@@ -21216,3 +21216,4 @@
 0135. ✅ test: test user registration edge cases
 0875. ✅ test: increase coverage on auth module
 0880. 🐛 fix: fix broken CSS in mobile view
+0034. 📚 docs: improve code comments in utils
