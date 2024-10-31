@@ -59292,3 +59292,4 @@
 0336. ✨ feat: add export to CSV option
 0154. 🐛 fix: prevent crash on empty input
 0312. ✨ feat: add user authentication
+0351. ✨ feat: add export to CSV option
