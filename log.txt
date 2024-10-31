@@ -54662,3 +54662,4 @@
 0071. 🔧 refactor: refactor quiz grading logic
 0529. 📚 docs: write FAQ section
 0847. ♻️ chore: clean up unused files
+0187. ✨ feat: support email verification
