@@ -59020,3 +59020,4 @@
 0519. 📚 docs: document token refresh logic
 0128. ♻️ chore: rename env.example
 0253. 📚 docs: update README with setup steps
+0572. ✨ feat: add user authentication
