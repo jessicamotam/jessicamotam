@@ -80010,3 +80010,4 @@
 0302. ✨ feat: implement quiz timer feature
 0603. 🐛 fix: fix broken CSS in mobile view
 0054. ♻️ chore: update .gitignore
+0377. ✨ feat: add user authentication
