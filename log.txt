@@ -79367,3 +79367,4 @@
 0592. 📚 docs: add API usage examples
 0037. 🐛 fix: correct typo in registration form
 0316. 🐛 fix: fix broken CSS in mobile view
+0812. 🔧 refactor: refactor quiz grading logic
