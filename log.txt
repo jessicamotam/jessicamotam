@@ -60312,3 +60312,4 @@
 0448. 🐛 fix: correct typo in registration form
 0623. 🎨 style: standardize quote style
 0959. 🐛 fix: fix null pointer exception on login
+0446. 🎨 style: apply consistent indentation
