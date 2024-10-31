@@ -76313,3 +76313,4 @@
 0080. ✨ feat: support email verification
 0081. 🐛 fix: fix null pointer exception on login
 0170. ✅ test: increase coverage on auth module
+0955. 🔧 refactor: remove redundant code blocks
