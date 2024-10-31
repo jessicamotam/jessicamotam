@@ -10522,3 +10522,4 @@
 0681. ✨ feat: create admin dashboard
 0972. 🔧 refactor: refactor quiz grading logic
 0564. 📚 docs: clarify environment setup
+0157. ✅ test: mock database connection in test suite
