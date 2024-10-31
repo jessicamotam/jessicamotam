@@ -4254,3 +4254,4 @@
 0997. ✅ test: increase coverage on auth module
 0379. ✨ feat: support email verification
 0146. 🎨 style: apply consistent indentation
+0657. 🎨 style: standardize quote style
