@@ -15849,3 +15849,4 @@
 0768. 🎨 style: remove trailing whitespace
 0140. 🐛 fix: handle 500 error in quiz API
 0675. 🔧 refactor: organize models into subfolders
+0626. 🎨 style: standardize quote style
