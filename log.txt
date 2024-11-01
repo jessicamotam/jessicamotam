@@ -69371,3 +69371,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0328. 🐛 fix: resolve issue with date parsing
 0561. 📚 docs: write FAQ section
+0772. 🐛 fix: fix null pointer exception on login
