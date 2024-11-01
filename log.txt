@@ -31755,3 +31755,4 @@
 0960. ✅ test: increase coverage on auth module
 0484. 🐛 fix: handle 500 error in quiz API
 0377. ✨ feat: add user authentication
+0823. ✨ feat: add user authentication
