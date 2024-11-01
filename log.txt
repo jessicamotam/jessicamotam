@@ -11334,3 +11334,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0317. ✅ test: test user registration edge cases
 0303. 🎨 style: rename variables for clarity
+0502. 📚 docs: update README with setup steps
