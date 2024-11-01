@@ -38903,3 +38903,4 @@
 0918. ✨ feat: enable dark mode toggle
 0602. 🔧 refactor: remove redundant code blocks
 0198. 📚 docs: clarify environment setup
+0390. 🎨 style: standardize quote style
