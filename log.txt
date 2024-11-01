@@ -26532,3 +26532,4 @@
 0665. ♻️ chore: update .gitignore
 0487. 🎨 style: reformat files with black
 0499. 🎨 style: reformat files with black
+0595. ✨ feat: enable dark mode toggle
