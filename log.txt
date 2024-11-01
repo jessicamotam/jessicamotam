@@ -49325,3 +49325,4 @@
 0336. ✨ feat: add export to CSV option
 0446. 🎨 style: apply consistent indentation
 0715. ✨ feat: create admin dashboard
+0252. 🎨 style: remove trailing whitespace
