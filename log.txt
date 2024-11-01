@@ -5824,3 +5824,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0887. 📚 docs: add API usage examples
 0356. 📚 docs: write FAQ section
+0895. ✨ feat: support email verification
