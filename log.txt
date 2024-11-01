@@ -83271,3 +83271,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0501. ✨ feat: add export to CSV option
 0262. 🎨 style: remove trailing whitespace
+0116. ✨ feat: support email verification
