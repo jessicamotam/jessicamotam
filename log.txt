@@ -61995,3 +61995,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0197. 📚 docs: update README with setup steps
 0588. 🔧 refactor: organize models into subfolders
+0947. 📚 docs: write FAQ section
