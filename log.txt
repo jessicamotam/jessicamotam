@@ -48815,3 +48815,4 @@
 0570. 🎨 style: apply consistent indentation
 0503. ♻️ chore: rename env.example
 0922. 📚 docs: write FAQ section
+0718. 🐛 fix: resolve issue with date parsing
