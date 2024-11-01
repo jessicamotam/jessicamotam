@@ -41335,3 +41335,4 @@
 0605. ✨ feat: support email verification
 0935. 📚 docs: update README with setup steps
 0886. ♻️ chore: clean up unused files
+0257. 📚 docs: clarify environment setup
