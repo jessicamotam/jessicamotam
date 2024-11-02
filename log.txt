@@ -88531,3 +88531,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0092. 🚀 perf: reduce image load time
 0776. ✅ test: add integration test for /submit endpoint
+0552. 🐛 fix: fix null pointer exception on login
