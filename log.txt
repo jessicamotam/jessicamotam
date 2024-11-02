@@ -25028,3 +25028,4 @@
 0576. ♻️ chore: update .gitignore
 0349. ✅ test: increase coverage on auth module
 0822. 🔧 refactor: remove redundant code blocks
+0834. ✅ test: increase coverage on auth module
