@@ -72507,3 +72507,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0795. 📚 docs: update README with setup steps
 0260. ✨ feat: create admin dashboard
+0243. 🔧 refactor: clean up auth middleware
