@@ -65849,3 +65849,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0984. ♻️ chore: clean up unused files
 0600. 🐛 fix: prevent crash on empty input
+0754. 🐛 fix: handle 500 error in quiz API
