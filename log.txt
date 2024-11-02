@@ -80121,3 +80121,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0858. ♻️ chore: clean up unused files
 0115. 🚀 perf: reduce image load time
+0673. 🐛 fix: correct typo in registration form
