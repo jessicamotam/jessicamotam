@@ -5017,3 +5017,4 @@
 0335. ♻️ chore: update .gitignore
 0692. ✅ test: add integration test for /submit endpoint
 0688. 🚀 perf: reduce image load time
+0049. 🐛 fix: handle 500 error in quiz API
