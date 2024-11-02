@@ -88758,3 +88758,4 @@
 0117. ✅ test: increase coverage on auth module
 0454. ♻️ chore: bump dependencies
 0388. 🎨 style: reformat files with black
+0096. 🐛 fix: prevent crash on empty input
