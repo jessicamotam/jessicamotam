@@ -1654,3 +1654,4 @@
 0648. ♻️ chore: bump dependencies
 0182. 🔧 refactor: remove redundant code blocks
 0028. 🎨 style: standardize quote style
+0813. 🔧 refactor: organize models into subfolders
