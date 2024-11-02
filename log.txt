@@ -77225,3 +77225,4 @@
 0766. 🎨 style: reformat files with black
 0680. ♻️ chore: add GitHub actions badge
 0612. ✅ test: test user registration edge cases
+0708. ✅ test: add integration test for /submit endpoint
