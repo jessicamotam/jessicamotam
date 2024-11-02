@@ -37079,3 +37079,4 @@
 0161. ✨ feat: create admin dashboard
 0561. 📚 docs: write FAQ section
 0653. 🐛 fix: prevent crash on empty input
+0860. 🔧 refactor: organize models into subfolders
