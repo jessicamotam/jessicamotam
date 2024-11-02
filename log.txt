@@ -39767,3 +39767,4 @@
 0377. ✨ feat: add user authentication
 0965. 🎨 style: reformat files with black
 0299. 🐛 fix: resolve issue with date parsing
+0514. 🐛 fix: fix broken CSS in mobile view
