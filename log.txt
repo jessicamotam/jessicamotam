@@ -86551,3 +86551,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0002. 🚀 perf: cache repeated calculations
 0175. 📚 docs: add API usage examples
+0235. 🐛 fix: fix null pointer exception on login
