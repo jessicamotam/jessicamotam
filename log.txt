@@ -84365,3 +84365,4 @@
 0312. ✨ feat: add user authentication
 0502. 📚 docs: update README with setup steps
 0582. ✨ feat: add export to CSV option
+0671. 🐛 fix: fix null pointer exception on login
