@@ -31159,3 +31159,4 @@
 0360. ✨ feat: add export to CSV option
 0332. 🎨 style: standardize quote style
 0118. 🚀 perf: reduce image load time
+0676. 🐛 fix: prevent crash on empty input
