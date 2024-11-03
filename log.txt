@@ -58614,3 +58614,4 @@
 0849. 🐛 fix: correct typo in registration form
 0665. ♻️ chore: update .gitignore
 0419. 🎨 style: remove trailing whitespace
+0708. ✅ test: add integration test for /submit endpoint
