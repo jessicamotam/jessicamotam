@@ -37752,3 +37752,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0458. ✨ feat: create admin dashboard
 0124. 🎨 style: reformat files with black
+0121. ✨ feat: support email verification
