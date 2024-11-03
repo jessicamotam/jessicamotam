@@ -18632,3 +18632,4 @@
 0078. ♻️ chore: update .gitignore
 0680. ♻️ chore: add GitHub actions badge
 0959. 🐛 fix: fix null pointer exception on login
+0128. ♻️ chore: rename env.example
