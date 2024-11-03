@@ -9959,3 +9959,4 @@
 0555. ✨ feat: create admin dashboard
 0759. 🔧 refactor: organize models into subfolders
 0765. ♻️ chore: clean up unused files
+0636. ✅ test: increase coverage on auth module
