@@ -55816,3 +55816,4 @@
 0360. ✨ feat: add export to CSV option
 0508. ✅ test: add unit test for quiz service
 0587. 🔧 refactor: remove redundant code blocks
+0724. ✅ test: mock database connection in test suite
