@@ -59049,3 +59049,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0875. ✅ test: increase coverage on auth module
 0472. 🐛 fix: fix null pointer exception on login
+0401. 🚀 perf: reduce image load time
