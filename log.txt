@@ -59982,3 +59982,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0864. 🐛 fix: correct typo in registration form
 0951. 🎨 style: rename variables for clarity
+0051. ✨ feat: enable dark mode toggle
