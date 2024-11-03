@@ -33534,3 +33534,4 @@
 0270. ♻️ chore: rename env.example
 0942. ✅ test: increase coverage on auth module
 0698. 🐛 fix: handle 500 error in quiz API
+0684. 🚀 perf: reduce image load time
