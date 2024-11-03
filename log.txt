@@ -32920,3 +32920,4 @@
 0128. ♻️ chore: rename env.example
 0292. 📚 docs: clarify environment setup
 0652. 🔧 refactor: organize models into subfolders
+0563. 📚 docs: clarify environment setup
