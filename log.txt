@@ -24867,3 +24867,4 @@
 0649. 📚 docs: update README with setup steps
 0515. 🚀 perf: optimize database query for quiz results
 0929. ✨ feat: support email verification
+0122. ✨ feat: support email verification
