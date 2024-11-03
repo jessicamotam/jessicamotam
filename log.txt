@@ -17119,3 +17119,4 @@
 0593. 🐛 fix: correct typo in registration form
 0292. 📚 docs: clarify environment setup
 0918. ✨ feat: enable dark mode toggle
+0270. ♻️ chore: rename env.example
