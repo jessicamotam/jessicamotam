@@ -83658,3 +83658,4 @@
 0124. 🎨 style: reformat files with black
 0921. 🐛 fix: correct typo in registration form
 0598. 🔧 refactor: remove redundant code blocks
+0876. ♻️ chore: rename env.example
