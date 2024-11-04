@@ -58629,3 +58629,4 @@
 0612. ✅ test: test user registration edge cases
 0733. 🐛 fix: fix null pointer exception on login
 0733. 🐛 fix: fix null pointer exception on login
+0787. ♻️ chore: rename env.example
