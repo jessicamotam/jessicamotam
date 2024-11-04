@@ -21021,3 +21021,4 @@
 0598. 🔧 refactor: remove redundant code blocks
 0856. 🐛 fix: fix null pointer exception on login
 0948. 🐛 fix: fix broken CSS in mobile view
+0950. 🎨 style: reformat files with black
