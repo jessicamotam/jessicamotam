@@ -55605,3 +55605,4 @@
 0444. ✅ test: add unit test for quiz service
 0460. 📚 docs: write FAQ section
 0852. ✨ feat: enable dark mode toggle
+0866. 📚 docs: add API usage examples
