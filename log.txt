@@ -26854,3 +26854,4 @@
 0407. 🚀 perf: cache repeated calculations
 0415. 🐛 fix: handle 500 error in quiz API
 0170. ✅ test: increase coverage on auth module
+0923. ✨ feat: support email verification
