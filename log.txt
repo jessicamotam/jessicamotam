@@ -68996,3 +68996,4 @@
 0369. 🎨 style: standardize quote style
 0253. 📚 docs: update README with setup steps
 0590. 🐛 fix: fix null pointer exception on login
+0852. ✨ feat: enable dark mode toggle
