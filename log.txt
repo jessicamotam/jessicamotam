@@ -30750,3 +30750,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0332. 🎨 style: standardize quote style
 0277. 🎨 style: standardize quote style
+0207. 🐛 fix: prevent crash on empty input
