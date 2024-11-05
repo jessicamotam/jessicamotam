@@ -51215,3 +51215,4 @@
 0038. 🎨 style: rename variables for clarity
 0954. 🚀 perf: cache repeated calculations
 0967. ♻️ chore: add GitHub actions badge
+0925. ✨ feat: add export to CSV option
