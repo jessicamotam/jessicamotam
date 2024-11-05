@@ -77744,3 +77744,4 @@
 0409. 🚀 perf: lazy-load components
 0391. 🐛 fix: fix null pointer exception on login
 0295. 🎨 style: remove trailing whitespace
+0090. ✅ test: increase coverage on auth module
