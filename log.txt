@@ -27337,3 +27337,4 @@
 0418. ✅ test: mock database connection in test suite
 0879. 🎨 style: standardize quote style
 0136. 🚀 perf: lazy-load components
+0296. 🔧 refactor: organize models into subfolders
