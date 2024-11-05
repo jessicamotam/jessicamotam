@@ -70598,3 +70598,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0242. ♻️ chore: clean up unused files
 0446. 🎨 style: apply consistent indentation
+0733. 🐛 fix: fix null pointer exception on login
