@@ -58739,3 +58739,4 @@
 0013. ✅ test: increase coverage on auth module
 0333. 🚀 perf: cache repeated calculations
 0173. 🚀 perf: cache repeated calculations
+0169. 📚 docs: add API usage examples
