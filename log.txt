@@ -63454,3 +63454,4 @@
 0175. 📚 docs: add API usage examples
 0485. 📚 docs: update README with setup steps
 0670. ✨ feat: add export to CSV option
+0055. 📚 docs: update README with setup steps
