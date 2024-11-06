@@ -34238,3 +34238,4 @@
 0103. 🔧 refactor: remove redundant code blocks
 0938. 🎨 style: rename variables for clarity
 0897. 🐛 fix: prevent crash on empty input
+0291. 📚 docs: write FAQ section
