@@ -73175,3 +73175,4 @@
 0188. 🎨 style: apply consistent indentation
 0608. 🔧 refactor: remove redundant code blocks
 0680. ♻️ chore: add GitHub actions badge
+0201. 🔧 refactor: clean up auth middleware
