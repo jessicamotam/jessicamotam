@@ -11048,3 +11048,4 @@
 0307. ✨ feat: support email verification
 0897. 🐛 fix: prevent crash on empty input
 0911. ✅ test: increase coverage on auth module
+0382. 📚 docs: improve code comments in utils
