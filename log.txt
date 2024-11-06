@@ -35930,3 +35930,4 @@
 0981. 🚀 perf: lazy-load components
 0519. 📚 docs: document token refresh logic
 0604. 📚 docs: add API usage examples
+0754. 🐛 fix: handle 500 error in quiz API
