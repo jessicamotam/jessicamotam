@@ -14917,3 +14917,4 @@
 0605. ✨ feat: support email verification
 0418. ✅ test: mock database connection in test suite
 0356. 📚 docs: write FAQ section
+0271. ✅ test: add unit test for quiz service
