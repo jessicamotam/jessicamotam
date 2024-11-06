@@ -60839,3 +60839,4 @@
 0501. ✨ feat: add export to CSV option
 0622. 🎨 style: apply consistent indentation
 0052. 🎨 style: standardize quote style
+0333. 🚀 perf: cache repeated calculations
