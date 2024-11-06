@@ -43575,3 +43575,4 @@
 0446. 🎨 style: apply consistent indentation
 0562. 🔧 refactor: clean up auth middleware
 0271. ✅ test: add unit test for quiz service
+0959. 🐛 fix: fix null pointer exception on login
