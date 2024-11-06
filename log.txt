@@ -53325,3 +53325,4 @@
 0150. 🎨 style: remove trailing whitespace
 0671. 🐛 fix: fix null pointer exception on login
 0291. 📚 docs: write FAQ section
+0450. 🐛 fix: fix broken CSS in mobile view
