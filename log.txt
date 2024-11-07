@@ -7616,3 +7616,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0543. ✨ feat: support email verification
 0345. 📚 docs: document token refresh logic
+0477. 🐛 fix: fix broken CSS in mobile view
