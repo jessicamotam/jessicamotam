@@ -85039,3 +85039,4 @@
 0423. ✅ test: mock database connection in test suite
 0370. 🚀 perf: reduce image load time
 0375. 🐛 fix: handle 500 error in quiz API
+0543. ✨ feat: support email verification
