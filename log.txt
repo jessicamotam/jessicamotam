@@ -39373,3 +39373,4 @@
 0399. ✅ test: mock database connection in test suite
 0287. 📚 docs: write FAQ section
 0434. 📚 docs: document token refresh logic
+0835. 🐛 fix: prevent crash on empty input
