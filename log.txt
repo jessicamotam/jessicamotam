@@ -18797,3 +18797,4 @@
 0994. 🚀 perf: reduce image load time
 0715. ✨ feat: create admin dashboard
 0948. 🐛 fix: fix broken CSS in mobile view
+0171. 🐛 fix: fix broken CSS in mobile view
