@@ -6883,3 +6883,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0491. 🚀 perf: lazy-load components
 0687. 🎨 style: remove trailing whitespace
+0337. 📚 docs: document token refresh logic
