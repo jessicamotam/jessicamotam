@@ -17254,3 +17254,4 @@
 0646. ✅ test: test user registration edge cases
 0731. 🎨 style: standardize quote style
 0354. 📚 docs: add API usage examples
+0507. 🔧 refactor: clean up auth middleware
