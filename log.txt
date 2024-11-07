@@ -51585,3 +51585,4 @@
 0572. ✨ feat: add user authentication
 0100. ♻️ chore: update .gitignore
 0114. ♻️ chore: update .gitignore
+0140. 🐛 fix: handle 500 error in quiz API
