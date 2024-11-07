@@ -27163,3 +27163,4 @@
 0012. 🚀 perf: cache repeated calculations
 0529. 📚 docs: write FAQ section
 0923. ✨ feat: support email verification
+0798. 🚀 perf: reduce image load time
