@@ -88487,3 +88487,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0551. 📚 docs: write FAQ section
 0603. 🐛 fix: fix broken CSS in mobile view
+0387. ✨ feat: enable dark mode toggle
