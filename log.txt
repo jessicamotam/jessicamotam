@@ -16626,3 +16626,4 @@
 0440. 📚 docs: update README with setup steps
 0951. 🎨 style: rename variables for clarity
 0747. 🔧 refactor: clean up auth middleware
+0395. 📚 docs: write FAQ section
