@@ -32346,3 +32346,4 @@
 0244. ✨ feat: add export to CSV option
 0002. 🚀 perf: cache repeated calculations
 0525. ✅ test: mock database connection in test suite
+0316. 🐛 fix: fix broken CSS in mobile view
