@@ -40643,3 +40643,4 @@
 0219. ✅ test: increase coverage on auth module
 0962. ✨ feat: create admin dashboard
 0892. ✅ test: add unit test for quiz service
+0730. ✅ test: test user registration edge cases
