@@ -32156,3 +32156,4 @@
 0823. ✨ feat: add user authentication
 0560. 🎨 style: rename variables for clarity
 0865. ♻️ chore: add GitHub actions badge
+0401. 🚀 perf: reduce image load time
