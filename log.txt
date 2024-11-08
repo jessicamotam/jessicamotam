@@ -54513,3 +54513,4 @@
 0098. 🎨 style: rename variables for clarity
 0869. ♻️ chore: bump dependencies
 0991. ♻️ chore: clean up unused files
+0109. 🚀 perf: lazy-load components
