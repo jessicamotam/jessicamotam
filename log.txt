@@ -35992,3 +35992,4 @@
 0502. 📚 docs: update README with setup steps
 0366. 🔧 refactor: remove redundant code blocks
 0998. 🐛 fix: fix null pointer exception on login
+0208. 🔧 refactor: clean up auth middleware
