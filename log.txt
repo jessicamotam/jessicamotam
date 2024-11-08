@@ -39869,3 +39869,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0269. ✅ test: test user registration edge cases
 0166. 🚀 perf: cache repeated calculations
+0101. 📚 docs: clarify environment setup
