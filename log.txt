@@ -33780,3 +33780,4 @@
 0987. ✨ feat: create admin dashboard
 0010. ✨ feat: add user authentication
 0702. ✨ feat: add user authentication
+0037. 🐛 fix: correct typo in registration form
