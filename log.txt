@@ -25296,3 +25296,4 @@
 0593. 🐛 fix: correct typo in registration form
 0669. ✨ feat: enable dark mode toggle
 0672. 🐛 fix: fix broken CSS in mobile view
+0459. 🔧 refactor: organize models into subfolders
