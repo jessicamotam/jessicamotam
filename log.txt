@@ -84782,3 +84782,4 @@
 0580. ♻️ chore: bump dependencies
 0143. ✨ feat: implement quiz timer feature
 0733. 🐛 fix: fix null pointer exception on login
+0525. ✅ test: mock database connection in test suite
