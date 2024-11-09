@@ -11755,3 +11755,4 @@
 0501. ✨ feat: add export to CSV option
 0987. ✨ feat: create admin dashboard
 0680. ♻️ chore: add GitHub actions badge
+0747. 🔧 refactor: clean up auth middleware
