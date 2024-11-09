@@ -8326,3 +8326,4 @@
 0769. ✨ feat: create admin dashboard
 0891. ✨ feat: create admin dashboard
 0530. 🔧 refactor: refactor quiz grading logic
+0833. ✨ feat: add user authentication
