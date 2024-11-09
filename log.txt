@@ -84165,3 +84165,4 @@
 0633. ✨ feat: add user authentication
 0505. ♻️ chore: add GitHub actions badge
 0454. ♻️ chore: bump dependencies
+0979. 🎨 style: standardize quote style
