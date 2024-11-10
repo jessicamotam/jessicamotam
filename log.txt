@@ -43519,3 +43519,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0591. ♻️ chore: clean up unused files
 0742. 📚 docs: clarify environment setup
+0895. ✨ feat: support email verification
