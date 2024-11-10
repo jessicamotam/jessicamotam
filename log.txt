@@ -6814,3 +6814,4 @@
 0794. ♻️ chore: clean up unused files
 0764. ✨ feat: add user authentication
 0451. ✨ feat: support email verification
+0291. 📚 docs: write FAQ section
