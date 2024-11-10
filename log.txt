@@ -27792,3 +27792,4 @@
 0884. 📚 docs: clarify environment setup
 0801. ✨ feat: enable dark mode toggle
 0367. 🐛 fix: fix null pointer exception on login
+0514. 🐛 fix: fix broken CSS in mobile view
