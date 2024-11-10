@@ -49256,3 +49256,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0850. ♻️ chore: rename env.example
 0947. 📚 docs: write FAQ section
+0710. 🐛 fix: fix broken CSS in mobile view
