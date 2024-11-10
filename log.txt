@@ -88330,3 +88330,4 @@
 0456. 🚀 perf: optimize database query for quiz results
 0140. 🐛 fix: handle 500 error in quiz API
 0732. ♻️ chore: add GitHub actions badge
+0722. 📚 docs: add API usage examples
