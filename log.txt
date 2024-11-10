@@ -27524,3 +27524,4 @@
 0922. 📚 docs: write FAQ section
 0755. 🚀 perf: cache repeated calculations
 0203. 🚀 perf: lazy-load components
+0693. 📚 docs: add API usage examples
