@@ -47455,3 +47455,4 @@
 0528. ♻️ chore: clean up unused files
 0711. 🐛 fix: fix broken CSS in mobile view
 0512. 🚀 perf: reduce image load time
+0574. ✨ feat: enable dark mode toggle
