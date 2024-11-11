@@ -34640,3 +34640,4 @@
 0059. ♻️ chore: bump dependencies
 0291. 📚 docs: write FAQ section
 0948. 🐛 fix: fix broken CSS in mobile view
+0540. ♻️ chore: add GitHub actions badge
