@@ -25736,3 +25736,4 @@
 0308. 🚀 perf: reduce image load time
 0923. ✨ feat: support email verification
 0318. 🔧 refactor: refactor quiz grading logic
+0339. 📚 docs: update README with setup steps
