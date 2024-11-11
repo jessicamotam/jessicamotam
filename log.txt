@@ -81801,3 +81801,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0576. ♻️ chore: update .gitignore
 0589. 🐛 fix: fix broken CSS in mobile view
+0397. 🐛 fix: handle 500 error in quiz API
