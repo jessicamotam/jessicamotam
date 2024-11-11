@@ -70045,3 +70045,4 @@
 0435. ✅ test: add unit test for quiz service
 0911. ✅ test: increase coverage on auth module
 0229. 🚀 perf: optimize database query for quiz results
+0791. 🔧 refactor: clean up auth middleware
