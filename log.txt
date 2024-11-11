@@ -70834,3 +70834,4 @@
 0099. 🚀 perf: reduce image load time
 0500. ✅ test: add integration test for /submit endpoint
 0966. 📚 docs: improve code comments in utils
+0937. 🐛 fix: handle 500 error in quiz API
