@@ -35333,3 +35333,4 @@
 0090. ✅ test: increase coverage on auth module
 0614. 🚀 perf: reduce image load time
 0146. 🎨 style: apply consistent indentation
+0524. ♻️ chore: rename env.example
