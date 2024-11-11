@@ -72560,3 +72560,4 @@
 0742. 📚 docs: clarify environment setup
 0695. ✨ feat: create admin dashboard
 0953. 🎨 style: remove trailing whitespace
+0424. ✨ feat: add user authentication
