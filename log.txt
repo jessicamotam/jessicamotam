@@ -54830,3 +54830,4 @@
 0119. 📚 docs: improve code comments in utils
 0740. 🐛 fix: resolve issue with date parsing
 0464. 🎨 style: remove trailing whitespace
+0882. 🚀 perf: optimize database query for quiz results
