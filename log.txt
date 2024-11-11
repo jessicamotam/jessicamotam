@@ -40876,3 +40876,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0393. 🚀 perf: lazy-load components
 0795. 📚 docs: update README with setup steps
+0415. 🐛 fix: handle 500 error in quiz API
