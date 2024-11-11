@@ -27102,3 +27102,4 @@
 0630. 🚀 perf: lazy-load components
 0223. 🔧 refactor: remove redundant code blocks
 0783. 🐛 fix: handle 500 error in quiz API
+0838. 🎨 style: standardize quote style
