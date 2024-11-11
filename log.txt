@@ -17560,3 +17560,4 @@
 0803. ✅ test: mock database connection in test suite
 0230. ✨ feat: create admin dashboard
 0944. ✨ feat: add user authentication
+0912. 📚 docs: document token refresh logic
