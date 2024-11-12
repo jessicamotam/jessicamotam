@@ -839,3 +839,4 @@
 0170. ✅ test: increase coverage on auth module
 0273. 🚀 perf: reduce image load time
 0430. 🐛 fix: fix null pointer exception on login
+0029. 🚀 perf: lazy-load components
