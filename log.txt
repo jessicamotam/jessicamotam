@@ -10177,3 +10177,4 @@
 0486. ✨ feat: add export to CSV option
 0728. 🔧 refactor: split large controller into smaller functions
 0972. 🔧 refactor: refactor quiz grading logic
+0514. 🐛 fix: fix broken CSS in mobile view
