@@ -18507,3 +18507,4 @@
 0597. 🚀 perf: cache repeated calculations
 0573. ✅ test: add integration test for /submit endpoint
 0648. ♻️ chore: bump dependencies
+0026. 🔧 refactor: clean up auth middleware
