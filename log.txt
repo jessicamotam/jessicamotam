@@ -12199,3 +12199,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0153. ♻️ chore: rename env.example
 0059. ♻️ chore: bump dependencies
+0750. 🎨 style: apply consistent indentation
