@@ -74617,3 +74617,4 @@
 0551. 📚 docs: write FAQ section
 0473. 📚 docs: write FAQ section
 0419. 🎨 style: remove trailing whitespace
+0552. 🐛 fix: fix null pointer exception on login
