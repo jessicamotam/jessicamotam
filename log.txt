@@ -69940,3 +69940,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0321. 🔧 refactor: organize models into subfolders
 0950. 🎨 style: reformat files with black
+0747. 🔧 refactor: clean up auth middleware
