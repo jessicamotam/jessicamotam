@@ -85623,3 +85623,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0898. 🐛 fix: fix broken CSS in mobile view
 0563. 📚 docs: clarify environment setup
+0894. ✅ test: add integration test for /submit endpoint
