@@ -65833,3 +65833,4 @@
 0468. 📚 docs: update README with setup steps
 0766. 🎨 style: reformat files with black
 0323. 📚 docs: clarify environment setup
+0054. ♻️ chore: update .gitignore
