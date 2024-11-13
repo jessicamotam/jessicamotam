@@ -6975,3 +6975,4 @@
 0689. 🎨 style: reformat files with black
 0609. 🐛 fix: handle 500 error in quiz API
 0894. ✅ test: add integration test for /submit endpoint
+0257. 📚 docs: clarify environment setup
