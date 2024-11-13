@@ -27222,3 +27222,4 @@
 0291. 📚 docs: write FAQ section
 0799. ♻️ chore: clean up unused files
 0891. ✨ feat: create admin dashboard
+0737. 🐛 fix: handle 500 error in quiz API
