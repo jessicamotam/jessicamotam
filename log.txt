@@ -63188,3 +63188,4 @@
 0167. 🚀 perf: reduce image load time
 0548. 📚 docs: write FAQ section
 0727. ♻️ chore: add GitHub actions badge
+0148. 🔧 refactor: organize models into subfolders
