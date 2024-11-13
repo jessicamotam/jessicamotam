@@ -46908,3 +46908,4 @@
 0819. 🚀 perf: reduce image load time
 0769. ✨ feat: create admin dashboard
 0998. 🐛 fix: fix null pointer exception on login
+0298. ♻️ chore: update .gitignore
