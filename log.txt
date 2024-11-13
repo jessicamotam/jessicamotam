@@ -60280,3 +60280,4 @@
 0499. 🎨 style: reformat files with black
 0893. 🐛 fix: handle 500 error in quiz API
 0547. 📚 docs: write FAQ section
+0768. 🎨 style: remove trailing whitespace
