@@ -65859,3 +65859,4 @@
 0372. ✨ feat: add user authentication
 0321. 🔧 refactor: organize models into subfolders
 0220. 🐛 fix: fix null pointer exception on login
+0027. 📚 docs: clarify environment setup
