@@ -28109,3 +28109,4 @@
 0573. ✅ test: add integration test for /submit endpoint
 0648. ♻️ chore: bump dependencies
 0349. ✅ test: increase coverage on auth module
+0848. 📚 docs: update README with setup steps
