@@ -29636,3 +29636,4 @@
 0688. 🚀 perf: reduce image load time
 0994. 🚀 perf: reduce image load time
 0214. 📚 docs: improve code comments in utils
+0945. ♻️ chore: add GitHub actions badge
