@@ -26874,3 +26874,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0705. 🔧 refactor: refactor quiz grading logic
 0104. 🎨 style: apply consistent indentation
+0827. 🚀 perf: optimize database query for quiz results
