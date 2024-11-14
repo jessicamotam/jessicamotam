@@ -46674,3 +46674,4 @@
 0982. 🚀 perf: lazy-load components
 0287. 📚 docs: write FAQ section
 0014. 🔧 refactor: remove redundant code blocks
+0353. ♻️ chore: rename env.example
