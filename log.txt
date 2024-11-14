@@ -4895,3 +4895,4 @@
 0237. 🎨 style: standardize quote style
 0643. 🎨 style: apply consistent indentation
 0453. 🎨 style: standardize quote style
+0224. 🐛 fix: fix broken CSS in mobile view
