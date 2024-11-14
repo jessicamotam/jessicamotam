@@ -40356,3 +40356,4 @@
 0459. 🔧 refactor: organize models into subfolders
 0644. 🎨 style: apply consistent indentation
 0510. 🎨 style: rename variables for clarity
+0456. 🚀 perf: optimize database query for quiz results
