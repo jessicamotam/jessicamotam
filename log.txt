@@ -31279,3 +31279,4 @@
 0463. 🚀 perf: reduce image load time
 0880. 🐛 fix: fix broken CSS in mobile view
 0023. 📚 docs: clarify environment setup
+0547. 📚 docs: write FAQ section
