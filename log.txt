@@ -85020,3 +85020,4 @@
 0503. ♻️ chore: rename env.example
 0666. 🐛 fix: fix broken CSS in mobile view
 0841. 🚀 perf: optimize database query for quiz results
+0312. ✨ feat: add user authentication
