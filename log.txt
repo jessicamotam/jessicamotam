@@ -7177,3 +7177,4 @@
 0785. ✨ feat: enable dark mode toggle
 0848. 📚 docs: update README with setup steps
 0580. ♻️ chore: bump dependencies
+0920. 🔧 refactor: organize models into subfolders
