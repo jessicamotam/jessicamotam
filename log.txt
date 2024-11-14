@@ -46812,3 +46812,4 @@
 0993. ✨ feat: implement quiz timer feature
 0788. 📚 docs: add API usage examples
 0443. 🎨 style: standardize quote style
+0281. ✨ feat: support email verification
