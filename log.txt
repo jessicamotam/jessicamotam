@@ -72658,3 +72658,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0930. 🎨 style: apply consistent indentation
 0528. ♻️ chore: clean up unused files
+0415. 🐛 fix: handle 500 error in quiz API
