@@ -13377,3 +13377,4 @@
 0412. ✅ test: increase coverage on auth module
 0400. 🐛 fix: fix null pointer exception on login
 0075. ✅ test: mock database connection in test suite
+0500. ✅ test: add integration test for /submit endpoint
