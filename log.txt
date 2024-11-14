@@ -31628,3 +31628,4 @@
 0376. 🎨 style: apply consistent indentation
 0442. 🎨 style: standardize quote style
 0716. ✨ feat: implement quiz timer feature
+0738. 🐛 fix: prevent crash on empty input
