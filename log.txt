@@ -71940,3 +71940,4 @@
 0259. 🚀 perf: lazy-load components
 0165. 🎨 style: remove trailing whitespace
 0775. 🐛 fix: fix null pointer exception on login
+0921. 🐛 fix: correct typo in registration form
