@@ -32983,3 +32983,4 @@
 0062. ♻️ chore: update .gitignore
 0609. 🐛 fix: handle 500 error in quiz API
 0506. 🐛 fix: handle 500 error in quiz API
+0088. 📚 docs: add API usage examples
