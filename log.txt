@@ -49799,3 +49799,4 @@
 0872. 🎨 style: rename variables for clarity
 0369. 🎨 style: standardize quote style
 0871. ✅ test: add integration test for /submit endpoint
+0037. 🐛 fix: correct typo in registration form
