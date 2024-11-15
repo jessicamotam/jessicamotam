@@ -68189,3 +68189,4 @@
 0141. 📚 docs: document token refresh logic
 0556. ✨ feat: support email verification
 0879. 🎨 style: standardize quote style
+0837. 🚀 perf: cache repeated calculations
