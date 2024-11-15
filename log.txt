@@ -22368,3 +22368,4 @@
 0241. 📚 docs: add API usage examples
 0579. 📚 docs: clarify environment setup
 0463. 🚀 perf: reduce image load time
+0507. 🔧 refactor: clean up auth middleware
