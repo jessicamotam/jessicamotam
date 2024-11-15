@@ -71194,3 +71194,4 @@
 0187. ✨ feat: support email verification
 0065. ✅ test: add integration test for /submit endpoint
 0540. ♻️ chore: add GitHub actions badge
+0522. 🐛 fix: handle 500 error in quiz API
