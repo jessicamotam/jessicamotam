@@ -7574,3 +7574,4 @@
 0677. 📚 docs: add API usage examples
 0916. ♻️ chore: bump dependencies
 0239. 🎨 style: standardize quote style
+0828. ♻️ chore: add GitHub actions badge
