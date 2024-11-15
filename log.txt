@@ -8046,3 +8046,4 @@
 0350. 🚀 perf: cache repeated calculations
 0010. ✨ feat: add user authentication
 0953. 🎨 style: remove trailing whitespace
+0879. 🎨 style: standardize quote style
