@@ -443,3 +443,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0151. ✅ test: add unit test for quiz service
 0787. ♻️ chore: rename env.example
+0305. ✨ feat: enable dark mode toggle
