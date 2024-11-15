@@ -10,3 +10,4 @@
 0098. 🎨 style: rename variables for clarity
 0347. ♻️ chore: update .gitignore
 0704. 🚀 perf: cache repeated calculations
+0256. ✅ test: mock database connection in test suite
