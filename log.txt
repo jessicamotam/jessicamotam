@@ -1938,3 +1938,4 @@
 0892. ✅ test: add unit test for quiz service
 0291. 📚 docs: write FAQ section
 0828. ♻️ chore: add GitHub actions badge
+0241. 📚 docs: add API usage examples
