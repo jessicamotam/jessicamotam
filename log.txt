@@ -82273,3 +82273,4 @@
 0348. ✅ test: test user registration edge cases
 0580. ♻️ chore: bump dependencies
 0345. 📚 docs: document token refresh logic
+0797. 📚 docs: add API usage examples
