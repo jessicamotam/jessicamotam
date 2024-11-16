@@ -1414,3 +1414,4 @@
 0215. 🎨 style: reformat files with black
 0778. 📚 docs: write FAQ section
 0813. 🔧 refactor: organize models into subfolders
+0600. 🐛 fix: prevent crash on empty input
