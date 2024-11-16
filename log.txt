@@ -25955,3 +25955,4 @@
 0134. ✨ feat: implement quiz timer feature
 0598. 🔧 refactor: remove redundant code blocks
 0270. ♻️ chore: rename env.example
+0578. ✅ test: add integration test for /submit endpoint
