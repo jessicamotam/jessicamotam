@@ -14512,3 +14512,4 @@
 0183. 🔧 refactor: split large controller into smaller functions
 0819. 🚀 perf: reduce image load time
 0842. 🎨 style: remove trailing whitespace
+0588. 🔧 refactor: organize models into subfolders
