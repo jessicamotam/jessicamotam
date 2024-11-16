@@ -6086,3 +6086,4 @@
 0452. ✨ feat: implement quiz timer feature
 0529. 📚 docs: write FAQ section
 0948. 🐛 fix: fix broken CSS in mobile view
+0791. 🔧 refactor: clean up auth middleware
