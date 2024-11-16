@@ -47642,3 +47642,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0529. 📚 docs: write FAQ section
 0009. ✨ feat: enable dark mode toggle
+0292. 📚 docs: clarify environment setup
