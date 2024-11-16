@@ -67402,3 +67402,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0911. ✅ test: increase coverage on auth module
 0876. ♻️ chore: rename env.example
+0097. 🐛 fix: handle 500 error in quiz API
