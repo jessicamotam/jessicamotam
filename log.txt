@@ -30689,3 +30689,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0297. 🎨 style: remove trailing whitespace
 0357. ✅ test: add unit test for quiz service
+0157. ✅ test: mock database connection in test suite
