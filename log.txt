@@ -69254,3 +69254,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0383. 🐛 fix: fix broken CSS in mobile view
 0643. 🎨 style: apply consistent indentation
+0121. ✨ feat: support email verification
