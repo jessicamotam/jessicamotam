@@ -11249,3 +11249,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0455. ♻️ chore: clean up unused files
 0236. 🔧 refactor: remove redundant code blocks
+0030. 🐛 fix: fix null pointer exception on login
