@@ -60348,3 +60348,4 @@
 0306. 🎨 style: apply consistent indentation
 0294. 🐛 fix: prevent crash on empty input
 0355. 🚀 perf: optimize database query for quiz results
+0725. 🚀 perf: lazy-load components
