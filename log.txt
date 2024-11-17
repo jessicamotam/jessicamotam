@@ -2791,3 +2791,4 @@
 0160. ♻️ chore: bump dependencies
 0186. ✅ test: test user registration edge cases
 0805. ♻️ chore: add GitHub actions badge
+0601. ✨ feat: implement quiz timer feature
