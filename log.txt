@@ -29585,3 +29585,4 @@
 0011. ✅ test: add unit test for quiz service
 0052. 🎨 style: standardize quote style
 0959. 🐛 fix: fix null pointer exception on login
+0292. 📚 docs: clarify environment setup
