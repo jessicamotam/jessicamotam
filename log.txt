@@ -8890,3 +8890,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0348. ✅ test: test user registration edge cases
 0420. 🚀 perf: reduce image load time
+0267. 📚 docs: improve code comments in utils
