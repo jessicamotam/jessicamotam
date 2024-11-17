@@ -17700,3 +17700,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0369. 🎨 style: standardize quote style
 0801. ✨ feat: enable dark mode toggle
+0779. 🔧 refactor: organize models into subfolders
