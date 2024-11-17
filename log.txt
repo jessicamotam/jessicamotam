@@ -23837,3 +23837,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0337. 📚 docs: document token refresh logic
 0317. ✅ test: test user registration edge cases
+0195. 📚 docs: clarify environment setup
