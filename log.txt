@@ -16693,3 +16693,4 @@
 0605. ✨ feat: support email verification
 0641. 📚 docs: write FAQ section
 0437. 📚 docs: clarify environment setup
+0809. ♻️ chore: rename env.example
