@@ -69974,3 +69974,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0131. 📚 docs: write FAQ section
 0630. 🚀 perf: lazy-load components
+0618. ✨ feat: support email verification
