@@ -69852,3 +69852,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0190. 🎨 style: rename variables for clarity
 0973. 🔧 refactor: organize models into subfolders
+0804. ♻️ chore: add GitHub actions badge
