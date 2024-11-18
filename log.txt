@@ -75580,3 +75580,4 @@
 0940. 📚 docs: document token refresh logic
 0165. 🎨 style: remove trailing whitespace
 0939. 📚 docs: update README with setup steps
+0026. 🔧 refactor: clean up auth middleware
