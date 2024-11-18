@@ -55646,3 +55646,4 @@
 0811. 🎨 style: reformat files with black
 0311. 🎨 style: apply consistent indentation
 0556. ✨ feat: support email verification
+0200. 🐛 fix: handle 500 error in quiz API
