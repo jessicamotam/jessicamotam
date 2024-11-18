@@ -18848,3 +18848,4 @@
 0252. 🎨 style: remove trailing whitespace
 0821. ✅ test: add integration test for /submit endpoint
 0866. 📚 docs: add API usage examples
+0529. 📚 docs: write FAQ section
