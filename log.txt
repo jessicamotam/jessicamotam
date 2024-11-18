@@ -36722,3 +36722,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0094. 📚 docs: document token refresh logic
 0604. 📚 docs: add API usage examples
+0583. ✅ test: increase coverage on auth module
