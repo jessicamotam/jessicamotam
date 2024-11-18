@@ -7708,3 +7708,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0637. 🎨 style: apply consistent indentation
 0449. ✅ test: add unit test for quiz service
+0519. 📚 docs: document token refresh logic
