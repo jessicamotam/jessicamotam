@@ -77535,3 +77535,4 @@
 0323. 📚 docs: clarify environment setup
 0667. ✨ feat: add export to CSV option
 0314. ✨ feat: implement quiz timer feature
+0072. 🚀 perf: optimize database query for quiz results
