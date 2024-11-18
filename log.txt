@@ -76783,3 +76783,4 @@
 0809. ♻️ chore: rename env.example
 0289. 🐛 fix: resolve issue with date parsing
 0794. ♻️ chore: clean up unused files
+0506. 🐛 fix: handle 500 error in quiz API
