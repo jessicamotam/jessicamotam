@@ -65571,3 +65571,4 @@
 0679. ♻️ chore: bump dependencies
 0775. 🐛 fix: fix null pointer exception on login
 0967. ♻️ chore: add GitHub actions badge
+0291. 📚 docs: write FAQ section
