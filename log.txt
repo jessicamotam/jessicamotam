@@ -41126,3 +41126,4 @@
 0903. ✅ test: mock database connection in test suite
 0390. 🎨 style: standardize quote style
 0947. 📚 docs: write FAQ section
+0153. ♻️ chore: rename env.example
