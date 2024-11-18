@@ -8482,3 +8482,4 @@
 0161. ✨ feat: create admin dashboard
 0947. 📚 docs: write FAQ section
 0533. ♻️ chore: add GitHub actions badge
+0349. ✅ test: increase coverage on auth module
