@@ -67746,3 +67746,4 @@
 0010. ✨ feat: add user authentication
 0891. ✨ feat: create admin dashboard
 0199. ✨ feat: create admin dashboard
+0187. ✨ feat: support email verification
