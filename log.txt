@@ -87972,3 +87972,4 @@
 0300. ✨ feat: add export to CSV option
 0916. ♻️ chore: bump dependencies
 0563. 📚 docs: clarify environment setup
+0512. 🚀 perf: reduce image load time
