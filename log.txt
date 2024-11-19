@@ -65911,3 +65911,4 @@
 0123. ✨ feat: implement quiz timer feature
 0091. ✨ feat: add user authentication
 0618. ✨ feat: support email verification
+0557. 🔧 refactor: clean up auth middleware
