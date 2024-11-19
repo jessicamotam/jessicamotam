@@ -74899,3 +74899,4 @@
 0761. ✅ test: add unit test for quiz service
 0596. ♻️ chore: update .gitignore
 0334. 🚀 perf: cache repeated calculations
+0415. 🐛 fix: handle 500 error in quiz API
