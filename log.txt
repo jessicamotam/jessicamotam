@@ -80555,3 +80555,4 @@
 0305. ✨ feat: enable dark mode toggle
 0931. 🚀 perf: reduce image load time
 0655. 🚀 perf: cache repeated calculations
+0557. 🔧 refactor: clean up auth middleware
