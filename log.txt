@@ -65843,3 +65843,4 @@
 0892. ✅ test: add unit test for quiz service
 0718. 🐛 fix: resolve issue with date parsing
 0052. 🎨 style: standardize quote style
+0690. 🚀 perf: lazy-load components
