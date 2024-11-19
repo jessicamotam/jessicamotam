@@ -63812,3 +63812,4 @@
 0656. 🎨 style: apply consistent indentation
 0842. 🎨 style: remove trailing whitespace
 0149. ✨ feat: add export to CSV option
+0253. 📚 docs: update README with setup steps
