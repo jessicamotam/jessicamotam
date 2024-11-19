@@ -2553,3 +2553,4 @@
 0241. 📚 docs: add API usage examples
 0597. 🚀 perf: cache repeated calculations
 0887. 📚 docs: add API usage examples
+0798. 🚀 perf: reduce image load time
