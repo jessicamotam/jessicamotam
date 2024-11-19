@@ -76338,3 +76338,4 @@
 0312. ✨ feat: add user authentication
 0957. 🐛 fix: fix null pointer exception on login
 0742. 📚 docs: clarify environment setup
+0731. 🎨 style: standardize quote style
