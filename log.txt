@@ -16846,3 +16846,4 @@
 0203. 🚀 perf: lazy-load components
 0420. 🚀 perf: reduce image load time
 0352. ✨ feat: add export to CSV option
+0057. 🚀 perf: optimize database query for quiz results
