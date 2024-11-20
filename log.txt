@@ -71330,3 +71330,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0921. 🐛 fix: correct typo in registration form
 0092. 🚀 perf: reduce image load time
+0107. 🐛 fix: prevent crash on empty input
