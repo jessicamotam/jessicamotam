@@ -17419,3 +17419,4 @@
 0869. ♻️ chore: bump dependencies
 0784. ♻️ chore: clean up unused files
 0607. 🐛 fix: prevent crash on empty input
+0695. ✨ feat: create admin dashboard
