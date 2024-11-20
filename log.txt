@@ -56462,3 +56462,4 @@
 0001. 🚀 perf: cache repeated calculations
 0338. ♻️ chore: add GitHub actions badge
 0373. 📚 docs: document token refresh logic
+0961. 📚 docs: add API usage examples
