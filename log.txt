@@ -1646,3 +1646,4 @@
 0022. 📚 docs: document token refresh logic
 0171. 🐛 fix: fix broken CSS in mobile view
 0408. ♻️ chore: add GitHub actions badge
+0415. 🐛 fix: handle 500 error in quiz API
