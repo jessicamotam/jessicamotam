@@ -21553,3 +21553,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0187. ✨ feat: support email verification
 0599. ✅ test: test user registration edge cases
+0881. 🔧 refactor: split large controller into smaller functions
