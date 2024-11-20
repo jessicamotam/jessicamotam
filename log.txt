@@ -10964,3 +10964,4 @@
 0174. 📚 docs: clarify environment setup
 0410. 🎨 style: reformat files with black
 0925. ✨ feat: add export to CSV option
+0803. ✅ test: mock database connection in test suite
