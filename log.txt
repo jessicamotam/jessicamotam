@@ -70665,3 +70665,4 @@
 0780. 📚 docs: add API usage examples
 0617. ✨ feat: support email verification
 0643. 🎨 style: apply consistent indentation
+0020. ✅ test: add integration test for /submit endpoint
