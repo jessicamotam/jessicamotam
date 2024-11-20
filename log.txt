@@ -5818,3 +5818,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0696. 🔧 refactor: clean up auth middleware
 0355. 🚀 perf: optimize database query for quiz results
+0798. 🚀 perf: reduce image load time
