@@ -85905,3 +85905,4 @@
 0332. 🎨 style: standardize quote style
 0797. 📚 docs: add API usage examples
 0317. ✅ test: test user registration edge cases
+0053. ✅ test: increase coverage on auth module
