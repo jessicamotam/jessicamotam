@@ -245,3 +245,4 @@
 0424. ✨ feat: add user authentication
 0914. ✅ test: test user registration edge cases
 0829. 🔧 refactor: organize models into subfolders
+0856. 🐛 fix: fix null pointer exception on login
