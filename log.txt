@@ -25464,3 +25464,4 @@
 0335. ♻️ chore: update .gitignore
 0320. 📚 docs: update README with setup steps
 0962. ✨ feat: create admin dashboard
+0466. 🚀 perf: optimize database query for quiz results
