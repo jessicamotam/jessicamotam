@@ -901,3 +901,4 @@
 0598. 🔧 refactor: remove redundant code blocks
 0600. 🐛 fix: prevent crash on empty input
 0080. ✨ feat: support email verification
+0514. 🐛 fix: fix broken CSS in mobile view
