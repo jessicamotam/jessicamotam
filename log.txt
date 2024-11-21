@@ -50399,3 +50399,4 @@
 0336. ✨ feat: add export to CSV option
 0942. ✅ test: increase coverage on auth module
 0117. ✅ test: increase coverage on auth module
+0615. 🐛 fix: correct typo in registration form
