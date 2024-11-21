@@ -39535,3 +39535,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 1000. ✅ test: increase coverage on auth module
 0885. ♻️ chore: update .gitignore
+0386. 🚀 perf: optimize database query for quiz results
