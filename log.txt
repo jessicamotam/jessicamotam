@@ -89452,3 +89452,4 @@
 0076. 🎨 style: reformat files with black
 0835. 🐛 fix: prevent crash on empty input
 0499. 🎨 style: reformat files with black
+0511. 🐛 fix: fix broken CSS in mobile view
