@@ -88404,3 +88404,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0269. ✅ test: test user registration edge cases
 0555. ✨ feat: create admin dashboard
+0678. ✨ feat: add user authentication
