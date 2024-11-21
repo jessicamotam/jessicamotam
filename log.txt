@@ -81937,3 +81937,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0023. 📚 docs: clarify environment setup
 0662. ♻️ chore: clean up unused files
+0248. 🐛 fix: handle 500 error in quiz API
