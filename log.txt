@@ -66272,3 +66272,4 @@
 0849. 🐛 fix: correct typo in registration form
 0574. ✨ feat: enable dark mode toggle
 0927. ♻️ chore: bump dependencies
+0790. 📚 docs: write FAQ section
