@@ -2328,3 +2328,4 @@
 0950. 🎨 style: reformat files with black
 0592. 📚 docs: add API usage examples
 0605. ✨ feat: support email verification
+0780. 📚 docs: add API usage examples
