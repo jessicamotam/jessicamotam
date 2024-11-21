@@ -81935,3 +81935,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0375. 🐛 fix: handle 500 error in quiz API
 0936. 🔧 refactor: organize models into subfolders
+0023. 📚 docs: clarify environment setup
