@@ -42831,3 +42831,4 @@
 0196. ♻️ chore: bump dependencies
 0058. ♻️ chore: add GitHub actions badge
 0376. 🎨 style: apply consistent indentation
+0079. 🐛 fix: correct typo in registration form
