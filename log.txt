@@ -18742,3 +18742,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0878. 🔧 refactor: split large controller into smaller functions
 0994. 🚀 perf: reduce image load time
+0734. ✨ feat: add export to CSV option
