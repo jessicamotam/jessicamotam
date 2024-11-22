@@ -20834,3 +20834,4 @@
 0612. ✅ test: test user registration edge cases
 0592. 📚 docs: add API usage examples
 0405. ✅ test: mock database connection in test suite
+0676. 🐛 fix: prevent crash on empty input
