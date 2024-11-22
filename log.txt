@@ -36635,3 +36635,4 @@
 0419. 🎨 style: remove trailing whitespace
 0613. 🐛 fix: prevent crash on empty input
 0824. 🚀 perf: lazy-load components
+0731. 🎨 style: standardize quote style
