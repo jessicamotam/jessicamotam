@@ -49157,3 +49157,4 @@
 0486. ✨ feat: add export to CSV option
 0384. 📚 docs: clarify environment setup
 0451. ✨ feat: support email verification
+0196. ♻️ chore: bump dependencies
