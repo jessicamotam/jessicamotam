@@ -77386,3 +77386,4 @@
 0825. 🔧 refactor: split large controller into smaller functions
 0898. 🐛 fix: fix broken CSS in mobile view
 0180. ✨ feat: add export to CSV option
+0489. 🔧 refactor: organize models into subfolders
