@@ -87935,3 +87935,4 @@
 0035. ✅ test: increase coverage on auth module
 0300. ✨ feat: add export to CSV option
 0873. 🚀 perf: cache repeated calculations
+0531. 🐛 fix: prevent crash on empty input
