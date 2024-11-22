@@ -30599,3 +30599,4 @@
 0687. 🎨 style: remove trailing whitespace
 0647. 🐛 fix: prevent crash on empty input
 0514. 🐛 fix: fix broken CSS in mobile view
+0413. ✅ test: add integration test for /submit endpoint
