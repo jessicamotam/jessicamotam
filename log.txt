@@ -52114,3 +52114,4 @@
 0618. ✨ feat: support email verification
 0384. 📚 docs: clarify environment setup
 0027. 📚 docs: clarify environment setup
+0754. 🐛 fix: handle 500 error in quiz API
