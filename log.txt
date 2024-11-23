@@ -46585,3 +46585,4 @@
 0444. ✅ test: add unit test for quiz service
 0312. ✨ feat: add user authentication
 0233. 🚀 perf: lazy-load components
+0875. ✅ test: increase coverage on auth module
