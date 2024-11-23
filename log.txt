@@ -79197,3 +79197,4 @@
 0160. ♻️ chore: bump dependencies
 0228. 🔧 refactor: remove redundant code blocks
 0555. ✨ feat: create admin dashboard
+0834. ✅ test: increase coverage on auth module
