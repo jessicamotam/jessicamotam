@@ -34975,3 +34975,4 @@
 0423. ✅ test: mock database connection in test suite
 0353. ♻️ chore: rename env.example
 0344. ♻️ chore: add GitHub actions badge
+0294. 🐛 fix: prevent crash on empty input
