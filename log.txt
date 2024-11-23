@@ -88205,3 +88205,4 @@
 0131. 📚 docs: write FAQ section
 0990. ♻️ chore: rename env.example
 0209. ✨ feat: implement quiz timer feature
+0220. 🐛 fix: fix null pointer exception on login
