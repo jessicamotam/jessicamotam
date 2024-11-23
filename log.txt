@@ -53053,3 +53053,4 @@
 0249. ✅ test: increase coverage on auth module
 0466. 🚀 perf: optimize database query for quiz results
 0533. ♻️ chore: add GitHub actions badge
+0335. ♻️ chore: update .gitignore
