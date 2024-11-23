@@ -73990,3 +73990,4 @@
 0798. 🚀 perf: reduce image load time
 0219. ✅ test: increase coverage on auth module
 0933. 📚 docs: clarify environment setup
+0222. 🐛 fix: handle 500 error in quiz API
