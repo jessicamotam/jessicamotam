@@ -56570,3 +56570,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0155. ✨ feat: create admin dashboard
 0841. 🚀 perf: optimize database query for quiz results
+0547. 📚 docs: write FAQ section
