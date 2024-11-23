@@ -21406,3 +21406,4 @@
 0055. 📚 docs: update README with setup steps
 0099. 🚀 perf: reduce image load time
 0319. 🐛 fix: handle 500 error in quiz API
+0947. 📚 docs: write FAQ section
