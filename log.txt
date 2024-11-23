@@ -68557,3 +68557,4 @@
 0512. 🚀 perf: reduce image load time
 0560. 🎨 style: rename variables for clarity
 0325. 🎨 style: rename variables for clarity
+0997. ✅ test: increase coverage on auth module
