@@ -9460,3 +9460,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0817. 🔧 refactor: remove redundant code blocks
 0521. 🎨 style: standardize quote style
+0781. 🚀 perf: reduce image load time
