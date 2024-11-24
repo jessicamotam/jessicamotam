@@ -12302,3 +12302,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0747. 🔧 refactor: clean up auth middleware
 0175. 📚 docs: add API usage examples
+0085. ✨ feat: support email verification
