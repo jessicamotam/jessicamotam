@@ -50161,3 +50161,4 @@
 0960. ✅ test: increase coverage on auth module
 0637. 🎨 style: apply consistent indentation
 0146. 🎨 style: apply consistent indentation
+0898. 🐛 fix: fix broken CSS in mobile view
