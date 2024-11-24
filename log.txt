@@ -58095,3 +58095,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0824. 🚀 perf: lazy-load components
 0919. 🚀 perf: optimize database query for quiz results
+0197. 📚 docs: update README with setup steps
