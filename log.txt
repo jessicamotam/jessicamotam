@@ -472,3 +472,4 @@
 0803. ✅ test: mock database connection in test suite
 0468. 📚 docs: update README with setup steps
 0178. ✨ feat: support email verification
+0040. 🔧 refactor: clean up auth middleware
