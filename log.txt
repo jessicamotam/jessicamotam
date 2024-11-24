@@ -33423,3 +33423,4 @@
 0918. ✨ feat: enable dark mode toggle
 0183. 🔧 refactor: split large controller into smaller functions
 0014. 🔧 refactor: remove redundant code blocks
+0713. 🐛 fix: handle 500 error in quiz API
