@@ -73925,3 +73925,4 @@
 0611. ✅ test: test user registration edge cases
 0523. ♻️ chore: bump dependencies
 0858. ♻️ chore: clean up unused files
+0642. 🚀 perf: optimize database query for quiz results
