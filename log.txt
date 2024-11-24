@@ -70880,3 +70880,4 @@
 0113. ✨ feat: add user authentication
 0826. 📚 docs: clarify environment setup
 0703. 🔧 refactor: clean up auth middleware
+0967. ♻️ chore: add GitHub actions badge
