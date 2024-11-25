@@ -64768,3 +64768,4 @@
 0001. 🚀 perf: cache repeated calculations
 0377. ✨ feat: add user authentication
 0377. ✨ feat: add user authentication
+0358. 🚀 perf: reduce image load time
