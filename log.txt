@@ -18056,3 +18056,4 @@
 0560. 🎨 style: rename variables for clarity
 0057. 🚀 perf: optimize database query for quiz results
 0390. 🎨 style: standardize quote style
+0888. 🚀 perf: lazy-load components
