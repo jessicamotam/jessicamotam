@@ -87385,3 +87385,4 @@
 0385. ♻️ chore: clean up unused files
 0338. ♻️ chore: add GitHub actions badge
 0778. 📚 docs: write FAQ section
+0813. 🔧 refactor: organize models into subfolders
