@@ -7483,3 +7483,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0738. 🐛 fix: prevent crash on empty input
 0312. ✨ feat: add user authentication
+0592. 📚 docs: add API usage examples
