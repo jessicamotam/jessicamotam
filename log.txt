@@ -43272,3 +43272,4 @@
 0844. 📚 docs: update README with setup steps
 0118. 🚀 perf: reduce image load time
 0718. 🐛 fix: resolve issue with date parsing
+0754. 🐛 fix: handle 500 error in quiz API
