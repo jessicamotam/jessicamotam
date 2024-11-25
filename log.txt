@@ -29573,3 +29573,4 @@
 0357. ✅ test: add unit test for quiz service
 0099. 🚀 perf: reduce image load time
 0495. 🔧 refactor: remove redundant code blocks
+0882. 🚀 perf: optimize database query for quiz results
