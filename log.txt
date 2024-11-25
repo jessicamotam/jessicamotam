@@ -28274,3 +28274,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0933. 📚 docs: clarify environment setup
 0535. 📚 docs: write FAQ section
+0860. 🔧 refactor: organize models into subfolders
