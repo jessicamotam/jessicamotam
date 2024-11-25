@@ -13901,3 +13901,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0457. 🐛 fix: handle 500 error in quiz API
 0092. 🚀 perf: reduce image load time
+0628. ♻️ chore: add GitHub actions badge
