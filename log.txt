@@ -77047,3 +77047,4 @@
 0178. ✨ feat: support email verification
 0289. 🐛 fix: resolve issue with date parsing
 0607. 🐛 fix: prevent crash on empty input
+0511. 🐛 fix: fix broken CSS in mobile view
