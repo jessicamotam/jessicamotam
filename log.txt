@@ -34514,3 +34514,4 @@
 0379. ✨ feat: support email verification
 0838. 🎨 style: standardize quote style
 0754. 🐛 fix: handle 500 error in quiz API
+0193. 🚀 perf: optimize database query for quiz results
