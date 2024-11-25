@@ -72550,3 +72550,4 @@
 0726. ✨ feat: enable dark mode toggle
 0710. 🐛 fix: fix broken CSS in mobile view
 0702. ✨ feat: add user authentication
+0485. 📚 docs: update README with setup steps
