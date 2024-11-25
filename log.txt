@@ -21280,3 +21280,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0499. 🎨 style: reformat files with black
 0012. 🚀 perf: cache repeated calculations
+0355. 🚀 perf: optimize database query for quiz results
