@@ -1992,3 +1992,4 @@
 0079. 🐛 fix: correct typo in registration form
 0736. 🐛 fix: fix null pointer exception on login
 0021. ✨ feat: support email verification
+0208. 🔧 refactor: clean up auth middleware
