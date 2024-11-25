@@ -64256,3 +64256,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0792. 🎨 style: standardize quote style
 0087. ✨ feat: add export to CSV option
+0053. ✅ test: increase coverage on auth module
