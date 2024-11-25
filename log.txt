@@ -18380,3 +18380,4 @@
 0187. ✨ feat: support email verification
 0051. ✨ feat: enable dark mode toggle
 0604. 📚 docs: add API usage examples
+0055. 📚 docs: update README with setup steps
