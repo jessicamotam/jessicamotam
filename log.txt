@@ -77397,3 +77397,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0727. ♻️ chore: add GitHub actions badge
 0950. 🎨 style: reformat files with black
+0947. 📚 docs: write FAQ section
