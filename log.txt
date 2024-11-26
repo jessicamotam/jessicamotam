@@ -79371,3 +79371,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0934. ✨ feat: support email verification
 0722. 📚 docs: add API usage examples
+0102. ✨ feat: support email verification
