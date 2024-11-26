@@ -24636,3 +24636,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0255. 🔧 refactor: refactor quiz grading logic
 0394. 🚀 perf: lazy-load components
+0212. 🎨 style: standardize quote style
