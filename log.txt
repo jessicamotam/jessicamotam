@@ -84977,3 +84977,4 @@
 0877. 🚀 perf: optimize database query for quiz results
 0671. 🐛 fix: fix null pointer exception on login
 0967. ♻️ chore: add GitHub actions badge
+0453. 🎨 style: standardize quote style
