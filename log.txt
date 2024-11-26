@@ -37062,3 +37062,4 @@
 0003. ✅ test: increase coverage on auth module
 0070. ✨ feat: implement quiz timer feature
 0543. ✨ feat: support email verification
+0949. 📚 docs: write FAQ section
