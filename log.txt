@@ -72890,3 +72890,4 @@
 0385. ♻️ chore: clean up unused files
 0224. 🐛 fix: fix broken CSS in mobile view
 0975. 🎨 style: apply consistent indentation
+0994. 🚀 perf: reduce image load time
