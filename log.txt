@@ -12036,3 +12036,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0569. 📚 docs: document token refresh logic
 0290. ✅ test: test user registration edge cases
+0484. 🐛 fix: handle 500 error in quiz API
