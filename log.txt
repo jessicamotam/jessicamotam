@@ -31204,3 +31204,4 @@
 0048. 📚 docs: update README with setup steps
 0989. 📚 docs: write FAQ section
 0934. ✨ feat: support email verification
+0524. ♻️ chore: rename env.example
