@@ -44199,3 +44199,4 @@
 0287. 📚 docs: write FAQ section
 0081. 🐛 fix: fix null pointer exception on login
 0525. ✅ test: mock database connection in test suite
+0187. ✨ feat: support email verification
