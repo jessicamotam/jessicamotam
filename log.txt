@@ -44299,3 +44299,4 @@
 0659. 📚 docs: add API usage examples
 0646. ✅ test: test user registration edge cases
 0200. 🐛 fix: handle 500 error in quiz API
+0557. 🔧 refactor: clean up auth middleware
