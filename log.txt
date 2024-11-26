@@ -48205,3 +48205,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0597. 🚀 perf: cache repeated calculations
 0568. 🐛 fix: handle 500 error in quiz API
+0224. 🐛 fix: fix broken CSS in mobile view
