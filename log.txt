@@ -87907,3 +87907,4 @@
 0346. ✅ test: mock database connection in test suite
 0670. ✨ feat: add export to CSV option
 0142. ✨ feat: implement quiz timer feature
+0201. 🔧 refactor: clean up auth middleware
