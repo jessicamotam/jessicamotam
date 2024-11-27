@@ -2523,3 +2523,4 @@
 0021. ✨ feat: support email verification
 0748. 🚀 perf: optimize database query for quiz results
 0103. 🔧 refactor: remove redundant code blocks
+0349. ✅ test: increase coverage on auth module
