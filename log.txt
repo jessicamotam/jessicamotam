@@ -39636,3 +39636,4 @@
 0138. 🎨 style: rename variables for clarity
 0943. 🎨 style: rename variables for clarity
 0816. 🔧 refactor: organize models into subfolders
+0101. 📚 docs: clarify environment setup
