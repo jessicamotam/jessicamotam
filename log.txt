@@ -79636,3 +79636,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0847. ♻️ chore: clean up unused files
 0012. 🚀 perf: cache repeated calculations
+0473. 📚 docs: write FAQ section
