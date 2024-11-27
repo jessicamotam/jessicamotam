@@ -31912,3 +31912,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0175. 📚 docs: add API usage examples
 0535. 📚 docs: write FAQ section
+0316. 🐛 fix: fix broken CSS in mobile view
