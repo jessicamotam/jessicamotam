@@ -31839,3 +31839,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0702. ✨ feat: add user authentication
 0543. ✨ feat: support email verification
+0733. 🐛 fix: fix null pointer exception on login
