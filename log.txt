@@ -23402,3 +23402,4 @@
 0611. ✅ test: test user registration edge cases
 0633. ✨ feat: add user authentication
 0254. 🚀 perf: reduce image load time
+0971. 🎨 style: standardize quote style
