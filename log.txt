@@ -58444,3 +58444,4 @@
 0090. ✅ test: increase coverage on auth module
 0036. 🔧 refactor: clean up auth middleware
 0901. ✨ feat: add user authentication
+0652. 🔧 refactor: organize models into subfolders
