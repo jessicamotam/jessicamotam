@@ -42209,3 +42209,4 @@
 0271. ✅ test: add unit test for quiz service
 0906. 📚 docs: add API usage examples
 0042. 📚 docs: document token refresh logic
+0599. ✅ test: test user registration edge cases
