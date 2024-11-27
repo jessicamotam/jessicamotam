@@ -18515,3 +18515,4 @@
 0681. ✨ feat: create admin dashboard
 0450. 🐛 fix: fix broken CSS in mobile view
 0854. ♻️ chore: rename env.example
+0663. 🚀 perf: reduce image load time
