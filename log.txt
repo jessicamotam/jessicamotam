@@ -32617,3 +32617,4 @@
 0354. 📚 docs: add API usage examples
 0313. 🎨 style: apply consistent indentation
 0282. 🔧 refactor: remove redundant code blocks
+0133. 🐛 fix: fix null pointer exception on login
