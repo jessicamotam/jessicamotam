@@ -65387,3 +65387,4 @@
 0778. 📚 docs: write FAQ section
 0713. 🐛 fix: handle 500 error in quiz API
 0408. ♻️ chore: add GitHub actions badge
+0524. ♻️ chore: rename env.example
