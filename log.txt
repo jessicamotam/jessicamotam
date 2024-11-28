@@ -76686,3 +76686,4 @@
 0940. 📚 docs: document token refresh logic
 0245. 🐛 fix: resolve issue with date parsing
 0784. ♻️ chore: clean up unused files
+0329. 📚 docs: update README with setup steps
