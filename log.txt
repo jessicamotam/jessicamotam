@@ -20425,3 +20425,4 @@
 0070. ✨ feat: implement quiz timer feature
 0922. 📚 docs: write FAQ section
 0860. 🔧 refactor: organize models into subfolders
+0476. 🚀 perf: reduce image load time
