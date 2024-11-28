@@ -6479,3 +6479,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0698. 🐛 fix: handle 500 error in quiz API
 0870. ♻️ chore: clean up unused files
+0875. ✅ test: increase coverage on auth module
