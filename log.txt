@@ -33127,3 +33127,4 @@
 0451. ✨ feat: support email verification
 0053. ✅ test: increase coverage on auth module
 0571. 🔧 refactor: clean up auth middleware
+0952. 🔧 refactor: split large controller into smaller functions
