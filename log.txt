@@ -66791,3 +66791,4 @@
 0212. 🎨 style: standardize quote style
 0659. 📚 docs: add API usage examples
 0147. ♻️ chore: bump dependencies
+0268. 🐛 fix: prevent crash on empty input
