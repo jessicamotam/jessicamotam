@@ -64699,3 +64699,4 @@
 0623. 🎨 style: standardize quote style
 0460. 📚 docs: write FAQ section
 0700. 🎨 style: rename variables for clarity
+0698. 🐛 fix: handle 500 error in quiz API
