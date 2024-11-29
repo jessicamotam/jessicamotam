@@ -73598,3 +73598,4 @@
 0622. 🎨 style: apply consistent indentation
 0058. ♻️ chore: add GitHub actions badge
 0663. 🚀 perf: reduce image load time
+0711. 🐛 fix: fix broken CSS in mobile view
