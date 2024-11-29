@@ -43726,3 +43726,4 @@
 0572. ✨ feat: add user authentication
 0988. 🐛 fix: fix broken CSS in mobile view
 0211. 🔧 refactor: remove redundant code blocks
+0734. ✨ feat: add export to CSV option
