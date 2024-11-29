@@ -57766,3 +57766,4 @@
 0174. 📚 docs: clarify environment setup
 0753. 🔧 refactor: remove redundant code blocks
 0353. ♻️ chore: rename env.example
+0534. 🔧 refactor: split large controller into smaller functions
