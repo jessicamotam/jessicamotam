@@ -22035,3 +22035,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 0787. ♻️ chore: rename env.example
 0855. 🎨 style: reformat files with black
+0178. ✨ feat: support email verification
