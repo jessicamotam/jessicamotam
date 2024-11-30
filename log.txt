@@ -87090,3 +87090,4 @@
 0399. ✅ test: mock database connection in test suite
 0354. 📚 docs: add API usage examples
 0422. 🔧 refactor: organize models into subfolders
+0141. 📚 docs: document token refresh logic
