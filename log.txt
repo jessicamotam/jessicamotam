@@ -11594,3 +11594,4 @@
 0781. 🚀 perf: reduce image load time
 0340. 🚀 perf: optimize database query for quiz results
 0466. 🚀 perf: optimize database query for quiz results
+0023. 📚 docs: clarify environment setup
