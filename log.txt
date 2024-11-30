@@ -81458,3 +81458,4 @@
 0187. ✨ feat: support email verification
 0051. ✨ feat: enable dark mode toggle
 0511. 🐛 fix: fix broken CSS in mobile view
+0759. 🔧 refactor: organize models into subfolders
