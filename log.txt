@@ -36939,3 +36939,4 @@
 0132. ✅ test: add unit test for quiz service
 0896. 🚀 perf: reduce image load time
 0122. ✨ feat: support email verification
+0205. 📚 docs: update README with setup steps
