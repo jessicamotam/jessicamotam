@@ -63190,3 +63190,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0148. 🔧 refactor: organize models into subfolders
 0895. ✨ feat: support email verification
+0290. ✅ test: test user registration edge cases
