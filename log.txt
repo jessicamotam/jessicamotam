@@ -36826,3 +36826,4 @@
 0549. ✨ feat: enable dark mode toggle
 0895. ✨ feat: support email verification
 0466. 🚀 perf: optimize database query for quiz results
+0430. 🐛 fix: fix null pointer exception on login
