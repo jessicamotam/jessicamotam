@@ -78590,3 +78590,4 @@
 0855. 🎨 style: reformat files with black
 0792. 🎨 style: standardize quote style
 0647. 🐛 fix: prevent crash on empty input
+0226. 🚀 perf: lazy-load components
