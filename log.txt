@@ -11848,3 +11848,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0167. 🚀 perf: reduce image load time
 0398. 🚀 perf: cache repeated calculations
+0213. ✅ test: add integration test for /submit endpoint
