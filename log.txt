@@ -45152,3 +45152,4 @@
 0597. 🚀 perf: cache repeated calculations
 0769. ✨ feat: create admin dashboard
 0017. ✅ test: mock database connection in test suite
+0749. ✨ feat: support email verification
