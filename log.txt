@@ -71332,3 +71332,4 @@
 0092. 🚀 perf: reduce image load time
 0107. 🐛 fix: prevent crash on empty input
 0949. 📚 docs: write FAQ section
+0511. 🐛 fix: fix broken CSS in mobile view
