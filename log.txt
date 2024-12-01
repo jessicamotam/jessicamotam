@@ -89969,3 +89969,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0575. ✅ test: add unit test for quiz service
 0957. 🐛 fix: fix null pointer exception on login
+0262. 🎨 style: remove trailing whitespace
