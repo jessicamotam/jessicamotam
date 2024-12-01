@@ -5870,3 +5870,4 @@
 0464. 🎨 style: remove trailing whitespace
 0220. 🐛 fix: fix null pointer exception on login
 0183. 🔧 refactor: split large controller into smaller functions
+0690. 🚀 perf: lazy-load components
