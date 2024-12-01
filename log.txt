@@ -10157,3 +10157,4 @@
 0820. 📚 docs: add API usage examples
 0402. 🎨 style: reformat files with black
 0779. 🔧 refactor: organize models into subfolders
+0259. 🚀 perf: lazy-load components
