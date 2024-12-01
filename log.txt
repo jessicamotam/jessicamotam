@@ -88636,3 +88636,4 @@
 0114. ♻️ chore: update .gitignore
 0078. ♻️ chore: update .gitignore
 0048. 📚 docs: update README with setup steps
+0128. ♻️ chore: rename env.example
