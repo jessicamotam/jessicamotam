@@ -74676,3 +74676,4 @@
 0117. ✅ test: increase coverage on auth module
 0409. 🚀 perf: lazy-load components
 0044. ✅ test: add unit test for quiz service
+0039. ✅ test: add integration test for /submit endpoint
