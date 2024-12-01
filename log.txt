@@ -388,3 +388,4 @@
 0521. 🎨 style: standardize quote style
 0976. ✨ feat: implement quiz timer feature
 0709. ♻️ chore: bump dependencies
+0358. 🚀 perf: reduce image load time
