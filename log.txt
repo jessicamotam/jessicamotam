@@ -51469,3 +51469,4 @@
 0649. 📚 docs: update README with setup steps
 0338. ♻️ chore: add GitHub actions badge
 0361. ✨ feat: support email verification
+0221. ✨ feat: add user authentication
