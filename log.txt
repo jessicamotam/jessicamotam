@@ -35804,3 +35804,4 @@
 0885. ♻️ chore: update .gitignore
 0488. ♻️ chore: add GitHub actions badge
 0925. ✨ feat: add export to CSV option
+0074. ♻️ chore: add GitHub actions badge
