@@ -87894,3 +87894,4 @@
 0841. 🚀 perf: optimize database query for quiz results
 0290. ✅ test: test user registration edge cases
 0235. 🐛 fix: fix null pointer exception on login
+0870. ♻️ chore: clean up unused files
