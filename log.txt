@@ -17811,3 +17811,4 @@
 0796. 🔧 refactor: refactor quiz grading logic
 0687. 🎨 style: remove trailing whitespace
 0535. 📚 docs: write FAQ section
+0341. 🚀 perf: lazy-load components
