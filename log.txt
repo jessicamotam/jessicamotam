@@ -77810,3 +77810,4 @@
 0204. 🎨 style: standardize quote style
 0288. 🔧 refactor: refactor quiz grading logic
 0281. ✨ feat: support email verification
+0117. ✅ test: increase coverage on auth module
