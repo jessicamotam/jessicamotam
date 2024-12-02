@@ -61187,3 +61187,4 @@
 0363. 📚 docs: clarify environment setup
 0695. ✨ feat: create admin dashboard
 0620. ✨ feat: implement quiz timer feature
+0200. 🐛 fix: handle 500 error in quiz API
