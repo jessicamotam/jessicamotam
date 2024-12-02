@@ -77886,3 +77886,4 @@
 0649. 📚 docs: update README with setup steps
 0107. 🐛 fix: prevent crash on empty input
 0511. 🐛 fix: fix broken CSS in mobile view
+0064. 📚 docs: clarify environment setup
