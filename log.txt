@@ -41901,3 +41901,4 @@
 0741. 🎨 style: apply consistent indentation
 0786. ✨ feat: enable dark mode toggle
 0458. ✨ feat: create admin dashboard
+0958. 🐛 fix: prevent crash on empty input
