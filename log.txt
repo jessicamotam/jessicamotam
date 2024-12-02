@@ -8028,3 +8028,4 @@
 0459. 🔧 refactor: organize models into subfolders
 0679. ♻️ chore: bump dependencies
 0636. ✅ test: increase coverage on auth module
+0611. ✅ test: test user registration edge cases
