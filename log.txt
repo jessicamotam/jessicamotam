@@ -90836,3 +90836,4 @@
 0021. ✨ feat: support email verification
 0799. ♻️ chore: clean up unused files
 0446. 🎨 style: apply consistent indentation
+0438. ♻️ chore: bump dependencies
