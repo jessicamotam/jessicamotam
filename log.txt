@@ -71460,3 +71460,4 @@
 0518. ✨ feat: support email verification
 0322. 🔧 refactor: split large controller into smaller functions
 0432. 🎨 style: apply consistent indentation
+0597. 🚀 perf: cache repeated calculations
