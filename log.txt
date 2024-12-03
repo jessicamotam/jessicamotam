@@ -48794,3 +48794,4 @@
 0153. ♻️ chore: rename env.example
 0556. ✨ feat: support email verification
 0103. 🔧 refactor: remove redundant code blocks
+0083. 🎨 style: reformat files with black
