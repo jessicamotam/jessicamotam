@@ -36598,3 +36598,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0405. ✅ test: mock database connection in test suite
 0641. 📚 docs: write FAQ section
+0568. 🐛 fix: handle 500 error in quiz API
