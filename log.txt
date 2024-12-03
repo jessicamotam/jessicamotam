@@ -65548,3 +65548,4 @@
 0461. ✨ feat: add user authentication
 0631. ✨ feat: create admin dashboard
 0705. 🔧 refactor: refactor quiz grading logic
+0934. ✨ feat: support email verification
