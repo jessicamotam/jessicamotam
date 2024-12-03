@@ -65904,3 +65904,4 @@
 0459. 🔧 refactor: organize models into subfolders
 0474. ✅ test: add unit test for quiz service
 0132. ✅ test: add unit test for quiz service
+0085. ✨ feat: support email verification
