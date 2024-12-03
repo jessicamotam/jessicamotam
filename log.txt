@@ -30374,3 +30374,4 @@
 0436. ✅ test: add integration test for /submit endpoint
 0754. 🐛 fix: handle 500 error in quiz API
 0508. ✅ test: add unit test for quiz service
+0415. 🐛 fix: handle 500 error in quiz API
