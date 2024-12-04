@@ -30686,3 +30686,4 @@
 0333. 🚀 perf: cache repeated calculations
 0687. 🎨 style: remove trailing whitespace
 0614. 🚀 perf: reduce image load time
+0268. 🐛 fix: prevent crash on empty input
