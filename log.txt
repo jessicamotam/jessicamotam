@@ -962,3 +962,4 @@
 0027. 📚 docs: clarify environment setup
 0121. ✨ feat: support email verification
 0974. ✨ feat: add export to CSV option
+0423. ✅ test: mock database connection in test suite
