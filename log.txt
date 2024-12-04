@@ -90350,3 +90350,4 @@
 0681. ✨ feat: create admin dashboard
 0227. ✅ test: test user registration edge cases
 0566. 📚 docs: write FAQ section
+0896. 🚀 perf: reduce image load time
