@@ -26253,3 +26253,4 @@
 0395. 📚 docs: write FAQ section
 0594. 🎨 style: reformat files with black
 0984. ♻️ chore: clean up unused files
+0092. 🚀 perf: reduce image load time
