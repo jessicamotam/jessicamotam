@@ -793,3 +793,4 @@
 0501. ✨ feat: add export to CSV option
 0390. 🎨 style: standardize quote style
 0601. ✨ feat: implement quiz timer feature
+0484. 🐛 fix: handle 500 error in quiz API
