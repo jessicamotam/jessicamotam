@@ -4917,3 +4917,4 @@
 0964. ♻️ chore: clean up unused files
 0273. 🚀 perf: reduce image load time
 0416. 🎨 style: rename variables for clarity
+0461. ✨ feat: add user authentication
