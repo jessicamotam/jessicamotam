@@ -24231,3 +24231,4 @@
 0387. ✨ feat: enable dark mode toggle
 0928. 🎨 style: apply consistent indentation
 0635. 🎨 style: apply consistent indentation
+0241. 📚 docs: add API usage examples
