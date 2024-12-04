@@ -28291,3 +28291,4 @@
 0273. 🚀 perf: reduce image load time
 0397. 🐛 fix: handle 500 error in quiz API
 0426. ✅ test: add integration test for /submit endpoint
+0586. 🎨 style: remove trailing whitespace
