@@ -41231,3 +41231,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0408. ♻️ chore: add GitHub actions badge
 0384. 📚 docs: clarify environment setup
+0871. ✅ test: add integration test for /submit endpoint
