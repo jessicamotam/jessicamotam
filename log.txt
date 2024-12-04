@@ -8603,3 +8603,4 @@
 0931. 🚀 perf: reduce image load time
 0718. 🐛 fix: resolve issue with date parsing
 0950. 🎨 style: reformat files with black
+0426. ✅ test: add integration test for /submit endpoint
