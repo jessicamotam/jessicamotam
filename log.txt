@@ -80666,3 +80666,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0739. 🎨 style: remove trailing whitespace
 0548. 📚 docs: write FAQ section
+0485. 📚 docs: update README with setup steps
