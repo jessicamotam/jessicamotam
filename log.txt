@@ -11441,3 +11441,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0363. 📚 docs: clarify environment setup
 0923. ✨ feat: support email verification
+0012. 🚀 perf: cache repeated calculations
