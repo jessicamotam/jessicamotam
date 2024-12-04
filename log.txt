@@ -80865,3 +80865,4 @@
 0617. ✨ feat: support email verification
 0455. ♻️ chore: clean up unused files
 0242. ♻️ chore: clean up unused files
+0030. 🐛 fix: fix null pointer exception on login
