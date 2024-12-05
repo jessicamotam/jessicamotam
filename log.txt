@@ -34980,3 +34980,4 @@
 0293. ✅ test: add integration test for /submit endpoint
 0268. 🐛 fix: prevent crash on empty input
 0472. 🐛 fix: fix null pointer exception on login
+0567. 📚 docs: add API usage examples
