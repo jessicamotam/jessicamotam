@@ -73979,3 +73979,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0783. 🐛 fix: handle 500 error in quiz API
 0503. ♻️ chore: rename env.example
+0811. 🎨 style: reformat files with black
