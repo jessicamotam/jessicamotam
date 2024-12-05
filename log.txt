@@ -77893,3 +77893,4 @@
 0385. ♻️ chore: clean up unused files
 0938. 🎨 style: rename variables for clarity
 0774. 🔧 refactor: refactor quiz grading logic
+0004. 🚀 perf: optimize database query for quiz results
