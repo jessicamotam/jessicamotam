@@ -4639,3 +4639,4 @@
 0839. 🎨 style: apply consistent indentation
 0971. 🎨 style: standardize quote style
 0321. 🔧 refactor: organize models into subfolders
+0552. 🐛 fix: fix null pointer exception on login
