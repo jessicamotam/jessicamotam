@@ -26516,3 +26516,4 @@
 0916. ♻️ chore: bump dependencies
 0555. ✨ feat: create admin dashboard
 0187. ✨ feat: support email verification
+0153. ♻️ chore: rename env.example
