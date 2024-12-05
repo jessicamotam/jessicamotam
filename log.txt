@@ -42967,3 +42967,4 @@
 0092. 🚀 perf: reduce image load time
 0107. 🐛 fix: prevent crash on empty input
 0629. 🔧 refactor: organize models into subfolders
+0948. 🐛 fix: fix broken CSS in mobile view
