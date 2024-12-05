@@ -18453,3 +18453,4 @@
 0349. ✅ test: increase coverage on auth module
 0644. 🎨 style: apply consistent indentation
 0026. 🔧 refactor: clean up auth middleware
+0021. ✨ feat: support email verification
