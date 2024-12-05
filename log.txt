@@ -18316,3 +18316,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0967. ♻️ chore: add GitHub actions badge
 0875. ✅ test: increase coverage on auth module
+0471. ✨ feat: support email verification
