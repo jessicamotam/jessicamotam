@@ -18422,3 +18422,4 @@
 0495. 🔧 refactor: remove redundant code blocks
 0006. 🐛 fix: prevent crash on empty input
 0807. 🔧 refactor: remove redundant code blocks
+0578. ✅ test: add integration test for /submit endpoint
