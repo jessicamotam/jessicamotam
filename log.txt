@@ -64121,3 +64121,4 @@
 0265. 🎨 style: reformat files with black
 0442. 🎨 style: standardize quote style
 0995. ✅ test: mock database connection in test suite
+0647. 🐛 fix: prevent crash on empty input
