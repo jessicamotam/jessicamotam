@@ -57256,3 +57256,4 @@
 0227. ✅ test: test user registration edge cases
 0781. 🚀 perf: reduce image load time
 0375. 🐛 fix: handle 500 error in quiz API
+0075. ✅ test: mock database connection in test suite
