@@ -84291,3 +84291,4 @@
 0131. 📚 docs: write FAQ section
 0737. 🐛 fix: handle 500 error in quiz API
 0915. 🚀 perf: cache repeated calculations
+0064. 📚 docs: clarify environment setup
