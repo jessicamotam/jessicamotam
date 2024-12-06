@@ -47679,3 +47679,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0819. 🚀 perf: reduce image load time
 0344. ♻️ chore: add GitHub actions badge
+0543. ✨ feat: support email verification
