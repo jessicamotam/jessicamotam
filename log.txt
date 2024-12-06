@@ -83442,3 +83442,4 @@
 0649. 📚 docs: update README with setup steps
 0143. ✨ feat: implement quiz timer feature
 0831. 📚 docs: clarify environment setup
+0701. 🔧 refactor: clean up auth middleware
