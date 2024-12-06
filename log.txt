@@ -40051,3 +40051,4 @@
 0039. ✅ test: add integration test for /submit endpoint
 0983. 🔧 refactor: split large controller into smaller functions
 0754. 🐛 fix: handle 500 error in quiz API
+0335. ♻️ chore: update .gitignore
