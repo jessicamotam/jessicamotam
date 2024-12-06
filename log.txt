@@ -32208,3 +32208,4 @@
 0219. ✅ test: increase coverage on auth module
 0070. ✨ feat: implement quiz timer feature
 0437. 📚 docs: clarify environment setup
+0894. ✅ test: add integration test for /submit endpoint
