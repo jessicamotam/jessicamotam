@@ -10417,3 +10417,4 @@
 0070. ✨ feat: implement quiz timer feature
 0629. 🔧 refactor: organize models into subfolders
 0191. 🔧 refactor: refactor quiz grading logic
+0609. 🐛 fix: handle 500 error in quiz API
