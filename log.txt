@@ -17806,3 +17806,4 @@
 0719. 🎨 style: apply consistent indentation
 0780. 📚 docs: add API usage examples
 0167. 🚀 perf: reduce image load time
+0116. ✨ feat: support email verification
