@@ -36720,3 +36720,4 @@
 0227. ✅ test: test user registration edge cases
 0394. 🚀 perf: lazy-load components
 0294. 🐛 fix: prevent crash on empty input
+0094. 📚 docs: document token refresh logic
