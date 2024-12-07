@@ -33836,3 +33836,4 @@
 0794. ♻️ chore: clean up unused files
 0226. 🚀 perf: lazy-load components
 0221. ✨ feat: add user authentication
+0977. 🔧 refactor: organize models into subfolders
