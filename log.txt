@@ -40554,3 +40554,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0580. ♻️ chore: bump dependencies
 0379. ✨ feat: support email verification
+0618. ✨ feat: support email verification
