@@ -84690,3 +84690,4 @@
 0709. ♻️ chore: bump dependencies
 0133. 🐛 fix: fix null pointer exception on login
 0927. ♻️ chore: bump dependencies
+0041. 🐛 fix: fix broken CSS in mobile view
