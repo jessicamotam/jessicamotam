@@ -360,3 +360,4 @@
 0986. 📚 docs: document token refresh logic
 0193. 🚀 perf: optimize database query for quiz results
 0755. 🚀 perf: cache repeated calculations
+0279. ✨ feat: support email verification
