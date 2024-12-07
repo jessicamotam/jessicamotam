@@ -90388,3 +90388,4 @@
 0010. ✨ feat: add user authentication
 0041. 🐛 fix: fix broken CSS in mobile view
 0387. ✨ feat: enable dark mode toggle
+0459. 🔧 refactor: organize models into subfolders
