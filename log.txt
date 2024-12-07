@@ -6333,3 +6333,4 @@
 0269. ✅ test: test user registration edge cases
 0525. ✅ test: mock database connection in test suite
 0252. 🎨 style: remove trailing whitespace
+0397. 🐛 fix: handle 500 error in quiz API
