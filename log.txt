@@ -68227,3 +68227,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0679. ♻️ chore: bump dependencies
 0604. 📚 docs: add API usage examples
+0948. 🐛 fix: fix broken CSS in mobile view
