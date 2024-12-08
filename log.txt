@@ -62518,3 +62518,4 @@
 0617. ✨ feat: support email verification
 0099. 🚀 perf: reduce image load time
 0288. 🔧 refactor: refactor quiz grading logic
+0864. 🐛 fix: correct typo in registration form
