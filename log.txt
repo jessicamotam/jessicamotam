@@ -88381,3 +88381,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0167. 🚀 perf: reduce image load time
 0830. 🎨 style: apply consistent indentation
+0074. ♻️ chore: add GitHub actions badge
