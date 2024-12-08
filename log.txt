@@ -51805,3 +51805,4 @@
 0102. ✨ feat: support email verification
 0299. 🐛 fix: resolve issue with date parsing
 0020. ✅ test: add integration test for /submit endpoint
+0960. ✅ test: increase coverage on auth module
