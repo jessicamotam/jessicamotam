@@ -80937,3 +80937,4 @@
 0417. 🎨 style: rename variables for clarity
 0950. 🎨 style: reformat files with black
 0546. 🐛 fix: fix null pointer exception on login
+0875. ✅ test: increase coverage on auth module
