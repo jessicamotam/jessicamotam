@@ -13700,3 +13700,4 @@
 0539. 🔧 refactor: organize models into subfolders
 0410. 🎨 style: reformat files with black
 0771. 🚀 perf: cache repeated calculations
+0959. 🐛 fix: fix null pointer exception on login
