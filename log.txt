@@ -41220,3 +41220,4 @@
 0601. ✨ feat: implement quiz timer feature
 0255. 🔧 refactor: refactor quiz grading logic
 0674. 🔧 refactor: split large controller into smaller functions
+0463. 🚀 perf: reduce image load time
