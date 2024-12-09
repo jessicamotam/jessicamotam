@@ -32657,3 +32657,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0188. 🎨 style: apply consistent indentation
 0685. ✅ test: test user registration edge cases
+0133. 🐛 fix: fix null pointer exception on login
