@@ -70843,3 +70843,4 @@
 0712. 🎨 style: apply consistent indentation
 0088. 📚 docs: add API usage examples
 0296. 🔧 refactor: organize models into subfolders
+0268. 🐛 fix: prevent crash on empty input
