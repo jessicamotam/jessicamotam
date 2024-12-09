@@ -54508,3 +54508,4 @@
 0887. 📚 docs: add API usage examples
 0855. 🎨 style: reformat files with black
 0308. 🚀 perf: reduce image load time
+0970. ♻️ chore: update .gitignore
