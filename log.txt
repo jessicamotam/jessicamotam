@@ -62205,3 +62205,4 @@
 0634. 🎨 style: reformat files with black
 0128. ♻️ chore: rename env.example
 0248. 🐛 fix: handle 500 error in quiz API
+0210. 🎨 style: apply consistent indentation
