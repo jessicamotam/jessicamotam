@@ -65481,3 +65481,4 @@
 0692. ✅ test: add integration test for /submit endpoint
 0593. 🐛 fix: correct typo in registration form
 0752. ✅ test: add integration test for /submit endpoint
+0758. 🚀 perf: optimize database query for quiz results
