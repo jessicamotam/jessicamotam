@@ -26765,3 +26765,4 @@
 0940. 📚 docs: document token refresh logic
 0730. ✅ test: test user registration edge cases
 0570. 🎨 style: apply consistent indentation
+0898. 🐛 fix: fix broken CSS in mobile view
