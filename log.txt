@@ -18043,3 +18043,4 @@
 0997. ✅ test: increase coverage on auth module
 0817. 🔧 refactor: remove redundant code blocks
 0641. 📚 docs: write FAQ section
+0568. 🐛 fix: handle 500 error in quiz API
