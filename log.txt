@@ -69151,3 +69151,4 @@
 0392. 🎨 style: remove trailing whitespace
 0709. ♻️ chore: bump dependencies
 0749. ✨ feat: support email verification
+0171. 🐛 fix: fix broken CSS in mobile view
