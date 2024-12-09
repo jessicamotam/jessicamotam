@@ -22557,3 +22557,4 @@
 0047. 🎨 style: rename variables for clarity
 0704. 🚀 perf: cache repeated calculations
 0508. ✅ test: add unit test for quiz service
+0020. ✅ test: add integration test for /submit endpoint
