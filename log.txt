@@ -9884,3 +9884,4 @@
 0745. ✅ test: add unit test for quiz service
 0771. 🚀 perf: cache repeated calculations
 0847. ♻️ chore: clean up unused files
+0628. ♻️ chore: add GitHub actions badge
