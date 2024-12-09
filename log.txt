@@ -71313,3 +71313,4 @@
 0866. 📚 docs: add API usage examples
 0383. 🐛 fix: fix broken CSS in mobile view
 0106. 🎨 style: reformat files with black
+0959. 🐛 fix: fix null pointer exception on login
