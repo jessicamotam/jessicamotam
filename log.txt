@@ -87733,3 +87733,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0153. ♻️ chore: rename env.example
 0831. 📚 docs: clarify environment setup
+0507. 🔧 refactor: clean up auth middleware
