@@ -1013,3 +1013,4 @@
 0314. ✨ feat: implement quiz timer feature
 0339. 📚 docs: update README with setup steps
 0789. ✨ feat: create admin dashboard
+0369. 🎨 style: standardize quote style
