@@ -69715,3 +69715,4 @@
 0902. ✨ feat: enable dark mode toggle
 0874. 🔧 refactor: split large controller into smaller functions
 0895. ✨ feat: support email verification
+0434. 📚 docs: document token refresh logic
