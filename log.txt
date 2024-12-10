@@ -56710,3 +56710,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0700. 🎨 style: rename variables for clarity
 0078. ♻️ chore: update .gitignore
+0068. 🐛 fix: fix null pointer exception on login
