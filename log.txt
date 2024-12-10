@@ -48849,3 +48849,4 @@
 0549. ✨ feat: enable dark mode toggle
 0461. ✨ feat: add user authentication
 0926. 🔧 refactor: organize models into subfolders
+0981. 🚀 perf: lazy-load components
