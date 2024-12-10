@@ -28069,3 +28069,4 @@
 0117. ✅ test: increase coverage on auth module
 0152. ✨ feat: add user authentication
 0500. ✅ test: add integration test for /submit endpoint
+0386. 🚀 perf: optimize database query for quiz results
