@@ -24966,3 +24966,4 @@
 0879. 🎨 style: standardize quote style
 0487. 🎨 style: reformat files with black
 0107. 🐛 fix: prevent crash on empty input
+0268. 🐛 fix: prevent crash on empty input
