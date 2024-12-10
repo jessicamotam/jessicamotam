@@ -15072,3 +15072,4 @@
 0499. 🎨 style: reformat files with black
 0777. 📚 docs: document token refresh logic
 0487. 🎨 style: reformat files with black
+0354. 📚 docs: add API usage examples
