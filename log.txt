@@ -37955,3 +37955,4 @@
 0232. 🎨 style: apply consistent indentation
 0905. ♻️ chore: bump dependencies
 0343. 🚀 perf: optimize database query for quiz results
+0353. ♻️ chore: rename env.example
