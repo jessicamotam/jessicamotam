@@ -61875,3 +61875,4 @@
 0324. 📚 docs: document token refresh logic
 0121. ✨ feat: support email verification
 0412. ✅ test: increase coverage on auth module
+0117. ✅ test: increase coverage on auth module
