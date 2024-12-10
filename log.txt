@@ -24609,3 +24609,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0659. 📚 docs: add API usage examples
 0346. ✅ test: mock database connection in test suite
+0696. 🔧 refactor: clean up auth middleware
