@@ -11924,3 +11924,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0821. ✅ test: add integration test for /submit endpoint
 0773. 📚 docs: document token refresh logic
+0929. ✨ feat: support email verification
