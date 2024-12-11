@@ -9898,3 +9898,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0134. ✨ feat: implement quiz timer feature
 0049. 🐛 fix: handle 500 error in quiz API
+0201. 🔧 refactor: clean up auth middleware
