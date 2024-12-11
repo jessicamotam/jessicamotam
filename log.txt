@@ -89874,3 +89874,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0912. 📚 docs: document token refresh logic
 0110. 🐛 fix: prevent crash on empty input
+0340. 🚀 perf: optimize database query for quiz results
