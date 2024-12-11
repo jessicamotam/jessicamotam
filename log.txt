@@ -85875,3 +85875,4 @@
 0077. ♻️ chore: rename env.example
 0832. 🔧 refactor: remove redundant code blocks
 0611. ✅ test: test user registration edge cases
+0187. ✨ feat: support email verification
