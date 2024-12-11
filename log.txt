@@ -36667,3 +36667,4 @@
 0123. ✨ feat: implement quiz timer feature
 0010. ✨ feat: add user authentication
 0576. ♻️ chore: update .gitignore
+0929. ✨ feat: support email verification
