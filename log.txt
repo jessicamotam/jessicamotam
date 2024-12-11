@@ -88151,3 +88151,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0489. 🔧 refactor: organize models into subfolders
 0270. ♻️ chore: rename env.example
+0835. 🐛 fix: prevent crash on empty input
