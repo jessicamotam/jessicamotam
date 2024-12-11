@@ -21222,3 +21222,4 @@
 0576. ♻️ chore: update .gitignore
 0345. 📚 docs: document token refresh logic
 0227. ✅ test: test user registration edge cases
+0844. 📚 docs: update README with setup steps
