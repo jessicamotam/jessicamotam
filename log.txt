@@ -80625,3 +80625,4 @@
 0640. ♻️ chore: bump dependencies
 0197. 📚 docs: update README with setup steps
 0964. ♻️ chore: clean up unused files
+0962. ✨ feat: create admin dashboard
