@@ -35594,3 +35594,4 @@
 0667. ✨ feat: add export to CSV option
 0631. ✨ feat: create admin dashboard
 0972. 🔧 refactor: refactor quiz grading logic
+0609. 🐛 fix: handle 500 error in quiz API
