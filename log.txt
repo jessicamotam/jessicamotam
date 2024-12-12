@@ -64590,3 +64590,4 @@
 0617. ✨ feat: support email verification
 0686. 🎨 style: standardize quote style
 0431. 🎨 style: reformat files with black
+0758. 🚀 perf: optimize database query for quiz results
