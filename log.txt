@@ -3864,3 +3864,4 @@
 0655. 🚀 perf: cache repeated calculations
 0143. ✨ feat: implement quiz timer feature
 0905. ♻️ chore: bump dependencies
+0394. 🚀 perf: lazy-load components
