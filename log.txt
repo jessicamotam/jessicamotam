@@ -23381,3 +23381,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0425. 🔧 refactor: refactor quiz grading logic
 0497. 🔧 refactor: refactor quiz grading logic
+0525. ✅ test: mock database connection in test suite
