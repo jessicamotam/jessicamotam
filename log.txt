@@ -14969,3 +14969,4 @@
 0512. 🚀 perf: reduce image load time
 0566. 📚 docs: write FAQ section
 0237. 🎨 style: standardize quote style
+0855. 🎨 style: reformat files with black
