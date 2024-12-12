@@ -52540,3 +52540,4 @@
 0918. ✨ feat: enable dark mode toggle
 0457. 🐛 fix: handle 500 error in quiz API
 0694. 🎨 style: rename variables for clarity
+0600. 🐛 fix: prevent crash on empty input
