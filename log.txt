@@ -59630,3 +59630,4 @@
 0580. ♻️ chore: bump dependencies
 0828. ♻️ chore: add GitHub actions badge
 0629. 🔧 refactor: organize models into subfolders
+0239. 🎨 style: standardize quote style
