@@ -79182,3 +79182,4 @@
 0091. ✨ feat: add user authentication
 0529. 📚 docs: write FAQ section
 0720. ✨ feat: add export to CSV option
+0428. 🐛 fix: fix null pointer exception on login
