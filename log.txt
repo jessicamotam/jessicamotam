@@ -80965,3 +80965,4 @@
 0793. 📚 docs: clarify environment setup
 0200. 🐛 fix: handle 500 error in quiz API
 0956. 📚 docs: clarify environment setup
+0536. ✨ feat: add user authentication
