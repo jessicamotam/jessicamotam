@@ -70278,3 +70278,4 @@
 0508. ✅ test: add unit test for quiz service
 0642. 🚀 perf: optimize database query for quiz results
 0112. ✨ feat: enable dark mode toggle
+0029. 🚀 perf: lazy-load components
