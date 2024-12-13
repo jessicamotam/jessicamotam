@@ -7524,3 +7524,4 @@
 0765. ♻️ chore: clean up unused files
 0631. ✨ feat: create admin dashboard
 0786. ✨ feat: enable dark mode toggle
+0711. 🐛 fix: fix broken CSS in mobile view
