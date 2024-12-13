@@ -25996,3 +25996,4 @@
 0482. ✨ feat: add export to CSV option
 0547. 📚 docs: write FAQ section
 0687. 🎨 style: remove trailing whitespace
+0157. ✅ test: mock database connection in test suite
