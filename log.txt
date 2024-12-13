@@ -33591,3 +33591,4 @@
 0627. 📚 docs: document token refresh logic
 0690. 🚀 perf: lazy-load components
 0302. ✨ feat: implement quiz timer feature
+0666. 🐛 fix: fix broken CSS in mobile view
