@@ -10918,3 +10918,4 @@
 0651. ✨ feat: enable dark mode toggle
 0609. 🐛 fix: handle 500 error in quiz API
 0044. ✅ test: add unit test for quiz service
+0157. ✅ test: mock database connection in test suite
