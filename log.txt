@@ -56603,3 +56603,4 @@
 0664. ✅ test: add unit test for quiz service
 0942. ✅ test: increase coverage on auth module
 0332. 🎨 style: standardize quote style
+0939. 📚 docs: update README with setup steps
