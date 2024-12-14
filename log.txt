@@ -9806,3 +9806,4 @@
 0172. 📚 docs: add API usage examples
 0629. 🔧 refactor: organize models into subfolders
 0860. 🔧 refactor: organize models into subfolders
+0820. 📚 docs: add API usage examples
