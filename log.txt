@@ -6257,3 +6257,4 @@
 0159. 🚀 perf: lazy-load components
 0191. 🔧 refactor: refactor quiz grading logic
 0015. ✨ feat: implement quiz timer feature
+0834. ✅ test: increase coverage on auth module
