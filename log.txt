@@ -21829,3 +21829,4 @@
 0125. ✅ test: add integration test for /submit endpoint
 0283. ♻️ chore: add GitHub actions badge
 0051. ✨ feat: enable dark mode toggle
+0359. 🔧 refactor: clean up auth middleware
