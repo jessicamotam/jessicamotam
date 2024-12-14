@@ -10932,3 +10932,4 @@
 0620. ✨ feat: implement quiz timer feature
 0911. ✅ test: increase coverage on auth module
 0074. ♻️ chore: add GitHub actions badge
+0060. ♻️ chore: clean up unused files
