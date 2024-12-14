@@ -63235,3 +63235,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0329. 📚 docs: update README with setup steps
 0060. ♻️ chore: clean up unused files
+0278. 🔧 refactor: clean up auth middleware
