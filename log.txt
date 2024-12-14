@@ -59357,3 +59357,4 @@
 0561. 📚 docs: write FAQ section
 0254. 🚀 perf: reduce image load time
 0083. 🎨 style: reformat files with black
+0595. ✨ feat: enable dark mode toggle
