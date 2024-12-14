@@ -8726,3 +8726,4 @@
 0626. 🎨 style: standardize quote style
 0073. 🔧 refactor: split large controller into smaller functions
 0114. ♻️ chore: update .gitignore
+0189. 📚 docs: clarify environment setup
