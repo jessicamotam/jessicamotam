@@ -78024,3 +78024,4 @@
 0139. 📚 docs: document token refresh logic
 0787. ♻️ chore: rename env.example
 0315. ✅ test: add integration test for /submit endpoint
+1000. ✅ test: increase coverage on auth module
