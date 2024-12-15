@@ -84855,3 +84855,4 @@
 0402. 🎨 style: reformat files with black
 0551. 📚 docs: write FAQ section
 0450. 🐛 fix: fix broken CSS in mobile view
+0935. 📚 docs: update README with setup steps
