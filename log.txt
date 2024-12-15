@@ -42727,3 +42727,4 @@
 0305. ✨ feat: enable dark mode toggle
 0024. 📚 docs: write FAQ section
 0540. ♻️ chore: add GitHub actions badge
+0363. 📚 docs: clarify environment setup
