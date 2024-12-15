@@ -31653,3 +31653,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0499. 🎨 style: reformat files with black
 0356. 📚 docs: write FAQ section
+0039. ✅ test: add integration test for /submit endpoint
