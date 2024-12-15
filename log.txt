@@ -25609,3 +25609,4 @@
 0626. 🎨 style: standardize quote style
 0090. ✅ test: increase coverage on auth module
 0861. ♻️ chore: clean up unused files
+0200. 🐛 fix: handle 500 error in quiz API
