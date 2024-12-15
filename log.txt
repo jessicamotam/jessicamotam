@@ -13799,3 +13799,4 @@
 0904. ✨ feat: implement quiz timer feature
 0639. 🐛 fix: correct typo in registration form
 0854. ♻️ chore: rename env.example
+0472. 🐛 fix: fix null pointer exception on login
