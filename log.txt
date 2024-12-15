@@ -55492,3 +55492,4 @@
 0816. 🔧 refactor: organize models into subfolders
 0090. ✅ test: increase coverage on auth module
 0539. 🔧 refactor: organize models into subfolders
+0122. ✨ feat: support email verification
