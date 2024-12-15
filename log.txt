@@ -77569,3 +77569,4 @@
 0811. 🎨 style: reformat files with black
 0650. ✅ test: add unit test for quiz service
 0122. ✨ feat: support email verification
+0208. 🔧 refactor: clean up auth middleware
