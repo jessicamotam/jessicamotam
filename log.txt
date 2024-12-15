@@ -67635,3 +67635,4 @@
 0146. 🎨 style: apply consistent indentation
 0815. 🔧 refactor: split large controller into smaller functions
 0406. ✨ feat: add export to CSV option
+0029. 🚀 perf: lazy-load components
