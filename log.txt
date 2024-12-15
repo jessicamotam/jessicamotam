@@ -80695,3 +80695,4 @@
 0249. ✅ test: increase coverage on auth module
 0960. ✅ test: increase coverage on auth module
 0673. 🐛 fix: correct typo in registration form
+0287. 📚 docs: write FAQ section
