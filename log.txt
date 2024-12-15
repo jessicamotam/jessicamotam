@@ -49944,3 +49944,4 @@
 0346. ✅ test: mock database connection in test suite
 0884. 📚 docs: clarify environment setup
 0347. ♻️ chore: update .gitignore
+0730. ✅ test: test user registration edge cases
