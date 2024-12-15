@@ -60676,3 +60676,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0970. ♻️ chore: update .gitignore
 0756. ✨ feat: support email verification
+0259. 🚀 perf: lazy-load components
