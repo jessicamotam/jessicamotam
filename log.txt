@@ -16677,3 +16677,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0307. ✨ feat: support email verification
 0232. 🎨 style: apply consistent indentation
+0894. ✅ test: add integration test for /submit endpoint
