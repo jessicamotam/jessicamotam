@@ -56957,3 +56957,4 @@
 0037. 🐛 fix: correct typo in registration form
 0565. ♻️ chore: add GitHub actions badge
 0353. ♻️ chore: rename env.example
+0243. 🔧 refactor: clean up auth middleware
