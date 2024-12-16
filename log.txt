@@ -744,3 +744,4 @@
 0165. 🎨 style: remove trailing whitespace
 0735. ♻️ chore: add GitHub actions badge
 0025. 🚀 perf: optimize database query for quiz results
+0609. 🐛 fix: handle 500 error in quiz API
