@@ -69605,3 +69605,4 @@
 0184. 📚 docs: improve code comments in utils
 0307. ✨ feat: support email verification
 0435. ✅ test: add unit test for quiz service
+0422. 🔧 refactor: organize models into subfolders
