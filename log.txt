@@ -29124,3 +29124,4 @@
 0768. 🎨 style: remove trailing whitespace
 0704. 🚀 perf: cache repeated calculations
 0508. ✅ test: add unit test for quiz service
+0383. 🐛 fix: fix broken CSS in mobile view
