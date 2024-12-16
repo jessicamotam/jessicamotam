@@ -56811,3 +56811,4 @@
 0611. ✅ test: test user registration edge cases
 0237. 🎨 style: standardize quote style
 0302. ✨ feat: implement quiz timer feature
+0706. ✨ feat: support email verification
