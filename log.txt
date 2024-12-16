@@ -8691,3 +8691,4 @@
 0509. ♻️ chore: bump dependencies
 0395. 📚 docs: write FAQ section
 0492. 🎨 style: remove trailing whitespace
+0600. 🐛 fix: prevent crash on empty input
