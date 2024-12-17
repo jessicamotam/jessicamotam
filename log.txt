@@ -25457,3 +25457,4 @@
 0601. ✨ feat: implement quiz timer feature
 0702. ✨ feat: add user authentication
 0295. 🎨 style: remove trailing whitespace
+0762. 🚀 perf: lazy-load components
