@@ -62111,3 +62111,4 @@
 0149. ✨ feat: add export to CSV option
 0306. 🎨 style: apply consistent indentation
 0945. ♻️ chore: add GitHub actions badge
+0836. 🚀 perf: optimize database query for quiz results
