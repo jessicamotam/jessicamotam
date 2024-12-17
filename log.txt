@@ -39551,3 +39551,4 @@
 0199. ✨ feat: create admin dashboard
 0531. 🐛 fix: prevent crash on empty input
 0865. ♻️ chore: add GitHub actions badge
+0198. 📚 docs: clarify environment setup
