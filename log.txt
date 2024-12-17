@@ -43884,3 +43884,4 @@
 0339. 📚 docs: update README with setup steps
 0536. ✨ feat: add user authentication
 0060. ♻️ chore: clean up unused files
+0122. ✨ feat: support email verification
