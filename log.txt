@@ -19299,3 +19299,4 @@
 0022. 📚 docs: document token refresh logic
 0251. ♻️ chore: update .gitignore
 1000. ✅ test: increase coverage on auth module
+0429. ✨ feat: add user authentication
