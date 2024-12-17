@@ -65302,3 +65302,4 @@
 0970. ♻️ chore: update .gitignore
 0305. ✨ feat: enable dark mode toggle
 0872. 🎨 style: rename variables for clarity
+0584. 🚀 perf: lazy-load components
