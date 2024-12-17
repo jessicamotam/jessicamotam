@@ -46681,3 +46681,4 @@
 0966. 📚 docs: improve code comments in utils
 0056. ♻️ chore: rename env.example
 0265. 🎨 style: reformat files with black
+0025. 🚀 perf: optimize database query for quiz results
