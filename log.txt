@@ -30273,3 +30273,4 @@
 0888. 🚀 perf: lazy-load components
 0385. ♻️ chore: clean up unused files
 0600. 🐛 fix: prevent crash on empty input
+0773. 📚 docs: document token refresh logic
