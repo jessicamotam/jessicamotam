@@ -54342,3 +54342,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0323. 📚 docs: clarify environment setup
 0329. 📚 docs: update README with setup steps
+0239. 🎨 style: standardize quote style
