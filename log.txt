@@ -52194,3 +52194,4 @@
 0911. ✅ test: increase coverage on auth module
 0278. 🔧 refactor: clean up auth middleware
 0487. 🎨 style: reformat files with black
+0920. 🔧 refactor: organize models into subfolders
