@@ -27060,3 +27060,4 @@
 0317. ✅ test: test user registration edge cases
 0634. 🎨 style: reformat files with black
 0134. ✨ feat: implement quiz timer feature
+0437. 📚 docs: clarify environment setup
