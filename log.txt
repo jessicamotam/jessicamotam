@@ -72217,3 +72217,4 @@
 0690. 🚀 perf: lazy-load components
 0348. ✅ test: test user registration edge cases
 0884. 📚 docs: clarify environment setup
+0129. 🔧 refactor: organize models into subfolders
