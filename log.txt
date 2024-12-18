@@ -19488,3 +19488,4 @@
 0250. 📚 docs: update README with setup steps
 0619. ✨ feat: create admin dashboard
 0376. 🎨 style: apply consistent indentation
+0805. ♻️ chore: add GitHub actions badge
