@@ -9206,3 +9206,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0772. 🐛 fix: fix null pointer exception on login
 0368. 🚀 perf: lazy-load components
+0101. 📚 docs: clarify environment setup
