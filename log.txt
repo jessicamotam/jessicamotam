@@ -74331,3 +74331,4 @@
 0897. 🐛 fix: prevent crash on empty input
 0687. 🎨 style: remove trailing whitespace
 0615. 🐛 fix: correct typo in registration form
+0947. 📚 docs: write FAQ section
