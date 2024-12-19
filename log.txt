@@ -84133,3 +84133,4 @@
 0994. 🚀 perf: reduce image load time
 0206. 🐛 fix: handle 500 error in quiz API
 0235. 🐛 fix: fix null pointer exception on login
+0222. 🐛 fix: handle 500 error in quiz API
