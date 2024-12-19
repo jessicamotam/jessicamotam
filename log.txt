@@ -4965,3 +4965,4 @@
 0848. 📚 docs: update README with setup steps
 0124. 🎨 style: reformat files with black
 0521. 🎨 style: standardize quote style
+0278. 🔧 refactor: clean up auth middleware
