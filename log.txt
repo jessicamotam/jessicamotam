@@ -14384,3 +14384,4 @@
 0083. 🎨 style: reformat files with black
 0735. ♻️ chore: add GitHub actions badge
 0035. ✅ test: increase coverage on auth module
+0668. 🚀 perf: optimize database query for quiz results
