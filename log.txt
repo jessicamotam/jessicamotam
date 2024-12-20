@@ -9718,3 +9718,4 @@
 0010. ✨ feat: add user authentication
 0362. 📚 docs: add API usage examples
 0068. 🐛 fix: fix null pointer exception on login
+0395. 📚 docs: write FAQ section
