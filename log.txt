@@ -22696,3 +22696,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0198. 📚 docs: clarify environment setup
 0372. ✨ feat: add user authentication
+0829. 🔧 refactor: organize models into subfolders
