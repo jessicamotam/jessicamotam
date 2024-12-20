@@ -44343,3 +44343,4 @@
 0833. ✨ feat: add user authentication
 0092. 🚀 perf: reduce image load time
 0387. ✨ feat: enable dark mode toggle
+0572. ✨ feat: add user authentication
