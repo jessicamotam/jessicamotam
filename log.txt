@@ -82513,3 +82513,4 @@
 0262. 🎨 style: remove trailing whitespace
 0620. ✨ feat: implement quiz timer feature
 0825. 🔧 refactor: split large controller into smaller functions
+0217. 🚀 perf: reduce image load time
