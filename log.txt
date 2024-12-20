@@ -67223,3 +67223,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0482. ✨ feat: add export to CSV option
 0602. 🔧 refactor: remove redundant code blocks
+0431. 🎨 style: reformat files with black
