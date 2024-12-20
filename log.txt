@@ -14491,3 +14491,4 @@
 0249. ✅ test: increase coverage on auth module
 0820. 📚 docs: add API usage examples
 0345. 📚 docs: document token refresh logic
+0938. 🎨 style: rename variables for clarity
