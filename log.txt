@@ -56043,3 +56043,4 @@
 0574. ✨ feat: enable dark mode toggle
 0199. ✨ feat: create admin dashboard
 0064. 📚 docs: clarify environment setup
+0319. 🐛 fix: handle 500 error in quiz API
