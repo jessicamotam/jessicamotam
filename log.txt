@@ -50662,3 +50662,4 @@
 0689. 🎨 style: reformat files with black
 0756. ✨ feat: support email verification
 0801. ✨ feat: enable dark mode toggle
+0779. 🔧 refactor: organize models into subfolders
