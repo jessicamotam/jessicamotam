@@ -29741,3 +29741,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0686. 🎨 style: standardize quote style
 0482. ✨ feat: add export to CSV option
+0147. ♻️ chore: bump dependencies
