@@ -19526,3 +19526,4 @@
 0786. ✨ feat: enable dark mode toggle
 0054. ♻️ chore: update .gitignore
 0430. 🐛 fix: fix null pointer exception on login
+0670. ✨ feat: add export to CSV option
