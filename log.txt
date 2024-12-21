@@ -43952,3 +43952,4 @@
 0518. ✨ feat: support email verification
 0762. 🚀 perf: lazy-load components
 0851. ✅ test: mock database connection in test suite
+0361. ✨ feat: support email verification
