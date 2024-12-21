@@ -12371,3 +12371,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0316. 🐛 fix: fix broken CSS in mobile view
 0793. 📚 docs: clarify environment setup
+0299. 🐛 fix: resolve issue with date parsing
