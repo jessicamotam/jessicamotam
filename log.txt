@@ -34907,3 +34907,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0922. 📚 docs: write FAQ section
 0598. 🔧 refactor: remove redundant code blocks
+0110. 🐛 fix: prevent crash on empty input
