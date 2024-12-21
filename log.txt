@@ -78957,3 +78957,4 @@
 0336. ✨ feat: add export to CSV option
 0896. 🚀 perf: reduce image load time
 0044. ✅ test: add unit test for quiz service
+0206. 🐛 fix: handle 500 error in quiz API
