@@ -71085,3 +71085,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0214. 📚 docs: improve code comments in utils
 0812. 🔧 refactor: refactor quiz grading logic
+0399. ✅ test: mock database connection in test suite
