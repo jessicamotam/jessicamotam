@@ -23659,3 +23659,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0910. 🎨 style: remove trailing whitespace
 0092. 🚀 perf: reduce image load time
+0725. 🚀 perf: lazy-load components
