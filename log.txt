@@ -86101,3 +86101,4 @@
 0167. 🚀 perf: reduce image load time
 0425. 🔧 refactor: refactor quiz grading logic
 0342. 🚀 perf: cache repeated calculations
+0375. 🐛 fix: handle 500 error in quiz API
