@@ -67871,3 +67871,4 @@
 0176. 🔧 refactor: remove redundant code blocks
 0673. 🐛 fix: correct typo in registration form
 0408. ♻️ chore: add GitHub actions badge
+0607. 🐛 fix: prevent crash on empty input
