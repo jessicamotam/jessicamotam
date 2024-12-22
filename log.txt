@@ -59316,3 +59316,4 @@
 0353. ♻️ chore: rename env.example
 0965. 🎨 style: reformat files with black
 0923. ✨ feat: support email verification
+0443. 🎨 style: standardize quote style
