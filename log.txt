@@ -8409,3 +8409,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0561. 📚 docs: write FAQ section
 0450. 🐛 fix: fix broken CSS in mobile view
+0272. 🔧 refactor: remove redundant code blocks
