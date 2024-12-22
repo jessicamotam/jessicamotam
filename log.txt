@@ -29371,3 +29371,4 @@
 0347. ♻️ chore: update .gitignore
 0147. ♻️ chore: bump dependencies
 0895. ✨ feat: support email verification
+0683. ✅ test: mock database connection in test suite
