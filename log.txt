@@ -70410,3 +70410,4 @@
 0704. 🚀 perf: cache repeated calculations
 0797. 📚 docs: add API usage examples
 0466. 🚀 perf: optimize database query for quiz results
+0081. 🐛 fix: fix null pointer exception on login
