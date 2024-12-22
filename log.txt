@@ -77553,3 +77553,4 @@
 0971. 🎨 style: standardize quote style
 0989. 📚 docs: write FAQ section
 0190. 🎨 style: rename variables for clarity
+0305. ✨ feat: enable dark mode toggle
