@@ -36687,3 +36687,4 @@
 0172. 📚 docs: add API usage examples
 0689. 🎨 style: reformat files with black
 0735. ♻️ chore: add GitHub actions badge
+0115. 🚀 perf: reduce image load time
