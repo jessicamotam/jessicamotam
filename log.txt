@@ -64331,3 +64331,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0312. ✨ feat: add user authentication
 0533. ♻️ chore: add GitHub actions badge
+0482. ✨ feat: add export to CSV option
