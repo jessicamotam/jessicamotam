@@ -32378,3 +32378,4 @@
 0965. 🎨 style: reformat files with black
 0666. 🐛 fix: fix broken CSS in mobile view
 0174. 📚 docs: clarify environment setup
+0506. 🐛 fix: handle 500 error in quiz API
