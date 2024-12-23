@@ -43622,3 +43622,4 @@
 0197. 📚 docs: update README with setup steps
 0764. ✨ feat: add user authentication
 0527. 🎨 style: remove trailing whitespace
+0775. 🐛 fix: fix null pointer exception on login
