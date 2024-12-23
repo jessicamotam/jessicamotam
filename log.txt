@@ -20387,3 +20387,4 @@
 0764. ✨ feat: add user authentication
 0281. ✨ feat: support email verification
 0729. 🔧 refactor: refactor quiz grading logic
+0475. 🔧 refactor: clean up auth middleware
