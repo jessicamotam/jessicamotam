@@ -79251,3 +79251,4 @@
 0250. 📚 docs: update README with setup steps
 0477. 🐛 fix: fix broken CSS in mobile view
 0835. 🐛 fix: prevent crash on empty input
+0268. 🐛 fix: prevent crash on empty input
