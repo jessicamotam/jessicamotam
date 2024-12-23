@@ -39175,3 +39175,4 @@
 0227. ✅ test: test user registration edge cases
 0648. ♻️ chore: bump dependencies
 0937. 🐛 fix: handle 500 error in quiz API
+0826. 📚 docs: clarify environment setup
