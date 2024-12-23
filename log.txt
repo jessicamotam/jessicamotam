@@ -84496,3 +84496,4 @@
 0850. ♻️ chore: rename env.example
 0679. ♻️ chore: bump dependencies
 0498. ✅ test: mock database connection in test suite
+0109. 🚀 perf: lazy-load components
