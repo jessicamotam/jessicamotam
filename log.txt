@@ -53443,3 +53443,4 @@
 0637. 🎨 style: apply consistent indentation
 0987. ✨ feat: create admin dashboard
 0194. 🎨 style: standardize quote style
+0703. 🔧 refactor: clean up auth middleware
