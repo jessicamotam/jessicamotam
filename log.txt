@@ -72169,3 +72169,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0452. ✨ feat: implement quiz timer feature
 0453. 🎨 style: standardize quote style
+0978. 🐛 fix: prevent crash on empty input
