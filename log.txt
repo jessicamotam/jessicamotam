@@ -28122,3 +28122,4 @@
 0745. ✅ test: add unit test for quiz service
 0948. 🐛 fix: fix broken CSS in mobile view
 0579. 📚 docs: clarify environment setup
+0944. ✨ feat: add user authentication
