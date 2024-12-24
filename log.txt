@@ -25691,3 +25691,4 @@
 0499. 🎨 style: reformat files with black
 0430. 🐛 fix: fix null pointer exception on login
 0667. ✨ feat: add export to CSV option
+0804. ♻️ chore: add GitHub actions badge
