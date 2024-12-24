@@ -54209,3 +54209,4 @@
 0667. ✨ feat: add export to CSV option
 0129. 🔧 refactor: organize models into subfolders
 0420. 🚀 perf: reduce image load time
+0596. ♻️ chore: update .gitignore
