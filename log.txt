@@ -5958,3 +5958,4 @@
 0707. 🎨 style: apply consistent indentation
 0531. 🐛 fix: prevent crash on empty input
 0458. ✨ feat: create admin dashboard
+0967. ♻️ chore: add GitHub actions badge
