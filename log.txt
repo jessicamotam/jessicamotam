@@ -55,3 +55,4 @@
 0458. ✨ feat: create admin dashboard
 0965. 🎨 style: reformat files with black
 0662. ♻️ chore: clean up unused files
+0433. 🐛 fix: prevent crash on empty input
