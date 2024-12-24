@@ -22716,3 +22716,4 @@
 0631. ✨ feat: create admin dashboard
 0055. 📚 docs: update README with setup steps
 0434. 📚 docs: document token refresh logic
+0834. ✅ test: increase coverage on auth module
