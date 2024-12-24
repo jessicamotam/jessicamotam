@@ -72197,3 +72197,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0666. 🐛 fix: fix broken CSS in mobile view
 0478. 🐛 fix: resolve issue with date parsing
+0320. 📚 docs: update README with setup steps
