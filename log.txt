@@ -2143,3 +2143,4 @@
 0904. ✨ feat: implement quiz timer feature
 0576. ♻️ chore: update .gitignore
 0608. 🔧 refactor: remove redundant code blocks
+0339. 📚 docs: update README with setup steps
