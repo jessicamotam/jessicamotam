@@ -43504,3 +43504,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0003. ✅ test: increase coverage on auth module
 0721. 🚀 perf: optimize database query for quiz results
+0844. 📚 docs: update README with setup steps
