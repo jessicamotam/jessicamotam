@@ -50594,3 +50594,4 @@
 0975. 🎨 style: apply consistent indentation
 0281. ✨ feat: support email verification
 0605. ✨ feat: support email verification
+0826. 📚 docs: clarify environment setup
