@@ -5451,3 +5451,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0383. 🐛 fix: fix broken CSS in mobile view
 0401. 🚀 perf: reduce image load time
+0153. ♻️ chore: rename env.example
