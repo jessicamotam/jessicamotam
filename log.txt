@@ -20344,3 +20344,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0641. 📚 docs: write FAQ section
 0547. 📚 docs: write FAQ section
+0493. ✨ feat: add user authentication
