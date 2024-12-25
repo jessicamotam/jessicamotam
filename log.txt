@@ -11532,3 +11532,4 @@
 0593. 🐛 fix: correct typo in registration form
 0086. 🐛 fix: correct typo in registration form
 0471. ✨ feat: support email verification
+0882. 🚀 perf: optimize database query for quiz results
