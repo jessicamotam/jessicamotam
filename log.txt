@@ -50660,3 +50660,4 @@
 0662. ♻️ chore: clean up unused files
 0147. ♻️ chore: bump dependencies
 0689. 🎨 style: reformat files with black
+0756. ✨ feat: support email verification
