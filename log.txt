@@ -21650,3 +21650,4 @@
 0021. ✨ feat: support email verification
 0774. 🔧 refactor: refactor quiz grading logic
 0491. 🚀 perf: lazy-load components
+0096. 🐛 fix: prevent crash on empty input
