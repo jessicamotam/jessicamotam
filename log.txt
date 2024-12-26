@@ -50209,3 +50209,4 @@
 0997. ✅ test: increase coverage on auth module
 0682. ♻️ chore: rename env.example
 0630. 🚀 perf: lazy-load components
+0243. 🔧 refactor: clean up auth middleware
