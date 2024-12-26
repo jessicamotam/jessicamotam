@@ -81077,3 +81077,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0750. 🎨 style: apply consistent indentation
 0473. 📚 docs: write FAQ section
+0474. ✅ test: add unit test for quiz service
