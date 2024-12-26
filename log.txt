@@ -77104,3 +77104,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0648. ♻️ chore: bump dependencies
 0810. 🔧 refactor: refactor quiz grading logic
+0791. 🔧 refactor: clean up auth middleware
