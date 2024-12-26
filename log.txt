@@ -11633,3 +11633,4 @@
 0699. 🎨 style: standardize quote style
 0352. ✨ feat: add export to CSV option
 0852. ✨ feat: enable dark mode toggle
+0462. ♻️ chore: update .gitignore
