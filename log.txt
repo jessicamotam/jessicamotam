@@ -77433,3 +77433,4 @@
 0398. 🚀 perf: cache repeated calculations
 0409. 🚀 perf: lazy-load components
 0697. ♻️ chore: bump dependencies
+0572. ✨ feat: add user authentication
