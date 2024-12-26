@@ -45304,3 +45304,4 @@
 0116. ✨ feat: support email verification
 0271. ✅ test: add unit test for quiz service
 0949. 📚 docs: write FAQ section
+0409. 🚀 perf: lazy-load components
