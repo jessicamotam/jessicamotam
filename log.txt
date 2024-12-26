@@ -13086,3 +13086,4 @@
 0862. ♻️ chore: bump dependencies
 0002. 🚀 perf: cache repeated calculations
 0092. 🚀 perf: reduce image load time
+0922. 📚 docs: write FAQ section
