@@ -85597,3 +85597,4 @@
 0109. 🚀 perf: lazy-load components
 0607. 🐛 fix: prevent crash on empty input
 0254. 🚀 perf: reduce image load time
+0748. 🚀 perf: optimize database query for quiz results
