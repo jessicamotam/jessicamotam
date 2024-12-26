@@ -199,3 +199,4 @@
 0604. 📚 docs: add API usage examples
 0041. 🐛 fix: fix broken CSS in mobile view
 0142. ✨ feat: implement quiz timer feature
+0250. 📚 docs: update README with setup steps
