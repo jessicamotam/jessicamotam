@@ -14155,3 +14155,4 @@
 0142. ✨ feat: implement quiz timer feature
 0140. 🐛 fix: handle 500 error in quiz API
 0147. ♻️ chore: bump dependencies
+0305. ✨ feat: enable dark mode toggle
