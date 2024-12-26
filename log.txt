@@ -86740,3 +86740,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0938. 🎨 style: rename variables for clarity
 0875. ✅ test: increase coverage on auth module
+0849. 🐛 fix: correct typo in registration form
