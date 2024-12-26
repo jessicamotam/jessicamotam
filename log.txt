@@ -89464,3 +89464,4 @@
 0108. 🎨 style: remove trailing whitespace
 0635. 🎨 style: apply consistent indentation
 0394. 🚀 perf: lazy-load components
+0618. ✨ feat: support email verification
