@@ -2941,3 +2941,4 @@
 0715. ✨ feat: create admin dashboard
 0190. 🎨 style: rename variables for clarity
 0767. 🔧 refactor: remove redundant code blocks
+0764. ✨ feat: add user authentication
