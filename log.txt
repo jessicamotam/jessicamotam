@@ -27837,3 +27837,4 @@
 0203. 🚀 perf: lazy-load components
 0126. 🎨 style: rename variables for clarity
 0990. ♻️ chore: rename env.example
+0091. ✨ feat: add user authentication
