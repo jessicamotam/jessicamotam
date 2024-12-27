@@ -62142,3 +62142,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0455. ♻️ chore: clean up unused files
 0904. ✨ feat: implement quiz timer feature
+0107. 🐛 fix: prevent crash on empty input
