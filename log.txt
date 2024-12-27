@@ -25658,3 +25658,4 @@
 0659. 📚 docs: add API usage examples
 0311. 🎨 style: apply consistent indentation
 0636. ✅ test: increase coverage on auth module
+0234. ♻️ chore: rename env.example
