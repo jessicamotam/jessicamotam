@@ -84653,3 +84653,4 @@
 0519. 📚 docs: document token refresh logic
 0632. 🎨 style: remove trailing whitespace
 0357. ✅ test: add unit test for quiz service
+0893. 🐛 fix: handle 500 error in quiz API
