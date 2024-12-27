@@ -43624,3 +43624,4 @@
 0527. 🎨 style: remove trailing whitespace
 0775. 🐛 fix: fix null pointer exception on login
 0677. 📚 docs: add API usage examples
+0453. 🎨 style: standardize quote style
