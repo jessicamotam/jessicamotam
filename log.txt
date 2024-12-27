@@ -66330,3 +66330,4 @@
 0577. ✨ feat: implement quiz timer feature
 0325. 🎨 style: rename variables for clarity
 0397. 🐛 fix: handle 500 error in quiz API
+0642. 🚀 perf: optimize database query for quiz results
