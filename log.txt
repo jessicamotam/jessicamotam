@@ -5775,3 +5775,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0412. ✅ test: increase coverage on auth module
 0334. 🚀 perf: cache repeated calculations
+0180. ✨ feat: add export to CSV option
