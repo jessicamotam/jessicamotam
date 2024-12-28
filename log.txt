@@ -40648,3 +40648,4 @@
 0189. 📚 docs: clarify environment setup
 0088. 📚 docs: add API usage examples
 0471. ✨ feat: support email verification
+0287. 📚 docs: write FAQ section
