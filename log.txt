@@ -31311,3 +31311,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0194. 🎨 style: standardize quote style
 0665. ♻️ chore: update .gitignore
+0781. 🚀 perf: reduce image load time
