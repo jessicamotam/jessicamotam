@@ -89188,3 +89188,4 @@
 0769. ✨ feat: create admin dashboard
 0507. 🔧 refactor: clean up auth middleware
 0255. 🔧 refactor: refactor quiz grading logic
+0220. 🐛 fix: fix null pointer exception on login
