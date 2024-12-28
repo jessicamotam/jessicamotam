@@ -7186,3 +7186,4 @@
 0567. 📚 docs: add API usage examples
 0278. 🔧 refactor: clean up auth middleware
 0129. 🔧 refactor: organize models into subfolders
+0965. 🎨 style: reformat files with black
