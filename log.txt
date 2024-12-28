@@ -89465,3 +89465,4 @@
 0635. 🎨 style: apply consistent indentation
 0394. 🚀 perf: lazy-load components
 0618. ✨ feat: support email verification
+0428. 🐛 fix: fix null pointer exception on login
