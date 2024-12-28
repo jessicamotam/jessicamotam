@@ -34424,3 +34424,4 @@
 0076. 🎨 style: reformat files with black
 0420. 🚀 perf: reduce image load time
 0724. ✅ test: mock database connection in test suite
+0194. 🎨 style: standardize quote style
