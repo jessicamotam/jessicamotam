@@ -63740,3 +63740,4 @@
 0277. 🎨 style: standardize quote style
 0593. 🐛 fix: correct typo in registration form
 0784. ♻️ chore: clean up unused files
+0281. ✨ feat: support email verification
