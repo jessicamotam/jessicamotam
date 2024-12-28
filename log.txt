@@ -59343,3 +59343,4 @@
 0537. 🔧 refactor: remove redundant code blocks
 0561. 📚 docs: write FAQ section
 0821. ✅ test: add integration test for /submit endpoint
+0749. ✨ feat: support email verification
