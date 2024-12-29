@@ -83333,3 +83333,4 @@
 0050. ✨ feat: enable dark mode toggle
 0823. ✨ feat: add user authentication
 0090. ✅ test: increase coverage on auth module
+0207. 🐛 fix: prevent crash on empty input
