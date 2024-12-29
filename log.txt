@@ -35070,3 +35070,4 @@
 0560. 🎨 style: rename variables for clarity
 0329. 📚 docs: update README with setup steps
 0201. 🔧 refactor: clean up auth middleware
+0778. 📚 docs: write FAQ section
