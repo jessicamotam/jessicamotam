@@ -3083,3 +3083,4 @@
 0847. ♻️ chore: clean up unused files
 0787. ♻️ chore: rename env.example
 0170. ✅ test: increase coverage on auth module
+0368. 🚀 perf: lazy-load components
