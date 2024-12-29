@@ -44849,3 +44849,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0370. 🚀 perf: reduce image load time
 0482. ✨ feat: add export to CSV option
+0845. 🚀 perf: cache repeated calculations
