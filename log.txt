@@ -51271,3 +51271,4 @@
 0848. 📚 docs: update README with setup steps
 0432. 🎨 style: apply consistent indentation
 0515. 🚀 perf: optimize database query for quiz results
+0260. ✨ feat: create admin dashboard
