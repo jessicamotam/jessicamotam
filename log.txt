@@ -89750,3 +89750,4 @@
 0213. ✅ test: add integration test for /submit endpoint
 0463. 🚀 perf: reduce image load time
 0248. 🐛 fix: handle 500 error in quiz API
+0824. 🚀 perf: lazy-load components
