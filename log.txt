@@ -9827,3 +9827,4 @@
 0410. 🎨 style: reformat files with black
 0239. 🎨 style: standardize quote style
 0474. ✅ test: add unit test for quiz service
+0233. 🚀 perf: lazy-load components
