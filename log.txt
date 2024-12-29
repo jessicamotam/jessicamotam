@@ -23825,3 +23825,4 @@
 0798. 🚀 perf: reduce image load time
 0217. 🚀 perf: reduce image load time
 0667. ✨ feat: add export to CSV option
+0325. 🎨 style: rename variables for clarity
