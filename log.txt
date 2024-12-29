@@ -87547,3 +87547,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0022. 📚 docs: document token refresh logic
 0703. 🔧 refactor: clean up auth middleware
+0914. ✅ test: test user registration edge cases
