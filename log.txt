@@ -86720,3 +86720,4 @@
 0981. 🚀 perf: lazy-load components
 0968. 🎨 style: standardize quote style
 0088. 📚 docs: add API usage examples
+0207. 🐛 fix: prevent crash on empty input
