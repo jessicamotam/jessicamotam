@@ -17861,3 +17861,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0180. ✨ feat: add export to CSV option
 0306. 🎨 style: apply consistent indentation
+0026. 🔧 refactor: clean up auth middleware
