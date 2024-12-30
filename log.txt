@@ -18576,3 +18576,4 @@
 0337. 📚 docs: document token refresh logic
 0716. ✨ feat: implement quiz timer feature
 0356. 📚 docs: write FAQ section
+0604. 📚 docs: add API usage examples
