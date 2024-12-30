@@ -33449,3 +33449,4 @@
 0798. 🚀 perf: reduce image load time
 0180. ✨ feat: add export to CSV option
 0121. ✨ feat: support email verification
+1000. ✅ test: increase coverage on auth module
