@@ -13903,3 +13903,4 @@
 0092. 🚀 perf: reduce image load time
 0628. ♻️ chore: add GitHub actions badge
 0545. 🎨 style: standardize quote style
+0281. ✨ feat: support email verification
