@@ -5918,3 +5918,4 @@
 0994. 🚀 perf: reduce image load time
 0478. 🐛 fix: resolve issue with date parsing
 0813. 🔧 refactor: organize models into subfolders
+0738. 🐛 fix: prevent crash on empty input
