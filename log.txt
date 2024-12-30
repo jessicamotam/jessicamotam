@@ -17286,3 +17286,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0828. ♻️ chore: add GitHub actions badge
 0068. 🐛 fix: fix null pointer exception on login
+0336. ✨ feat: add export to CSV option
