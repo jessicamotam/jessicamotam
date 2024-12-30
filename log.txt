@@ -83617,3 +83617,4 @@
 0677. 📚 docs: add API usage examples
 0100. ♻️ chore: update .gitignore
 0706. ✨ feat: support email verification
+0394. 🚀 perf: lazy-load components
