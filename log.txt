@@ -44861,3 +44861,4 @@
 0230. ✨ feat: create admin dashboard
 0655. 🚀 perf: cache repeated calculations
 0804. ♻️ chore: add GitHub actions badge
+0848. 📚 docs: update README with setup steps
