@@ -32889,3 +32889,4 @@
 0679. ♻️ chore: bump dependencies
 0421. 🔧 refactor: split large controller into smaller functions
 0821. ✅ test: add integration test for /submit endpoint
+0756. ✨ feat: support email verification
