@@ -16747,3 +16747,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0911. ✅ test: increase coverage on auth module
 0383. 🐛 fix: fix broken CSS in mobile view
+0406. ✨ feat: add export to CSV option
