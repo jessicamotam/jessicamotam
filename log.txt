@@ -43693,3 +43693,4 @@
 0990. ♻️ chore: rename env.example
 0833. ✨ feat: add user authentication
 0009. ✨ feat: enable dark mode toggle
+0196. ♻️ chore: bump dependencies
