@@ -12513,3 +12513,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0934. ✨ feat: support email verification
 0254. 🚀 perf: reduce image load time
+0549. ✨ feat: enable dark mode toggle
