@@ -26294,3 +26294,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0128. ♻️ chore: rename env.example
 0293. ✅ test: add integration test for /submit endpoint
+0335. ♻️ chore: update .gitignore
