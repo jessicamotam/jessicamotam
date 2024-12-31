@@ -3921,3 +3921,4 @@
 0254. 🚀 perf: reduce image load time
 0555. ✨ feat: create admin dashboard
 0239. 🎨 style: standardize quote style
+0600. 🐛 fix: prevent crash on empty input
