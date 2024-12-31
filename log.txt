@@ -2442,3 +2442,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0862. ♻️ chore: bump dependencies
 0013. ✅ test: increase coverage on auth module
+0755. 🚀 perf: cache repeated calculations
