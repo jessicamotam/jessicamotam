@@ -80936,3 +80936,4 @@
 0476. 🚀 perf: reduce image load time
 0417. 🎨 style: rename variables for clarity
 0950. 🎨 style: reformat files with black
+0546. 🐛 fix: fix null pointer exception on login
