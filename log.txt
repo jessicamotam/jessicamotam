@@ -48636,3 +48636,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0600. 🐛 fix: prevent crash on empty input
 0042. 📚 docs: document token refresh logic
+0144. ✅ test: increase coverage on auth module
