@@ -49718,3 +49718,4 @@
 0180. ✨ feat: add export to CSV option
 0287. 📚 docs: write FAQ section
 0073. 🔧 refactor: split large controller into smaller functions
+0041. 🐛 fix: fix broken CSS in mobile view
