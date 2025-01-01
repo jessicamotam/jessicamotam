@@ -39601,3 +39601,4 @@
 0934. ✨ feat: support email verification
 0822. 🔧 refactor: remove redundant code blocks
 0388. 🎨 style: reformat files with black
+0887. 📚 docs: add API usage examples
