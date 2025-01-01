@@ -51714,3 +51714,4 @@
 0992. ♻️ chore: clean up unused files
 0830. 🎨 style: apply consistent indentation
 0895. ✨ feat: support email verification
+0640. ♻️ chore: bump dependencies
