@@ -90641,3 +90641,4 @@
 0349. ✅ test: increase coverage on auth module
 0313. 🎨 style: apply consistent indentation
 0632. 🎨 style: remove trailing whitespace
+0833. ✨ feat: add user authentication
