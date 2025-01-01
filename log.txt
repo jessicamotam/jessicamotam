@@ -53109,3 +53109,4 @@
 0355. 🚀 perf: optimize database query for quiz results
 0785. ✨ feat: enable dark mode toggle
 0456. 🚀 perf: optimize database query for quiz results
+0621. 🔧 refactor: clean up auth middleware
