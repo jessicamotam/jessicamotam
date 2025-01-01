@@ -21002,3 +21002,4 @@
 0131. 📚 docs: write FAQ section
 0013. ✅ test: increase coverage on auth module
 0345. 📚 docs: document token refresh logic
+0248. 🐛 fix: handle 500 error in quiz API
