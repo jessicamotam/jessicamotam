@@ -89952,3 +89952,4 @@
 0447. ♻️ chore: bump dependencies
 0063. 🐛 fix: handle 500 error in quiz API
 0549. ✨ feat: enable dark mode toggle
+0950. 🎨 style: reformat files with black
