@@ -41234,3 +41234,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0597. 🚀 perf: cache repeated calculations
 0705. 🔧 refactor: refactor quiz grading logic
+0024. 📚 docs: write FAQ section
