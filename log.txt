@@ -22061,3 +22061,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0994. 🚀 perf: reduce image load time
 0702. ✨ feat: add user authentication
+0372. ✨ feat: add user authentication
