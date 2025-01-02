@@ -60920,3 +60920,4 @@
 0399. ✅ test: mock database connection in test suite
 0354. 📚 docs: add API usage examples
 0793. 📚 docs: clarify environment setup
+0518. ✨ feat: support email verification
