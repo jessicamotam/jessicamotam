@@ -31942,3 +31942,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0157. ✅ test: mock database connection in test suite
 0719. 🎨 style: apply consistent indentation
+0406. ✨ feat: add export to CSV option
