@@ -84206,3 +84206,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0559. 🔧 refactor: split large controller into smaller functions
 0312. ✨ feat: add user authentication
+0588. 🔧 refactor: organize models into subfolders
