@@ -14275,3 +14275,4 @@
 0780. 📚 docs: add API usage examples
 0021. ✨ feat: support email verification
 0020. ✅ test: add integration test for /submit endpoint
+0885. ♻️ chore: update .gitignore
