@@ -65528,3 +65528,4 @@
 0486. ✨ feat: add export to CSV option
 0137. 🎨 style: rename variables for clarity
 0649. 📚 docs: update README with setup steps
+0895. ✨ feat: support email verification
