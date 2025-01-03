@@ -14317,3 +14317,4 @@
 0851. ✅ test: mock database connection in test suite
 0135. ✅ test: test user registration edge cases
 0618. ✨ feat: support email verification
+0787. ♻️ chore: rename env.example
