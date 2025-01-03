@@ -22390,3 +22390,4 @@
 0843. 📚 docs: document token refresh logic
 0053. ✅ test: increase coverage on auth module
 0374. 🎨 style: standardize quote style
+0978. 🐛 fix: prevent crash on empty input
