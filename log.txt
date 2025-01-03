@@ -27685,3 +27685,4 @@
 0575. ✅ test: add unit test for quiz service
 0341. 🚀 perf: lazy-load components
 0349. ✅ test: increase coverage on auth module
+0558. ✨ feat: enable dark mode toggle
