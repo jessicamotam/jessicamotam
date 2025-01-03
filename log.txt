@@ -59164,3 +59164,4 @@
 0221. ✨ feat: add user authentication
 0879. 🎨 style: standardize quote style
 0905. ♻️ chore: bump dependencies
+0787. ♻️ chore: rename env.example
