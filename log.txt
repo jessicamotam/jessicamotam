@@ -18875,3 +18875,4 @@
 0100. ♻️ chore: update .gitignore
 0509. ♻️ chore: bump dependencies
 0849. 🐛 fix: correct typo in registration form
+0520. 🐛 fix: fix null pointer exception on login
