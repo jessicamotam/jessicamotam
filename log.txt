@@ -55270,3 +55270,4 @@
 0572. ✨ feat: add user authentication
 0932. ✅ test: add integration test for /submit endpoint
 0892. ✅ test: add unit test for quiz service
+0256. ✅ test: mock database connection in test suite
