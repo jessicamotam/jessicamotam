@@ -76624,3 +76624,4 @@
 0497. 🔧 refactor: refactor quiz grading logic
 0812. 🔧 refactor: refactor quiz grading logic
 0418. ✅ test: mock database connection in test suite
+0625. 🐛 fix: handle 500 error in quiz API
