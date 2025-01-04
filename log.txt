@@ -86722,3 +86722,4 @@
 0088. 📚 docs: add API usage examples
 0207. 🐛 fix: prevent crash on empty input
 0991. ♻️ chore: clean up unused files
+0252. 🎨 style: remove trailing whitespace
