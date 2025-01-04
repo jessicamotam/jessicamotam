@@ -15464,3 +15464,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0960. ✅ test: increase coverage on auth module
 0307. ✨ feat: support email verification
+0188. 🎨 style: apply consistent indentation
