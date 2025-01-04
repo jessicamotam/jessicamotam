@@ -67519,3 +67519,4 @@
 0303. 🎨 style: rename variables for clarity
 0172. 📚 docs: add API usage examples
 0991. ♻️ chore: clean up unused files
+0384. 📚 docs: clarify environment setup
