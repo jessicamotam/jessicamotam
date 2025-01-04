@@ -1681,3 +1681,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0172. 📚 docs: add API usage examples
 0556. ✨ feat: support email verification
+0844. 📚 docs: update README with setup steps
