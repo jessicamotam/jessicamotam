@@ -35300,3 +35300,4 @@
 0324. 📚 docs: document token refresh logic
 0594. 🎨 style: reformat files with black
 0549. ✨ feat: enable dark mode toggle
+0649. 📚 docs: update README with setup steps
