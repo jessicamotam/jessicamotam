@@ -67071,3 +67071,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0487. 🎨 style: reformat files with black
 0221. ✨ feat: add user authentication
+0092. 🚀 perf: reduce image load time
