@@ -4391,3 +4391,4 @@
 0975. 🎨 style: apply consistent indentation
 0890. 🔧 refactor: organize models into subfolders
 0520. 🐛 fix: fix null pointer exception on login
+0315. ✅ test: add integration test for /submit endpoint
