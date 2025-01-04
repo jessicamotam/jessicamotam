@@ -52699,3 +52699,4 @@
 0637. 🎨 style: apply consistent indentation
 0542. 🔧 refactor: organize models into subfolders
 0235. 🐛 fix: fix null pointer exception on login
+0593. 🐛 fix: correct typo in registration form
