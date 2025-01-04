@@ -33154,3 +33154,4 @@
 0144. ✅ test: increase coverage on auth module
 0164. 📚 docs: document token refresh logic
 0603. 🐛 fix: fix broken CSS in mobile view
+0590. 🐛 fix: fix null pointer exception on login
