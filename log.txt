@@ -43139,3 +43139,4 @@
 0271. ✅ test: add unit test for quiz service
 0394. 🚀 perf: lazy-load components
 0205. 📚 docs: update README with setup steps
+0107. 🐛 fix: prevent crash on empty input
