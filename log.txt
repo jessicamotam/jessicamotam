@@ -31218,3 +31218,4 @@
 0786. ✨ feat: enable dark mode toggle
 0470. 🎨 style: remove trailing whitespace
 0798. 🚀 perf: reduce image load time
+0973. 🔧 refactor: organize models into subfolders
