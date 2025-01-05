@@ -14508,3 +14508,4 @@
 0499. 🎨 style: reformat files with black
 0373. 📚 docs: document token refresh logic
 0645. 🐛 fix: resolve issue with date parsing
+0586. 🎨 style: remove trailing whitespace
