@@ -43708,3 +43708,4 @@
 0790. 📚 docs: write FAQ section
 0023. 📚 docs: clarify environment setup
 0230. ✨ feat: create admin dashboard
+0795. 📚 docs: update README with setup steps
