@@ -61502,3 +61502,4 @@
 0785. ✨ feat: enable dark mode toggle
 0397. 🐛 fix: handle 500 error in quiz API
 0440. 📚 docs: update README with setup steps
+0472. 🐛 fix: fix null pointer exception on login
