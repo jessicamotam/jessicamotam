@@ -89752,3 +89752,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0824. 🚀 perf: lazy-load components
 0838. 🎨 style: standardize quote style
+0006. 🐛 fix: prevent crash on empty input
