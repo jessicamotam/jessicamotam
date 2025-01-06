@@ -2287,3 +2287,4 @@
 0861. ♻️ chore: clean up unused files
 0146. 🎨 style: apply consistent indentation
 0710. 🐛 fix: fix broken CSS in mobile view
+0660. 🐛 fix: correct typo in registration form
