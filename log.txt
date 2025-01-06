@@ -13685,3 +13685,4 @@
 0832. 🔧 refactor: remove redundant code blocks
 0031. 📚 docs: document token refresh logic
 0717. 🔧 refactor: refactor quiz grading logic
+0660. 🐛 fix: correct typo in registration form
