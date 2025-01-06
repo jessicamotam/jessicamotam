@@ -37125,3 +37125,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0574. ✨ feat: enable dark mode toggle
 0436. ✅ test: add integration test for /submit endpoint
+0408. ♻️ chore: add GitHub actions badge
