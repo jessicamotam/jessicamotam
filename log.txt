@@ -38220,3 +38220,4 @@
 0923. ✨ feat: support email verification
 0978. 🐛 fix: prevent crash on empty input
 0892. ✅ test: add unit test for quiz service
+0544. 🔧 refactor: organize models into subfolders
