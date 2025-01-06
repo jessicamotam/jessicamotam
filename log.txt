@@ -70923,3 +70923,4 @@
 0715. ✨ feat: create admin dashboard
 0199. ✨ feat: create admin dashboard
 0822. 🔧 refactor: remove redundant code blocks
+0696. 🔧 refactor: clean up auth middleware
