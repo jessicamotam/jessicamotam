@@ -42865,3 +42865,4 @@
 0493. ✨ feat: add user authentication
 0455. ♻️ chore: clean up unused files
 0444. ✅ test: add unit test for quiz service
+0290. ✅ test: test user registration edge cases
