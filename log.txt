@@ -81712,3 +81712,4 @@
 0042. 📚 docs: document token refresh logic
 0217. 🚀 perf: reduce image load time
 0649. 📚 docs: update README with setup steps
+0063. 🐛 fix: handle 500 error in quiz API
