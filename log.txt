@@ -44003,3 +44003,4 @@
 0092. 🚀 perf: reduce image load time
 0158. 📚 docs: clarify environment setup
 0392. 🎨 style: remove trailing whitespace
+0140. 🐛 fix: handle 500 error in quiz API
