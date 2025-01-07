@@ -69471,3 +69471,4 @@
 0563. 📚 docs: clarify environment setup
 0775. 🐛 fix: fix null pointer exception on login
 0179. 🔧 refactor: split large controller into smaller functions
+0571. 🔧 refactor: clean up auth middleware
