@@ -915,3 +915,4 @@
 0899. 🚀 perf: cache repeated calculations
 0749. ✨ feat: support email verification
 0686. 🎨 style: standardize quote style
+0232. 🎨 style: apply consistent indentation
