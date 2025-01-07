@@ -70239,3 +70239,4 @@
 0657. 🎨 style: standardize quote style
 0398. 🚀 perf: cache repeated calculations
 0178. ✨ feat: support email verification
+0433. 🐛 fix: prevent crash on empty input
