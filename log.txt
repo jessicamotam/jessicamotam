@@ -83782,3 +83782,4 @@
 0659. 📚 docs: add API usage examples
 0214. 📚 docs: improve code comments in utils
 0614. 🚀 perf: reduce image load time
+0821. ✅ test: add integration test for /submit endpoint
