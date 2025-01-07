@@ -22471,3 +22471,4 @@
 0469. 🚀 perf: lazy-load components
 0995. ✅ test: mock database connection in test suite
 0960. ✅ test: increase coverage on auth module
+0193. 🚀 perf: optimize database query for quiz results
