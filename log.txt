@@ -53732,3 +53732,4 @@
 0473. 📚 docs: write FAQ section
 0631. ✨ feat: create admin dashboard
 0854. ♻️ chore: rename env.example
+0146. 🎨 style: apply consistent indentation
