@@ -18939,3 +18939,4 @@
 0254. 🚀 perf: reduce image load time
 0556. ✨ feat: support email verification
 0874. 🔧 refactor: split large controller into smaller functions
+0947. 📚 docs: write FAQ section
