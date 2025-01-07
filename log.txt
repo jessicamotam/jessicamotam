@@ -74851,3 +74851,4 @@
 0138. 🎨 style: rename variables for clarity
 0858. ♻️ chore: clean up unused files
 0241. 📚 docs: add API usage examples
+0791. 🔧 refactor: clean up auth middleware
