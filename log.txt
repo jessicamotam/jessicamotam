@@ -27365,3 +27365,4 @@
 0564. 📚 docs: clarify environment setup
 0140. 🐛 fix: handle 500 error in quiz API
 0220. 🐛 fix: fix null pointer exception on login
+0280. ✅ test: add integration test for /submit endpoint
