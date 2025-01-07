@@ -50989,3 +50989,4 @@
 0062. ♻️ chore: update .gitignore
 0307. ✨ feat: support email verification
 0497. 🔧 refactor: refactor quiz grading logic
+0880. 🐛 fix: fix broken CSS in mobile view
