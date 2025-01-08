@@ -72581,3 +72581,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0914. ✅ test: test user registration edge cases
 0598. 🔧 refactor: remove redundant code blocks
+0520. 🐛 fix: fix null pointer exception on login
