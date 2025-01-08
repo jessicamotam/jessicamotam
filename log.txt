@@ -34276,3 +34276,4 @@
 0022. 📚 docs: document token refresh logic
 0789. ✨ feat: create admin dashboard
 0507. 🔧 refactor: clean up auth middleware
+0548. 📚 docs: write FAQ section
