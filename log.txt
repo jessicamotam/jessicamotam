@@ -43276,3 +43276,4 @@
 0333. 🚀 perf: cache repeated calculations
 0789. ✨ feat: create admin dashboard
 0518. ✨ feat: support email verification
+0860. 🔧 refactor: organize models into subfolders
