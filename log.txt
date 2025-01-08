@@ -8938,3 +8938,4 @@
 0158. 📚 docs: clarify environment setup
 0727. ♻️ chore: add GitHub actions badge
 0025. 🚀 perf: optimize database query for quiz results
+0365. 🚀 perf: reduce image load time
