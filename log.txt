@@ -52059,3 +52059,4 @@
 0701. 🔧 refactor: clean up auth middleware
 0327. 🔧 refactor: split large controller into smaller functions
 0443. 🎨 style: standardize quote style
+0531. 🐛 fix: prevent crash on empty input
