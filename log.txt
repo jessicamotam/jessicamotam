@@ -33104,3 +33104,4 @@
 0362. 📚 docs: add API usage examples
 0462. ♻️ chore: update .gitignore
 0476. 🚀 perf: reduce image load time
+0593. 🐛 fix: correct typo in registration form
