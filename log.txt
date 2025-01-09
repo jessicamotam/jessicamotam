@@ -44489,3 +44489,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0315. ✅ test: add integration test for /submit endpoint
 0864. 🐛 fix: correct typo in registration form
+0111. 📚 docs: update README with setup steps
