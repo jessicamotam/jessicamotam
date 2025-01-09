@@ -36815,3 +36815,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0466. 🚀 perf: optimize database query for quiz results
 0424. ✨ feat: add user authentication
+0474. ✅ test: add unit test for quiz service
