@@ -79457,3 +79457,4 @@
 0327. 🔧 refactor: split large controller into smaller functions
 0529. 📚 docs: write FAQ section
 0664. ✅ test: add unit test for quiz service
+0227. ✅ test: test user registration edge cases
