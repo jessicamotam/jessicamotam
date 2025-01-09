@@ -13054,3 +13054,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0407. 🚀 perf: cache repeated calculations
 0101. 📚 docs: clarify environment setup
+0776. ✅ test: add integration test for /submit endpoint
