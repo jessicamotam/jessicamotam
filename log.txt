@@ -90003,3 +90003,4 @@
 0985. 📚 docs: document token refresh logic
 0107. 🐛 fix: prevent crash on empty input
 0895. ✨ feat: support email verification
+0660. 🐛 fix: correct typo in registration form
