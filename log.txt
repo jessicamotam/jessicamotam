@@ -71737,3 +71737,4 @@
 0986. 📚 docs: document token refresh logic
 0132. ✅ test: add unit test for quiz service
 0780. 📚 docs: add API usage examples
+0477. 🐛 fix: fix broken CSS in mobile view
