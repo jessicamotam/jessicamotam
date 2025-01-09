@@ -87552,3 +87552,4 @@
 0177. 📚 docs: add API usage examples
 0110. 🐛 fix: prevent crash on empty input
 0133. 🐛 fix: fix null pointer exception on login
+0572. ✨ feat: add user authentication
