@@ -17817,3 +17817,4 @@
 0604. 📚 docs: add API usage examples
 0374. 🎨 style: standardize quote style
 0948. 🐛 fix: fix broken CSS in mobile view
+0838. 🎨 style: standardize quote style
