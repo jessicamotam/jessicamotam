@@ -23146,3 +23146,4 @@
 0036. 🔧 refactor: clean up auth middleware
 0990. ♻️ chore: rename env.example
 0685. ✅ test: test user registration edge cases
+0790. 📚 docs: write FAQ section
