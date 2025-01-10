@@ -2610,3 +2610,4 @@
 0942. ✅ test: increase coverage on auth module
 0349. ✅ test: increase coverage on auth module
 0800. 🚀 perf: optimize database query for quiz results
+0829. 🔧 refactor: organize models into subfolders
