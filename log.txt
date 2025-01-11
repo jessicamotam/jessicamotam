@@ -25487,3 +25487,4 @@
 0501. ✨ feat: add export to CSV option
 0373. 📚 docs: document token refresh logic
 0157. ✅ test: mock database connection in test suite
+0326. 🚀 perf: cache repeated calculations
