@@ -63788,3 +63788,4 @@
 0913. 🚀 perf: optimize database query for quiz results
 0494. 🎨 style: rename variables for clarity
 0349. ✅ test: increase coverage on auth module
+0122. ✨ feat: support email verification
