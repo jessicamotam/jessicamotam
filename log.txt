@@ -20670,3 +20670,4 @@
 0657. 🎨 style: standardize quote style
 0746. ♻️ chore: add GitHub actions badge
 0083. 🎨 style: reformat files with black
+0479. 🐛 fix: fix null pointer exception on login
