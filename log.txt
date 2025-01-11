@@ -17761,3 +17761,4 @@
 0521. 🎨 style: standardize quote style
 0294. 🐛 fix: prevent crash on empty input
 0564. 📚 docs: clarify environment setup
+0958. 🐛 fix: prevent crash on empty input
