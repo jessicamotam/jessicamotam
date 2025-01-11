@@ -89292,3 +89292,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0023. 📚 docs: clarify environment setup
 0847. ♻️ chore: clean up unused files
+0105. 🐛 fix: correct typo in registration form
