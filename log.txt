@@ -30921,3 +30921,4 @@
 0790. 📚 docs: write FAQ section
 0289. 🐛 fix: resolve issue with date parsing
 0058. ♻️ chore: add GitHub actions badge
+0111. 📚 docs: update README with setup steps
