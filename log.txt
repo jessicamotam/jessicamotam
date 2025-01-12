@@ -58791,3 +58791,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0131. 📚 docs: write FAQ section
 0090. ✅ test: increase coverage on auth module
+0391. 🐛 fix: fix null pointer exception on login
