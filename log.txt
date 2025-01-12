@@ -937,3 +937,4 @@
 0297. 🎨 style: remove trailing whitespace
 0611. ✅ test: test user registration edge cases
 0833. ✨ feat: add user authentication
+0361. ✨ feat: support email verification
