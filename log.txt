@@ -83812,3 +83812,4 @@
 0641. 📚 docs: write FAQ section
 0238. 🎨 style: apply consistent indentation
 0520. 🐛 fix: fix null pointer exception on login
+0373. 📚 docs: document token refresh logic
