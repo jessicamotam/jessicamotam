@@ -21234,3 +21234,4 @@
 0794. ♻️ chore: clean up unused files
 0027. 📚 docs: clarify environment setup
 0040. 🔧 refactor: clean up auth middleware
+0107. 🐛 fix: prevent crash on empty input
