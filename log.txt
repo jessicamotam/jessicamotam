@@ -37439,3 +37439,4 @@
 0912. 📚 docs: document token refresh logic
 0333. 🚀 perf: cache repeated calculations
 0542. 🔧 refactor: organize models into subfolders
+0568. 🐛 fix: handle 500 error in quiz API
