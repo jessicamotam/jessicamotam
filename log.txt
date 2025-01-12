@@ -38586,3 +38586,4 @@
 0842. 🎨 style: remove trailing whitespace
 0437. 📚 docs: clarify environment setup
 0605. ✨ feat: support email verification
+0265. 🎨 style: reformat files with black
