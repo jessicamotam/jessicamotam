@@ -38847,3 +38847,4 @@
 0324. 📚 docs: document token refresh logic
 0633. ✨ feat: add user authentication
 0941. 🚀 perf: cache repeated calculations
+0576. ♻️ chore: update .gitignore
