@@ -85511,3 +85511,4 @@
 0131. 📚 docs: write FAQ section
 0685. ✅ test: test user registration edge cases
 0582. ✨ feat: add export to CSV option
+0923. ✨ feat: support email verification
