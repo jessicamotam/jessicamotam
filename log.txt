@@ -74133,3 +74133,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0270. ♻️ chore: rename env.example
 0391. 🐛 fix: fix null pointer exception on login
+0192. ✨ feat: enable dark mode toggle
