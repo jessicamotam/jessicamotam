@@ -75291,3 +75291,4 @@
 0622. 🎨 style: apply consistent indentation
 0052. 🎨 style: standardize quote style
 0912. 📚 docs: document token refresh logic
+0086. 🐛 fix: correct typo in registration form
