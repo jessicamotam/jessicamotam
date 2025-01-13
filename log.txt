@@ -17404,3 +17404,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0418. ✅ test: mock database connection in test suite
 0300. ✨ feat: add export to CSV option
+0287. 📚 docs: write FAQ section
