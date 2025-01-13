@@ -59887,3 +59887,4 @@
 0547. 📚 docs: write FAQ section
 0862. ♻️ chore: bump dependencies
 0904. ✨ feat: implement quiz timer feature
+0268. 🐛 fix: prevent crash on empty input
