@@ -2649,3 +2649,4 @@
 0420. 🚀 perf: reduce image load time
 0438. ♻️ chore: bump dependencies
 0006. 🐛 fix: prevent crash on empty input
+0509. ♻️ chore: bump dependencies
