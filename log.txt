@@ -64170,3 +64170,4 @@
 0230. ✨ feat: create admin dashboard
 0148. 🔧 refactor: organize models into subfolders
 0647. 🐛 fix: prevent crash on empty input
+0775. 🐛 fix: fix null pointer exception on login
