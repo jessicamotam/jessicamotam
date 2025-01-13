@@ -29228,3 +29228,4 @@
 0543. ✨ feat: support email verification
 0628. ♻️ chore: add GitHub actions badge
 0292. 📚 docs: clarify environment setup
+0808. 🚀 perf: optimize database query for quiz results
