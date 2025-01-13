@@ -62862,3 +62862,4 @@
 0384. 📚 docs: clarify environment setup
 0481. ✅ test: add unit test for quiz service
 0765. ♻️ chore: clean up unused files
+0791. 🔧 refactor: clean up auth middleware
