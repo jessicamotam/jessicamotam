@@ -9211,3 +9211,4 @@
 0481. ✅ test: add unit test for quiz service
 0049. 🐛 fix: handle 500 error in quiz API
 0920. 🔧 refactor: organize models into subfolders
+0996. ✅ test: test user registration edge cases
