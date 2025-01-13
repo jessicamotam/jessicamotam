@@ -30292,3 +30292,4 @@
 0358. 🚀 perf: reduce image load time
 0067. 🔧 refactor: remove redundant code blocks
 0952. 🔧 refactor: split large controller into smaller functions
+0525. ✅ test: mock database connection in test suite
