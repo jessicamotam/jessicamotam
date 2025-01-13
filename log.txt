@@ -77665,3 +77665,4 @@
 0839. 🎨 style: apply consistent indentation
 0105. 🐛 fix: correct typo in registration form
 0915. 🚀 perf: cache repeated calculations
+0440. 📚 docs: update README with setup steps
