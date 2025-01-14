@@ -45154,3 +45154,4 @@
 0017. ✅ test: mock database connection in test suite
 0749. ✨ feat: support email verification
 0890. 🔧 refactor: organize models into subfolders
+0803. ✅ test: mock database connection in test suite
