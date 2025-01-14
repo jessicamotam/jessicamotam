@@ -1921,3 +1921,4 @@
 0437. 📚 docs: clarify environment setup
 0449. ✅ test: add unit test for quiz service
 0972. 🔧 refactor: refactor quiz grading logic
+0761. ✅ test: add unit test for quiz service
