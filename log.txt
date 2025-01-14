@@ -74827,3 +74827,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0939. 📚 docs: update README with setup steps
 0685. ✅ test: test user registration edge cases
+0531. 🐛 fix: prevent crash on empty input
