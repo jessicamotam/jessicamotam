@@ -37196,3 +37196,4 @@
 0144. ✅ test: increase coverage on auth module
 0690. 🚀 perf: lazy-load components
 0200. 🐛 fix: handle 500 error in quiz API
+0749. ✨ feat: support email verification
