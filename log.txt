@@ -2652,3 +2652,4 @@
 0509. ♻️ chore: bump dependencies
 0409. 🚀 perf: lazy-load components
 0789. ✨ feat: create admin dashboard
+0152. ✨ feat: add user authentication
