@@ -2300,3 +2300,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0980. 🎨 style: reformat files with black
 0453. 🎨 style: standardize quote style
+0352. ✨ feat: add export to CSV option
