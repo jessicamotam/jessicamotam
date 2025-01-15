@@ -20004,3 +20004,4 @@
 0073. 🔧 refactor: split large controller into smaller functions
 0229. 🚀 perf: optimize database query for quiz results
 0470. 🎨 style: remove trailing whitespace
+0316. 🐛 fix: fix broken CSS in mobile view
