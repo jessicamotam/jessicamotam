@@ -15306,3 +15306,4 @@
 0996. ✅ test: test user registration edge cases
 0709. ♻️ chore: bump dependencies
 0128. ♻️ chore: rename env.example
+0505. ♻️ chore: add GitHub actions badge
