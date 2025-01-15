@@ -90098,3 +90098,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0847. ♻️ chore: clean up unused files
 0992. ♻️ chore: clean up unused files
+0344. ♻️ chore: add GitHub actions badge
