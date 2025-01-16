@@ -42435,3 +42435,4 @@
 0054. ♻️ chore: update .gitignore
 0348. ✅ test: test user registration edge cases
 0777. 📚 docs: document token refresh logic
+0970. ♻️ chore: update .gitignore
