@@ -64587,3 +64587,4 @@
 0393. 🚀 perf: lazy-load components
 0005. ✅ test: add unit test for quiz service
 0139. 📚 docs: document token refresh logic
+0617. ✨ feat: support email verification
