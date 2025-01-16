@@ -16543,3 +16543,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0218. 🔧 refactor: clean up auth middleware
 0379. ✨ feat: support email verification
+0023. 📚 docs: clarify environment setup
