@@ -36134,3 +36134,4 @@
 0715. ✨ feat: create admin dashboard
 0763. 🔧 refactor: organize models into subfolders
 0946. ✅ test: add unit test for quiz service
+0572. ✨ feat: add user authentication
