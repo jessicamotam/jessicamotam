@@ -32108,3 +32108,4 @@
 0834. ✅ test: increase coverage on auth module
 0831. 📚 docs: clarify environment setup
 0729. 🔧 refactor: refactor quiz grading logic
+0980. 🎨 style: reformat files with black
