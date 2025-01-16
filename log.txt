@@ -3609,3 +3609,4 @@
 0241. 📚 docs: add API usage examples
 0809. ♻️ chore: rename env.example
 0081. 🐛 fix: fix null pointer exception on login
+0598. 🔧 refactor: remove redundant code blocks
