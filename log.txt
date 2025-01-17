@@ -67350,3 +67350,4 @@
 0320. 📚 docs: update README with setup steps
 0519. 📚 docs: document token refresh logic
 0493. ✨ feat: add user authentication
+0835. 🐛 fix: prevent crash on empty input
