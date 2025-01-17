@@ -1946,3 +1946,4 @@
 0252. 🎨 style: remove trailing whitespace
 0021. ✨ feat: support email verification
 0674. 🔧 refactor: split large controller into smaller functions
+0665. ♻️ chore: update .gitignore
