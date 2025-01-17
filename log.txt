@@ -1412,3 +1412,4 @@
 0016. 🎨 style: apply consistent indentation
 0485. 📚 docs: update README with setup steps
 0215. 🎨 style: reformat files with black
+0778. 📚 docs: write FAQ section
