@@ -14646,3 +14646,4 @@
 0834. ✅ test: increase coverage on auth module
 0317. ✅ test: test user registration edge cases
 0898. 🐛 fix: fix broken CSS in mobile view
+0299. 🐛 fix: resolve issue with date parsing
