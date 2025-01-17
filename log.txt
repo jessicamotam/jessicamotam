@@ -22504,3 +22504,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0103. 🔧 refactor: remove redundant code blocks
 0973. 🔧 refactor: organize models into subfolders
+0828. ♻️ chore: add GitHub actions badge
