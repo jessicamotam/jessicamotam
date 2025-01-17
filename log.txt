@@ -67601,3 +67601,4 @@
 0373. 📚 docs: document token refresh logic
 0760. 🐛 fix: resolve issue with date parsing
 0405. ✅ test: mock database connection in test suite
+0981. 🚀 perf: lazy-load components
