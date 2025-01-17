@@ -8104,3 +8104,4 @@
 0146. 🎨 style: apply consistent indentation
 0383. 🐛 fix: fix broken CSS in mobile view
 0181. ♻️ chore: add GitHub actions badge
+0054. ♻️ chore: update .gitignore
