@@ -9337,3 +9337,4 @@
 0169. 📚 docs: add API usage examples
 0209. ✨ feat: implement quiz timer feature
 0505. ♻️ chore: add GitHub actions badge
+0430. 🐛 fix: fix null pointer exception on login
