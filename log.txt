@@ -76652,3 +76652,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0861. ♻️ chore: clean up unused files
 0782. 📚 docs: improve code comments in utils
+0732. ♻️ chore: add GitHub actions badge
