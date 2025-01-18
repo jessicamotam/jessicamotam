@@ -44786,3 +44786,4 @@
 0346. ✅ test: mock database connection in test suite
 0311. 🎨 style: apply consistent indentation
 0859. ✨ feat: create admin dashboard
+0816. 🔧 refactor: organize models into subfolders
