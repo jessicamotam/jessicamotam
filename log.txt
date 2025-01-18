@@ -65736,3 +65736,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0760. 🐛 fix: resolve issue with date parsing
 0260. ✨ feat: create admin dashboard
+0331. 🐛 fix: fix broken CSS in mobile view
