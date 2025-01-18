@@ -35792,3 +35792,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0613. 🐛 fix: prevent crash on empty input
 0801. ✨ feat: enable dark mode toggle
+0588. 🔧 refactor: organize models into subfolders
