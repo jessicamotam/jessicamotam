@@ -12992,3 +12992,4 @@
 0803. ✅ test: mock database connection in test suite
 0518. ✨ feat: support email verification
 0226. 🚀 perf: lazy-load components
+0434. 📚 docs: document token refresh logic
