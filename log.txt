@@ -37881,3 +37881,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0921. 🐛 fix: correct typo in registration form
 0754. 🐛 fix: handle 500 error in quiz API
+0914. ✅ test: test user registration edge cases
