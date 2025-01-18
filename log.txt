@@ -6473,3 +6473,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0173. 🚀 perf: cache repeated calculations
 0672. 🐛 fix: fix broken CSS in mobile view
+0754. 🐛 fix: handle 500 error in quiz API
