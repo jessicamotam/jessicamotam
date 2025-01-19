@@ -62042,3 +62042,4 @@
 0857. 🎨 style: rename variables for clarity
 0277. 🎨 style: standardize quote style
 0926. 🔧 refactor: organize models into subfolders
+0101. 📚 docs: clarify environment setup
