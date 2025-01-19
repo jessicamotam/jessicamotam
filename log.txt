@@ -61999,3 +61999,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0398. 🚀 perf: cache repeated calculations
 0022. 📚 docs: document token refresh logic
+0268. 🐛 fix: prevent crash on empty input
