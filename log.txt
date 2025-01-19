@@ -12626,3 +12626,4 @@
 0686. 🎨 style: standardize quote style
 0756. ✨ feat: support email verification
 0870. ♻️ chore: clean up unused files
+0344. ♻️ chore: add GitHub actions badge
