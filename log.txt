@@ -25723,3 +25723,4 @@
 0892. ✅ test: add unit test for quiz service
 0664. ✅ test: add unit test for quiz service
 0017. ✅ test: mock database connection in test suite
+0272. 🔧 refactor: remove redundant code blocks
