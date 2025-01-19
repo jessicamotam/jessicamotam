@@ -5392,3 +5392,4 @@
 0365. 🚀 perf: reduce image load time
 0505. ♻️ chore: add GitHub actions badge
 0939. 📚 docs: update README with setup steps
+0360. ✨ feat: add export to CSV option
