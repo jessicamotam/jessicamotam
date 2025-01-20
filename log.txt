@@ -67641,3 +67641,4 @@
 0811. 🎨 style: reformat files with black
 0563. 📚 docs: clarify environment setup
 0346. ✅ test: mock database connection in test suite
+0875. ✅ test: increase coverage on auth module
