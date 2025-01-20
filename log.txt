@@ -22906,3 +22906,4 @@
 0301. 🎨 style: apply consistent indentation
 0935. 📚 docs: update README with setup steps
 0911. ✅ test: increase coverage on auth module
+0519. 📚 docs: document token refresh logic
