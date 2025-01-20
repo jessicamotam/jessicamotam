@@ -57432,3 +57432,4 @@
 0441. 📚 docs: add API usage examples
 0820. 📚 docs: add API usage examples
 0689. 🎨 style: reformat files with black
+0171. 🐛 fix: fix broken CSS in mobile view
