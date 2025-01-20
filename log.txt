@@ -60013,3 +60013,4 @@
 0160. ♻️ chore: bump dependencies
 0030. 🐛 fix: fix null pointer exception on login
 0102. ✨ feat: support email verification
+0085. ✨ feat: support email verification
