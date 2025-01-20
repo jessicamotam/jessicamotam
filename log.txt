@@ -36751,3 +36751,4 @@
 0594. 🎨 style: reformat files with black
 0369. 🎨 style: standardize quote style
 0310. 🔧 refactor: refactor quiz grading logic
+0296. 🔧 refactor: organize models into subfolders
