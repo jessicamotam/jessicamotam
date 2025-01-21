@@ -63253,3 +63253,4 @@
 0715. ✨ feat: create admin dashboard
 0596. ♻️ chore: update .gitignore
 0766. 🎨 style: reformat files with black
+0305. ✨ feat: enable dark mode toggle
