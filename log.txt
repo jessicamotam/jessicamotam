@@ -88848,3 +88848,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 0232. 🎨 style: apply consistent indentation
 0531. 🐛 fix: prevent crash on empty input
+0400. 🐛 fix: fix null pointer exception on login
