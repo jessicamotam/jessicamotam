@@ -81522,3 +81522,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0042. 📚 docs: document token refresh logic
 0633. ✨ feat: add user authentication
+0335. ♻️ chore: update .gitignore
