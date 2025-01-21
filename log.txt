@@ -11750,3 +11750,4 @@
 0825. 🔧 refactor: split large controller into smaller functions
 0610. 🚀 perf: lazy-load components
 0121. ✨ feat: support email verification
+0838. 🎨 style: standardize quote style
