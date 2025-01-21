@@ -21381,3 +21381,4 @@
 0351. ✨ feat: add export to CSV option
 0638. 📚 docs: improve code comments in utils
 0809. ♻️ chore: rename env.example
+0105. 🐛 fix: correct typo in registration form
