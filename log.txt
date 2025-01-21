@@ -11389,3 +11389,4 @@
 0169. 📚 docs: add API usage examples
 0773. 📚 docs: document token refresh logic
 0910. 🎨 style: remove trailing whitespace
+1000. ✅ test: increase coverage on auth module
