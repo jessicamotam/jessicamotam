@@ -38943,3 +38943,4 @@
 0635. 🎨 style: apply consistent indentation
 0860. 🔧 refactor: organize models into subfolders
 0485. 📚 docs: update README with setup steps
+0243. 🔧 refactor: clean up auth middleware
