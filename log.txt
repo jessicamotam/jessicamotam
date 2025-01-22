@@ -42093,3 +42093,4 @@
 0453. 🎨 style: standardize quote style
 0253. 📚 docs: update README with setup steps
 0109. 🚀 perf: lazy-load components
+0746. ♻️ chore: add GitHub actions badge
