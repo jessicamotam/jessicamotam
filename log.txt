@@ -76507,3 +76507,4 @@
 0047. 🎨 style: rename variables for clarity
 0447. ♻️ chore: bump dependencies
 0356. 📚 docs: write FAQ section
+0850. ♻️ chore: rename env.example
