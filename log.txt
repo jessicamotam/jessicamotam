@@ -69791,3 +69791,4 @@
 0831. 📚 docs: clarify environment setup
 0540. ♻️ chore: add GitHub actions badge
 0593. 🐛 fix: correct typo in registration form
+0909. 🔧 refactor: organize models into subfolders
