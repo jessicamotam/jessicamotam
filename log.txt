@@ -8208,3 +8208,4 @@
 0790. 📚 docs: write FAQ section
 0996. ✅ test: test user registration edge cases
 0477. 🐛 fix: fix broken CSS in mobile view
+0828. ♻️ chore: add GitHub actions badge
