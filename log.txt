@@ -49229,3 +49229,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0939. 📚 docs: update README with setup steps
 0156. 🎨 style: rename variables for clarity
+0257. 📚 docs: clarify environment setup
