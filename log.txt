@@ -4047,3 +4047,4 @@
 0831. 📚 docs: clarify environment setup
 0250. 📚 docs: update README with setup steps
 0552. 🐛 fix: fix null pointer exception on login
+0169. 📚 docs: add API usage examples
