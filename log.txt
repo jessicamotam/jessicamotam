@@ -22666,3 +22666,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0605. ✨ feat: support email verification
 0514. 🐛 fix: fix broken CSS in mobile view
+0901. ✨ feat: add user authentication
