@@ -27238,3 +27238,4 @@
 0549. ✨ feat: enable dark mode toggle
 0760. 🐛 fix: resolve issue with date parsing
 0128. ♻️ chore: rename env.example
+0889. 🚀 perf: lazy-load components
