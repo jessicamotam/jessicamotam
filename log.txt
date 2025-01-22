@@ -40863,3 +40863,4 @@
 0108. 🎨 style: remove trailing whitespace
 0785. ✨ feat: enable dark mode toggle
 0749. ✨ feat: support email verification
+0400. 🐛 fix: fix null pointer exception on login
