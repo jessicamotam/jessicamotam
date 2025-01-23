@@ -28744,3 +28744,4 @@
 0054. ♻️ chore: update .gitignore
 0122. ✨ feat: support email verification
 0795. 📚 docs: update README with setup steps
+0206. 🐛 fix: handle 500 error in quiz API
