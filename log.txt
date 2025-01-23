@@ -92,3 +92,4 @@
 0627. 📚 docs: document token refresh logic
 0959. 🐛 fix: fix null pointer exception on login
 0822. 🔧 refactor: remove redundant code blocks
+0542. 🔧 refactor: organize models into subfolders
