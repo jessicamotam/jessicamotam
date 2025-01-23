@@ -2204,3 +2204,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0570. 🎨 style: apply consistent indentation
 0985. 📚 docs: document token refresh logic
+0783. 🐛 fix: handle 500 error in quiz API
