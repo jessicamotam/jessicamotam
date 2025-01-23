@@ -39133,3 +39133,4 @@
 0325. 🎨 style: rename variables for clarity
 0829. 🔧 refactor: organize models into subfolders
 0140. 🐛 fix: handle 500 error in quiz API
+0500. ✅ test: add integration test for /submit endpoint
