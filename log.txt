@@ -44474,3 +44474,4 @@
 0031. 📚 docs: document token refresh logic
 0295. 🎨 style: remove trailing whitespace
 0516. ✅ test: add unit test for quiz service
+0017. ✅ test: mock database connection in test suite
