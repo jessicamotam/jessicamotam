@@ -75092,3 +75092,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0469. 🚀 perf: lazy-load components
 0223. 🔧 refactor: remove redundant code blocks
+0485. 📚 docs: update README with setup steps
