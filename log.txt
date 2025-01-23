@@ -3953,3 +3953,4 @@
 0644. 🎨 style: apply consistent indentation
 0680. ♻️ chore: add GitHub actions badge
 0276. ✅ test: add integration test for /submit endpoint
+0292. 📚 docs: clarify environment setup
