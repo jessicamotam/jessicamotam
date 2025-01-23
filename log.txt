@@ -54690,3 +54690,4 @@
 0183. 🔧 refactor: split large controller into smaller functions
 0060. ♻️ chore: clean up unused files
 0144. ✅ test: increase coverage on auth module
+0791. 🔧 refactor: clean up auth middleware
