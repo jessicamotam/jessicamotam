@@ -7277,3 +7277,4 @@
 0196. ♻️ chore: bump dependencies
 0834. ✅ test: increase coverage on auth module
 0088. 📚 docs: add API usage examples
+0982. 🚀 perf: lazy-load components
