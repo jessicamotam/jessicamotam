@@ -60008,3 +60008,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0655. 🚀 perf: cache repeated calculations
 0113. ✨ feat: add user authentication
+0380. 🐛 fix: fix null pointer exception on login
