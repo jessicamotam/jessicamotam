@@ -60754,3 +60754,4 @@
 0141. 📚 docs: document token refresh logic
 0849. 🐛 fix: correct typo in registration form
 0535. 📚 docs: write FAQ section
+0669. ✨ feat: enable dark mode toggle
