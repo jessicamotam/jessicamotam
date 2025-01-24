@@ -16043,3 +16043,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0438. ♻️ chore: bump dependencies
 0340. 🚀 perf: optimize database query for quiz results
+0068. 🐛 fix: fix null pointer exception on login
