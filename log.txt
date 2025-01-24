@@ -44586,3 +44586,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0194. 🎨 style: standardize quote style
 0346. ✅ test: mock database connection in test suite
+0937. 🐛 fix: handle 500 error in quiz API
