@@ -54905,3 +54905,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0213. ✅ test: add integration test for /submit endpoint
 0013. ✅ test: increase coverage on auth module
+0649. 📚 docs: update README with setup steps
