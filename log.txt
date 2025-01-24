@@ -32798,3 +32798,4 @@
 0010. ✨ feat: add user authentication
 0251. ♻️ chore: update .gitignore
 0956. 📚 docs: clarify environment setup
+0615. 🐛 fix: correct typo in registration form
