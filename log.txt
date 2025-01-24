@@ -86577,3 +86577,4 @@
 0388. 🎨 style: reformat files with black
 0170. ✅ test: increase coverage on auth module
 0275. 🎨 style: standardize quote style
+0733. 🐛 fix: fix null pointer exception on login
