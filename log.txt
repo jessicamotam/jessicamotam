@@ -89231,3 +89231,4 @@
 0241. 📚 docs: add API usage examples
 0462. ♻️ chore: update .gitignore
 0252. 🎨 style: remove trailing whitespace
+0863. 🐛 fix: correct typo in registration form
