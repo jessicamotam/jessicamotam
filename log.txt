@@ -7361,3 +7361,4 @@
 0054. ♻️ chore: update .gitignore
 0380. 🐛 fix: fix null pointer exception on login
 0726. ✨ feat: enable dark mode toggle
+0895. ✨ feat: support email verification
