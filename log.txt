@@ -28957,3 +28957,4 @@
 0633. ✨ feat: add user authentication
 0797. 📚 docs: add API usage examples
 0711. 🐛 fix: fix broken CSS in mobile view
+0136. 🚀 perf: lazy-load components
