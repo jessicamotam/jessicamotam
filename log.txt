@@ -29051,3 +29051,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0001. 🚀 perf: cache repeated calculations
 0062. ♻️ chore: update .gitignore
+0037. 🐛 fix: correct typo in registration form
