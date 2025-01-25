@@ -72725,3 +72725,4 @@
 0174. 📚 docs: clarify environment setup
 0842. 🎨 style: remove trailing whitespace
 0583. ✅ test: increase coverage on auth module
+0505. ♻️ chore: add GitHub actions badge
