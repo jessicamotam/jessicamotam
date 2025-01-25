@@ -70499,3 +70499,4 @@
 0572. ✨ feat: add user authentication
 0819. 🚀 perf: reduce image load time
 0934. ✨ feat: support email verification
+0162. ♻️ chore: add GitHub actions badge
