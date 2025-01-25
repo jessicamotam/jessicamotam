@@ -22468,3 +22468,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0262. 🎨 style: remove trailing whitespace
 0649. 📚 docs: update README with setup steps
+0469. 🚀 perf: lazy-load components
