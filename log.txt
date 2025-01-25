@@ -39284,3 +39284,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0167. 🚀 perf: reduce image load time
 0687. 🎨 style: remove trailing whitespace
+0607. 🐛 fix: prevent crash on empty input
