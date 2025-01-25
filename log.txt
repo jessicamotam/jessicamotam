@@ -14668,3 +14668,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0440. 📚 docs: update README with setup steps
 0336. ✨ feat: add export to CSV option
+0526. ✨ feat: add user authentication
