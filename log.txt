@@ -56133,3 +56133,4 @@
 0994. 🚀 perf: reduce image load time
 0886. ♻️ chore: clean up unused files
 0374. 🎨 style: standardize quote style
+0908. ♻️ chore: bump dependencies
