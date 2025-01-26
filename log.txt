@@ -20639,3 +20639,4 @@
 0202. 🔧 refactor: refactor quiz grading logic
 0978. 🐛 fix: prevent crash on empty input
 0960. ✅ test: increase coverage on auth module
+0573. ✅ test: add integration test for /submit endpoint
