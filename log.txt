@@ -80815,3 +80815,4 @@
 0463. 🚀 perf: reduce image load time
 0229. 🚀 perf: optimize database query for quiz results
 0834. ✅ test: increase coverage on auth module
+0203. 🚀 perf: lazy-load components
