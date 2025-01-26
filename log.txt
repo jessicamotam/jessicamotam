@@ -12126,3 +12126,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0524. ♻️ chore: rename env.example
 0041. 🐛 fix: fix broken CSS in mobile view
+0108. 🎨 style: remove trailing whitespace
