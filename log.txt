@@ -39318,3 +39318,4 @@
 0221. ✨ feat: add user authentication
 0823. ✨ feat: add user authentication
 0492. 🎨 style: remove trailing whitespace
+0434. 📚 docs: document token refresh logic
