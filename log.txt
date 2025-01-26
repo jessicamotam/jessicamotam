@@ -8346,3 +8346,4 @@
 0784. ♻️ chore: clean up unused files
 0261. 🔧 refactor: refactor quiz grading logic
 0462. ♻️ chore: update .gitignore
+0273. 🚀 perf: reduce image load time
