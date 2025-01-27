@@ -37898,3 +37898,4 @@
 0128. ♻️ chore: rename env.example
 0002. 🚀 perf: cache repeated calculations
 0150. 🎨 style: remove trailing whitespace
+0615. 🐛 fix: correct typo in registration form
