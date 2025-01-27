@@ -56789,3 +56789,4 @@
 0742. 📚 docs: clarify environment setup
 0272. 🔧 refactor: remove redundant code blocks
 0305. ✨ feat: enable dark mode toggle
+0600. 🐛 fix: prevent crash on empty input
