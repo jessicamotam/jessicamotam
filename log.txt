@@ -53198,3 +53198,4 @@
 0824. 🚀 perf: lazy-load components
 0194. 🎨 style: standardize quote style
 0392. 🎨 style: remove trailing whitespace
+0307. ✨ feat: support email verification
