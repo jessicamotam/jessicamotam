@@ -33287,3 +33287,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0575. ✅ test: add unit test for quiz service
 0147. ♻️ chore: bump dependencies
+0647. 🐛 fix: prevent crash on empty input
