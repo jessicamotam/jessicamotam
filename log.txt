@@ -46442,3 +46442,4 @@
 0873. 🚀 perf: cache repeated calculations
 0453. 🎨 style: standardize quote style
 0688. 🚀 perf: reduce image load time
+0491. 🚀 perf: lazy-load components
