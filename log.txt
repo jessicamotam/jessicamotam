@@ -20745,3 +20745,4 @@
 0943. 🎨 style: rename variables for clarity
 0472. 🐛 fix: fix null pointer exception on login
 0303. 🎨 style: rename variables for clarity
+0107. 🐛 fix: prevent crash on empty input
