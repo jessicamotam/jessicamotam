@@ -15315,3 +15315,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0367. 🐛 fix: fix null pointer exception on login
 0468. 📚 docs: update README with setup steps
+0187. ✨ feat: support email verification
