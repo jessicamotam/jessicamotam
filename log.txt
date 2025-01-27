@@ -3733,3 +3733,4 @@
 0262. 🎨 style: remove trailing whitespace
 0648. ♻️ chore: bump dependencies
 0424. ✨ feat: add user authentication
+0886. ♻️ chore: clean up unused files
