@@ -55642,3 +55642,4 @@
 0995. ✅ test: mock database connection in test suite
 0094. 📚 docs: document token refresh logic
 0116. ✨ feat: support email verification
+0222. 🐛 fix: handle 500 error in quiz API
