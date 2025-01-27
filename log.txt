@@ -71578,3 +71578,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0060. ♻️ chore: clean up unused files
 0471. ✨ feat: support email verification
+0890. 🔧 refactor: organize models into subfolders
