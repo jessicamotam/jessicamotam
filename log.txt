@@ -79106,3 +79106,4 @@
 0529. 📚 docs: write FAQ section
 0656. 🎨 style: apply consistent indentation
 0284. ✨ feat: implement quiz timer feature
+0896. 🚀 perf: reduce image load time
