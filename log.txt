@@ -63603,3 +63603,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0307. ✨ feat: support email verification
 0131. 📚 docs: write FAQ section
+0596. ♻️ chore: update .gitignore
