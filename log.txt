@@ -60624,3 +60624,4 @@
 0826. 📚 docs: clarify environment setup
 0618. ✨ feat: support email verification
 0891. ✨ feat: create admin dashboard
+0346. ✅ test: mock database connection in test suite
