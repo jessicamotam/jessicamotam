@@ -37186,3 +37186,4 @@
 0793. 📚 docs: clarify environment setup
 0511. 🐛 fix: fix broken CSS in mobile view
 0700. 🎨 style: rename variables for clarity
+0708. ✅ test: add integration test for /submit endpoint
