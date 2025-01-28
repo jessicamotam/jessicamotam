@@ -17488,3 +17488,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0185. 📚 docs: write FAQ section
 0240. 🔧 refactor: remove redundant code blocks
+0042. 📚 docs: document token refresh logic
