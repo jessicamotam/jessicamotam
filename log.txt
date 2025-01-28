@@ -28141,3 +28141,4 @@
 0579. 📚 docs: clarify environment setup
 0725. 🚀 perf: lazy-load components
 0845. 🚀 perf: cache repeated calculations
+0291. 📚 docs: write FAQ section
