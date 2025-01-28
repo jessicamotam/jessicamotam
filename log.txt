@@ -27778,3 +27778,4 @@
 0649. 📚 docs: update README with setup steps
 0901. ✨ feat: add user authentication
 0605. ✨ feat: support email verification
+0121. ✨ feat: support email verification
