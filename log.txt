@@ -40069,3 +40069,4 @@
 0308. 🚀 perf: reduce image load time
 0878. 🔧 refactor: split large controller into smaller functions
 0317. ✅ test: test user registration edge cases
+0031. 📚 docs: document token refresh logic
