@@ -48176,3 +48176,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0896. 🚀 perf: reduce image load time
 0646. ✅ test: test user registration edge cases
+0547. 📚 docs: write FAQ section
