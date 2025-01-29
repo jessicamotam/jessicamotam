@@ -28064,3 +28064,4 @@
 0392. 🎨 style: remove trailing whitespace
 0513. ♻️ chore: bump dependencies
 0803. ✅ test: mock database connection in test suite
+0666. 🐛 fix: fix broken CSS in mobile view
