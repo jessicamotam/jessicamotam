@@ -57218,3 +57218,4 @@
 0912. 📚 docs: document token refresh logic
 0349. ✅ test: increase coverage on auth module
 0019. ✨ feat: enable dark mode toggle
+0793. 📚 docs: clarify environment setup
