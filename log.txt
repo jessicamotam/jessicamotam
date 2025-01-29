@@ -69879,3 +69879,4 @@
 0164. 📚 docs: document token refresh logic
 0830. 🎨 style: apply consistent indentation
 0063. 🐛 fix: handle 500 error in quiz API
+0192. ✨ feat: enable dark mode toggle
