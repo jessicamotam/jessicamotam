@@ -51481,3 +51481,4 @@
 0968. 🎨 style: standardize quote style
 0058. ♻️ chore: add GitHub actions badge
 0105. 🐛 fix: correct typo in registration form
+0652. 🔧 refactor: organize models into subfolders
