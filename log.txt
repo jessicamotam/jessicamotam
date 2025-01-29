@@ -44281,3 +44281,4 @@
 0564. 📚 docs: clarify environment setup
 0605. ✨ feat: support email verification
 0825. 🔧 refactor: split large controller into smaller functions
+0502. 📚 docs: update README with setup steps
