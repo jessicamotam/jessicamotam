@@ -46180,3 +46180,4 @@
 0848. 📚 docs: update README with setup steps
 0536. ✨ feat: add user authentication
 0978. 🐛 fix: prevent crash on empty input
+0324. 📚 docs: document token refresh logic
