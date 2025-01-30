@@ -20591,3 +20591,4 @@
 0499. 🎨 style: reformat files with black
 0132. ✅ test: add unit test for quiz service
 0058. ♻️ chore: add GitHub actions badge
+0412. ✅ test: increase coverage on auth module
