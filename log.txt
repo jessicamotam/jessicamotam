@@ -19625,3 +19625,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0224. 🐛 fix: fix broken CSS in mobile view
 0868. ✅ test: add unit test for quiz service
+0887. 📚 docs: add API usage examples
