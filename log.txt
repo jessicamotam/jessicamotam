@@ -25704,3 +25704,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0876. ♻️ chore: rename env.example
 0826. 📚 docs: clarify environment setup
+0297. 🎨 style: remove trailing whitespace
