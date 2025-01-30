@@ -23209,3 +23209,4 @@
 0147. ♻️ chore: bump dependencies
 0990. ♻️ chore: rename env.example
 0090. ✅ test: increase coverage on auth module
+0484. 🐛 fix: handle 500 error in quiz API
