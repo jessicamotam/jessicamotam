@@ -50118,3 +50118,4 @@
 0036. 🔧 refactor: clean up auth middleware
 0788. 📚 docs: add API usage examples
 0929. ✨ feat: support email verification
+0195. 📚 docs: clarify environment setup
