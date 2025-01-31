@@ -30810,3 +30810,4 @@
 0458. ✨ feat: create admin dashboard
 0832. 🔧 refactor: remove redundant code blocks
 0718. 🐛 fix: resolve issue with date parsing
+0671. 🐛 fix: fix null pointer exception on login
