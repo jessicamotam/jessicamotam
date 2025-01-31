@@ -9720,3 +9720,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0395. 📚 docs: write FAQ section
 0080. ✨ feat: support email verification
+0056. ♻️ chore: rename env.example
