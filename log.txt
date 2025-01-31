@@ -7518,3 +7518,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0750. 🎨 style: apply consistent indentation
 0718. 🐛 fix: resolve issue with date parsing
+0336. ✨ feat: add export to CSV option
