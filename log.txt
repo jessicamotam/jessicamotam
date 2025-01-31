@@ -1478,3 +1478,4 @@
 0237. 🎨 style: standardize quote style
 0353. ♻️ chore: rename env.example
 0078. ♻️ chore: update .gitignore
+0776. ✅ test: add integration test for /submit endpoint
