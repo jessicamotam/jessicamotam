@@ -80825,3 +80825,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0851. ✅ test: mock database connection in test suite
 0723. 🔧 refactor: remove redundant code blocks
+0241. 📚 docs: add API usage examples
