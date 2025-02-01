@@ -71005,3 +71005,4 @@
 0509. ♻️ chore: bump dependencies
 0147. ♻️ chore: bump dependencies
 0532. 🔧 refactor: split large controller into smaller functions
+0521. 🎨 style: standardize quote style
