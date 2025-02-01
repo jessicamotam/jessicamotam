@@ -23888,3 +23888,4 @@
 0356. 📚 docs: write FAQ section
 0531. 🐛 fix: prevent crash on empty input
 0912. 📚 docs: document token refresh logic
+0049. 🐛 fix: handle 500 error in quiz API
