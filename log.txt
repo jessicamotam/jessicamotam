@@ -71722,3 +71722,4 @@
 0333. 🚀 perf: cache repeated calculations
 0393. 🚀 perf: lazy-load components
 0732. ♻️ chore: add GitHub actions badge
+0122. ✨ feat: support email verification
