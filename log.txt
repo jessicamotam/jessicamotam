@@ -14153,3 +14153,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0508. ✅ test: add unit test for quiz service
 0142. ✨ feat: implement quiz timer feature
+0140. 🐛 fix: handle 500 error in quiz API
