@@ -67822,3 +67822,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0911. ✅ test: increase coverage on auth module
 0857. 🎨 style: rename variables for clarity
+0373. 📚 docs: document token refresh logic
