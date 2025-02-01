@@ -89878,3 +89878,4 @@
 0335. ♻️ chore: update .gitignore
 0738. 🐛 fix: prevent crash on empty input
 0427. ✅ test: mock database connection in test suite
+0978. 🐛 fix: prevent crash on empty input
