@@ -50136,3 +50136,4 @@
 0799. ♻️ chore: clean up unused files
 0771. 🚀 perf: cache repeated calculations
 0003. ✅ test: increase coverage on auth module
+0594. 🎨 style: reformat files with black
