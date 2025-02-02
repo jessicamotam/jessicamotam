@@ -69650,3 +69650,4 @@
 0809. ♻️ chore: rename env.example
 0406. ✨ feat: add export to CSV option
 0730. ✅ test: test user registration edge cases
+0037. 🐛 fix: correct typo in registration form
