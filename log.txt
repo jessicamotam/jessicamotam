@@ -9228,3 +9228,4 @@
 0340. 🚀 perf: optimize database query for quiz results
 0380. 🐛 fix: fix null pointer exception on login
 0632. 🎨 style: remove trailing whitespace
+0798. 🚀 perf: reduce image load time
