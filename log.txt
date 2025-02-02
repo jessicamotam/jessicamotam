@@ -77184,3 +77184,4 @@
 0219. ✅ test: increase coverage on auth module
 0782. 📚 docs: improve code comments in utils
 0637. 🎨 style: apply consistent indentation
+0194. 🎨 style: standardize quote style
