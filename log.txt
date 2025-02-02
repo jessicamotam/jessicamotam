@@ -82958,3 +82958,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0471. ✨ feat: support email verification
 0205. 📚 docs: update README with setup steps
+0533. ♻️ chore: add GitHub actions badge
