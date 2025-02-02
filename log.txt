@@ -82016,3 +82016,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0056. ♻️ chore: rename env.example
 0122. ✨ feat: support email verification
+0804. ♻️ chore: add GitHub actions badge
