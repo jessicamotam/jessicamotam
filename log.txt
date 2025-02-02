@@ -86286,3 +86286,4 @@
 0808. 🚀 perf: optimize database query for quiz results
 0131. 📚 docs: write FAQ section
 0790. 📚 docs: write FAQ section
+0373. 📚 docs: document token refresh logic
