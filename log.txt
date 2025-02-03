@@ -8525,3 +8525,4 @@
 0149. ✨ feat: add export to CSV option
 0450. 🐛 fix: fix broken CSS in mobile view
 0035. ✅ test: increase coverage on auth module
+0700. 🎨 style: rename variables for clarity
