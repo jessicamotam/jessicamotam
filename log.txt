@@ -75905,3 +75905,4 @@
 0770. ♻️ chore: rename env.example
 0440. 📚 docs: update README with setup steps
 0566. 📚 docs: write FAQ section
+0739. 🎨 style: remove trailing whitespace
