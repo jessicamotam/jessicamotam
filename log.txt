@@ -31181,3 +31181,4 @@
 0271. ✅ test: add unit test for quiz service
 0912. 📚 docs: document token refresh logic
 0783. 🐛 fix: handle 500 error in quiz API
+0526. ✨ feat: add user authentication
