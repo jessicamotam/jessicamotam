@@ -66644,3 +66644,4 @@
 0517. ✅ test: mock database connection in test suite
 0071. 🔧 refactor: refactor quiz grading logic
 0498. ✅ test: mock database connection in test suite
+0650. ✅ test: add unit test for quiz service
