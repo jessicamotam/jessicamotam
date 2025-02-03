@@ -20130,3 +20130,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0028. 🎨 style: standardize quote style
 0858. ♻️ chore: clean up unused files
+0701. 🔧 refactor: clean up auth middleware
