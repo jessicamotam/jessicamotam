@@ -4563,3 +4563,4 @@
 0911. ✅ test: increase coverage on auth module
 0081. 🐛 fix: fix null pointer exception on login
 0270. ♻️ chore: rename env.example
+0542. 🔧 refactor: organize models into subfolders
