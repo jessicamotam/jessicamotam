@@ -46850,3 +46850,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0464. 🎨 style: remove trailing whitespace
 0555. ✨ feat: create admin dashboard
+0816. 🔧 refactor: organize models into subfolders
