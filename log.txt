@@ -79985,3 +79985,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0580. ♻️ chore: bump dependencies
 0137. 🎨 style: rename variables for clarity
+0979. 🎨 style: standardize quote style
