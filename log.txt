@@ -78254,3 +78254,4 @@
 0256. ✅ test: mock database connection in test suite
 0080. ✨ feat: support email verification
 0946. ✅ test: add unit test for quiz service
+0777. 📚 docs: document token refresh logic
