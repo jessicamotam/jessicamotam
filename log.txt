@@ -37262,3 +37262,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0435. ✅ test: add unit test for quiz service
 0647. 🐛 fix: prevent crash on empty input
+0050. ✨ feat: enable dark mode toggle
