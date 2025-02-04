@@ -33616,3 +33616,4 @@
 0048. 📚 docs: update README with setup steps
 0194. 🎨 style: standardize quote style
 0751. 🐛 fix: handle 500 error in quiz API
+0696. 🔧 refactor: clean up auth middleware
