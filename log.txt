@@ -25673,3 +25673,4 @@
 0992. ♻️ chore: clean up unused files
 0232. 🎨 style: apply consistent indentation
 0611. ✅ test: test user registration edge cases
+0826. 📚 docs: clarify environment setup
