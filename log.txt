@@ -6721,3 +6721,4 @@
 0521. 🎨 style: standardize quote style
 0627. 📚 docs: document token refresh logic
 0814. 🔧 refactor: remove redundant code blocks
+0231. 🔧 refactor: clean up auth middleware
