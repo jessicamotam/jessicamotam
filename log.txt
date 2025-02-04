@@ -87805,3 +87805,4 @@
 0987. ✨ feat: create admin dashboard
 0760. 🐛 fix: resolve issue with date parsing
 0333. 🚀 perf: cache repeated calculations
+0222. 🐛 fix: handle 500 error in quiz API
