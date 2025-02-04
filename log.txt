@@ -25155,3 +25155,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0323. 📚 docs: clarify environment setup
 0438. ♻️ chore: bump dependencies
+0529. 📚 docs: write FAQ section
