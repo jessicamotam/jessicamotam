@@ -66835,3 +66835,4 @@
 0330. ✅ test: test user registration edge cases
 0329. 📚 docs: update README with setup steps
 0592. 📚 docs: add API usage examples
+0496. ✅ test: add integration test for /submit endpoint
