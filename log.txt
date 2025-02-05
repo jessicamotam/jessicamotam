@@ -22664,3 +22664,4 @@
 0023. 📚 docs: clarify environment setup
 0505. ♻️ chore: add GitHub actions badge
 0285. 🐛 fix: resolve issue with date parsing
+0605. ✨ feat: support email verification
