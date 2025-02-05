@@ -3375,3 +3375,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0595. ✨ feat: enable dark mode toggle
 0049. 🐛 fix: handle 500 error in quiz API
+0207. 🐛 fix: prevent crash on empty input
