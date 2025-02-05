@@ -90109,3 +90109,4 @@
 0351. ✨ feat: add export to CSV option
 0780. 📚 docs: add API usage examples
 0196. ♻️ chore: bump dependencies
+0895. ✨ feat: support email verification
