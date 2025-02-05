@@ -15451,3 +15451,4 @@
 0965. 🎨 style: reformat files with black
 0462. ♻️ chore: update .gitignore
 0364. 🐛 fix: resolve issue with date parsing
+0848. 📚 docs: update README with setup steps
