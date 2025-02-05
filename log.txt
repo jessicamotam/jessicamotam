@@ -13654,3 +13654,4 @@
 0771. 🚀 perf: cache repeated calculations
 0456. 🚀 perf: optimize database query for quiz results
 0017. ✅ test: mock database connection in test suite
+0496. ✅ test: add integration test for /submit endpoint
