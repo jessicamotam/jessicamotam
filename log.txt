@@ -85012,3 +85012,4 @@
 0055. 📚 docs: update README with setup steps
 0085. ✨ feat: support email verification
 0190. 🎨 style: rename variables for clarity
+0913. 🚀 perf: optimize database query for quiz results
