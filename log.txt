@@ -42084,3 +42084,4 @@
 0352. ✨ feat: add export to CSV option
 0643. 🎨 style: apply consistent indentation
 0647. 🐛 fix: prevent crash on empty input
+0994. 🚀 perf: reduce image load time
