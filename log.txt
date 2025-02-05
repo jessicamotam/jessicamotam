@@ -21232,3 +21232,4 @@
 0524. ♻️ chore: rename env.example
 0334. 🚀 perf: cache repeated calculations
 0794. ♻️ chore: clean up unused files
+0027. 📚 docs: clarify environment setup
