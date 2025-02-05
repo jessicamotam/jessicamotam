@@ -30744,3 +30744,4 @@
 0474. ✅ test: add unit test for quiz service
 0698. 🐛 fix: handle 500 error in quiz API
 0588. 🔧 refactor: organize models into subfolders
+0616. 🚀 perf: lazy-load components
