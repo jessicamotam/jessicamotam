@@ -32155,3 +32155,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0823. ✨ feat: add user authentication
 0560. 🎨 style: rename variables for clarity
+0865. ♻️ chore: add GitHub actions badge
