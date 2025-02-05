@@ -29912,3 +29912,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0486. ✨ feat: add export to CSV option
 0143. ✨ feat: implement quiz timer feature
+0801. ✨ feat: enable dark mode toggle
