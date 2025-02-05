@@ -28897,3 +28897,4 @@
 0555. ✨ feat: create admin dashboard
 0863. 🐛 fix: correct typo in registration form
 0339. 📚 docs: update README with setup steps
+0372. ✨ feat: add user authentication
