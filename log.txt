@@ -41329,3 +41329,4 @@
 0405. ✅ test: mock database connection in test suite
 0667. ✨ feat: add export to CSV option
 0762. 🚀 perf: lazy-load components
+0536. ✨ feat: add user authentication
