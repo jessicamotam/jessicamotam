@@ -89876,3 +89876,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0340. 🚀 perf: optimize database query for quiz results
 0335. ♻️ chore: update .gitignore
+0738. 🐛 fix: prevent crash on empty input
