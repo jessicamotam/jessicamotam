@@ -82192,3 +82192,4 @@
 0005. ✅ test: add unit test for quiz service
 0583. ✅ test: increase coverage on auth module
 0823. ✨ feat: add user authentication
+0201. 🔧 refactor: clean up auth middleware
