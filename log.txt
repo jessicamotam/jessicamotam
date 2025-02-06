@@ -55645,3 +55645,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0811. 🎨 style: reformat files with black
 0311. 🎨 style: apply consistent indentation
+0556. ✨ feat: support email verification
