@@ -44764,3 +44764,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0493. ✨ feat: add user authentication
 0538. 🐛 fix: fix broken CSS in mobile view
+0964. ♻️ chore: clean up unused files
