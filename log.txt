@@ -5658,3 +5658,4 @@
 0286. ✅ test: mock database connection in test suite
 0277. 🎨 style: standardize quote style
 0796. 🔧 refactor: refactor quiz grading logic
+0208. 🔧 refactor: clean up auth middleware
