@@ -1881,3 +1881,4 @@
 0230. ✨ feat: create admin dashboard
 0722. 📚 docs: add API usage examples
 0533. ♻️ chore: add GitHub actions badge
+0531. 🐛 fix: prevent crash on empty input
