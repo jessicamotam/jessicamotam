@@ -24850,3 +24850,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0478. 🐛 fix: resolve issue with date parsing
 0342. 🚀 perf: cache repeated calculations
+0949. 📚 docs: write FAQ section
