@@ -41100,3 +41100,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0535. 📚 docs: write FAQ section
 0578. ✅ test: add integration test for /submit endpoint
+0323. 📚 docs: clarify environment setup
