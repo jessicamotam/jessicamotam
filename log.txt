@@ -14177,3 +14177,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0854. ♻️ chore: rename env.example
 0898. 🐛 fix: fix broken CSS in mobile view
+0574. ✨ feat: enable dark mode toggle
