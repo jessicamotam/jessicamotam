@@ -10894,3 +10894,4 @@
 0526. ✨ feat: add user authentication
 0760. 🐛 fix: resolve issue with date parsing
 0902. ✨ feat: enable dark mode toggle
+0337. 📚 docs: document token refresh logic
