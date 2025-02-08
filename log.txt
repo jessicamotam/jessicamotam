@@ -21746,3 +21746,4 @@
 0086. 🐛 fix: correct typo in registration form
 0311. 🎨 style: apply consistent indentation
 0613. 🐛 fix: prevent crash on empty input
+0220. 🐛 fix: fix null pointer exception on login
