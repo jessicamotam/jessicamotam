@@ -84916,3 +84916,4 @@
 0570. 🎨 style: apply consistent indentation
 0116. ✨ feat: support email verification
 0384. 📚 docs: clarify environment setup
+0281. ✨ feat: support email verification
