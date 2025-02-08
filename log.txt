@@ -55136,3 +55136,4 @@
 0156. 🎨 style: rename variables for clarity
 0744. 🔧 refactor: remove redundant code blocks
 0408. ♻️ chore: add GitHub actions badge
+0749. ✨ feat: support email verification
