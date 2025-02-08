@@ -86750,3 +86750,4 @@
 0363. 📚 docs: clarify environment setup
 0794. ♻️ chore: clean up unused files
 0352. ✨ feat: add export to CSV option
+0393. 🚀 perf: lazy-load components
