@@ -50857,3 +50857,4 @@
 0353. ♻️ chore: rename env.example
 0354. 📚 docs: add API usage examples
 0059. ♻️ chore: bump dependencies
+0685. ✅ test: test user registration edge cases
