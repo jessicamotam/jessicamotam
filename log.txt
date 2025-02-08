@@ -27429,3 +27429,4 @@
 0843. 📚 docs: document token refresh logic
 0586. 🎨 style: remove trailing whitespace
 0399. ✅ test: mock database connection in test suite
+0602. 🔧 refactor: remove redundant code blocks
