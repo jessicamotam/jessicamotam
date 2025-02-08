@@ -51574,3 +51574,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0146. 🎨 style: apply consistent indentation
 0804. ♻️ chore: add GitHub actions badge
+0749. ✨ feat: support email verification
