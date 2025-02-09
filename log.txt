@@ -21061,3 +21061,4 @@
 0090. ✅ test: increase coverage on auth module
 0762. 🚀 perf: lazy-load components
 0641. 📚 docs: write FAQ section
+0925. ✨ feat: add export to CSV option
