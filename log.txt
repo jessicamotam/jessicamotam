@@ -36536,3 +36536,4 @@
 0194. 🎨 style: standardize quote style
 0685. ✅ test: test user registration edge cases
 0799. ♻️ chore: clean up unused files
+0514. 🐛 fix: fix broken CSS in mobile view
