@@ -37388,3 +37388,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0824. 🚀 perf: lazy-load components
 0006. 🐛 fix: prevent crash on empty input
+0351. ✨ feat: add export to CSV option
