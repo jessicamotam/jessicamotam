@@ -12961,3 +12961,4 @@
 0932. ✅ test: add integration test for /submit endpoint
 0575. ✅ test: add unit test for quiz service
 0990. ♻️ chore: rename env.example
+0297. 🎨 style: remove trailing whitespace
