@@ -72857,3 +72857,4 @@
 0940. 📚 docs: document token refresh logic
 0151. ✅ test: add unit test for quiz service
 0598. 🔧 refactor: remove redundant code blocks
+0923. ✨ feat: support email verification
