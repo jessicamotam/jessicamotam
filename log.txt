@@ -53185,3 +53185,4 @@
 0491. 🚀 perf: lazy-load components
 0385. ♻️ chore: clean up unused files
 0403. ✅ test: mock database connection in test suite
+0827. 🚀 perf: optimize database query for quiz results
