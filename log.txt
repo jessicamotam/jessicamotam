@@ -14914,3 +14914,4 @@
 0530. 🔧 refactor: refactor quiz grading logic
 0164. 📚 docs: document token refresh logic
 0491. 🚀 perf: lazy-load components
+0605. ✨ feat: support email verification
