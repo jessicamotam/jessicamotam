@@ -56536,3 +56536,4 @@
 0144. ✅ test: increase coverage on auth module
 0709. ♻️ chore: bump dependencies
 0857. 🎨 style: rename variables for clarity
+0625. 🐛 fix: handle 500 error in quiz API
