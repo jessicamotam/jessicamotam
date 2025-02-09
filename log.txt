@@ -84756,3 +84756,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0855. 🎨 style: reformat files with black
 0592. 📚 docs: add API usage examples
+0440. 📚 docs: update README with setup steps
