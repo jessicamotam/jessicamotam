@@ -66452,3 +66452,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0288. 🔧 refactor: refactor quiz grading logic
 0513. ♻️ chore: bump dependencies
+0979. 🎨 style: standardize quote style
