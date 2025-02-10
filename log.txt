@@ -71517,3 +71517,4 @@
 0199. ✨ feat: create admin dashboard
 0305. ✨ feat: enable dark mode toggle
 0129. 🔧 refactor: organize models into subfolders
+0085. ✨ feat: support email verification
