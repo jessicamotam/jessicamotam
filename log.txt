@@ -53055,3 +53055,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0335. ♻️ chore: update .gitignore
 0070. ✨ feat: implement quiz timer feature
+0630. 🚀 perf: lazy-load components
