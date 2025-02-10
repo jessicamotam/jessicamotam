@@ -6399,3 +6399,4 @@
 0332. 🎨 style: standardize quote style
 0180. ✨ feat: add export to CSV option
 0861. ♻️ chore: clean up unused files
+0532. 🔧 refactor: split large controller into smaller functions
