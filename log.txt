@@ -62185,3 +62185,4 @@
 0090. ✅ test: increase coverage on auth module
 0319. 🐛 fix: handle 500 error in quiz API
 0366. 🔧 refactor: remove redundant code blocks
+0248. 🐛 fix: handle 500 error in quiz API
