@@ -16489,3 +16489,4 @@
 0449. ✅ test: add unit test for quiz service
 0129. 🔧 refactor: organize models into subfolders
 0994. 🚀 perf: reduce image load time
+0924. ✅ test: mock database connection in test suite
