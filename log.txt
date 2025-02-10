@@ -84476,3 +84476,4 @@
 0069. 🎨 style: rename variables for clarity
 0147. ♻️ chore: bump dependencies
 0680. ♻️ chore: add GitHub actions badge
+0319. 🐛 fix: handle 500 error in quiz API
