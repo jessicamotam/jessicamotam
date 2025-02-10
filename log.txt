@@ -82003,3 +82003,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0090. ✅ test: increase coverage on auth module
 0368. 🚀 perf: lazy-load components
+0315. ✅ test: add integration test for /submit endpoint
