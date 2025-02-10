@@ -19237,3 +19237,4 @@
 0347. ♻️ chore: update .gitignore
 0117. ✅ test: increase coverage on auth module
 0052. 🎨 style: standardize quote style
+0735. ♻️ chore: add GitHub actions badge
