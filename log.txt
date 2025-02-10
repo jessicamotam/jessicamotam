@@ -18562,3 +18562,4 @@
 0459. 🔧 refactor: organize models into subfolders
 0425. 🔧 refactor: refactor quiz grading logic
 0216. 🎨 style: rename variables for clarity
+0663. 🚀 perf: reduce image load time
