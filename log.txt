@@ -52549,3 +52549,4 @@
 0462. ♻️ chore: update .gitignore
 0645. 🐛 fix: resolve issue with date parsing
 0140. 🐛 fix: handle 500 error in quiz API
+0454. ♻️ chore: bump dependencies
