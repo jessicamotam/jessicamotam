@@ -26823,3 +26823,4 @@
 0597. 🚀 perf: cache repeated calculations
 0429. ✨ feat: add user authentication
 0884. 📚 docs: clarify environment setup
+0790. 📚 docs: write FAQ section
