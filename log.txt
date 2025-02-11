@@ -787,3 +787,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0178. ✨ feat: support email verification
 0706. ✨ feat: support email verification
+0221. ✨ feat: add user authentication
