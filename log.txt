@@ -38078,3 +38078,4 @@
 0037. 🐛 fix: correct typo in registration form
 0730. ✅ test: test user registration edge cases
 0316. 🐛 fix: fix broken CSS in mobile view
+0844. 📚 docs: update README with setup steps
