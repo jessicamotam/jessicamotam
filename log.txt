@@ -31059,3 +31059,4 @@
 0317. ✅ test: test user registration edge cases
 0572. ✨ feat: add user authentication
 0533. ♻️ chore: add GitHub actions badge
+0383. 🐛 fix: fix broken CSS in mobile view
