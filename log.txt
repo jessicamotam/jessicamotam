@@ -2743,3 +2743,4 @@
 0174. 📚 docs: clarify environment setup
 0638. 📚 docs: improve code comments in utils
 0876. ♻️ chore: rename env.example
+0107. 🐛 fix: prevent crash on empty input
