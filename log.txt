@@ -86758,3 +86758,4 @@
 0830. 🎨 style: apply consistent indentation
 0769. ✨ feat: create admin dashboard
 0405. ✅ test: mock database connection in test suite
+0751. 🐛 fix: handle 500 error in quiz API
