@@ -33355,3 +33355,4 @@
 0122. ✨ feat: support email verification
 0565. ♻️ chore: add GitHub actions badge
 0785. ✨ feat: enable dark mode toggle
+0068. 🐛 fix: fix null pointer exception on login
