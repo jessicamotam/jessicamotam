@@ -75231,3 +75231,4 @@
 0361. ✨ feat: support email verification
 0957. 🐛 fix: fix null pointer exception on login
 0257. 📚 docs: clarify environment setup
+0727. ♻️ chore: add GitHub actions badge
