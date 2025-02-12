@@ -66447,3 +66447,4 @@
 0326. 🚀 perf: cache repeated calculations
 0041. 🐛 fix: fix broken CSS in mobile view
 0432. 🎨 style: apply consistent indentation
+0888. 🚀 perf: lazy-load components
