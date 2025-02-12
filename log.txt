@@ -76221,3 +76221,4 @@
 0630. 🚀 perf: lazy-load components
 0921. 🐛 fix: correct typo in registration form
 0599. ✅ test: test user registration edge cases
+0393. 🚀 perf: lazy-load components
