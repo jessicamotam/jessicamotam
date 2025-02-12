@@ -83692,3 +83692,4 @@
 0786. ✨ feat: enable dark mode toggle
 0795. 📚 docs: update README with setup steps
 0751. 🐛 fix: handle 500 error in quiz API
+0980. 🎨 style: reformat files with black
