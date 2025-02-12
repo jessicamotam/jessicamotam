@@ -35713,3 +35713,4 @@
 0005. ✅ test: add unit test for quiz service
 0537. 🔧 refactor: remove redundant code blocks
 0359. 🔧 refactor: clean up auth middleware
+0756. ✨ feat: support email verification
