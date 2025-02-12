@@ -36799,3 +36799,4 @@
 0492. 🎨 style: remove trailing whitespace
 0249. ✅ test: increase coverage on auth module
 0987. ✨ feat: create admin dashboard
+0565. ♻️ chore: add GitHub actions badge
