@@ -9967,3 +9967,4 @@
 0659. 📚 docs: add API usage examples
 0475. 🔧 refactor: clean up auth middleware
 0820. 📚 docs: add API usage examples
+0124. 🎨 style: reformat files with black
