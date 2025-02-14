@@ -38125,3 +38125,4 @@
 0991. ♻️ chore: clean up unused files
 0370. 🚀 perf: reduce image load time
 0688. 🚀 perf: reduce image load time
+0383. 🐛 fix: fix broken CSS in mobile view
