@@ -24076,3 +24076,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0667. ✨ feat: add export to CSV option
 0796. 🔧 refactor: refactor quiz grading logic
+0556. ✨ feat: support email verification
