@@ -69489,3 +69489,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0509. ♻️ chore: bump dependencies
 0383. 🐛 fix: fix broken CSS in mobile view
+0833. ✨ feat: add user authentication
