@@ -23650,3 +23650,4 @@
 0507. 🔧 refactor: clean up auth middleware
 0671. 🐛 fix: fix null pointer exception on login
 0792. 🎨 style: standardize quote style
+0874. 🔧 refactor: split large controller into smaller functions
