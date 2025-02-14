@@ -88173,3 +88173,4 @@
 0305. ✨ feat: enable dark mode toggle
 0003. ✅ test: increase coverage on auth module
 0046. 🎨 style: rename variables for clarity
+0749. ✨ feat: support email verification
