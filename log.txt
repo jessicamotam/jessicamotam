@@ -83691,3 +83691,4 @@
 0361. ✨ feat: support email verification
 0786. ✨ feat: enable dark mode toggle
 0795. 📚 docs: update README with setup steps
+0751. 🐛 fix: handle 500 error in quiz API
