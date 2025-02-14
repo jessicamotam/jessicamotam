@@ -43176,3 +43176,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0238. 🎨 style: apply consistent indentation
 0819. 🚀 perf: reduce image load time
+0127. 🐛 fix: fix null pointer exception on login
