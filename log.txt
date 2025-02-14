@@ -620,3 +620,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0617. ✨ feat: support email verification
 0473. 📚 docs: write FAQ section
+0907. 🔧 refactor: split large controller into smaller functions
