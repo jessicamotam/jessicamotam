@@ -43581,3 +43581,4 @@
 0100. ♻️ chore: update .gitignore
 0875. ✅ test: increase coverage on auth module
 0576. ♻️ chore: update .gitignore
+0700. 🎨 style: rename variables for clarity
