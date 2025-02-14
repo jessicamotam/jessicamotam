@@ -56987,3 +56987,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0634. 🎨 style: reformat files with black
 0299. 🐛 fix: resolve issue with date parsing
+0783. 🐛 fix: handle 500 error in quiz API
