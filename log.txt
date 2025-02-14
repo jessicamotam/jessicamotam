@@ -88288,3 +88288,4 @@
 0912. 📚 docs: document token refresh logic
 0845. 🚀 perf: cache repeated calculations
 0511. 🐛 fix: fix broken CSS in mobile view
+0880. 🐛 fix: fix broken CSS in mobile view
