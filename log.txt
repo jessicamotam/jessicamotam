@@ -51640,3 +51640,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0495. 🔧 refactor: remove redundant code blocks
 0748. 🚀 perf: optimize database query for quiz results
+0778. 📚 docs: write FAQ section
