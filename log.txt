@@ -68018,3 +68018,4 @@
 0194. 🎨 style: standardize quote style
 0780. 📚 docs: add API usage examples
 0923. ✨ feat: support email verification
+0751. 🐛 fix: handle 500 error in quiz API
