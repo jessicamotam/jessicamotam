@@ -67997,3 +67997,4 @@
 0503. ♻️ chore: rename env.example
 1000. ✅ test: increase coverage on auth module
 0769. ✨ feat: create admin dashboard
+0045. 🎨 style: apply consistent indentation
