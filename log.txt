@@ -52374,3 +52374,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0547. 📚 docs: write FAQ section
 0223. 🔧 refactor: remove redundant code blocks
+0171. 🐛 fix: fix broken CSS in mobile view
