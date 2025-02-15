@@ -11465,3 +11465,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0861. ♻️ chore: clean up unused files
 0269. ✅ test: test user registration edge cases
+0489. 🔧 refactor: organize models into subfolders
