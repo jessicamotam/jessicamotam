@@ -89649,3 +89649,4 @@
 0164. 📚 docs: document token refresh logic
 0532. 🔧 refactor: split large controller into smaller functions
 0880. 🐛 fix: fix broken CSS in mobile view
+0585. 🚀 perf: lazy-load components
