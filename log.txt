@@ -73364,3 +73364,4 @@
 0342. 🚀 perf: cache repeated calculations
 0799. ♻️ chore: clean up unused files
 0094. 📚 docs: document token refresh logic
+0646. ✅ test: test user registration edge cases
