@@ -55474,3 +55474,4 @@
 0679. ♻️ chore: bump dependencies
 0878. 🔧 refactor: split large controller into smaller functions
 0729. 🔧 refactor: refactor quiz grading logic
+0711. 🐛 fix: fix broken CSS in mobile view
