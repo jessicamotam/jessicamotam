@@ -28472,3 +28472,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0981. 🚀 perf: lazy-load components
 0108. 🎨 style: remove trailing whitespace
+0563. 📚 docs: clarify environment setup
