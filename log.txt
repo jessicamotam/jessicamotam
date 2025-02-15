@@ -61102,3 +61102,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0078. ♻️ chore: update .gitignore
 0734. ✨ feat: add export to CSV option
+0231. 🔧 refactor: clean up auth middleware
