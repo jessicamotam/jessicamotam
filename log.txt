@@ -65951,3 +65951,4 @@
 0766. 🎨 style: reformat files with black
 0030. 🐛 fix: fix null pointer exception on login
 0498. ✅ test: mock database connection in test suite
+0697. ♻️ chore: bump dependencies
