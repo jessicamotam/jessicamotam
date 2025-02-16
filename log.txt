@@ -7811,3 +7811,4 @@
 0687. 🎨 style: remove trailing whitespace
 0317. ✅ test: test user registration edge cases
 0772. 🐛 fix: fix null pointer exception on login
+0152. ✨ feat: add user authentication
