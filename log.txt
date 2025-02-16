@@ -69910,3 +69910,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0684. 🚀 perf: reduce image load time
 0754. 🐛 fix: handle 500 error in quiz API
+0829. 🔧 refactor: organize models into subfolders
