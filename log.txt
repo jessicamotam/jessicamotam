@@ -77661,3 +77661,4 @@
 0231. 🔧 refactor: clean up auth middleware
 0600. 🐛 fix: prevent crash on empty input
 0821. ✅ test: add integration test for /submit endpoint
+0548. 📚 docs: write FAQ section
