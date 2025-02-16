@@ -7389,3 +7389,4 @@
 0485. 📚 docs: update README with setup steps
 0635. 🎨 style: apply consistent indentation
 0605. ✨ feat: support email verification
+0484. 🐛 fix: handle 500 error in quiz API
