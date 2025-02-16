@@ -27347,3 +27347,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0779. 🔧 refactor: organize models into subfolders
 0891. ✨ feat: create admin dashboard
+0013. ✅ test: increase coverage on auth module
