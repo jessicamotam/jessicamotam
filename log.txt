@@ -33451,3 +33451,4 @@
 0121. ✨ feat: support email verification
 1000. ✅ test: increase coverage on auth module
 0239. 🎨 style: standardize quote style
+0772. 🐛 fix: fix null pointer exception on login
