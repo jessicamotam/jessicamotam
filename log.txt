@@ -71905,3 +71905,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 1000. ✅ test: increase coverage on auth module
 0725. 🚀 perf: lazy-load components
+0680. ♻️ chore: add GitHub actions badge
