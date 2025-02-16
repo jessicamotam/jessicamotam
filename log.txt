@@ -68398,3 +68398,4 @@
 0766. 🎨 style: reformat files with black
 0789. ✨ feat: create admin dashboard
 0773. 📚 docs: document token refresh logic
+0961. 📚 docs: add API usage examples
