@@ -56727,3 +56727,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0448. 🐛 fix: correct typo in registration form
 0155. ✨ feat: create admin dashboard
+0775. 🐛 fix: fix null pointer exception on login
