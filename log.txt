@@ -5924,3 +5924,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0583. ✅ test: increase coverage on auth module
 0708. ✅ test: add integration test for /submit endpoint
+0985. 📚 docs: document token refresh logic
