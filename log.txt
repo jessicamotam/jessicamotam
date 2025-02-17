@@ -10926,3 +10926,4 @@
 0392. 🎨 style: remove trailing whitespace
 0012. 🚀 perf: cache repeated calculations
 0964. ♻️ chore: clean up unused files
+0378. 🐛 fix: prevent crash on empty input
