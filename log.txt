@@ -27099,3 +27099,4 @@
 0031. 📚 docs: document token refresh logic
 0941. 🚀 perf: cache repeated calculations
 0568. 🐛 fix: handle 500 error in quiz API
+0630. 🚀 perf: lazy-load components
