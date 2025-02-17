@@ -43987,3 +43987,4 @@
 0518. ✨ feat: support email verification
 0471. ✨ feat: support email verification
 0837. 🚀 perf: cache repeated calculations
+0004. 🚀 perf: optimize database query for quiz results
