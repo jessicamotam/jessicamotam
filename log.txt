@@ -17503,3 +17503,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0163. ✨ feat: implement quiz timer feature
 0129. 🔧 refactor: organize models into subfolders
+0785. ✨ feat: enable dark mode toggle
