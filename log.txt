@@ -50877,3 +50877,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0563. 📚 docs: clarify environment setup
 0693. 📚 docs: add API usage examples
+0207. 🐛 fix: prevent crash on empty input
