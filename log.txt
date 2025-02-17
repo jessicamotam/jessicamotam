@@ -90404,3 +90404,4 @@
 0862. ♻️ chore: bump dependencies
 0298. ♻️ chore: update .gitignore
 1000. ✅ test: increase coverage on auth module
+0766. 🎨 style: reformat files with black
