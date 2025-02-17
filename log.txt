@@ -13532,3 +13532,4 @@
 0305. ✨ feat: enable dark mode toggle
 0459. 🔧 refactor: organize models into subfolders
 0187. ✨ feat: support email verification
+0838. 🎨 style: standardize quote style
