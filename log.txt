@@ -32055,3 +32055,4 @@
 0993. ✨ feat: implement quiz timer feature
 0352. ✨ feat: add export to CSV option
 0443. 🎨 style: standardize quote style
+0206. 🐛 fix: handle 500 error in quiz API
