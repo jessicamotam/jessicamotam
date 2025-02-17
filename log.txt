@@ -53569,3 +53569,4 @@
 0966. 📚 docs: improve code comments in utils
 0527. 🎨 style: remove trailing whitespace
 0486. ✨ feat: add export to CSV option
+0115. 🚀 perf: reduce image load time
