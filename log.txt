@@ -24248,3 +24248,4 @@
 0411. ✅ test: add unit test for quiz service
 0297. 🎨 style: remove trailing whitespace
 0687. 🎨 style: remove trailing whitespace
+0824. 🚀 perf: lazy-load components
