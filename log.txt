@@ -29387,3 +29387,4 @@
 0181. ♻️ chore: add GitHub actions badge
 1000. ✅ test: increase coverage on auth module
 0219. ✅ test: increase coverage on auth module
+0770. ♻️ chore: rename env.example
