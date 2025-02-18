@@ -66502,3 +66502,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0689. 🎨 style: reformat files with black
 0603. 🐛 fix: fix broken CSS in mobile view
+0720. ✨ feat: add export to CSV option
