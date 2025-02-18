@@ -85566,3 +85566,4 @@
 0627. 📚 docs: document token refresh logic
 0455. ♻️ chore: clean up unused files
 0069. 🎨 style: rename variables for clarity
+0535. 📚 docs: write FAQ section
