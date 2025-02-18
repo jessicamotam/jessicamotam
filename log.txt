@@ -55308,3 +55308,4 @@
 0080. ✨ feat: support email verification
 0648. ♻️ chore: bump dependencies
 0254. 🚀 perf: reduce image load time
+0491. 🚀 perf: lazy-load components
