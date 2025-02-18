@@ -18349,3 +18349,4 @@
 0570. 🎨 style: apply consistent indentation
 0973. 🔧 refactor: organize models into subfolders
 0730. ✅ test: test user registration edge cases
+0543. ✨ feat: support email verification
