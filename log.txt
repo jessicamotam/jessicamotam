@@ -34953,3 +34953,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0344. ♻️ chore: add GitHub actions badge
 0351. ✨ feat: add export to CSV option
+0792. 🎨 style: standardize quote style
