@@ -32906,3 +32906,4 @@
 0968. 🎨 style: standardize quote style
 0398. 🚀 perf: cache repeated calculations
 0834. ✅ test: increase coverage on auth module
+0441. 📚 docs: add API usage examples
