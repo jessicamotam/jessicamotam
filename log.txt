@@ -73812,3 +73812,4 @@
 0656. 🎨 style: apply consistent indentation
 0367. 🐛 fix: fix null pointer exception on login
 0703. 🔧 refactor: clean up auth middleware
+0376. 🎨 style: apply consistent indentation
