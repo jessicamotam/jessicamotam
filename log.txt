@@ -48017,3 +48017,4 @@
 0348. ✅ test: test user registration edge cases
 0927. ♻️ chore: bump dependencies
 0568. 🐛 fix: handle 500 error in quiz API
+0221. ✨ feat: add user authentication
