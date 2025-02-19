@@ -7037,3 +7037,4 @@
 0487. 🎨 style: reformat files with black
 0133. 🐛 fix: fix null pointer exception on login
 0153. ♻️ chore: rename env.example
+0616. 🚀 perf: lazy-load components
