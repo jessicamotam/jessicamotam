@@ -21474,3 +21474,4 @@
 0868. ✅ test: add unit test for quiz service
 0277. 🎨 style: standardize quote style
 0294. 🐛 fix: prevent crash on empty input
+0110. 🐛 fix: prevent crash on empty input
