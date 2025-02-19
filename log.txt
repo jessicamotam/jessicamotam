@@ -64593,3 +64593,4 @@
 0758. 🚀 perf: optimize database query for quiz results
 0244. ✨ feat: add export to CSV option
 0840. 🔧 refactor: refactor quiz grading logic
+0308. 🚀 perf: reduce image load time
