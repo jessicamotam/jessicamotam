@@ -32293,3 +32293,4 @@
 0443. 🎨 style: standardize quote style
 0262. 🎨 style: remove trailing whitespace
 0999. 🔧 refactor: split large controller into smaller functions
+0171. 🐛 fix: fix broken CSS in mobile view
