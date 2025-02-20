@@ -722,3 +722,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0168. ✅ test: add integration test for /submit endpoint
 0313. 🎨 style: apply consistent indentation
+0843. 📚 docs: document token refresh logic
