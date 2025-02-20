@@ -86889,3 +86889,4 @@
 0234. ♻️ chore: rename env.example
 0832. 🔧 refactor: remove redundant code blocks
 0415. 🐛 fix: handle 500 error in quiz API
+0980. 🎨 style: reformat files with black
