@@ -35374,3 +35374,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0519. 📚 docs: document token refresh logic
 0985. 📚 docs: document token refresh logic
+0393. 🚀 perf: lazy-load components
