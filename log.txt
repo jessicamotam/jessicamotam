@@ -16451,3 +16451,4 @@
 0619. ✨ feat: create admin dashboard
 0819. 🚀 perf: reduce image load time
 0754. 🐛 fix: handle 500 error in quiz API
+0756. ✨ feat: support email verification
