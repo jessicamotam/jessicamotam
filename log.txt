@@ -23625,3 +23625,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0577. ✨ feat: implement quiz timer feature
 0888. 🚀 perf: lazy-load components
+0960. ✅ test: increase coverage on auth module
