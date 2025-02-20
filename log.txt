@@ -20245,3 +20245,4 @@
 0636. ✅ test: increase coverage on auth module
 0556. ✨ feat: support email verification
 0362. 📚 docs: add API usage examples
+0861. ♻️ chore: clean up unused files
