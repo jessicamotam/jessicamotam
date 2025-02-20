@@ -67572,3 +67572,4 @@
 0915. 🚀 perf: cache repeated calculations
 0559. 🔧 refactor: split large controller into smaller functions
 0941. 🚀 perf: cache repeated calculations
+0641. 📚 docs: write FAQ section
