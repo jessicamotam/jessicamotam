@@ -67072,3 +67072,4 @@
 0487. 🎨 style: reformat files with black
 0221. ✨ feat: add user authentication
 0092. 🚀 perf: reduce image load time
+0695. ✨ feat: create admin dashboard
