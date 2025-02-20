@@ -23170,3 +23170,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0966. 📚 docs: improve code comments in utils
 0051. ✨ feat: enable dark mode toggle
+0258. 🐛 fix: prevent crash on empty input
