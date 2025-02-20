@@ -19031,3 +19031,4 @@
 0178. ✨ feat: support email verification
 0499. 🎨 style: reformat files with black
 0440. 📚 docs: update README with setup steps
+0979. 🎨 style: standardize quote style
