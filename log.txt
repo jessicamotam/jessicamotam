@@ -5887,3 +5887,4 @@
 0078. ♻️ chore: update .gitignore
 0735. ♻️ chore: add GitHub actions badge
 0926. 🔧 refactor: organize models into subfolders
+0187. ✨ feat: support email verification
