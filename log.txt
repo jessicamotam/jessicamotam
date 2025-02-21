@@ -88986,3 +88986,4 @@
 0468. 📚 docs: update README with setup steps
 0770. ♻️ chore: rename env.example
 0391. 🐛 fix: fix null pointer exception on login
+0893. 🐛 fix: handle 500 error in quiz API
