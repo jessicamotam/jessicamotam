@@ -42088,3 +42088,4 @@
 0868. ✅ test: add unit test for quiz service
 0410. 🎨 style: reformat files with black
 0175. 📚 docs: add API usage examples
+0917. ✅ test: add integration test for /submit endpoint
