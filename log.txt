@@ -9917,3 +9917,4 @@
 0301. 🎨 style: apply consistent indentation
 0252. 🎨 style: remove trailing whitespace
 0902. ✨ feat: enable dark mode toggle
+0921. 🐛 fix: correct typo in registration form
