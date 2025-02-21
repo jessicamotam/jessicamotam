@@ -75217,3 +75217,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0707. 🎨 style: apply consistent indentation
 0006. 🐛 fix: prevent crash on empty input
+0529. 📚 docs: write FAQ section
