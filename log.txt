@@ -50317,3 +50317,4 @@
 0848. 📚 docs: update README with setup steps
 0852. ✨ feat: enable dark mode toggle
 0614. 🚀 perf: reduce image load time
+0998. 🐛 fix: fix null pointer exception on login
