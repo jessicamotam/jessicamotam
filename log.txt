@@ -38475,3 +38475,4 @@
 0269. ✅ test: test user registration edge cases
 0294. 🐛 fix: prevent crash on empty input
 0048. 📚 docs: update README with setup steps
+0133. 🐛 fix: fix null pointer exception on login
