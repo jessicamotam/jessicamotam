@@ -18420,3 +18420,4 @@
 0697. ♻️ chore: bump dependencies
 0687. 🎨 style: remove trailing whitespace
 0495. 🔧 refactor: remove redundant code blocks
+0006. 🐛 fix: prevent crash on empty input
