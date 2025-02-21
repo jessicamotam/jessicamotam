@@ -46718,3 +46718,4 @@
 0734. ✨ feat: add export to CSV option
 0764. ✨ feat: add user authentication
 0295. 🎨 style: remove trailing whitespace
+0750. 🎨 style: apply consistent indentation
