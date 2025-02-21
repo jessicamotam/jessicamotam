@@ -9086,3 +9086,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0146. 🎨 style: apply consistent indentation
 0797. 📚 docs: add API usage examples
+0756. ✨ feat: support email verification
