@@ -11954,3 +11954,4 @@
 0679. ♻️ chore: bump dependencies
 0163. ✨ feat: implement quiz timer feature
 0831. 📚 docs: clarify environment setup
+0931. 🚀 perf: reduce image load time
