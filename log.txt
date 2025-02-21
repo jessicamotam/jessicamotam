@@ -47820,3 +47820,4 @@
 0091. ✨ feat: add user authentication
 0572. ✨ feat: add user authentication
 0769. ✨ feat: create admin dashboard
+0527. 🎨 style: remove trailing whitespace
