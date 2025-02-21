@@ -37400,3 +37400,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0828. ♻️ chore: add GitHub actions badge
 0389. 📚 docs: improve code comments in utils
+0225. 🚀 perf: reduce image load time
