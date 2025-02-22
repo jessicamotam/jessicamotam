@@ -2198,3 +2198,4 @@
 0977. 🔧 refactor: organize models into subfolders
 0113. ✨ feat: add user authentication
 0359. 🔧 refactor: clean up auth middleware
+0661. ✅ test: add integration test for /submit endpoint
