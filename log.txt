@@ -70541,3 +70541,4 @@
 0279. ✨ feat: support email verification
 0353. ♻️ chore: rename env.example
 0595. ✨ feat: enable dark mode toggle
+0013. ✅ test: increase coverage on auth module
