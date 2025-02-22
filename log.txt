@@ -60161,3 +60161,4 @@
 0341. 🚀 perf: lazy-load components
 0142. ✨ feat: implement quiz timer feature
 0157. ✅ test: mock database connection in test suite
+0506. 🐛 fix: handle 500 error in quiz API
