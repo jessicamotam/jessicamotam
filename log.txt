@@ -85385,3 +85385,4 @@
 0857. 🎨 style: rename variables for clarity
 0995. ✅ test: mock database connection in test suite
 0029. 🚀 perf: lazy-load components
+0940. 📚 docs: document token refresh logic
