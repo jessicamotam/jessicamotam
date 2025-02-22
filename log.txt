@@ -59935,3 +59935,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0053. ✅ test: increase coverage on auth module
 0080. ✨ feat: support email verification
+0531. 🐛 fix: prevent crash on empty input
