@@ -12328,3 +12328,4 @@
 0508. ✅ test: add unit test for quiz service
 0115. 🚀 perf: reduce image load time
 0469. 🚀 perf: lazy-load components
+0431. 🎨 style: reformat files with black
