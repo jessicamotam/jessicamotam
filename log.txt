@@ -56351,3 +56351,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0210. 🎨 style: apply consistent indentation
 0095. ✅ test: mock database connection in test suite
+0172. 📚 docs: add API usage examples
