@@ -19460,3 +19460,4 @@
 0619. ✨ feat: create admin dashboard
 0532. 🔧 refactor: split large controller into smaller functions
 0552. 🐛 fix: fix null pointer exception on login
+0085. ✨ feat: support email verification
