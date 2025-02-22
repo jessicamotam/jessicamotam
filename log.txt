@@ -57125,3 +57125,4 @@
 0884. 📚 docs: clarify environment setup
 0595. ✨ feat: enable dark mode toggle
 0064. 📚 docs: clarify environment setup
+0349. ✅ test: increase coverage on auth module
