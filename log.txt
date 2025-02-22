@@ -21430,3 +21430,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0916. ♻️ chore: bump dependencies
 0533. ♻️ chore: add GitHub actions badge
+0227. ✅ test: test user registration edge cases
