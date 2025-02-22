@@ -56842,3 +56842,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0273. 🚀 perf: reduce image load time
 0699. 🎨 style: standardize quote style
+0365. 🚀 perf: reduce image load time
