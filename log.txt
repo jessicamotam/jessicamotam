@@ -41725,3 +41725,4 @@
 0660. 🐛 fix: correct typo in registration form
 0927. ♻️ chore: bump dependencies
 0078. ♻️ chore: update .gitignore
+0313. 🎨 style: apply consistent indentation
