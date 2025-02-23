@@ -55494,3 +55494,4 @@
 0539. 🔧 refactor: organize models into subfolders
 0122. ✨ feat: support email verification
 0870. ♻️ chore: clean up unused files
+0844. 📚 docs: update README with setup steps
