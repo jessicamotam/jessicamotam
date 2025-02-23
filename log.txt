@@ -41898,3 +41898,4 @@
 0393. 🚀 perf: lazy-load components
 0225. 🚀 perf: reduce image load time
 0905. ♻️ chore: bump dependencies
+0741. 🎨 style: apply consistent indentation
