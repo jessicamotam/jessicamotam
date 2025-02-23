@@ -27939,3 +27939,4 @@
 0309. 🔧 refactor: refactor quiz grading logic
 0490. ✨ feat: create admin dashboard
 0559. 🔧 refactor: split large controller into smaller functions
+0583. ✅ test: increase coverage on auth module
