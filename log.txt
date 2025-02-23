@@ -36452,3 +36452,4 @@
 0864. 🐛 fix: correct typo in registration form
 0218. 🔧 refactor: clean up auth middleware
 0013. ✅ test: increase coverage on auth module
+0653. 🐛 fix: prevent crash on empty input
