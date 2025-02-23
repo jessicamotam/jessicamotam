@@ -17314,3 +17314,4 @@
 0765. ♻️ chore: clean up unused files
 0667. ✨ feat: add export to CSV option
 0777. 📚 docs: document token refresh logic
+0900. 🐛 fix: handle 500 error in quiz API
