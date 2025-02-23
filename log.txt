@@ -82292,3 +82292,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0490. ✨ feat: create admin dashboard
 0324. 📚 docs: document token refresh logic
+0498. ✅ test: mock database connection in test suite
