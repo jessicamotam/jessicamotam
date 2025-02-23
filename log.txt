@@ -35695,3 +35695,4 @@
 0443. 🎨 style: standardize quote style
 0184. 📚 docs: improve code comments in utils
 0485. 📚 docs: update README with setup steps
+0593. 🐛 fix: correct typo in registration form
