@@ -88006,3 +88006,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0800. 🚀 perf: optimize database query for quiz results
 0721. 🚀 perf: optimize database query for quiz results
+0605. ✨ feat: support email verification
