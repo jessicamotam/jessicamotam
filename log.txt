@@ -15101,3 +15101,4 @@
 0697. ♻️ chore: bump dependencies
 0598. 🔧 refactor: remove redundant code blocks
 0473. 📚 docs: write FAQ section
+0695. ✨ feat: create admin dashboard
