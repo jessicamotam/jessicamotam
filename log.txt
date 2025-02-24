@@ -8518,3 +8518,4 @@
 0903. ✅ test: mock database connection in test suite
 0629. 🔧 refactor: organize models into subfolders
 0609. 🐛 fix: handle 500 error in quiz API
+0786. ✨ feat: enable dark mode toggle
