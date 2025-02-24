@@ -40886,3 +40886,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0618. ✨ feat: support email verification
 0558. ✨ feat: enable dark mode toggle
+0540. ♻️ chore: add GitHub actions badge
