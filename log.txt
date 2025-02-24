@@ -65429,3 +65429,4 @@
 0265. 🎨 style: reformat files with black
 0454. ♻️ chore: bump dependencies
 0406. ✨ feat: add export to CSV option
+0735. ♻️ chore: add GitHub actions badge
