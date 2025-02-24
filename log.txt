@@ -11409,3 +11409,4 @@
 0349. ✅ test: increase coverage on auth module
 0535. 📚 docs: write FAQ section
 0351. ✨ feat: add export to CSV option
+0958. 🐛 fix: prevent crash on empty input
