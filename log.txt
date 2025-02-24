@@ -54971,3 +54971,4 @@
 0518. ✨ feat: support email verification
 0734. ✨ feat: add export to CSV option
 0804. ♻️ chore: add GitHub actions badge
+0663. 🚀 perf: reduce image load time
