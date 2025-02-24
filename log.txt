@@ -81814,3 +81814,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0863. 🐛 fix: correct typo in registration form
 0207. 🐛 fix: prevent crash on empty input
+0651. ✨ feat: enable dark mode toggle
