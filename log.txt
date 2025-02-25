@@ -29813,3 +29813,4 @@
 0037. 🐛 fix: correct typo in registration form
 0171. 🐛 fix: fix broken CSS in mobile view
 0889. 🚀 perf: lazy-load components
+0077. ♻️ chore: rename env.example
