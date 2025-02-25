@@ -12889,3 +12889,4 @@
 0157. ✅ test: mock database connection in test suite
 0290. ✅ test: test user registration edge cases
 0661. ✅ test: add integration test for /submit endpoint
+0025. 🚀 perf: optimize database query for quiz results
