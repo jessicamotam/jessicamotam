@@ -7460,3 +7460,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0122. ✨ feat: support email verification
 0543. ✨ feat: support email verification
+0363. 📚 docs: clarify environment setup
