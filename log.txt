@@ -24254,3 +24254,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0294. 🐛 fix: prevent crash on empty input
 0255. 🔧 refactor: refactor quiz grading logic
+0391. 🐛 fix: fix null pointer exception on login
