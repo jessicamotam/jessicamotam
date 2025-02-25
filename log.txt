@@ -86541,3 +86541,4 @@
 0135. ✅ test: test user registration edge cases
 0306. 🎨 style: apply consistent indentation
 0270. ♻️ chore: rename env.example
+0594. 🎨 style: reformat files with black
