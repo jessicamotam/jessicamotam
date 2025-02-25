@@ -22945,3 +22945,4 @@
 0829. 🔧 refactor: organize models into subfolders
 0270. ♻️ chore: rename env.example
 0357. ✅ test: add unit test for quiz service
+0895. ✨ feat: support email verification
