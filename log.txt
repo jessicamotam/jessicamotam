@@ -26674,3 +26674,4 @@
 0699. 🎨 style: standardize quote style
 0049. 🐛 fix: handle 500 error in quiz API
 0940. 📚 docs: document token refresh logic
+0367. 🐛 fix: fix null pointer exception on login
