@@ -74883,3 +74883,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0435. ✅ test: add unit test for quiz service
 0253. 📚 docs: update README with setup steps
+0897. 🐛 fix: prevent crash on empty input
