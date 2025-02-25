@@ -83181,3 +83181,4 @@
 0329. 📚 docs: update README with setup steps
 0118. 🚀 perf: reduce image load time
 0337. 📚 docs: document token refresh logic
+0543. ✨ feat: support email verification
