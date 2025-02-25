@@ -27003,3 +27003,4 @@
 0462. ♻️ chore: update .gitignore
 0620. ✨ feat: implement quiz timer feature
 0018. 🔧 refactor: organize models into subfolders
+0595. ✨ feat: enable dark mode toggle
