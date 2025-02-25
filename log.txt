@@ -36373,3 +36373,4 @@
 0466. 🚀 perf: optimize database query for quiz results
 0605. ✨ feat: support email verification
 0391. 🐛 fix: fix null pointer exception on login
+0649. 📚 docs: update README with setup steps
