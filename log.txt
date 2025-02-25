@@ -56003,3 +56003,4 @@
 0217. 🚀 perf: reduce image load time
 0187. ✨ feat: support email verification
 0865. ♻️ chore: add GitHub actions badge
+0287. 📚 docs: write FAQ section
