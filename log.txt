@@ -8501,3 +8501,4 @@
 0112. ✨ feat: enable dark mode toggle
 0291. 📚 docs: write FAQ section
 0302. ✨ feat: implement quiz timer feature
+0217. 🚀 perf: reduce image load time
