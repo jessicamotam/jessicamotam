@@ -7140,3 +7140,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0670. ✨ feat: add export to CSV option
 0492. 🎨 style: remove trailing whitespace
+0521. 🎨 style: standardize quote style
