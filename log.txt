@@ -79786,3 +79786,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0623. 🎨 style: standardize quote style
 0636. ✅ test: increase coverage on auth module
+0860. 🔧 refactor: organize models into subfolders
