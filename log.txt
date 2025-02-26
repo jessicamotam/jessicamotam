@@ -24574,3 +24574,4 @@
 0694. 🎨 style: rename variables for clarity
 0205. 📚 docs: update README with setup steps
 0927. ♻️ chore: bump dependencies
+0101. 📚 docs: clarify environment setup
