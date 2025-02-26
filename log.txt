@@ -18992,3 +18992,4 @@
 0008. 🚀 perf: reduce image load time
 0290. ✅ test: test user registration edge cases
 0483. 📚 docs: update README with setup steps
+0479. 🐛 fix: fix null pointer exception on login
