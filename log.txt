@@ -85112,3 +85112,4 @@
 0149. ✨ feat: add export to CSV option
 0529. 📚 docs: write FAQ section
 0596. ♻️ chore: update .gitignore
+0977. 🔧 refactor: organize models into subfolders
