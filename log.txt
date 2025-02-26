@@ -87445,3 +87445,4 @@
 0128. ♻️ chore: rename env.example
 0826. 📚 docs: clarify environment setup
 0127. 🐛 fix: fix null pointer exception on login
+0661. ✅ test: add integration test for /submit endpoint
