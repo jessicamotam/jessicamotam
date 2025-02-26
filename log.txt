@@ -9253,3 +9253,4 @@
 0649. 📚 docs: update README with setup steps
 0805. ♻️ chore: add GitHub actions badge
 0463. 🚀 perf: reduce image load time
+0060. ♻️ chore: clean up unused files
