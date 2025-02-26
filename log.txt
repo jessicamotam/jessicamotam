@@ -35767,3 +35767,4 @@
 0008. 🚀 perf: reduce image load time
 0632. 🎨 style: remove trailing whitespace
 0311. 🎨 style: apply consistent indentation
+0524. ♻️ chore: rename env.example
