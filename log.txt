@@ -57078,3 +57078,4 @@
 0234. ♻️ chore: rename env.example
 0102. ✨ feat: support email verification
 0102. ✨ feat: support email verification
+0058. ♻️ chore: add GitHub actions badge
