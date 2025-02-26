@@ -77862,3 +77862,4 @@
 0308. 🚀 perf: reduce image load time
 0675. 🔧 refactor: organize models into subfolders
 0258. 🐛 fix: prevent crash on empty input
+0960. ✅ test: increase coverage on auth module
