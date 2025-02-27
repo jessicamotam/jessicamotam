@@ -26318,3 +26318,4 @@
 0524. ♻️ chore: rename env.example
 0316. 🐛 fix: fix broken CSS in mobile view
 0242. ♻️ chore: clean up unused files
+0197. 📚 docs: update README with setup steps
