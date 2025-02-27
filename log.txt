@@ -71364,3 +71364,4 @@
 0879. 🎨 style: standardize quote style
 0229. 🚀 perf: optimize database query for quiz results
 0283. ♻️ chore: add GitHub actions badge
+0253. 📚 docs: update README with setup steps
