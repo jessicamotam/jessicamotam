@@ -77859,3 +77859,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0561. 📚 docs: write FAQ section
 0458. ✨ feat: create admin dashboard
+0308. 🚀 perf: reduce image load time
