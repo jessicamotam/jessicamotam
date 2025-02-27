@@ -83505,3 +83505,4 @@
 0870. ♻️ chore: clean up unused files
 0718. 🐛 fix: resolve issue with date parsing
 0148. 🔧 refactor: organize models into subfolders
+0231. 🔧 refactor: clean up auth middleware
