@@ -73195,3 +73195,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0049. 🐛 fix: handle 500 error in quiz API
 0174. 📚 docs: clarify environment setup
+0348. ✅ test: test user registration edge cases
