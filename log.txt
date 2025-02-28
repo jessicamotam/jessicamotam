@@ -20389,3 +20389,4 @@
 0729. 🔧 refactor: refactor quiz grading logic
 0475. 🔧 refactor: clean up auth middleware
 0529. 📚 docs: write FAQ section
+0368. 🚀 perf: lazy-load components
