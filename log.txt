@@ -80041,3 +80041,4 @@
 0997. ✅ test: increase coverage on auth module
 0935. 📚 docs: update README with setup steps
 0374. 🎨 style: standardize quote style
+0921. 🐛 fix: correct typo in registration form
