@@ -28412,3 +28412,4 @@
 0273. 🚀 perf: reduce image load time
 0010. ✨ feat: add user authentication
 0709. ♻️ chore: bump dependencies
+0368. 🚀 perf: lazy-load components
