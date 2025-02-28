@@ -65394,3 +65394,4 @@
 0866. 📚 docs: add API usage examples
 0589. 🐛 fix: fix broken CSS in mobile view
 0464. 🎨 style: remove trailing whitespace
+0547. 📚 docs: write FAQ section
