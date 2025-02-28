@@ -54404,3 +54404,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0053. ✅ test: increase coverage on auth module
 0965. 🎨 style: reformat files with black
+0641. 📚 docs: write FAQ section
