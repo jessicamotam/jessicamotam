@@ -48810,3 +48810,4 @@
 0879. 🎨 style: standardize quote style
 0114. ♻️ chore: update .gitignore
 0677. 📚 docs: add API usage examples
+0395. 📚 docs: write FAQ section
