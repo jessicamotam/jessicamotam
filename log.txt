@@ -3740,3 +3740,4 @@
 0356. 📚 docs: write FAQ section
 0013. ✅ test: increase coverage on auth module
 0305. ✨ feat: enable dark mode toggle
+0094. 📚 docs: document token refresh logic
