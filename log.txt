@@ -69797,3 +69797,4 @@
 0664. ✅ test: add unit test for quiz service
 0275. 🎨 style: standardize quote style
 0499. 🎨 style: reformat files with black
+0803. ✅ test: mock database connection in test suite
