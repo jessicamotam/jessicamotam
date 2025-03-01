@@ -53050,3 +53050,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0649. 📚 docs: update README with setup steps
 0519. 📚 docs: document token refresh logic
+0249. ✅ test: increase coverage on auth module
