@@ -6069,3 +6069,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0806. 📚 docs: improve code comments in utils
 0407. 🚀 perf: cache repeated calculations
+0896. 🚀 perf: reduce image load time
