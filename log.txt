@@ -57711,3 +57711,4 @@
 0236. 🔧 refactor: remove redundant code blocks
 0440. 📚 docs: update README with setup steps
 0670. ✨ feat: add export to CSV option
+0294. 🐛 fix: prevent crash on empty input
