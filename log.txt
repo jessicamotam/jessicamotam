@@ -83037,3 +83037,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0996. ✅ test: test user registration edge cases
 0787. ♻️ chore: rename env.example
+0076. 🎨 style: reformat files with black
