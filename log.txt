@@ -65821,3 +65821,4 @@
 0720. ✨ feat: add export to CSV option
 0228. 🔧 refactor: remove redundant code blocks
 0565. ♻️ chore: add GitHub actions badge
+0572. ✨ feat: add user authentication
