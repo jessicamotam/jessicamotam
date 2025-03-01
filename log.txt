@@ -2082,3 +2082,4 @@
 0351. ✨ feat: add export to CSV option
 0617. ✨ feat: support email verification
 0690. 🚀 perf: lazy-load components
+0672. 🐛 fix: fix broken CSS in mobile view
