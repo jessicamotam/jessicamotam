@@ -28618,3 +28618,4 @@
 0196. ♻️ chore: bump dependencies
 0519. 📚 docs: document token refresh logic
 0368. 🚀 perf: lazy-load components
+0326. 🚀 perf: cache repeated calculations
