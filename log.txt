@@ -36481,3 +36481,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0176. 🔧 refactor: remove redundant code blocks
 0490. ✨ feat: create admin dashboard
+0888. 🚀 perf: lazy-load components
