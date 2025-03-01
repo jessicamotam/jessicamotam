@@ -52020,3 +52020,4 @@
 0670. ✨ feat: add export to CSV option
 0003. ✅ test: increase coverage on auth module
 0230. ✨ feat: create admin dashboard
+0790. 📚 docs: write FAQ section
