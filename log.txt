@@ -80350,3 +80350,4 @@
 0627. 📚 docs: document token refresh logic
 0809. ♻️ chore: rename env.example
 0176. 🔧 refactor: remove redundant code blocks
+0429. ✨ feat: add user authentication
