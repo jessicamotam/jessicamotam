@@ -17968,3 +17968,4 @@
 0035. ✅ test: increase coverage on auth module
 0715. ✨ feat: create admin dashboard
 0979. 🎨 style: standardize quote style
+0041. 🐛 fix: fix broken CSS in mobile view
