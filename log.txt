@@ -28350,3 +28350,4 @@
 0476. 🚀 perf: reduce image load time
 0202. 🔧 refactor: refactor quiz grading logic
 0678. ✨ feat: add user authentication
+0578. ✅ test: add integration test for /submit endpoint
