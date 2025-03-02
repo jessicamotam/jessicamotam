@@ -51148,3 +51148,4 @@
 0445. 📚 docs: improve code comments in utils
 0879. 🎨 style: standardize quote style
 0402. 🎨 style: reformat files with black
+0107. 🐛 fix: prevent crash on empty input
