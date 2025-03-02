@@ -13101,3 +13101,4 @@
 0969. ✨ feat: create admin dashboard
 0397. 🐛 fix: handle 500 error in quiz API
 0854. ♻️ chore: rename env.example
+0790. 📚 docs: write FAQ section
