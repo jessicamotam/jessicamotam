@@ -29653,3 +29653,4 @@
 0864. 🐛 fix: correct typo in registration form
 0520. 🐛 fix: fix null pointer exception on login
 0488. ♻️ chore: add GitHub actions badge
+0626. 🎨 style: standardize quote style
