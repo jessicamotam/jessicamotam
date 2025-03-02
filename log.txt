@@ -48126,3 +48126,4 @@
 0385. ♻️ chore: clean up unused files
 0862. ♻️ chore: bump dependencies
 0651. ✨ feat: enable dark mode toggle
+0469. 🚀 perf: lazy-load components
