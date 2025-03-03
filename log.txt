@@ -66240,3 +66240,4 @@
 0866. 📚 docs: add API usage examples
 0320. 📚 docs: update README with setup steps
 0277. 🎨 style: standardize quote style
+0852. ✨ feat: enable dark mode toggle
