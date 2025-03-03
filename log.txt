@@ -50286,3 +50286,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0788. 📚 docs: add API usage examples
 0641. 📚 docs: write FAQ section
+0697. ♻️ chore: bump dependencies
