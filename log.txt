@@ -75783,3 +75783,4 @@
 0227. ✅ test: test user registration edge cases
 0116. ✨ feat: support email verification
 0393. 🚀 perf: lazy-load components
+0693. 📚 docs: add API usage examples
