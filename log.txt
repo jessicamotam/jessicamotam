@@ -83887,3 +83887,4 @@
 0612. ✅ test: test user registration edge cases
 0484. 🐛 fix: handle 500 error in quiz API
 0058. ♻️ chore: add GitHub actions badge
+0481. ✅ test: add unit test for quiz service
