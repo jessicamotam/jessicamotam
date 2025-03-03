@@ -20257,3 +20257,4 @@
 0301. 🎨 style: apply consistent indentation
 0182. 🔧 refactor: remove redundant code blocks
 0158. 📚 docs: clarify environment setup
+0339. 📚 docs: update README with setup steps
