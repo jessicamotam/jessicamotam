@@ -45314,3 +45314,4 @@
 0866. 📚 docs: add API usage examples
 0890. 🔧 refactor: organize models into subfolders
 0071. 🔧 refactor: refactor quiz grading logic
+0552. 🐛 fix: fix null pointer exception on login
