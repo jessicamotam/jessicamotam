@@ -42911,3 +42911,4 @@
 0002. 🚀 perf: cache repeated calculations
 0726. ✨ feat: enable dark mode toggle
 0787. ♻️ chore: rename env.example
+0605. ✨ feat: support email verification
