@@ -52883,3 +52883,4 @@
 0106. 🎨 style: reformat files with black
 0920. 🔧 refactor: organize models into subfolders
 0279. ✨ feat: support email verification
+0263. 📚 docs: add API usage examples
