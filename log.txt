@@ -44443,3 +44443,4 @@
 0580. ♻️ chore: bump dependencies
 0425. 🔧 refactor: refactor quiz grading logic
 0414. 🔧 refactor: remove redundant code blocks
+0611. ✅ test: test user registration edge cases
