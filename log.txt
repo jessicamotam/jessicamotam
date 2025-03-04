@@ -16658,3 +16658,4 @@
 0679. ♻️ chore: bump dependencies
 0804. ♻️ chore: add GitHub actions badge
 0388. 🎨 style: reformat files with black
+0037. 🐛 fix: correct typo in registration form
