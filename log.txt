@@ -12418,3 +12418,4 @@
 0115. 🚀 perf: reduce image load time
 0473. 📚 docs: write FAQ section
 0311. 🎨 style: apply consistent indentation
+0659. 📚 docs: add API usage examples
