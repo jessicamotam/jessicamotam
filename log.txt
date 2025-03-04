@@ -80967,3 +80967,4 @@
 0956. 📚 docs: clarify environment setup
 0536. ✨ feat: add user authentication
 0543. ✨ feat: support email verification
+0669. ✨ feat: enable dark mode toggle
