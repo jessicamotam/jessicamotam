@@ -49257,3 +49257,4 @@
 0850. ♻️ chore: rename env.example
 0947. 📚 docs: write FAQ section
 0710. 🐛 fix: fix broken CSS in mobile view
+0329. 📚 docs: update README with setup steps
