@@ -3671,3 +3671,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0845. 🚀 perf: cache repeated calculations
 0093. ✅ test: add unit test for quiz service
+0080. ✨ feat: support email verification
