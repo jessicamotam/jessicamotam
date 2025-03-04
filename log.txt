@@ -32702,3 +32702,4 @@
 0731. 🎨 style: standardize quote style
 0657. 🎨 style: standardize quote style
 0301. 🎨 style: apply consistent indentation
+0439. 🐛 fix: correct typo in registration form
