@@ -83038,3 +83038,4 @@
 0996. ✅ test: test user registration edge cases
 0787. ♻️ chore: rename env.example
 0076. 🎨 style: reformat files with black
+0220. 🐛 fix: fix null pointer exception on login
