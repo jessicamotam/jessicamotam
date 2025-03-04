@@ -2609,3 +2609,4 @@
 0372. ✨ feat: add user authentication
 0942. ✅ test: increase coverage on auth module
 0349. ✅ test: increase coverage on auth module
+0800. 🚀 perf: optimize database query for quiz results
