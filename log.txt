@@ -9446,3 +9446,4 @@
 0843. 📚 docs: document token refresh logic
 0592. 📚 docs: add API usage examples
 0359. 🔧 refactor: clean up auth middleware
+0735. ♻️ chore: add GitHub actions badge
