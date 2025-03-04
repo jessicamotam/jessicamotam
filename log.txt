@@ -27795,3 +27795,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0945. ♻️ chore: add GitHub actions badge
 0747. 🔧 refactor: clean up auth middleware
+0122. ✨ feat: support email verification
