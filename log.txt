@@ -7981,3 +7981,4 @@
 0306. 🎨 style: apply consistent indentation
 0777. 📚 docs: document token refresh logic
 0817. 🔧 refactor: remove redundant code blocks
+0877. 🚀 perf: optimize database query for quiz results
