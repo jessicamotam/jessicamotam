@@ -12917,3 +12917,4 @@
 0984. ♻️ chore: clean up unused files
 0774. 🔧 refactor: refactor quiz grading logic
 0387. ✨ feat: enable dark mode toggle
+0931. 🚀 perf: reduce image load time
