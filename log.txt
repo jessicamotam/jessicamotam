@@ -81576,3 +81576,4 @@
 0916. ♻️ chore: bump dependencies
 0669. ✨ feat: enable dark mode toggle
 0609. 🐛 fix: handle 500 error in quiz API
+0833. ✨ feat: add user authentication
