@@ -38740,3 +38740,4 @@
 0782. 📚 docs: improve code comments in utils
 0679. ♻️ chore: bump dependencies
 0152. ✨ feat: add user authentication
+0110. 🐛 fix: prevent crash on empty input
