@@ -36441,3 +36441,4 @@
 0050. ✨ feat: enable dark mode toggle
 0789. ✨ feat: create admin dashboard
 0048. 📚 docs: update README with setup steps
+0948. 🐛 fix: fix broken CSS in mobile view
