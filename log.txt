@@ -90193,3 +90193,4 @@
 0997. ✅ test: increase coverage on auth module
 0644. 🎨 style: apply consistent indentation
 0792. 🎨 style: standardize quote style
+0227. ✅ test: test user registration edge cases
