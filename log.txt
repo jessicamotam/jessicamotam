@@ -38510,3 +38510,4 @@
 0962. ✨ feat: create admin dashboard
 0374. 🎨 style: standardize quote style
 0247. 🎨 style: apply consistent indentation
+0222. 🐛 fix: handle 500 error in quiz API
