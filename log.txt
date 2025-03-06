@@ -14954,3 +14954,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0498. ✅ test: mock database connection in test suite
 0859. ✨ feat: create admin dashboard
+0816. 🔧 refactor: organize models into subfolders
