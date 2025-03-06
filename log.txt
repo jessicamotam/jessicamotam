@@ -52261,3 +52261,4 @@
 0019. ✨ feat: enable dark mode toggle
 0117. ✅ test: increase coverage on auth module
 0571. 🔧 refactor: clean up auth middleware
+0725. 🚀 perf: lazy-load components
