@@ -37041,3 +37041,4 @@
 0739. 🎨 style: remove trailing whitespace
 0630. 🚀 perf: lazy-load components
 0009. ✨ feat: enable dark mode toggle
+0582. ✨ feat: add export to CSV option
