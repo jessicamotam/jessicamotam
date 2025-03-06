@@ -70572,3 +70572,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0217. 🚀 perf: reduce image load time
 0561. 📚 docs: write FAQ section
+0668. 🚀 perf: optimize database query for quiz results
