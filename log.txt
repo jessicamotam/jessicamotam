@@ -50736,3 +50736,4 @@
 0810. 🔧 refactor: refactor quiz grading logic
 0967. ♻️ chore: add GitHub actions badge
 0490. ✨ feat: create admin dashboard
+0673. 🐛 fix: correct typo in registration form
