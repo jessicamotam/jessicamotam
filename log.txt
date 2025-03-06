@@ -76823,3 +76823,4 @@
 0908. ♻️ chore: bump dependencies
 0313. 🎨 style: apply consistent indentation
 0340. 🚀 perf: optimize database query for quiz results
+0477. 🐛 fix: fix broken CSS in mobile view
