@@ -71241,3 +71241,4 @@
 0035. ✅ test: increase coverage on auth module
 0149. ✨ feat: add export to CSV option
 0305. ✨ feat: enable dark mode toggle
+0566. 📚 docs: write FAQ section
