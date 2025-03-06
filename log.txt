@@ -65840,3 +65840,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0622. 🎨 style: apply consistent indentation
 0568. 🐛 fix: handle 500 error in quiz API
+0892. ✅ test: add unit test for quiz service
