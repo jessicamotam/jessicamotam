@@ -407,3 +407,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0145. 📚 docs: improve code comments in utils
 0516. ✅ test: add unit test for quiz service
+0039. ✅ test: add integration test for /submit endpoint
