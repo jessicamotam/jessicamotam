@@ -26246,3 +26246,4 @@
 0405. ✅ test: mock database connection in test suite
 0944. ✨ feat: add user authentication
 0189. 📚 docs: clarify environment setup
+0116. ✨ feat: support email verification
