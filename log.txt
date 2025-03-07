@@ -5368,3 +5368,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0807. 🔧 refactor: remove redundant code blocks
 0691. 🎨 style: rename variables for clarity
+0646. ✅ test: test user registration edge cases
