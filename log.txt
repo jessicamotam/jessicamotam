@@ -584,3 +584,4 @@
 0918. ✨ feat: enable dark mode toggle
 0529. 📚 docs: write FAQ section
 0918. ✨ feat: enable dark mode toggle
+0864. 🐛 fix: correct typo in registration form
