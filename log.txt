@@ -86853,3 +86853,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0158. 📚 docs: clarify environment setup
 0116. ✨ feat: support email verification
+0560. 🎨 style: rename variables for clarity
