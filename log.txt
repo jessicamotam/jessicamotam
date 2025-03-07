@@ -22998,3 +22998,4 @@
 0535. 📚 docs: write FAQ section
 0948. 🐛 fix: fix broken CSS in mobile view
 0536. ✨ feat: add user authentication
+0671. 🐛 fix: fix null pointer exception on login
