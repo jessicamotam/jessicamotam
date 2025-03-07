@@ -54521,3 +54521,4 @@
 0933. 📚 docs: clarify environment setup
 0234. ♻️ chore: rename env.example
 0993. ✨ feat: implement quiz timer feature
+0110. 🐛 fix: prevent crash on empty input
