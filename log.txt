@@ -52363,3 +52363,4 @@
 0401. 🚀 perf: reduce image load time
 0523. ♻️ chore: bump dependencies
 0053. ✅ test: increase coverage on auth module
+0057. 🚀 perf: optimize database query for quiz results
