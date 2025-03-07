@@ -17333,3 +17333,4 @@
 0975. 🎨 style: apply consistent indentation
 0661. ✅ test: add integration test for /submit endpoint
 0824. 🚀 perf: lazy-load components
+0558. ✨ feat: enable dark mode toggle
