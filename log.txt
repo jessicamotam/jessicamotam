@@ -610,3 +610,4 @@
 0241. 📚 docs: add API usage examples
 0657. 🎨 style: standardize quote style
 0758. 🚀 perf: optimize database query for quiz results
+0297. 🎨 style: remove trailing whitespace
