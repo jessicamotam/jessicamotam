@@ -35248,3 +35248,4 @@
 0918. ✨ feat: enable dark mode toggle
 0768. 🎨 style: remove trailing whitespace
 0706. ✨ feat: support email verification
+0636. ✅ test: increase coverage on auth module
