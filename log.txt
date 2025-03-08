@@ -5512,3 +5512,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0914. ✅ test: test user registration edge cases
 0249. ✅ test: increase coverage on auth module
+0690. 🚀 perf: lazy-load components
