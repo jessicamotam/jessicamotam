@@ -76336,3 +76336,4 @@
 0598. 🔧 refactor: remove redundant code blocks
 0740. 🐛 fix: resolve issue with date parsing
 0312. ✨ feat: add user authentication
+0957. 🐛 fix: fix null pointer exception on login
