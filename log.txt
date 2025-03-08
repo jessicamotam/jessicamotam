@@ -5458,3 +5458,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0777. 📚 docs: document token refresh logic
 0827. 🚀 perf: optimize database query for quiz results
+0597. 🚀 perf: cache repeated calculations
