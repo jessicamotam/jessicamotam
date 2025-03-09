@@ -1699,3 +1699,4 @@
 0061. ✨ feat: create admin dashboard
 0564. 📚 docs: clarify environment setup
 0976. ✨ feat: implement quiz timer feature
+0721. 🚀 perf: optimize database query for quiz results
