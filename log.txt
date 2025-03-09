@@ -46078,3 +46078,4 @@
 0670. ✨ feat: add export to CSV option
 0770. ♻️ chore: rename env.example
 0912. 📚 docs: document token refresh logic
+0746. ♻️ chore: add GitHub actions badge
