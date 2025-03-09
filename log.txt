@@ -79951,3 +79951,4 @@
 0503. ♻️ chore: rename env.example
 0611. ✅ test: test user registration edge cases
 0293. ✅ test: add integration test for /submit endpoint
+0219. ✅ test: increase coverage on auth module
