@@ -29213,3 +29213,4 @@
 0402. 🎨 style: reformat files with black
 0124. 🎨 style: reformat files with black
 0855. 🎨 style: reformat files with black
+0159. 🚀 perf: lazy-load components
