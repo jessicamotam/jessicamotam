@@ -3373,3 +3373,4 @@
 0012. 🚀 perf: cache repeated calculations
 0971. 🎨 style: standardize quote style
 0488. ♻️ chore: add GitHub actions badge
+0595. ✨ feat: enable dark mode toggle
