@@ -32131,3 +32131,4 @@
 0656. 🎨 style: apply consistent indentation
 0216. 🎨 style: rename variables for clarity
 0074. ♻️ chore: add GitHub actions badge
+0006. 🐛 fix: prevent crash on empty input
