@@ -75471,3 +75471,4 @@
 0556. ✨ feat: support email verification
 0124. 🎨 style: reformat files with black
 0960. ✅ test: increase coverage on auth module
+0900. 🐛 fix: handle 500 error in quiz API
