@@ -80718,3 +80718,4 @@
 0891. ✨ feat: create admin dashboard
 0108. 🎨 style: remove trailing whitespace
 0867. 🔧 refactor: refactor quiz grading logic
+0660. 🐛 fix: correct typo in registration form
