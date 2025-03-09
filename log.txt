@@ -52674,3 +52674,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0742. 📚 docs: clarify environment setup
 0014. 🔧 refactor: remove redundant code blocks
+0451. ✨ feat: support email verification
