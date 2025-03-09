@@ -5033,3 +5033,4 @@
 0582. ✨ feat: add export to CSV option
 0667. ✨ feat: add export to CSV option
 0296. 🔧 refactor: organize models into subfolders
+0383. 🐛 fix: fix broken CSS in mobile view
