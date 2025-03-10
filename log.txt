@@ -46608,3 +46608,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0390. 🎨 style: standardize quote style
 0679. ♻️ chore: bump dependencies
+0144. ✅ test: increase coverage on auth module
