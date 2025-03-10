@@ -65721,3 +65721,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 0758. 🚀 perf: optimize database query for quiz results
 0350. 🚀 perf: cache repeated calculations
+0585. 🚀 perf: lazy-load components
