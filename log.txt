@@ -41878,3 +41878,4 @@
 0618. ✨ feat: support email verification
 0611. ✅ test: test user registration edge cases
 0964. ♻️ chore: clean up unused files
+0018. 🔧 refactor: organize models into subfolders
