@@ -3081,3 +3081,4 @@
 0204. 🎨 style: standardize quote style
 0247. 🎨 style: apply consistent indentation
 0847. ♻️ chore: clean up unused files
+0787. ♻️ chore: rename env.example
