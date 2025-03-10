@@ -75781,3 +75781,4 @@
 0287. 📚 docs: write FAQ section
 0403. ✅ test: mock database connection in test suite
 0227. ✅ test: test user registration edge cases
+0116. ✨ feat: support email verification
