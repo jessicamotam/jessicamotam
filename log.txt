@@ -12905,3 +12905,4 @@
 0015. ✨ feat: implement quiz timer feature
 0273. 🚀 perf: reduce image load time
 0225. 🚀 perf: reduce image load time
+0062. ♻️ chore: update .gitignore
