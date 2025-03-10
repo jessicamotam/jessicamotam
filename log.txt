@@ -15906,3 +15906,4 @@
 0991. ♻️ chore: clean up unused files
 0393. 🚀 perf: lazy-load components
 0352. ✨ feat: add export to CSV option
+0732. ♻️ chore: add GitHub actions badge
