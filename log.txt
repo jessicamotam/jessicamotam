@@ -72243,3 +72243,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0626. 🎨 style: standardize quote style
 0917. ✅ test: add integration test for /submit endpoint
+0093. ✅ test: add unit test for quiz service
