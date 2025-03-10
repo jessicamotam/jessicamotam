@@ -77495,3 +77495,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0191. 🔧 refactor: refactor quiz grading logic
 0255. 🔧 refactor: refactor quiz grading logic
+0066. 🔧 refactor: clean up auth middleware
