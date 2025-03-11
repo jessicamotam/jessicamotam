@@ -44707,3 +44707,4 @@
 0888. 🚀 perf: lazy-load components
 0010. ✨ feat: add user authentication
 0063. 🐛 fix: handle 500 error in quiz API
+0785. ✨ feat: enable dark mode toggle
