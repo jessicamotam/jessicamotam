@@ -89273,3 +89273,4 @@
 0752. ✅ test: add integration test for /submit endpoint
 0401. 🚀 perf: reduce image load time
 0272. 🔧 refactor: remove redundant code blocks
+0096. 🐛 fix: prevent crash on empty input
