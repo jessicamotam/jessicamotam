@@ -9981,3 +9981,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0572. ✨ feat: add user authentication
 0962. ✨ feat: create admin dashboard
+0914. ✅ test: test user registration edge cases
