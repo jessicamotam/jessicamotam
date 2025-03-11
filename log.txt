@@ -4670,3 +4670,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0016. 🎨 style: apply consistent indentation
 0763. 🔧 refactor: organize models into subfolders
+0267. 📚 docs: improve code comments in utils
