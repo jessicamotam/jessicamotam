@@ -36341,3 +36341,4 @@
 0369. 🎨 style: standardize quote style
 0347. ♻️ chore: update .gitignore
 0538. 🐛 fix: fix broken CSS in mobile view
+0752. ✅ test: add integration test for /submit endpoint
