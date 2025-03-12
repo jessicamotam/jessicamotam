@@ -52738,3 +52738,4 @@
 0620. ✨ feat: implement quiz timer feature
 0617. ✨ feat: support email verification
 0837. 🚀 perf: cache repeated calculations
+0684. 🚀 perf: reduce image load time
