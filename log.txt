@@ -5593,3 +5593,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0982. 🚀 perf: lazy-load components
 0572. ✨ feat: add user authentication
+0368. 🚀 perf: lazy-load components
