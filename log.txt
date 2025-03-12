@@ -17977,3 +17977,4 @@
 0905. ♻️ chore: bump dependencies
 0193. 🚀 perf: optimize database query for quiz results
 0559. 🔧 refactor: split large controller into smaller functions
+0346. ✅ test: mock database connection in test suite
