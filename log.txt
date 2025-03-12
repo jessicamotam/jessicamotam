@@ -61713,3 +61713,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0924. ✅ test: mock database connection in test suite
 0599. ✅ test: test user registration edge cases
+0885. ♻️ chore: update .gitignore
