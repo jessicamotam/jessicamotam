@@ -52300,3 +52300,4 @@
 0949. 📚 docs: write FAQ section
 0687. 🎨 style: remove trailing whitespace
 0550. 🔧 refactor: split large controller into smaller functions
+0203. 🚀 perf: lazy-load components
