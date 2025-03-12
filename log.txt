@@ -27108,3 +27108,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0335. ♻️ chore: update .gitignore
 0655. 🚀 perf: cache repeated calculations
+0600. 🐛 fix: prevent crash on empty input
