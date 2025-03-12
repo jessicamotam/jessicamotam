@@ -9445,3 +9445,4 @@
 0624. ✅ test: add unit test for quiz service
 0843. 📚 docs: document token refresh logic
 0592. 📚 docs: add API usage examples
+0359. 🔧 refactor: clean up auth middleware
