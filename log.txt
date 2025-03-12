@@ -67133,3 +67133,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0474. ✅ test: add unit test for quiz service
 0290. ✅ test: test user registration edge cases
+0178. ✨ feat: support email verification
