@@ -16119,3 +16119,4 @@
 0935. 📚 docs: update README with setup steps
 0450. 🐛 fix: fix broken CSS in mobile view
 0893. 🐛 fix: handle 500 error in quiz API
+0154. 🐛 fix: prevent crash on empty input
