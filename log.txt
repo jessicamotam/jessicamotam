@@ -89100,3 +89100,4 @@
 0260. ✨ feat: create admin dashboard
 0314. ✨ feat: implement quiz timer feature
 0452. ✨ feat: implement quiz timer feature
+0764. ✨ feat: add user authentication
