@@ -63608,3 +63608,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0353. ♻️ chore: rename env.example
 0296. 🔧 refactor: organize models into subfolders
+0786. ✨ feat: enable dark mode toggle
