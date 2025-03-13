@@ -1000,3 +1000,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0352. ✨ feat: add export to CSV option
 0208. 🔧 refactor: clean up auth middleware
+0982. 🚀 perf: lazy-load components
