@@ -64889,3 +64889,4 @@
 0704. 🚀 perf: cache repeated calculations
 0169. 📚 docs: add API usage examples
 0524. ♻️ chore: rename env.example
+0563. 📚 docs: clarify environment setup
