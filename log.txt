@@ -47811,3 +47811,4 @@
 0151. ✅ test: add unit test for quiz service
 0875. ✅ test: increase coverage on auth module
 0533. ♻️ chore: add GitHub actions badge
+0083. 🎨 style: reformat files with black
