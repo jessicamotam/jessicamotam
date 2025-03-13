@@ -42325,3 +42325,4 @@
 0790. 📚 docs: write FAQ section
 0854. ♻️ chore: rename env.example
 0625. 🐛 fix: handle 500 error in quiz API
+0365. 🚀 perf: reduce image load time
