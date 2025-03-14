@@ -9628,3 +9628,4 @@
 0689. 🎨 style: reformat files with black
 0879. 🎨 style: standardize quote style
 0615. 🐛 fix: correct typo in registration form
+0854. ♻️ chore: rename env.example
