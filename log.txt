@@ -61572,3 +61572,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0804. ♻️ chore: add GitHub actions badge
 0543. ✨ feat: support email verification
+0744. 🔧 refactor: remove redundant code blocks
