@@ -6077,3 +6077,4 @@
 0655. 🚀 perf: cache repeated calculations
 0582. ✨ feat: add export to CSV option
 0006. 🐛 fix: prevent crash on empty input
+0399. ✅ test: mock database connection in test suite
