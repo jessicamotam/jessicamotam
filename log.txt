@@ -56195,3 +56195,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0317. ✅ test: test user registration edge cases
 0537. 🔧 refactor: remove redundant code blocks
+0947. 📚 docs: write FAQ section
