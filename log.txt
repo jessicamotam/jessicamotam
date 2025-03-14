@@ -75218,3 +75218,4 @@
 0707. 🎨 style: apply consistent indentation
 0006. 🐛 fix: prevent crash on empty input
 0529. 📚 docs: write FAQ section
+0023. 📚 docs: clarify environment setup
