@@ -9491,3 +9491,4 @@
 0092. 🚀 perf: reduce image load time
 0655. 🚀 perf: cache repeated calculations
 0980. 🎨 style: reformat files with black
+0395. 📚 docs: write FAQ section
