@@ -67951,3 +67951,4 @@
 0696. 🔧 refactor: clean up auth middleware
 0253. 📚 docs: update README with setup steps
 0980. 🎨 style: reformat files with black
+0923. ✨ feat: support email verification
