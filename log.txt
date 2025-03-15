@@ -70089,3 +70089,4 @@
 0440. 📚 docs: update README with setup steps
 0426. ✅ test: add integration test for /submit endpoint
 0524. ♻️ chore: rename env.example
+0339. 📚 docs: update README with setup steps
