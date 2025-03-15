@@ -35783,3 +35783,4 @@
 0173. 🚀 perf: cache repeated calculations
 0217. 🚀 perf: reduce image load time
 0591. ♻️ chore: clean up unused files
+0571. 🔧 refactor: clean up auth middleware
