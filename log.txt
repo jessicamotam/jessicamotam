@@ -74134,3 +74134,4 @@
 0270. ♻️ chore: rename env.example
 0391. 🐛 fix: fix null pointer exception on login
 0192. ✨ feat: enable dark mode toggle
+0702. ✨ feat: add user authentication
