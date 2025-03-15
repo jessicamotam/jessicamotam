@@ -86790,3 +86790,4 @@
 0012. 🚀 perf: cache repeated calculations
 0566. 📚 docs: write FAQ section
 0573. ✅ test: add integration test for /submit endpoint
+0888. 🚀 perf: lazy-load components
