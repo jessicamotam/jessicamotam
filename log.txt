@@ -18249,3 +18249,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0809. ♻️ chore: rename env.example
 0964. ♻️ chore: clean up unused files
+0653. 🐛 fix: prevent crash on empty input
