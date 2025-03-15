@@ -83864,3 +83864,4 @@
 0547. 📚 docs: write FAQ section
 0352. ✨ feat: add export to CSV option
 0774. 🔧 refactor: refactor quiz grading logic
+0556. ✨ feat: support email verification
