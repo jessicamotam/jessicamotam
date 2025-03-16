@@ -6899,3 +6899,4 @@
 0342. 🚀 perf: cache repeated calculations
 0349. ✅ test: increase coverage on auth module
 0347. ♻️ chore: update .gitignore
+0500. ✅ test: add integration test for /submit endpoint
