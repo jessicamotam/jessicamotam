@@ -2604,3 +2604,4 @@
 0946. ✅ test: add unit test for quiz service
 0906. 📚 docs: add API usage examples
 0194. 🎨 style: standardize quote style
+0409. 🚀 perf: lazy-load components
