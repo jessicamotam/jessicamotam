@@ -51756,3 +51756,4 @@
 0311. 🎨 style: apply consistent indentation
 0504. 📚 docs: document token refresh logic
 0615. 🐛 fix: correct typo in registration form
+0900. 🐛 fix: handle 500 error in quiz API
