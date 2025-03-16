@@ -57508,3 +57508,4 @@
 0244. ✨ feat: add export to CSV option
 0735. ♻️ chore: add GitHub actions badge
 0807. 🔧 refactor: remove redundant code blocks
+0811. 🎨 style: reformat files with black
