@@ -44038,3 +44038,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0332. 🎨 style: standardize quote style
 0902. ✨ feat: enable dark mode toggle
+0079. 🐛 fix: correct typo in registration form
