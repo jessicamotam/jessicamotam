@@ -17198,3 +17198,4 @@
 0747. 🔧 refactor: clean up auth middleware
 0501. ✨ feat: add export to CSV option
 0333. 🚀 perf: cache repeated calculations
+0725. 🚀 perf: lazy-load components
