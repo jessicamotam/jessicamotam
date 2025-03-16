@@ -52616,3 +52616,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0225. 🚀 perf: reduce image load time
 0771. 🚀 perf: cache repeated calculations
+0653. 🐛 fix: prevent crash on empty input
