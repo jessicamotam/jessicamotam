@@ -90211,3 +90211,4 @@
 0829. 🔧 refactor: organize models into subfolders
 0978. 🐛 fix: prevent crash on empty input
 0730. ✅ test: test user registration edge cases
+0237. 🎨 style: standardize quote style
