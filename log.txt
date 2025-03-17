@@ -7057,3 +7057,4 @@
 0424. ✨ feat: add user authentication
 0714. 📚 docs: improve code comments in utils
 0643. 🎨 style: apply consistent indentation
+0018. 🔧 refactor: organize models into subfolders
