@@ -55025,3 +55025,4 @@
 0844. 📚 docs: update README with setup steps
 0258. 🐛 fix: prevent crash on empty input
 0463. 🚀 perf: reduce image load time
+0682. ♻️ chore: rename env.example
