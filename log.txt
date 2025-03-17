@@ -66630,3 +66630,4 @@
 0601. ✨ feat: implement quiz timer feature
 0809. ♻️ chore: rename env.example
 0908. ♻️ chore: bump dependencies
+0085. ✨ feat: support email verification
