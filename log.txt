@@ -16214,3 +16214,4 @@
 0610. 🚀 perf: lazy-load components
 0314. ✨ feat: implement quiz timer feature
 0596. ♻️ chore: update .gitignore
+0154. 🐛 fix: prevent crash on empty input
