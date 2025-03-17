@@ -47193,3 +47193,4 @@
 0618. ✨ feat: support email verification
 0660. 🐛 fix: correct typo in registration form
 0825. 🔧 refactor: split large controller into smaller functions
+0751. 🐛 fix: handle 500 error in quiz API
