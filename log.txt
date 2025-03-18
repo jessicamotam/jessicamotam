@@ -5407,3 +5407,4 @@
 0001. 🚀 perf: cache repeated calculations
 0467. ✅ test: add integration test for /submit endpoint
 0199. ✨ feat: create admin dashboard
+0929. ✨ feat: support email verification
