@@ -48229,3 +48229,4 @@
 0363. 📚 docs: clarify environment setup
 0523. ♻️ chore: bump dependencies
 0684. 🚀 perf: reduce image load time
+0860. 🔧 refactor: organize models into subfolders
