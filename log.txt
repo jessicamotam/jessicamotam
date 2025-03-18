@@ -75058,3 +75058,4 @@
 0454. ♻️ chore: bump dependencies
 0475. 🔧 refactor: clean up auth middleware
 0726. ✨ feat: enable dark mode toggle
+0459. 🔧 refactor: organize models into subfolders
