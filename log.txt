@@ -18434,3 +18434,4 @@
 0635. 🎨 style: apply consistent indentation
 0516. ✅ test: add unit test for quiz service
 0580. ♻️ chore: bump dependencies
+0040. 🔧 refactor: clean up auth middleware
