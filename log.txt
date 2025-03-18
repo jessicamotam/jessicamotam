@@ -58805,3 +58805,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0816. 🔧 refactor: organize models into subfolders
 0667. ✨ feat: add export to CSV option
+0595. ✨ feat: enable dark mode toggle
