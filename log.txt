@@ -10206,3 +10206,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0308. 🚀 perf: reduce image load time
 0538. 🐛 fix: fix broken CSS in mobile view
+0332. 🎨 style: standardize quote style
