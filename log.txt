@@ -1628,3 +1628,4 @@
 0105. 🐛 fix: correct typo in registration form
 0576. ♻️ chore: update .gitignore
 0541. 🐛 fix: correct typo in registration form
+0320. 📚 docs: update README with setup steps
