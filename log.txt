@@ -33689,3 +33689,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0632. 🎨 style: remove trailing whitespace
 0787. ♻️ chore: rename env.example
+0710. 🐛 fix: fix broken CSS in mobile view
