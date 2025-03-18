@@ -5764,3 +5764,4 @@
 0855. 🎨 style: reformat files with black
 0611. ✅ test: test user registration edge cases
 0452. ✨ feat: implement quiz timer feature
+0788. 📚 docs: add API usage examples
