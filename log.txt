@@ -55880,3 +55880,4 @@
 0685. ✅ test: test user registration edge cases
 0223. 🔧 refactor: remove redundant code blocks
 0493. ✨ feat: add user authentication
+0158. 📚 docs: clarify environment setup
