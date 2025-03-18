@@ -9745,3 +9745,4 @@
 0451. ✨ feat: support email verification
 0188. 🎨 style: apply consistent indentation
 0479. 🐛 fix: fix null pointer exception on login
+0929. ✨ feat: support email verification
