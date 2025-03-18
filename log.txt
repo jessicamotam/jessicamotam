@@ -74522,3 +74522,4 @@
 0158. 📚 docs: clarify environment setup
 0726. ✨ feat: enable dark mode toggle
 0705. 🔧 refactor: refactor quiz grading logic
+0747. 🔧 refactor: clean up auth middleware
