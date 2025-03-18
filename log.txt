@@ -50012,3 +50012,4 @@
 0114. ♻️ chore: update .gitignore
 0655. 🚀 perf: cache repeated calculations
 0895. ✨ feat: support email verification
+0908. ♻️ chore: bump dependencies
