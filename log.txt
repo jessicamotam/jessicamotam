@@ -65298,3 +65298,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0574. ✨ feat: enable dark mode toggle
 0481. ✅ test: add unit test for quiz service
+0963. 🚀 perf: reduce image load time
