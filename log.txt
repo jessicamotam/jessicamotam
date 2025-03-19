@@ -31880,3 +31880,4 @@
 0292. 📚 docs: clarify environment setup
 0079. 🐛 fix: correct typo in registration form
 0093. ✅ test: add unit test for quiz service
+0091. ✨ feat: add user authentication
