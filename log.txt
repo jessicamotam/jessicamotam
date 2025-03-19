@@ -73524,3 +73524,4 @@
 0914. ✅ test: test user registration edge cases
 0409. 🚀 perf: lazy-load components
 0401. 🚀 perf: reduce image load time
+0437. 📚 docs: clarify environment setup
