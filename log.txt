@@ -50906,3 +50906,4 @@
 0969. ✨ feat: create admin dashboard
 0270. ♻️ chore: rename env.example
 0224. 🐛 fix: fix broken CSS in mobile view
+0564. 📚 docs: clarify environment setup
