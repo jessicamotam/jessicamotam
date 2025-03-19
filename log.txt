@@ -1848,3 +1848,4 @@
 0965. 🎨 style: reformat files with black
 0288. 🔧 refactor: refactor quiz grading logic
 0948. 🐛 fix: fix broken CSS in mobile view
+0787. ♻️ chore: rename env.example
