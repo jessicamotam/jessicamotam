@@ -7228,3 +7228,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0632. 🎨 style: remove trailing whitespace
 0752. ✅ test: add integration test for /submit endpoint
+0502. 📚 docs: update README with setup steps
