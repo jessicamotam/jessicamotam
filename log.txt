@@ -24090,3 +24090,4 @@
 0642. 🚀 perf: optimize database query for quiz results
 0916. ♻️ chore: bump dependencies
 0697. ♻️ chore: bump dependencies
+0187. ✨ feat: support email verification
