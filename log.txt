@@ -55248,3 +55248,4 @@
 0984. ♻️ chore: clean up unused files
 0429. ✨ feat: add user authentication
 0506. 🐛 fix: handle 500 error in quiz API
+0343. 🚀 perf: optimize database query for quiz results
