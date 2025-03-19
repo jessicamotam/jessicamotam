@@ -71549,3 +71549,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0581. ✅ test: add integration test for /submit endpoint
 0237. 🎨 style: standardize quote style
+0405. ✅ test: mock database connection in test suite
