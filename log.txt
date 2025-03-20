@@ -25160,3 +25160,4 @@
 0325. 🎨 style: rename variables for clarity
 0058. ♻️ chore: add GitHub actions badge
 0541. 🐛 fix: correct typo in registration form
+0747. 🔧 refactor: clean up auth middleware
