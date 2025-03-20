@@ -71465,3 +71465,4 @@
 0673. 🐛 fix: correct typo in registration form
 0181. ♻️ chore: add GitHub actions badge
 0210. 🎨 style: apply consistent indentation
+0695. ✨ feat: create admin dashboard
