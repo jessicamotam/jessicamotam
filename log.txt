@@ -15251,3 +15251,4 @@
 0934. ✨ feat: support email verification
 0730. ✅ test: test user registration edge cases
 0694. 🎨 style: rename variables for clarity
+0850. ♻️ chore: rename env.example
