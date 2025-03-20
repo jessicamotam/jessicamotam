@@ -78535,3 +78535,4 @@
 0070. ✨ feat: implement quiz timer feature
 0717. 🔧 refactor: refactor quiz grading logic
 0776. ✅ test: add integration test for /submit endpoint
+0924. ✅ test: mock database connection in test suite
