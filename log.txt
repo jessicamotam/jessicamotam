@@ -46312,3 +46312,4 @@
 0555. ✨ feat: create admin dashboard
 0800. 🚀 perf: optimize database query for quiz results
 0546. 🐛 fix: fix null pointer exception on login
+0898. 🐛 fix: fix broken CSS in mobile view
