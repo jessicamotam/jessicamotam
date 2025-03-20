@@ -82719,3 +82719,4 @@
 0176. 🔧 refactor: remove redundant code blocks
 0586. 🎨 style: remove trailing whitespace
 0545. 🎨 style: standardize quote style
+0367. 🐛 fix: fix null pointer exception on login
