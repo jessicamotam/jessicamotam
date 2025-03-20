@@ -32591,3 +32591,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 0473. 📚 docs: write FAQ section
 0432. 🎨 style: apply consistent indentation
+0049. 🐛 fix: handle 500 error in quiz API
