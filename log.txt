@@ -73742,3 +73742,4 @@
 0803. ✅ test: mock database connection in test suite
 0158. 📚 docs: clarify environment setup
 0205. 📚 docs: update README with setup steps
+0292. 📚 docs: clarify environment setup
