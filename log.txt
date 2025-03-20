@@ -32624,3 +32624,4 @@
 0749. ✨ feat: support email verification
 0290. ✅ test: test user registration edge cases
 0519. 📚 docs: document token refresh logic
+0722. 📚 docs: add API usage examples
