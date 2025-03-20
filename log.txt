@@ -38885,3 +38885,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0551. 📚 docs: write FAQ section
 0762. 🚀 perf: lazy-load components
+0826. 📚 docs: clarify environment setup
