@@ -33373,3 +33373,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0448. 🐛 fix: correct typo in registration form
 0741. 🎨 style: apply consistent indentation
+0031. 📚 docs: document token refresh logic
