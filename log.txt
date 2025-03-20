@@ -32144,3 +32144,4 @@
 0929. ✨ feat: support email verification
 0060. ♻️ chore: clean up unused files
 0538. 🐛 fix: fix broken CSS in mobile view
+0596. ♻️ chore: update .gitignore
