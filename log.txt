@@ -68176,3 +68176,4 @@
 0210. 🎨 style: apply consistent indentation
 0967. ♻️ chore: add GitHub actions badge
 0950. 🎨 style: reformat files with black
+0580. ♻️ chore: bump dependencies
