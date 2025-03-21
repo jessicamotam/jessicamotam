@@ -54569,3 +54569,4 @@
 0624. ✅ test: add unit test for quiz service
 0465. 🎨 style: rename variables for clarity
 0295. 🎨 style: remove trailing whitespace
+0652. 🔧 refactor: organize models into subfolders
