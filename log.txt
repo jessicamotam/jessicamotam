@@ -49679,3 +49679,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0254. 🚀 perf: reduce image load time
 0314. ✨ feat: implement quiz timer feature
+0875. ✅ test: increase coverage on auth module
