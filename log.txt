@@ -81925,3 +81925,4 @@
 0187. ✨ feat: support email verification
 0569. 📚 docs: document token refresh logic
 0939. 📚 docs: update README with setup steps
+0823. ✨ feat: add user authentication
