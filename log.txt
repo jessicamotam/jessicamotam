@@ -77363,3 +77363,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0637. 🎨 style: apply consistent indentation
 0804. ♻️ chore: add GitHub actions badge
+0629. 🔧 refactor: organize models into subfolders
