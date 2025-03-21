@@ -33463,3 +33463,4 @@
 0170. ✅ test: increase coverage on auth module
 0385. ♻️ chore: clean up unused files
 0085. ✨ feat: support email verification
+0442. 🎨 style: standardize quote style
