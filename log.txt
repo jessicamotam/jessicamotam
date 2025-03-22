@@ -7043,3 +7043,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0248. 🐛 fix: handle 500 error in quiz API
 0030. 🐛 fix: fix null pointer exception on login
+0818. 🔧 refactor: remove redundant code blocks
