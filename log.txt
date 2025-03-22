@@ -20365,3 +20365,4 @@
 0122. ✨ feat: support email verification
 0923. ✨ feat: support email verification
 0781. 🚀 perf: reduce image load time
+0944. ✨ feat: add user authentication
