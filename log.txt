@@ -30083,3 +30083,4 @@
 0618. ✨ feat: support email verification
 0784. ♻️ chore: clean up unused files
 0990. ♻️ chore: rename env.example
+0109. 🚀 perf: lazy-load components
