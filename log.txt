@@ -6891,3 +6891,4 @@
 0311. 🎨 style: apply consistent indentation
 0570. 🎨 style: apply consistent indentation
 0662. ♻️ chore: clean up unused files
+0024. 📚 docs: write FAQ section
