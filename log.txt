@@ -1879,3 +1879,4 @@
 0640. ♻️ chore: bump dependencies
 0176. 🔧 refactor: remove redundant code blocks
 0230. ✨ feat: create admin dashboard
+0722. 📚 docs: add API usage examples
