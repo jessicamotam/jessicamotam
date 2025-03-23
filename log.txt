@@ -24400,3 +24400,4 @@
 0969. ✨ feat: create admin dashboard
 0102. ✨ feat: support email verification
 0613. 🐛 fix: prevent crash on empty input
+0533. ♻️ chore: add GitHub actions badge
