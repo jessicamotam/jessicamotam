@@ -25097,3 +25097,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0354. 📚 docs: add API usage examples
 0143. ✨ feat: implement quiz timer feature
+0800. 🚀 perf: optimize database query for quiz results
