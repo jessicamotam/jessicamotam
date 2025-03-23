@@ -35702,3 +35702,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0169. 📚 docs: add API usage examples
 0299. 🐛 fix: resolve issue with date parsing
+0373. 📚 docs: document token refresh logic
