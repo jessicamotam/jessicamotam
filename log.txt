@@ -2883,3 +2883,4 @@
 0242. ♻️ chore: clean up unused files
 0129. 🔧 refactor: organize models into subfolders
 0418. ✅ test: mock database connection in test suite
+0078. ♻️ chore: update .gitignore
