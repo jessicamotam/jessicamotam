@@ -22604,3 +22604,4 @@
 0970. ♻️ chore: update .gitignore
 0761. ✅ test: add unit test for quiz service
 0632. 🎨 style: remove trailing whitespace
+0408. ♻️ chore: add GitHub actions badge
