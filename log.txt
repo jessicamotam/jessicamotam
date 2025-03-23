@@ -59085,3 +59085,4 @@
 0217. 🚀 perf: reduce image load time
 0958. 🐛 fix: prevent crash on empty input
 0869. ♻️ chore: bump dependencies
+0787. ♻️ chore: rename env.example
