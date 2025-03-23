@@ -71337,3 +71337,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0921. 🐛 fix: correct typo in registration form
 0199. ✨ feat: create admin dashboard
+0207. 🐛 fix: prevent crash on empty input
