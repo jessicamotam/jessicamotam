@@ -57601,3 +57601,4 @@
 0324. 📚 docs: document token refresh logic
 0091. ✨ feat: add user authentication
 0117. ✅ test: increase coverage on auth module
+0133. 🐛 fix: fix null pointer exception on login
