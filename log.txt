@@ -1418,3 +1418,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0670. ✨ feat: add export to CSV option
 0450. 🐛 fix: fix broken CSS in mobile view
+0859. ✨ feat: create admin dashboard
