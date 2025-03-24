@@ -5005,3 +5005,4 @@
 0864. 🐛 fix: correct typo in registration form
 0192. ✨ feat: enable dark mode toggle
 0851. ✅ test: mock database connection in test suite
+0606. 📚 docs: improve code comments in utils
