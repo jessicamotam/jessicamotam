@@ -86152,3 +86152,4 @@
 0287. 📚 docs: write FAQ section
 0451. ✨ feat: support email verification
 0701. 🔧 refactor: clean up auth middleware
+0174. 📚 docs: clarify environment setup
