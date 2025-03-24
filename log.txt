@@ -51688,3 +51688,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0672. 🐛 fix: fix broken CSS in mobile view
 0003. ✅ test: increase coverage on auth module
+0552. 🐛 fix: fix null pointer exception on login
