@@ -15305,3 +15305,4 @@
 0566. 📚 docs: write FAQ section
 0996. ✅ test: test user registration edge cases
 0709. ♻️ chore: bump dependencies
+0128. ♻️ chore: rename env.example
