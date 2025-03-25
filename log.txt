@@ -13383,3 +13383,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0297. 🎨 style: remove trailing whitespace
 0663. 🚀 perf: reduce image load time
+0773. 📚 docs: document token refresh logic
