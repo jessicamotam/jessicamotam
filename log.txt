@@ -2307,3 +2307,4 @@
 0859. ✨ feat: create admin dashboard
 0593. 🐛 fix: correct typo in registration form
 0441. 📚 docs: add API usage examples
+0820. 📚 docs: add API usage examples
