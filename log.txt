@@ -12926,3 +12926,4 @@
 0515. 🚀 perf: optimize database query for quiz results
 0958. 🐛 fix: prevent crash on empty input
 0410. 🎨 style: reformat files with black
+0221. ✨ feat: add user authentication
