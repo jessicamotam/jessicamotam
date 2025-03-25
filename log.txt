@@ -77992,3 +77992,4 @@
 0743. 🎨 style: apply consistent indentation
 0197. 📚 docs: update README with setup steps
 0524. ♻️ chore: rename env.example
+0735. ♻️ chore: add GitHub actions badge
