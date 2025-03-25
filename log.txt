@@ -29119,3 +29119,4 @@
 0927. ♻️ chore: bump dependencies
 0350. 🚀 perf: cache repeated calculations
 0629. 🔧 refactor: organize models into subfolders
+0451. ✨ feat: support email verification
