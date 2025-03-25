@@ -65924,3 +65924,4 @@
 0933. 📚 docs: clarify environment setup
 0837. 🚀 perf: cache repeated calculations
 0022. 📚 docs: document token refresh logic
+0957. 🐛 fix: fix null pointer exception on login
