@@ -21030,3 +21030,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0182. 🔧 refactor: remove redundant code blocks
 0751. 🐛 fix: handle 500 error in quiz API
+0611. ✅ test: test user registration edge cases
