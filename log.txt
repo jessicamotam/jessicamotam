@@ -84070,3 +84070,4 @@
 0281. ✨ feat: support email verification
 0995. ✅ test: mock database connection in test suite
 0410. 🎨 style: reformat files with black
+0605. ✨ feat: support email verification
