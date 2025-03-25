@@ -10775,3 +10775,4 @@
 0332. 🎨 style: standardize quote style
 0312. ✨ feat: add user authentication
 0205. 📚 docs: update README with setup steps
+0666. 🐛 fix: fix broken CSS in mobile view
