@@ -39739,3 +39739,4 @@
 0784. ♻️ chore: clean up unused files
 0185. 📚 docs: write FAQ section
 0834. ✅ test: increase coverage on auth module
+0044. ✅ test: add unit test for quiz service
