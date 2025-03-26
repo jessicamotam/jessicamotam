@@ -51324,3 +51324,4 @@
 0787. ♻️ chore: rename env.example
 0210. 🎨 style: apply consistent indentation
 0089. 🔧 refactor: remove redundant code blocks
+0596. ♻️ chore: update .gitignore
