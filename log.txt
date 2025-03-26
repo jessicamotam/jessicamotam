@@ -33850,3 +33850,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0823. ✨ feat: add user authentication
 0219. ✅ test: increase coverage on auth module
+0121. ✨ feat: support email verification
