@@ -7472,3 +7472,4 @@
 0720. ✨ feat: add export to CSV option
 0178. ✨ feat: support email verification
 0734. ✨ feat: add export to CSV option
+0262. 🎨 style: remove trailing whitespace
