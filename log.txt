@@ -56828,3 +56828,4 @@
 0906. 📚 docs: add API usage examples
 0162. ♻️ chore: add GitHub actions badge
 0864. 🐛 fix: correct typo in registration form
+0080. ✨ feat: support email verification
