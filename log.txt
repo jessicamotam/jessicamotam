@@ -904,3 +904,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0161. ✨ feat: create admin dashboard
 0709. ♻️ chore: bump dependencies
+0733. 🐛 fix: fix null pointer exception on login
