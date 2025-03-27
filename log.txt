@@ -13658,3 +13658,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0615. 🐛 fix: correct typo in registration form
 0449. ✅ test: add unit test for quiz service
+0276. ✅ test: add integration test for /submit endpoint
