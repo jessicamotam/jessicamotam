@@ -53097,3 +53097,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0572. ✨ feat: add user authentication
 0257. 📚 docs: clarify environment setup
+0715. ✨ feat: create admin dashboard
