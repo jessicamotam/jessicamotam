@@ -88283,3 +88283,4 @@
 0167. 🚀 perf: reduce image load time
 0839. 🎨 style: apply consistent indentation
 0461. ✨ feat: add user authentication
+0584. 🚀 perf: lazy-load components
