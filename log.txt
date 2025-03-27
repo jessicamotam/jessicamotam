@@ -5841,3 +5841,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0980. 🎨 style: reformat files with black
 0835. 🐛 fix: prevent crash on empty input
+0480. ♻️ chore: add GitHub actions badge
