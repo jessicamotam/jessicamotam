@@ -89527,3 +89527,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0323. 📚 docs: clarify environment setup
 0590. 🐛 fix: fix null pointer exception on login
+0226. 🚀 perf: lazy-load components
