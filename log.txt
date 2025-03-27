@@ -80432,3 +80432,4 @@
 0334. 🚀 perf: cache repeated calculations
 0121. ✨ feat: support email verification
 0433. 🐛 fix: prevent crash on empty input
+0737. 🐛 fix: handle 500 error in quiz API
