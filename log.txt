@@ -73416,3 +73416,4 @@
 0343. 🚀 perf: optimize database query for quiz results
 0964. ♻️ chore: clean up unused files
 0875. ✅ test: increase coverage on auth module
+0792. 🎨 style: standardize quote style
