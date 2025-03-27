@@ -79241,3 +79241,4 @@
 0164. 📚 docs: document token refresh logic
 0473. 📚 docs: write FAQ section
 0831. 📚 docs: clarify environment setup
+0078. ♻️ chore: update .gitignore
