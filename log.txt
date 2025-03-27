@@ -29584,3 +29584,4 @@
 0105. 🐛 fix: correct typo in registration form
 0011. ✅ test: add unit test for quiz service
 0052. 🎨 style: standardize quote style
+0959. 🐛 fix: fix null pointer exception on login
