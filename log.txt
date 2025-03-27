@@ -6370,3 +6370,4 @@
 0961. 📚 docs: add API usage examples
 0635. 🎨 style: apply consistent indentation
 0307. ✨ feat: support email verification
+0075. ✅ test: mock database connection in test suite
