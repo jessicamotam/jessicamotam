@@ -22051,3 +22051,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0434. 📚 docs: document token refresh logic
 0905. ♻️ chore: bump dependencies
+0319. 🐛 fix: handle 500 error in quiz API
