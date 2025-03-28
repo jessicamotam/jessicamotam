@@ -38890,3 +38890,4 @@
 0991. ♻️ chore: clean up unused files
 0428. 🐛 fix: fix null pointer exception on login
 0312. ✨ feat: add user authentication
+0965. 🎨 style: reformat files with black
