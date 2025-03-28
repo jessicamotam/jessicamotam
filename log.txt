@@ -23408,3 +23408,4 @@
 0238. 🎨 style: apply consistent indentation
 0967. ♻️ chore: add GitHub actions badge
 0007. 🎨 style: rename variables for clarity
+0253. 📚 docs: update README with setup steps
