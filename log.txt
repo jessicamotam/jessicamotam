@@ -55032,3 +55032,4 @@
 0086. 🐛 fix: correct typo in registration form
 0861. ♻️ chore: clean up unused files
 0227. ✅ test: test user registration edge cases
+0521. 🎨 style: standardize quote style
