@@ -82184,3 +82184,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0161. ✨ feat: create admin dashboard
 0209. ✨ feat: implement quiz timer feature
+0170. ✅ test: increase coverage on auth module
