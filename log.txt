@@ -29200,3 +29200,4 @@
 0410. 🎨 style: reformat files with black
 0128. ♻️ chore: rename env.example
 0446. 🎨 style: apply consistent indentation
+0250. 📚 docs: update README with setup steps
