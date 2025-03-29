@@ -89517,3 +89517,4 @@
 0606. 📚 docs: improve code comments in utils
 0859. ✨ feat: create admin dashboard
 0112. ✨ feat: enable dark mode toggle
+0779. 🔧 refactor: organize models into subfolders
