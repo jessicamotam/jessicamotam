@@ -13679,3 +13679,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0479. 🐛 fix: fix null pointer exception on login
 0090. ✅ test: increase coverage on auth module
+0459. 🔧 refactor: organize models into subfolders
