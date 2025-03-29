@@ -72759,3 +72759,4 @@
 0124. 🎨 style: reformat files with black
 0586. 🎨 style: remove trailing whitespace
 0590. 🐛 fix: fix null pointer exception on login
+0299. 🐛 fix: resolve issue with date parsing
