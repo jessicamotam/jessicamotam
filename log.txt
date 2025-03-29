@@ -36743,3 +36743,4 @@
 0379. ✨ feat: support email verification
 0781. 🚀 perf: reduce image load time
 0823. ✨ feat: add user authentication
+0844. 📚 docs: update README with setup steps
