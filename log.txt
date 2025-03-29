@@ -18726,3 +18726,4 @@
 0070. ✨ feat: implement quiz timer feature
 0253. 📚 docs: update README with setup steps
 0170. ✅ test: increase coverage on auth module
+0535. 📚 docs: write FAQ section
