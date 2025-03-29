@@ -70048,3 +70048,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0854. ♻️ chore: rename env.example
 0880. 🐛 fix: fix broken CSS in mobile view
+0108. 🎨 style: remove trailing whitespace
