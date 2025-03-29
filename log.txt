@@ -50325,3 +50325,4 @@
 0226. 🚀 perf: lazy-load components
 0200. 🐛 fix: handle 500 error in quiz API
 0437. 📚 docs: clarify environment setup
+0335. ♻️ chore: update .gitignore
