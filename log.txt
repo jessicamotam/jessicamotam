@@ -88320,3 +88320,4 @@
 0777. 📚 docs: document token refresh logic
 0659. 📚 docs: add API usage examples
 0757. 🔧 refactor: remove redundant code blocks
+0911. ✅ test: increase coverage on auth module
