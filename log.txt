@@ -85456,3 +85456,4 @@
 0132. ✅ test: add unit test for quiz service
 0370. 🚀 perf: reduce image load time
 0363. 📚 docs: clarify environment setup
+0690. 🚀 perf: lazy-load components
