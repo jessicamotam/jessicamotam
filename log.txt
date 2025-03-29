@@ -50101,3 +50101,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0108. 🎨 style: remove trailing whitespace
 0834. ✅ test: increase coverage on auth module
+0679. ♻️ chore: bump dependencies
