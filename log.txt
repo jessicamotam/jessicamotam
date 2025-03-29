@@ -86599,3 +86599,4 @@
 0160. ♻️ chore: bump dependencies
 0352. ✨ feat: add export to CSV option
 0221. ✨ feat: add user authentication
+0196. ♻️ chore: bump dependencies
