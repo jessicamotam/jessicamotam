@@ -4217,3 +4217,4 @@
 0323. 📚 docs: clarify environment setup
 0434. 📚 docs: document token refresh logic
 0256. ✅ test: mock database connection in test suite
+0932. ✅ test: add integration test for /submit endpoint
