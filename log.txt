@@ -48880,3 +48880,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0526. ✨ feat: add user authentication
 0760. 🐛 fix: resolve issue with date parsing
+0056. ♻️ chore: rename env.example
