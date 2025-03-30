@@ -9730,3 +9730,4 @@
 0159. 🚀 perf: lazy-load components
 0341. 🚀 perf: lazy-load components
 0675. 🔧 refactor: organize models into subfolders
+0517. ✅ test: mock database connection in test suite
