@@ -64658,3 +64658,4 @@
 0524. ♻️ chore: rename env.example
 0797. 📚 docs: add API usage examples
 0737. 🐛 fix: handle 500 error in quiz API
+0434. 📚 docs: document token refresh logic
