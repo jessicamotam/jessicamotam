@@ -15757,3 +15757,4 @@
 0343. 🚀 perf: optimize database query for quiz results
 0707. 🎨 style: apply consistent indentation
 0586. 🎨 style: remove trailing whitespace
+0436. ✅ test: add integration test for /submit endpoint
