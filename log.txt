@@ -64302,3 +64302,4 @@
 0620. ✨ feat: implement quiz timer feature
 0530. 🔧 refactor: refactor quiz grading logic
 0305. ✨ feat: enable dark mode toggle
+0476. 🚀 perf: reduce image load time
