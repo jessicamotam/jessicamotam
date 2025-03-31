@@ -62353,3 +62353,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0344. ♻️ chore: add GitHub actions badge
 0064. 📚 docs: clarify environment setup
+0291. 📚 docs: write FAQ section
