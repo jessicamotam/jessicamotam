@@ -81375,3 +81375,4 @@
 0305. ✨ feat: enable dark mode toggle
 0135. ✅ test: test user registration edge cases
 0766. 🎨 style: reformat files with black
+0898. 🐛 fix: fix broken CSS in mobile view
