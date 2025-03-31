@@ -61985,3 +61985,4 @@
 0715. ✨ feat: create admin dashboard
 0291. 📚 docs: write FAQ section
 0292. 📚 docs: clarify environment setup
+0830. 🎨 style: apply consistent indentation
