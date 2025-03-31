@@ -65608,3 +65608,4 @@
 0963. 🚀 perf: reduce image load time
 0526. ✨ feat: add user authentication
 0865. ♻️ chore: add GitHub actions badge
+0971. 🎨 style: standardize quote style
