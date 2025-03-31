@@ -86002,3 +86002,4 @@
 0284. ✨ feat: implement quiz timer feature
 0852. ✨ feat: enable dark mode toggle
 0038. 🎨 style: rename variables for clarity
+0356. 📚 docs: write FAQ section
