@@ -53007,3 +53007,4 @@
 0078. ♻️ chore: update .gitignore
 0042. 📚 docs: document token refresh logic
 0755. 🚀 perf: cache repeated calculations
+0122. ✨ feat: support email verification
