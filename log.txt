@@ -26234,3 +26234,4 @@
 0440. 📚 docs: update README with setup steps
 0844. 📚 docs: update README with setup steps
 0649. 📚 docs: update README with setup steps
+0596. ♻️ chore: update .gitignore
