@@ -41861,3 +41861,4 @@
 0910. 🎨 style: remove trailing whitespace
 0977. 🔧 refactor: organize models into subfolders
 0551. 📚 docs: write FAQ section
+0749. ✨ feat: support email verification
