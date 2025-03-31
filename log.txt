@@ -66085,3 +66085,4 @@
 0906. 📚 docs: add API usage examples
 0076. 🎨 style: reformat files with black
 0397. 🐛 fix: handle 500 error in quiz API
+0722. 📚 docs: add API usage examples
