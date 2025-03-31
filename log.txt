@@ -5062,3 +5062,4 @@
 0904. ✨ feat: implement quiz timer feature
 0979. 🎨 style: standardize quote style
 0988. 🐛 fix: fix broken CSS in mobile view
+0748. 🚀 perf: optimize database query for quiz results
