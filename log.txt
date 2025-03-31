@@ -46403,3 +46403,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0648. ♻️ chore: bump dependencies
 0979. 🎨 style: standardize quote style
+0375. 🐛 fix: handle 500 error in quiz API
