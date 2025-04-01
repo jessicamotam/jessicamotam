@@ -28751,3 +28751,4 @@
 0891. ✨ feat: create admin dashboard
 0590. 🐛 fix: fix null pointer exception on login
 0181. ♻️ chore: add GitHub actions badge
+0766. 🎨 style: reformat files with black
