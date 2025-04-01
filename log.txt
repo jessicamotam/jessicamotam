@@ -48909,3 +48909,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0953. 🎨 style: remove trailing whitespace
 0891. ✨ feat: create admin dashboard
+0344. ♻️ chore: add GitHub actions badge
