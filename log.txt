@@ -73957,3 +73957,4 @@
 0417. 🎨 style: rename variables for clarity
 0853. 🔧 refactor: refactor quiz grading logic
 0684. 🚀 perf: reduce image load time
+0588. 🔧 refactor: organize models into subfolders
