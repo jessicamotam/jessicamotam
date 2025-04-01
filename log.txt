@@ -18469,3 +18469,4 @@
 0064. 📚 docs: clarify environment setup
 0764. ✨ feat: add user authentication
 0141. 📚 docs: document token refresh logic
+0633. ✨ feat: add user authentication
