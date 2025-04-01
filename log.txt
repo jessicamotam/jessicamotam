@@ -75478,3 +75478,4 @@
 0406. ✨ feat: add export to CSV option
 0925. ✨ feat: add export to CSV option
 0681. ✨ feat: create admin dashboard
+0617. ✨ feat: support email verification
