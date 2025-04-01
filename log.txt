@@ -28033,3 +28033,4 @@
 0490. ✨ feat: create admin dashboard
 0749. ✨ feat: support email verification
 0327. 🔧 refactor: split large controller into smaller functions
+0286. ✅ test: mock database connection in test suite
