@@ -81646,3 +81646,4 @@
 0332. 🎨 style: standardize quote style
 0792. 🎨 style: standardize quote style
 0613. 🐛 fix: prevent crash on empty input
+0778. 📚 docs: write FAQ section
