@@ -80297,3 +80297,4 @@
 0102. ✨ feat: support email verification
 0141. 📚 docs: document token refresh logic
 0576. ♻️ chore: update .gitignore
+0367. 🐛 fix: fix null pointer exception on login
