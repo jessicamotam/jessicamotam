@@ -87519,3 +87519,4 @@
 0386. 🚀 perf: optimize database query for quiz results
 0597. 🚀 perf: cache repeated calculations
 0830. 🎨 style: apply consistent indentation
+0926. 🔧 refactor: organize models into subfolders
