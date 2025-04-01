@@ -29335,3 +29335,4 @@
 0247. 🎨 style: apply consistent indentation
 0079. 🐛 fix: correct typo in registration form
 0945. ♻️ chore: add GitHub actions badge
+0731. 🎨 style: standardize quote style
