@@ -41372,3 +41372,4 @@
 0724. ✅ test: mock database connection in test suite
 0575. ✅ test: add unit test for quiz service
 0140. 🐛 fix: handle 500 error in quiz API
+0564. 📚 docs: clarify environment setup
