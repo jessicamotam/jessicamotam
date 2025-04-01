@@ -68230,3 +68230,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0960. ✅ test: increase coverage on auth module
 0135. ✅ test: test user registration edge cases
+0298. ♻️ chore: update .gitignore
