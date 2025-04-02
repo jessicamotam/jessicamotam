@@ -87427,3 +87427,4 @@
 0769. ✨ feat: create admin dashboard
 0571. 🔧 refactor: clean up auth middleware
 0407. 🚀 perf: cache repeated calculations
+0235. 🐛 fix: fix null pointer exception on login
