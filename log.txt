@@ -42329,3 +42329,4 @@
 0204. 🎨 style: standardize quote style
 0836. 🚀 perf: optimize database query for quiz results
 0581. ✅ test: add integration test for /submit endpoint
+0546. 🐛 fix: fix null pointer exception on login
