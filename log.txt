@@ -65360,3 +65360,4 @@
 0905. ♻️ chore: bump dependencies
 0654. ✨ feat: create admin dashboard
 0564. 📚 docs: clarify environment setup
+0237. 🎨 style: standardize quote style
