@@ -1096,3 +1096,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0275. 🎨 style: standardize quote style
 0918. ✨ feat: enable dark mode toggle
+0175. 📚 docs: add API usage examples
