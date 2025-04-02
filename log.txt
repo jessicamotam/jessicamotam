@@ -41301,3 +41301,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0162. ♻️ chore: add GitHub actions badge
 0174. 📚 docs: clarify environment setup
+0063. 🐛 fix: handle 500 error in quiz API
