@@ -6064,3 +6064,4 @@
 0931. 🚀 perf: reduce image load time
 0209. ✨ feat: implement quiz timer feature
 0516. ✅ test: add unit test for quiz service
+0647. 🐛 fix: prevent crash on empty input
