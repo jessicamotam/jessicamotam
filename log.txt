@@ -53130,3 +53130,4 @@
 0875. ✅ test: increase coverage on auth module
 0278. 🔧 refactor: clean up auth middleware
 0962. ✨ feat: create admin dashboard
+0592. 📚 docs: add API usage examples
