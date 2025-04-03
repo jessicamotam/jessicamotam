@@ -5854,3 +5854,4 @@
 0815. 🔧 refactor: split large controller into smaller functions
 0458. ✨ feat: create admin dashboard
 0693. 📚 docs: add API usage examples
+0989. 📚 docs: write FAQ section
