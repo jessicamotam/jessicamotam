@@ -4336,3 +4336,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0517. ✅ test: mock database connection in test suite
 0558. ✨ feat: enable dark mode toggle
+0406. ✨ feat: add export to CSV option
