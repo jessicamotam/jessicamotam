@@ -84579,3 +84579,4 @@
 0290. ✅ test: test user registration edge cases
 0587. 🔧 refactor: remove redundant code blocks
 0406. ✨ feat: add export to CSV option
+0826. 📚 docs: clarify environment setup
