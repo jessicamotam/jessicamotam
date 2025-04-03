@@ -72176,3 +72176,4 @@
 0715. ✨ feat: create admin dashboard
 0876. ♻️ chore: rename env.example
 0565. ♻️ chore: add GitHub actions badge
+0965. 🎨 style: reformat files with black
