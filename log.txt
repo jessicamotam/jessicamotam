@@ -35076,3 +35076,4 @@
 0231. 🔧 refactor: clean up auth middleware
 1000. ✅ test: increase coverage on auth module
 0978. 🐛 fix: prevent crash on empty input
+0078. ♻️ chore: update .gitignore
