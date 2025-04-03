@@ -9583,3 +9583,4 @@
 0526. ✨ feat: add user authentication
 0563. 📚 docs: clarify environment setup
 0031. 📚 docs: document token refresh logic
+0365. 🚀 perf: reduce image load time
