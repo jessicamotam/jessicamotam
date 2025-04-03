@@ -62733,3 +62733,4 @@
 0307. ✨ feat: support email verification
 0592. 📚 docs: add API usage examples
 0268. 🐛 fix: prevent crash on empty input
+0666. 🐛 fix: fix broken CSS in mobile view
