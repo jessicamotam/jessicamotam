@@ -80285,3 +80285,4 @@
 0052. 🎨 style: standardize quote style
 0178. ✨ feat: support email verification
 0359. 🔧 refactor: clean up auth middleware
+0711. 🐛 fix: fix broken CSS in mobile view
