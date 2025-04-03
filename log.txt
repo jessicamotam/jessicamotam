@@ -10638,3 +10638,4 @@
 0270. ♻️ chore: rename env.example
 0516. ✅ test: add unit test for quiz service
 0947. 📚 docs: write FAQ section
+0634. 🎨 style: reformat files with black
