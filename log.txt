@@ -83251,3 +83251,4 @@
 0360. ✨ feat: add export to CSV option
 0649. 📚 docs: update README with setup steps
 0756. ✨ feat: support email verification
+0387. ✨ feat: enable dark mode toggle
