@@ -55984,3 +55984,4 @@
 0509. ♻️ chore: bump dependencies
 0623. 🎨 style: standardize quote style
 0106. 🎨 style: reformat files with black
+0195. 📚 docs: clarify environment setup
