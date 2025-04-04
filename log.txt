@@ -43691,3 +43691,4 @@
 0545. 🎨 style: standardize quote style
 0680. ♻️ chore: add GitHub actions badge
 0990. ♻️ chore: rename env.example
+0833. ✨ feat: add user authentication
