@@ -72898,3 +72898,4 @@
 0462. ♻️ chore: update .gitignore
 0399. ✅ test: mock database connection in test suite
 0494. 🎨 style: rename variables for clarity
+0652. 🔧 refactor: organize models into subfolders
