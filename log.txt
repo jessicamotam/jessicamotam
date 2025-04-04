@@ -20412,3 +20412,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0718. 🐛 fix: resolve issue with date parsing
 0120. ✅ test: add integration test for /submit endpoint
+0749. ✨ feat: support email verification
