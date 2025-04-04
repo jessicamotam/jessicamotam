@@ -59992,3 +59992,4 @@
 0837. 🚀 perf: cache repeated calculations
 0811. 🎨 style: reformat files with black
 0929. ✨ feat: support email verification
+0780. 📚 docs: add API usage examples
