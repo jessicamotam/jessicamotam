@@ -36583,3 +36583,4 @@
 0518. ✨ feat: support email verification
 0148. 🔧 refactor: organize models into subfolders
 0325. 🎨 style: rename variables for clarity
+0275. 🎨 style: standardize quote style
