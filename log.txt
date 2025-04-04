@@ -677,3 +677,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0192. ✨ feat: enable dark mode toggle
 0420. 🚀 perf: reduce image load time
+0718. 🐛 fix: resolve issue with date parsing
