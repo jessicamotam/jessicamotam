@@ -11547,3 +11547,4 @@
 0895. ✨ feat: support email verification
 0450. 🐛 fix: fix broken CSS in mobile view
 0949. 📚 docs: write FAQ section
+0249. ✅ test: increase coverage on auth module
