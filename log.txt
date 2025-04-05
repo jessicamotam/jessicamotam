@@ -65321,3 +65321,4 @@
 0368. 🚀 perf: lazy-load components
 0738. 🐛 fix: prevent crash on empty input
 0923. ✨ feat: support email verification
+0927. ♻️ chore: bump dependencies
