@@ -50418,3 +50418,4 @@
 0290. ✅ test: test user registration edge cases
 0523. ♻️ chore: bump dependencies
 0724. ✅ test: mock database connection in test suite
+0795. 📚 docs: update README with setup steps
