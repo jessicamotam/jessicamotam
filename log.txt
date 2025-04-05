@@ -81697,3 +81697,4 @@
 0004. 🚀 perf: optimize database query for quiz results
 0501. ✨ feat: add export to CSV option
 0489. 🔧 refactor: organize models into subfolders
+0680. ♻️ chore: add GitHub actions badge
