@@ -13376,3 +13376,4 @@
 0877. 🚀 perf: optimize database query for quiz results
 0412. ✅ test: increase coverage on auth module
 0400. 🐛 fix: fix null pointer exception on login
+0075. ✅ test: mock database connection in test suite
