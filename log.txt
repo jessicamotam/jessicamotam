@@ -40678,3 +40678,4 @@
 0619. ✨ feat: create admin dashboard
 0798. 🚀 perf: reduce image load time
 0662. ♻️ chore: clean up unused files
+0997. ✅ test: increase coverage on auth module
