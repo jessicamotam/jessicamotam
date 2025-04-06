@@ -48429,3 +48429,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0896. 🚀 perf: reduce image load time
 0348. ✅ test: test user registration edge cases
+0080. ✨ feat: support email verification
