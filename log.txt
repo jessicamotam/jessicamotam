@@ -41111,3 +41111,4 @@
 0731. 🎨 style: standardize quote style
 0584. 🚀 perf: lazy-load components
 0158. 📚 docs: clarify environment setup
+0483. 📚 docs: update README with setup steps
