@@ -61585,3 +61585,4 @@
 0781. 🚀 perf: reduce image load time
 0355. 🚀 perf: optimize database query for quiz results
 0181. ♻️ chore: add GitHub actions badge
+0056. ♻️ chore: rename env.example
