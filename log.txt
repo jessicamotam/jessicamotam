@@ -71866,3 +71866,4 @@
 0131. 📚 docs: write FAQ section
 0365. 🚀 perf: reduce image load time
 0628. ♻️ chore: add GitHub actions badge
+0381. ♻️ chore: clean up unused files
