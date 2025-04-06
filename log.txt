@@ -42499,3 +42499,4 @@
 0583. ✅ test: increase coverage on auth module
 0940. 📚 docs: document token refresh logic
 0089. 🔧 refactor: remove redundant code blocks
+0359. 🔧 refactor: clean up auth middleware
