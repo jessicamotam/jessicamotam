@@ -59129,3 +59129,4 @@
 0743. 🎨 style: apply consistent indentation
 0488. ♻️ chore: add GitHub actions badge
 0734. ✨ feat: add export to CSV option
+0931. 🚀 perf: reduce image load time
