@@ -38382,3 +38382,4 @@
 0879. 🎨 style: standardize quote style
 0385. ♻️ chore: clean up unused files
 0993. ✨ feat: implement quiz timer feature
+0049. 🐛 fix: handle 500 error in quiz API
