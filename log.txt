@@ -58135,3 +58135,4 @@
 0518. ✨ feat: support email verification
 0526. ✨ feat: add user authentication
 0776. ✅ test: add integration test for /submit endpoint
+0096. 🐛 fix: prevent crash on empty input
