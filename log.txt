@@ -20681,3 +20681,4 @@
 0810. 🔧 refactor: refactor quiz grading logic
 0925. ✨ feat: add export to CSV option
 0965. 🎨 style: reformat files with black
+0386. 🚀 perf: optimize database query for quiz results
