@@ -55154,3 +55154,4 @@
 0551. 📚 docs: write FAQ section
 0572. ✨ feat: add user authentication
 0249. ✅ test: increase coverage on auth module
+0315. ✅ test: add integration test for /submit endpoint
