@@ -43632,3 +43632,4 @@
 0013. ✅ test: increase coverage on auth module
 0790. 📚 docs: write FAQ section
 0271. ✅ test: add unit test for quiz service
+0370. 🚀 perf: reduce image load time
