@@ -9309,3 +9309,4 @@
 0434. 📚 docs: document token refresh logic
 0488. ♻️ chore: add GitHub actions badge
 0712. 🎨 style: apply consistent indentation
+0865. ♻️ chore: add GitHub actions badge
