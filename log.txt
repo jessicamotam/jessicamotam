@@ -81270,3 +81270,4 @@
 0106. 🎨 style: reformat files with black
 0990. ♻️ chore: rename env.example
 0744. 🔧 refactor: remove redundant code blocks
+0122. ✨ feat: support email verification
