@@ -50853,3 +50853,4 @@
 0369. 🎨 style: standardize quote style
 0270. ♻️ chore: rename env.example
 0394. 🚀 perf: lazy-load components
+0041. 🐛 fix: fix broken CSS in mobile view
