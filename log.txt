@@ -60032,3 +60032,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0109. 🚀 perf: lazy-load components
 0590. 🐛 fix: fix null pointer exception on login
+0375. 🐛 fix: handle 500 error in quiz API
