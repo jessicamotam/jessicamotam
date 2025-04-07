@@ -39410,3 +39410,4 @@
 0768. 🎨 style: remove trailing whitespace
 0395. 📚 docs: write FAQ section
 0467. ✅ test: add integration test for /submit endpoint
+0469. 🚀 perf: lazy-load components
