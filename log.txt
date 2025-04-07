@@ -90783,3 +90783,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0697. ♻️ chore: bump dependencies
 0400. 🐛 fix: fix null pointer exception on login
+0783. 🐛 fix: handle 500 error in quiz API
