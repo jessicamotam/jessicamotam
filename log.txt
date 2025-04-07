@@ -40294,3 +40294,4 @@
 0981. 🚀 perf: lazy-load components
 0588. 🔧 refactor: organize models into subfolders
 0923. ✨ feat: support email verification
+0582. ✨ feat: add export to CSV option
