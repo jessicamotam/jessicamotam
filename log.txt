@@ -84574,3 +84574,4 @@
 0062. ♻️ chore: update .gitignore
 0678. ✨ feat: add user authentication
 0133. 🐛 fix: fix null pointer exception on login
+0703. 🔧 refactor: clean up auth middleware
