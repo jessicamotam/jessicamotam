@@ -34471,3 +34471,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0127. 🐛 fix: fix null pointer exception on login
 0863. 🐛 fix: correct typo in registration form
+0682. ♻️ chore: rename env.example
