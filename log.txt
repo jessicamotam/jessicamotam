@@ -27754,3 +27754,4 @@
 0944. ✨ feat: add user authentication
 0778. 📚 docs: write FAQ section
 0905. ♻️ chore: bump dependencies
+0821. ✅ test: add integration test for /submit endpoint
