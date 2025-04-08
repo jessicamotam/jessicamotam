@@ -67005,3 +67005,4 @@
 0902. ✨ feat: enable dark mode toggle
 0346. ✅ test: mock database connection in test suite
 0470. 🎨 style: remove trailing whitespace
+0063. 🐛 fix: handle 500 error in quiz API
