@@ -80577,3 +80577,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0283. ♻️ chore: add GitHub actions badge
 0458. ✨ feat: create admin dashboard
+0711. 🐛 fix: fix broken CSS in mobile view
