@@ -33168,3 +33168,4 @@
 0311. 🎨 style: apply consistent indentation
 0086. 🐛 fix: correct typo in registration form
 0539. 🔧 refactor: organize models into subfolders
+0400. 🐛 fix: fix null pointer exception on login
