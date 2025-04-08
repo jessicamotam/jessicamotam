@@ -11512,3 +11512,4 @@
 0984. ♻️ chore: clean up unused files
 0652. 🔧 refactor: organize models into subfolders
 0580. ♻️ chore: bump dependencies
+0698. 🐛 fix: handle 500 error in quiz API
