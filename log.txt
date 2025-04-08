@@ -75385,3 +75385,4 @@
 0005. ✅ test: add unit test for quiz service
 0962. ✨ feat: create admin dashboard
 0334. 🚀 perf: cache repeated calculations
+0235. 🐛 fix: fix null pointer exception on login
