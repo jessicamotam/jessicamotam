@@ -70244,3 +70244,4 @@
 0463. 🚀 perf: reduce image load time
 0808. 🚀 perf: optimize database query for quiz results
 0454. ♻️ chore: bump dependencies
+0529. 📚 docs: write FAQ section
