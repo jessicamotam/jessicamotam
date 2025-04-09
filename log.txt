@@ -2292,3 +2292,4 @@
 0923. ✨ feat: support email verification
 0963. 🚀 perf: reduce image load time
 0171. 🐛 fix: fix broken CSS in mobile view
+0858. ♻️ chore: clean up unused files
