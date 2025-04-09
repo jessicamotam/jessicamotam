@@ -63281,3 +63281,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0199. ✨ feat: create admin dashboard
 0545. 🎨 style: standardize quote style
+0254. 🚀 perf: reduce image load time
