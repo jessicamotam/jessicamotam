@@ -14255,3 +14255,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0109. 🚀 perf: lazy-load components
 0631. ✨ feat: create admin dashboard
+0051. ✨ feat: enable dark mode toggle
