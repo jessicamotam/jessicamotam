@@ -84795,3 +84795,4 @@
 0139. 📚 docs: document token refresh logic
 0636. ✅ test: increase coverage on auth module
 0221. ✨ feat: add user authentication
+0231. 🔧 refactor: clean up auth middleware
