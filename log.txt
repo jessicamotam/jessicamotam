@@ -6530,3 +6530,4 @@
 0424. ✨ feat: add user authentication
 0695. ✨ feat: create admin dashboard
 0313. 🎨 style: apply consistent indentation
+0279. ✨ feat: support email verification
