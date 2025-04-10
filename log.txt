@@ -52865,3 +52865,4 @@
 0635. 🎨 style: apply consistent indentation
 0445. 📚 docs: improve code comments in utils
 0824. 🚀 perf: lazy-load components
+0956. 📚 docs: clarify environment setup
