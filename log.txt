@@ -81457,3 +81457,4 @@
 0112. ✨ feat: enable dark mode toggle
 0187. ✨ feat: support email verification
 0051. ✨ feat: enable dark mode toggle
+0511. 🐛 fix: fix broken CSS in mobile view
