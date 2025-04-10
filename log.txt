@@ -5065,3 +5065,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0269. ✅ test: test user registration edge cases
 0217. 🚀 perf: reduce image load time
+0894. ✅ test: add integration test for /submit endpoint
