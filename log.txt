@@ -20723,3 +20723,4 @@
 0260. ✨ feat: create admin dashboard
 0051. ✨ feat: enable dark mode toggle
 0203. 🚀 perf: lazy-load components
+0507. 🔧 refactor: clean up auth middleware
