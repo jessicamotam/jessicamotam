@@ -45108,3 +45108,4 @@
 0080. ✨ feat: support email verification
 0306. 🎨 style: apply consistent indentation
 0951. 🎨 style: rename variables for clarity
+0363. 📚 docs: clarify environment setup
