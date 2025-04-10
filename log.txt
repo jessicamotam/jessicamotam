@@ -59964,3 +59964,4 @@
 0987. ✨ feat: create admin dashboard
 0425. 🔧 refactor: refactor quiz grading logic
 0425. 🔧 refactor: refactor quiz grading logic
+0895. ✨ feat: support email verification
