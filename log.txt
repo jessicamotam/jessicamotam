@@ -23899,3 +23899,4 @@
 0409. 🚀 perf: lazy-load components
 0759. 🔧 refactor: organize models into subfolders
 0217. 🚀 perf: reduce image load time
+0006. 🐛 fix: prevent crash on empty input
