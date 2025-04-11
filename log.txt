@@ -1197,3 +1197,4 @@
 0596. ♻️ chore: update .gitignore
 0287. 📚 docs: write FAQ section
 0741. 🎨 style: apply consistent indentation
+0334. 🚀 perf: cache repeated calculations
