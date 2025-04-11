@@ -1924,3 +1924,4 @@
 0761. ✅ test: add unit test for quiz service
 0842. 🎨 style: remove trailing whitespace
 0862. ♻️ chore: bump dependencies
+0707. 🎨 style: apply consistent indentation
