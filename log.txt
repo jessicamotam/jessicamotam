@@ -60405,3 +60405,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0916. ♻️ chore: bump dependencies
 0196. ♻️ chore: bump dependencies
+0048. 📚 docs: update README with setup steps
