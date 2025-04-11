@@ -44414,3 +44414,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0992. ♻️ chore: clean up unused files
 0420. 🚀 perf: reduce image load time
+0657. 🎨 style: standardize quote style
