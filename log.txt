@@ -16363,3 +16363,4 @@
 0518. ✨ feat: support email verification
 0575. ✅ test: add unit test for quiz service
 0674. 🔧 refactor: split large controller into smaller functions
+0405. ✅ test: mock database connection in test suite
