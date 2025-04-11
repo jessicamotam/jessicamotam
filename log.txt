@@ -11943,3 +11943,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0509. ♻️ chore: bump dependencies
 0154. 🐛 fix: prevent crash on empty input
+0681. ✨ feat: create admin dashboard
