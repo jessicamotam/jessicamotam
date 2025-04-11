@@ -79247,3 +79247,4 @@
 0468. 📚 docs: update README with setup steps
 0238. 🎨 style: apply consistent indentation
 0589. 🐛 fix: fix broken CSS in mobile view
+0970. ♻️ chore: update .gitignore
