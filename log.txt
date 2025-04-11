@@ -65475,3 +65475,4 @@
 0662. ♻️ chore: clean up unused files
 0385. ♻️ chore: clean up unused files
 0194. 🎨 style: standardize quote style
+0666. 🐛 fix: fix broken CSS in mobile view
