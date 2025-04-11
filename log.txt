@@ -37224,3 +37224,4 @@
 0930. 🎨 style: apply consistent indentation
 0298. ♻️ chore: update .gitignore
 0269. ✅ test: test user registration edge cases
+0827. 🚀 perf: optimize database query for quiz results
