@@ -73253,3 +73253,4 @@
 0073. 🔧 refactor: split large controller into smaller functions
 0060. ♻️ chore: clean up unused files
 0168. ✅ test: add integration test for /submit endpoint
+0102. ✨ feat: support email verification
