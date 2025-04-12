@@ -62179,3 +62179,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0728. 🔧 refactor: split large controller into smaller functions
 0174. 📚 docs: clarify environment setup
+0584. 🚀 perf: lazy-load components
