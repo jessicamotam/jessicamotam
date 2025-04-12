@@ -75339,3 +75339,4 @@
 0615. 🐛 fix: correct typo in registration form
 0758. 🚀 perf: optimize database query for quiz results
 0990. ♻️ chore: rename env.example
+0150. 🎨 style: remove trailing whitespace
