@@ -58278,3 +58278,4 @@
 0372. ✨ feat: add user authentication
 0829. 🔧 refactor: organize models into subfolders
 0257. 📚 docs: clarify environment setup
+0506. 🐛 fix: handle 500 error in quiz API
