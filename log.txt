@@ -9202,3 +9202,4 @@
 0518. ✨ feat: support email verification
 0251. ♻️ chore: update .gitignore
 0786. ✨ feat: enable dark mode toggle
+0244. ✨ feat: add export to CSV option
