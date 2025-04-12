@@ -66378,3 +66378,4 @@
 0339. 📚 docs: update README with setup steps
 0956. 📚 docs: clarify environment setup
 0598. 🔧 refactor: remove redundant code blocks
+0172. 📚 docs: add API usage examples
