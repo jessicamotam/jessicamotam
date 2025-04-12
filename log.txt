@@ -14432,3 +14432,4 @@
 0221. ✨ feat: add user authentication
 0317. ✅ test: test user registration edge cases
 0568. 🐛 fix: handle 500 error in quiz API
+0386. 🚀 perf: optimize database query for quiz results
