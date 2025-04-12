@@ -52220,3 +52220,4 @@
 0412. ✅ test: increase coverage on auth module
 0395. 📚 docs: write FAQ section
 0513. ♻️ chore: bump dependencies
+0937. 🐛 fix: handle 500 error in quiz API
