@@ -24073,3 +24073,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0591. ♻️ chore: clean up unused files
 0156. 🎨 style: rename variables for clarity
+0422. 🔧 refactor: organize models into subfolders
