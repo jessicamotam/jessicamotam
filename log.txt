@@ -75266,3 +75266,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0938. 🎨 style: rename variables for clarity
 0941. 🚀 perf: cache repeated calculations
+0268. 🐛 fix: prevent crash on empty input
