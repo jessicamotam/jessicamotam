@@ -31575,3 +31575,4 @@
 0732. ♻️ chore: add GitHub actions badge
 0740. 🐛 fix: resolve issue with date parsing
 0466. 🚀 perf: optimize database query for quiz results
+0396. 🔧 refactor: split large controller into smaller functions
