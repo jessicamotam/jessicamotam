@@ -45939,3 +45939,4 @@
 0198. 📚 docs: clarify environment setup
 0987. ✨ feat: create admin dashboard
 0925. ✨ feat: add export to CSV option
+0911. ✅ test: increase coverage on auth module
