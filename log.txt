@@ -935,3 +935,4 @@
 0187. ✨ feat: support email verification
 0579. 📚 docs: clarify environment setup
 0297. 🎨 style: remove trailing whitespace
+0611. ✅ test: test user registration edge cases
