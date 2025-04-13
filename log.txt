@@ -54639,3 +54639,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0835. 🐛 fix: prevent crash on empty input
 0746. ♻️ chore: add GitHub actions badge
+0150. 🎨 style: remove trailing whitespace
