@@ -80856,3 +80856,4 @@
 0769. ✨ feat: create admin dashboard
 0260. ✨ feat: create admin dashboard
 0572. ✨ feat: add user authentication
+0466. 🚀 perf: optimize database query for quiz results
