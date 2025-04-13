@@ -19682,3 +19682,4 @@
 0134. ✨ feat: implement quiz timer feature
 0695. ✨ feat: create admin dashboard
 0115. 🚀 perf: reduce image load time
+0412. ✅ test: increase coverage on auth module
