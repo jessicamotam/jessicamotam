@@ -41436,3 +41436,4 @@
 0644. 🎨 style: apply consistent indentation
 0746. ♻️ chore: add GitHub actions badge
 0560. 🎨 style: rename variables for clarity
+0654. ✨ feat: create admin dashboard
