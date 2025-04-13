@@ -36447,3 +36447,4 @@
 0659. 📚 docs: add API usage examples
 0780. 📚 docs: add API usage examples
 0024. 📚 docs: write FAQ section
+0006. 🐛 fix: prevent crash on empty input
