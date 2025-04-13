@@ -74161,3 +74161,4 @@
 0784. ♻️ chore: clean up unused files
 0900. 🐛 fix: handle 500 error in quiz API
 0962. ✨ feat: create admin dashboard
+0456. 🚀 perf: optimize database query for quiz results
