@@ -23322,3 +23322,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0547. 📚 docs: write FAQ section
 0178. ✨ feat: support email verification
+0259. 🚀 perf: lazy-load components
