@@ -37067,3 +37067,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0843. 📚 docs: document token refresh logic
 0521. 🎨 style: standardize quote style
+0096. 🐛 fix: prevent crash on empty input
