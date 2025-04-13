@@ -19207,3 +19207,4 @@
 0844. 📚 docs: update README with setup steps
 0011. ✅ test: add unit test for quiz service
 0264. 🚀 perf: optimize database query for quiz results
+0959. 🐛 fix: fix null pointer exception on login
