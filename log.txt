@@ -46489,3 +46489,4 @@
 0048. 📚 docs: update README with setup steps
 0764. ✨ feat: add user authentication
 0505. ♻️ chore: add GitHub actions badge
+0090. ✅ test: increase coverage on auth module
