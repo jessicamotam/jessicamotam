@@ -59936,3 +59936,4 @@
 0053. ✅ test: increase coverage on auth module
 0080. ✨ feat: support email verification
 0531. 🐛 fix: prevent crash on empty input
+0672. 🐛 fix: fix broken CSS in mobile view
