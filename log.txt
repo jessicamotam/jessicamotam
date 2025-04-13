@@ -84987,3 +84987,4 @@
 0615. 🐛 fix: correct typo in registration form
 0923. ✨ feat: support email verification
 0483. 📚 docs: update README with setup steps
+0219. ✅ test: increase coverage on auth module
