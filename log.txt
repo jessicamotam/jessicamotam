@@ -43950,3 +43950,4 @@
 0024. 📚 docs: write FAQ section
 0923. ✨ feat: support email verification
 0518. ✨ feat: support email verification
+0762. 🚀 perf: lazy-load components
