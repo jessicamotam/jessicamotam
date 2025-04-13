@@ -25882,3 +25882,4 @@
 0336. ✨ feat: add export to CSV option
 0133. 🐛 fix: fix null pointer exception on login
 0398. 🚀 perf: cache repeated calculations
+0483. 📚 docs: update README with setup steps
