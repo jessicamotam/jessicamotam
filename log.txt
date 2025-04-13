@@ -2049,3 +2049,4 @@
 0473. 📚 docs: write FAQ section
 0150. 🎨 style: remove trailing whitespace
 0456. 🚀 perf: optimize database query for quiz results
+0012. 🚀 perf: cache repeated calculations
