@@ -6488,3 +6488,4 @@
 0270. ♻️ chore: rename env.example
 0187. ✨ feat: support email verification
 0885. ♻️ chore: update .gitignore
+0820. 📚 docs: add API usage examples
