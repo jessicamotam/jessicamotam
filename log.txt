@@ -37585,3 +37585,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0079. 🐛 fix: correct typo in registration form
 0684. 🚀 perf: reduce image load time
+0472. 🐛 fix: fix null pointer exception on login
