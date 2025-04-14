@@ -38912,3 +38912,4 @@
 0486. ✨ feat: add export to CSV option
 0329. 📚 docs: update README with setup steps
 0245. 🐛 fix: resolve issue with date parsing
+0960. ✅ test: increase coverage on auth module
