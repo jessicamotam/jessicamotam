@@ -48593,3 +48593,4 @@
 0755. 🚀 perf: cache repeated calculations
 0863. 🐛 fix: correct typo in registration form
 0214. 📚 docs: improve code comments in utils
+0472. 🐛 fix: fix null pointer exception on login
