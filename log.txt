@@ -11134,3 +11134,4 @@
 0113. ✨ feat: add user authentication
 0245. 🐛 fix: resolve issue with date parsing
 0284. ✨ feat: implement quiz timer feature
+0361. ✨ feat: support email verification
