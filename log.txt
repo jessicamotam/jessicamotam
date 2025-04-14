@@ -78175,3 +78175,4 @@
 0298. ♻️ chore: update .gitignore
 0099. 🚀 perf: reduce image load time
 0121. ✨ feat: support email verification
+0477. 🐛 fix: fix broken CSS in mobile view
