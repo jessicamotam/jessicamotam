@@ -78522,3 +78522,4 @@
 0204. 🎨 style: standardize quote style
 0727. ♻️ chore: add GitHub actions badge
 0997. ✅ test: increase coverage on auth module
+0598. 🔧 refactor: remove redundant code blocks
