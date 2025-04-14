@@ -52427,3 +52427,4 @@
 0961. 📚 docs: add API usage examples
 0490. ✨ feat: create admin dashboard
 0474. ✅ test: add unit test for quiz service
+0221. ✨ feat: add user authentication
