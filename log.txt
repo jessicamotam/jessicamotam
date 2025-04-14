@@ -14556,3 +14556,4 @@
 0035. ✅ test: increase coverage on auth module
 0152. ✨ feat: add user authentication
 0299. 🐛 fix: resolve issue with date parsing
+0359. 🔧 refactor: clean up auth middleware
