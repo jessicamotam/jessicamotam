@@ -20800,3 +20800,4 @@
 0055. 📚 docs: update README with setup steps
 0175. 📚 docs: add API usage examples
 0433. 🐛 fix: prevent crash on empty input
+0178. ✨ feat: support email verification
