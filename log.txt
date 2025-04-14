@@ -73278,3 +73278,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0196. ♻️ chore: bump dependencies
 0286. ✅ test: mock database connection in test suite
+0875. ✅ test: increase coverage on auth module
