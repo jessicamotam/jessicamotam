@@ -80979,3 +80979,4 @@
 0576. ♻️ chore: update .gitignore
 0031. 📚 docs: document token refresh logic
 0613. 🐛 fix: prevent crash on empty input
+0775. 🐛 fix: fix null pointer exception on login
