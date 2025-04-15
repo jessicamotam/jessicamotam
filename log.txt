@@ -28278,3 +28278,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0042. 📚 docs: document token refresh logic
 0914. ✅ test: test user registration edge cases
+0279. ✨ feat: support email verification
