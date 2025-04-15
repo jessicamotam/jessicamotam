@@ -61665,3 +61665,4 @@
 0916. ♻️ chore: bump dependencies
 0706. ✨ feat: support email verification
 0824. 🚀 perf: lazy-load components
+0990. ♻️ chore: rename env.example
