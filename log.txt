@@ -50115,3 +50115,4 @@
 0995. ✅ test: mock database connection in test suite
 0936. 🔧 refactor: organize models into subfolders
 0409. 🚀 perf: lazy-load components
+0036. 🔧 refactor: clean up auth middleware
