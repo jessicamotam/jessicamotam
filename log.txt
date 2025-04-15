@@ -45970,3 +45970,4 @@
 0940. 📚 docs: document token refresh logic
 0862. ♻️ chore: bump dependencies
 0573. ✅ test: add integration test for /submit endpoint
+0485. 📚 docs: update README with setup steps
