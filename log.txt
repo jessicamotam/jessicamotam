@@ -3718,3 +3718,4 @@
 0990. ♻️ chore: rename env.example
 0820. 📚 docs: add API usage examples
 0493. ✨ feat: add user authentication
+0477. 🐛 fix: fix broken CSS in mobile view
