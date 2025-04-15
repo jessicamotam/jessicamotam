@@ -69697,3 +69697,4 @@
 0048. 📚 docs: update README with setup steps
 0262. 🎨 style: remove trailing whitespace
 0021. ✨ feat: support email verification
+0291. 📚 docs: write FAQ section
