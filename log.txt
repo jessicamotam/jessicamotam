@@ -89964,3 +89964,4 @@
 0778. 📚 docs: write FAQ section
 0251. ♻️ chore: update .gitignore
 0245. 🐛 fix: resolve issue with date parsing
+0113. ✨ feat: add user authentication
