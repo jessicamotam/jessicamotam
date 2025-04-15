@@ -38529,3 +38529,4 @@
 0788. 📚 docs: add API usage examples
 0483. 📚 docs: update README with setup steps
 0269. ✅ test: test user registration edge cases
+0906. 📚 docs: add API usage examples
