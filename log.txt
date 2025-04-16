@@ -24035,3 +24035,4 @@
 0087. ✨ feat: add export to CSV option
 0111. 📚 docs: update README with setup steps
 0273. 🚀 perf: reduce image load time
+0347. ♻️ chore: update .gitignore
