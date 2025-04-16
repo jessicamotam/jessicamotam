@@ -22286,3 +22286,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0198. 📚 docs: clarify environment setup
 0918. ✨ feat: enable dark mode toggle
+0985. 📚 docs: document token refresh logic
