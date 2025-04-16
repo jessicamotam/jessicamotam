@@ -88512,3 +88512,4 @@
 0702. ✨ feat: add user authentication
 0949. 📚 docs: write FAQ section
 0224. 🐛 fix: fix broken CSS in mobile view
+0393. 🚀 perf: lazy-load components
