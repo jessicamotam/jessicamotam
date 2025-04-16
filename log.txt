@@ -81572,3 +81572,4 @@
 0785. ✨ feat: enable dark mode toggle
 0850. ♻️ chore: rename env.example
 0297. 🎨 style: remove trailing whitespace
+0604. 📚 docs: add API usage examples
