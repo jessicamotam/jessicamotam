@@ -24448,3 +24448,4 @@
 0131. 📚 docs: write FAQ section
 0531. 🐛 fix: prevent crash on empty input
 0874. 🔧 refactor: split large controller into smaller functions
+0037. 🐛 fix: correct typo in registration form
