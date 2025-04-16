@@ -14861,3 +14861,4 @@
 0837. 🚀 perf: cache repeated calculations
 0400. 🐛 fix: fix null pointer exception on login
 0934. ✨ feat: support email verification
+0978. 🐛 fix: prevent crash on empty input
