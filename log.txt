@@ -39790,3 +39790,4 @@
 0215. 🎨 style: reformat files with black
 0221. ✨ feat: add user authentication
 0028. 🎨 style: standardize quote style
+0329. 📚 docs: update README with setup steps
