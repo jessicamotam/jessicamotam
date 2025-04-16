@@ -15093,3 +15093,4 @@
 0771. 🚀 perf: cache repeated calculations
 0716. ✨ feat: implement quiz timer feature
 0565. ♻️ chore: add GitHub actions badge
+0017. ✅ test: mock database connection in test suite
