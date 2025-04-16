@@ -90932,3 +90932,4 @@
 0556. ✨ feat: support email verification
 0159. 🚀 perf: lazy-load components
 0665. ♻️ chore: update .gitignore
+0589. 🐛 fix: fix broken CSS in mobile view
