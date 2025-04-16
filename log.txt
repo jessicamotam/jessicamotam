@@ -42094,3 +42094,4 @@
 0253. 📚 docs: update README with setup steps
 0109. 🚀 perf: lazy-load components
 0746. ♻️ chore: add GitHub actions badge
+0450. 🐛 fix: fix broken CSS in mobile view
