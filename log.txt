@@ -5748,3 +5748,4 @@
 0858. ♻️ chore: clean up unused files
 0180. ✨ feat: add export to CSV option
 0539. 🔧 refactor: organize models into subfolders
+0726. ✨ feat: enable dark mode toggle
