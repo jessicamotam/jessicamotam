@@ -37863,3 +37863,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0102. ✨ feat: support email verification
 0786. ✨ feat: enable dark mode toggle
+0546. 🐛 fix: fix null pointer exception on login
