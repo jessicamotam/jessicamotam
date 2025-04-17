@@ -59528,3 +59528,4 @@
 0233. 🚀 perf: lazy-load components
 0103. 🔧 refactor: remove redundant code blocks
 0289. 🐛 fix: resolve issue with date parsing
+0795. 📚 docs: update README with setup steps
