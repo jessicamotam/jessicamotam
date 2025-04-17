@@ -83131,3 +83131,4 @@
 0572. ✨ feat: add user authentication
 0059. ♻️ chore: bump dependencies
 0056. ♻️ chore: rename env.example
+0514. 🐛 fix: fix broken CSS in mobile view
