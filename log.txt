@@ -48313,3 +48313,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0530. 🔧 refactor: refactor quiz grading logic
 0602. 🔧 refactor: remove redundant code blocks
+0319. 🐛 fix: handle 500 error in quiz API
