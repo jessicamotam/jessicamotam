@@ -57035,3 +57035,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0058. ♻️ chore: add GitHub actions badge
 0651. ✨ feat: enable dark mode toggle
+0738. 🐛 fix: prevent crash on empty input
