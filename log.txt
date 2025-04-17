@@ -77388,3 +77388,4 @@
 0180. ✨ feat: add export to CSV option
 0489. 🔧 refactor: organize models into subfolders
 0879. 🎨 style: standardize quote style
+0698. 🐛 fix: handle 500 error in quiz API
