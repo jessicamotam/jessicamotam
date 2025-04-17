@@ -16101,3 +16101,4 @@
 0679. ♻️ chore: bump dependencies
 0516. ✅ test: add unit test for quiz service
 0529. 📚 docs: write FAQ section
+0613. 🐛 fix: prevent crash on empty input
