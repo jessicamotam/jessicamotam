@@ -42874,3 +42874,4 @@
 0498. ✅ test: mock database connection in test suite
 0302. ✨ feat: implement quiz timer feature
 0778. 📚 docs: write FAQ section
+0725. 🚀 perf: lazy-load components
