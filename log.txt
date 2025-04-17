@@ -85729,3 +85729,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0673. 🐛 fix: correct typo in registration form
 0349. ✅ test: increase coverage on auth module
+0871. ✅ test: add integration test for /submit endpoint
