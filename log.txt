@@ -1068,3 +1068,4 @@
 0010. ✨ feat: add user authentication
 0461. ✨ feat: add user authentication
 0582. ✨ feat: add export to CSV option
+0587. 🔧 refactor: remove redundant code blocks
