@@ -72990,3 +72990,4 @@
 0153. ♻️ chore: rename env.example
 0705. 🔧 refactor: refactor quiz grading logic
 0147. ♻️ chore: bump dependencies
+0025. 🚀 perf: optimize database query for quiz results
