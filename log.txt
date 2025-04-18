@@ -37368,3 +37368,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0989. 📚 docs: write FAQ section
 0477. 🐛 fix: fix broken CSS in mobile view
+0459. 🔧 refactor: organize models into subfolders
