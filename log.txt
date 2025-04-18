@@ -3583,3 +3583,4 @@
 0369. 🎨 style: standardize quote style
 0671. 🐛 fix: fix null pointer exception on login
 0215. 🎨 style: reformat files with black
+0738. 🐛 fix: prevent crash on empty input
