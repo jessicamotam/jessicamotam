@@ -7470,3 +7470,4 @@
 0566. 📚 docs: write FAQ section
 0944. ✨ feat: add user authentication
 0720. ✨ feat: add export to CSV option
+0178. ✨ feat: support email verification
