@@ -52548,3 +52548,4 @@
 0773. 📚 docs: document token refresh logic
 0462. ♻️ chore: update .gitignore
 0645. 🐛 fix: resolve issue with date parsing
+0140. 🐛 fix: handle 500 error in quiz API
