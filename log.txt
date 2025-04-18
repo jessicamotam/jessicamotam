@@ -73188,3 +73188,4 @@
 0559. 🔧 refactor: split large controller into smaller functions
 0804. ♻️ chore: add GitHub actions badge
 0248. 🐛 fix: handle 500 error in quiz API
+0541. 🐛 fix: correct typo in registration form
