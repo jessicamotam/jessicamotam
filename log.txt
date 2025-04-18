@@ -37275,3 +37275,4 @@
 0561. 📚 docs: write FAQ section
 0125. ✅ test: add integration test for /submit endpoint
 0832. 🔧 refactor: remove redundant code blocks
+0787. ♻️ chore: rename env.example
