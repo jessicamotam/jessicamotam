@@ -25903,3 +25903,4 @@
 0463. 🚀 perf: reduce image load time
 0388. 🎨 style: reformat files with black
 0584. 🚀 perf: lazy-load components
+0064. 📚 docs: clarify environment setup
