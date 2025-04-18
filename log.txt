@@ -58173,3 +58173,4 @@
 0771. 🚀 perf: cache repeated calculations
 0972. 🔧 refactor: refactor quiz grading logic
 0751. 🐛 fix: handle 500 error in quiz API
+0676. 🐛 fix: prevent crash on empty input
