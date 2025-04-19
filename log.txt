@@ -68035,3 +68035,4 @@
 0175. 📚 docs: add API usage examples
 0569. 📚 docs: document token refresh logic
 0083. 🎨 style: reformat files with black
+0367. 🐛 fix: fix null pointer exception on login
