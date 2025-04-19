@@ -39542,3 +39542,4 @@
 0329. 📚 docs: update README with setup steps
 0784. ♻️ chore: clean up unused files
 0482. ✨ feat: add export to CSV option
+0305. ✨ feat: enable dark mode toggle
