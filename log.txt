@@ -308,3 +308,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0356. 📚 docs: write FAQ section
 0905. ♻️ chore: bump dependencies
+0859. ✨ feat: create admin dashboard
