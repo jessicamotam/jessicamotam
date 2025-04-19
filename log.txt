@@ -49961,3 +49961,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0765. ♻️ chore: clean up unused files
 0700. 🎨 style: rename variables for clarity
+0466. 🚀 perf: optimize database query for quiz results
