@@ -88356,3 +88356,4 @@
 0093. ✅ test: add unit test for quiz service
 0911. ✅ test: increase coverage on auth module
 0216. 🎨 style: rename variables for clarity
+0922. 📚 docs: write FAQ section
