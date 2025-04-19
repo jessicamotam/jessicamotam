@@ -47168,3 +47168,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0793. 📚 docs: clarify environment setup
 0050. ✨ feat: enable dark mode toggle
+0860. 🔧 refactor: organize models into subfolders
