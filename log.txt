@@ -59045,3 +59045,4 @@
 0451. ✨ feat: support email verification
 0939. 📚 docs: update README with setup steps
 0756. ✨ feat: support email verification
+0958. 🐛 fix: prevent crash on empty input
