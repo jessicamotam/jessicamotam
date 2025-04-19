@@ -54984,3 +54984,4 @@
 0339. 📚 docs: update README with setup steps
 0582. ✨ feat: add export to CSV option
 0310. 🔧 refactor: refactor quiz grading logic
+1000. ✅ test: increase coverage on auth module
