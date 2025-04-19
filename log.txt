@@ -19252,3 +19252,4 @@
 0166. 🚀 perf: cache repeated calculations
 0473. 📚 docs: write FAQ section
 0979. 🎨 style: standardize quote style
+0457. 🐛 fix: handle 500 error in quiz API
