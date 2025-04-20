@@ -43958,3 +43958,4 @@
 0499. 🎨 style: reformat files with black
 0241. 📚 docs: add API usage examples
 0719. 🎨 style: apply consistent indentation
+0954. 🚀 perf: cache repeated calculations
