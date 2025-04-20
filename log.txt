@@ -60139,3 +60139,4 @@
 0551. 📚 docs: write FAQ section
 0518. ✨ feat: support email verification
 0930. 🎨 style: apply consistent indentation
+0369. 🎨 style: standardize quote style
