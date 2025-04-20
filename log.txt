@@ -14238,3 +14238,4 @@
 0838. 🎨 style: standardize quote style
 0504. 📚 docs: document token refresh logic
 0918. ✨ feat: enable dark mode toggle
+0344. ♻️ chore: add GitHub actions badge
