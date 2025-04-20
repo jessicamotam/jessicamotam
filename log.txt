@@ -46413,3 +46413,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0186. ✅ test: test user registration edge cases
 0390. 🎨 style: standardize quote style
+0485. 📚 docs: update README with setup steps
