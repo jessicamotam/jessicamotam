@@ -23538,3 +23538,4 @@
 0962. ✨ feat: create admin dashboard
 0405. ✅ test: mock database connection in test suite
 0488. ♻️ chore: add GitHub actions badge
+0600. 🐛 fix: prevent crash on empty input
