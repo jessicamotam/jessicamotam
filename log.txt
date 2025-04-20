@@ -52472,3 +52472,4 @@
 0253. 📚 docs: update README with setup steps
 0926. 🔧 refactor: organize models into subfolders
 0275. 🎨 style: standardize quote style
+0127. 🐛 fix: fix null pointer exception on login
