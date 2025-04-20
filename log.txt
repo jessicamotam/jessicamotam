@@ -4744,3 +4744,4 @@
 0639. 🐛 fix: correct typo in registration form
 0298. ♻️ chore: update .gitignore
 0862. ♻️ chore: bump dependencies
+0106. 🎨 style: reformat files with black
