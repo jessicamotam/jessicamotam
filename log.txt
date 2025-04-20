@@ -15174,3 +15174,4 @@
 0797. 📚 docs: add API usage examples
 0929. ✨ feat: support email verification
 0634. 🎨 style: reformat files with black
+0563. 📚 docs: clarify environment setup
