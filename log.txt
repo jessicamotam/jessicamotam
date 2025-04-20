@@ -36380,3 +36380,4 @@
 0536. ✨ feat: add user authentication
 0574. ✨ feat: enable dark mode toggle
 0020. ✅ test: add integration test for /submit endpoint
+0093. ✅ test: add unit test for quiz service
