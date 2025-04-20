@@ -67121,3 +67121,4 @@
 0188. 🎨 style: apply consistent indentation
 0099. 🚀 perf: reduce image load time
 0053. ✅ test: increase coverage on auth module
+0257. 📚 docs: clarify environment setup
