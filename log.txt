@@ -75567,3 +75567,4 @@
 0305. ✨ feat: enable dark mode toggle
 0255. 🔧 refactor: refactor quiz grading logic
 0472. 🐛 fix: fix null pointer exception on login
+0676. 🐛 fix: prevent crash on empty input
