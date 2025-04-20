@@ -68515,3 +68515,4 @@
 0332. 🎨 style: standardize quote style
 0289. 🐛 fix: resolve issue with date parsing
 0631. ✨ feat: create admin dashboard
+0747. 🔧 refactor: clean up auth middleware
