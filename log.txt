@@ -1487,3 +1487,4 @@
 0705. 🔧 refactor: refactor quiz grading logic
 0287. 📚 docs: write FAQ section
 0637. 🎨 style: apply consistent indentation
+0448. 🐛 fix: correct typo in registration form
