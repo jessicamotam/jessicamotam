@@ -15571,3 +15571,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0462. ♻️ chore: update .gitignore
 0864. 🐛 fix: correct typo in registration form
+0068. 🐛 fix: fix null pointer exception on login
