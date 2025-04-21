@@ -8586,3 +8586,4 @@
 0143. ✨ feat: implement quiz timer feature
 0787. ♻️ chore: rename env.example
 0698. 🐛 fix: handle 500 error in quiz API
+0392. 🎨 style: remove trailing whitespace
