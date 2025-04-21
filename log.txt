@@ -81220,3 +81220,4 @@
 0347. ♻️ chore: update .gitignore
 0992. ♻️ chore: clean up unused files
 0639. 🐛 fix: correct typo in registration form
+0220. 🐛 fix: fix null pointer exception on login
