@@ -55715,3 +55715,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0814. 🔧 refactor: remove redundant code blocks
 0974. ✨ feat: add export to CSV option
+0779. 🔧 refactor: organize models into subfolders
