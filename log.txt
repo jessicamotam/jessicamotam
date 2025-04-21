@@ -43029,3 +43029,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0113. ✨ feat: add user authentication
 0506. 🐛 fix: handle 500 error in quiz API
+0965. 🎨 style: reformat files with black
