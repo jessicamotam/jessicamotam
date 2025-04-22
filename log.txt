@@ -61507,3 +61507,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0114. ♻️ chore: update .gitignore
 0595. ✨ feat: enable dark mode toggle
+0429. ✨ feat: add user authentication
