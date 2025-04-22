@@ -87147,3 +87147,4 @@
 0994. 🚀 perf: reduce image load time
 0319. 🐛 fix: handle 500 error in quiz API
 0894. ✅ test: add integration test for /submit endpoint
+0875. ✅ test: increase coverage on auth module
