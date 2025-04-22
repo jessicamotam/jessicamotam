@@ -17281,3 +17281,4 @@
 0764. ✨ feat: add user authentication
 0509. ♻️ chore: bump dependencies
 0002. 🚀 perf: cache repeated calculations
+0250. 📚 docs: update README with setup steps
