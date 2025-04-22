@@ -14584,3 +14584,4 @@
 0811. 🎨 style: reformat files with black
 0756. ✨ feat: support email verification
 0530. 🔧 refactor: refactor quiz grading logic
+0610. 🚀 perf: lazy-load components
