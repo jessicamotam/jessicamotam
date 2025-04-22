@@ -4000,3 +4000,4 @@
 0966. 📚 docs: improve code comments in utils
 0918. ✨ feat: enable dark mode toggle
 0941. 🚀 perf: cache repeated calculations
+0696. 🔧 refactor: clean up auth middleware
