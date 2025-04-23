@@ -43317,3 +43317,4 @@
 0271. ✅ test: add unit test for quiz service
 0056. ♻️ chore: rename env.example
 0146. 🎨 style: apply consistent indentation
+0672. 🐛 fix: fix broken CSS in mobile view
