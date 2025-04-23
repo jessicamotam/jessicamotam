@@ -59260,3 +59260,4 @@
 0452. ✨ feat: implement quiz timer feature
 0199. ✨ feat: create admin dashboard
 0876. ♻️ chore: rename env.example
+0187. ✨ feat: support email verification
