@@ -48797,3 +48797,4 @@
 0083. 🎨 style: reformat files with black
 0074. ♻️ chore: add GitHub actions badge
 0266. 🔧 refactor: remove redundant code blocks
+0775. 🐛 fix: fix null pointer exception on login
