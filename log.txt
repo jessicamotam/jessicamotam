@@ -4398,3 +4398,4 @@
 0352. ✨ feat: add export to CSV option
 0785. ✨ feat: enable dark mode toggle
 0311. 🎨 style: apply consistent indentation
+0985. 📚 docs: document token refresh logic
