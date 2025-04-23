@@ -77497,3 +77497,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 0066. 🔧 refactor: clean up auth middleware
 0717. 🔧 refactor: refactor quiz grading logic
+0319. 🐛 fix: handle 500 error in quiz API
