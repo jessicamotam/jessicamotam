@@ -69524,3 +69524,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0864. 🐛 fix: correct typo in registration form
 0063. 🐛 fix: handle 500 error in quiz API
+0665. ♻️ chore: update .gitignore
