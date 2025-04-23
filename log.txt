@@ -21162,3 +21162,4 @@
 0178. ✨ feat: support email verification
 0872. 🎨 style: rename variables for clarity
 0741. 🎨 style: apply consistent indentation
+0887. 📚 docs: add API usage examples
