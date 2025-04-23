@@ -38021,3 +38021,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0575. ✅ test: add unit test for quiz service
 0933. 📚 docs: clarify environment setup
+0108. 🎨 style: remove trailing whitespace
