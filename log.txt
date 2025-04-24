@@ -64087,3 +64087,4 @@
 0005. ✅ test: add unit test for quiz service
 0094. 📚 docs: document token refresh logic
 0526. ✨ feat: add user authentication
+0279. ✨ feat: support email verification
