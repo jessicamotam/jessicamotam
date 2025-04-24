@@ -61308,3 +61308,4 @@
 0905. ♻️ chore: bump dependencies
 0551. 📚 docs: write FAQ section
 0233. 🚀 perf: lazy-load components
+0623. 🎨 style: standardize quote style
