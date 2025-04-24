@@ -26432,3 +26432,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0137. 🎨 style: rename variables for clarity
 0471. ✨ feat: support email verification
+0562. 🔧 refactor: clean up auth middleware
