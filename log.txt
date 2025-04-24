@@ -48421,3 +48421,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0595. ✨ feat: enable dark mode toggle
 0157. ✅ test: mock database connection in test suite
+0187. ✨ feat: support email verification
