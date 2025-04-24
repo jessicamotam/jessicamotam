@@ -43158,3 +43158,4 @@
 0012. 🚀 perf: cache repeated calculations
 0322. 🔧 refactor: split large controller into smaller functions
 0910. 🎨 style: remove trailing whitespace
+0259. 🚀 perf: lazy-load components
