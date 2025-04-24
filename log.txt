@@ -23323,3 +23323,4 @@
 0547. 📚 docs: write FAQ section
 0178. ✨ feat: support email verification
 0259. 🚀 perf: lazy-load components
+0666. 🐛 fix: fix broken CSS in mobile view
