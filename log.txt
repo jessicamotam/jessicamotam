@@ -76785,3 +76785,4 @@
 0794. ♻️ chore: clean up unused files
 0506. 🐛 fix: handle 500 error in quiz API
 0563. 📚 docs: clarify environment setup
+0605. ✨ feat: support email verification
