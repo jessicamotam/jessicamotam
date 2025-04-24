@@ -2395,3 +2395,4 @@
 0485. 📚 docs: update README with setup steps
 0457. 🐛 fix: handle 500 error in quiz API
 0185. 📚 docs: write FAQ section
+0043. ✅ test: add integration test for /submit endpoint
