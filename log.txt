@@ -31006,3 +31006,4 @@
 0790. 📚 docs: write FAQ section
 0381. ♻️ chore: clean up unused files
 0309. 🔧 refactor: refactor quiz grading logic
+0096. 🐛 fix: prevent crash on empty input
