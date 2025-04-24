@@ -58592,3 +58592,4 @@
 0212. 🎨 style: standardize quote style
 0313. 🎨 style: apply consistent indentation
 0392. 🎨 style: remove trailing whitespace
+0584. 🚀 perf: lazy-load components
