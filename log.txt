@@ -14527,3 +14527,4 @@
 0667. ✨ feat: add export to CSV option
 0072. 🚀 perf: optimize database query for quiz results
 0612. ✅ test: test user registration edge cases
+0393. 🚀 perf: lazy-load components
