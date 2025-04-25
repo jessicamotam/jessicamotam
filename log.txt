@@ -43676,3 +43676,4 @@
 0826. 📚 docs: clarify environment setup
 0250. 📚 docs: update README with setup steps
 0975. 🎨 style: apply consistent indentation
+0692. ✅ test: add integration test for /submit endpoint
