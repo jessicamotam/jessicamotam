@@ -3702,3 +3702,4 @@
 0911. ✅ test: increase coverage on auth module
 0191. 🔧 refactor: refactor quiz grading logic
 0875. ✅ test: increase coverage on auth module
+0673. 🐛 fix: correct typo in registration form
