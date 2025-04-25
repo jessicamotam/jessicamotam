@@ -8785,3 +8785,4 @@
 0456. 🚀 perf: optimize database query for quiz results
 0764. ✨ feat: add user authentication
 0791. 🔧 refactor: clean up auth middleware
+0950. 🎨 style: reformat files with black
