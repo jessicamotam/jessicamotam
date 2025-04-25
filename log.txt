@@ -6123,3 +6123,4 @@
 0348. ✅ test: test user registration edge cases
 0955. 🔧 refactor: remove redundant code blocks
 0777. 📚 docs: document token refresh logic
+0692. ✅ test: add integration test for /submit endpoint
