@@ -56723,3 +56723,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0862. ♻️ chore: bump dependencies
 0028. 🎨 style: standardize quote style
+0621. 🔧 refactor: clean up auth middleware
