@@ -88414,3 +88414,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0980. 🎨 style: reformat files with black
 0945. ♻️ chore: add GitHub actions badge
+1000. ✅ test: increase coverage on auth module
