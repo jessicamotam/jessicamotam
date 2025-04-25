@@ -66549,3 +66549,4 @@
 0144. ✅ test: increase coverage on auth module
 0792. 🎨 style: standardize quote style
 0112. ✨ feat: enable dark mode toggle
+0218. 🔧 refactor: clean up auth middleware
