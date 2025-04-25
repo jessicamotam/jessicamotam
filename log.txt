@@ -61654,3 +61654,4 @@
 0212. 🎨 style: standardize quote style
 0222. 🐛 fix: handle 500 error in quiz API
 0772. 🐛 fix: fix null pointer exception on login
+0502. 📚 docs: update README with setup steps
