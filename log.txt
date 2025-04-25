@@ -11185,3 +11185,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0510. 🎨 style: rename variables for clarity
 0248. 🐛 fix: handle 500 error in quiz API
+0689. 🎨 style: reformat files with black
