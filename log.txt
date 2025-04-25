@@ -52417,3 +52417,4 @@
 0984. ♻️ chore: clean up unused files
 0530. 🔧 refactor: refactor quiz grading logic
 0550. 🔧 refactor: split large controller into smaller functions
+0259. 🚀 perf: lazy-load components
