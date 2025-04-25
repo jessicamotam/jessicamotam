@@ -9880,3 +9880,4 @@
 0720. ✨ feat: add export to CSV option
 0239. 🎨 style: standardize quote style
 0576. ♻️ chore: update .gitignore
+0872. 🎨 style: rename variables for clarity
