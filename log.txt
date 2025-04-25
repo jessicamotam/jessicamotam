@@ -26065,3 +26065,4 @@
 0964. ♻️ chore: clean up unused files
 0096. 🐛 fix: prevent crash on empty input
 0931. 🚀 perf: reduce image load time
+0906. 📚 docs: add API usage examples
