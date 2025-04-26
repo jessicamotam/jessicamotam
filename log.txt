@@ -90788,3 +90788,4 @@
 0190. 🎨 style: rename variables for clarity
 0817. 🔧 refactor: remove redundant code blocks
 0442. 🎨 style: standardize quote style
+0960. ✅ test: increase coverage on auth module
