@@ -12423,3 +12423,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0409. 🚀 perf: lazy-load components
 0535. 📚 docs: write FAQ section
+0869. ♻️ chore: bump dependencies
