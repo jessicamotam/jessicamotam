@@ -56381,3 +56381,4 @@
 0823. ✨ feat: add user authentication
 0116. ✨ feat: support email verification
 0541. 🐛 fix: correct typo in registration form
+0790. 📚 docs: write FAQ section
