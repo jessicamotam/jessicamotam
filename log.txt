@@ -37621,3 +37621,4 @@
 0219. ✅ test: increase coverage on auth module
 0331. 🐛 fix: fix broken CSS in mobile view
 0839. 🎨 style: apply consistent indentation
+0321. 🔧 refactor: organize models into subfolders
