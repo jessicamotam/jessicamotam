@@ -90005,3 +90005,4 @@
 0895. ✨ feat: support email verification
 0660. 🐛 fix: correct typo in registration form
 0840. 🔧 refactor: refactor quiz grading logic
+0020. ✅ test: add integration test for /submit endpoint
