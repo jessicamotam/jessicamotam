@@ -29329,3 +29329,4 @@
 0617. ✨ feat: support email verification
 0359. 🔧 refactor: clean up auth middleware
 0685. ✅ test: test user registration edge cases
+0542. 🔧 refactor: organize models into subfolders
