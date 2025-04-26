@@ -82141,3 +82141,4 @@
 0891. ✨ feat: create admin dashboard
 0944. ✨ feat: add user authentication
 0520. 🐛 fix: fix null pointer exception on login
+0888. 🚀 perf: lazy-load components
