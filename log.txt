@@ -36627,3 +36627,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0171. 🐛 fix: fix broken CSS in mobile view
 0262. 🎨 style: remove trailing whitespace
+0029. 🚀 perf: lazy-load components
