@@ -24432,3 +24432,4 @@
 0005. ✅ test: add unit test for quiz service
 0140. 🐛 fix: handle 500 error in quiz API
 0756. ✨ feat: support email verification
+0584. 🚀 perf: lazy-load components
