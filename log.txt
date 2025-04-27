@@ -2875,3 +2875,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0787. ♻️ chore: rename env.example
 0586. 🎨 style: remove trailing whitespace
+0642. 🚀 perf: optimize database query for quiz results
