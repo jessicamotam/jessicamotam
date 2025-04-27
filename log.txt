@@ -58944,3 +58944,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0554. 📚 docs: improve code comments in utils
 0949. 📚 docs: write FAQ section
+0483. 📚 docs: update README with setup steps
