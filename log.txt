@@ -53628,3 +53628,4 @@
 0931. 🚀 perf: reduce image load time
 0561. 📚 docs: write FAQ section
 0130. 🔧 refactor: split large controller into smaller functions
+0507. 🔧 refactor: clean up auth middleware
