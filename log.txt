@@ -6908,3 +6908,4 @@
 0221. ✨ feat: add user authentication
 0707. 🎨 style: apply consistent indentation
 0659. 📚 docs: add API usage examples
+0189. 📚 docs: clarify environment setup
