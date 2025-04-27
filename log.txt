@@ -65860,3 +65860,4 @@
 0321. 🔧 refactor: organize models into subfolders
 0220. 🐛 fix: fix null pointer exception on login
 0027. 📚 docs: clarify environment setup
+0923. ✨ feat: support email verification
