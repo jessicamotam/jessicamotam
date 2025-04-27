@@ -38941,3 +38941,4 @@
 0591. ♻️ chore: clean up unused files
 0031. 📚 docs: document token refresh logic
 0635. 🎨 style: apply consistent indentation
+0860. 🔧 refactor: organize models into subfolders
