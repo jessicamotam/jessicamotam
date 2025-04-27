@@ -59055,3 +59055,4 @@
 0630. 🚀 perf: lazy-load components
 0706. ✨ feat: support email verification
 0440. 📚 docs: update README with setup steps
+0898. 🐛 fix: fix broken CSS in mobile view
