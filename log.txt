@@ -11728,3 +11728,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0401. 🚀 perf: reduce image load time
 0344. ♻️ chore: add GitHub actions badge
+0559. 🔧 refactor: split large controller into smaller functions
