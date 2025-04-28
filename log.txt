@@ -33831,3 +33831,4 @@
 0458. ✨ feat: create admin dashboard
 0056. ♻️ chore: rename env.example
 0850. ♻️ chore: rename env.example
+0824. 🚀 perf: lazy-load components
