@@ -10997,3 +10997,4 @@
 0083. 🎨 style: reformat files with black
 0099. 🚀 perf: reduce image load time
 0911. ✅ test: increase coverage on auth module
+0970. ♻️ chore: update .gitignore
