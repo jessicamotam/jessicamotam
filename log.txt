@@ -8729,3 +8729,4 @@
 0189. 📚 docs: clarify environment setup
 0008. 🚀 perf: reduce image load time
 0021. ✨ feat: support email verification
+0499. 🎨 style: reformat files with black
