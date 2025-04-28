@@ -19287,3 +19287,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0219. ✅ test: increase coverage on auth module
 0009. ✨ feat: enable dark mode toggle
+0096. 🐛 fix: prevent crash on empty input
