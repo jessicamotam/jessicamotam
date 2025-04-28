@@ -4154,3 +4154,4 @@
 0756. ✨ feat: support email verification
 0245. 🐛 fix: resolve issue with date parsing
 0006. 🐛 fix: prevent crash on empty input
+0690. 🚀 perf: lazy-load components
