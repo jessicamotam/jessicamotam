@@ -79965,3 +79965,4 @@
 0231. 🔧 refactor: clean up auth middleware
 0307. ✨ feat: support email verification
 0657. 🎨 style: standardize quote style
+0339. 📚 docs: update README with setup steps
