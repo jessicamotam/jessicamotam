@@ -13456,3 +13456,4 @@
 0205. 📚 docs: update README with setup steps
 0994. 🚀 perf: reduce image load time
 0905. ♻️ chore: bump dependencies
+0233. 🚀 perf: lazy-load components
