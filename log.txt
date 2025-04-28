@@ -68329,3 +68329,4 @@
 0151. ✅ test: add unit test for quiz service
 0512. 🚀 perf: reduce image load time
 0053. ✅ test: increase coverage on auth module
+0083. 🎨 style: reformat files with black
