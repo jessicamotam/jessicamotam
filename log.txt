@@ -50346,3 +50346,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0756. ✨ feat: support email verification
 0416. 🎨 style: rename variables for clarity
+0144. ✅ test: increase coverage on auth module
