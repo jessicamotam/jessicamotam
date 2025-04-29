@@ -81954,3 +81954,4 @@
 0891. ✨ feat: create admin dashboard
 0564. 📚 docs: clarify environment setup
 0567. 📚 docs: add API usage examples
+0935. 📚 docs: update README with setup steps
