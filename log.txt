@@ -49822,3 +49822,4 @@
 0435. ✅ test: add unit test for quiz service
 0821. ✅ test: add integration test for /submit endpoint
 0432. 🎨 style: apply consistent indentation
+0841. 🚀 perf: optimize database query for quiz results
