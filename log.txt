@@ -78960,3 +78960,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0507. 🔧 refactor: clean up auth middleware
 0210. 🎨 style: apply consistent indentation
+0675. 🔧 refactor: organize models into subfolders
