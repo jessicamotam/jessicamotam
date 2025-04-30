@@ -83627,3 +83627,4 @@
 0592. 📚 docs: add API usage examples
 0488. ♻️ chore: add GitHub actions badge
 0379. ✨ feat: support email verification
+0008. 🚀 perf: reduce image load time
