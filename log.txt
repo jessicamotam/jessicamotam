@@ -71116,3 +71116,4 @@
 0027. 📚 docs: clarify environment setup
 0381. ♻️ chore: clean up unused files
 0104. 🎨 style: apply consistent indentation
+0585. 🚀 perf: lazy-load components
