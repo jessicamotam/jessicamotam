@@ -88123,3 +88123,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0477. 🐛 fix: fix broken CSS in mobile view
 0689. 🎨 style: reformat files with black
+0340. 🚀 perf: optimize database query for quiz results
