@@ -37602,3 +37602,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0460. 📚 docs: write FAQ section
 0738. 🐛 fix: prevent crash on empty input
+0470. 🎨 style: remove trailing whitespace
