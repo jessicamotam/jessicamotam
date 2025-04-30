@@ -6117,3 +6117,4 @@
 0469. 🚀 perf: lazy-load components
 0123. ✨ feat: implement quiz timer feature
 0639. 🐛 fix: correct typo in registration form
+0099. 🚀 perf: reduce image load time
