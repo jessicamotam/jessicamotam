@@ -38859,3 +38859,4 @@
 0659. 📚 docs: add API usage examples
 0336. ✨ feat: add export to CSV option
 0027. 📚 docs: clarify environment setup
+0480. ♻️ chore: add GitHub actions badge
