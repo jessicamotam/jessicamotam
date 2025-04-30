@@ -31035,3 +31035,4 @@
 0726. ✨ feat: enable dark mode toggle
 0624. ✅ test: add unit test for quiz service
 0444. ✅ test: add unit test for quiz service
+0035. ✅ test: increase coverage on auth module
