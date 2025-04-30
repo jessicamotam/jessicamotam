@@ -9681,3 +9681,4 @@
 0752. ✅ test: add integration test for /submit endpoint
 0997. ✅ test: increase coverage on auth module
 0175. 📚 docs: add API usage examples
+0408. ♻️ chore: add GitHub actions badge
