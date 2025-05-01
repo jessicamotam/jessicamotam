@@ -11092,3 +11092,4 @@
 0858. ♻️ chore: clean up unused files
 0663. 🚀 perf: reduce image load time
 0147. ♻️ chore: bump dependencies
+0666. 🐛 fix: fix broken CSS in mobile view
