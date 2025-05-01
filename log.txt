@@ -48334,3 +48334,4 @@
 0709. ♻️ chore: bump dependencies
 0743. 🎨 style: apply consistent indentation
 0347. ♻️ chore: update .gitignore
+0249. ✅ test: increase coverage on auth module
