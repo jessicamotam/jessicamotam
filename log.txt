@@ -63466,3 +63466,4 @@
 0487. 🎨 style: reformat files with black
 0490. ✨ feat: create admin dashboard
 0013. ✅ test: increase coverage on auth module
+0702. ✨ feat: add user authentication
