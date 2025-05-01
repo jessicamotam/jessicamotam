@@ -32226,3 +32226,4 @@
 0091. ✨ feat: add user authentication
 0663. 🚀 perf: reduce image load time
 0473. 📚 docs: write FAQ section
+0054. ♻️ chore: update .gitignore
