@@ -19541,3 +19541,4 @@
 0105. 🐛 fix: correct typo in registration form
 0630. 🚀 perf: lazy-load components
 0689. 🎨 style: reformat files with black
+0008. 🚀 perf: reduce image load time
