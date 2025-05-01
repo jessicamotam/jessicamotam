@@ -56573,3 +56573,4 @@
 0547. 📚 docs: write FAQ section
 0771. 🚀 perf: cache repeated calculations
 0017. ✅ test: mock database connection in test suite
+0889. 🚀 perf: lazy-load components
