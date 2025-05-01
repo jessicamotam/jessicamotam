@@ -56213,3 +56213,4 @@
 0604. 📚 docs: add API usage examples
 0333. 🚀 perf: cache repeated calculations
 0293. ✅ test: add integration test for /submit endpoint
+0738. 🐛 fix: prevent crash on empty input
