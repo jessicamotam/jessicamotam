@@ -49450,3 +49450,4 @@
 0849. 🐛 fix: correct typo in registration form
 0374. 🎨 style: standardize quote style
 0830. 🎨 style: apply consistent indentation
+0090. ✅ test: increase coverage on auth module
