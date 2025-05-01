@@ -28359,3 +28359,4 @@
 0327. 🔧 refactor: split large controller into smaller functions
 0996. ✅ test: test user registration edge cases
 0999. 🔧 refactor: split large controller into smaller functions
+0513. ♻️ chore: bump dependencies
