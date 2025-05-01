@@ -8882,3 +8882,4 @@
 0323. 📚 docs: clarify environment setup
 0679. ♻️ chore: bump dependencies
 0799. ♻️ chore: clean up unused files
+0144. ✅ test: increase coverage on auth module
