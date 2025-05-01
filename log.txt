@@ -5167,3 +5167,4 @@
 0209. ✨ feat: implement quiz timer feature
 0005. ✅ test: add unit test for quiz service
 0194. 🎨 style: standardize quote style
+0372. ✨ feat: add user authentication
