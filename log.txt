@@ -3199,3 +3199,4 @@
 0617. ✨ feat: support email verification
 0622. 🎨 style: apply consistent indentation
 0482. ✨ feat: add export to CSV option
+0672. 🐛 fix: fix broken CSS in mobile view
