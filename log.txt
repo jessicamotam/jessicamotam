@@ -55181,3 +55181,4 @@
 0486. ✨ feat: add export to CSV option
 0426. ✅ test: add integration test for /submit endpoint
 0373. 📚 docs: document token refresh logic
+0960. ✅ test: increase coverage on auth module
