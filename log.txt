@@ -801,3 +801,4 @@
 0949. 📚 docs: write FAQ section
 0915. 🚀 perf: cache repeated calculations
 0018. 🔧 refactor: organize models into subfolders
+0923. ✨ feat: support email verification
