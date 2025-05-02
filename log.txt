@@ -29204,3 +29204,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0506. 🐛 fix: handle 500 error in quiz API
 0024. 📚 docs: write FAQ section
+0049. 🐛 fix: handle 500 error in quiz API
