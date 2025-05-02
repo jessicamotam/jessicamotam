@@ -56737,3 +56737,4 @@
 0091. ✨ feat: add user authentication
 0059. ♻️ chore: bump dependencies
 0826. 📚 docs: clarify environment setup
+0278. 🔧 refactor: clean up auth middleware
