@@ -46128,3 +46128,4 @@
 0841. 🚀 perf: optimize database query for quiz results
 0830. 🎨 style: apply consistent indentation
 0905. ♻️ chore: bump dependencies
+0653. 🐛 fix: prevent crash on empty input
