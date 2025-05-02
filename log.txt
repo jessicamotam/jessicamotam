@@ -35786,3 +35786,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0026. 🔧 refactor: clean up auth middleware
 0450. 🐛 fix: fix broken CSS in mobile view
+0895. ✨ feat: support email verification
