@@ -37795,3 +37795,4 @@
 0921. 🐛 fix: correct typo in registration form
 0063. 🐛 fix: handle 500 error in quiz API
 0710. 🐛 fix: fix broken CSS in mobile view
+0349. ✅ test: increase coverage on auth module
