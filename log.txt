@@ -1035,3 +1035,4 @@
 0004. 🚀 perf: optimize database query for quiz results
 0170. ✅ test: increase coverage on auth module
 0607. 🐛 fix: prevent crash on empty input
+0572. ✨ feat: add user authentication
