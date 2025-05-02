@@ -58338,3 +58338,4 @@
 0462. ♻️ chore: update .gitignore
 0151. ✅ test: add unit test for quiz service
 0021. ✨ feat: support email verification
+0399. ✅ test: mock database connection in test suite
