@@ -5021,3 +5021,4 @@
 0254. 🚀 perf: reduce image load time
 0660. 🐛 fix: correct typo in registration form
 0939. 📚 docs: update README with setup steps
+0517. ✅ test: mock database connection in test suite
