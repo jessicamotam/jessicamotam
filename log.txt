@@ -71141,3 +71141,4 @@
 0642. 🚀 perf: optimize database query for quiz results
 0875. ✅ test: increase coverage on auth module
 0231. 🔧 refactor: clean up auth middleware
+0251. ♻️ chore: update .gitignore
