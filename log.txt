@@ -86165,3 +86165,4 @@
 0048. 📚 docs: update README with setup steps
 0826. 📚 docs: clarify environment setup
 0937. 🐛 fix: handle 500 error in quiz API
+0710. 🐛 fix: fix broken CSS in mobile view
