@@ -16586,3 +16586,4 @@
 0517. ✅ test: mock database connection in test suite
 0981. 🚀 perf: lazy-load components
 0739. 🎨 style: remove trailing whitespace
+0400. 🐛 fix: fix null pointer exception on login
