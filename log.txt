@@ -6898,3 +6898,4 @@
 0459. 🔧 refactor: organize models into subfolders
 0342. 🚀 perf: cache repeated calculations
 0349. ✅ test: increase coverage on auth module
+0347. ♻️ chore: update .gitignore
