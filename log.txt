@@ -61549,3 +61549,4 @@
 0764. ✨ feat: add user authentication
 0411. ✅ test: add unit test for quiz service
 0247. 🎨 style: apply consistent indentation
+0860. 🔧 refactor: organize models into subfolders
