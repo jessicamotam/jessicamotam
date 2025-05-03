@@ -10597,3 +10597,4 @@
 0750. 🎨 style: apply consistent indentation
 0311. 🎨 style: apply consistent indentation
 0614. 🚀 perf: reduce image load time
+0279. ✨ feat: support email verification
