@@ -51474,3 +51474,4 @@
 0025. 🚀 perf: optimize database query for quiz results
 0957. 🐛 fix: fix null pointer exception on login
 0304. 🔧 refactor: remove redundant code blocks
+0824. 🚀 perf: lazy-load components
