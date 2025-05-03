@@ -83710,3 +83710,4 @@
 0145. 📚 docs: improve code comments in utils
 0492. 🎨 style: remove trailing whitespace
 0134. ✨ feat: implement quiz timer feature
+0610. 🚀 perf: lazy-load components
