@@ -28031,3 +28031,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0012. 🚀 perf: cache repeated calculations
 0490. ✨ feat: create admin dashboard
+0749. ✨ feat: support email verification
