@@ -56600,3 +56600,4 @@
 0567. 📚 docs: add API usage examples
 0088. 📚 docs: add API usage examples
 0065. ✅ test: add integration test for /submit endpoint
+0664. ✅ test: add unit test for quiz service
