@@ -36990,3 +36990,4 @@
 0640. ♻️ chore: bump dependencies
 0301. 🎨 style: apply consistent indentation
 0121. ✨ feat: support email verification
+0653. 🐛 fix: prevent crash on empty input
