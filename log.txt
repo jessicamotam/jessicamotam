@@ -5905,3 +5905,4 @@
 0662. ♻️ chore: clean up unused files
 0465. 🎨 style: rename variables for clarity
 0519. 📚 docs: document token refresh logic
+0095. ✅ test: mock database connection in test suite
