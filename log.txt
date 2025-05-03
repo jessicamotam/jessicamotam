@@ -4193,3 +4193,4 @@
 0182. 🔧 refactor: remove redundant code blocks
 0764. ✨ feat: add user authentication
 0197. 📚 docs: update README with setup steps
+0593. 🐛 fix: correct typo in registration form
