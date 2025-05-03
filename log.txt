@@ -3235,3 +3235,4 @@
 0796. 🔧 refactor: refactor quiz grading logic
 0596. ♻️ chore: update .gitignore
 0899. 🚀 perf: cache repeated calculations
+0346. ✅ test: mock database connection in test suite
