@@ -19071,3 +19071,4 @@
 0251. ♻️ chore: update .gitignore
 0753. 🔧 refactor: remove redundant code blocks
 0572. ✨ feat: add user authentication
+0140. 🐛 fix: handle 500 error in quiz API
