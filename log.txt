@@ -2564,3 +2564,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0093. ✅ test: add unit test for quiz service
 0356. 📚 docs: write FAQ section
+0395. 📚 docs: write FAQ section
