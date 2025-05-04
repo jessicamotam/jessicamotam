@@ -26153,3 +26153,4 @@
 0869. ♻️ chore: bump dependencies
 0839. 🎨 style: apply consistent indentation
 0929. ✨ feat: support email verification
+0824. 🚀 perf: lazy-load components
