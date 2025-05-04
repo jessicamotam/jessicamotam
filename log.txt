@@ -36213,3 +36213,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0989. 📚 docs: write FAQ section
 0402. 🎨 style: reformat files with black
+0745. ✅ test: add unit test for quiz service
