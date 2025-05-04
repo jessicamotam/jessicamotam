@@ -14029,3 +14029,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0748. 🚀 perf: optimize database query for quiz results
 0518. ✨ feat: support email verification
+0939. 📚 docs: update README with setup steps
