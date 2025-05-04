@@ -10405,3 +10405,4 @@
 0330. ✅ test: test user registration edge cases
 0943. 🎨 style: rename variables for clarity
 0044. ✅ test: add unit test for quiz service
+0348. ✅ test: test user registration edge cases
