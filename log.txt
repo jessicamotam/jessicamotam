@@ -46782,3 +46782,4 @@
 0583. ✅ test: increase coverage on auth module
 0127. 🐛 fix: fix null pointer exception on login
 0410. 🎨 style: reformat files with black
+0819. 🚀 perf: reduce image load time
