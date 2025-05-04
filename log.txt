@@ -65551,3 +65551,4 @@
 0934. ✨ feat: support email verification
 0866. 📚 docs: add API usage examples
 0939. 📚 docs: update README with setup steps
+0491. 🚀 perf: lazy-load components
