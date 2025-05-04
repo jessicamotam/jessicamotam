@@ -28091,3 +28091,4 @@
 0463. 🚀 perf: reduce image load time
 0516. ✅ test: add unit test for quiz service
 0311. 🎨 style: apply consistent indentation
+0206. 🐛 fix: handle 500 error in quiz API
