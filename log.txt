@@ -10850,3 +10850,4 @@
 0431. 🎨 style: reformat files with black
 0711. 🐛 fix: fix broken CSS in mobile view
 0251. ♻️ chore: update .gitignore
+0906. 📚 docs: add API usage examples
