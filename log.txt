@@ -72470,3 +72470,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0704. 🚀 perf: cache repeated calculations
 0976. ✨ feat: implement quiz timer feature
+0008. 🚀 perf: reduce image load time
