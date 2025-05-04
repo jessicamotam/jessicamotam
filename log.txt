@@ -43115,3 +43115,4 @@
 0295. 🎨 style: remove trailing whitespace
 0768. 🎨 style: remove trailing whitespace
 0754. 🐛 fix: handle 500 error in quiz API
+0787. ♻️ chore: rename env.example
