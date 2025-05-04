@@ -16831,3 +16831,4 @@
 0369. 🎨 style: standardize quote style
 0234. ♻️ chore: rename env.example
 0867. 🔧 refactor: refactor quiz grading logic
+0340. 🚀 perf: optimize database query for quiz results
