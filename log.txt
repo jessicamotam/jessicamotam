@@ -65587,3 +65587,4 @@
 0578. ✅ test: add integration test for /submit endpoint
 0030. 🐛 fix: fix null pointer exception on login
 0956. 📚 docs: clarify environment setup
+0952. 🔧 refactor: split large controller into smaller functions
