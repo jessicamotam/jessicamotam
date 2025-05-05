@@ -45503,3 +45503,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0915. 🚀 perf: cache repeated calculations
 0690. 🚀 perf: lazy-load components
+0426. ✅ test: add integration test for /submit endpoint
