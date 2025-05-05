@@ -8531,3 +8531,4 @@
 0523. ♻️ chore: bump dependencies
 0107. 🐛 fix: prevent crash on empty input
 0890. 🔧 refactor: organize models into subfolders
+0315. ✅ test: add integration test for /submit endpoint
