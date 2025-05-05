@@ -30100,3 +30100,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0922. 📚 docs: write FAQ section
 0650. ✅ test: add unit test for quiz service
+0866. 📚 docs: add API usage examples
