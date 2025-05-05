@@ -79357,3 +79357,4 @@
 0714. 📚 docs: improve code comments in utils
 0479. 🐛 fix: fix null pointer exception on login
 0404. 📚 docs: improve code comments in utils
+0391. 🐛 fix: fix null pointer exception on login
