@@ -80530,3 +80530,4 @@
 0177. 📚 docs: add API usage examples
 0326. 🚀 perf: cache repeated calculations
 0052. 🎨 style: standardize quote style
+0522. 🐛 fix: handle 500 error in quiz API
