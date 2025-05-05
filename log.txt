@@ -16129,3 +16129,4 @@
 0363. 📚 docs: clarify environment setup
 0336. ✨ feat: add export to CSV option
 0171. 🐛 fix: fix broken CSS in mobile view
+0882. 🚀 perf: optimize database query for quiz results
