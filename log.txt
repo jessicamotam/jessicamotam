@@ -26699,3 +26699,4 @@
 0559. 🔧 refactor: split large controller into smaller functions
 0744. 🔧 refactor: remove redundant code blocks
 0430. 🐛 fix: fix null pointer exception on login
+0988. 🐛 fix: fix broken CSS in mobile view
