@@ -10664,3 +10664,4 @@
 0117. ✅ test: increase coverage on auth module
 0768. 🎨 style: remove trailing whitespace
 0101. 📚 docs: clarify environment setup
+0817. 🔧 refactor: remove redundant code blocks
