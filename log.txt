@@ -85433,3 +85433,4 @@
 0189. 📚 docs: clarify environment setup
 0889. 🚀 perf: lazy-load components
 0910. 🎨 style: remove trailing whitespace
+0749. ✨ feat: support email verification
