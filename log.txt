@@ -33694,3 +33694,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0096. 🐛 fix: prevent crash on empty input
 0444. ✅ test: add unit test for quiz service
+0090. ✅ test: increase coverage on auth module
