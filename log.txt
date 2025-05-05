@@ -4525,3 +4525,4 @@
 0518. ✨ feat: support email verification
 0536. ✨ feat: add user authentication
 0311. 🎨 style: apply consistent indentation
+0178. ✨ feat: support email verification
