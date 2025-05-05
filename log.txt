@@ -28725,3 +28725,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0979. 🎨 style: standardize quote style
 0164. 📚 docs: document token refresh logic
+0923. ✨ feat: support email verification
