@@ -33984,3 +33984,4 @@
 0307. ✨ feat: support email verification
 0956. 📚 docs: clarify environment setup
 0028. 🎨 style: standardize quote style
+0114. ♻️ chore: update .gitignore
