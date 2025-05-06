@@ -29614,3 +29614,4 @@
 0125. ✅ test: add integration test for /submit endpoint
 0365. 🚀 perf: reduce image load time
 0765. ♻️ chore: clean up unused files
+0950. 🎨 style: reformat files with black
