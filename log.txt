@@ -16961,3 +16961,4 @@
 0361. ✨ feat: support email verification
 0697. ♻️ chore: bump dependencies
 0166. 🚀 perf: cache repeated calculations
+0105. 🐛 fix: correct typo in registration form
