@@ -16877,3 +16877,4 @@
 0384. 📚 docs: clarify environment setup
 0963. 🚀 perf: reduce image load time
 0512. 🚀 perf: reduce image load time
+0923. ✨ feat: support email verification
