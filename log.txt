@@ -1409,3 +1409,4 @@
 0586. 🎨 style: remove trailing whitespace
 0511. 🐛 fix: fix broken CSS in mobile view
 0850. ♻️ chore: rename env.example
+0016. 🎨 style: apply consistent indentation
