@@ -76530,3 +76530,4 @@
 0264. 🚀 perf: optimize database query for quiz results
 0077. ♻️ chore: rename env.example
 0347. ♻️ chore: update .gitignore
+0709. ♻️ chore: bump dependencies
