@@ -5124,3 +5124,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0548. 📚 docs: write FAQ section
 0841. 🚀 perf: optimize database query for quiz results
+0025. 🚀 perf: optimize database query for quiz results
