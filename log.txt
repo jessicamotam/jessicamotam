@@ -12070,3 +12070,4 @@
 0833. ✨ feat: add user authentication
 0869. ♻️ chore: bump dependencies
 0337. 📚 docs: document token refresh logic
+0222. 🐛 fix: handle 500 error in quiz API
