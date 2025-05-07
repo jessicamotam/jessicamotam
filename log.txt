@@ -39210,3 +39210,4 @@
 0707. 🎨 style: apply consistent indentation
 0656. 🎨 style: apply consistent indentation
 0422. 🔧 refactor: organize models into subfolders
+0451. ✨ feat: support email verification
