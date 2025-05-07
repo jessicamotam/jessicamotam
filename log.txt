@@ -11358,3 +11358,4 @@
 0657. 🎨 style: standardize quote style
 0085. ✨ feat: support email verification
 0327. 🔧 refactor: split large controller into smaller functions
+0844. 📚 docs: update README with setup steps
