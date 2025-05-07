@@ -26430,3 +26430,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0643. 🎨 style: apply consistent indentation
 0224. 🐛 fix: fix broken CSS in mobile view
+0137. 🎨 style: rename variables for clarity
