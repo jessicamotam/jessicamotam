@@ -45562,3 +45562,4 @@
 0077. ♻️ chore: rename env.example
 0788. 📚 docs: add API usage examples
 0754. 🐛 fix: handle 500 error in quiz API
+0376. 🎨 style: apply consistent indentation
