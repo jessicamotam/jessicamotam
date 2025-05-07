@@ -3307,3 +3307,4 @@
 0784. ♻️ chore: clean up unused files
 0284. ✨ feat: implement quiz timer feature
 0800. 🚀 perf: optimize database query for quiz results
+0633. ✨ feat: add user authentication
