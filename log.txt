@@ -33562,3 +33562,4 @@
 0585. 🚀 perf: lazy-load components
 0004. 🚀 perf: optimize database query for quiz results
 0582. ✨ feat: add export to CSV option
+0556. ✨ feat: support email verification
