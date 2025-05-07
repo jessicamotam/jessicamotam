@@ -12268,3 +12268,4 @@
 0758. 🚀 perf: optimize database query for quiz results
 0793. 📚 docs: clarify environment setup
 0492. 🎨 style: remove trailing whitespace
+0504. 📚 docs: document token refresh logic
