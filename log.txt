@@ -20476,3 +20476,4 @@
 0314. ✨ feat: implement quiz timer feature
 0296. 🔧 refactor: organize models into subfolders
 0784. ♻️ chore: clean up unused files
+0231. 🔧 refactor: clean up auth middleware
