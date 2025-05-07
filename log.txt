@@ -671,3 +671,4 @@
 0095. ✅ test: mock database connection in test suite
 0451. ✨ feat: support email verification
 0438. ♻️ chore: bump dependencies
+0275. 🎨 style: standardize quote style
