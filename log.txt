@@ -88880,3 +88880,4 @@
 0877. 🚀 perf: optimize database query for quiz results
 0925. ✨ feat: add export to CSV option
 0678. ✨ feat: add user authentication
+0484. 🐛 fix: handle 500 error in quiz API
