@@ -815,3 +815,4 @@
 0492. 🎨 style: remove trailing whitespace
 0316. 🐛 fix: fix broken CSS in mobile view
 0885. ♻️ chore: update .gitignore
+0711. 🐛 fix: fix broken CSS in mobile view
