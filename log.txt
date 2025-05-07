@@ -58878,3 +58878,4 @@
 0121. ✨ feat: support email verification
 0747. 🔧 refactor: clean up auth middleware
 0530. 🔧 refactor: refactor quiz grading logic
+0531. 🐛 fix: prevent crash on empty input
