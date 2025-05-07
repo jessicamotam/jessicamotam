@@ -63574,3 +63574,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0746. ♻️ chore: add GitHub actions badge
 0583. ✅ test: increase coverage on auth module
+0649. 📚 docs: update README with setup steps
