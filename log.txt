@@ -41364,3 +41364,4 @@
 0132. ✅ test: add unit test for quiz service
 0903. ✅ test: mock database connection in test suite
 0756. ✨ feat: support email verification
+0118. 🚀 perf: reduce image load time
