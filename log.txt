@@ -7158,3 +7158,4 @@
 0324. 📚 docs: document token refresh logic
 0166. 🚀 perf: cache repeated calculations
 0457. 🐛 fix: handle 500 error in quiz API
+0764. ✨ feat: add user authentication
