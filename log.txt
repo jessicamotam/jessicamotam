@@ -3156,3 +3156,4 @@
 0381. ♻️ chore: clean up unused files
 0239. 🎨 style: standardize quote style
 0595. ✨ feat: enable dark mode toggle
+0685. ✅ test: test user registration edge cases
