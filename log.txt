@@ -40788,3 +40788,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0546. 🐛 fix: fix null pointer exception on login
 0919. 🚀 perf: optimize database query for quiz results
+0535. 📚 docs: write FAQ section
