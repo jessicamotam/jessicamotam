@@ -5131,3 +5131,4 @@
 0734. ✨ feat: add export to CSV option
 0603. 🐛 fix: fix broken CSS in mobile view
 0386. 🚀 perf: optimize database query for quiz results
+0523. ♻️ chore: bump dependencies
