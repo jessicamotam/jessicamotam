@@ -28207,3 +28207,4 @@
 0358. 🚀 perf: reduce image load time
 0392. 🎨 style: remove trailing whitespace
 0338. ♻️ chore: add GitHub actions badge
+0500. ✅ test: add integration test for /submit endpoint
