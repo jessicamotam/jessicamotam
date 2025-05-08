@@ -14243,3 +14243,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0628. ♻️ chore: add GitHub actions badge
 0571. 🔧 refactor: clean up auth middleware
+0462. ♻️ chore: update .gitignore
