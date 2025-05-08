@@ -39830,3 +39830,4 @@
 0263. 📚 docs: add API usage examples
 0105. 🐛 fix: correct typo in registration form
 0650. ✅ test: add unit test for quiz service
+0367. 🐛 fix: fix null pointer exception on login
