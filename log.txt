@@ -50271,3 +50271,4 @@
 0792. 🎨 style: standardize quote style
 0453. 🎨 style: standardize quote style
 0422. 🔧 refactor: organize models into subfolders
+0543. ✨ feat: support email verification
