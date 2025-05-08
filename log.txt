@@ -40432,3 +40432,4 @@
 0352. ✨ feat: add export to CSV option
 0858. ♻️ chore: clean up unused files
 0741. 🎨 style: apply consistent indentation
+0918. ✨ feat: enable dark mode toggle
