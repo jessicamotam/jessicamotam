@@ -36318,3 +36318,4 @@
 0231. 🔧 refactor: clean up auth middleware
 0363. 📚 docs: clarify environment setup
 0978. 🐛 fix: prevent crash on empty input
+0882. 🚀 perf: optimize database query for quiz results
