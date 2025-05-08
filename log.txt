@@ -80565,3 +80565,4 @@
 0968. 🎨 style: standardize quote style
 0073. 🔧 refactor: split large controller into smaller functions
 0362. 📚 docs: add API usage examples
+0066. 🔧 refactor: clean up auth middleware
