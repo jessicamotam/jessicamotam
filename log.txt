@@ -38067,3 +38067,4 @@
 0833. ✨ feat: add user authentication
 0464. 🎨 style: remove trailing whitespace
 0609. 🐛 fix: handle 500 error in quiz API
+0461. ✨ feat: add user authentication
