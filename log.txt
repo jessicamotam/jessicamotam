@@ -35530,3 +35530,4 @@
 0695. ✨ feat: create admin dashboard
 0187. ✨ feat: support email verification
 0150. 🎨 style: remove trailing whitespace
+0372. ✨ feat: add user authentication
