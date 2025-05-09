@@ -15009,3 +15009,4 @@
 0830. 🎨 style: apply consistent indentation
 0773. 📚 docs: document token refresh logic
 0478. 🐛 fix: resolve issue with date parsing
+0563. 📚 docs: clarify environment setup
