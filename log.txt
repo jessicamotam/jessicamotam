@@ -54097,3 +54097,4 @@
 0464. 🎨 style: remove trailing whitespace
 0974. ✨ feat: add export to CSV option
 0579. 📚 docs: clarify environment setup
+0649. 📚 docs: update README with setup steps
