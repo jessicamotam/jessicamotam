@@ -60593,3 +60593,4 @@
 0306. 🎨 style: apply consistent indentation
 0444. ✅ test: add unit test for quiz service
 0353. ♻️ chore: rename env.example
+0279. ✨ feat: support email verification
