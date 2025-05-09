@@ -67793,3 +67793,4 @@
 0173. 🚀 perf: cache repeated calculations
 0002. 🚀 perf: cache repeated calculations
 0868. ✅ test: add unit test for quiz service
+0203. 🚀 perf: lazy-load components
