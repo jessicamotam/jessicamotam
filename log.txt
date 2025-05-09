@@ -1415,3 +1415,4 @@
 0778. 📚 docs: write FAQ section
 0813. 🔧 refactor: organize models into subfolders
 0600. 🐛 fix: prevent crash on empty input
+0096. 🐛 fix: prevent crash on empty input
