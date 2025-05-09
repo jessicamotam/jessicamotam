@@ -84724,3 +84724,4 @@
 0008. 🚀 perf: reduce image load time
 0589. 🐛 fix: fix broken CSS in mobile view
 0287. 📚 docs: write FAQ section
+0401. 🚀 perf: reduce image load time
