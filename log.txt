@@ -2418,3 +2418,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0611. ✅ test: test user registration edge cases
 0444. ✅ test: add unit test for quiz service
+0692. ✅ test: add integration test for /submit endpoint
