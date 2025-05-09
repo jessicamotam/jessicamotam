@@ -32962,3 +32962,4 @@
 0439. 🐛 fix: correct typo in registration form
 0612. ✅ test: test user registration edge cases
 0286. ✅ test: mock database connection in test suite
+0249. ✅ test: increase coverage on auth module
