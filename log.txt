@@ -6713,3 +6713,4 @@
 0935. 📚 docs: update README with setup steps
 0535. 📚 docs: write FAQ section
 0136. 🚀 perf: lazy-load components
+0773. 📚 docs: document token refresh logic
