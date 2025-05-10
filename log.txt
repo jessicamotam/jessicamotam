@@ -1363,3 +1363,4 @@
 0843. 📚 docs: document token refresh logic
 0600. 🐛 fix: prevent crash on empty input
 0635. 🎨 style: apply consistent indentation
+0384. 📚 docs: clarify environment setup
