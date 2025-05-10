@@ -43477,3 +43477,4 @@
 0771. 🚀 perf: cache repeated calculations
 0913. 🚀 perf: optimize database query for quiz results
 0198. 📚 docs: clarify environment setup
+0696. 🔧 refactor: clean up auth middleware
