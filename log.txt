@@ -32381,3 +32381,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0710. 🐛 fix: fix broken CSS in mobile view
 0078. ♻️ chore: update .gitignore
+0569. 📚 docs: document token refresh logic
