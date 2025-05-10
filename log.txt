@@ -44977,3 +44977,4 @@
 0799. ♻️ chore: clean up unused files
 0481. ✅ test: add unit test for quiz service
 0954. 🚀 perf: cache repeated calculations
+0713. 🐛 fix: handle 500 error in quiz API
