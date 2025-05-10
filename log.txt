@@ -6366,3 +6366,4 @@
 0583. ✅ test: increase coverage on auth module
 0077. ♻️ chore: rename env.example
 0297. 🎨 style: remove trailing whitespace
+0276. ✅ test: add integration test for /submit endpoint
