@@ -27447,3 +27447,4 @@
 0916. ♻️ chore: bump dependencies
 0576. ♻️ chore: update .gitignore
 0898. 🐛 fix: fix broken CSS in mobile view
+0549. ✨ feat: enable dark mode toggle
