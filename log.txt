@@ -9254,3 +9254,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0463. 🚀 perf: reduce image load time
 0060. ♻️ chore: clean up unused files
+0009. ✨ feat: enable dark mode toggle
