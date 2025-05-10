@@ -9520,3 +9520,4 @@
 0657. 🎨 style: standardize quote style
 0011. ✅ test: add unit test for quiz service
 0150. 🎨 style: remove trailing whitespace
+0730. ✅ test: test user registration edge cases
