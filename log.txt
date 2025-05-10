@@ -85946,3 +85946,4 @@
 0055. 📚 docs: update README with setup steps
 0591. ♻️ chore: clean up unused files
 0113. ✨ feat: add user authentication
+0540. ♻️ chore: add GitHub actions badge
