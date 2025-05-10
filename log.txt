@@ -43374,3 +43374,4 @@
 0830. 🎨 style: apply consistent indentation
 0485. 📚 docs: update README with setup steps
 0797. 📚 docs: add API usage examples
+0722. 📚 docs: add API usage examples
