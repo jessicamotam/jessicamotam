@@ -73281,3 +73281,4 @@
 0875. ✅ test: increase coverage on auth module
 0436. ✅ test: add integration test for /submit endpoint
 0963. 🚀 perf: reduce image load time
+0749. ✨ feat: support email verification
