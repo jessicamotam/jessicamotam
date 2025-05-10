@@ -54918,3 +54918,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0965. 🎨 style: reformat files with black
 0053. ✅ test: increase coverage on auth module
+0157. ✅ test: mock database connection in test suite
