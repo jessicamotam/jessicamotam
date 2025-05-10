@@ -28205,3 +28205,4 @@
 0873. 🚀 perf: cache repeated calculations
 0876. ♻️ chore: rename env.example
 0358. 🚀 perf: reduce image load time
+0392. 🎨 style: remove trailing whitespace
