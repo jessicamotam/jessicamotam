@@ -86976,3 +86976,4 @@
 0572. ✨ feat: add user authentication
 0547. 📚 docs: write FAQ section
 0757. 🔧 refactor: remove redundant code blocks
+0114. ♻️ chore: update .gitignore
