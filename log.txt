@@ -19624,3 +19624,4 @@
 0055. 📚 docs: update README with setup steps
 0068. 🐛 fix: fix null pointer exception on login
 0224. 🐛 fix: fix broken CSS in mobile view
+0868. ✅ test: add unit test for quiz service
