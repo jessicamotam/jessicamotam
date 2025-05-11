@@ -24175,3 +24175,4 @@
 0684. 🚀 perf: reduce image load time
 0318. 🔧 refactor: refactor quiz grading logic
 0414. 🔧 refactor: remove redundant code blocks
+0675. 🔧 refactor: organize models into subfolders
