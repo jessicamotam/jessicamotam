@@ -24187,3 +24187,4 @@
 0759. 🔧 refactor: organize models into subfolders
 0707. 🎨 style: apply consistent indentation
 0600. 🐛 fix: prevent crash on empty input
+0882. 🚀 perf: optimize database query for quiz results
