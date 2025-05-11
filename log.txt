@@ -28280,3 +28280,4 @@
 0914. ✅ test: test user registration edge cases
 0279. ✨ feat: support email verification
 0675. 🔧 refactor: organize models into subfolders
+0524. ♻️ chore: rename env.example
