@@ -41120,3 +41120,4 @@
 0944. ✨ feat: add user authentication
 0965. 🎨 style: reformat files with black
 0619. ✨ feat: create admin dashboard
+0876. ♻️ chore: rename env.example
