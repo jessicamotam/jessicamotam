@@ -49518,3 +49518,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0727. ♻️ chore: add GitHub actions badge
 0982. 🚀 perf: lazy-load components
+0647. 🐛 fix: prevent crash on empty input
