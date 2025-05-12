@@ -38084,3 +38084,4 @@
 0356. 📚 docs: write FAQ section
 0795. 📚 docs: update README with setup steps
 0329. 📚 docs: update README with setup steps
+0018. 🔧 refactor: organize models into subfolders
