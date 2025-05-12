@@ -16190,3 +16190,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0757. 🔧 refactor: remove redundant code blocks
 0194. 🎨 style: standardize quote style
+0451. ✨ feat: support email verification
