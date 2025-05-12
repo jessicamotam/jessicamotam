@@ -68675,3 +68675,4 @@
 0330. ✅ test: test user registration edge cases
 0762. 🚀 perf: lazy-load components
 0726. ✨ feat: enable dark mode toggle
+0659. 📚 docs: add API usage examples
