@@ -36541,3 +36541,4 @@
 0953. 🎨 style: remove trailing whitespace
 0566. 📚 docs: write FAQ section
 0910. 🎨 style: remove trailing whitespace
+0653. 🐛 fix: prevent crash on empty input
