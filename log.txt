@@ -32830,3 +32830,4 @@
 0352. ✨ feat: add export to CSV option
 0839. 🎨 style: apply consistent indentation
 0225. 🚀 perf: reduce image load time
+0636. ✅ test: increase coverage on auth module
