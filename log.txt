@@ -67275,3 +67275,4 @@
 0693. 📚 docs: add API usage examples
 0908. ♻️ chore: bump dependencies
 0828. ♻️ chore: add GitHub actions badge
+0618. ✨ feat: support email verification
