@@ -74873,3 +74873,4 @@
 0356. 📚 docs: write FAQ section
 0570. 🎨 style: apply consistent indentation
 0783. 🐛 fix: handle 500 error in quiz API
+0021. ✨ feat: support email verification
