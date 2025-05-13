@@ -80400,3 +80400,4 @@
 0702. ✨ feat: add user authentication
 0060. ♻️ chore: clean up unused files
 0570. 🎨 style: apply consistent indentation
+0929. ✨ feat: support email verification
