@@ -9631,3 +9631,4 @@
 0854. ♻️ chore: rename env.example
 0828. ♻️ chore: add GitHub actions badge
 0490. ✨ feat: create admin dashboard
+0609. 🐛 fix: handle 500 error in quiz API
