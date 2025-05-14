@@ -5825,3 +5825,4 @@
 0887. 📚 docs: add API usage examples
 0356. 📚 docs: write FAQ section
 0895. ✨ feat: support email verification
+0666. 🐛 fix: fix broken CSS in mobile view
