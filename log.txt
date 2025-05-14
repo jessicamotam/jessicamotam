@@ -82324,3 +82324,4 @@
 0386. 🚀 perf: optimize database query for quiz results
 0571. 🔧 refactor: clean up auth middleware
 0014. 🔧 refactor: remove redundant code blocks
+0222. 🐛 fix: handle 500 error in quiz API
