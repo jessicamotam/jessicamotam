@@ -67942,3 +67942,4 @@
 0611. ✅ test: test user registration edge cases
 0399. ✅ test: mock database connection in test suite
 0666. 🐛 fix: fix broken CSS in mobile view
+0218. 🔧 refactor: clean up auth middleware
