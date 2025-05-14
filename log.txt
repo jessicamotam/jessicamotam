@@ -6676,3 +6676,4 @@
 0989. 📚 docs: write FAQ section
 0978. 🐛 fix: prevent crash on empty input
 0489. 🔧 refactor: organize models into subfolders
+0057. 🚀 perf: optimize database query for quiz results
