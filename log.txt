@@ -32277,3 +32277,4 @@
 0444. ✅ test: add unit test for quiz service
 0963. 🚀 perf: reduce image load time
 0530. 🔧 refactor: refactor quiz grading logic
+0998. 🐛 fix: fix null pointer exception on login
