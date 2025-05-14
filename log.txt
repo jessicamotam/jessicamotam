@@ -43090,3 +43090,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0747. 🔧 refactor: clean up auth middleware
 0243. 🔧 refactor: clean up auth middleware
+0491. 🚀 perf: lazy-load components
