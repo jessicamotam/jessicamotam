@@ -811,3 +811,4 @@
 0947. 📚 docs: write FAQ section
 0423. ✅ test: mock database connection in test suite
 0287. 📚 docs: write FAQ section
+0775. 🐛 fix: fix null pointer exception on login
