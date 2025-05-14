@@ -46694,3 +46694,4 @@
 0448. 🐛 fix: correct typo in registration form
 0145. 📚 docs: improve code comments in utils
 0335. ♻️ chore: update .gitignore
+0127. 🐛 fix: fix null pointer exception on login
