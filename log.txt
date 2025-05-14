@@ -49284,3 +49284,4 @@
 0503. ♻️ chore: rename env.example
 0354. 📚 docs: add API usage examples
 0634. 🎨 style: reformat files with black
+0738. 🐛 fix: prevent crash on empty input
