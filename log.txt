@@ -37926,3 +37926,4 @@
 0242. ♻️ chore: clean up unused files
 0052. 🎨 style: standardize quote style
 0868. ✅ test: add unit test for quiz service
+0666. 🐛 fix: fix broken CSS in mobile view
