@@ -47575,3 +47575,4 @@
 0329. 📚 docs: update README with setup steps
 0429. ✨ feat: add user authentication
 0245. 🐛 fix: resolve issue with date parsing
+0049. 🐛 fix: handle 500 error in quiz API
