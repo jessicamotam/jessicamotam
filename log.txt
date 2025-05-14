@@ -83605,3 +83605,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0608. 🔧 refactor: remove redundant code blocks
 0064. 📚 docs: clarify environment setup
+0131. 📚 docs: write FAQ section
