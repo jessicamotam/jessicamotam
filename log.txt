@@ -39798,3 +39798,4 @@
 0102. ✨ feat: support email verification
 0521. 🎨 style: standardize quote style
 0381. ♻️ chore: clean up unused files
+0128. ♻️ chore: rename env.example
