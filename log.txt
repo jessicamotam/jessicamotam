@@ -74498,3 +74498,4 @@
 0117. ✅ test: increase coverage on auth module
 0816. 🔧 refactor: organize models into subfolders
 0570. 🎨 style: apply consistent indentation
+0795. 📚 docs: update README with setup steps
