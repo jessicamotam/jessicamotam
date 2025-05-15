@@ -88017,3 +88017,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0952. 🔧 refactor: split large controller into smaller functions
 0793. 📚 docs: clarify environment setup
+0330. ✅ test: test user registration edge cases
