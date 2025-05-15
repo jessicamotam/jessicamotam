@@ -40711,3 +40711,4 @@
 0365. 🚀 perf: reduce image load time
 0012. 🚀 perf: cache repeated calculations
 0929. ✨ feat: support email verification
+0171. 🐛 fix: fix broken CSS in mobile view
