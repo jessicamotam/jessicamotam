@@ -75328,3 +75328,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0936. 🔧 refactor: organize models into subfolders
 0098. 🎨 style: rename variables for clarity
+0672. 🐛 fix: fix broken CSS in mobile view
