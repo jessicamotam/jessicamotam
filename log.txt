@@ -17885,3 +17885,4 @@
 0237. 🎨 style: standardize quote style
 0976. ✨ feat: implement quiz timer feature
 0442. 🎨 style: standardize quote style
+0901. ✨ feat: add user authentication
