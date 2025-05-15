@@ -27040,3 +27040,4 @@
 0911. ✅ test: increase coverage on auth module
 0777. 📚 docs: document token refresh logic
 0257. 📚 docs: clarify environment setup
+0058. ♻️ chore: add GitHub actions badge
