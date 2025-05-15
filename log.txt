@@ -16974,3 +16974,4 @@
 0982. 🚀 perf: lazy-load components
 0678. ✨ feat: add user authentication
 0776. ✅ test: add integration test for /submit endpoint
+0949. 📚 docs: write FAQ section
