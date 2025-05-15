@@ -58730,3 +58730,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0518. ✨ feat: support email verification
 0125. ✅ test: add integration test for /submit endpoint
+0865. ♻️ chore: add GitHub actions badge
