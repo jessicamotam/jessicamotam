@@ -53005,3 +53005,4 @@
 0265. 🎨 style: reformat files with black
 0226. 🚀 perf: lazy-load components
 0078. ♻️ chore: update .gitignore
+0042. 📚 docs: document token refresh logic
