@@ -14397,3 +14397,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0184. 📚 docs: improve code comments in utils
 0548. 📚 docs: write FAQ section
+0154. 🐛 fix: prevent crash on empty input
