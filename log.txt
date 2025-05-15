@@ -57563,3 +57563,4 @@
 0832. 🔧 refactor: remove redundant code blocks
 0632. 🎨 style: remove trailing whitespace
 0665. ♻️ chore: update .gitignore
+0278. 🔧 refactor: clean up auth middleware
