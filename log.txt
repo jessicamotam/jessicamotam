@@ -63198,3 +63198,4 @@
 0225. 🚀 perf: reduce image load time
 0838. 🎨 style: standardize quote style
 0211. 🔧 refactor: remove redundant code blocks
+0048. 📚 docs: update README with setup steps
