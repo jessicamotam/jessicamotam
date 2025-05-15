@@ -41492,3 +41492,4 @@
 0707. 🎨 style: apply consistent indentation
 0070. ✨ feat: implement quiz timer feature
 0456. 🚀 perf: optimize database query for quiz results
+0584. 🚀 perf: lazy-load components
