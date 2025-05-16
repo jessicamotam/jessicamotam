@@ -12951,3 +12951,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0064. 📚 docs: clarify environment setup
 0084. 🐛 fix: handle 500 error in quiz API
+0573. ✅ test: add integration test for /submit endpoint
