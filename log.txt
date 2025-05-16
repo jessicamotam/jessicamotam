@@ -57157,3 +57157,4 @@
 0992. ♻️ chore: clean up unused files
 0331. 🐛 fix: fix broken CSS in mobile view
 0124. 🎨 style: reformat files with black
+0090. ✅ test: increase coverage on auth module
