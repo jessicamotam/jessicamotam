@@ -3654,3 +3654,4 @@
 0858. ♻️ chore: clean up unused files
 0780. 📚 docs: add API usage examples
 0090. ✅ test: increase coverage on auth module
+0516. ✅ test: add unit test for quiz service
