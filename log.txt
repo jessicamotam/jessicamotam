@@ -83069,3 +83069,4 @@
 0136. 🚀 perf: lazy-load components
 0612. ✅ test: test user registration edge cases
 0790. 📚 docs: write FAQ section
+0614. 🚀 perf: reduce image load time
