@@ -52484,3 +52484,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0230. ✨ feat: create admin dashboard
 0967. ♻️ chore: add GitHub actions badge
+0378. 🐛 fix: prevent crash on empty input
