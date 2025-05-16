@@ -5622,3 +5622,4 @@
 0597. 🚀 perf: cache repeated calculations
 0555. ✨ feat: create admin dashboard
 0490. ✨ feat: create admin dashboard
+0697. ♻️ chore: bump dependencies
