@@ -28998,3 +28998,4 @@
 0447. ♻️ chore: bump dependencies
 0290. ✅ test: test user registration edge cases
 0764. ✨ feat: add user authentication
+0751. 🐛 fix: handle 500 error in quiz API
