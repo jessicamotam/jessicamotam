@@ -70863,3 +70863,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0270. ♻️ chore: rename env.example
 0811. 🎨 style: reformat files with black
+0376. 🎨 style: apply consistent indentation
