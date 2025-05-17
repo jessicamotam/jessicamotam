@@ -73350,3 +73350,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0750. 🎨 style: apply consistent indentation
 0230. ✨ feat: create admin dashboard
+0401. 🚀 perf: reduce image load time
