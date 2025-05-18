@@ -86587,3 +86587,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0475. 🔧 refactor: clean up auth middleware
 0905. ♻️ chore: bump dependencies
+0737. 🐛 fix: handle 500 error in quiz API
