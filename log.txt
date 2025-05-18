@@ -75474,3 +75474,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0930. 🎨 style: apply consistent indentation
 0241. 📚 docs: add API usage examples
+0547. 📚 docs: write FAQ section
