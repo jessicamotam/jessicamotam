@@ -6346,3 +6346,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0261. 🔧 refactor: refactor quiz grading logic
 0496. ✅ test: add integration test for /submit endpoint
+0236. 🔧 refactor: remove redundant code blocks
