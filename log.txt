@@ -51082,3 +51082,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0648. ♻️ chore: bump dependencies
 0743. 🎨 style: apply consistent indentation
+0415. 🐛 fix: handle 500 error in quiz API
