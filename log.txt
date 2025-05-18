@@ -81843,3 +81843,4 @@
 0866. 📚 docs: add API usage examples
 0221. ✨ feat: add user authentication
 0376. 🎨 style: apply consistent indentation
+0879. 🎨 style: standardize quote style
