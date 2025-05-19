@@ -68482,3 +68482,4 @@
 0260. ✨ feat: create admin dashboard
 0182. 🔧 refactor: remove redundant code blocks
 0308. 🚀 perf: reduce image load time
+0187. ✨ feat: support email verification
