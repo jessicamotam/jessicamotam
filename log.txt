@@ -17910,3 +17910,4 @@
 0095. ✅ test: mock database connection in test suite
 0909. 🔧 refactor: organize models into subfolders
 0675. 🔧 refactor: organize models into subfolders
+0369. 🎨 style: standardize quote style
