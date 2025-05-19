@@ -27893,3 +27893,4 @@
 0889. 🚀 perf: lazy-load components
 0507. 🔧 refactor: clean up auth middleware
 0785. ✨ feat: enable dark mode toggle
+0699. 🎨 style: standardize quote style
