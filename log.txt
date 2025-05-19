@@ -11942,3 +11942,4 @@
 0722. 📚 docs: add API usage examples
 0675. 🔧 refactor: organize models into subfolders
 0509. ♻️ chore: bump dependencies
+0154. 🐛 fix: prevent crash on empty input
