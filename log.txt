@@ -1136,3 +1136,4 @@
 0405. ✅ test: mock database connection in test suite
 0620. ✨ feat: implement quiz timer feature
 0829. 🔧 refactor: organize models into subfolders
+0895. ✨ feat: support email verification
