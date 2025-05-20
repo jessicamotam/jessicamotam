@@ -60229,3 +60229,4 @@
 0379. ✨ feat: support email verification
 0130. 🔧 refactor: split large controller into smaller functions
 0852. ✨ feat: enable dark mode toggle
+0053. ✅ test: increase coverage on auth module
