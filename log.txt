@@ -23303,3 +23303,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0275. 🎨 style: standardize quote style
 0284. ✨ feat: implement quiz timer feature
+0827. 🚀 perf: optimize database query for quiz results
