@@ -14406,3 +14406,4 @@
 0424. ✨ feat: add user authentication
 0270. ♻️ chore: rename env.example
 0726. ✨ feat: enable dark mode toggle
+0688. 🚀 perf: reduce image load time
