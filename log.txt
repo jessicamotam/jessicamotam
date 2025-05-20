@@ -62100,3 +62100,4 @@
 0750. 🎨 style: apply consistent indentation
 0614. 🚀 perf: reduce image load time
 0501. ✨ feat: add export to CSV option
+0040. 🔧 refactor: clean up auth middleware
