@@ -63496,3 +63496,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0389. 📚 docs: improve code comments in utils
 0252. 🎨 style: remove trailing whitespace
+0127. 🐛 fix: fix null pointer exception on login
