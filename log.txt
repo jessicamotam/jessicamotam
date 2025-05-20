@@ -36292,3 +36292,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0291. 📚 docs: write FAQ section
 0379. ✨ feat: support email verification
+0027. 📚 docs: clarify environment setup
