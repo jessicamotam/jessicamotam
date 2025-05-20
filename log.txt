@@ -60118,3 +60118,4 @@
 0004. 🚀 perf: optimize database query for quiz results
 0564. 📚 docs: clarify environment setup
 0761. ✅ test: add unit test for quiz service
+0967. ♻️ chore: add GitHub actions badge
