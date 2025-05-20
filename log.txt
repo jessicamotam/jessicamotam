@@ -6771,3 +6771,4 @@
 0403. ✅ test: mock database connection in test suite
 0964. ♻️ chore: clean up unused files
 0348. ✅ test: test user registration edge cases
+0890. 🔧 refactor: organize models into subfolders
