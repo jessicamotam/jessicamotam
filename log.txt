@@ -23503,3 +23503,4 @@
 0859. ✨ feat: create admin dashboard
 0291. 📚 docs: write FAQ section
 0475. 🔧 refactor: clean up auth middleware
+0931. 🚀 perf: reduce image load time
