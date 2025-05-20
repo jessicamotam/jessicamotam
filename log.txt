@@ -23017,3 +23017,4 @@
 0764. ✨ feat: add user authentication
 0530. 🔧 refactor: refactor quiz grading logic
 0382. 📚 docs: improve code comments in utils
+0378. 🐛 fix: prevent crash on empty input
