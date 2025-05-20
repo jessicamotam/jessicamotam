@@ -42945,3 +42945,4 @@
 0516. ✅ test: add unit test for quiz service
 0250. 📚 docs: update README with setup steps
 0838. 🎨 style: standardize quote style
+0203. 🚀 perf: lazy-load components
