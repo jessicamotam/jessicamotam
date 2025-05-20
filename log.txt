@@ -40999,3 +40999,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0586. 🎨 style: remove trailing whitespace
 0553. 🐛 fix: correct typo in registration form
+0591. ♻️ chore: clean up unused files
