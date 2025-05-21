@@ -83006,3 +83006,4 @@
 0090. ✅ test: increase coverage on auth module
 0009. ✨ feat: enable dark mode toggle
 0548. 📚 docs: write FAQ section
+0320. 📚 docs: update README with setup steps
