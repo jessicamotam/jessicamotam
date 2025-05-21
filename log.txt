@@ -7315,3 +7315,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0579. 📚 docs: clarify environment setup
 0187. ✨ feat: support email verification
+0404. 📚 docs: improve code comments in utils
