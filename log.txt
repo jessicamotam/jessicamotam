@@ -84723,3 +84723,4 @@
 0332. 🎨 style: standardize quote style
 0008. 🚀 perf: reduce image load time
 0589. 🐛 fix: fix broken CSS in mobile view
+0287. 📚 docs: write FAQ section
