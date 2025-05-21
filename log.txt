@@ -81514,3 +81514,4 @@
 0884. 📚 docs: clarify environment setup
 0529. 📚 docs: write FAQ section
 0855. 🎨 style: reformat files with black
+0954. 🚀 perf: cache repeated calculations
