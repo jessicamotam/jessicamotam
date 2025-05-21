@@ -70894,3 +70894,4 @@
 0851. ✅ test: mock database connection in test suite
 0732. ♻️ chore: add GitHub actions badge
 0285. 🐛 fix: resolve issue with date parsing
+0793. 📚 docs: clarify environment setup
