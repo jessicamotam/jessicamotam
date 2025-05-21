@@ -69491,3 +69491,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0833. ✨ feat: add user authentication
 0581. ✅ test: add integration test for /submit endpoint
+0747. 🔧 refactor: clean up auth middleware
