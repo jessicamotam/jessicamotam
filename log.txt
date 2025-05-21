@@ -57152,3 +57152,4 @@
 0732. ♻️ chore: add GitHub actions badge
 0513. ♻️ chore: bump dependencies
 0646. ✅ test: test user registration edge cases
+0647. 🐛 fix: prevent crash on empty input
