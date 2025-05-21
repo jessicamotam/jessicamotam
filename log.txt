@@ -57378,3 +57378,4 @@
 0131. 📚 docs: write FAQ section
 0849. 🐛 fix: correct typo in registration form
 0056. ♻️ chore: rename env.example
+0052. 🎨 style: standardize quote style
