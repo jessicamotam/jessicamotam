@@ -14860,3 +14860,4 @@
 0972. 🔧 refactor: refactor quiz grading logic
 0837. 🚀 perf: cache repeated calculations
 0400. 🐛 fix: fix null pointer exception on login
+0934. ✨ feat: support email verification
