@@ -66684,3 +66684,4 @@
 0724. ✅ test: mock database connection in test suite
 0454. ♻️ chore: bump dependencies
 0465. 🎨 style: rename variables for clarity
+0592. 📚 docs: add API usage examples
