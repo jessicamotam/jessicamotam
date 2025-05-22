@@ -13751,3 +13751,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0699. 🎨 style: standardize quote style
 0733. 🐛 fix: fix null pointer exception on login
+0726. ✨ feat: enable dark mode toggle
