@@ -71052,3 +71052,4 @@
 0149. ✨ feat: add export to CSV option
 0227. ✅ test: test user registration edge cases
 0366. 🔧 refactor: remove redundant code blocks
+0568. 🐛 fix: handle 500 error in quiz API
