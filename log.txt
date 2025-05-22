@@ -4956,3 +4956,4 @@
 0843. 📚 docs: document token refresh logic
 0101. 📚 docs: clarify environment setup
 0756. ✨ feat: support email verification
+0539. 🔧 refactor: organize models into subfolders
