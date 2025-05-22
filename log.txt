@@ -33692,3 +33692,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0608. 🔧 refactor: remove redundant code blocks
 0063. 🐛 fix: handle 500 error in quiz API
+0096. 🐛 fix: prevent crash on empty input
