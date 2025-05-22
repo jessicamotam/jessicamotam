@@ -59554,3 +59554,4 @@
 0300. ✨ feat: add export to CSV option
 0202. 🔧 refactor: refactor quiz grading logic
 0235. 🐛 fix: fix null pointer exception on login
+0653. 🐛 fix: prevent crash on empty input
