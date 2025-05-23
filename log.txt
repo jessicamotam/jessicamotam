@@ -38776,3 +38776,4 @@
 0388. 🎨 style: reformat files with black
 0443. 🎨 style: standardize quote style
 0280. ✅ test: add integration test for /submit endpoint
+0088. 📚 docs: add API usage examples
