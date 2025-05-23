@@ -86510,3 +86510,4 @@
 0884. 📚 docs: clarify environment setup
 0603. 🐛 fix: fix broken CSS in mobile view
 0345. 📚 docs: document token refresh logic
+0494. 🎨 style: rename variables for clarity
