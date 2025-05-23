@@ -74793,3 +74793,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0535. 📚 docs: write FAQ section
 0636. ✅ test: increase coverage on auth module
+0967. ♻️ chore: add GitHub actions badge
