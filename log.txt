@@ -47829,3 +47829,4 @@
 0624. ✅ test: add unit test for quiz service
 0903. ✅ test: mock database connection in test suite
 0501. ✨ feat: add export to CSV option
+0937. 🐛 fix: handle 500 error in quiz API
