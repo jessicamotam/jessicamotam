@@ -84161,3 +84161,4 @@
 0247. 🎨 style: apply consistent indentation
 0693. 📚 docs: add API usage examples
 0975. 🎨 style: apply consistent indentation
+0042. 📚 docs: document token refresh logic
