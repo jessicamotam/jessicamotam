@@ -12436,3 +12436,4 @@
 0975. 🎨 style: apply consistent indentation
 0524. ♻️ chore: rename env.example
 0088. 📚 docs: add API usage examples
+0616. 🚀 perf: lazy-load components
