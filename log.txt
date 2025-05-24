@@ -33560,3 +33560,4 @@
 0291. 📚 docs: write FAQ section
 0309. 🔧 refactor: refactor quiz grading logic
 0585. 🚀 perf: lazy-load components
+0004. 🚀 perf: optimize database query for quiz results
