@@ -77093,3 +77093,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0246. ✅ test: add integration test for /submit endpoint
 0910. 🎨 style: remove trailing whitespace
+0349. ✅ test: increase coverage on auth module
