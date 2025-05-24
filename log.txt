@@ -7452,3 +7452,4 @@
 0604. 📚 docs: add API usage examples
 0869. ♻️ chore: bump dependencies
 0185. 📚 docs: write FAQ section
+0275. 🎨 style: standardize quote style
