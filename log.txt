@@ -6214,3 +6214,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0507. 🔧 refactor: clean up auth middleware
 0875. ✅ test: increase coverage on auth module
+0928. 🎨 style: apply consistent indentation
