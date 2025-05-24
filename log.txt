@@ -56556,3 +56556,4 @@
 0654. ✨ feat: create admin dashboard
 0678. ✨ feat: add user authentication
 0984. ♻️ chore: clean up unused files
+0218. 🔧 refactor: clean up auth middleware
