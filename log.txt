@@ -43948,3 +43948,4 @@
 0451. ✨ feat: support email verification
 0707. 🎨 style: apply consistent indentation
 0024. 📚 docs: write FAQ section
+0923. ✨ feat: support email verification
