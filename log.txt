@@ -7625,3 +7625,4 @@
 0678. ✨ feat: add user authentication
 0212. 🎨 style: standardize quote style
 0594. 🎨 style: reformat files with black
+0030. 🐛 fix: fix null pointer exception on login
