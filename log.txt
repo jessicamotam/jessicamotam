@@ -17042,3 +17042,4 @@
 0563. 📚 docs: clarify environment setup
 0614. 🚀 perf: reduce image load time
 0605. ✨ feat: support email verification
+0565. ♻️ chore: add GitHub actions badge
