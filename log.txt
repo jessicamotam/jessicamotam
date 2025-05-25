@@ -10501,3 +10501,4 @@
 0572. ✨ feat: add user authentication
 0800. 🚀 perf: optimize database query for quiz results
 0095. ✅ test: mock database connection in test suite
+0430. 🐛 fix: fix null pointer exception on login
