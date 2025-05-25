@@ -39342,3 +39342,4 @@
 0561. 📚 docs: write FAQ section
 0608. 🔧 refactor: remove redundant code blocks
 0403. ✅ test: mock database connection in test suite
+0442. 🎨 style: standardize quote style
