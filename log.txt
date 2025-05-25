@@ -47047,3 +47047,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0483. 📚 docs: update README with setup steps
 0101. 📚 docs: clarify environment setup
+0833. ✨ feat: add user authentication
