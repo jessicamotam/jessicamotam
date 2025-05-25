@@ -23586,3 +23586,4 @@
 0119. 📚 docs: improve code comments in utils
 0652. 🔧 refactor: organize models into subfolders
 0435. ✅ test: add unit test for quiz service
+0081. 🐛 fix: fix null pointer exception on login
