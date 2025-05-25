@@ -62148,3 +62148,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0616. 🚀 perf: lazy-load components
 0555. ✨ feat: create admin dashboard
+0178. ✨ feat: support email verification
