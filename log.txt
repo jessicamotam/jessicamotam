@@ -73657,3 +73657,4 @@
 0966. 📚 docs: improve code comments in utils
 0235. 🐛 fix: fix null pointer exception on login
 0300. ✨ feat: add export to CSV option
+0738. 🐛 fix: prevent crash on empty input
