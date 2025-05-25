@@ -7891,3 +7891,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0861. ♻️ chore: clean up unused files
 0352. ✨ feat: add export to CSV option
+0805. ♻️ chore: add GitHub actions badge
