@@ -2562,3 +2562,4 @@
 0169. 📚 docs: add API usage examples
 0850. ♻️ chore: rename env.example
 0581. ✅ test: add integration test for /submit endpoint
+0093. ✅ test: add unit test for quiz service
