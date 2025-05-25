@@ -85553,3 +85553,4 @@
 0862. ♻️ chore: bump dependencies
 0250. 📚 docs: update README with setup steps
 0024. 📚 docs: write FAQ section
+0248. 🐛 fix: handle 500 error in quiz API
