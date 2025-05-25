@@ -12144,3 +12144,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0523. ♻️ chore: bump dependencies
 0655. 🚀 perf: cache repeated calculations
+0821. ✅ test: add integration test for /submit endpoint
