@@ -33175,3 +33175,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0594. 🎨 style: reformat files with black
 0131. 📚 docs: write FAQ section
+0028. 🎨 style: standardize quote style
