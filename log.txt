@@ -74631,3 +74631,4 @@
 0447. ♻️ chore: bump dependencies
 0490. ✨ feat: create admin dashboard
 0636. ✅ test: increase coverage on auth module
+0263. 📚 docs: add API usage examples
