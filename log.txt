@@ -47646,3 +47646,4 @@
 0078. ♻️ chore: update .gitignore
 0503. ♻️ chore: rename env.example
 0734. ✨ feat: add export to CSV option
+0822. 🔧 refactor: remove redundant code blocks
