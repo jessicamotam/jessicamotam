@@ -22092,3 +22092,4 @@
 0580. ♻️ chore: bump dependencies
 0518. ✨ feat: support email verification
 0067. 🔧 refactor: remove redundant code blocks
+0974. ✨ feat: add export to CSV option
