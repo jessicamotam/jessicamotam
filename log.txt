@@ -33953,3 +33953,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0718. 🐛 fix: resolve issue with date parsing
 0786. ✨ feat: enable dark mode toggle
+0605. ✨ feat: support email verification
