@@ -37991,3 +37991,4 @@
 0244. ✨ feat: add export to CSV option
 0878. 🔧 refactor: split large controller into smaller functions
 0788. 📚 docs: add API usage examples
+0931. 🚀 perf: reduce image load time
