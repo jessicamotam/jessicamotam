@@ -70555,3 +70555,4 @@
 0662. ♻️ chore: clean up unused files
 0170. ✅ test: increase coverage on auth module
 0268. 🐛 fix: prevent crash on empty input
+0827. 🚀 perf: optimize database query for quiz results
