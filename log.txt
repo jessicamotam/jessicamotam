@@ -23842,3 +23842,4 @@
 0889. 🚀 perf: lazy-load components
 0993. ✨ feat: implement quiz timer feature
 0150. 🎨 style: remove trailing whitespace
+0024. 📚 docs: write FAQ section
