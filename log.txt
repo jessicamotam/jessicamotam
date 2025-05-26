@@ -87110,3 +87110,4 @@
 0599. ✅ test: test user registration edge cases
 0301. 🎨 style: apply consistent indentation
 0891. ✨ feat: create admin dashboard
+0936. 🔧 refactor: organize models into subfolders
