@@ -17013,3 +17013,4 @@
 0863. 🐛 fix: correct typo in registration form
 0284. ✨ feat: implement quiz timer feature
 0486. ✨ feat: add export to CSV option
+0802. 🔧 refactor: remove redundant code blocks
