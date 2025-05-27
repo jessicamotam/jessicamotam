@@ -36925,3 +36925,4 @@
 0099. 🚀 perf: reduce image load time
 0102. ✨ feat: support email verification
 0843. 📚 docs: document token refresh logic
+0344. ♻️ chore: add GitHub actions badge
