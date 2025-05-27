@@ -20944,3 +20944,4 @@
 0844. 📚 docs: update README with setup steps
 0686. 🎨 style: standardize quote style
 0398. 🚀 perf: cache repeated calculations
+0546. 🐛 fix: fix null pointer exception on login
