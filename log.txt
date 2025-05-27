@@ -75618,3 +75618,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0530. 🔧 refactor: refactor quiz grading logic
 0350. 🚀 perf: cache repeated calculations
+1000. ✅ test: increase coverage on auth module
