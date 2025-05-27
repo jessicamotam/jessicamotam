@@ -87871,3 +87871,4 @@
 0088. 📚 docs: add API usage examples
 0038. 🎨 style: rename variables for clarity
 0323. 📚 docs: clarify environment setup
+0725. 🚀 perf: lazy-load components
