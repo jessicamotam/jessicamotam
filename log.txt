@@ -26929,3 +26929,4 @@
 0993. ✨ feat: implement quiz timer feature
 0631. ✨ feat: create admin dashboard
 0289. 🐛 fix: resolve issue with date parsing
+0096. 🐛 fix: prevent crash on empty input
