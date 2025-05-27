@@ -26735,3 +26735,4 @@
 0291. 📚 docs: write FAQ section
 0144. ✅ test: increase coverage on auth module
 0711. 🐛 fix: fix broken CSS in mobile view
+0650. ✅ test: add unit test for quiz service
