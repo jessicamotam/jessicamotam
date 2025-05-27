@@ -88497,3 +88497,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0121. ✨ feat: support email verification
 0527. 🎨 style: remove trailing whitespace
+0856. 🐛 fix: fix null pointer exception on login
