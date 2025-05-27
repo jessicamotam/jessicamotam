@@ -79761,3 +79761,4 @@
 0905. ♻️ chore: bump dependencies
 0988. 🐛 fix: fix broken CSS in mobile view
 0892. ✅ test: add unit test for quiz service
+0772. 🐛 fix: fix null pointer exception on login
