@@ -39326,3 +39326,4 @@
 0837. 🚀 perf: cache repeated calculations
 0826. 📚 docs: clarify environment setup
 0688. 🚀 perf: reduce image load time
+0352. ✨ feat: add export to CSV option
