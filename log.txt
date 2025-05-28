@@ -6310,3 +6310,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0100. ♻️ chore: update .gitignore
 0949. 📚 docs: write FAQ section
+0297. 🎨 style: remove trailing whitespace
