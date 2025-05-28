@@ -34691,3 +34691,4 @@
 0827. 🚀 perf: optimize database query for quiz results
 0755. 🚀 perf: cache repeated calculations
 0493. ✨ feat: add user authentication
+0112. ✨ feat: enable dark mode toggle
