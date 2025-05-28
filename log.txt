@@ -43553,3 +43553,4 @@
 0918. ✨ feat: enable dark mode toggle
 0652. 🔧 refactor: organize models into subfolders
 0820. 📚 docs: add API usage examples
+0958. 🐛 fix: prevent crash on empty input
