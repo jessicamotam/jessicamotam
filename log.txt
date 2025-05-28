@@ -62740,3 +62740,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0409. 🚀 perf: lazy-load components
 0476. 🚀 perf: reduce image load time
+0144. ✅ test: increase coverage on auth module
