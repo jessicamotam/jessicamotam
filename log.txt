@@ -56607,3 +56607,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0788. 📚 docs: add API usage examples
 0503. ♻️ chore: rename env.example
+0997. ✅ test: increase coverage on auth module
