@@ -6056,3 +6056,4 @@
 0421. 🔧 refactor: split large controller into smaller functions
 0344. ♻️ chore: add GitHub actions badge
 0185. 📚 docs: write FAQ section
+0448. 🐛 fix: correct typo in registration form
