@@ -89086,3 +89086,4 @@
 0279. ✨ feat: support email verification
 0429. ✨ feat: add user authentication
 0783. 🐛 fix: handle 500 error in quiz API
+0722. 📚 docs: add API usage examples
