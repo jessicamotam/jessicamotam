@@ -89232,3 +89232,4 @@
 0462. ♻️ chore: update .gitignore
 0252. 🎨 style: remove trailing whitespace
 0863. 🐛 fix: correct typo in registration form
+0690. 🚀 perf: lazy-load components
