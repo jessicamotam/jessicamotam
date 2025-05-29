@@ -58745,3 +58745,4 @@
 0869. ♻️ chore: bump dependencies
 0395. 📚 docs: write FAQ section
 0013. ✅ test: increase coverage on auth module
+0564. 📚 docs: clarify environment setup
