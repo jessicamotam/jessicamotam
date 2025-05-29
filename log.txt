@@ -67866,3 +67866,4 @@
 0618. ✨ feat: support email verification
 0529. 📚 docs: write FAQ section
 0487. 🎨 style: reformat files with black
+0693. 📚 docs: add API usage examples
