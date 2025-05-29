@@ -89790,3 +89790,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0849. 🐛 fix: correct typo in registration form
 0316. 🐛 fix: fix broken CSS in mobile view
+0202. 🔧 refactor: refactor quiz grading logic
