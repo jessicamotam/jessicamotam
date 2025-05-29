@@ -65038,3 +65038,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0170. ✅ test: increase coverage on auth module
 0594. 🎨 style: reformat files with black
+0252. 🎨 style: remove trailing whitespace
