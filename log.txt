@@ -66399,3 +66399,4 @@
 0409. 🚀 perf: lazy-load components
 0614. 🚀 perf: reduce image load time
 0765. ♻️ chore: clean up unused files
+0588. 🔧 refactor: organize models into subfolders
