@@ -48473,3 +48473,4 @@
 0591. ♻️ chore: clean up unused files
 0414. 🔧 refactor: remove redundant code blocks
 0155. ✨ feat: create admin dashboard
+0613. 🐛 fix: prevent crash on empty input
