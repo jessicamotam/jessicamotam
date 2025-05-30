@@ -74826,3 +74826,4 @@
 0360. ✨ feat: add export to CSV option
 0652. 🔧 refactor: organize models into subfolders
 0939. 📚 docs: update README with setup steps
+0685. ✅ test: test user registration edge cases
