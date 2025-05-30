@@ -77562,3 +77562,4 @@
 0777. 📚 docs: document token refresh logic
 0330. ✅ test: test user registration edge cases
 0713. 🐛 fix: handle 500 error in quiz API
+0152. ✨ feat: add user authentication
