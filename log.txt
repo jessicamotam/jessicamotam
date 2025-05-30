@@ -51933,3 +51933,4 @@
 0055. 📚 docs: update README with setup steps
 0662. ♻️ chore: clean up unused files
 0054. ♻️ chore: update .gitignore
+0283. ♻️ chore: add GitHub actions badge
