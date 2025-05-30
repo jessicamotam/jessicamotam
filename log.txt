@@ -65882,3 +65882,4 @@
 0548. 📚 docs: write FAQ section
 0998. 🐛 fix: fix null pointer exception on login
 0137. 🎨 style: rename variables for clarity
+0586. 🎨 style: remove trailing whitespace
