@@ -28068,3 +28068,4 @@
 0934. ✨ feat: support email verification
 0117. ✅ test: increase coverage on auth module
 0152. ✨ feat: add user authentication
+0500. ✅ test: add integration test for /submit endpoint
