@@ -62349,3 +62349,4 @@
 0971. 🎨 style: standardize quote style
 0409. 🚀 perf: lazy-load components
 0645. 🐛 fix: resolve issue with date parsing
+0778. 📚 docs: write FAQ section
