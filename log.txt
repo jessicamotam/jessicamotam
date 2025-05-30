@@ -32651,3 +32651,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0055. 📚 docs: update README with setup steps
 0698. 🐛 fix: handle 500 error in quiz API
+0355. 🚀 perf: optimize database query for quiz results
