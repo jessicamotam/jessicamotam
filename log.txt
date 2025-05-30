@@ -13924,3 +13924,4 @@
 0824. 🚀 perf: lazy-load components
 0407. 🚀 perf: cache repeated calculations
 0401. 🚀 perf: reduce image load time
+0148. 🔧 refactor: organize models into subfolders
