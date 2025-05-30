@@ -2066,3 +2066,4 @@
 0447. ♻️ chore: bump dependencies
 0373. 📚 docs: document token refresh logic
 0936. 🔧 refactor: organize models into subfolders
+0856. 🐛 fix: fix null pointer exception on login
