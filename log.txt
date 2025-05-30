@@ -41272,3 +41272,4 @@
 0934. ✨ feat: support email verification
 0439. 🐛 fix: correct typo in registration form
 0756. ✨ feat: support email verification
+0378. 🐛 fix: prevent crash on empty input
