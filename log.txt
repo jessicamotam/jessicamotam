@@ -24541,3 +24541,4 @@
 0513. ♻️ chore: bump dependencies
 0493. ✨ feat: add user authentication
 0180. ✨ feat: add export to CSV option
+0517. ✅ test: mock database connection in test suite
