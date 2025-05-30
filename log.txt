@@ -41262,3 +41262,4 @@
 0185. 📚 docs: write FAQ section
 0718. 🐛 fix: resolve issue with date parsing
 0319. 🐛 fix: handle 500 error in quiz API
+0856. 🐛 fix: fix null pointer exception on login
