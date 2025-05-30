@@ -78637,3 +78637,4 @@
 0626. 🎨 style: standardize quote style
 0410. 🎨 style: reformat files with black
 0128. ♻️ chore: rename env.example
+0040. 🔧 refactor: clean up auth middleware
