@@ -71078,3 +71078,4 @@
 0970. ♻️ chore: update .gitignore
 0050. ✨ feat: enable dark mode toggle
 0322. 🔧 refactor: split large controller into smaller functions
+0929. ✨ feat: support email verification
