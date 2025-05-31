@@ -11979,3 +11979,4 @@
 0811. 🎨 style: reformat files with black
 0162. ♻️ chore: add GitHub actions badge
 0458. ✨ feat: create admin dashboard
+0875. ✅ test: increase coverage on auth module
