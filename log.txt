@@ -42636,3 +42636,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0556. ✨ feat: support email verification
 0942. ✅ test: increase coverage on auth module
+0244. ✨ feat: add export to CSV option
