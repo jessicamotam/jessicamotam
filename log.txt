@@ -27610,3 +27610,4 @@
 0093. ✅ test: add unit test for quiz service
 0685. ✅ test: test user registration edge cases
 0813. 🔧 refactor: organize models into subfolders
+0844. 📚 docs: update README with setup steps
