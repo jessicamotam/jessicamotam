@@ -12042,3 +12042,4 @@
 0393. 🚀 perf: lazy-load components
 0838. 🎨 style: standardize quote style
 0063. 🐛 fix: handle 500 error in quiz API
+0395. 📚 docs: write FAQ section
