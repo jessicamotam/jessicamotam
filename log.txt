@@ -53645,3 +53645,4 @@
 0117. ✅ test: increase coverage on auth module
 0239. 🎨 style: standardize quote style
 0619. ✨ feat: create admin dashboard
+0231. 🔧 refactor: clean up auth middleware
