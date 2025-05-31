@@ -55914,3 +55914,4 @@
 0977. 🔧 refactor: organize models into subfolders
 0940. 📚 docs: document token refresh logic
 0158. 📚 docs: clarify environment setup
+0616. 🚀 perf: lazy-load components
