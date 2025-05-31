@@ -6918,3 +6918,4 @@
 0716. ✨ feat: implement quiz timer feature
 0501. ✨ feat: add export to CSV option
 0792. 🎨 style: standardize quote style
+0927. ♻️ chore: bump dependencies
