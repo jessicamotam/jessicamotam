@@ -49470,3 +49470,4 @@
 0982. 🚀 perf: lazy-load components
 0665. ♻️ chore: update .gitignore
 0579. 📚 docs: clarify environment setup
+0345. 📚 docs: document token refresh logic
