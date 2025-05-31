@@ -46189,3 +46189,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0884. 📚 docs: clarify environment setup
 0107. 🐛 fix: prevent crash on empty input
+0971. 🎨 style: standardize quote style
