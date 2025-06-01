@@ -26919,3 +26919,4 @@
 0798. 🚀 perf: reduce image load time
 0765. ♻️ chore: clean up unused files
 0891. ✨ feat: create admin dashboard
+0778. 📚 docs: write FAQ section
