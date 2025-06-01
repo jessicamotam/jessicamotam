@@ -18491,3 +18491,4 @@
 0023. 📚 docs: clarify environment setup
 0866. 📚 docs: add API usage examples
 0004. 🚀 perf: optimize database query for quiz results
+0699. 🎨 style: standardize quote style
