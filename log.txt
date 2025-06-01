@@ -84272,3 +84272,4 @@
 0382. 📚 docs: improve code comments in utils
 0998. 🐛 fix: fix null pointer exception on login
 0189. 📚 docs: clarify environment setup
+0395. 📚 docs: write FAQ section
