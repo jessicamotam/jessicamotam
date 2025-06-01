@@ -79177,3 +79177,4 @@
 0599. ✅ test: test user registration edge cases
 0223. 🔧 refactor: remove redundant code blocks
 0998. 🐛 fix: fix null pointer exception on login
+0732. ♻️ chore: add GitHub actions badge
