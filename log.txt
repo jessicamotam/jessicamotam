@@ -160,3 +160,4 @@
 0706. ✨ feat: support email verification
 0725. 🚀 perf: lazy-load components
 0419. 🎨 style: remove trailing whitespace
+0654. ✨ feat: create admin dashboard
