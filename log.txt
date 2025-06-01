@@ -56916,3 +56916,4 @@
 0521. 🎨 style: standardize quote style
 0375. 🐛 fix: handle 500 error in quiz API
 0765. ♻️ chore: clean up unused files
+0502. 📚 docs: update README with setup steps
