@@ -50764,3 +50764,4 @@
 0448. 🐛 fix: correct typo in registration form
 0106. 🎨 style: reformat files with black
 0565. ♻️ chore: add GitHub actions badge
+0911. ✅ test: increase coverage on auth module
