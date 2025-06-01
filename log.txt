@@ -28862,3 +28862,4 @@
 0983. 🔧 refactor: split large controller into smaller functions
 0283. ♻️ chore: add GitHub actions badge
 0282. 🔧 refactor: remove redundant code blocks
+0856. 🐛 fix: fix null pointer exception on login
