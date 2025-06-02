@@ -88470,3 +88470,4 @@
 0295. 🎨 style: remove trailing whitespace
 0897. 🐛 fix: prevent crash on empty input
 0830. 🎨 style: apply consistent indentation
+0363. 📚 docs: clarify environment setup
