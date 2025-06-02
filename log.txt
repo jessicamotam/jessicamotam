@@ -85891,3 +85891,4 @@
 0971. 🎨 style: standardize quote style
 0406. ✨ feat: add export to CSV option
 0096. 🐛 fix: prevent crash on empty input
+0678. ✨ feat: add user authentication
