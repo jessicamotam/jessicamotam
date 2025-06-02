@@ -63538,3 +63538,4 @@
 0578. ✅ test: add integration test for /submit endpoint
 0652. 🔧 refactor: organize models into subfolders
 0885. ♻️ chore: update .gitignore
+0358. 🚀 perf: reduce image load time
