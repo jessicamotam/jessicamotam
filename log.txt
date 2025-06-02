@@ -32246,3 +32246,4 @@
 0950. 🎨 style: reformat files with black
 0689. 🎨 style: reformat files with black
 0797. 📚 docs: add API usage examples
+0460. 📚 docs: write FAQ section
