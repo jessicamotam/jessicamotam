@@ -2808,3 +2808,4 @@
 0172. 📚 docs: add API usage examples
 0762. 🚀 perf: lazy-load components
 0754. 🐛 fix: handle 500 error in quiz API
+0732. ♻️ chore: add GitHub actions badge
