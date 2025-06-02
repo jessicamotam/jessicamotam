@@ -22525,3 +22525,4 @@
 0504. 📚 docs: document token refresh logic
 0324. 📚 docs: document token refresh logic
 0545. 🎨 style: standardize quote style
+0527. 🎨 style: remove trailing whitespace
