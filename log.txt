@@ -55824,3 +55824,4 @@
 0173. 🚀 perf: cache repeated calculations
 0174. 📚 docs: clarify environment setup
 0947. 📚 docs: write FAQ section
+0866. 📚 docs: add API usage examples
