@@ -65559,3 +65559,4 @@
 0960. ✅ test: increase coverage on auth module
 0893. 🐛 fix: handle 500 error in quiz API
 0455. ♻️ chore: clean up unused files
+0292. 📚 docs: clarify environment setup
