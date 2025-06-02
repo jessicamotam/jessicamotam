@@ -44380,3 +44380,4 @@
 0317. ✅ test: test user registration edge cases
 0347. ♻️ chore: update .gitignore
 0145. 📚 docs: improve code comments in utils
+0457. 🐛 fix: handle 500 error in quiz API
