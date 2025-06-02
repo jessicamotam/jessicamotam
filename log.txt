@@ -2463,3 +2463,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0110. 🐛 fix: prevent crash on empty input
 0695. ✨ feat: create admin dashboard
+0582. ✨ feat: add export to CSV option
