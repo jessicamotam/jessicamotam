@@ -25364,3 +25364,4 @@
 0966. 📚 docs: improve code comments in utils
 0748. 🚀 perf: optimize database query for quiz results
 0908. ♻️ chore: bump dependencies
+0224. 🐛 fix: fix broken CSS in mobile view
