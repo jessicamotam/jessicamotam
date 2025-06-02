@@ -89630,3 +89630,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0099. 🚀 perf: reduce image load time
 0275. 🎨 style: standardize quote style
+0367. 🐛 fix: fix null pointer exception on login
