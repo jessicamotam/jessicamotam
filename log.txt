@@ -44279,3 +44279,4 @@
 0868. ✅ test: add unit test for quiz service
 0270. ♻️ chore: rename env.example
 0564. 📚 docs: clarify environment setup
+0605. ✨ feat: support email verification
