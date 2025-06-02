@@ -36628,3 +36628,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0262. 🎨 style: remove trailing whitespace
 0029. 🚀 perf: lazy-load components
+0541. 🐛 fix: correct typo in registration form
