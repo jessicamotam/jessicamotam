@@ -6391,3 +6391,4 @@
 0983. 🔧 refactor: split large controller into smaller functions
 0266. 🔧 refactor: remove redundant code blocks
 0789. ✨ feat: create admin dashboard
+0249. ✅ test: increase coverage on auth module
