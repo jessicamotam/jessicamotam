@@ -49721,3 +49721,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0017. ✅ test: mock database connection in test suite
 0691. 🎨 style: rename variables for clarity
+0569. 📚 docs: document token refresh logic
