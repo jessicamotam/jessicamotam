@@ -86085,3 +86085,4 @@
 0529. 📚 docs: write FAQ section
 0723. 🔧 refactor: remove redundant code blocks
 0252. 🎨 style: remove trailing whitespace
+0368. 🚀 perf: lazy-load components
