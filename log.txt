@@ -22511,3 +22511,4 @@
 0498. ✅ test: mock database connection in test suite
 0518. ✨ feat: support email verification
 0727. ♻️ chore: add GitHub actions badge
+0887. 📚 docs: add API usage examples
