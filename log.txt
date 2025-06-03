@@ -58154,3 +58154,4 @@
 0042. 📚 docs: document token refresh logic
 0024. 📚 docs: write FAQ section
 0973. 🔧 refactor: organize models into subfolders
+0958. 🐛 fix: prevent crash on empty input
