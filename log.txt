@@ -16525,3 +16525,4 @@
 0646. ✅ test: test user registration edge cases
 0764. ✨ feat: add user authentication
 0667. ✨ feat: add export to CSV option
+0977. 🔧 refactor: organize models into subfolders
