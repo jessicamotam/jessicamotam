@@ -80996,3 +80996,4 @@
 0786. ✨ feat: enable dark mode toggle
 0284. ✨ feat: implement quiz timer feature
 0296. 🔧 refactor: organize models into subfolders
+0235. 🐛 fix: fix null pointer exception on login
