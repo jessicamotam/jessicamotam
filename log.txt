@@ -24700,3 +24700,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0711. 🐛 fix: fix broken CSS in mobile view
 0812. 🔧 refactor: refactor quiz grading logic
+0811. 🎨 style: reformat files with black
