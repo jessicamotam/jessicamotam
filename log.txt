@@ -85520,3 +85520,4 @@
 0419. 🎨 style: remove trailing whitespace
 0735. ♻️ chore: add GitHub actions badge
 0110. 🐛 fix: prevent crash on empty input
+0253. 📚 docs: update README with setup steps
