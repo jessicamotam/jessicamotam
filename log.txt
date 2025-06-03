@@ -63139,3 +63139,4 @@
 0281. ✨ feat: support email verification
 0689. 🎨 style: reformat files with black
 0932. ✅ test: add integration test for /submit endpoint
+0480. ♻️ chore: add GitHub actions badge
