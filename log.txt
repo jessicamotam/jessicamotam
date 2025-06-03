@@ -66751,3 +66751,4 @@
 0178. ✨ feat: support email verification
 0001. 🚀 perf: cache repeated calculations
 0180. ✨ feat: add export to CSV option
+0764. ✨ feat: add user authentication
