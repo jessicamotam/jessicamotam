@@ -17591,3 +17591,4 @@
 0265. 🎨 style: reformat files with black
 0763. 🔧 refactor: organize models into subfolders
 0607. 🐛 fix: prevent crash on empty input
+0426. ✅ test: add integration test for /submit endpoint
