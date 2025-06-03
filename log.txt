@@ -5237,3 +5237,4 @@
 0231. 🔧 refactor: clean up auth middleware
 0056. ♻️ chore: rename env.example
 0841. 🚀 perf: optimize database query for quiz results
+0279. ✨ feat: support email verification
