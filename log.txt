@@ -47320,3 +47320,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0848. 📚 docs: update README with setup steps
 0263. 📚 docs: add API usage examples
+0820. 📚 docs: add API usage examples
