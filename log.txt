@@ -89321,3 +89321,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0539. 🔧 refactor: organize models into subfolders
 0933. 📚 docs: clarify environment setup
+0862. ♻️ chore: bump dependencies
