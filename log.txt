@@ -16273,3 +16273,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0880. 🐛 fix: fix broken CSS in mobile view
 0960. ✅ test: increase coverage on auth module
+0549. ✨ feat: enable dark mode toggle
