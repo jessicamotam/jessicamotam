@@ -86643,3 +86643,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0035. ✅ test: increase coverage on auth module
 0287. 📚 docs: write FAQ section
+0773. 📚 docs: document token refresh logic
