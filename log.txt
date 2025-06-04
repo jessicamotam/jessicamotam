@@ -86615,3 +86615,4 @@
 0749. ✨ feat: support email verification
 0718. 🐛 fix: resolve issue with date parsing
 0970. ♻️ chore: update .gitignore
+0995. ✅ test: mock database connection in test suite
