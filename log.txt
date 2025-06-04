@@ -2354,3 +2354,4 @@
 0059. ♻️ chore: bump dependencies
 0452. ✨ feat: implement quiz timer feature
 0445. 📚 docs: improve code comments in utils
+0538. 🐛 fix: fix broken CSS in mobile view
