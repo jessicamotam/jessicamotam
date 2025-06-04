@@ -71434,3 +71434,4 @@
 0996. ✅ test: test user registration edge cases
 0008. 🚀 perf: reduce image load time
 0580. ♻️ chore: bump dependencies
+0686. 🎨 style: standardize quote style
