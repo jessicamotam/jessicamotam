@@ -21994,3 +21994,4 @@
 0525. ✅ test: mock database connection in test suite
 0358. 🚀 perf: reduce image load time
 0459. 🔧 refactor: organize models into subfolders
+0323. 📚 docs: clarify environment setup
