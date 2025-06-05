@@ -49096,3 +49096,4 @@
 0088. 📚 docs: add API usage examples
 0572. ✨ feat: add user authentication
 0998. 🐛 fix: fix null pointer exception on login
+0201. 🔧 refactor: clean up auth middleware
