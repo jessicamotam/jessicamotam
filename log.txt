@@ -70038,3 +70038,4 @@
 0141. 📚 docs: document token refresh logic
 0220. 🐛 fix: fix null pointer exception on login
 0479. 🐛 fix: fix null pointer exception on login
+0394. 🚀 perf: lazy-load components
