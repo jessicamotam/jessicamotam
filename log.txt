@@ -37767,3 +37767,4 @@
 0677. 📚 docs: add API usage examples
 0453. 🎨 style: standardize quote style
 0612. ✅ test: test user registration edge cases
+0548. 📚 docs: write FAQ section
