@@ -49727,3 +49727,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0924. ✅ test: mock database connection in test suite
 0517. ✅ test: mock database connection in test suite
+0572. ✨ feat: add user authentication
