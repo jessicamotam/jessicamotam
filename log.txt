@@ -81774,3 +81774,4 @@
 0312. ✨ feat: add user authentication
 0281. ✨ feat: support email verification
 0188. 🎨 style: apply consistent indentation
+0529. 📚 docs: write FAQ section
