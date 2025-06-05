@@ -43984,3 +43984,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0385. ♻️ chore: clean up unused files
 0901. ✨ feat: add user authentication
+0518. ✨ feat: support email verification
