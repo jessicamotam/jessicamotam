@@ -31372,3 +31372,4 @@
 0441. 📚 docs: add API usage examples
 0942. ✅ test: increase coverage on auth module
 0884. 📚 docs: clarify environment setup
+0746. ♻️ chore: add GitHub actions badge
