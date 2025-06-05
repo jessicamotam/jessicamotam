@@ -32814,3 +32814,4 @@
 0345. 📚 docs: document token refresh logic
 0989. 📚 docs: write FAQ section
 0867. 🔧 refactor: refactor quiz grading logic
+0562. 🔧 refactor: clean up auth middleware
