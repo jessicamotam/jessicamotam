@@ -22815,3 +22815,4 @@
 0027. 📚 docs: clarify environment setup
 0042. 📚 docs: document token refresh logic
 0760. 🐛 fix: resolve issue with date parsing
+0451. ✨ feat: support email verification
