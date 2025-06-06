@@ -52997,3 +52997,4 @@
 0260. ✨ feat: create admin dashboard
 0278. 🔧 refactor: clean up auth middleware
 0842. 🎨 style: remove trailing whitespace
+0781. 🚀 perf: reduce image load time
