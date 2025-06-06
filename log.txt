@@ -84871,3 +84871,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0591. ♻️ chore: clean up unused files
 0497. 🔧 refactor: refactor quiz grading logic
+0479. 🐛 fix: fix null pointer exception on login
