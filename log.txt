@@ -21311,3 +21311,4 @@
 0239. 🎨 style: standardize quote style
 0052. 🎨 style: standardize quote style
 0348. ✅ test: test user registration edge cases
+0607. 🐛 fix: prevent crash on empty input
