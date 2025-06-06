@@ -84428,3 +84428,4 @@
 0150. 🎨 style: remove trailing whitespace
 0933. 📚 docs: clarify environment setup
 0925. ✨ feat: add export to CSV option
+0672. 🐛 fix: fix broken CSS in mobile view
