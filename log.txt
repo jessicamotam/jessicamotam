@@ -40314,3 +40314,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0137. 🎨 style: rename variables for clarity
 0925. ✨ feat: add export to CSV option
+0233. 🚀 perf: lazy-load components
