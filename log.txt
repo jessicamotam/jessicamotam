@@ -61694,3 +61694,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0233. 🚀 perf: lazy-load components
 0888. 🚀 perf: lazy-load components
+0949. 📚 docs: write FAQ section
