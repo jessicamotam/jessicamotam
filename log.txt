@@ -78213,3 +78213,4 @@
 0536. ✨ feat: add user authentication
 0893. 🐛 fix: handle 500 error in quiz API
 0381. ♻️ chore: clean up unused files
+0766. 🎨 style: reformat files with black
