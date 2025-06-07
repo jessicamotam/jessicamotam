@@ -9464,3 +9464,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0936. 🔧 refactor: organize models into subfolders
 0477. 🐛 fix: fix broken CSS in mobile view
+0840. 🔧 refactor: refactor quiz grading logic
