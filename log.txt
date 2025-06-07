@@ -50313,3 +50313,4 @@
 0038. 🎨 style: rename variables for clarity
 0015. ✨ feat: implement quiz timer feature
 0822. 🔧 refactor: remove redundant code blocks
+0978. 🐛 fix: prevent crash on empty input
