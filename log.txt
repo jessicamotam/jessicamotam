@@ -40333,3 +40333,4 @@
 0177. 📚 docs: add API usage examples
 0728. 🔧 refactor: split large controller into smaller functions
 0522. 🐛 fix: handle 500 error in quiz API
+0112. ✨ feat: enable dark mode toggle
