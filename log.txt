@@ -10067,3 +10067,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0460. 📚 docs: write FAQ section
 0418. ✅ test: mock database connection in test suite
+0267. 📚 docs: improve code comments in utils
