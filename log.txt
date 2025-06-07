@@ -6139,3 +6139,4 @@
 0950. 🎨 style: reformat files with black
 0578. ✅ test: add integration test for /submit endpoint
 0423. ✅ test: mock database connection in test suite
+0776. ✅ test: add integration test for /submit endpoint
