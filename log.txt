@@ -52537,3 +52537,4 @@
 0992. ♻️ chore: clean up unused files
 0365. 🚀 perf: reduce image load time
 0299. 🐛 fix: resolve issue with date parsing
+0918. ✨ feat: enable dark mode toggle
