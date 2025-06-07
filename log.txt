@@ -66910,3 +66910,4 @@
 0262. 🎨 style: remove trailing whitespace
 0665. ♻️ chore: update .gitignore
 0239. 🎨 style: standardize quote style
+0565. ♻️ chore: add GitHub actions badge
