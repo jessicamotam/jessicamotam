@@ -80111,3 +80111,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0019. ✨ feat: enable dark mode toggle
 0398. 🚀 perf: cache repeated calculations
+0397. 🐛 fix: handle 500 error in quiz API
