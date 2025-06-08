@@ -61258,3 +61258,4 @@
 0543. ✨ feat: support email verification
 0410. 🎨 style: reformat files with black
 0391. 🐛 fix: fix null pointer exception on login
+0744. 🔧 refactor: remove redundant code blocks
