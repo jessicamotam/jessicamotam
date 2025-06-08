@@ -10989,3 +10989,4 @@
 0502. 📚 docs: update README with setup steps
 0078. ♻️ chore: update .gitignore
 0022. 📚 docs: document token refresh logic
+0356. 📚 docs: write FAQ section
