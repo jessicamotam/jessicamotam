@@ -87585,3 +87585,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0585. 🚀 perf: lazy-load components
 0603. 🐛 fix: fix broken CSS in mobile view
+0096. 🐛 fix: prevent crash on empty input
