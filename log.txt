@@ -16378,3 +16378,4 @@
 0994. 🚀 perf: reduce image load time
 0974. ✨ feat: add export to CSV option
 0215. 🎨 style: reformat files with black
+0933. 📚 docs: clarify environment setup
