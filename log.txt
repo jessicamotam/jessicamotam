@@ -13774,3 +13774,4 @@
 0934. ✨ feat: support email verification
 0967. ♻️ chore: add GitHub actions badge
 0396. 🔧 refactor: split large controller into smaller functions
+0393. 🚀 perf: lazy-load components
