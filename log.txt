@@ -12459,3 +12459,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0580. ♻️ chore: bump dependencies
 0672. 🐛 fix: fix broken CSS in mobile view
+0580. ♻️ chore: bump dependencies
