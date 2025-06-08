@@ -86092,3 +86092,4 @@
 0556. ✨ feat: support email verification
 0547. 📚 docs: write FAQ section
 0727. ♻️ chore: add GitHub actions badge
+0189. 📚 docs: clarify environment setup
