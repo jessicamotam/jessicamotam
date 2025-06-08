@@ -37983,3 +37983,4 @@
 0198. 📚 docs: clarify environment setup
 0735. ♻️ chore: add GitHub actions badge
 0044. ✅ test: add unit test for quiz service
+0898. 🐛 fix: fix broken CSS in mobile view
