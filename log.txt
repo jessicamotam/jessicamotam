@@ -80295,3 +80295,4 @@
 0106. 🎨 style: reformat files with black
 0050. ✨ feat: enable dark mode toggle
 0102. ✨ feat: support email verification
+0141. 📚 docs: document token refresh logic
