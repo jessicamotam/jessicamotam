@@ -37696,3 +37696,4 @@
 0858. ♻️ chore: clean up unused files
 0760. 🐛 fix: resolve issue with date parsing
 0075. ✅ test: mock database connection in test suite
+0933. 📚 docs: clarify environment setup
