@@ -73493,3 +73493,4 @@
 0360. ✨ feat: add export to CSV option
 0100. ♻️ chore: update .gitignore
 0367. 🐛 fix: fix null pointer exception on login
+0406. ✨ feat: add export to CSV option
