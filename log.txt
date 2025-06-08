@@ -24476,3 +24476,4 @@
 0942. ✅ test: increase coverage on auth module
 0962. ✨ feat: create admin dashboard
 0749. ✨ feat: support email verification
+0848. 📚 docs: update README with setup steps
