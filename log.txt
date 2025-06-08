@@ -36326,3 +36326,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0909. 🔧 refactor: organize models into subfolders
 0460. 📚 docs: write FAQ section
+0239. 🎨 style: standardize quote style
