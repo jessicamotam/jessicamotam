@@ -66234,3 +66234,4 @@
 0192. ✨ feat: enable dark mode toggle
 0743. 🎨 style: apply consistent indentation
 0724. ✅ test: mock database connection in test suite
+0292. 📚 docs: clarify environment setup
