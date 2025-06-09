@@ -80963,3 +80963,4 @@
 0864. 🐛 fix: correct typo in registration form
 0702. ✨ feat: add user authentication
 0793. 📚 docs: clarify environment setup
+0200. 🐛 fix: handle 500 error in quiz API
