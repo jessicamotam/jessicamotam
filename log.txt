@@ -21348,3 +21348,4 @@
 0044. ✅ test: add unit test for quiz service
 0953. 🎨 style: remove trailing whitespace
 0241. 📚 docs: add API usage examples
+0653. 🐛 fix: prevent crash on empty input
