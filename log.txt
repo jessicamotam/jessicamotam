@@ -1520,3 +1520,4 @@
 0291. 📚 docs: write FAQ section
 0324. 📚 docs: document token refresh logic
 0318. 🔧 refactor: refactor quiz grading logic
+0053. ✅ test: increase coverage on auth module
