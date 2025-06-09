@@ -5531,3 +5531,4 @@
 0892. ✅ test: add unit test for quiz service
 0741. 🎨 style: apply consistent indentation
 0712. 🎨 style: apply consistent indentation
+0511. 🐛 fix: fix broken CSS in mobile view
