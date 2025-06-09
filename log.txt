@@ -36474,3 +36474,4 @@
 0123. ✨ feat: implement quiz timer feature
 0874. 🔧 refactor: split large controller into smaller functions
 0279. ✨ feat: support email verification
+0085. ✨ feat: support email verification
