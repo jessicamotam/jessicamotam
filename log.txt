@@ -41208,3 +41208,4 @@
 0528. ♻️ chore: clean up unused files
 0311. 🎨 style: apply consistent indentation
 0070. ✨ feat: implement quiz timer feature
+0049. 🐛 fix: handle 500 error in quiz API
