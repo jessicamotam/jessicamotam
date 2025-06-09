@@ -86224,3 +86224,4 @@
 1000. ✅ test: increase coverage on auth module
 0049. 🐛 fix: handle 500 error in quiz API
 0100. ♻️ chore: update .gitignore
+0715. ✨ feat: create admin dashboard
