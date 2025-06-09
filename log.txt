@@ -22896,3 +22896,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0268. 🐛 fix: prevent crash on empty input
 0986. 📚 docs: document token refresh logic
+0206. 🐛 fix: handle 500 error in quiz API
