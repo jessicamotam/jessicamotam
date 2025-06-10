@@ -80611,3 +80611,4 @@
 0640. ♻️ chore: bump dependencies
 0155. ✨ feat: create admin dashboard
 0605. ✨ feat: support email verification
+0010. ✨ feat: add user authentication
