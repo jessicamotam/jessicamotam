@@ -38590,3 +38590,4 @@
 0547. 📚 docs: write FAQ section
 0604. 📚 docs: add API usage examples
 0470. 🎨 style: remove trailing whitespace
+0798. 🚀 perf: reduce image load time
