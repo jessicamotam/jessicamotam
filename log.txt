@@ -71314,3 +71314,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0106. 🎨 style: reformat files with black
 0959. 🐛 fix: fix null pointer exception on login
+0731. 🎨 style: standardize quote style
