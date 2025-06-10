@@ -48655,3 +48655,4 @@
 0365. 🚀 perf: reduce image load time
 0148. 🔧 refactor: organize models into subfolders
 0151. ✅ test: add unit test for quiz service
+0610. 🚀 perf: lazy-load components
