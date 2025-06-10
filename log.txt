@@ -82202,3 +82202,4 @@
 0503. ♻️ chore: rename env.example
 0816. 🔧 refactor: organize models into subfolders
 0352. ✨ feat: add export to CSV option
+0642. 🚀 perf: optimize database query for quiz results
