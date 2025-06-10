@@ -66358,3 +66358,4 @@
 0019. ✨ feat: enable dark mode toggle
 0880. 🐛 fix: fix broken CSS in mobile view
 0736. 🐛 fix: fix null pointer exception on login
+0636. ✅ test: increase coverage on auth module
