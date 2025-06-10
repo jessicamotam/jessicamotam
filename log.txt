@@ -82377,3 +82377,4 @@
 0969. ✨ feat: create admin dashboard
 0594. 🎨 style: reformat files with black
 0064. 📚 docs: clarify environment setup
+0556. ✨ feat: support email verification
