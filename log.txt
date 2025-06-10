@@ -36558,3 +36558,4 @@
 0808. 🚀 perf: optimize database query for quiz results
 0467. ✅ test: add integration test for /submit endpoint
 0255. 🔧 refactor: refactor quiz grading logic
+0259. 🚀 perf: lazy-load components
