@@ -23927,3 +23927,4 @@
 0080. ✨ feat: support email verification
 0273. 🚀 perf: reduce image load time
 0850. ♻️ chore: rename env.example
+0152. ✨ feat: add user authentication
