@@ -75984,3 +75984,4 @@
 0516. ✅ test: add unit test for quiz service
 0354. 📚 docs: add API usage examples
 0946. ✅ test: add unit test for quiz service
+0193. 🚀 perf: optimize database query for quiz results
