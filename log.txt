@@ -36548,3 +36548,4 @@
 0755. 🚀 perf: cache repeated calculations
 0832. 🔧 refactor: remove redundant code blocks
 0957. 🐛 fix: fix null pointer exception on login
+0564. 📚 docs: clarify environment setup
