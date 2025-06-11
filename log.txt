@@ -37579,3 +37579,4 @@
 0637. 🎨 style: apply consistent indentation
 0622. 🎨 style: apply consistent indentation
 0418. ✅ test: mock database connection in test suite
+0579. 📚 docs: clarify environment setup
