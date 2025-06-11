@@ -86723,3 +86723,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0991. ♻️ chore: clean up unused files
 0252. 🎨 style: remove trailing whitespace
+0680. ♻️ chore: add GitHub actions badge
