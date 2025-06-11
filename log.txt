@@ -88728,3 +88728,4 @@
 0651. ✨ feat: enable dark mode toggle
 0954. 🚀 perf: cache repeated calculations
 0292. 📚 docs: clarify environment setup
+0568. 🐛 fix: handle 500 error in quiz API
