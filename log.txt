@@ -52182,3 +52182,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0261. 🔧 refactor: refactor quiz grading logic
 0754. 🐛 fix: handle 500 error in quiz API
+0520. 🐛 fix: fix null pointer exception on login
