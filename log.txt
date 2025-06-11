@@ -58039,3 +58039,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0192. ✨ feat: enable dark mode toggle
 0621. 🔧 refactor: clean up auth middleware
+0169. 📚 docs: add API usage examples
