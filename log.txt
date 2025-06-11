@@ -21209,3 +21209,4 @@
 0281. ✨ feat: support email verification
 0957. 🐛 fix: fix null pointer exception on login
 0523. ♻️ chore: bump dependencies
+0106. 🎨 style: reformat files with black
