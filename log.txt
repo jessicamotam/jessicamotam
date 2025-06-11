@@ -7950,3 +7950,4 @@
 0947. 📚 docs: write FAQ section
 0598. 🔧 refactor: remove redundant code blocks
 0366. 🔧 refactor: remove redundant code blocks
+0122. ✨ feat: support email verification
