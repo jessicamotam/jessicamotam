@@ -39964,3 +39964,4 @@
 0553. 🐛 fix: correct typo in registration form
 0853. 🔧 refactor: refactor quiz grading logic
 0102. ✨ feat: support email verification
+0197. 📚 docs: update README with setup steps
