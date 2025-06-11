@@ -49123,3 +49123,4 @@
 0707. 🎨 style: apply consistent indentation
 0341. 🚀 perf: lazy-load components
 0344. ♻️ chore: add GitHub actions badge
+0860. 🔧 refactor: organize models into subfolders
