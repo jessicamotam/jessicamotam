@@ -7772,3 +7772,4 @@
 0456. 🚀 perf: optimize database query for quiz results
 0964. ♻️ chore: clean up unused files
 0876. ♻️ chore: rename env.example
+0219. ✅ test: increase coverage on auth module
