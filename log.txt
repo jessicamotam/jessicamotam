@@ -59638,3 +59638,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0615. 🐛 fix: correct typo in registration form
 0574. ✨ feat: enable dark mode toggle
+0591. ♻️ chore: clean up unused files
