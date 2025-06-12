@@ -39779,3 +39779,4 @@
 0092. 🚀 perf: reduce image load time
 0424. ✨ feat: add user authentication
 0356. 📚 docs: write FAQ section
+0605. ✨ feat: support email verification
