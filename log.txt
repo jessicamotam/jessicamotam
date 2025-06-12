@@ -66360,3 +66360,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0636. ✅ test: increase coverage on auth module
 0302. ✨ feat: implement quiz timer feature
+0834. ✅ test: increase coverage on auth module
