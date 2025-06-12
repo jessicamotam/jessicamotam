@@ -15338,3 +15338,4 @@
 0293. ✅ test: add integration test for /submit endpoint
 0788. 📚 docs: add API usage examples
 0780. 📚 docs: add API usage examples
+0740. 🐛 fix: resolve issue with date parsing
