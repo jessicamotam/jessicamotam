@@ -29377,3 +29377,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0023. 📚 docs: clarify environment setup
 0318. 🔧 refactor: refactor quiz grading logic
+0258. 🐛 fix: prevent crash on empty input
