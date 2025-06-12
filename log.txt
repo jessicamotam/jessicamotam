@@ -3681,3 +3681,4 @@
 0986. 📚 docs: document token refresh logic
 0220. 🐛 fix: fix null pointer exception on login
 0934. ✨ feat: support email verification
+0128. ♻️ chore: rename env.example
