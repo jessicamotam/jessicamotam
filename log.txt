@@ -87330,3 +87330,4 @@
 0724. ✅ test: mock database connection in test suite
 0797. 📚 docs: add API usage examples
 0007. 🎨 style: rename variables for clarity
+0835. 🐛 fix: prevent crash on empty input
