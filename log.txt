@@ -25269,3 +25269,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0455. ♻️ chore: clean up unused files
 0198. 📚 docs: clarify environment setup
+0502. 📚 docs: update README with setup steps
