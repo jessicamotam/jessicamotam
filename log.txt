@@ -61505,3 +61505,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0798. 🚀 perf: reduce image load time
 0081. 🐛 fix: fix null pointer exception on login
+0114. ♻️ chore: update .gitignore
