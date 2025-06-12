@@ -15426,3 +15426,4 @@
 0798. 🚀 perf: reduce image load time
 0873. 🚀 perf: cache repeated calculations
 0118. 🚀 perf: reduce image load time
+0933. 📚 docs: clarify environment setup
