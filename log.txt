@@ -21257,3 +21257,4 @@
 0551. 📚 docs: write FAQ section
 0549. ✨ feat: enable dark mode toggle
 0395. 📚 docs: write FAQ section
+0584. 🚀 perf: lazy-load components
