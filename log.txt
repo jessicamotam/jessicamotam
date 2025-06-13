@@ -62797,3 +62797,4 @@
 0437. 📚 docs: clarify environment setup
 0614. 🚀 perf: reduce image load time
 0206. 🐛 fix: handle 500 error in quiz API
+0759. 🔧 refactor: organize models into subfolders
