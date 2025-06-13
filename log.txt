@@ -46598,3 +46598,4 @@
 0253. 📚 docs: update README with setup steps
 0919. 🚀 perf: optimize database query for quiz results
 0665. ♻️ chore: update .gitignore
+0056. ♻️ chore: rename env.example
