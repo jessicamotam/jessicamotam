@@ -18099,3 +18099,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0788. 📚 docs: add API usage examples
 0438. ♻️ chore: bump dependencies
+0793. 📚 docs: clarify environment setup
