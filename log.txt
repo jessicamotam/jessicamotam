@@ -88817,3 +88817,4 @@
 0612. ✅ test: test user registration edge cases
 0802. 🔧 refactor: remove redundant code blocks
 0051. ✨ feat: enable dark mode toggle
+0791. 🔧 refactor: clean up auth middleware
