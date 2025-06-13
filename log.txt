@@ -25675,3 +25675,4 @@
 0611. ✅ test: test user registration edge cases
 0826. 📚 docs: clarify environment setup
 0146. 🎨 style: apply consistent indentation
+0661. ✅ test: add integration test for /submit endpoint
