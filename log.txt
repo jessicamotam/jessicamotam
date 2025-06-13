@@ -51194,3 +51194,4 @@
 0411. ✅ test: add unit test for quiz service
 0620. ✨ feat: implement quiz timer feature
 0746. ♻️ chore: add GitHub actions badge
+0471. ✨ feat: support email verification
