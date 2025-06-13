@@ -78055,3 +78055,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0862. ♻️ chore: bump dependencies
 0506. 🐛 fix: handle 500 error in quiz API
+0090. ✅ test: increase coverage on auth module
