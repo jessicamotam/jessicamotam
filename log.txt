@@ -63518,3 +63518,4 @@
 0515. 🚀 perf: optimize database query for quiz results
 0583. ✅ test: increase coverage on auth module
 0496. ✅ test: add integration test for /submit endpoint
+0468. 📚 docs: update README with setup steps
