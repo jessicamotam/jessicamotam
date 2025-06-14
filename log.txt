@@ -37340,3 +37340,4 @@
 0636. ✅ test: increase coverage on auth module
 0569. 📚 docs: document token refresh logic
 0147. ♻️ chore: bump dependencies
+0378. 🐛 fix: prevent crash on empty input
