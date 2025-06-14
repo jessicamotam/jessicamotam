@@ -3794,3 +3794,4 @@
 0147. ♻️ chore: bump dependencies
 0323. 📚 docs: clarify environment setup
 0760. 🐛 fix: resolve issue with date parsing
+0021. ✨ feat: support email verification
