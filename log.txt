@@ -8702,3 +8702,4 @@
 0769. ✨ feat: create admin dashboard
 0110. 🐛 fix: prevent crash on empty input
 0859. ✨ feat: create admin dashboard
+0496. ✅ test: add integration test for /submit endpoint
