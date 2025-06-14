@@ -16372,3 +16372,4 @@
 0969. ✨ feat: create admin dashboard
 0899. 🚀 perf: cache repeated calculations
 0630. 🚀 perf: lazy-load components
+0112. ✨ feat: enable dark mode toggle
