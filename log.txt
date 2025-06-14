@@ -49455,3 +49455,4 @@
 0927. ♻️ chore: bump dependencies
 0627. 📚 docs: document token refresh logic
 0918. ✨ feat: enable dark mode toggle
+0713. 🐛 fix: handle 500 error in quiz API
