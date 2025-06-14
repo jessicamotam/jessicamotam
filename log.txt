@@ -3065,3 +3065,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0081. 🐛 fix: fix null pointer exception on login
 0152. ✨ feat: add user authentication
+0795. 📚 docs: update README with setup steps
