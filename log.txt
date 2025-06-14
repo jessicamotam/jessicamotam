@@ -14098,3 +14098,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0330. ✅ test: test user registration edge cases
 0688. 🚀 perf: reduce image load time
+0461. ✨ feat: add user authentication
