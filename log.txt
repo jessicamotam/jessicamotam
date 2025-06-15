@@ -38064,3 +38064,4 @@
 0908. ♻️ chore: bump dependencies
 0703. 🔧 refactor: clean up auth middleware
 0972. 🔧 refactor: refactor quiz grading logic
+0833. ✨ feat: add user authentication
