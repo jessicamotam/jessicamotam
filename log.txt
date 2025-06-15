@@ -68694,3 +68694,4 @@
 0354. 📚 docs: add API usage examples
 0012. 🚀 perf: cache repeated calculations
 0649. 📚 docs: update README with setup steps
+0471. ✨ feat: support email verification
