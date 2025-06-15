@@ -10402,3 +10402,4 @@
 0087. ✨ feat: add export to CSV option
 0849. 🐛 fix: correct typo in registration form
 0389. 📚 docs: improve code comments in utils
+0330. ✅ test: test user registration edge cases
