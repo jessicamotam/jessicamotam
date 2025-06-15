@@ -20335,3 +20335,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0877. 🚀 perf: optimize database query for quiz results
 0349. ✅ test: increase coverage on auth module
+0155. ✨ feat: create admin dashboard
