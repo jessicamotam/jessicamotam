@@ -6970,3 +6970,4 @@
 0692. ✅ test: add integration test for /submit endpoint
 0535. 📚 docs: write FAQ section
 0272. 🔧 refactor: remove redundant code blocks
+0482. ✨ feat: add export to CSV option
