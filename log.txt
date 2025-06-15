@@ -31259,3 +31259,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0835. 🐛 fix: prevent crash on empty input
 0778. 📚 docs: write FAQ section
+0884. 📚 docs: clarify environment setup
