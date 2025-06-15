@@ -49945,3 +49945,4 @@
 0884. 📚 docs: clarify environment setup
 0347. ♻️ chore: update .gitignore
 0730. ✅ test: test user registration edge cases
+0936. 🔧 refactor: organize models into subfolders
