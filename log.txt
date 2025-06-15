@@ -5491,3 +5491,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0447. ♻️ chore: bump dependencies
 0324. 📚 docs: document token refresh logic
+0851. ✅ test: mock database connection in test suite
