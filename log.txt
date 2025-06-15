@@ -61765,3 +61765,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0104. 🎨 style: apply consistent indentation
 0952. 🔧 refactor: split large controller into smaller functions
+0205. 📚 docs: update README with setup steps
