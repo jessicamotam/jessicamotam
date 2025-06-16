@@ -13279,3 +13279,4 @@
 0393. 🚀 perf: lazy-load components
 0730. ✅ test: test user registration edge cases
 0511. 🐛 fix: fix broken CSS in mobile view
+0370. 🚀 perf: reduce image load time
