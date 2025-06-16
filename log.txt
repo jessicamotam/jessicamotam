@@ -42525,3 +42525,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0151. ✅ test: add unit test for quiz service
 0368. 🚀 perf: lazy-load components
+0080. ✨ feat: support email verification
