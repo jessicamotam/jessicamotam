@@ -76291,3 +76291,4 @@
 0786. ✨ feat: enable dark mode toggle
 0914. ✅ test: test user registration edge cases
 0083. 🎨 style: reformat files with black
+0084. 🐛 fix: handle 500 error in quiz API
