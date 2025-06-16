@@ -39478,3 +39478,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0261. 🔧 refactor: refactor quiz grading logic
 0980. 🎨 style: reformat files with black
+0590. 🐛 fix: fix null pointer exception on login
