@@ -52116,3 +52116,4 @@
 0027. 📚 docs: clarify environment setup
 0754. 🐛 fix: handle 500 error in quiz API
 0014. 🔧 refactor: remove redundant code blocks
+0666. 🐛 fix: fix broken CSS in mobile view
