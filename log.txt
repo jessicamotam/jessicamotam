@@ -76211,3 +76211,4 @@
 0050. ✨ feat: enable dark mode toggle
 0289. 🐛 fix: resolve issue with date parsing
 0687. 🎨 style: remove trailing whitespace
+0259. 🚀 perf: lazy-load components
