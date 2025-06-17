@@ -46852,3 +46852,4 @@
 0555. ✨ feat: create admin dashboard
 0816. 🔧 refactor: organize models into subfolders
 0461. ✨ feat: add user authentication
+0040. 🔧 refactor: clean up auth middleware
