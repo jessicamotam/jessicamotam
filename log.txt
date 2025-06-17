@@ -6106,3 +6106,4 @@
 0731. 🎨 style: standardize quote style
 0653. 🐛 fix: prevent crash on empty input
 0006. 🐛 fix: prevent crash on empty input
+0395. 📚 docs: write FAQ section
