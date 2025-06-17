@@ -65194,3 +65194,4 @@
 0658. 🎨 style: rename variables for clarity
 0536. ✨ feat: add user authentication
 0694. 🎨 style: rename variables for clarity
+0733. 🐛 fix: fix null pointer exception on login
