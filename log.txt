@@ -34989,3 +34989,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0181. ♻️ chore: add GitHub actions badge
 0102. ✨ feat: support email verification
+0921. 🐛 fix: correct typo in registration form
