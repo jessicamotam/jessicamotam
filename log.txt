@@ -21758,3 +21758,4 @@
 0706. ✨ feat: support email verification
 0859. ✨ feat: create admin dashboard
 0505. ♻️ chore: add GitHub actions badge
+0708. ✅ test: add integration test for /submit endpoint
