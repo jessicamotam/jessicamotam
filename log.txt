@@ -81385,3 +81385,4 @@
 0820. 📚 docs: add API usage examples
 0425. 🔧 refactor: refactor quiz grading logic
 0508. ✅ test: add unit test for quiz service
+0280. ✅ test: add integration test for /submit endpoint
