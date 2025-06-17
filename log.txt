@@ -16598,3 +16598,4 @@
 0047. 🎨 style: rename variables for clarity
 0359. 🔧 refactor: clean up auth middleware
 0287. 📚 docs: write FAQ section
+0826. 📚 docs: clarify environment setup
