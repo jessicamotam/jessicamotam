@@ -88064,3 +88064,4 @@
 0056. ♻️ chore: rename env.example
 0368. 🚀 perf: lazy-load components
 0865. ♻️ chore: add GitHub actions badge
+0921. 🐛 fix: correct typo in registration form
