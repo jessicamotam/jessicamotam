@@ -33516,3 +33516,4 @@
 0109. 🚀 perf: lazy-load components
 0280. ✅ test: add integration test for /submit endpoint
 0459. 🔧 refactor: organize models into subfolders
+0365. 🚀 perf: reduce image load time
