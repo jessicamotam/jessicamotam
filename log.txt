@@ -62882,3 +62882,4 @@
 0842. 🎨 style: remove trailing whitespace
 0893. 🐛 fix: handle 500 error in quiz API
 0673. 🐛 fix: correct typo in registration form
+0380. 🐛 fix: fix null pointer exception on login
