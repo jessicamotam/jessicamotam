@@ -41377,3 +41377,4 @@
 0833. ✨ feat: add user authentication
 0581. ✅ test: add integration test for /submit endpoint
 0238. 🎨 style: apply consistent indentation
+0518. ✨ feat: support email verification
