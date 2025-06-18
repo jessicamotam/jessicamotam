@@ -26934,3 +26934,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0121. ✨ feat: support email verification
 0011. ✅ test: add unit test for quiz service
+0673. 🐛 fix: correct typo in registration form
