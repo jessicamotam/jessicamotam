@@ -85871,3 +85871,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0412. ✅ test: increase coverage on auth module
 0035. ✅ test: increase coverage on auth module
+0831. 📚 docs: clarify environment setup
