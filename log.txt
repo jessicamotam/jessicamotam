@@ -66563,3 +66563,4 @@
 0521. 🎨 style: standardize quote style
 0914. ✅ test: test user registration edge cases
 0725. 🚀 perf: lazy-load components
+0080. ✨ feat: support email verification
