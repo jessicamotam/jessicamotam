@@ -5785,3 +5785,4 @@
 0102. ✨ feat: support email verification
 0607. 🐛 fix: prevent crash on empty input
 0412. ✅ test: increase coverage on auth module
+0813. 🔧 refactor: organize models into subfolders
