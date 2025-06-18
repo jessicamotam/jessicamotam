@@ -43435,3 +43435,4 @@
 0401. 🚀 perf: reduce image load time
 0316. 🐛 fix: fix broken CSS in mobile view
 0832. 🔧 refactor: remove redundant code blocks
+0308. 🚀 perf: reduce image load time
