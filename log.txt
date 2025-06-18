@@ -3678,3 +3678,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0543. ✨ feat: support email verification
 0769. ✨ feat: create admin dashboard
+0986. 📚 docs: document token refresh logic
