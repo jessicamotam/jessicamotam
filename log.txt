@@ -44378,3 +44378,4 @@
 0144. ✅ test: increase coverage on auth module
 0473. 📚 docs: write FAQ section
 0317. ✅ test: test user registration edge cases
+0347. ♻️ chore: update .gitignore
