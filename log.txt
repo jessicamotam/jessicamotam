@@ -53193,3 +53193,4 @@
 0679. ♻️ chore: bump dependencies
 0744. 🔧 refactor: remove redundant code blocks
 0967. ♻️ chore: add GitHub actions badge
+0566. 📚 docs: write FAQ section
