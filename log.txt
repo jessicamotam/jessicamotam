@@ -89262,3 +89262,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0391. 🐛 fix: fix null pointer exception on login
 0593. 🐛 fix: correct typo in registration form
+0392. 🎨 style: remove trailing whitespace
