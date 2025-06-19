@@ -33550,3 +33550,4 @@
 0087. ✨ feat: add export to CSV option
 0523. ♻️ chore: bump dependencies
 0055. 📚 docs: update README with setup steps
+0331. 🐛 fix: fix broken CSS in mobile view
