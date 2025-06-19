@@ -6030,3 +6030,4 @@
 0643. 🎨 style: apply consistent indentation
 0580. ♻️ chore: bump dependencies
 0242. ♻️ chore: clean up unused files
+0781. 🚀 perf: reduce image load time
