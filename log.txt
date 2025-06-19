@@ -34657,3 +34657,4 @@
 0306. 🎨 style: apply consistent indentation
 0298. ♻️ chore: update .gitignore
 0731. 🎨 style: standardize quote style
+0484. 🐛 fix: handle 500 error in quiz API
