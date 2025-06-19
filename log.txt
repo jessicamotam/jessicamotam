@@ -41843,3 +41843,4 @@
 0092. 🚀 perf: reduce image load time
 0730. ✅ test: test user registration edge cases
 0492. 🎨 style: remove trailing whitespace
+0765. ♻️ chore: clean up unused files
