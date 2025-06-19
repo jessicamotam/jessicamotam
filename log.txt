@@ -67515,3 +67515,4 @@
 0816. 🔧 refactor: organize models into subfolders
 0726. ✨ feat: enable dark mode toggle
 0906. 📚 docs: add API usage examples
+0178. ✨ feat: support email verification
