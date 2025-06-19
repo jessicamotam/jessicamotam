@@ -65382,3 +65382,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0615. 🐛 fix: correct typo in registration form
 0197. 📚 docs: update README with setup steps
+0987. ✨ feat: create admin dashboard
