@@ -45379,3 +45379,4 @@
 0203. 🚀 perf: lazy-load components
 0843. 📚 docs: document token refresh logic
 0613. 🐛 fix: prevent crash on empty input
+0084. 🐛 fix: handle 500 error in quiz API
