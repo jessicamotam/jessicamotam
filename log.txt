@@ -48730,3 +48730,4 @@
 0842. 🎨 style: remove trailing whitespace
 0059. ♻️ chore: bump dependencies
 0061. ✨ feat: create admin dashboard
+0469. 🚀 perf: lazy-load components
