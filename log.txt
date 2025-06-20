@@ -4787,3 +4787,4 @@
 0163. ✨ feat: implement quiz timer feature
 0441. 📚 docs: add API usage examples
 0078. ♻️ chore: update .gitignore
+0841. 🚀 perf: optimize database query for quiz results
