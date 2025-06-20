@@ -37631,3 +37631,4 @@
 0941. 🚀 perf: cache repeated calculations
 0550. 🔧 refactor: split large controller into smaller functions
 0048. 📚 docs: update README with setup steps
+0860. 🔧 refactor: organize models into subfolders
