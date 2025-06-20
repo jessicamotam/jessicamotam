@@ -87176,3 +87176,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0719. 🎨 style: apply consistent indentation
 0577. ✨ feat: implement quiz timer feature
+0747. 🔧 refactor: clean up auth middleware
