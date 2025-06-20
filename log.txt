@@ -13209,3 +13209,4 @@
 0023. 📚 docs: clarify environment setup
 0059. ♻️ chore: bump dependencies
 0562. 🔧 refactor: clean up auth middleware
+0998. 🐛 fix: fix null pointer exception on login
