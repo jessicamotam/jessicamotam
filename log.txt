@@ -9415,3 +9415,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0270. ♻️ chore: rename env.example
 0527. 🎨 style: remove trailing whitespace
+0331. 🐛 fix: fix broken CSS in mobile view
