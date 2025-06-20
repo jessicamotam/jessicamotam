@@ -51614,3 +51614,4 @@
 0827. 🚀 perf: optimize database query for quiz results
 0140. 🐛 fix: handle 500 error in quiz API
 0785. ✨ feat: enable dark mode toggle
+0677. 📚 docs: add API usage examples
