@@ -30607,3 +30607,4 @@
 0019. ✨ feat: enable dark mode toggle
 0268. 🐛 fix: prevent crash on empty input
 0297. 🎨 style: remove trailing whitespace
+0666. 🐛 fix: fix broken CSS in mobile view
