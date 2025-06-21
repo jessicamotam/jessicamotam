@@ -11625,3 +11625,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0818. 🔧 refactor: remove redundant code blocks
 0989. 📚 docs: write FAQ section
+0387. ✨ feat: enable dark mode toggle
