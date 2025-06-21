@@ -28895,3 +28895,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0659. 📚 docs: add API usage examples
 0555. ✨ feat: create admin dashboard
+0863. 🐛 fix: correct typo in registration form
