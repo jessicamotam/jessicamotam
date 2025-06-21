@@ -18450,3 +18450,4 @@
 0747. 🔧 refactor: clean up auth middleware
 0056. ♻️ chore: rename env.example
 0717. 🔧 refactor: refactor quiz grading logic
+0349. ✅ test: increase coverage on auth module
