@@ -58247,3 +58247,4 @@
 0151. ✅ test: add unit test for quiz service
 0974. ✨ feat: add export to CSV option
 0370. 🚀 perf: reduce image load time
+0856. 🐛 fix: fix null pointer exception on login
