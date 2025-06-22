@@ -50834,3 +50834,4 @@
 0022. 📚 docs: document token refresh logic
 0840. 🔧 refactor: refactor quiz grading logic
 0961. 📚 docs: add API usage examples
+0762. 🚀 perf: lazy-load components
