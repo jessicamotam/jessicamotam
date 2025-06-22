@@ -24190,3 +24190,4 @@
 0882. 🚀 perf: optimize database query for quiz results
 0575. ✅ test: add unit test for quiz service
 0093. ✅ test: add unit test for quiz service
+0059. ♻️ chore: bump dependencies
