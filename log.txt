@@ -37296,3 +37296,4 @@
 0062. ♻️ chore: update .gitignore
 0969. ✨ feat: create admin dashboard
 0544. 🔧 refactor: organize models into subfolders
+0613. 🐛 fix: prevent crash on empty input
