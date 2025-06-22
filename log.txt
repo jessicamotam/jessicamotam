@@ -87268,3 +87268,4 @@
 0253. 📚 docs: update README with setup steps
 0333. 🚀 perf: cache repeated calculations
 0044. ✅ test: add unit test for quiz service
+0924. ✅ test: mock database connection in test suite
