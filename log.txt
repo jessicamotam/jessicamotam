@@ -52732,3 +52732,4 @@
 0155. ✨ feat: create admin dashboard
 0234. ♻️ chore: rename env.example
 0162. ♻️ chore: add GitHub actions badge
+0098. 🎨 style: rename variables for clarity
