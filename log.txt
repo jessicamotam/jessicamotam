@@ -66969,3 +66969,4 @@
 0996. ✅ test: test user registration edge cases
 0575. ✅ test: add unit test for quiz service
 0844. 📚 docs: update README with setup steps
+0168. ✅ test: add integration test for /submit endpoint
