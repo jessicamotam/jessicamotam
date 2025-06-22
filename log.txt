@@ -12149,3 +12149,4 @@
 0939. 📚 docs: update README with setup steps
 0266. 🔧 refactor: remove redundant code blocks
 0279. ✨ feat: support email verification
+0614. 🚀 perf: reduce image load time
