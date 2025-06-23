@@ -22984,3 +22984,4 @@
 0778. 📚 docs: write FAQ section
 0632. 🎨 style: remove trailing whitespace
 0526. ✨ feat: add user authentication
+0120. ✅ test: add integration test for /submit endpoint
