@@ -9237,3 +9237,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0734. ✨ feat: add export to CSV option
 0341. 🚀 perf: lazy-load components
+0790. 📚 docs: write FAQ section
