@@ -3198,3 +3198,4 @@
 0985. 📚 docs: document token refresh logic
 0617. ✨ feat: support email verification
 0622. 🎨 style: apply consistent indentation
+0482. ✨ feat: add export to CSV option
