@@ -73217,3 +73217,4 @@
 0712. 🎨 style: apply consistent indentation
 0064. 📚 docs: clarify environment setup
 0794. ♻️ chore: clean up unused files
+0361. ✨ feat: support email verification
