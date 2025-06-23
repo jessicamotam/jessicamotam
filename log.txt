@@ -73034,3 +73034,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0935. 📚 docs: update README with setup steps
 0351. ✨ feat: add export to CSV option
+0076. 🎨 style: reformat files with black
