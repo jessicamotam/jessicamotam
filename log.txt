@@ -11925,3 +11925,4 @@
 0821. ✅ test: add integration test for /submit endpoint
 0773. 📚 docs: document token refresh logic
 0929. ✨ feat: support email verification
+0494. 🎨 style: rename variables for clarity
