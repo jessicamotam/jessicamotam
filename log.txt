@@ -90508,3 +90508,4 @@
 0577. ✨ feat: implement quiz timer feature
 0078. ♻️ chore: update .gitignore
 0030. 🐛 fix: fix null pointer exception on login
+0478. 🐛 fix: resolve issue with date parsing
