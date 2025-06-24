@@ -44217,3 +44217,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0525. ✅ test: mock database connection in test suite
 0338. ♻️ chore: add GitHub actions badge
+0604. 📚 docs: add API usage examples
