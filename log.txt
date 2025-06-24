@@ -54379,3 +54379,4 @@
 0708. ✅ test: add integration test for /submit endpoint
 0855. 🎨 style: reformat files with black
 0551. 📚 docs: write FAQ section
+0296. 🔧 refactor: organize models into subfolders
