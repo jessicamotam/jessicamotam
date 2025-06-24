@@ -30358,3 +30358,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0281. ✨ feat: support email verification
 0763. 🔧 refactor: organize models into subfolders
+0557. 🔧 refactor: clean up auth middleware
