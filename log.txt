@@ -52647,3 +52647,4 @@
 0302. ✨ feat: implement quiz timer feature
 0013. ✅ test: increase coverage on auth module
 0536. ✨ feat: add user authentication
+0270. ♻️ chore: rename env.example
