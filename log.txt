@@ -84151,3 +84151,4 @@
 0725. 🚀 perf: lazy-load components
 0730. ✅ test: test user registration edge cases
 0994. 🚀 perf: reduce image load time
+0961. 📚 docs: add API usage examples
