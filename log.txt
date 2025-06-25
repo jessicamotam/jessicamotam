@@ -51278,3 +51278,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0710. 🐛 fix: fix broken CSS in mobile view
 0519. 📚 docs: document token refresh logic
+0229. 🚀 perf: optimize database query for quiz results
