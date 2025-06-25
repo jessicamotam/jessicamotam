@@ -59319,3 +59319,4 @@
 0443. 🎨 style: standardize quote style
 0845. 🚀 perf: cache repeated calculations
 0931. 🚀 perf: reduce image load time
+0939. 📚 docs: update README with setup steps
