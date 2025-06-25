@@ -88947,3 +88947,4 @@
 0794. ♻️ chore: clean up unused files
 0479. 🐛 fix: fix null pointer exception on login
 0389. 📚 docs: improve code comments in utils
+0994. 🚀 perf: reduce image load time
