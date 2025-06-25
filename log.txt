@@ -87764,3 +87764,4 @@
 0654. ✨ feat: create admin dashboard
 0664. ✅ test: add unit test for quiz service
 0390. 🎨 style: standardize quote style
+0589. 🐛 fix: fix broken CSS in mobile view
