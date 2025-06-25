@@ -13219,3 +13219,4 @@
 0137. 🎨 style: rename variables for clarity
 0731. 🎨 style: standardize quote style
 0191. 🔧 refactor: refactor quiz grading logic
+0375. 🐛 fix: handle 500 error in quiz API
