@@ -70027,3 +70027,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0268. 🐛 fix: prevent crash on empty input
 0434. 📚 docs: document token refresh logic
+0751. 🐛 fix: handle 500 error in quiz API
