@@ -780,3 +780,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0756. ✨ feat: support email verification
 0817. 🔧 refactor: remove redundant code blocks
+0051. ✨ feat: enable dark mode toggle
