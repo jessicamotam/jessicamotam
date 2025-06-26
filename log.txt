@@ -10565,3 +10565,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0678. ✨ feat: add user authentication
 0037. 🐛 fix: correct typo in registration form
+0835. 🐛 fix: prevent crash on empty input
