@@ -10554,3 +10554,4 @@
 0994. 🚀 perf: reduce image load time
 0563. 📚 docs: clarify environment setup
 0676. 🐛 fix: prevent crash on empty input
+0985. 📚 docs: document token refresh logic
