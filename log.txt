@@ -77119,3 +77119,4 @@
 0543. ✨ feat: support email verification
 0623. 🎨 style: standardize quote style
 0155. ✨ feat: create admin dashboard
+0253. 📚 docs: update README with setup steps
