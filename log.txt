@@ -67281,3 +67281,4 @@
 0570. 🎨 style: apply consistent indentation
 0697. ♻️ chore: bump dependencies
 0875. ✅ test: increase coverage on auth module
+0256. ✅ test: mock database connection in test suite
