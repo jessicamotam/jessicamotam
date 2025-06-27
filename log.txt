@@ -62980,3 +62980,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0461. ✨ feat: add user authentication
 0543. ✨ feat: support email verification
+0722. 📚 docs: add API usage examples
