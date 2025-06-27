@@ -36340,3 +36340,4 @@
 0939. 📚 docs: update README with setup steps
 0369. 🎨 style: standardize quote style
 0347. ♻️ chore: update .gitignore
+0538. 🐛 fix: fix broken CSS in mobile view
