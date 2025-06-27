@@ -41768,3 +41768,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0538. 🐛 fix: fix broken CSS in mobile view
 0495. 🔧 refactor: remove redundant code blocks
+0484. 🐛 fix: handle 500 error in quiz API
