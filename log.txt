@@ -65834,3 +65834,4 @@
 0766. 🎨 style: reformat files with black
 0323. 📚 docs: clarify environment setup
 0054. ♻️ chore: update .gitignore
+0208. 🔧 refactor: clean up auth middleware
