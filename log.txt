@@ -3229,3 +3229,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0307. ✨ feat: support email verification
 0348. ✅ test: test user registration edge cases
+0478. 🐛 fix: resolve issue with date parsing
