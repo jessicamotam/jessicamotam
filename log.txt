@@ -3769,3 +3769,4 @@
 0402. 🎨 style: reformat files with black
 0029. 🚀 perf: lazy-load components
 0922. 📚 docs: write FAQ section
+0964. ♻️ chore: clean up unused files
