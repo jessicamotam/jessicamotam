@@ -83035,3 +83035,4 @@
 0313. 🎨 style: apply consistent indentation
 0880. 🐛 fix: fix broken CSS in mobile view
 0506. 🐛 fix: handle 500 error in quiz API
+0996. ✅ test: test user registration edge cases
