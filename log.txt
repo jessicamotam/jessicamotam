@@ -72367,3 +72367,4 @@
 0770. ♻️ chore: rename env.example
 0162. ♻️ chore: add GitHub actions badge
 0316. 🐛 fix: fix broken CSS in mobile view
+0609. 🐛 fix: handle 500 error in quiz API
