@@ -49757,3 +49757,4 @@
 0662. ♻️ chore: clean up unused files
 0822. 🔧 refactor: remove redundant code blocks
 0134. ✨ feat: implement quiz timer feature
+0397. 🐛 fix: handle 500 error in quiz API
