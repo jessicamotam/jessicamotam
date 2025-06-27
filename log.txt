@@ -13746,3 +13746,4 @@
 0419. 🎨 style: remove trailing whitespace
 0586. 🎨 style: remove trailing whitespace
 0734. ✨ feat: add export to CSV option
+0537. 🔧 refactor: remove redundant code blocks
