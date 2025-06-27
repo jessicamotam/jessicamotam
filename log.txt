@@ -43310,3 +43310,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0036. 🔧 refactor: clean up auth middleware
 0002. 🚀 perf: cache repeated calculations
+0099. 🚀 perf: reduce image load time
