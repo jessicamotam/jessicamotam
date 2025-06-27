@@ -84011,3 +84011,4 @@
 0416. 🎨 style: rename variables for clarity
 0649. 📚 docs: update README with setup steps
 0656. 🎨 style: apply consistent indentation
+0820. 📚 docs: add API usage examples
