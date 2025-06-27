@@ -14724,3 +14724,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0837. 🚀 perf: cache repeated calculations
 0752. ✅ test: add integration test for /submit endpoint
+0748. 🚀 perf: optimize database query for quiz results
