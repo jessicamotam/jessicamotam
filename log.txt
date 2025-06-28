@@ -75955,3 +75955,4 @@
 0431. 🎨 style: reformat files with black
 0965. 🎨 style: reformat files with black
 0026. 🔧 refactor: clean up auth middleware
+0564. 📚 docs: clarify environment setup
