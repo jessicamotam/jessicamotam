@@ -53423,3 +53423,4 @@
 0424. ✨ feat: add user authentication
 0239. 🎨 style: standardize quote style
 0021. ✨ feat: support email verification
+0203. 🚀 perf: lazy-load components
