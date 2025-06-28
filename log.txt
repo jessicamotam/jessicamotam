@@ -39734,3 +39734,4 @@
 0262. 🎨 style: remove trailing whitespace
 0052. 🎨 style: standardize quote style
 0982. 🚀 perf: lazy-load components
+0568. 🐛 fix: handle 500 error in quiz API
