@@ -62789,3 +62789,4 @@
 0438. ♻️ chore: bump dependencies
 0680. ♻️ chore: add GitHub actions badge
 0440. 📚 docs: update README with setup steps
+0819. 🚀 perf: reduce image load time
