@@ -23761,3 +23761,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0792. 🎨 style: standardize quote style
 0595. ✨ feat: enable dark mode toggle
+0029. 🚀 perf: lazy-load components
