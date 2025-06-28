@@ -1436,3 +1436,4 @@
 0963. 🚀 perf: reduce image load time
 0304. 🔧 refactor: remove redundant code blocks
 0563. 📚 docs: clarify environment setup
+0114. ♻️ chore: update .gitignore
