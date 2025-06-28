@@ -55600,3 +55600,4 @@
 0678. ✨ feat: add user authentication
 0761. ✅ test: add unit test for quiz service
 0175. 📚 docs: add API usage examples
+0430. 🐛 fix: fix null pointer exception on login
