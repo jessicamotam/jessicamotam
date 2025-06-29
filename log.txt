@@ -90730,3 +90730,4 @@
 0925. ✨ feat: add export to CSV option
 0726. ✨ feat: enable dark mode toggle
 0831. 📚 docs: clarify environment setup
+0760. 🐛 fix: resolve issue with date parsing
