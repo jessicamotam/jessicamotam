@@ -11888,3 +11888,4 @@
 0965. 🎨 style: reformat files with black
 0861. ♻️ chore: clean up unused files
 0942. ✅ test: increase coverage on auth module
+0750. 🎨 style: apply consistent indentation
