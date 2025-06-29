@@ -70079,3 +70079,4 @@
 0182. 🔧 refactor: remove redundant code blocks
 0799. ♻️ chore: clean up unused files
 0338. ♻️ chore: add GitHub actions badge
+0742. 📚 docs: clarify environment setup
