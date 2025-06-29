@@ -40076,3 +40076,4 @@
 0624. ✅ test: add unit test for quiz service
 0839. 🎨 style: apply consistent indentation
 0279. ✨ feat: support email verification
+0649. 📚 docs: update README with setup steps
