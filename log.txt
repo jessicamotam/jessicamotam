@@ -15215,3 +15215,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0946. ✅ test: add unit test for quiz service
 0261. 🔧 refactor: refactor quiz grading logic
+0776. ✅ test: add integration test for /submit endpoint
