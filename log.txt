@@ -64130,3 +64130,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0605. ✨ feat: support email verification
 0969. ✨ feat: create admin dashboard
+0823. ✨ feat: add user authentication
