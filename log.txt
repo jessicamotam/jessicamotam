@@ -51708,3 +51708,4 @@
 0182. 🔧 refactor: remove redundant code blocks
 0338. ♻️ chore: add GitHub actions badge
 0916. ♻️ chore: bump dependencies
+0672. 🐛 fix: fix broken CSS in mobile view
