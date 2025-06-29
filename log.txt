@@ -11257,3 +11257,4 @@
 0197. 📚 docs: update README with setup steps
 0367. 🐛 fix: fix null pointer exception on login
 0550. 🔧 refactor: split large controller into smaller functions
+0482. ✨ feat: add export to CSV option
