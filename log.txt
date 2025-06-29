@@ -28260,3 +28260,4 @@
 0305. ✨ feat: enable dark mode toggle
 0333. 🚀 perf: cache repeated calculations
 0392. 🎨 style: remove trailing whitespace
+0939. 📚 docs: update README with setup steps
