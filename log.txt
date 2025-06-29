@@ -62858,3 +62858,4 @@
 0454. ♻️ chore: bump dependencies
 0194. 🎨 style: standardize quote style
 0487. 🎨 style: reformat files with black
+0813. 🔧 refactor: organize models into subfolders
