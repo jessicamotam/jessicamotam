@@ -4915,3 +4915,4 @@
 0469. 🚀 perf: lazy-load components
 0564. 📚 docs: clarify environment setup
 0964. ♻️ chore: clean up unused files
+0273. 🚀 perf: reduce image load time
