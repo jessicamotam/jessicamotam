@@ -10605,3 +10605,4 @@
 0956. 📚 docs: clarify environment setup
 0926. 🔧 refactor: organize models into subfolders
 0679. ♻️ chore: bump dependencies
+0359. 🔧 refactor: clean up auth middleware
