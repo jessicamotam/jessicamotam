@@ -64253,3 +64253,4 @@
 0431. 🎨 style: reformat files with black
 0248. 🐛 fix: handle 500 error in quiz API
 0031. 📚 docs: document token refresh logic
+0511. 🐛 fix: fix broken CSS in mobile view
