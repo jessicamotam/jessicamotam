@@ -31517,3 +31517,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0625. 🐛 fix: handle 500 error in quiz API
 0431. 🎨 style: reformat files with black
+0546. 🐛 fix: fix null pointer exception on login
