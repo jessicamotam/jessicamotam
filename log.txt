@@ -70646,3 +70646,4 @@
 0975. 🎨 style: apply consistent indentation
 0423. ✅ test: mock database connection in test suite
 0306. 🎨 style: apply consistent indentation
+0971. 🎨 style: standardize quote style
