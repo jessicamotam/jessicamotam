@@ -24770,3 +24770,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0364. 🐛 fix: resolve issue with date parsing
 0078. ♻️ chore: update .gitignore
+0115. 🚀 perf: reduce image load time
