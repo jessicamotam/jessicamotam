@@ -69276,3 +69276,4 @@
 0942. ✅ test: increase coverage on auth module
 0013. ✅ test: increase coverage on auth module
 0206. 🐛 fix: handle 500 error in quiz API
+0291. 📚 docs: write FAQ section
