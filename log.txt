@@ -24598,3 +24598,4 @@
 0045. 🎨 style: apply consistent indentation
 0238. 🎨 style: apply consistent indentation
 0395. 📚 docs: write FAQ section
+0844. 📚 docs: update README with setup steps
