@@ -32060,3 +32060,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0640. ♻️ chore: bump dependencies
 0308. 🚀 perf: reduce image load time
+0742. 📚 docs: clarify environment setup
