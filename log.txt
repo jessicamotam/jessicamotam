@@ -59627,3 +59627,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0846. ✨ feat: implement quiz timer feature
 0603. 🐛 fix: fix broken CSS in mobile view
+0580. ♻️ chore: bump dependencies
