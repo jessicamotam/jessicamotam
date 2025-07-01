@@ -83883,3 +83883,4 @@
 0561. 📚 docs: write FAQ section
 0619. ✨ feat: create admin dashboard
 0317. ✅ test: test user registration edge cases
+0890. 🔧 refactor: organize models into subfolders
