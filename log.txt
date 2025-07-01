@@ -77802,3 +77802,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0527. 🎨 style: remove trailing whitespace
 0961. 📚 docs: add API usage examples
+0595. ✨ feat: enable dark mode toggle
