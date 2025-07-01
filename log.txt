@@ -62138,3 +62138,4 @@
 0106. 🎨 style: reformat files with black
 0885. ♻️ chore: update .gitignore
 0265. 🎨 style: reformat files with black
+0864. 🐛 fix: correct typo in registration form
