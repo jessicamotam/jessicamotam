@@ -9696,3 +9696,4 @@
 0799. ♻️ chore: clean up unused files
 0076. 🎨 style: reformat files with black
 0885. ♻️ chore: update .gitignore
+0548. 📚 docs: write FAQ section
