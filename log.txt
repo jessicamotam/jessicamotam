@@ -84915,3 +84915,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0570. 🎨 style: apply consistent indentation
 0116. ✨ feat: support email verification
+0384. 📚 docs: clarify environment setup
