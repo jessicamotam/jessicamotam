@@ -58670,3 +58670,4 @@
 0482. ✨ feat: add export to CSV option
 0259. 🚀 perf: lazy-load components
 0084. 🐛 fix: handle 500 error in quiz API
+0476. 🚀 perf: reduce image load time
