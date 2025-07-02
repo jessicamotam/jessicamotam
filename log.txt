@@ -41227,3 +41227,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0091. ✨ feat: add user authentication
 0609. 🐛 fix: handle 500 error in quiz API
+0136. 🚀 perf: lazy-load components
