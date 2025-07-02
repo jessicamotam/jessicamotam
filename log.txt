@@ -34658,3 +34658,4 @@
 0298. ♻️ chore: update .gitignore
 0731. 🎨 style: standardize quote style
 0484. 🐛 fix: handle 500 error in quiz API
+0372. ✨ feat: add user authentication
