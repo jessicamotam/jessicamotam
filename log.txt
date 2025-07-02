@@ -90329,3 +90329,4 @@
 0139. 📚 docs: document token refresh logic
 0964. ♻️ chore: clean up unused files
 0166. 🚀 perf: cache repeated calculations
+0227. ✅ test: test user registration edge cases
