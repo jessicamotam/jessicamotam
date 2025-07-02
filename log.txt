@@ -14431,3 +14431,4 @@
 0352. ✨ feat: add export to CSV option
 0221. ✨ feat: add user authentication
 0317. ✅ test: test user registration edge cases
+0568. 🐛 fix: handle 500 error in quiz API
