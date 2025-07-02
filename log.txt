@@ -68361,3 +68361,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0991. ♻️ chore: clean up unused files
 0077. ♻️ chore: rename env.example
+0652. 🔧 refactor: organize models into subfolders
