@@ -45705,3 +45705,4 @@
 0080. ✨ feat: support email verification
 0641. 📚 docs: write FAQ section
 0387. ✨ feat: enable dark mode toggle
+0621. 🔧 refactor: clean up auth middleware
