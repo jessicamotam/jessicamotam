@@ -22759,3 +22759,4 @@
 0057. 🚀 perf: optimize database query for quiz results
 0432. 🎨 style: apply consistent indentation
 0560. 🎨 style: rename variables for clarity
+0826. 📚 docs: clarify environment setup
