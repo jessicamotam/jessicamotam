@@ -41283,3 +41283,4 @@
 0508. ✅ test: add unit test for quiz service
 0908. ♻️ chore: bump dependencies
 0568. 🐛 fix: handle 500 error in quiz API
+0003. ✅ test: increase coverage on auth module
