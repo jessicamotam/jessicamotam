@@ -5901,3 +5901,4 @@
 0292. 📚 docs: clarify environment setup
 0521. 🎨 style: standardize quote style
 0767. 🔧 refactor: remove redundant code blocks
+0181. ♻️ chore: add GitHub actions badge
