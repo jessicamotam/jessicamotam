@@ -13883,3 +13883,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0174. 📚 docs: clarify environment setup
 0765. ♻️ chore: clean up unused files
+0369. 🎨 style: standardize quote style
