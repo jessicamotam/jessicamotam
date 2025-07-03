@@ -22738,3 +22738,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0484. 🐛 fix: handle 500 error in quiz API
 0867. 🔧 refactor: refactor quiz grading logic
+0192. ✨ feat: enable dark mode toggle
