@@ -86175,3 +86175,4 @@
 0160. ♻️ chore: bump dependencies
 0099. 🚀 perf: reduce image load time
 0720. ✨ feat: add export to CSV option
+0945. ♻️ chore: add GitHub actions badge
