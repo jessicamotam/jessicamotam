@@ -71559,3 +71559,4 @@
 0993. ✨ feat: implement quiz timer feature
 0362. 📚 docs: add API usage examples
 0607. 🐛 fix: prevent crash on empty input
+0585. 🚀 perf: lazy-load components
