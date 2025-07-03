@@ -13983,3 +13983,4 @@
 0185. 📚 docs: write FAQ section
 0777. 📚 docs: document token refresh logic
 0377. ✨ feat: add user authentication
+0269. ✅ test: test user registration edge cases
