@@ -62058,3 +62058,4 @@
 0654. ✨ feat: create admin dashboard
 0855. 🎨 style: reformat files with black
 0254. 🚀 perf: reduce image load time
+0384. 📚 docs: clarify environment setup
