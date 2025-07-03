@@ -57971,3 +57971,4 @@
 0386. 🚀 perf: optimize database query for quiz results
 0175. 📚 docs: add API usage examples
 0885. ♻️ chore: update .gitignore
+0379. ✨ feat: support email verification
