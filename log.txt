@@ -32176,3 +32176,4 @@
 0925. ✨ feat: add export to CSV option
 0857. 🎨 style: rename variables for clarity
 0188. 🎨 style: apply consistent indentation
+0597. 🚀 perf: cache repeated calculations
