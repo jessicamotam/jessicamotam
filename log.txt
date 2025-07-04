@@ -23734,3 +23734,4 @@
 0720. ✨ feat: add export to CSV option
 0504. 📚 docs: document token refresh logic
 0736. 🐛 fix: fix null pointer exception on login
+1000. ✅ test: increase coverage on auth module
