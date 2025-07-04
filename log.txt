@@ -86513,3 +86513,4 @@
 0494. 🎨 style: rename variables for clarity
 0187. ✨ feat: support email verification
 0216. 🎨 style: rename variables for clarity
+0422. 🔧 refactor: organize models into subfolders
