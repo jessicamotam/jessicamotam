@@ -27490,3 +27490,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0931. 🚀 perf: reduce image load time
 0306. 🎨 style: apply consistent indentation
+0544. 🔧 refactor: organize models into subfolders
