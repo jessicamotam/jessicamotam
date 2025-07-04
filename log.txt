@@ -5303,3 +5303,4 @@
 0252. 🎨 style: remove trailing whitespace
 0903. ✅ test: mock database connection in test suite
 0887. 📚 docs: add API usage examples
+0763. 🔧 refactor: organize models into subfolders
