@@ -38343,3 +38343,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0879. 🎨 style: standardize quote style
 0964. ♻️ chore: clean up unused files
+0835. 🐛 fix: prevent crash on empty input
