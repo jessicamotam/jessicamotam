@@ -17930,3 +17930,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0255. 🔧 refactor: refactor quiz grading logic
 0569. 📚 docs: document token refresh logic
+0603. 🐛 fix: fix broken CSS in mobile view
