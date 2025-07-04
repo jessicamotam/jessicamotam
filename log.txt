@@ -8507,3 +8507,4 @@
 0750. 🎨 style: apply consistent indentation
 0659. 📚 docs: add API usage examples
 0562. 🔧 refactor: clean up auth middleware
+0428. 🐛 fix: fix null pointer exception on login
