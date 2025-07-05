@@ -1839,3 +1839,4 @@
 0339. 📚 docs: update README with setup steps
 0844. 📚 docs: update README with setup steps
 0066. 🔧 refactor: clean up auth middleware
+0892. ✅ test: add unit test for quiz service
