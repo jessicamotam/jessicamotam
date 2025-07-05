@@ -12258,3 +12258,4 @@
 0442. 🎨 style: standardize quote style
 0254. 🚀 perf: reduce image load time
 0150. 🎨 style: remove trailing whitespace
+0628. ♻️ chore: add GitHub actions badge
