@@ -25988,3 +25988,4 @@
 0605. ✨ feat: support email verification
 0089. 🔧 refactor: remove redundant code blocks
 0945. ♻️ chore: add GitHub actions badge
+0084. 🐛 fix: handle 500 error in quiz API
