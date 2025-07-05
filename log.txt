@@ -61887,3 +61887,4 @@
 0077. ♻️ chore: rename env.example
 0761. ✅ test: add unit test for quiz service
 0627. 📚 docs: document token refresh logic
+0307. ✨ feat: support email verification
