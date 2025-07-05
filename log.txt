@@ -26295,3 +26295,4 @@
 0128. ♻️ chore: rename env.example
 0293. ✅ test: add integration test for /submit endpoint
 0335. ♻️ chore: update .gitignore
+0359. 🔧 refactor: clean up auth middleware
