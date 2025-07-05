@@ -30377,3 +30377,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0001. 🚀 perf: cache repeated calculations
 0091. ✨ feat: add user authentication
+0466. 🚀 perf: optimize database query for quiz results
