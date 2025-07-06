@@ -49445,3 +49445,4 @@
 0406. ✨ feat: add export to CSV option
 0392. 🎨 style: remove trailing whitespace
 0541. 🐛 fix: correct typo in registration form
+0040. 🔧 refactor: clean up auth middleware
