@@ -28281,3 +28281,4 @@
 0279. ✨ feat: support email verification
 0675. 🔧 refactor: organize models into subfolders
 0524. ♻️ chore: rename env.example
+0038. 🎨 style: rename variables for clarity
