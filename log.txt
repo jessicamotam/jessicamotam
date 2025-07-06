@@ -42668,3 +42668,4 @@
 0854. ♻️ chore: rename env.example
 0783. 🐛 fix: handle 500 error in quiz API
 0433. 🐛 fix: prevent crash on empty input
+0582. ✨ feat: add export to CSV option
