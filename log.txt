@@ -75588,3 +75588,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0657. 🎨 style: standardize quote style
 0234. ♻️ chore: rename env.example
+0548. 📚 docs: write FAQ section
