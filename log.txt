@@ -49466,3 +49466,4 @@
 0409. 🚀 perf: lazy-load components
 0008. 🚀 perf: reduce image load time
 0522. 🐛 fix: handle 500 error in quiz API
+0103. 🔧 refactor: remove redundant code blocks
