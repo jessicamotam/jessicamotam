@@ -36405,3 +36405,4 @@
 0848. 📚 docs: update README with setup steps
 0667. ✨ feat: add export to CSV option
 0628. ♻️ chore: add GitHub actions badge
+0278. 🔧 refactor: clean up auth middleware
