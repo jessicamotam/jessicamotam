@@ -5037,3 +5037,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0679. ♻️ chore: bump dependencies
 0788. 📚 docs: add API usage examples
+0779. 🔧 refactor: organize models into subfolders
