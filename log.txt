@@ -83199,3 +83199,4 @@
 0924. ✅ test: mock database connection in test suite
 0021. ✨ feat: support email verification
 0753. 🔧 refactor: remove redundant code blocks
+0219. ✅ test: increase coverage on auth module
