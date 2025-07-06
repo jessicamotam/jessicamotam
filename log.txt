@@ -76991,3 +76991,4 @@
 0402. 🎨 style: reformat files with black
 0855. 🎨 style: reformat files with black
 0040. 🔧 refactor: clean up auth middleware
+0368. 🚀 perf: lazy-load components
