@@ -59442,3 +59442,4 @@
 0614. 🚀 perf: reduce image load time
 0185. 📚 docs: write FAQ section
 0021. ✨ feat: support email verification
+0958. 🐛 fix: prevent crash on empty input
