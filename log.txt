@@ -54807,3 +54807,4 @@
 0116. ✨ feat: support email verification
 0113. ✨ feat: add user authentication
 0114. ♻️ chore: update .gitignore
+0600. 🐛 fix: prevent crash on empty input
