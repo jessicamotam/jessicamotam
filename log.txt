@@ -26769,3 +26769,4 @@
 0001. 🚀 perf: cache repeated calculations
 0644. 🎨 style: apply consistent indentation
 0603. 🐛 fix: fix broken CSS in mobile view
+0507. 🔧 refactor: clean up auth middleware
