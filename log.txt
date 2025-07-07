@@ -54246,3 +54246,4 @@
 0184. 📚 docs: improve code comments in utils
 0950. 🎨 style: reformat files with black
 0641. 📚 docs: write FAQ section
+0484. 🐛 fix: handle 500 error in quiz API
