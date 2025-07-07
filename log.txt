@@ -79805,3 +79805,4 @@
 0876. ♻️ chore: rename env.example
 0987. ✨ feat: create admin dashboard
 0023. 📚 docs: clarify environment setup
+0698. 🐛 fix: handle 500 error in quiz API
