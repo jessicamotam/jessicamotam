@@ -24943,3 +24943,4 @@
 0387. ✨ feat: enable dark mode toggle
 0273. 🚀 perf: reduce image load time
 0335. ♻️ chore: update .gitignore
+0971. 🎨 style: standardize quote style
