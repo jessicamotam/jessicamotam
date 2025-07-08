@@ -57150,3 +57150,4 @@
 1000. ✅ test: increase coverage on auth module
 0735. ♻️ chore: add GitHub actions badge
 0732. ♻️ chore: add GitHub actions badge
+0513. ♻️ chore: bump dependencies
