@@ -64792,3 +64792,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0861. ♻️ chore: clean up unused files
 0137. 🎨 style: rename variables for clarity
+0791. 🔧 refactor: clean up auth middleware
