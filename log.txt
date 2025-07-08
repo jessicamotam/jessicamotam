@@ -50507,3 +50507,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0512. 🚀 perf: reduce image load time
 0476. 🚀 perf: reduce image load time
+0563. 📚 docs: clarify environment setup
