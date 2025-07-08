@@ -70029,3 +70029,4 @@
 0434. 📚 docs: document token refresh logic
 0751. 🐛 fix: handle 500 error in quiz API
 0035. ✅ test: increase coverage on auth module
+0932. ✅ test: add integration test for /submit endpoint
