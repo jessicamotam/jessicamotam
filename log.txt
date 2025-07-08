@@ -39420,3 +39420,4 @@
 0312. ✨ feat: add user authentication
 0365. 🚀 perf: reduce image load time
 0484. 🐛 fix: handle 500 error in quiz API
+0618. ✨ feat: support email verification
