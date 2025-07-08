@@ -47229,3 +47229,4 @@
 0834. ✅ test: increase coverage on auth module
 0090. ✅ test: increase coverage on auth module
 0674. 🔧 refactor: split large controller into smaller functions
+0022. 📚 docs: document token refresh logic
