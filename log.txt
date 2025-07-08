@@ -33309,3 +33309,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0956. 📚 docs: clarify environment setup
 0859. ✨ feat: create admin dashboard
+0589. 🐛 fix: fix broken CSS in mobile view
