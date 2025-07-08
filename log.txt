@@ -48535,3 +48535,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0238. 🎨 style: apply consistent indentation
 0923. ✨ feat: support email verification
+0198. 📚 docs: clarify environment setup
