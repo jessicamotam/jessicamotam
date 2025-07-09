@@ -47848,3 +47848,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0564. 📚 docs: clarify environment setup
 0838. 🎨 style: standardize quote style
+0599. ✅ test: test user registration edge cases
