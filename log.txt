@@ -52474,3 +52474,4 @@
 0275. 🎨 style: standardize quote style
 0127. 🐛 fix: fix null pointer exception on login
 0610. 🚀 perf: lazy-load components
+0502. 📚 docs: update README with setup steps
