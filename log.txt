@@ -64060,3 +64060,4 @@
 0311. 🎨 style: apply consistent indentation
 0485. 📚 docs: update README with setup steps
 0162. ♻️ chore: add GitHub actions badge
+0551. 📚 docs: write FAQ section
