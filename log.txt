@@ -41828,3 +41828,4 @@
 0251. ♻️ chore: update .gitignore
 0866. 📚 docs: add API usage examples
 0039. ✅ test: add integration test for /submit endpoint
+0538. 🐛 fix: fix broken CSS in mobile view
