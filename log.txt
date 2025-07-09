@@ -5739,3 +5739,4 @@
 0003. ✅ test: increase coverage on auth module
 0971. 🎨 style: standardize quote style
 0788. 📚 docs: add API usage examples
+0653. 🐛 fix: prevent crash on empty input
