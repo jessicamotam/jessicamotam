@@ -4025,3 +4025,4 @@
 0665. ♻️ chore: update .gitignore
 0900. 🐛 fix: handle 500 error in quiz API
 0896. 🚀 perf: reduce image load time
+0746. ♻️ chore: add GitHub actions badge
