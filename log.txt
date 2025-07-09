@@ -23872,3 +23872,4 @@
 0035. ✅ test: increase coverage on auth module
 0316. 🐛 fix: fix broken CSS in mobile view
 0224. 🐛 fix: fix broken CSS in mobile view
+0988. 🐛 fix: fix broken CSS in mobile view
