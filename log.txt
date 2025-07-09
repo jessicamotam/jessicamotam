@@ -5667,3 +5667,4 @@
 0101. 📚 docs: clarify environment setup
 0514. 🐛 fix: fix broken CSS in mobile view
 0555. ✨ feat: create admin dashboard
+0494. 🎨 style: rename variables for clarity
