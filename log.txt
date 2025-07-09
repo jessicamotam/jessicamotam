@@ -44091,3 +44091,4 @@
 0644. 🎨 style: apply consistent indentation
 0539. 🔧 refactor: organize models into subfolders
 0368. 🚀 perf: lazy-load components
+0826. 📚 docs: clarify environment setup
