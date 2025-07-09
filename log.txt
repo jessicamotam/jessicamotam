@@ -8372,3 +8372,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0187. ✨ feat: support email verification
 0319. 🐛 fix: handle 500 error in quiz API
+0890. 🔧 refactor: organize models into subfolders
