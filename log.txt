@@ -66729,3 +66729,4 @@
 0528. ♻️ chore: clean up unused files
 0783. 🐛 fix: handle 500 error in quiz API
 0860. 🔧 refactor: organize models into subfolders
+0040. 🔧 refactor: clean up auth middleware
