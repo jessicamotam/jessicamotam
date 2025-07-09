@@ -60465,3 +60465,4 @@
 0360. ✨ feat: add export to CSV option
 0096. 🐛 fix: prevent crash on empty input
 0113. ✨ feat: add user authentication
+0915. 🚀 perf: cache repeated calculations
