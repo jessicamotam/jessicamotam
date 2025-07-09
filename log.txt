@@ -26618,3 +26618,4 @@
 0009. ✨ feat: enable dark mode toggle
 0285. 🐛 fix: resolve issue with date parsing
 0652. 🔧 refactor: organize models into subfolders
+0380. 🐛 fix: fix null pointer exception on login
