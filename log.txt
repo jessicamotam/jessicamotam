@@ -12986,3 +12986,4 @@
 0888. 🚀 perf: lazy-load components
 0096. 🐛 fix: prevent crash on empty input
 0816. 🔧 refactor: organize models into subfolders
+0571. 🔧 refactor: clean up auth middleware
