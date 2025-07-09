@@ -63450,3 +63450,4 @@
 0431. 🎨 style: reformat files with black
 0909. 🔧 refactor: organize models into subfolders
 0311. 🎨 style: apply consistent indentation
+0277. 🎨 style: standardize quote style
