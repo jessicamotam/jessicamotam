@@ -64989,3 +64989,4 @@
 0596. ♻️ chore: update .gitignore
 0181. ♻️ chore: add GitHub actions badge
 0382. 📚 docs: improve code comments in utils
+0386. 🚀 perf: optimize database query for quiz results
