@@ -12859,3 +12859,4 @@
 0911. ✅ test: increase coverage on auth module
 0450. 🐛 fix: fix broken CSS in mobile view
 0473. 📚 docs: write FAQ section
+0006. 🐛 fix: prevent crash on empty input
