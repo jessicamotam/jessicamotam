@@ -44917,3 +44917,4 @@
 0332. 🎨 style: standardize quote style
 0352. ✨ feat: add export to CSV option
 0720. ✨ feat: add export to CSV option
+0009. ✨ feat: enable dark mode toggle
