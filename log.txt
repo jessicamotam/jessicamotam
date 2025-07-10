@@ -581,3 +581,4 @@
 0015. ✨ feat: implement quiz timer feature
 0320. 📚 docs: update README with setup steps
 0467. ✅ test: add integration test for /submit endpoint
+0918. ✨ feat: enable dark mode toggle
