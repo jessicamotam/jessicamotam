@@ -49289,3 +49289,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0307. ✨ feat: support email verification
 0821. ✅ test: add integration test for /submit endpoint
+0467. ✅ test: add integration test for /submit endpoint
