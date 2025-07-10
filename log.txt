@@ -66449,3 +66449,4 @@
 0432. 🎨 style: apply consistent indentation
 0888. 🚀 perf: lazy-load components
 0345. 📚 docs: document token refresh logic
+0514. 🐛 fix: fix broken CSS in mobile view
