@@ -83608,3 +83608,4 @@
 0131. 📚 docs: write FAQ section
 0180. ✨ feat: add export to CSV option
 0333. 🚀 perf: cache repeated calculations
+0286. ✅ test: mock database connection in test suite
