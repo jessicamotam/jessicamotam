@@ -84913,3 +84913,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0911. ✅ test: increase coverage on auth module
 0779. 🔧 refactor: organize models into subfolders
+0570. 🎨 style: apply consistent indentation
