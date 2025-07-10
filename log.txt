@@ -87480,3 +87480,4 @@
 0226. 🚀 perf: lazy-load components
 0061. ✨ feat: create admin dashboard
 0797. 📚 docs: add API usage examples
+0713. 🐛 fix: handle 500 error in quiz API
