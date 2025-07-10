@@ -75018,3 +75018,4 @@
 0944. ✨ feat: add user authentication
 0241. 📚 docs: add API usage examples
 0202. 🔧 refactor: refactor quiz grading logic
+0998. 🐛 fix: fix null pointer exception on login
