@@ -36770,3 +36770,4 @@
 0950. 🎨 style: reformat files with black
 0098. 🎨 style: rename variables for clarity
 0543. ✨ feat: support email verification
+0632. 🎨 style: remove trailing whitespace
