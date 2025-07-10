@@ -63323,3 +63323,4 @@
 0886. ♻️ chore: clean up unused files
 0468. 📚 docs: update README with setup steps
 0683. ✅ test: mock database connection in test suite
+0748. 🚀 perf: optimize database query for quiz results
