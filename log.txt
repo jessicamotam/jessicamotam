@@ -56874,3 +56874,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0270. ♻️ chore: rename env.example
 0755. 🚀 perf: cache repeated calculations
+0795. 📚 docs: update README with setup steps
