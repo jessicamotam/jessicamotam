@@ -27574,3 +27574,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0664. ✅ test: add unit test for quiz service
 0894. ✅ test: add integration test for /submit endpoint
+0895. ✨ feat: support email verification
