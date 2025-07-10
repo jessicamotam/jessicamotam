@@ -80208,3 +80208,4 @@
 0467. ✅ test: add integration test for /submit endpoint
 0390. 🎨 style: standardize quote style
 0223. 🔧 refactor: remove redundant code blocks
+0897. 🐛 fix: prevent crash on empty input
