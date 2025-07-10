@@ -26247,3 +26247,4 @@
 0944. ✨ feat: add user authentication
 0189. 📚 docs: clarify environment setup
 0116. ✨ feat: support email verification
+0243. 🔧 refactor: clean up auth middleware
