@@ -22094,3 +22094,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0974. ✨ feat: add export to CSV option
 0651. ✨ feat: enable dark mode toggle
+0982. 🚀 perf: lazy-load components
