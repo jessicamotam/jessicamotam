@@ -26841,3 +26841,4 @@
 0902. ✨ feat: enable dark mode toggle
 0931. 🚀 perf: reduce image load time
 0648. ♻️ chore: bump dependencies
+0962. ✨ feat: create admin dashboard
