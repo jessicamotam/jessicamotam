@@ -37764,3 +37764,4 @@
 0341. 🚀 perf: lazy-load components
 0032. 🎨 style: apply consistent indentation
 0472. 🐛 fix: fix null pointer exception on login
+0677. 📚 docs: add API usage examples
