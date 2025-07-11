@@ -12764,3 +12764,4 @@
 0273. 🚀 perf: reduce image load time
 0253. 📚 docs: update README with setup steps
 0749. ✨ feat: support email verification
+0254. 🚀 perf: reduce image load time
