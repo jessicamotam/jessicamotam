@@ -56676,3 +56676,4 @@
 0185. 📚 docs: write FAQ section
 0650. ✅ test: add unit test for quiz service
 0922. 📚 docs: write FAQ section
+0342. 🚀 perf: cache repeated calculations
