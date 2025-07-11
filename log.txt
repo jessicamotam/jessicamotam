@@ -78361,3 +78361,4 @@
 0606. 📚 docs: improve code comments in utils
 0610. 🚀 perf: lazy-load components
 0037. 🐛 fix: correct typo in registration form
+0055. 📚 docs: update README with setup steps
