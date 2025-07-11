@@ -9078,3 +9078,4 @@
 0667. ✨ feat: add export to CSV option
 0645. 🐛 fix: resolve issue with date parsing
 0176. 🔧 refactor: remove redundant code blocks
+0127. 🐛 fix: fix null pointer exception on login
