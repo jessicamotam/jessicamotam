@@ -7713,3 +7713,4 @@
 0732. ♻️ chore: add GitHub actions badge
 0959. 🐛 fix: fix null pointer exception on login
 0894. ✅ test: add integration test for /submit endpoint
+0017. ✅ test: mock database connection in test suite
