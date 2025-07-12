@@ -76325,3 +76325,4 @@
 0933. 📚 docs: clarify environment setup
 0339. 📚 docs: update README with setup steps
 0404. 📚 docs: improve code comments in utils
+0471. ✨ feat: support email verification
