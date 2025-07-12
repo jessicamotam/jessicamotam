@@ -38883,3 +38883,4 @@
 0623. 🎨 style: standardize quote style
 0582. ✨ feat: add export to CSV option
 0957. 🐛 fix: fix null pointer exception on login
+0551. 📚 docs: write FAQ section
