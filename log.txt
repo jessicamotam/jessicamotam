@@ -59262,3 +59262,4 @@
 0876. ♻️ chore: rename env.example
 0187. ✨ feat: support email verification
 0101. 📚 docs: clarify environment setup
+0283. ♻️ chore: add GitHub actions badge
