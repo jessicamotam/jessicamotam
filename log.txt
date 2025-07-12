@@ -38152,3 +38152,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0818. 🔧 refactor: remove redundant code blocks
 0490. ✨ feat: create admin dashboard
+0086. 🐛 fix: correct typo in registration form
