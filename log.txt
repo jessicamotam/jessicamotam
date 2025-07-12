@@ -44971,3 +44971,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0032. 🎨 style: apply consistent indentation
 0533. ♻️ chore: add GitHub actions badge
+0566. 📚 docs: write FAQ section
