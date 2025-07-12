@@ -48778,3 +48778,4 @@
 0424. ✨ feat: add user authentication
 0057. 🚀 perf: optimize database query for quiz results
 0276. ✅ test: add integration test for /submit endpoint
+1000. ✅ test: increase coverage on auth module
