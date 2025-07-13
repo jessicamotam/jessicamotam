@@ -69329,3 +69329,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0568. 🐛 fix: handle 500 error in quiz API
 0567. 📚 docs: add API usage examples
+0280. ✅ test: add integration test for /submit endpoint
