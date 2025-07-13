@@ -26956,3 +26956,4 @@
 0574. ✨ feat: enable dark mode toggle
 0551. 📚 docs: write FAQ section
 0005. ✅ test: add unit test for quiz service
+0204. 🎨 style: standardize quote style
