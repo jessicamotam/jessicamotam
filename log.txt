@@ -53208,3 +53208,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0913. 🚀 perf: optimize database query for quiz results
 0675. 🔧 refactor: organize models into subfolders
+0359. 🔧 refactor: clean up auth middleware
