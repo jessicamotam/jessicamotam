@@ -54223,3 +54223,4 @@
 0242. ♻️ chore: clean up unused files
 0549. ✨ feat: enable dark mode toggle
 0096. 🐛 fix: prevent crash on empty input
+0933. 📚 docs: clarify environment setup
