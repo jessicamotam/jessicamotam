@@ -6304,3 +6304,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0435. ✅ test: add unit test for quiz service
 0446. 🎨 style: apply consistent indentation
+0222. 🐛 fix: handle 500 error in quiz API
