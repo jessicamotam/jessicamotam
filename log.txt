@@ -70263,3 +70263,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0166. 🚀 perf: cache repeated calculations
 0416. 🎨 style: rename variables for clarity
+0653. 🐛 fix: prevent crash on empty input
