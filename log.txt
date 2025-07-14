@@ -77874,3 +77874,4 @@
 0017. ✅ test: mock database connection in test suite
 0645. 🐛 fix: resolve issue with date parsing
 0635. 🎨 style: apply consistent indentation
+0588. 🔧 refactor: organize models into subfolders
