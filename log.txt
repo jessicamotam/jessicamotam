@@ -25203,3 +25203,4 @@
 0323. 📚 docs: clarify environment setup
 0205. 📚 docs: update README with setup steps
 0458. ✨ feat: create admin dashboard
+0201. 🔧 refactor: clean up auth middleware
