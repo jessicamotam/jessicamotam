@@ -17571,3 +17571,4 @@
 0407. 🚀 perf: cache repeated calculations
 0811. 🎨 style: reformat files with black
 0283. ♻️ chore: add GitHub actions badge
+0367. 🐛 fix: fix null pointer exception on login
