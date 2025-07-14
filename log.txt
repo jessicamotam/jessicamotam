@@ -16003,3 +16003,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0057. 🚀 perf: optimize database query for quiz results
 0230. ✨ feat: create admin dashboard
+0178. ✨ feat: support email verification
