@@ -30543,3 +30543,4 @@
 0123. ✨ feat: implement quiz timer feature
 0490. ✨ feat: create admin dashboard
 0326. 🚀 perf: cache repeated calculations
+0515. 🚀 perf: optimize database query for quiz results
