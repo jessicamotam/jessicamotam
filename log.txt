@@ -26747,3 +26747,4 @@
 0596. ♻️ chore: update .gitignore
 0558. ✨ feat: enable dark mode toggle
 0822. 🔧 refactor: remove redundant code blocks
+0675. 🔧 refactor: organize models into subfolders
