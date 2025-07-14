@@ -41190,3 +41190,4 @@
 0361. ✨ feat: support email verification
 0950. 🎨 style: reformat files with black
 0979. 🎨 style: standardize quote style
+0888. 🚀 perf: lazy-load components
