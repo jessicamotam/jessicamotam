@@ -17403,3 +17403,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0316. 🐛 fix: fix broken CSS in mobile view
 0418. ✅ test: mock database connection in test suite
+0300. ✨ feat: add export to CSV option
