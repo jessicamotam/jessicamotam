@@ -7101,3 +7101,4 @@
 0491. 🚀 perf: lazy-load components
 0913. 🚀 perf: optimize database query for quiz results
 0768. 🎨 style: remove trailing whitespace
+0204. 🎨 style: standardize quote style
