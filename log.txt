@@ -65214,3 +65214,4 @@
 0389. 📚 docs: improve code comments in utils
 0999. 🔧 refactor: split large controller into smaller functions
 0472. 🐛 fix: fix null pointer exception on login
+0934. ✨ feat: support email verification
