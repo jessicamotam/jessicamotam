@@ -19819,3 +19819,4 @@
 0960. ✅ test: increase coverage on auth module
 0435. ✅ test: add unit test for quiz service
 0732. ♻️ chore: add GitHub actions badge
+0937. 🐛 fix: handle 500 error in quiz API
