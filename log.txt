@@ -38270,3 +38270,4 @@
 0838. 🎨 style: standardize quote style
 0094. 📚 docs: document token refresh logic
 0960. ✅ test: increase coverage on auth module
+0492. 🎨 style: remove trailing whitespace
