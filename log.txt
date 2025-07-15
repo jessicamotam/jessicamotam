@@ -38574,3 +38574,4 @@
 0527. 🎨 style: remove trailing whitespace
 0548. 📚 docs: write FAQ section
 0139. 📚 docs: document token refresh logic
+0902. ✨ feat: enable dark mode toggle
