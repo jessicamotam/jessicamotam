@@ -872,3 +872,4 @@
 0789. ✨ feat: create admin dashboard
 0239. 🎨 style: standardize quote style
 0958. 🐛 fix: prevent crash on empty input
+0436. ✅ test: add integration test for /submit endpoint
