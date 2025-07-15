@@ -62802,3 +62802,4 @@
 0281. ✨ feat: support email verification
 0875. ✅ test: increase coverage on auth module
 0394. 🚀 perf: lazy-load components
+0535. 📚 docs: write FAQ section
