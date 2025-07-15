@@ -65139,3 +65139,4 @@
 0241. 📚 docs: add API usage examples
 0212. 🎨 style: standardize quote style
 0765. ♻️ chore: clean up unused files
+0121. ✨ feat: support email verification
