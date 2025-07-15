@@ -1037,3 +1037,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0572. ✨ feat: add user authentication
 0134. ✨ feat: implement quiz timer feature
+0649. 📚 docs: update README with setup steps
