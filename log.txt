@@ -137,3 +137,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 1000. ✅ test: increase coverage on auth module
 0577. ✨ feat: implement quiz timer feature
+0483. 📚 docs: update README with setup steps
