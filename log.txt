@@ -23755,3 +23755,4 @@
 0099. 🚀 perf: reduce image load time
 0281. ✨ feat: support email verification
 0744. 🔧 refactor: remove redundant code blocks
+0863. 🐛 fix: correct typo in registration form
