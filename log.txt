@@ -43354,3 +43354,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0253. 📚 docs: update README with setup steps
 0085. ✨ feat: support email verification
+0603. 🐛 fix: fix broken CSS in mobile view
