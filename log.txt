@@ -40178,3 +40178,4 @@
 0618. ✨ feat: support email verification
 0402. 🎨 style: reformat files with black
 0599. ✅ test: test user registration edge cases
+0562. 🔧 refactor: clean up auth middleware
