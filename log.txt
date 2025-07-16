@@ -56474,3 +56474,4 @@
 0661. ✅ test: add integration test for /submit endpoint
 0923. ✨ feat: support email verification
 0830. 🎨 style: apply consistent indentation
+0892. ✅ test: add unit test for quiz service
