@@ -34362,3 +34362,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0917. ✅ test: add integration test for /submit endpoint
 0442. 🎨 style: standardize quote style
+0546. 🐛 fix: fix null pointer exception on login
