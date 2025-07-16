@@ -77079,3 +77079,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0862. ♻️ chore: bump dependencies
 0843. 📚 docs: document token refresh logic
+0762. 🚀 perf: lazy-load components
