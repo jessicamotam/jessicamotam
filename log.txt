@@ -3455,3 +3455,4 @@
 0742. 📚 docs: clarify environment setup
 0964. ♻️ chore: clean up unused files
 0377. ✨ feat: add user authentication
+0507. 🔧 refactor: clean up auth middleware
