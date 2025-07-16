@@ -16625,3 +16625,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0440. 📚 docs: update README with setup steps
 0951. 🎨 style: rename variables for clarity
+0747. 🔧 refactor: clean up auth middleware
