@@ -77413,3 +77413,4 @@
 0236. 🔧 refactor: remove redundant code blocks
 0432. 🎨 style: apply consistent indentation
 0106. 🎨 style: reformat files with black
+0997. ✅ test: increase coverage on auth module
