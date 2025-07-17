@@ -16122,3 +16122,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0292. 📚 docs: clarify environment setup
 0270. ♻️ chore: rename env.example
+0440. 📚 docs: update README with setup steps
