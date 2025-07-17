@@ -84924,3 +84924,4 @@
 0626. 🎨 style: standardize quote style
 0838. 🎨 style: standardize quote style
 0506. 🐛 fix: handle 500 error in quiz API
+0297. 🎨 style: remove trailing whitespace
