@@ -50056,3 +50056,4 @@
 0906. 📚 docs: add API usage examples
 0114. ♻️ chore: update .gitignore
 0465. 🎨 style: rename variables for clarity
+0158. 📚 docs: clarify environment setup
