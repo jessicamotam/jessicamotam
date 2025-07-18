@@ -44339,3 +44339,4 @@
 0543. ✨ feat: support email verification
 0677. 📚 docs: add API usage examples
 0409. 🚀 perf: lazy-load components
+0583. ✅ test: increase coverage on auth module
