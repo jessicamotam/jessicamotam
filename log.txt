@@ -18501,3 +18501,4 @@
 0697. ♻️ chore: bump dependencies
 0002. 🚀 perf: cache repeated calculations
 0735. ♻️ chore: add GitHub actions badge
+0400. 🐛 fix: fix null pointer exception on login
