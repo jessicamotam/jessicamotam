@@ -27900,3 +27900,4 @@
 0045. 🎨 style: apply consistent indentation
 0797. 📚 docs: add API usage examples
 0391. 🐛 fix: fix null pointer exception on login
+0923. ✨ feat: support email verification
