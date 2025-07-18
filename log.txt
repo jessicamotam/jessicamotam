@@ -18165,3 +18165,4 @@
 0928. 🎨 style: apply consistent indentation
 0584. 🚀 perf: lazy-load components
 0160. ♻️ chore: bump dependencies
+0428. 🐛 fix: fix null pointer exception on login
