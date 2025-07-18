@@ -73674,3 +73674,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0745. ✅ test: add unit test for quiz service
 0881. 🔧 refactor: split large controller into smaller functions
+0036. 🔧 refactor: clean up auth middleware
