@@ -32627,3 +32627,4 @@
 0722. 📚 docs: add API usage examples
 0290. ✅ test: test user registration edge cases
 0263. 📚 docs: add API usage examples
+0116. ✨ feat: support email verification
