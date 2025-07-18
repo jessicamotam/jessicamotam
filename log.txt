@@ -63056,3 +63056,4 @@
 0482. ✨ feat: add export to CSV option
 0724. ✅ test: mock database connection in test suite
 0396. 🔧 refactor: split large controller into smaller functions
+0625. 🐛 fix: handle 500 error in quiz API
