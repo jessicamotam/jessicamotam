@@ -7193,3 +7193,4 @@
 0447. ♻️ chore: bump dependencies
 0158. 📚 docs: clarify environment setup
 0978. 🐛 fix: prevent crash on empty input
+0922. 📚 docs: write FAQ section
