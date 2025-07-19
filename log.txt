@@ -25382,3 +25382,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0975. 🎨 style: apply consistent indentation
 0247. 🎨 style: apply consistent indentation
+0205. 📚 docs: update README with setup steps
