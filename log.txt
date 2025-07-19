@@ -49113,3 +49113,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0295. 🎨 style: remove trailing whitespace
 0133. 🐛 fix: fix null pointer exception on login
+0200. 🐛 fix: handle 500 error in quiz API
