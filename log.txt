@@ -71234,3 +71234,4 @@
 0018. 🔧 refactor: organize models into subfolders
 0679. ♻️ chore: bump dependencies
 0096. 🐛 fix: prevent crash on empty input
+0547. 📚 docs: write FAQ section
