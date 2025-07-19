@@ -61824,3 +61824,4 @@
 0354. 📚 docs: add API usage examples
 0498. ✅ test: mock database connection in test suite
 1000. ✅ test: increase coverage on auth module
+0698. 🐛 fix: handle 500 error in quiz API
