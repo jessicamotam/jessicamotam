@@ -41572,3 +41572,4 @@
 0592. 📚 docs: add API usage examples
 0549. ✨ feat: enable dark mode toggle
 0095. ✅ test: mock database connection in test suite
+0940. 📚 docs: document token refresh logic
