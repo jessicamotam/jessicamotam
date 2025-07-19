@@ -78758,3 +78758,4 @@
 0990. ♻️ chore: rename env.example
 0485. 📚 docs: update README with setup steps
 0320. 📚 docs: update README with setup steps
+0636. ✅ test: increase coverage on auth module
