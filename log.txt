@@ -88345,3 +88345,4 @@
 0483. 📚 docs: update README with setup steps
 0501. ✨ feat: add export to CSV option
 0068. 🐛 fix: fix null pointer exception on login
+0262. 🎨 style: remove trailing whitespace
