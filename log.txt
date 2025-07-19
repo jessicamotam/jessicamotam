@@ -88362,3 +88362,4 @@
 0357. ✅ test: add unit test for quiz service
 0871. ✅ test: add integration test for /submit endpoint
 0361. ✨ feat: support email verification
+0679. ♻️ chore: bump dependencies
