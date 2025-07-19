@@ -56831,3 +56831,4 @@
 0080. ✨ feat: support email verification
 0778. 📚 docs: write FAQ section
 0975. 🎨 style: apply consistent indentation
+0175. 📚 docs: add API usage examples
