@@ -12742,3 +12742,4 @@
 0572. ✨ feat: add user authentication
 0051. ✨ feat: enable dark mode toggle
 0442. 🎨 style: standardize quote style
+0544. 🔧 refactor: organize models into subfolders
