@@ -55823,3 +55823,4 @@
 0846. ✨ feat: implement quiz timer feature
 0173. 🚀 perf: cache repeated calculations
 0174. 📚 docs: clarify environment setup
+0947. 📚 docs: write FAQ section
