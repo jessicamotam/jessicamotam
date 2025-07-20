@@ -33724,3 +33724,4 @@
 0021. ✨ feat: support email verification
 0761. ✅ test: add unit test for quiz service
 0222. 🐛 fix: handle 500 error in quiz API
+0234. ♻️ chore: rename env.example
