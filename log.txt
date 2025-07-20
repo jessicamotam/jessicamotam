@@ -29267,3 +29267,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0829. 🔧 refactor: organize models into subfolders
 0130. 🔧 refactor: split large controller into smaller functions
+0791. 🔧 refactor: clean up auth middleware
