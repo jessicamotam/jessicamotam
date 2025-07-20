@@ -46200,3 +46200,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0555. ✨ feat: create admin dashboard
 0935. 📚 docs: update README with setup steps
+0451. ✨ feat: support email verification
