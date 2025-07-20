@@ -9834,3 +9834,4 @@
 0121. ✨ feat: support email verification
 0887. 📚 docs: add API usage examples
 0648. ♻️ chore: bump dependencies
+0330. ✅ test: test user registration edge cases
