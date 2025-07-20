@@ -6741,3 +6741,4 @@
 0611. ✅ test: test user registration edge cases
 0045. 🎨 style: apply consistent indentation
 0304. 🔧 refactor: remove redundant code blocks
+0868. ✅ test: add unit test for quiz service
