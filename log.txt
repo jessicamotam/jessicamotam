@@ -31238,3 +31238,4 @@
 0624. ✅ test: add unit test for quiz service
 0160. ♻️ chore: bump dependencies
 0929. ✨ feat: support email verification
+0752. ✅ test: add integration test for /submit endpoint
