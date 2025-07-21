@@ -85719,3 +85719,4 @@
 0412. ✅ test: increase coverage on auth module
 0781. 🚀 perf: reduce image load time
 0464. 🎨 style: remove trailing whitespace
+0720. ✨ feat: add export to CSV option
