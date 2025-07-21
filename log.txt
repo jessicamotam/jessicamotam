@@ -42686,3 +42686,4 @@
 0239. 🎨 style: standardize quote style
 0596. ♻️ chore: update .gitignore
 0090. ✅ test: increase coverage on auth module
+0222. 🐛 fix: handle 500 error in quiz API
