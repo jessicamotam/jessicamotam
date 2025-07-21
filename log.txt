@@ -9223,3 +9223,4 @@
 0503. ♻️ chore: rename env.example
 0081. 🐛 fix: fix null pointer exception on login
 0912. 📚 docs: document token refresh logic
+0762. 🚀 perf: lazy-load components
