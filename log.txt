@@ -80690,3 +80690,4 @@
 0841. 🚀 perf: optimize database query for quiz results
 0518. ✨ feat: support email verification
 0293. ✅ test: add integration test for /submit endpoint
+0981. 🚀 perf: lazy-load components
