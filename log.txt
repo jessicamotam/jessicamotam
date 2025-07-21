@@ -8034,3 +8034,4 @@
 0019. ✨ feat: enable dark mode toggle
 0642. 🚀 perf: optimize database query for quiz results
 0264. 🚀 perf: optimize database query for quiz results
+0977. 🔧 refactor: organize models into subfolders
