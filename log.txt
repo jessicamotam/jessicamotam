@@ -77876,3 +77876,4 @@
 0635. 🎨 style: apply consistent indentation
 0588. 🔧 refactor: organize models into subfolders
 0249. ✅ test: increase coverage on auth module
+0868. ✅ test: add unit test for quiz service
