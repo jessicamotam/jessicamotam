@@ -86441,3 +86441,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0592. 📚 docs: add API usage examples
 0745. ✅ test: add unit test for quiz service
+0860. 🔧 refactor: organize models into subfolders
