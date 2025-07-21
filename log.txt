@@ -48040,3 +48040,4 @@
 0295. 🎨 style: remove trailing whitespace
 0570. 🎨 style: apply consistent indentation
 0367. 🐛 fix: fix null pointer exception on login
+0888. 🚀 perf: lazy-load components
