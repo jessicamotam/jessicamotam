@@ -32286,3 +32286,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0351. ✨ feat: add export to CSV option
 0709. ♻️ chore: bump dependencies
+0270. ♻️ chore: rename env.example
