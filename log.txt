@@ -86941,3 +86941,4 @@
 0640. ♻️ chore: bump dependencies
 0766. 🎨 style: reformat files with black
 0849. 🐛 fix: correct typo in registration form
+0250. 📚 docs: update README with setup steps
