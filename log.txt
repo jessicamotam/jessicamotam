@@ -53031,3 +53031,4 @@
 0189. 📚 docs: clarify environment setup
 0069. 🎨 style: rename variables for clarity
 0935. 📚 docs: update README with setup steps
+0981. 🚀 perf: lazy-load components
