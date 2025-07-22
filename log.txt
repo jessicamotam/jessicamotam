@@ -70256,3 +70256,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0307. ✨ feat: support email verification
 0261. 🔧 refactor: refactor quiz grading logic
+0776. ✅ test: add integration test for /submit endpoint
