@@ -81984,3 +81984,4 @@
 0177. 📚 docs: add API usage examples
 0982. 🚀 perf: lazy-load components
 0823. ✨ feat: add user authentication
+0949. 📚 docs: write FAQ section
