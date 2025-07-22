@@ -8417,3 +8417,4 @@
 0670. ✨ feat: add export to CSV option
 0712. 🎨 style: apply consistent indentation
 0064. 📚 docs: clarify environment setup
+0477. 🐛 fix: fix broken CSS in mobile view
