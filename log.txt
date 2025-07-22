@@ -56838,3 +56838,4 @@
 0219. ✅ test: increase coverage on auth module
 0171. 🐛 fix: fix broken CSS in mobile view
 0756. ✨ feat: support email verification
+0408. ♻️ chore: add GitHub actions badge
