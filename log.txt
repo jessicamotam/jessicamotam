@@ -45062,3 +45062,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0100. ♻️ chore: update .gitignore
 0090. ✅ test: increase coverage on auth module
+0063. 🐛 fix: handle 500 error in quiz API
