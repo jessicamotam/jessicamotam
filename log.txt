@@ -46097,3 +46097,4 @@
 0264. 🚀 perf: optimize database query for quiz results
 0846. ✨ feat: implement quiz timer feature
 0632. 🎨 style: remove trailing whitespace
+0206. 🐛 fix: handle 500 error in quiz API
