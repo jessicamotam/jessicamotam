@@ -55184,3 +55184,4 @@
 0960. ✅ test: increase coverage on auth module
 0208. 🔧 refactor: clean up auth middleware
 0485. 📚 docs: update README with setup steps
+0564. 📚 docs: clarify environment setup
