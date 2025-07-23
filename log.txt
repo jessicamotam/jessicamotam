@@ -39983,3 +39983,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0536. ✨ feat: add user authentication
 0361. ✨ feat: support email verification
+0563. 📚 docs: clarify environment setup
