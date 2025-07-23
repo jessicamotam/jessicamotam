@@ -8384,3 +8384,4 @@
 0594. 🎨 style: reformat files with black
 0970. ♻️ chore: update .gitignore
 0198. 📚 docs: clarify environment setup
+0496. ✅ test: add integration test for /submit endpoint
