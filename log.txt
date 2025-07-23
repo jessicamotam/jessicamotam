@@ -20147,3 +20147,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0364. 🐛 fix: resolve issue with date parsing
 0696. 🔧 refactor: clean up auth middleware
+0159. 🚀 perf: lazy-load components
