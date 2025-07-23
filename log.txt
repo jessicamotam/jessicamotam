@@ -81885,3 +81885,4 @@
 0471. ✨ feat: support email verification
 0314. ✨ feat: implement quiz timer feature
 0100. ♻️ chore: update .gitignore
+0059. ♻️ chore: bump dependencies
