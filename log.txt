@@ -49360,3 +49360,4 @@
 0385. ♻️ chore: clean up unused files
 0809. ♻️ chore: rename env.example
 0854. ♻️ chore: rename env.example
+0220. 🐛 fix: fix null pointer exception on login
