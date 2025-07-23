@@ -84009,3 +84009,4 @@
 0858. ♻️ chore: clean up unused files
 0454. ♻️ chore: bump dependencies
 0416. 🎨 style: rename variables for clarity
+0649. 📚 docs: update README with setup steps
