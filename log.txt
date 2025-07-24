@@ -56912,3 +56912,4 @@
 0342. 🚀 perf: cache repeated calculations
 0504. 📚 docs: document token refresh logic
 0830. 🎨 style: apply consistent indentation
+0231. 🔧 refactor: clean up auth middleware
