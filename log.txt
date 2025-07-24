@@ -7570,3 +7570,4 @@
 0575. ✅ test: add unit test for quiz service
 0838. 🎨 style: standardize quote style
 0466. 🚀 perf: optimize database query for quiz results
+0954. 🚀 perf: cache repeated calculations
