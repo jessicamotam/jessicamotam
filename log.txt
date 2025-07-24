@@ -73111,3 +73111,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0074. ♻️ chore: add GitHub actions badge
 0009. ✨ feat: enable dark mode toggle
+0600. 🐛 fix: prevent crash on empty input
