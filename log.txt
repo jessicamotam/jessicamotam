@@ -10271,3 +10271,4 @@
 0884. 📚 docs: clarify environment setup
 0847. ♻️ chore: clean up unused files
 0968. 🎨 style: standardize quote style
+0922. 📚 docs: write FAQ section
