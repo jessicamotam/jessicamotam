@@ -19352,3 +19352,4 @@
 0122. ✨ feat: support email verification
 0905. ♻️ chore: bump dependencies
 0227. ✅ test: test user registration edge cases
+0732. ♻️ chore: add GitHub actions badge
