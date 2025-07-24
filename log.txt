@@ -40152,3 +40152,4 @@
 0007. 🎨 style: rename variables for clarity
 0398. 🚀 perf: cache repeated calculations
 0335. ♻️ chore: update .gitignore
+0790. 📚 docs: write FAQ section
