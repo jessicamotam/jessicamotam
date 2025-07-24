@@ -62620,3 +62620,4 @@
 0377. ✨ feat: add user authentication
 0536. ✨ feat: add user authentication
 0257. 📚 docs: clarify environment setup
+0397. 🐛 fix: handle 500 error in quiz API
