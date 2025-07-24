@@ -80915,3 +80915,4 @@
 0205. 📚 docs: update README with setup steps
 0810. 🔧 refactor: refactor quiz grading logic
 0435. ✅ test: add unit test for quiz service
+0359. 🔧 refactor: clean up auth middleware
