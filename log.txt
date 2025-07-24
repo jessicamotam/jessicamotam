@@ -36331,3 +36331,4 @@
 0158. 📚 docs: clarify environment setup
 0055. 📚 docs: update README with setup steps
 0593. 🐛 fix: correct typo in registration form
+0611. ✅ test: test user registration edge cases
