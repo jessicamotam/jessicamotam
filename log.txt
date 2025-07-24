@@ -81928,3 +81928,4 @@
 0823. ✨ feat: add user authentication
 0960. ✅ test: increase coverage on auth module
 0824. 🚀 perf: lazy-load components
+0525. ✅ test: mock database connection in test suite
