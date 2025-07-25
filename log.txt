@@ -69991,3 +69991,4 @@
 0115. 🚀 perf: reduce image load time
 0591. ♻️ chore: clean up unused files
 0096. 🐛 fix: prevent crash on empty input
+0709. ♻️ chore: bump dependencies
