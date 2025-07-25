@@ -19501,3 +19501,4 @@
 0199. ✨ feat: create admin dashboard
 0482. ✨ feat: add export to CSV option
 0659. 📚 docs: add API usage examples
+0041. 🐛 fix: fix broken CSS in mobile view
