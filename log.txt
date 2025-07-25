@@ -73602,3 +73602,4 @@
 0632. 🎨 style: remove trailing whitespace
 0723. 🔧 refactor: remove redundant code blocks
 0196. ♻️ chore: bump dependencies
+0235. 🐛 fix: fix null pointer exception on login
