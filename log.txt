@@ -5950,3 +5950,4 @@
 0665. ♻️ chore: update .gitignore
 0111. 📚 docs: update README with setup steps
 0974. ✨ feat: add export to CSV option
+0937. 🐛 fix: handle 500 error in quiz API
