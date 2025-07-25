@@ -46875,3 +46875,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0860. 🔧 refactor: organize models into subfolders
 0970. ♻️ chore: update .gitignore
+0859. ✨ feat: create admin dashboard
