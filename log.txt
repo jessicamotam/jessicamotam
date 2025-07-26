@@ -59116,3 +59116,4 @@
 0308. 🚀 perf: reduce image load time
 0798. 🚀 perf: reduce image load time
 0118. 🚀 perf: reduce image load time
+0503. ♻️ chore: rename env.example
