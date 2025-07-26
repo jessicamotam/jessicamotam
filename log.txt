@@ -34291,3 +34291,4 @@
 0708. ✅ test: add integration test for /submit endpoint
 0225. 🚀 perf: reduce image load time
 0765. ♻️ chore: clean up unused files
+0935. 📚 docs: update README with setup steps
