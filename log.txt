@@ -12689,3 +12689,4 @@
 0303. 🎨 style: rename variables for clarity
 0693. 📚 docs: add API usage examples
 0879. 🎨 style: standardize quote style
+0558. ✨ feat: enable dark mode toggle
