@@ -35454,3 +35454,4 @@
 0055. 📚 docs: update README with setup steps
 0846. ✨ feat: implement quiz timer feature
 0357. ✅ test: add unit test for quiz service
+0982. 🚀 perf: lazy-load components
