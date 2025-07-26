@@ -89709,3 +89709,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0227. ✅ test: test user registration edge cases
 0677. 📚 docs: add API usage examples
+0253. 📚 docs: update README with setup steps
