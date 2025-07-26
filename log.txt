@@ -50401,3 +50401,4 @@
 0117. ✅ test: increase coverage on auth module
 0615. 🐛 fix: correct typo in registration form
 0027. 📚 docs: clarify environment setup
+0131. 📚 docs: write FAQ section
