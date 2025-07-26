@@ -49931,3 +49931,4 @@
 0300. ✨ feat: add export to CSV option
 0676. 🐛 fix: prevent crash on empty input
 0720. ✨ feat: add export to CSV option
+0846. ✨ feat: implement quiz timer feature
