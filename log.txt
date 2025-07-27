@@ -25086,3 +25086,4 @@
 0461. ✨ feat: add user authentication
 0785. ✨ feat: enable dark mode toggle
 0093. ✅ test: add unit test for quiz service
+0208. 🔧 refactor: clean up auth middleware
