@@ -71875,3 +71875,4 @@
 0122. ✨ feat: support email verification
 0444. ✅ test: add unit test for quiz service
 0596. ♻️ chore: update .gitignore
+0605. ✨ feat: support email verification
