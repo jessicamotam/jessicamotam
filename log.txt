@@ -3014,3 +3014,4 @@
 0816. 🔧 refactor: organize models into subfolders
 0810. 🔧 refactor: refactor quiz grading logic
 0447. ♻️ chore: bump dependencies
+0783. 🐛 fix: handle 500 error in quiz API
