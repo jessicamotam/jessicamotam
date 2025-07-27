@@ -3299,3 +3299,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0900. 🐛 fix: handle 500 error in quiz API
 0985. 📚 docs: document token refresh logic
+0511. 🐛 fix: fix broken CSS in mobile view
