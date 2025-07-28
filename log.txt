@@ -353,3 +353,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0835. 🐛 fix: prevent crash on empty input
 0834. ✅ test: increase coverage on auth module
+0428. 🐛 fix: fix null pointer exception on login
