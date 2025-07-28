@@ -68378,3 +68378,4 @@
 0194. 🎨 style: standardize quote style
 0645. 🐛 fix: resolve issue with date parsing
 0314. ✨ feat: implement quiz timer feature
+0063. 🐛 fix: handle 500 error in quiz API
