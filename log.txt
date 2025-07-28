@@ -68280,3 +68280,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0381. ♻️ chore: clean up unused files
 0100. ♻️ chore: update .gitignore
+0224. 🐛 fix: fix broken CSS in mobile view
