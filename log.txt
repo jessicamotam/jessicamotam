@@ -65233,3 +65233,4 @@
 0525. ✅ test: mock database connection in test suite
 0410. 🎨 style: reformat files with black
 0450. 🐛 fix: fix broken CSS in mobile view
+0263. 📚 docs: add API usage examples
