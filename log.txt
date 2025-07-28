@@ -80402,3 +80402,4 @@
 0570. 🎨 style: apply consistent indentation
 0929. ✨ feat: support email verification
 0861. ♻️ chore: clean up unused files
+0375. 🐛 fix: handle 500 error in quiz API
