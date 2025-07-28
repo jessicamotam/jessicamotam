@@ -25941,3 +25941,4 @@
 0610. 🚀 perf: lazy-load components
 0733. 🐛 fix: fix null pointer exception on login
 0295. 🎨 style: remove trailing whitespace
+0275. 🎨 style: standardize quote style
