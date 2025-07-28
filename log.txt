@@ -32797,3 +32797,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0010. ✨ feat: add user authentication
 0251. ♻️ chore: update .gitignore
+0956. 📚 docs: clarify environment setup
