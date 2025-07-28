@@ -21698,3 +21698,4 @@
 0042. 📚 docs: document token refresh logic
 0393. 🚀 perf: lazy-load components
 0178. ✨ feat: support email verification
+0585. 🚀 perf: lazy-load components
