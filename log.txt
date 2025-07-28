@@ -21643,3 +21643,4 @@
 0295. 🎨 style: remove trailing whitespace
 0123. ✨ feat: implement quiz timer feature
 0770. ♻️ chore: rename env.example
+0579. 📚 docs: clarify environment setup
