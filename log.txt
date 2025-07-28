@@ -73761,3 +73761,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0063. 🐛 fix: handle 500 error in quiz API
 0422. 🔧 refactor: organize models into subfolders
+0448. 🐛 fix: correct typo in registration form
