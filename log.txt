@@ -9168,3 +9168,4 @@
 0553. 🐛 fix: correct typo in registration form
 0913. 🚀 perf: optimize database query for quiz results
 0733. 🐛 fix: fix null pointer exception on login
+0614. 🚀 perf: reduce image load time
