@@ -85462,3 +85462,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0230. ✨ feat: create admin dashboard
 0326. 🚀 perf: cache repeated calculations
+0772. 🐛 fix: fix null pointer exception on login
