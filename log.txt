@@ -2965,3 +2965,4 @@
 0617. ✨ feat: support email verification
 0752. ✅ test: add integration test for /submit endpoint
 0565. ♻️ chore: add GitHub actions badge
+0960. ✅ test: increase coverage on auth module
