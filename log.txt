@@ -24308,3 +24308,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0940. 📚 docs: document token refresh logic
 0680. ♻️ chore: add GitHub actions badge
+0320. 📚 docs: update README with setup steps
