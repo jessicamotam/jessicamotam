@@ -72970,3 +72970,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0552. 🐛 fix: fix null pointer exception on login
 0447. ♻️ chore: bump dependencies
+0754. 🐛 fix: handle 500 error in quiz API
