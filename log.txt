@@ -75111,3 +75111,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0301. 🎨 style: apply consistent indentation
 0955. 🔧 refactor: remove redundant code blocks
+0329. 📚 docs: update README with setup steps
