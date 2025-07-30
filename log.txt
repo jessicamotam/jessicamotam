@@ -73225,3 +73225,4 @@
 0776. ✅ test: add integration test for /submit endpoint
 0923. ✨ feat: support email verification
 0656. 🎨 style: apply consistent indentation
+0763. 🔧 refactor: organize models into subfolders
