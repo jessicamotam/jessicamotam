@@ -38522,3 +38522,4 @@
 0594. 🎨 style: reformat files with black
 0221. ✨ feat: add user authentication
 0108. 🎨 style: remove trailing whitespace
+0725. 🚀 perf: lazy-load components
