@@ -72280,3 +72280,4 @@
 0970. ♻️ chore: update .gitignore
 0522. 🐛 fix: handle 500 error in quiz API
 0892. ✅ test: add unit test for quiz service
+0538. 🐛 fix: fix broken CSS in mobile view
