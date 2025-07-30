@@ -86303,3 +86303,4 @@
 0908. ♻️ chore: bump dependencies
 0672. 🐛 fix: fix broken CSS in mobile view
 0279. ✨ feat: support email verification
+0177. 📚 docs: add API usage examples
