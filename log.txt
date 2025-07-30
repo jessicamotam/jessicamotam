@@ -48612,3 +48612,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0300. ✨ feat: add export to CSV option
 0978. 🐛 fix: prevent crash on empty input
+0249. ✅ test: increase coverage on auth module
