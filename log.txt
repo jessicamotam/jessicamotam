@@ -29752,3 +29752,4 @@
 0944. ✨ feat: add user authentication
 0997. ✅ test: increase coverage on auth module
 0435. ✅ test: add unit test for quiz service
+0848. 📚 docs: update README with setup steps
