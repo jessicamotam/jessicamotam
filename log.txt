@@ -19269,3 +19269,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0986. 📚 docs: document token refresh logic
 0454. ♻️ chore: bump dependencies
+0388. 🎨 style: reformat files with black
