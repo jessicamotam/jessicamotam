@@ -25778,3 +25778,4 @@
 0023. 📚 docs: clarify environment setup
 0984. ♻️ chore: clean up unused files
 0475. 🔧 refactor: clean up auth middleware
+0157. ✅ test: mock database connection in test suite
