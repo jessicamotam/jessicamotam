@@ -32229,3 +32229,4 @@
 0054. ♻️ chore: update .gitignore
 0398. 🚀 perf: cache repeated calculations
 0318. 🔧 refactor: refactor quiz grading logic
+0929. ✨ feat: support email verification
