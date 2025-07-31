@@ -77779,3 +77779,4 @@
 0122. ✨ feat: support email verification
 0927. ♻️ chore: bump dependencies
 0018. 🔧 refactor: organize models into subfolders
+0751. 🐛 fix: handle 500 error in quiz API
