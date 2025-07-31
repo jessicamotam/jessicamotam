@@ -82011,3 +82011,4 @@
 0508. ✅ test: add unit test for quiz service
 0477. 🐛 fix: fix broken CSS in mobile view
 0111. 📚 docs: update README with setup steps
+0400. 🐛 fix: fix null pointer exception on login
