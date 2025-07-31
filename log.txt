@@ -88374,3 +88374,4 @@
 0709. ♻️ chore: bump dependencies
 0202. 🔧 refactor: refactor quiz grading logic
 0689. 🎨 style: reformat files with black
+0041. 🐛 fix: fix broken CSS in mobile view
