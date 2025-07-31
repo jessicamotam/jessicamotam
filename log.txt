@@ -47523,3 +47523,4 @@
 0057. 🚀 perf: optimize database query for quiz results
 0696. 🔧 refactor: clean up auth middleware
 0123. ✨ feat: implement quiz timer feature
+0784. ♻️ chore: clean up unused files
