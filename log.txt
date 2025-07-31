@@ -2298,3 +2298,4 @@
 0981. 🚀 perf: lazy-load components
 0209. ✨ feat: implement quiz timer feature
 0978. 🐛 fix: prevent crash on empty input
+0980. 🎨 style: reformat files with black
