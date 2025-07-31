@@ -48053,3 +48053,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0054. ♻️ chore: update .gitignore
 0542. 🔧 refactor: organize models into subfolders
+0937. 🐛 fix: handle 500 error in quiz API
