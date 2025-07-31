@@ -42576,3 +42576,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0005. ✅ test: add unit test for quiz service
 0704. 🚀 perf: cache repeated calculations
+0246. ✅ test: add integration test for /submit endpoint
