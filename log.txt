@@ -40384,3 +40384,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0349. ✅ test: increase coverage on auth module
 0538. 🐛 fix: fix broken CSS in mobile view
+0543. ✨ feat: support email verification
