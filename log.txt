@@ -31907,3 +31907,4 @@
 0706. ✨ feat: support email verification
 0071. 🔧 refactor: refactor quiz grading logic
 0987. ✨ feat: create admin dashboard
+0997. ✅ test: increase coverage on auth module
