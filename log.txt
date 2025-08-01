@@ -81126,3 +81126,4 @@
 0055. 📚 docs: update README with setup steps
 0206. 🐛 fix: handle 500 error in quiz API
 0163. ✨ feat: implement quiz timer feature
+0203. 🚀 perf: lazy-load components
