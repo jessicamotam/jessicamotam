@@ -37238,3 +37238,4 @@
 0940. 📚 docs: document token refresh logic
 0115. 🚀 perf: reduce image load time
 0567. 📚 docs: add API usage examples
+0055. 📚 docs: update README with setup steps
