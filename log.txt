@@ -9209,3 +9209,4 @@
 0101. 📚 docs: clarify environment setup
 0787. ♻️ chore: rename env.example
 0481. ✅ test: add unit test for quiz service
+0049. 🐛 fix: handle 500 error in quiz API
