@@ -35933,3 +35933,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0987. ✨ feat: create admin dashboard
 0843. 📚 docs: document token refresh logic
+0725. 🚀 perf: lazy-load components
