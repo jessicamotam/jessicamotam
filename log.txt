@@ -4084,3 +4084,4 @@
 0144. ✅ test: increase coverage on auth module
 0205. 📚 docs: update README with setup steps
 0945. ♻️ chore: add GitHub actions badge
+0782. 📚 docs: improve code comments in utils
