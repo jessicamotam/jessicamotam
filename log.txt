@@ -43908,3 +43908,4 @@
 0577. ✨ feat: implement quiz timer feature
 0670. ✨ feat: add export to CSV option
 0818. 🔧 refactor: remove redundant code blocks
+0461. ✨ feat: add user authentication
