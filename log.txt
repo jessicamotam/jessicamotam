@@ -76098,3 +76098,4 @@
 0969. ✨ feat: create admin dashboard
 0670. ✨ feat: add export to CSV option
 0127. 🐛 fix: fix null pointer exception on login
+0556. ✨ feat: support email verification
