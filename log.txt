@@ -82076,3 +82076,4 @@
 0257. 📚 docs: clarify environment setup
 0100. ♻️ chore: update .gitignore
 0336. ✨ feat: add export to CSV option
+0349. ✅ test: increase coverage on auth module
