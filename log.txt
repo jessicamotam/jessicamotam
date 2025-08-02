@@ -41819,3 +41819,4 @@
 0186. ✅ test: test user registration edge cases
 0565. ♻️ chore: add GitHub actions badge
 0375. 🐛 fix: handle 500 error in quiz API
+0321. 🔧 refactor: organize models into subfolders
