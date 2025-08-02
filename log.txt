@@ -56645,3 +56645,4 @@
 0275. 🎨 style: standardize quote style
 0553. 🐛 fix: correct typo in registration form
 0437. 📚 docs: clarify environment setup
+0569. 📚 docs: document token refresh logic
