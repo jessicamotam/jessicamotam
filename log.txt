@@ -47562,3 +47562,4 @@
 0858. ♻️ chore: clean up unused files
 0536. ✨ feat: add user authentication
 0176. 🔧 refactor: remove redundant code blocks
+0430. 🐛 fix: fix null pointer exception on login
