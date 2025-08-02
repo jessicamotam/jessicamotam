@@ -24939,3 +24939,4 @@
 0449. ✅ test: add unit test for quiz service
 0225. 🚀 perf: reduce image load time
 0792. 🎨 style: standardize quote style
+0880. 🐛 fix: fix broken CSS in mobile view
