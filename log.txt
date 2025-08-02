@@ -36265,3 +36265,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0629. 🔧 refactor: organize models into subfolders
 0089. 🔧 refactor: remove redundant code blocks
+0400. 🐛 fix: fix null pointer exception on login
