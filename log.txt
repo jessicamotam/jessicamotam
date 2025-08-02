@@ -16350,3 +16350,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0018. 🔧 refactor: organize models into subfolders
 0842. 🎨 style: remove trailing whitespace
+0970. ♻️ chore: update .gitignore
