@@ -2670,3 +2670,4 @@
 0482. ✨ feat: add export to CSV option
 0673. 🐛 fix: correct typo in registration form
 0102. ✨ feat: support email verification
+0673. 🐛 fix: correct typo in registration form
