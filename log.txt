@@ -21214,3 +21214,4 @@
 0454. ♻️ chore: bump dependencies
 0299. 🐛 fix: resolve issue with date parsing
 0135. ✅ test: test user registration edge cases
+0875. ✅ test: increase coverage on auth module
