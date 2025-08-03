@@ -78198,3 +78198,4 @@
 0357. ✅ test: add unit test for quiz service
 0082. 🔧 refactor: refactor quiz grading logic
 0081. 🐛 fix: fix null pointer exception on login
+0447. ♻️ chore: bump dependencies
