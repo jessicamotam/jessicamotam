@@ -24625,3 +24625,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0799. ♻️ chore: clean up unused files
 0171. 🐛 fix: fix broken CSS in mobile view
+0059. ♻️ chore: bump dependencies
