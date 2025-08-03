@@ -21497,3 +21497,4 @@
 0778. 📚 docs: write FAQ section
 0646. ✅ test: test user registration edge cases
 0570. 🎨 style: apply consistent indentation
+0235. 🐛 fix: fix null pointer exception on login
