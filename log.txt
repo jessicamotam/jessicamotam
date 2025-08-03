@@ -66926,3 +66926,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0580. ♻️ chore: bump dependencies
 0567. 📚 docs: add API usage examples
+0897. 🐛 fix: prevent crash on empty input
