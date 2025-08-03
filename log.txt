@@ -15550,3 +15550,4 @@
 0739. 🎨 style: remove trailing whitespace
 0869. ♻️ chore: bump dependencies
 0058. ♻️ chore: add GitHub actions badge
+0552. 🐛 fix: fix null pointer exception on login
