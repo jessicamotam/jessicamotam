@@ -14319,3 +14319,4 @@
 0618. ✨ feat: support email verification
 0787. ♻️ chore: rename env.example
 0468. 📚 docs: update README with setup steps
+0106. 🎨 style: reformat files with black
