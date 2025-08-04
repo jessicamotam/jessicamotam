@@ -62830,3 +62830,4 @@
 0535. 📚 docs: write FAQ section
 0571. 🔧 refactor: clean up auth middleware
 0005. ✅ test: add unit test for quiz service
+0258. 🐛 fix: prevent crash on empty input
