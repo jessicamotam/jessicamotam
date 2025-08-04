@@ -79806,3 +79806,4 @@
 0987. ✨ feat: create admin dashboard
 0023. 📚 docs: clarify environment setup
 0698. 🐛 fix: handle 500 error in quiz API
+0824. 🚀 perf: lazy-load components
