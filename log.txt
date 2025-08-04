@@ -59428,3 +59428,4 @@
 0580. ♻️ chore: bump dependencies
 0953. 🎨 style: remove trailing whitespace
 0301. 🎨 style: apply consistent indentation
+0900. 🐛 fix: handle 500 error in quiz API
