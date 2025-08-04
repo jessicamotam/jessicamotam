@@ -62313,3 +62313,4 @@
 0782. 📚 docs: improve code comments in utils
 0855. 🎨 style: reformat files with black
 0810. 🔧 refactor: refactor quiz grading logic
+0021. ✨ feat: support email verification
