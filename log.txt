@@ -11397,3 +11397,4 @@
 0075. ✅ test: mock database connection in test suite
 0095. ✅ test: mock database connection in test suite
 0942. ✅ test: increase coverage on auth module
+0908. ♻️ chore: bump dependencies
