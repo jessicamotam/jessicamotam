@@ -2630,3 +2630,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0749. ✨ feat: support email verification
 0095. ✅ test: mock database connection in test suite
+0971. 🎨 style: standardize quote style
