@@ -54628,3 +54628,4 @@
 0885. ♻️ chore: update .gitignore
 0271. ✅ test: add unit test for quiz service
 0710. 🐛 fix: fix broken CSS in mobile view
+0759. 🔧 refactor: organize models into subfolders
