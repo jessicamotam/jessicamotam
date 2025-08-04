@@ -87234,3 +87234,4 @@
 0198. 📚 docs: clarify environment setup
 0958. 🐛 fix: prevent crash on empty input
 0864. 🐛 fix: correct typo in registration form
+0778. 📚 docs: write FAQ section
