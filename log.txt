@@ -52795,3 +52795,4 @@
 0521. 🎨 style: standardize quote style
 0275. 🎨 style: standardize quote style
 0879. 🎨 style: standardize quote style
+0710. 🐛 fix: fix broken CSS in mobile view
