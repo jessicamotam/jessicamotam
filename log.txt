@@ -48883,3 +48883,4 @@
 0056. ♻️ chore: rename env.example
 0142. ✨ feat: implement quiz timer feature
 0617. ✨ feat: support email verification
+0136. 🚀 perf: lazy-load components
