@@ -10380,3 +10380,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0462. ♻️ chore: update .gitignore
 0439. 🐛 fix: correct typo in registration form
+0677. 📚 docs: add API usage examples
