@@ -55872,3 +55872,4 @@
 0915. 🚀 perf: cache repeated calculations
 0374. 🎨 style: standardize quote style
 0148. 🔧 refactor: organize models into subfolders
+0671. 🐛 fix: fix null pointer exception on login
