@@ -49315,3 +49315,4 @@
 0976. ✨ feat: implement quiz timer feature
 0641. 📚 docs: write FAQ section
 0506. 🐛 fix: handle 500 error in quiz API
+0901. ✨ feat: add user authentication
