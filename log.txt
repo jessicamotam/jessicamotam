@@ -31484,3 +31484,4 @@
 0586. 🎨 style: remove trailing whitespace
 0547. 📚 docs: write FAQ section
 0170. ✅ test: increase coverage on auth module
+0504. 📚 docs: document token refresh logic
