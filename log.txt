@@ -82652,3 +82652,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0233. 🚀 perf: lazy-load components
 0505. ♻️ chore: add GitHub actions badge
+0783. 🐛 fix: handle 500 error in quiz API
