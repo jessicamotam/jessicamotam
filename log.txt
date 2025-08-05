@@ -76688,3 +76688,4 @@
 0784. ♻️ chore: clean up unused files
 0329. 📚 docs: update README with setup steps
 0500. ✅ test: add integration test for /submit endpoint
+0590. 🐛 fix: fix null pointer exception on login
