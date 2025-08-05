@@ -17304,3 +17304,4 @@
 0213. ✅ test: add integration test for /submit endpoint
 0274. 🔧 refactor: refactor quiz grading logic
 0882. 🚀 perf: optimize database query for quiz results
+0761. ✅ test: add unit test for quiz service
