@@ -79472,3 +79472,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 0408. ♻️ chore: add GitHub actions badge
 0426. ✅ test: add integration test for /submit endpoint
+0231. 🔧 refactor: clean up auth middleware
