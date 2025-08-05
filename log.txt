@@ -14498,3 +14498,4 @@
 0244. ✨ feat: add export to CSV option
 0702. ✨ feat: add user authentication
 0622. 🎨 style: apply consistent indentation
+0287. 📚 docs: write FAQ section
