@@ -24279,3 +24279,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0646. ✅ test: test user registration edge cases
 0815. 🔧 refactor: split large controller into smaller functions
+0026. 🔧 refactor: clean up auth middleware
