@@ -2193,3 +2193,4 @@
 0269. ✅ test: test user registration edge cases
 0185. 📚 docs: write FAQ section
 0486. ✨ feat: add export to CSV option
+0399. ✅ test: mock database connection in test suite
