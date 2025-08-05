@@ -65945,3 +65945,4 @@
 0126. 🎨 style: rename variables for clarity
 0673. 🐛 fix: correct typo in registration form
 0481. ✅ test: add unit test for quiz service
+0546. 🐛 fix: fix null pointer exception on login
