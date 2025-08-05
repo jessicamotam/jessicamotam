@@ -25490,3 +25490,4 @@
 0326. 🚀 perf: cache repeated calculations
 0711. 🐛 fix: fix broken CSS in mobile view
 0581. ✅ test: add integration test for /submit endpoint
+0359. 🔧 refactor: clean up auth middleware
