@@ -67527,3 +67527,4 @@
 0048. 📚 docs: update README with setup steps
 0742. 📚 docs: clarify environment setup
 0856. 🐛 fix: fix null pointer exception on login
+0121. ✨ feat: support email verification
