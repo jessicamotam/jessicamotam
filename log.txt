@@ -63728,3 +63728,4 @@
 0061. ✨ feat: create admin dashboard
 0499. 🎨 style: reformat files with black
 0429. ✨ feat: add user authentication
+0335. ♻️ chore: update .gitignore
