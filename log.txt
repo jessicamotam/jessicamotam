@@ -501,3 +501,4 @@
 0348. ✅ test: test user registration edge cases
 0596. ♻️ chore: update .gitignore
 0287. 📚 docs: write FAQ section
+0978. 🐛 fix: prevent crash on empty input
