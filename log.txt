@@ -65999,3 +65999,4 @@
 0645. 🐛 fix: resolve issue with date parsing
 0637. 🎨 style: apply consistent indentation
 0680. ♻️ chore: add GitHub actions badge
+0613. 🐛 fix: prevent crash on empty input
