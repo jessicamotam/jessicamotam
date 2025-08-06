@@ -9828,3 +9828,4 @@
 0239. 🎨 style: standardize quote style
 0474. ✅ test: add unit test for quiz service
 0233. 🚀 perf: lazy-load components
+0834. ✅ test: increase coverage on auth module
