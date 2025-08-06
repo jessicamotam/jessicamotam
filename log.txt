@@ -69535,3 +69535,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0824. 🚀 perf: lazy-load components
 0801. ✨ feat: enable dark mode toggle
+0982. 🚀 perf: lazy-load components
