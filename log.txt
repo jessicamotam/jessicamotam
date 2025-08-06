@@ -77919,3 +77919,4 @@
 0686. 🎨 style: standardize quote style
 0967. ♻️ chore: add GitHub actions badge
 0027. 📚 docs: clarify environment setup
+0296. 🔧 refactor: organize models into subfolders
