@@ -5057,3 +5057,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0234. ♻️ chore: rename env.example
 0135. ✅ test: test user registration edge cases
+0731. 🎨 style: standardize quote style
