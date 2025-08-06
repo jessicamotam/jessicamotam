@@ -21764,3 +21764,4 @@
 0144. ✅ test: increase coverage on auth module
 0692. ✅ test: add integration test for /submit endpoint
 0937. 🐛 fix: handle 500 error in quiz API
+0690. 🚀 perf: lazy-load components
