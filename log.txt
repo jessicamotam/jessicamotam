@@ -26838,3 +26838,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0720. ✨ feat: add export to CSV option
 0735. ♻️ chore: add GitHub actions badge
+0902. ✨ feat: enable dark mode toggle
