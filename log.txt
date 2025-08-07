@@ -6843,3 +6843,4 @@
 0094. 📚 docs: document token refresh logic
 0054. ♻️ chore: update .gitignore
 0583. ✅ test: increase coverage on auth module
+0661. ✅ test: add integration test for /submit endpoint
