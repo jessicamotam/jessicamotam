@@ -27840,3 +27840,4 @@
 0091. ✨ feat: add user authentication
 0681. ✨ feat: create admin dashboard
 0736. 🐛 fix: fix null pointer exception on login
+0911. ✅ test: increase coverage on auth module
