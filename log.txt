@@ -4869,3 +4869,4 @@
 0582. ✨ feat: add export to CSV option
 0585. 🚀 perf: lazy-load components
 0236. 🔧 refactor: remove redundant code blocks
+0898. 🐛 fix: fix broken CSS in mobile view
