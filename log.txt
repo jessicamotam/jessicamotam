@@ -90229,3 +90229,4 @@
 0050. ✨ feat: enable dark mode toggle
 0609. 🐛 fix: handle 500 error in quiz API
 0918. ✨ feat: enable dark mode toggle
+0092. 🚀 perf: reduce image load time
