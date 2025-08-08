@@ -74877,3 +74877,4 @@
 0281. ✨ feat: support email verification
 0529. 📚 docs: write FAQ section
 0431. 🎨 style: reformat files with black
+0642. 🚀 perf: optimize database query for quiz results
