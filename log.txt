@@ -31379,3 +31379,4 @@
 0815. 🔧 refactor: split large controller into smaller functions
 0996. ✅ test: test user registration edge cases
 0576. ♻️ chore: update .gitignore
+0029. 🚀 perf: lazy-load components
