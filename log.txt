@@ -6716,3 +6716,4 @@
 0773. 📚 docs: document token refresh logic
 0830. 🎨 style: apply consistent indentation
 0489. 🔧 refactor: organize models into subfolders
+0035. ✅ test: increase coverage on auth module
