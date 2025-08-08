@@ -24314,3 +24314,4 @@
 0569. 📚 docs: document token refresh logic
 0212. 🎨 style: standardize quote style
 0196. ♻️ chore: bump dependencies
+0372. ✨ feat: add user authentication
