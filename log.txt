@@ -20924,3 +20924,4 @@
 0599. ✅ test: test user registration edge cases
 0596. ♻️ chore: update .gitignore
 0992. ♻️ chore: clean up unused files
+0634. 🎨 style: reformat files with black
