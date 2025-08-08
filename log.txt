@@ -67629,3 +67629,4 @@
 0402. 🎨 style: reformat files with black
 0627. 📚 docs: document token refresh logic
 0218. 🔧 refactor: clean up auth middleware
+0356. 📚 docs: write FAQ section
