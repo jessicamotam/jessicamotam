@@ -28612,3 +28612,4 @@
 0189. 📚 docs: clarify environment setup
 0148. 🔧 refactor: organize models into subfolders
 0705. 🔧 refactor: refactor quiz grading logic
+0535. 📚 docs: write FAQ section
