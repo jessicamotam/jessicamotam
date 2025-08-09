@@ -45657,3 +45657,4 @@
 0417. 🎨 style: rename variables for clarity
 0989. 📚 docs: write FAQ section
 0818. 🔧 refactor: remove redundant code blocks
+0049. 🐛 fix: handle 500 error in quiz API
