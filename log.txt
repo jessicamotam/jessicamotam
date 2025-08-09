@@ -33098,3 +33098,4 @@
 0899. 🚀 perf: cache repeated calculations
 0967. ♻️ chore: add GitHub actions badge
 0172. 📚 docs: add API usage examples
+0564. 📚 docs: clarify environment setup
