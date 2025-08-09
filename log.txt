@@ -86468,3 +86468,4 @@
 0769. ✨ feat: create admin dashboard
 0765. ♻️ chore: clean up unused files
 0501. ✨ feat: add export to CSV option
+0618. ✨ feat: support email verification
