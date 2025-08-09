@@ -40332,3 +40332,4 @@
 0777. 📚 docs: document token refresh logic
 0177. 📚 docs: add API usage examples
 0728. 🔧 refactor: split large controller into smaller functions
+0522. 🐛 fix: handle 500 error in quiz API
