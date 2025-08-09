@@ -674,3 +674,4 @@
 0275. 🎨 style: standardize quote style
 0529. 📚 docs: write FAQ section
 0455. ♻️ chore: clean up unused files
+0477. 🐛 fix: fix broken CSS in mobile view
