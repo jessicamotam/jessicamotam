@@ -47536,3 +47536,4 @@
 0131. 📚 docs: write FAQ section
 0948. 🐛 fix: fix broken CSS in mobile view
 0929. ✨ feat: support email verification
+0759. 🔧 refactor: organize models into subfolders
