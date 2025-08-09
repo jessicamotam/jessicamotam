@@ -86200,3 +86200,4 @@
 0300. ✨ feat: add export to CSV option
 0824. 🚀 perf: lazy-load components
 0152. ✨ feat: add user authentication
+0828. ♻️ chore: add GitHub actions badge
