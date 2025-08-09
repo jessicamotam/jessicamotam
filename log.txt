@@ -5011,3 +5011,4 @@
 0435. ✅ test: add unit test for quiz service
 0097. 🐛 fix: handle 500 error in quiz API
 0952. 🔧 refactor: split large controller into smaller functions
+0192. ✨ feat: enable dark mode toggle
