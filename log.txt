@@ -46518,3 +46518,4 @@
 0023. 📚 docs: clarify environment setup
 0605. ✨ feat: support email verification
 0637. 🎨 style: apply consistent indentation
+0248. 🐛 fix: handle 500 error in quiz API
