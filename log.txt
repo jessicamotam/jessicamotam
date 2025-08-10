@@ -53572,3 +53572,4 @@
 0115. 🚀 perf: reduce image load time
 0318. 🔧 refactor: refactor quiz grading logic
 0443. 🎨 style: standardize quote style
+0531. 🐛 fix: prevent crash on empty input
