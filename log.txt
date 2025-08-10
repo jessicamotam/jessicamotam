@@ -239,3 +239,4 @@
 0177. 📚 docs: add API usage examples
 0529. 📚 docs: write FAQ section
 0622. 🎨 style: apply consistent indentation
+0337. 📚 docs: document token refresh logic
