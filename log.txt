@@ -12699,3 +12699,4 @@
 0561. 📚 docs: write FAQ section
 0811. 🎨 style: reformat files with black
 0425. 🔧 refactor: refactor quiz grading logic
+0677. 📚 docs: add API usage examples
