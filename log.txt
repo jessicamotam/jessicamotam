@@ -77279,3 +77279,4 @@
 0790. 📚 docs: write FAQ section
 0148. 🔧 refactor: organize models into subfolders
 0559. 🔧 refactor: split large controller into smaller functions
+0781. 🚀 perf: reduce image load time
