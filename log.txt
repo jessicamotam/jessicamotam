@@ -54772,3 +54772,4 @@
 0474. ✅ test: add unit test for quiz service
 0624. ✅ test: add unit test for quiz service
 0840. 🔧 refactor: refactor quiz grading logic
+0231. 🔧 refactor: clean up auth middleware
