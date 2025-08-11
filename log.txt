@@ -87710,3 +87710,4 @@
 0670. ✨ feat: add export to CSV option
 0923. ✨ feat: support email verification
 0972. 🔧 refactor: refactor quiz grading logic
+0978. 🐛 fix: prevent crash on empty input
