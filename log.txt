@@ -22477,3 +22477,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0273. 🚀 perf: reduce image load time
 0474. ✅ test: add unit test for quiz service
+0630. 🚀 perf: lazy-load components
