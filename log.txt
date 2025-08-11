@@ -9859,3 +9859,4 @@
 0284. ✨ feat: implement quiz timer feature
 0410. 🎨 style: reformat files with black
 0631. ✨ feat: create admin dashboard
+0433. 🐛 fix: prevent crash on empty input
