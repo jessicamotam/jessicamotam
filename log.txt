@@ -23921,3 +23921,4 @@
 0707. 🎨 style: apply consistent indentation
 0414. 🔧 refactor: remove redundant code blocks
 0985. 📚 docs: document token refresh logic
+0394. 🚀 perf: lazy-load components
