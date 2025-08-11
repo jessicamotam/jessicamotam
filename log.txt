@@ -30181,3 +30181,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0707. 🎨 style: apply consistent indentation
 0831. 📚 docs: clarify environment setup
+0473. 📚 docs: write FAQ section
