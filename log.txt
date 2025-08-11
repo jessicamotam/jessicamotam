@@ -36748,3 +36748,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0596. ♻️ chore: update .gitignore
 0658. 🎨 style: rename variables for clarity
+0594. 🎨 style: reformat files with black
