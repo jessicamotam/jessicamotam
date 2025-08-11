@@ -20380,3 +20380,4 @@
 0440. 📚 docs: update README with setup steps
 0009. ✨ feat: enable dark mode toggle
 0333. 🚀 perf: cache repeated calculations
+0584. 🚀 perf: lazy-load components
