@@ -73988,3 +73988,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0400. 🐛 fix: fix null pointer exception on login
 0798. 🚀 perf: reduce image load time
+0219. ✅ test: increase coverage on auth module
