@@ -37582,3 +37582,4 @@
 0579. 📚 docs: clarify environment setup
 0986. 📚 docs: document token refresh logic
 0924. ✅ test: mock database connection in test suite
+0675. 🔧 refactor: organize models into subfolders
