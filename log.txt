@@ -62040,3 +62040,4 @@
 0927. ♻️ chore: bump dependencies
 0686. 🎨 style: standardize quote style
 0857. 🎨 style: rename variables for clarity
+0277. 🎨 style: standardize quote style
