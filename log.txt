@@ -73218,3 +73218,4 @@
 0064. 📚 docs: clarify environment setup
 0794. ♻️ chore: clean up unused files
 0361. ✨ feat: support email verification
+0561. 📚 docs: write FAQ section
