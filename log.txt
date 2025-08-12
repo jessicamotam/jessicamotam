@@ -69860,3 +69860,4 @@
 0956. 📚 docs: clarify environment setup
 0373. 📚 docs: document token refresh logic
 0615. 🐛 fix: correct typo in registration form
+0451. ✨ feat: support email verification
