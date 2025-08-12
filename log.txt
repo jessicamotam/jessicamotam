@@ -45031,3 +45031,4 @@
 0291. 📚 docs: write FAQ section
 0793. 📚 docs: clarify environment setup
 0310. 🔧 refactor: refactor quiz grading logic
+0029. 🚀 perf: lazy-load components
