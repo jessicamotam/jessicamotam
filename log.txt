@@ -12916,3 +12916,4 @@
 0257. 📚 docs: clarify environment setup
 0984. ♻️ chore: clean up unused files
 0774. 🔧 refactor: refactor quiz grading logic
+0387. ✨ feat: enable dark mode toggle
