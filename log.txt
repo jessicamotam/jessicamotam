@@ -89959,3 +89959,4 @@
 0517. ✅ test: mock database connection in test suite
 0646. ✅ test: test user registration edge cases
 0420. 🚀 perf: reduce image load time
+0564. 📚 docs: clarify environment setup
