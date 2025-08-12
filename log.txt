@@ -28918,3 +28918,4 @@
 0857. 🎨 style: rename variables for clarity
 0984. ♻️ chore: clean up unused files
 0908. ♻️ chore: bump dependencies
+0844. 📚 docs: update README with setup steps
