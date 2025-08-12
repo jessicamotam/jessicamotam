@@ -25386,3 +25386,4 @@
 0942. ✅ test: increase coverage on auth module
 0460. 📚 docs: write FAQ section
 0219. ✅ test: increase coverage on auth module
+0384. 📚 docs: clarify environment setup
