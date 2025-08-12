@@ -1600,3 +1600,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0033. 🎨 style: apply consistent indentation
 0191. 🔧 refactor: refactor quiz grading logic
+0391. 🐛 fix: fix null pointer exception on login
