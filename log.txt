@@ -27193,3 +27193,4 @@
 0008. 🚀 perf: reduce image load time
 0325. 🎨 style: rename variables for clarity
 0809. ♻️ chore: rename env.example
+0129. 🔧 refactor: organize models into subfolders
