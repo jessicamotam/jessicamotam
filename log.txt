@@ -63704,3 +63704,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0547. 📚 docs: write FAQ section
 0992. ♻️ chore: clean up unused files
+0420. 🚀 perf: reduce image load time
