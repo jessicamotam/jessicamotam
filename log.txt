@@ -7532,3 +7532,4 @@
 0184. 📚 docs: improve code comments in utils
 0257. 📚 docs: clarify environment setup
 0834. ✅ test: increase coverage on auth module
+0950. 🎨 style: reformat files with black
