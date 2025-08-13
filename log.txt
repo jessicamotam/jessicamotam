@@ -7745,3 +7745,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0247. 🎨 style: apply consistent indentation
 0574. ✨ feat: enable dark mode toggle
+0589. 🐛 fix: fix broken CSS in mobile view
