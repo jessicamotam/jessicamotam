@@ -23678,3 +23678,4 @@
 0109. 🚀 perf: lazy-load components
 0141. 📚 docs: document token refresh logic
 0736. 🐛 fix: fix null pointer exception on login
+0741. 🎨 style: apply consistent indentation
