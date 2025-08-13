@@ -6328,3 +6328,4 @@
 0198. 📚 docs: clarify environment setup
 0053. ✅ test: increase coverage on auth module
 0826. 📚 docs: clarify environment setup
+0875. ✅ test: increase coverage on auth module
