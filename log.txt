@@ -90498,3 +90498,4 @@
 0251. ♻️ chore: update .gitignore
 0469. 🚀 perf: lazy-load components
 0979. 🎨 style: standardize quote style
+0450. 🐛 fix: fix broken CSS in mobile view
