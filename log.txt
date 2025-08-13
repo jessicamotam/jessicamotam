@@ -7174,3 +7174,4 @@
 0438. ♻️ chore: bump dependencies
 0234. ♻️ chore: rename env.example
 0072. 🚀 perf: optimize database query for quiz results
+0785. ✨ feat: enable dark mode toggle
