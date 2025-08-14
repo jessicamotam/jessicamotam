@@ -17983,3 +17983,4 @@
 0777. 📚 docs: document token refresh logic
 0804. ♻️ chore: add GitHub actions badge
 0909. 🔧 refactor: organize models into subfolders
+0736. 🐛 fix: fix null pointer exception on login
