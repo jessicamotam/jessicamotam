@@ -87673,3 +87673,4 @@
 0808. 🚀 perf: optimize database query for quiz results
 0494. 🎨 style: rename variables for clarity
 0373. 📚 docs: document token refresh logic
+0122. ✨ feat: support email verification
