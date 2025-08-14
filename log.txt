@@ -77577,3 +77577,4 @@
 0253. 📚 docs: update README with setup steps
 0578. ✅ test: add integration test for /submit endpoint
 0169. 📚 docs: add API usage examples
+0294. 🐛 fix: prevent crash on empty input
