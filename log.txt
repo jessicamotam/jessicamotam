@@ -82918,3 +82918,4 @@
 0612. ✅ test: test user registration edge cases
 0901. ✨ feat: add user authentication
 0319. 🐛 fix: handle 500 error in quiz API
+0064. 📚 docs: clarify environment setup
