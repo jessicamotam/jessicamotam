@@ -28067,3 +28067,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0934. ✨ feat: support email verification
 0117. ✅ test: increase coverage on auth module
+0152. ✨ feat: add user authentication
