@@ -57201,3 +57201,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0750. 🎨 style: apply consistent indentation
 0402. 🎨 style: reformat files with black
+0709. ♻️ chore: bump dependencies
