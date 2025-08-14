@@ -47858,3 +47858,4 @@
 0410. 🎨 style: reformat files with black
 0424. ✨ feat: add user authentication
 0688. 🚀 perf: reduce image load time
+0107. 🐛 fix: prevent crash on empty input
