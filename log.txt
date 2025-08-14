@@ -8382,3 +8382,4 @@
 0979. 🎨 style: standardize quote style
 0091. ✨ feat: add user authentication
 0594. 🎨 style: reformat files with black
+0970. ♻️ chore: update .gitignore
