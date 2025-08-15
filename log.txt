@@ -37046,3 +37046,4 @@
 0869. ♻️ chore: bump dependencies
 0878. 🔧 refactor: split large controller into smaller functions
 0698. 🐛 fix: handle 500 error in quiz API
+0513. ♻️ chore: bump dependencies
