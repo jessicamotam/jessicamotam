@@ -57981,3 +57981,4 @@
 0986. 📚 docs: document token refresh logic
 0269. ✅ test: test user registration edge cases
 0128. ♻️ chore: rename env.example
+0948. 🐛 fix: fix broken CSS in mobile view
