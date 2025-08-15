@@ -36114,3 +36114,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0221. ✨ feat: add user authentication
 0324. 📚 docs: document token refresh logic
+0594. 🎨 style: reformat files with black
