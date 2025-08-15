@@ -5356,3 +5356,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0282. 🔧 refactor: remove redundant code blocks
 0223. 🔧 refactor: remove redundant code blocks
+0135. ✅ test: test user registration edge cases
