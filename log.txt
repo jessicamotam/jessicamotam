@@ -43686,3 +43686,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0802. 🔧 refactor: remove redundant code blocks
 0772. 🐛 fix: fix null pointer exception on login
+0361. ✨ feat: support email verification
