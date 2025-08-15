@@ -59888,3 +59888,4 @@
 0862. ♻️ chore: bump dependencies
 0904. ✨ feat: implement quiz timer feature
 0268. 🐛 fix: prevent crash on empty input
+0218. 🔧 refactor: clean up auth middleware
