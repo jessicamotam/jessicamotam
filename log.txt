@@ -26170,3 +26170,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0864. 🐛 fix: correct typo in registration form
 0797. 📚 docs: add API usage examples
+0324. 📚 docs: document token refresh logic
