@@ -23507,3 +23507,4 @@
 0384. 📚 docs: clarify environment setup
 0008. 🚀 perf: reduce image load time
 0763. 🔧 refactor: organize models into subfolders
+0795. 📚 docs: update README with setup steps
