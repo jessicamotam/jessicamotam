@@ -2,7 +2,7 @@
 
 ### Constante aprendiz apaixonada por análise, gestão e organização dos dados!
 
-Sou uma graduanda de Estatística, formada em Biblioteconomia, mergulhando no mundo da programação, análise e ciência dos dados. 😊
+Sou uma graduanda de Estatística, formada em Biblioteconomia, mergulhando no mundo da programação, análise e ciênci dos dados. 😊
 
 
 
